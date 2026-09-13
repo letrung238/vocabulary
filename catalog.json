@@ -1,0 +1,17 @@
+{
+  "title": "Bộ từ VocabLite",
+  "files": [
+    {
+      "title": "Bộ chính — 1002 từ",
+      "description": "600 từ thông dụng + 400 từ công việc/IT. 149 từ có nghĩa phụ.",
+      "url": "seed_words.json",
+      "count": 1002
+    },
+    {
+      "title": "IT chuyên sâu — 151 từ",
+      "description": "Hệ phân tán, database, bảo mật, đồng thời, DevOps, observability. Không trùng bộ chính.",
+      "url": "it_advanced.json",
+      "count": 151
+    }
+  ]
+}
