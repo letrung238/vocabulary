@@ -1,0 +1,4664 @@
+[
+  {
+    "word": "academy",
+    "ipa": "/əˈkæd.ə.mi/",
+    "pos": "noun",
+    "meaningVi": "học viện",
+    "example": "She was admitted to a naval academy at eighteen.",
+    "exampleVi": "Cô được nhận vào một học viện hải quân năm mười tám tuổi.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "B2",
+    "family": [
+      "academic",
+      "academically"
+    ]
+  },
+  {
+    "word": "access",
+    "ipa": "/ˈæk.ses/",
+    "pos": "noun",
+    "meaningVi": "quyền vào, lối tiếp cận",
+    "example": "Rural schools still lack access to reliable electricity.",
+    "exampleVi": "Trường học ở nông thôn vẫn thiếu lối tiếp cận nguồn điện ổn định.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "B1",
+    "family": [
+      "accessible",
+      "accessibility"
+    ]
+  },
+  {
+    "word": "accumulate",
+    "ipa": "/əˈkjuː.mjʊ.leɪt/",
+    "pos": "verb",
+    "meaningVi": "tích luỹ dần",
+    "example": "Evidence accumulated over three decades of field research.",
+    "exampleVi": "Bằng chứng tích luỹ dần qua ba thập kỷ nghiên cứu thực địa.",
+    "tags": [
+      "awl"
+    ],
+    "level": "C1",
+    "synonyms": [
+      "amass",
+      "build up"
+    ],
+    "family": [
+      "accumulation"
+    ]
+  },
+  {
+    "word": "achieve",
+    "ipa": "/əˈtʃiːv/",
+    "pos": "verb",
+    "meaningVi": "đạt được sau nỗ lực",
+    "example": "Few countries achieved the targets set out in the treaty.",
+    "exampleVi": "Rất ít quốc gia đạt được các mục tiêu nêu trong hiệp ước.",
+    "tags": [
+      "awl"
+    ],
+    "level": "B1",
+    "synonyms": [
+      "attain",
+      "accomplish"
+    ],
+    "family": [
+      "achievement"
+    ]
+  },
+  {
+    "word": "administrate",
+    "ipa": "/ədˈmɪn.ɪ.streɪt/",
+    "pos": "verb",
+    "meaningVi": "quản trị, điều hành bộ máy",
+    "example": "A single agency administrates all public housing in the city.",
+    "exampleVi": "Một cơ quan duy nhất quản trị toàn bộ nhà ở công tại thành phố.",
+    "tags": [
+      "awl",
+      "work"
+    ],
+    "level": "C1",
+    "family": [
+      "administration",
+      "administrative"
+    ]
+  },
+  {
+    "word": "adult",
+    "ipa": "/ˈæd.ʌlt/",
+    "pos": "noun",
+    "meaningVi": "người trưởng thành",
+    "example": "The course is designed for adults returning to education.",
+    "exampleVi": "Khoá học được thiết kế cho người trưởng thành quay lại việc học.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "A2",
+    "family": [
+      "adulthood"
+    ]
+  },
+  {
+    "word": "affect",
+    "ipa": "/əˈfekt/",
+    "pos": "verb",
+    "meaningVi": "tác động tới",
+    "example": "Rising sea levels affect coastal communities first.",
+    "exampleVi": "Mực nước biển dâng tác động tới các cộng đồng ven biển trước tiên.",
+    "tags": [
+      "awl",
+      "environment"
+    ],
+    "level": "B1",
+    "synonyms": [
+      "influence",
+      "impact"
+    ]
+  },
+  {
+    "word": "aid",
+    "ipa": "/eɪd/",
+    "pos": "noun",
+    "meaningVi": "viện trợ",
+    "example": "International aid arrived within a week of the earthquake.",
+    "exampleVi": "Viện trợ quốc tế tới nơi trong vòng một tuần sau trận động đất.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "B1",
+    "synonyms": [
+      "assistance",
+      "relief"
+    ]
+  },
+  {
+    "word": "albeit",
+    "ipa": "/ɔːlˈbiː.ɪt/",
+    "pos": "conjunction",
+    "meaningVi": "mặc dù là vậy",
+    "example": "The policy worked, albeit at considerable public expense.",
+    "exampleVi": "Chính sách có hiệu quả, mặc dù là vậy vẫn tốn kém ngân sách công đáng kể.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "C1",
+    "synonyms": [
+      "although"
+    ]
+  },
+  {
+    "word": "alter",
+    "ipa": "/ˈɒl.tər/",
+    "pos": "verb",
+    "meaningVi": "làm thay đổi đi",
+    "example": "The new evidence altered the way historians read the treaty.",
+    "exampleVi": "Bằng chứng mới làm thay đổi đi cách các nhà sử học đọc hiệp ước.",
+    "tags": [
+      "awl"
+    ],
+    "level": "B2",
+    "synonyms": [
+      "modify",
+      "adjust"
+    ],
+    "family": [
+      "alteration"
+    ]
+  },
+  {
+    "word": "amend",
+    "ipa": "/əˈmend/",
+    "pos": "verb",
+    "meaningVi": "sửa đổi văn bản",
+    "example": "Parliament amended the law to close the loophole.",
+    "exampleVi": "Quốc hội sửa đổi văn bản luật để bịt kẽ hở.",
+    "tags": [
+      "awl",
+      "law"
+    ],
+    "level": "C1",
+    "family": [
+      "amendment"
+    ]
+  },
+  {
+    "word": "analogy",
+    "ipa": "/əˈnæl.ə.dʒi/",
+    "pos": "noun",
+    "meaningVi": "phép so sánh tương tự",
+    "example": "He drew an analogy between the brain and a telephone exchange.",
+    "exampleVi": "Ông đưa ra phép so sánh tương tự giữa bộ não và một tổng đài điện thoại.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "C1",
+    "family": [
+      "analogous"
+    ]
+  },
+  {
+    "word": "annual",
+    "ipa": "/ˈæn.ju.əl/",
+    "pos": "adjective",
+    "meaningVi": "hằng năm",
+    "example": "The annual report is published every March.",
+    "exampleVi": "Báo cáo hằng năm được công bố vào tháng Ba.",
+    "tags": [
+      "awl",
+      "work"
+    ],
+    "level": "B1",
+    "family": [
+      "annually"
+    ]
+  },
+  {
+    "word": "append",
+    "ipa": "/əˈpend/",
+    "pos": "verb",
+    "meaningVi": "gắn thêm vào cuối",
+    "example": "The author appended a full list of sources to the essay.",
+    "exampleVi": "Tác giả gắn thêm vào cuối bài luận một danh mục nguồn đầy đủ.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "C1",
+    "family": [
+      "appendix"
+    ]
+  },
+  {
+    "word": "approximate",
+    "ipa": "/əˈprɒk.sɪ.mət/",
+    "pos": "adjective",
+    "meaningVi": "gần đúng",
+    "example": "These are approximate figures based on a small sample.",
+    "exampleVi": "Đây là những con số gần đúng dựa trên một mẫu nhỏ.",
+    "tags": [
+      "awl",
+      "task1"
+    ],
+    "level": "B2",
+    "family": [
+      "approximately",
+      "approximation"
+    ]
+  },
+  {
+    "word": "area",
+    "ipa": "/ˈeə.ri.ə/",
+    "pos": "noun",
+    "meaningVi": "lĩnh vực, khu vực",
+    "example": "This area of research has attracted little funding.",
+    "exampleVi": "Lĩnh vực nghiên cứu này thu hút rất ít kinh phí.",
+    "tags": [
+      "awl"
+    ],
+    "level": "A2",
+    "synonyms": [
+      "field",
+      "zone"
+    ]
+  },
+  {
+    "word": "aspect",
+    "ipa": "/ˈæs.pekt/",
+    "pos": "noun",
+    "meaningVi": "khía cạnh",
+    "example": "The report examines every aspect of the proposal.",
+    "exampleVi": "Báo cáo xem xét mọi khía cạnh của đề xuất.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B2",
+    "synonyms": [
+      "facet",
+      "dimension"
+    ]
+  },
+  {
+    "word": "assemble",
+    "ipa": "/əˈsem.bəl/",
+    "pos": "verb",
+    "meaningVi": "tập hợp lại thành một khối",
+    "example": "The committee assembled experts from six universities.",
+    "exampleVi": "Ban chuyên trách tập hợp lại thành một khối các chuyên gia từ sáu trường đại học.",
+    "tags": [
+      "awl"
+    ],
+    "level": "B2",
+    "synonyms": [
+      "gather",
+      "convene"
+    ],
+    "family": [
+      "assembly"
+    ]
+  },
+  {
+    "word": "assess",
+    "ipa": "/əˈses/",
+    "pos": "verb",
+    "meaningVi": "thẩm định, lượng giá",
+    "example": "Examiners assess candidates on four separate criteria.",
+    "exampleVi": "Giám khảo thẩm định thí sinh theo bốn tiêu chí riêng biệt.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "B2",
+    "family": [
+      "assessment"
+    ]
+  },
+  {
+    "word": "assign",
+    "ipa": "/əˈsaɪn/",
+    "pos": "verb",
+    "meaningVi": "giao việc cho ai",
+    "example": "Each student is assigned a supervisor in the first week.",
+    "exampleVi": "Mỗi sinh viên được giao việc cho một người hướng dẫn ngay tuần đầu.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "B2",
+    "family": [
+      "assignment"
+    ]
+  },
+  {
+    "word": "attribute",
+    "ipa": "/ˈæt.rə.bjut/",
+    "pos": "verb",
+    "meaningVi": "quy cho là do",
+    "example": "Researchers attribute the decline to habitat loss.",
+    "exampleVi": "Các nhà nghiên cứu quy cho sự suy giảm là do mất môi trường sống.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "C1",
+    "family": [
+      "attribution"
+    ]
+  },
+  {
+    "word": "author",
+    "ipa": "/ˈɔː.θər/",
+    "pos": "noun",
+    "meaningVi": "tác giả",
+    "example": "The author cites more than two hundred studies.",
+    "exampleVi": "Tác giả trích dẫn hơn hai trăm công trình nghiên cứu.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B1",
+    "family": [
+      "authorship"
+    ]
+  },
+  {
+    "word": "automate",
+    "ipa": "/ˈɔː.tə.meɪt/",
+    "pos": "verb",
+    "meaningVi": "tự động hoá",
+    "example": "Banks have automated most routine transactions.",
+    "exampleVi": "Các ngân hàng đã tự động hoá phần lớn giao dịch thường nhật.",
+    "tags": [
+      "awl",
+      "technology"
+    ],
+    "level": "B2",
+    "family": [
+      "automation",
+      "automatic"
+    ]
+  },
+  {
+    "word": "available",
+    "ipa": "/əˈveɪ.lə.bəl/",
+    "pos": "adjective",
+    "meaningVi": "sẵn có để dùng",
+    "example": "Full data are available on the ministry website.",
+    "exampleVi": "Dữ liệu đầy đủ sẵn có để dùng trên trang của bộ.",
+    "tags": [
+      "awl"
+    ],
+    "level": "A2",
+    "family": [
+      "availability"
+    ]
+  },
+  {
+    "word": "behalf",
+    "ipa": "/bɪˈhɑːf/",
+    "pos": "noun",
+    "meaningVi": "danh nghĩa thay mặt",
+    "example": "She accepted the prize on behalf of the whole team.",
+    "exampleVi": "Cô nhận giải với danh nghĩa thay mặt cả nhóm.",
+    "tags": [
+      "awl",
+      "work"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "bond",
+    "ipa": "/bɒnd/",
+    "pos": "noun",
+    "meaningVi": "mối ràng buộc",
+    "example": "Migration weakens the bond between generations.",
+    "exampleVi": "Di cư làm suy yếu mối ràng buộc giữa các thế hệ.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "B2",
+    "synonyms": [
+      "tie",
+      "attachment"
+    ]
+  },
+  {
+    "word": "bulk",
+    "ipa": "/bʌlk/",
+    "pos": "noun",
+    "meaningVi": "phần lớn khối lượng",
+    "example": "The bulk of the budget goes to teacher salaries.",
+    "exampleVi": "Phần lớn khối lượng ngân sách dành cho lương giáo viên.",
+    "tags": [
+      "awl",
+      "task1"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "category",
+    "ipa": "/ˈkæt.ɪ.ɡə.ri/",
+    "pos": "noun",
+    "meaningVi": "hạng mục phân loại",
+    "example": "Responses fell into three broad categories.",
+    "exampleVi": "Các câu trả lời rơi vào ba hạng mục phân loại lớn.",
+    "tags": [
+      "awl",
+      "task1"
+    ],
+    "level": "B1",
+    "family": [
+      "categorise",
+      "categorical"
+    ]
+  },
+  {
+    "word": "channel",
+    "ipa": "/ˈtʃæn.əl/",
+    "pos": "noun",
+    "meaningVi": "kênh dẫn, đường dẫn",
+    "example": "Social media has become the main channel for political debate.",
+    "exampleVi": "Mạng xã hội đã thành kênh dẫn chính cho tranh luận chính trị.",
+    "tags": [
+      "awl",
+      "media"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "chapter",
+    "ipa": "/ˈtʃæp.tər/",
+    "pos": "noun",
+    "meaningVi": "chương sách",
+    "example": "The opening chapter sets out the theoretical framework.",
+    "exampleVi": "Chương sách mở đầu trình bày khung lý thuyết.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "A2"
+  },
+  {
+    "word": "chart",
+    "ipa": "/tʃɑːt/",
+    "pos": "noun",
+    "meaningVi": "biểu đồ",
+    "example": "The chart compares energy use in four countries.",
+    "exampleVi": "Biểu đồ so sánh mức dùng năng lượng ở bốn quốc gia.",
+    "tags": [
+      "awl",
+      "task1"
+    ],
+    "level": "B1",
+    "synonyms": [
+      "graph",
+      "diagram"
+    ]
+  },
+  {
+    "word": "chemical",
+    "ipa": "/ˈkem.ɪ.kəl/",
+    "pos": "noun",
+    "meaningVi": "hoá chất",
+    "example": "Farmers use fewer chemicals than they did a decade ago.",
+    "exampleVi": "Nông dân dùng ít hoá chất hơn so với một thập kỷ trước.",
+    "tags": [
+      "awl",
+      "environment"
+    ],
+    "level": "B1",
+    "family": [
+      "chemistry",
+      "chemically"
+    ]
+  },
+  {
+    "word": "classic",
+    "ipa": "/ˈklæs.ɪk/",
+    "pos": "adjective",
+    "meaningVi": "kinh điển, mẫu mực",
+    "example": "This is a classic example of market failure.",
+    "exampleVi": "Đây là một ví dụ kinh điển về thất bại thị trường.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B2",
+    "family": [
+      "classical"
+    ]
+  },
+  {
+    "word": "code",
+    "ipa": "/kəʊd/",
+    "pos": "noun",
+    "meaningVi": "bộ quy tắc",
+    "example": "Every profession has its own code of conduct.",
+    "exampleVi": "Mỗi nghề đều có bộ quy tắc ứng xử riêng.",
+    "tags": [
+      "awl",
+      "work"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "commence",
+    "ipa": "/kəˈmens/",
+    "pos": "verb",
+    "meaningVi": "khởi sự, bắt đầu tiến hành",
+    "example": "Construction commenced two years behind schedule.",
+    "exampleVi": "Việc xây dựng khởi sự chậm hai năm so với kế hoạch.",
+    "tags": [
+      "awl",
+      "work"
+    ],
+    "level": "C1",
+    "synonyms": [
+      "begin",
+      "initiate"
+    ],
+    "family": [
+      "commencement"
+    ]
+  },
+  {
+    "word": "commission",
+    "ipa": "/kəˈmɪʃ.ən/",
+    "pos": "noun",
+    "meaningVi": "uỷ ban được lập ra",
+    "example": "A royal commission investigated the collapse.",
+    "exampleVi": "Một uỷ ban được lập ra theo lệnh hoàng gia đã điều tra vụ sụp đổ.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "communicate",
+    "ipa": "/kəˈmjuː.nɪ.keɪt/",
+    "pos": "verb",
+    "meaningVi": "truyền đạt thông tin",
+    "example": "Scientists must communicate risk without causing panic.",
+    "exampleVi": "Nhà khoa học phải truyền đạt thông tin về rủi ro mà không gây hoảng loạn.",
+    "tags": [
+      "awl",
+      "media"
+    ],
+    "level": "B1",
+    "family": [
+      "communication"
+    ]
+  },
+  {
+    "word": "compatible",
+    "ipa": "/kəmˈpæt.ə.bəl/",
+    "pos": "adjective",
+    "meaningVi": "tương thích được với nhau",
+    "example": "Economic growth is not always compatible with conservation.",
+    "exampleVi": "Tăng trưởng kinh tế không phải lúc nào cũng tương thích được với bảo tồn.",
+    "tags": [
+      "awl",
+      "environment"
+    ],
+    "level": "B2",
+    "family": [
+      "compatibility"
+    ]
+  },
+  {
+    "word": "complement",
+    "ipa": "/ˈkɒm.plɪ.mənt/",
+    "pos": "verb",
+    "meaningVi": "bổ trợ cho nhau",
+    "example": "Online lessons complement rather than replace classroom teaching.",
+    "exampleVi": "Bài học trực tuyến bổ trợ cho nhau với việc dạy trên lớp chứ không thay thế.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "C1",
+    "family": [
+      "complementary"
+    ]
+  },
+  {
+    "word": "component",
+    "ipa": "/kəmˈpəʊ.nənt/",
+    "pos": "noun",
+    "meaningVi": "thành phần cấu thành",
+    "example": "Listening is the component most candidates find hardest.",
+    "exampleVi": "Nghe là thành phần cấu thành mà đa số thí sinh thấy khó nhất.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "B2",
+    "synonyms": [
+      "element",
+      "part"
+    ]
+  },
+  {
+    "word": "compute",
+    "ipa": "/kəmˈpjuːt/",
+    "pos": "verb",
+    "meaningVi": "tính toán ra kết quả",
+    "example": "The model computes risk from thirty separate variables.",
+    "exampleVi": "Mô hình tính toán ra kết quả rủi ro từ ba mươi biến số riêng biệt.",
+    "tags": [
+      "awl",
+      "technology"
+    ],
+    "level": "B2",
+    "family": [
+      "computation"
+    ]
+  },
+  {
+    "word": "concept",
+    "ipa": "/ˈkɒn.sept/",
+    "pos": "noun",
+    "meaningVi": "khái niệm",
+    "example": "The concept of privacy differs sharply between cultures.",
+    "exampleVi": "Khái niệm riêng tư khác nhau rõ rệt giữa các nền văn hoá.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B2",
+    "family": [
+      "conceptual"
+    ]
+  },
+  {
+    "word": "concurrent",
+    "ipa": "/kənˈkʌr.ənt/",
+    "pos": "adjective",
+    "meaningVi": "diễn ra đồng thời",
+    "example": "Two concurrent trials produced contradictory results.",
+    "exampleVi": "Hai thử nghiệm diễn ra đồng thời cho kết quả trái ngược nhau.",
+    "tags": [
+      "awl"
+    ],
+    "level": "C1",
+    "family": [
+      "concurrently"
+    ]
+  },
+  {
+    "word": "conduct",
+    "ipa": "/kənˈdʌkt/",
+    "pos": "verb",
+    "meaningVi": "tiến hành một hoạt động",
+    "example": "The team conducted interviews in twelve villages.",
+    "exampleVi": "Nhóm tiến hành một hoạt động phỏng vấn tại mười hai ngôi làng.",
+    "tags": [
+      "awl"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "confer",
+    "ipa": "/kənˈfɜːr/",
+    "pos": "verb",
+    "meaningVi": "trao cho một quyền lợi",
+    "example": "A degree confers no automatic right to employment.",
+    "exampleVi": "Tấm bằng không trao cho một quyền lợi việc làm nào một cách mặc nhiên.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "consequent",
+    "ipa": "/ˈkɒn.sɪ.kwənt/",
+    "pos": "adjective",
+    "meaningVi": "xảy ra như hệ quả",
+    "example": "Deforestation and the consequent soil erosion are well documented.",
+    "exampleVi": "Phá rừng và xói mòn đất xảy ra như hệ quả đã được ghi nhận đầy đủ.",
+    "tags": [
+      "awl",
+      "environment"
+    ],
+    "level": "C1",
+    "family": [
+      "consequence",
+      "consequently"
+    ]
+  },
+  {
+    "word": "constrain",
+    "ipa": "/kənˈstreɪn/",
+    "pos": "verb",
+    "meaningVi": "bó buộc, hạn chế phạm vi",
+    "example": "Limited funding constrains what small schools can offer.",
+    "exampleVi": "Kinh phí hạn hẹp bó buộc những gì trường nhỏ có thể cung cấp.",
+    "tags": [
+      "awl"
+    ],
+    "level": "C1",
+    "family": [
+      "constraint"
+    ]
+  },
+  {
+    "word": "construct",
+    "ipa": "/kənˈstrʌkt/",
+    "pos": "verb",
+    "meaningVi": "dựng nên, kiến tạo",
+    "example": "The essay constructs an argument from three case studies.",
+    "exampleVi": "Bài luận dựng nên một lập luận từ ba nghiên cứu trường hợp.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B2",
+    "family": [
+      "construction"
+    ]
+  },
+  {
+    "word": "context",
+    "ipa": "/ˈkɒn.tekst/",
+    "pos": "noun",
+    "meaningVi": "bối cảnh xung quanh",
+    "example": "The figure means little outside its historical context.",
+    "exampleVi": "Con số đó ít ý nghĩa nếu tách khỏi bối cảnh xung quanh về lịch sử.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B2",
+    "family": [
+      "contextual"
+    ]
+  },
+  {
+    "word": "contradict",
+    "ipa": "/ˌkɒn.trəˈdɪkt/",
+    "pos": "verb",
+    "meaningVi": "mâu thuẫn với, nói ngược lại",
+    "example": "The latest findings contradict the earlier survey.",
+    "exampleVi": "Kết quả mới nhất mâu thuẫn với khảo sát trước đó.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "C1",
+    "family": [
+      "contradiction",
+      "contradictory"
+    ]
+  },
+  {
+    "word": "contrary",
+    "ipa": "/ˈkɒn.trə.ri/",
+    "pos": "adjective",
+    "meaningVi": "trái ngược hẳn",
+    "example": "Contrary to expectation, attendance rose during the strike.",
+    "exampleVi": "Trái ngược hẳn với dự đoán, số người tham dự tăng trong thời gian đình công.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "convene",
+    "ipa": "/kənˈviːn/",
+    "pos": "verb",
+    "meaningVi": "triệu tập một cuộc họp",
+    "example": "The board convenes twice a year to review spending.",
+    "exampleVi": "Hội đồng triệu tập một cuộc họp hai lần mỗi năm để rà soát chi tiêu.",
+    "tags": [
+      "awl",
+      "work"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "converse",
+    "ipa": "/ˈkɒn.vɜːs/",
+    "pos": "noun",
+    "meaningVi": "điều ngược lại của mệnh đề",
+    "example": "The converse is also true in poorer regions.",
+    "exampleVi": "Điều ngược lại của mệnh đề cũng đúng ở những vùng nghèo hơn.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "C1",
+    "family": [
+      "conversely"
+    ]
+  },
+  {
+    "word": "convert",
+    "ipa": "/kənˈvɜːt/",
+    "pos": "verb",
+    "meaningVi": "chuyển đổi sang dạng khác",
+    "example": "The mill was converted into student accommodation.",
+    "exampleVi": "Nhà máy được chuyển đổi sang dạng khác là ký túc xá sinh viên.",
+    "tags": [
+      "awl"
+    ],
+    "level": "B2",
+    "family": [
+      "conversion"
+    ]
+  },
+  {
+    "word": "cooperate",
+    "ipa": "/kəʊˈɒp.ə.reɪt/",
+    "pos": "verb",
+    "meaningVi": "hợp tác cùng làm",
+    "example": "Neighbouring states cooperate on flood management.",
+    "exampleVi": "Các bang lân cận hợp tác cùng làm công tác quản lý lũ.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "B2",
+    "family": [
+      "cooperation",
+      "cooperative"
+    ]
+  },
+  {
+    "word": "coordinate",
+    "ipa": "/kəʊˈɔː.də.neɪt/",
+    "pos": "verb",
+    "meaningVi": "điều phối cho ăn khớp",
+    "example": "One office coordinates relief work across the province.",
+    "exampleVi": "Một văn phòng điều phối cho ăn khớp công tác cứu trợ toàn tỉnh.",
+    "tags": [
+      "awl",
+      "work"
+    ],
+    "level": "B2",
+    "family": [
+      "coordination"
+    ]
+  },
+  {
+    "word": "core",
+    "ipa": "/kɔːr/",
+    "pos": "noun",
+    "meaningVi": "phần cốt lõi",
+    "example": "Critical thinking lies at the core of the curriculum.",
+    "exampleVi": "Tư duy phản biện nằm ở phần cốt lõi của chương trình học.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "corporate",
+    "ipa": "/ˈkɔː.pə.rət/",
+    "pos": "adjective",
+    "meaningVi": "thuộc về tập đoàn",
+    "example": "Corporate donations now fund a third of the research.",
+    "exampleVi": "Các khoản tài trợ thuộc về tập đoàn hiện chi trả một phần ba công trình nghiên cứu.",
+    "tags": [
+      "awl",
+      "work"
+    ],
+    "level": "B2",
+    "family": [
+      "corporation"
+    ]
+  },
+  {
+    "word": "couple",
+    "ipa": "/ˈkʌp.əl/",
+    "pos": "verb",
+    "meaningVi": "ghép đôi, đi kèm với",
+    "example": "Poor housing coupled with low pay drives migration.",
+    "exampleVi": "Nhà ở tồi tàn đi kèm với lương thấp thúc đẩy di cư.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "create",
+    "ipa": "/kriˈeɪt/",
+    "pos": "verb",
+    "meaningVi": "tạo ra cái mới",
+    "example": "The scheme created six thousand jobs in two years.",
+    "exampleVi": "Đề án tạo ra cái mới là sáu nghìn việc làm trong hai năm.",
+    "tags": [
+      "awl"
+    ],
+    "level": "A2",
+    "family": [
+      "creation",
+      "creative"
+    ]
+  },
+  {
+    "word": "credit",
+    "ipa": "/ˈkred.ɪt/",
+    "pos": "noun",
+    "meaningVi": "tín dụng",
+    "example": "Small farmers rarely qualify for bank credit.",
+    "exampleVi": "Nông dân nhỏ lẻ hiếm khi đủ điều kiện vay tín dụng ngân hàng.",
+    "tags": [
+      "awl",
+      "economy"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "criteria",
+    "ipa": "/kraɪˈtɪə.ri.ə/",
+    "pos": "noun",
+    "meaningVi": "các tiêu chí",
+    "example": "Applicants are ranked against five published criteria.",
+    "exampleVi": "Ứng viên được xếp hạng theo năm tiêu chí đã công bố.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "B2",
+    "family": [
+      "criterion"
+    ]
+  },
+  {
+    "word": "culture",
+    "ipa": "/ˈkʌl.tʃər/",
+    "pos": "noun",
+    "meaningVi": "nền văn hoá",
+    "example": "Language shapes the culture that produces it.",
+    "exampleVi": "Ngôn ngữ định hình nền văn hoá đã sinh ra nó.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "B1",
+    "family": [
+      "cultural",
+      "culturally"
+    ]
+  },
+  {
+    "word": "currency",
+    "ipa": "/ˈkʌr.ən.si/",
+    "pos": "noun",
+    "meaningVi": "đồng tiền lưu hành",
+    "example": "A weak currency makes imported medicine unaffordable.",
+    "exampleVi": "Đồng tiền lưu hành yếu khiến thuốc nhập khẩu trở nên quá đắt.",
+    "tags": [
+      "awl",
+      "economy"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "cycle",
+    "ipa": "/ˈsaɪ.kəl/",
+    "pos": "noun",
+    "meaningVi": "chu kỳ lặp lại",
+    "example": "Poverty and poor health reinforce each other in a cycle.",
+    "exampleVi": "Nghèo đói và sức khoẻ kém củng cố lẫn nhau trong một chu kỳ lặp lại.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "B1",
+    "family": [
+      "cyclical"
+    ]
+  },
+  {
+    "word": "data",
+    "ipa": "/ˈdeɪ.tə/",
+    "pos": "noun",
+    "meaningVi": "dữ liệu",
+    "example": "The data suggest a link between sleep and memory.",
+    "exampleVi": "Dữ liệu gợi ý một mối liên hệ giữa giấc ngủ và trí nhớ.",
+    "tags": [
+      "awl",
+      "task1"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "decade",
+    "ipa": "/ˈdek.eɪd/",
+    "pos": "noun",
+    "meaningVi": "thập kỷ",
+    "example": "Literacy rose by twenty points over the decade.",
+    "exampleVi": "Tỷ lệ biết chữ tăng hai mươi điểm trong thập kỷ đó.",
+    "tags": [
+      "awl",
+      "task1"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "deduce",
+    "ipa": "/dɪˈdjuːs/",
+    "pos": "verb",
+    "meaningVi": "suy ra bằng lập luận",
+    "example": "From these fragments we can deduce the original layout.",
+    "exampleVi": "Từ những mảnh vỡ này ta có thể suy ra bằng lập luận bố cục ban đầu.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "C1",
+    "family": [
+      "deduction"
+    ]
+  },
+  {
+    "word": "define",
+    "ipa": "/dɪˈfaɪn/",
+    "pos": "verb",
+    "meaningVi": "định nghĩa rõ ràng",
+    "example": "The paper never defines what it means by success.",
+    "exampleVi": "Bài báo không hề định nghĩa rõ ràng thành công nghĩa là gì.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B1",
+    "family": [
+      "definition"
+    ]
+  },
+  {
+    "word": "depress",
+    "ipa": "/dɪˈpres/",
+    "pos": "verb",
+    "meaningVi": "làm suy giảm xuống",
+    "example": "Cheap imports depressed local wages for years.",
+    "exampleVi": "Hàng nhập khẩu giá rẻ làm suy giảm xuống mức lương địa phương trong nhiều năm.",
+    "tags": [
+      "awl",
+      "economy"
+    ],
+    "level": "C1",
+    "family": [
+      "depression"
+    ]
+  },
+  {
+    "word": "design",
+    "ipa": "/dɪˈzaɪn/",
+    "pos": "noun",
+    "meaningVi": "thiết kế, cách bố trí",
+    "example": "The design of the study excluded older participants.",
+    "exampleVi": "Thiết kế của nghiên cứu đã loại trừ người tham gia lớn tuổi.",
+    "tags": [
+      "awl"
+    ],
+    "level": "A2"
+  },
+  {
+    "word": "device",
+    "ipa": "/dɪˈvaɪs/",
+    "pos": "noun",
+    "meaningVi": "thiết bị",
+    "example": "Most students own at least two connected devices.",
+    "exampleVi": "Phần lớn sinh viên sở hữu ít nhất hai thiết bị có kết nối.",
+    "tags": [
+      "awl",
+      "technology"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "differentiate",
+    "ipa": "/ˌdɪf.əˈren.ʃi.eɪt/",
+    "pos": "verb",
+    "meaningVi": "phân biệt cái này với cái kia",
+    "example": "Readers must differentiate opinion from reported fact.",
+    "exampleVi": "Người đọc phải phân biệt cái này với cái kia là ý kiến và sự kiện được thuật lại.",
+    "tags": [
+      "awl",
+      "media"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "dimension",
+    "ipa": "/daɪˈmen.ʃən/",
+    "pos": "noun",
+    "meaningVi": "chiều, mặt của vấn đề",
+    "example": "Poverty has a psychological dimension as well as a financial one.",
+    "exampleVi": "Nghèo đói có một chiều tâm lý bên cạnh mặt tài chính.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "discrete",
+    "ipa": "/dɪˈskriːt/",
+    "pos": "adjective",
+    "meaningVi": "rời rạc, tách bạch từng đơn vị",
+    "example": "The process breaks into four discrete stages.",
+    "exampleVi": "Quá trình tách thành bốn giai đoạn rời rạc từng đơn vị.",
+    "tags": [
+      "awl"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "discriminate",
+    "ipa": "/dɪˈskrɪm.ɪ.neɪt/",
+    "pos": "verb",
+    "meaningVi": "đối xử phân biệt",
+    "example": "Employers may not discriminate on grounds of age.",
+    "exampleVi": "Người sử dụng lao động không được đối xử phân biệt vì lý do tuổi tác.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "B2",
+    "family": [
+      "discrimination"
+    ]
+  },
+  {
+    "word": "displace",
+    "ipa": "/dɪˈspleɪs/",
+    "pos": "verb",
+    "meaningVi": "đẩy ra khỏi chỗ cũ",
+    "example": "The dam displaced forty villages along the valley.",
+    "exampleVi": "Con đập đẩy ra khỏi chỗ cũ bốn mươi ngôi làng dọc thung lũng.",
+    "tags": [
+      "awl",
+      "environment"
+    ],
+    "level": "C1",
+    "family": [
+      "displacement"
+    ]
+  },
+  {
+    "word": "dispose",
+    "ipa": "/dɪˈspəʊz/",
+    "pos": "verb",
+    "meaningVi": "thải bỏ, vứt đi",
+    "example": "Households must dispose of batteries separately.",
+    "exampleVi": "Hộ gia đình phải thải bỏ pin riêng ra.",
+    "tags": [
+      "awl",
+      "environment"
+    ],
+    "level": "B2",
+    "family": [
+      "disposal"
+    ]
+  },
+  {
+    "word": "distinct",
+    "ipa": "/dɪˈstɪŋkt/",
+    "pos": "adjective",
+    "meaningVi": "tách biệt rõ, khác hẳn",
+    "example": "Three distinct dialects survive in the region.",
+    "exampleVi": "Ba phương ngữ tách biệt rõ vẫn còn tồn tại trong vùng.",
+    "tags": [
+      "awl"
+    ],
+    "level": "B2",
+    "family": [
+      "distinction",
+      "distinctly"
+    ]
+  },
+  {
+    "word": "distort",
+    "ipa": "/dɪˈstɔːt/",
+    "pos": "verb",
+    "meaningVi": "bóp méo đi",
+    "example": "Averages distort the picture when incomes are unequal.",
+    "exampleVi": "Số trung bình bóp méo đi bức tranh khi thu nhập chênh lệch.",
+    "tags": [
+      "awl",
+      "task1"
+    ],
+    "level": "C1",
+    "family": [
+      "distortion"
+    ]
+  },
+  {
+    "word": "document",
+    "ipa": "/ˈdɒk.jə.ment/",
+    "pos": "verb",
+    "meaningVi": "ghi chép lại có chứng cứ",
+    "example": "The team documented every stage of the excavation.",
+    "exampleVi": "Nhóm ghi chép lại có chứng cứ từng giai đoạn khai quật.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B2",
+    "family": [
+      "documentation"
+    ]
+  },
+  {
+    "word": "domain",
+    "ipa": "/dəˈmeɪn/",
+    "pos": "noun",
+    "meaningVi": "phạm vi chuyên môn",
+    "example": "Ethics was long considered the domain of philosophers.",
+    "exampleVi": "Đạo đức học từ lâu được coi là phạm vi chuyên môn của các nhà triết học.",
+    "tags": [
+      "awl"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "domestic",
+    "ipa": "/dəˈmes.tɪk/",
+    "pos": "adjective",
+    "meaningVi": "trong nước, nội địa",
+    "example": "Domestic demand recovered faster than exports.",
+    "exampleVi": "Nhu cầu trong nước phục hồi nhanh hơn xuất khẩu.",
+    "tags": [
+      "awl",
+      "economy"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "drama",
+    "ipa": "/ˈdrɑː.mə/",
+    "pos": "noun",
+    "meaningVi": "kịch, nghệ thuật sân khấu",
+    "example": "Drama is taught alongside music in primary schools.",
+    "exampleVi": "Kịch được dạy song song với âm nhạc ở bậc tiểu học.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "B1",
+    "family": [
+      "dramatic"
+    ]
+  },
+  {
+    "word": "duration",
+    "ipa": "/djɔːˈreɪ.ʃən/",
+    "pos": "noun",
+    "meaningVi": "khoảng thời gian kéo dài",
+    "example": "The duration of the course was cut from three years to two.",
+    "exampleVi": "Khoảng thời gian kéo dài của khoá học bị rút từ ba năm xuống hai năm.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "dynamic",
+    "ipa": "/daɪˈnæm.ɪk/",
+    "pos": "adjective",
+    "meaningVi": "luôn biến động",
+    "example": "Cities are dynamic systems that never settle.",
+    "exampleVi": "Đô thị là những hệ thống luôn biến động, không bao giờ ổn định hẳn.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "economy",
+    "ipa": "/ɪˈkɒn.ə.mi/",
+    "pos": "noun",
+    "meaningVi": "nền kinh tế",
+    "example": "The economy depends heavily on a single export.",
+    "exampleVi": "Nền kinh tế phụ thuộc nặng nề vào một mặt hàng xuất khẩu duy nhất.",
+    "tags": [
+      "awl",
+      "economy"
+    ],
+    "level": "B1",
+    "family": [
+      "economic",
+      "economical"
+    ]
+  },
+  {
+    "word": "edit",
+    "ipa": "/ˈed.ɪt/",
+    "pos": "verb",
+    "meaningVi": "biên tập, chỉnh sửa bản thảo",
+    "example": "She edited the volume with two colleagues.",
+    "exampleVi": "Bà biên tập tuyển tập này cùng hai đồng nghiệp.",
+    "tags": [
+      "awl",
+      "media"
+    ],
+    "level": "B1",
+    "family": [
+      "editor",
+      "edition"
+    ]
+  },
+  {
+    "word": "element",
+    "ipa": "/ˈel.ɪ.mənt/",
+    "pos": "noun",
+    "meaningVi": "yếu tố cấu thành",
+    "example": "Trust is the missing element in the proposal.",
+    "exampleVi": "Niềm tin là yếu tố cấu thành còn thiếu trong đề xuất.",
+    "tags": [
+      "awl"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "emphasis",
+    "ipa": "/ˈem.fə.sɪs/",
+    "pos": "noun",
+    "meaningVi": "trọng tâm được nhấn mạnh",
+    "example": "Recent policy places emphasis on prevention.",
+    "exampleVi": "Chính sách gần đây đặt trọng tâm được nhấn mạnh vào phòng ngừa.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B2",
+    "family": [
+      "emphasise",
+      "emphatic"
+    ]
+  },
+  {
+    "word": "energy",
+    "ipa": "/ˈen.ə.dʒi/",
+    "pos": "noun",
+    "meaningVi": "năng lượng",
+    "example": "Wind now supplies a quarter of the country's energy.",
+    "exampleVi": "Điện gió hiện cung cấp một phần tư năng lượng của cả nước.",
+    "tags": [
+      "awl",
+      "environment"
+    ],
+    "level": "A2"
+  },
+  {
+    "word": "enforce",
+    "ipa": "/enˈfɔːs/",
+    "pos": "verb",
+    "meaningVi": "thi hành, cưỡng chế thực hiện",
+    "example": "The rules exist but are rarely enforced.",
+    "exampleVi": "Quy định thì có nhưng hiếm khi được thi hành.",
+    "tags": [
+      "awl",
+      "law"
+    ],
+    "level": "B2",
+    "family": [
+      "enforcement"
+    ]
+  },
+  {
+    "word": "entity",
+    "ipa": "/ˈen.tɪ.ti/",
+    "pos": "noun",
+    "meaningVi": "thực thể riêng biệt",
+    "example": "The university is a legal entity separate from the state.",
+    "exampleVi": "Trường đại học là một thực thể riêng biệt về pháp lý, tách khỏi nhà nước.",
+    "tags": [
+      "awl",
+      "law"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "environment",
+    "ipa": "/enˈvaɪ.rən.mənt/",
+    "pos": "noun",
+    "meaningVi": "môi trường sống",
+    "example": "Industrial waste damages the marine environment.",
+    "exampleVi": "Chất thải công nghiệp gây hại cho môi trường sống biển.",
+    "tags": [
+      "awl",
+      "environment"
+    ],
+    "level": "B1",
+    "family": [
+      "environmental"
+    ]
+  },
+  {
+    "word": "equate",
+    "ipa": "/ɪˈkweɪt/",
+    "pos": "verb",
+    "meaningVi": "đánh đồng hai thứ",
+    "example": "We should not equate wealth with wellbeing.",
+    "exampleVi": "Ta không nên đánh đồng hai thứ là của cải và hạnh phúc.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "equipment",
+    "ipa": "/ɪˈkwɪp.mənt/",
+    "pos": "noun",
+    "meaningVi": "trang thiết bị",
+    "example": "Laboratory equipment absorbs most of the department budget.",
+    "exampleVi": "Trang thiết bị phòng thí nghiệm ngốn phần lớn ngân sách của khoa.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "error",
+    "ipa": "/ˈer.ər/",
+    "pos": "noun",
+    "meaningVi": "sai sót",
+    "example": "A single error in the sample invalidated the whole study.",
+    "exampleVi": "Một sai sót duy nhất trong mẫu đã làm hỏng giá trị của cả nghiên cứu.",
+    "tags": [
+      "awl"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "estate",
+    "ipa": "/ɪˈsteɪt/",
+    "pos": "noun",
+    "meaningVi": "khu bất động sản",
+    "example": "The housing estate was built on former farmland.",
+    "exampleVi": "Khu bất động sản nhà ở được xây trên đất nông nghiệp cũ.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "ethic",
+    "ipa": "/ˈeθ.ɪk/",
+    "pos": "noun",
+    "meaningVi": "chuẩn mực đạo đức nghề",
+    "example": "A strong work ethic is valued more than talent here.",
+    "exampleVi": "Chuẩn mực đạo đức nghề vững vàng ở đây được coi trọng hơn tài năng.",
+    "tags": [
+      "awl",
+      "work"
+    ],
+    "level": "C1",
+    "family": [
+      "ethical",
+      "ethics"
+    ]
+  },
+  {
+    "word": "ethnic",
+    "ipa": "/ˈeθ.nɪk/",
+    "pos": "adjective",
+    "meaningVi": "thuộc về sắc tộc",
+    "example": "The census records more than fifty ethnic groups.",
+    "exampleVi": "Cuộc tổng điều tra ghi nhận hơn năm mươi nhóm thuộc về sắc tộc.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "B2",
+    "family": [
+      "ethnicity"
+    ]
+  },
+  {
+    "word": "eventual",
+    "ipa": "/ɪˈven.tʃu.əl/",
+    "pos": "adjective",
+    "meaningVi": "cuối cùng cũng xảy ra",
+    "example": "The eventual outcome surprised even the organisers.",
+    "exampleVi": "Kết quả cuối cùng cũng xảy ra khiến ngay cả ban tổ chức bất ngờ.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "C1",
+    "family": [
+      "eventually"
+    ]
+  },
+  {
+    "word": "evident",
+    "ipa": "/ˈev.ɪ.dənt/",
+    "pos": "adjective",
+    "meaningVi": "thấy rõ ràng",
+    "example": "The benefit is evident in every region studied.",
+    "exampleVi": "Lợi ích thấy rõ ràng ở mọi khu vực được nghiên cứu.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B2",
+    "family": [
+      "evidently",
+      "evidence"
+    ]
+  },
+  {
+    "word": "evolve",
+    "ipa": "/ɪˈvɒlv/",
+    "pos": "verb",
+    "meaningVi": "tiến hoá dần dần",
+    "example": "The festival evolved from a small village fair.",
+    "exampleVi": "Lễ hội tiến hoá dần dần từ một hội chợ làng nhỏ.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "B2",
+    "family": [
+      "evolution"
+    ]
+  },
+  {
+    "word": "expert",
+    "ipa": "/ˈek.spɜːt/",
+    "pos": "noun",
+    "meaningVi": "chuyên gia",
+    "example": "Experts disagree about how fast the ice is melting.",
+    "exampleVi": "Các chuyên gia bất đồng về tốc độ tan chảy của băng.",
+    "tags": [
+      "awl"
+    ],
+    "level": "B1",
+    "family": [
+      "expertise"
+    ]
+  },
+  {
+    "word": "export",
+    "ipa": "/ˈek.spɔːt/",
+    "pos": "noun",
+    "meaningVi": "hàng xuất khẩu",
+    "example": "Coffee remains the country's largest export.",
+    "exampleVi": "Cà phê vẫn là hàng xuất khẩu lớn nhất của nước này.",
+    "tags": [
+      "awl",
+      "economy"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "expose",
+    "ipa": "/ɪkˈspəʊz/",
+    "pos": "verb",
+    "meaningVi": "phơi bày ra, để lộ trước",
+    "example": "Children exposed to lead show slower development.",
+    "exampleVi": "Trẻ em bị phơi bày ra trước chì có tốc độ phát triển chậm hơn.",
+    "tags": [
+      "awl",
+      "health"
+    ],
+    "level": "B2",
+    "family": [
+      "exposure"
+    ]
+  },
+  {
+    "word": "external",
+    "ipa": "/ɪkˈstɜː.nəl/",
+    "pos": "adjective",
+    "meaningVi": "từ bên ngoài",
+    "example": "An external examiner reviews every dissertation.",
+    "exampleVi": "Một giám khảo từ bên ngoài rà soát mọi luận văn.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "B2",
+    "family": [
+      "externally"
+    ]
+  },
+  {
+    "word": "factor",
+    "ipa": "/ˈfæk.tər/",
+    "pos": "noun",
+    "meaningVi": "nhân tố ảnh hưởng",
+    "example": "Cost is the decisive factor for most families.",
+    "exampleVi": "Chi phí là nhân tố ảnh hưởng mang tính quyết định với phần lớn gia đình.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "feature",
+    "ipa": "/ˈfiː.tʃər/",
+    "pos": "noun",
+    "meaningVi": "đặc điểm nổi bật",
+    "example": "A striking feature of the graph is its sudden peak.",
+    "exampleVi": "Một đặc điểm nổi bật của đồ thị là đỉnh nhọn đột ngột.",
+    "tags": [
+      "awl",
+      "task1"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "federal",
+    "ipa": "/ˈfed.ə.rəl/",
+    "pos": "adjective",
+    "meaningVi": "thuộc chính quyền liên bang",
+    "example": "Federal funding covers half the programme.",
+    "exampleVi": "Ngân sách thuộc chính quyền liên bang chi trả một nửa chương trình.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "fee",
+    "ipa": "/fiː/",
+    "pos": "noun",
+    "meaningVi": "khoản phí phải trả",
+    "example": "Tuition fees have tripled since the reform.",
+    "exampleVi": "Khoản phí phải trả cho học phí đã tăng gấp ba kể từ cuộc cải cách.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "file",
+    "ipa": "/faɪl/",
+    "pos": "noun",
+    "meaningVi": "hồ sơ, tệp lưu trữ",
+    "example": "Patient files are kept for thirty years.",
+    "exampleVi": "Hồ sơ bệnh nhân được lưu giữ trong ba mươi năm.",
+    "tags": [
+      "awl",
+      "work"
+    ],
+    "level": "A2"
+  },
+  {
+    "word": "final",
+    "ipa": "/ˈfaɪ.nəl/",
+    "pos": "adjective",
+    "meaningVi": "cuối cùng trong chuỗi",
+    "example": "The final section summarises the argument.",
+    "exampleVi": "Phần cuối cùng trong chuỗi tóm tắt lại lập luận.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "A2",
+    "family": [
+      "finally",
+      "finalise"
+    ]
+  },
+  {
+    "word": "finance",
+    "ipa": "/ˈfaɪ.næns/",
+    "pos": "noun",
+    "meaningVi": "tài chính",
+    "example": "Public finance is stretched by an ageing population.",
+    "exampleVi": "Tài chính công bị căng ra vì dân số già hoá.",
+    "tags": [
+      "awl",
+      "economy"
+    ],
+    "level": "B1",
+    "family": [
+      "financial"
+    ]
+  },
+  {
+    "word": "finite",
+    "ipa": "/ˈfaɪ.naɪt/",
+    "pos": "adjective",
+    "meaningVi": "hữu hạn, có giới hạn",
+    "example": "Fossil fuels are a finite resource.",
+    "exampleVi": "Nhiên liệu hoá thạch là nguồn tài nguyên hữu hạn.",
+    "tags": [
+      "awl",
+      "environment"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "focus",
+    "ipa": "/ˈfəʊ.kəs/",
+    "pos": "verb",
+    "meaningVi": "tập trung sự chú ý vào",
+    "example": "The study focuses on children under five.",
+    "exampleVi": "Nghiên cứu tập trung sự chú ý vào trẻ dưới năm tuổi.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "format",
+    "ipa": "/ˈfɔː.mæt/",
+    "pos": "noun",
+    "meaningVi": "định dạng trình bày",
+    "example": "The exam format changed in 2019.",
+    "exampleVi": "Định dạng trình bày của kỳ thi thay đổi năm 2019.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "forthcoming",
+    "ipa": "/ˈfɔːθ.kʌ.mɪŋ/",
+    "pos": "adjective",
+    "meaningVi": "sắp tới, sắp ra mắt",
+    "example": "Her forthcoming book challenges the standard account.",
+    "exampleVi": "Cuốn sách sắp ra mắt của bà thách thức cách hiểu chuẩn mực.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "foundation",
+    "ipa": "/faʊnˈdeɪ.ʃən/",
+    "pos": "noun",
+    "meaningVi": "nền móng, cơ sở ban đầu",
+    "example": "Primary school lays the foundation for later learning.",
+    "exampleVi": "Tiểu học đặt nền móng cho việc học về sau.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "founded",
+    "ipa": "/ˈfaʊn.dɪd/",
+    "pos": "adjective",
+    "meaningVi": "được đặt cơ sở trên",
+    "example": "His claim is founded on a single unpublished survey.",
+    "exampleVi": "Khẳng định của ông được đặt cơ sở trên một khảo sát chưa công bố duy nhất.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "function",
+    "ipa": "/ˈfʌŋk.ʃən/",
+    "pos": "noun",
+    "meaningVi": "chức năng",
+    "example": "The main function of the body is to advise ministers.",
+    "exampleVi": "Chức năng chính của cơ quan này là tư vấn cho các bộ trưởng.",
+    "tags": [
+      "awl"
+    ],
+    "level": "B1",
+    "family": [
+      "functional"
+    ]
+  },
+  {
+    "word": "fund",
+    "ipa": "/fʌnd/",
+    "pos": "verb",
+    "meaningVi": "cấp kinh phí cho",
+    "example": "The government funds three quarters of medical research.",
+    "exampleVi": "Chính phủ cấp kinh phí cho ba phần tư nghiên cứu y học.",
+    "tags": [
+      "awl",
+      "economy"
+    ],
+    "level": "B2",
+    "family": [
+      "funding"
+    ]
+  },
+  {
+    "word": "furthermore",
+    "ipa": "/ˌfɜː.ðəˈmɔːr/",
+    "pos": "adverb",
+    "meaningVi": "hơn nữa là",
+    "example": "Furthermore, the sample excluded rural households entirely.",
+    "exampleVi": "Hơn nữa là mẫu khảo sát đã loại trừ hoàn toàn hộ gia đình nông thôn.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B2",
+    "synonyms": [
+      "moreover",
+      "in addition"
+    ]
+  },
+  {
+    "word": "gender",
+    "ipa": "/ˈdʒen.dər/",
+    "pos": "noun",
+    "meaningVi": "giới tính xã hội",
+    "example": "The pay gap between genders narrowed only slightly.",
+    "exampleVi": "Khoảng cách lương giữa các giới tính xã hội chỉ thu hẹp chút ít.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "generation",
+    "ipa": "/ˌdʒen.əˈreɪ.ʃən/",
+    "pos": "noun",
+    "meaningVi": "thế hệ",
+    "example": "This generation will work longer than its parents did.",
+    "exampleVi": "Thế hệ này sẽ làm việc lâu hơn thế hệ cha mẹ họ.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "globe",
+    "ipa": "/ɡləʊb/",
+    "pos": "noun",
+    "meaningVi": "toàn cầu, quả địa cầu",
+    "example": "The disease spread across the globe in four months.",
+    "exampleVi": "Dịch bệnh lan ra toàn cầu chỉ trong bốn tháng.",
+    "tags": [
+      "awl",
+      "health"
+    ],
+    "level": "B2",
+    "family": [
+      "global",
+      "globalisation"
+    ]
+  },
+  {
+    "word": "goal",
+    "ipa": "/ɡəʊl/",
+    "pos": "noun",
+    "meaningVi": "mục tiêu hướng tới",
+    "example": "The stated goal is to halve emissions by 2035.",
+    "exampleVi": "Mục tiêu hướng tới được nêu ra là giảm một nửa khí thải vào năm 2035.",
+    "tags": [
+      "awl",
+      "environment"
+    ],
+    "level": "A2"
+  },
+  {
+    "word": "grade",
+    "ipa": "/ɡreɪd/",
+    "pos": "noun",
+    "meaningVi": "điểm xếp loại",
+    "example": "Grades alone reveal little about a student's progress.",
+    "exampleVi": "Điểm xếp loại đơn thuần cho biết rất ít về tiến bộ của học sinh.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "A2"
+  },
+  {
+    "word": "grant",
+    "ipa": "/ɡrɑːnt/",
+    "pos": "noun",
+    "meaningVi": "khoản tài trợ có điều kiện",
+    "example": "She won a research grant of forty thousand pounds.",
+    "exampleVi": "Bà giành được khoản tài trợ có điều kiện cho nghiên cứu trị giá bốn mươi nghìn bảng.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "hence",
+    "ipa": "/hens/",
+    "pos": "adverb",
+    "meaningVi": "do đó mà",
+    "example": "Demand fell; hence the decision to close two plants.",
+    "exampleVi": "Nhu cầu giảm, do đó mà có quyết định đóng cửa hai nhà máy.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "C1",
+    "synonyms": [
+      "therefore",
+      "thus"
+    ]
+  },
+  {
+    "word": "highlight",
+    "ipa": "/ˈhaɪ.laɪt/",
+    "pos": "verb",
+    "meaningVi": "làm nổi bật lên",
+    "example": "The report highlights failures in the inspection system.",
+    "exampleVi": "Báo cáo làm nổi bật lên những thất bại trong hệ thống thanh tra.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "identical",
+    "ipa": "/aɪˈden.tɪ.kəl/",
+    "pos": "adjective",
+    "meaningVi": "giống hệt nhau",
+    "example": "The two graphs are almost identical in shape.",
+    "exampleVi": "Hai đồ thị gần như giống hệt nhau về hình dáng.",
+    "tags": [
+      "awl",
+      "task1"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "ideology",
+    "ipa": "/ˌaɪ.diˈɒl.ə.dʒi/",
+    "pos": "noun",
+    "meaningVi": "hệ tư tưởng",
+    "example": "Education policy shifted with each new ideology.",
+    "exampleVi": "Chính sách giáo dục thay đổi theo từng hệ tư tưởng mới.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "C1",
+    "family": [
+      "ideological"
+    ]
+  },
+  {
+    "word": "ignorant",
+    "ipa": "/ˈɪɡ.nə.rənt/",
+    "pos": "adjective",
+    "meaningVi": "thiếu hiểu biết về",
+    "example": "Many voters remain ignorant of how the system works.",
+    "exampleVi": "Nhiều cử tri vẫn thiếu hiểu biết về cách vận hành của hệ thống.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "C1",
+    "family": [
+      "ignorance"
+    ]
+  },
+  {
+    "word": "image",
+    "ipa": "/ˈɪm.ɪdʒ/",
+    "pos": "noun",
+    "meaningVi": "hình ảnh, hình tượng",
+    "example": "Satellite images revealed the extent of the flooding.",
+    "exampleVi": "Hình ảnh vệ tinh cho thấy mức độ ngập lụt.",
+    "tags": [
+      "awl",
+      "media"
+    ],
+    "level": "A2"
+  },
+  {
+    "word": "immigrate",
+    "ipa": "/ˈɪm.ɪ.ɡreɪt/",
+    "pos": "verb",
+    "meaningVi": "nhập cư vào một nước",
+    "example": "Her grandparents immigrated in the nineteen fifties.",
+    "exampleVi": "Ông bà của bà nhập cư vào một nước khác hồi những năm năm mươi.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "B2",
+    "family": [
+      "immigration",
+      "immigrant"
+    ]
+  },
+  {
+    "word": "implicate",
+    "ipa": "/ˈɪm.plɪ.keɪt/",
+    "pos": "verb",
+    "meaningVi": "cho thấy có liên đới",
+    "example": "The study implicates air pollution in childhood asthma.",
+    "exampleVi": "Nghiên cứu cho thấy có liên đới giữa ô nhiễm không khí và hen suyễn ở trẻ.",
+    "tags": [
+      "awl",
+      "health"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "implicit",
+    "ipa": "/ɪmˈplɪs.ɪt/",
+    "pos": "adjective",
+    "meaningVi": "ngầm hiểu, không nói ra",
+    "example": "There is an implicit assumption that growth is always good.",
+    "exampleVi": "Có một giả định ngầm hiểu rằng tăng trưởng luôn là điều tốt.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "C1",
+    "family": [
+      "implicitly"
+    ]
+  },
+  {
+    "word": "incidence",
+    "ipa": "/ˈɪn.sɪ.dəns/",
+    "pos": "noun",
+    "meaningVi": "tỷ lệ xuất hiện của hiện tượng",
+    "example": "The incidence of diabetes doubled in twenty years.",
+    "exampleVi": "Tỷ lệ xuất hiện của hiện tượng tiểu đường tăng gấp đôi trong hai mươi năm.",
+    "tags": [
+      "awl",
+      "health"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "incline",
+    "ipa": "/ˈɪn.klaɪn/",
+    "pos": "verb",
+    "meaningVi": "nghiêng về hướng nào",
+    "example": "Younger voters incline towards the smaller parties.",
+    "exampleVi": "Cử tri trẻ nghiêng về hướng các đảng nhỏ.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "C1",
+    "family": [
+      "inclined",
+      "inclination"
+    ]
+  },
+  {
+    "word": "income",
+    "ipa": "/ˈɪn.kʌm/",
+    "pos": "noun",
+    "meaningVi": "thu nhập",
+    "example": "Household income barely kept pace with inflation.",
+    "exampleVi": "Thu nhập hộ gia đình hầu như không theo kịp lạm phát.",
+    "tags": [
+      "awl",
+      "economy"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "individual",
+    "ipa": "/ˌɪn.dɪˈvɪdʒ.u.əl/",
+    "pos": "noun",
+    "meaningVi": "cá nhân",
+    "example": "Policy must balance the individual against the community.",
+    "exampleVi": "Chính sách phải cân bằng giữa cá nhân và cộng đồng.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "B1",
+    "family": [
+      "individually"
+    ]
+  },
+  {
+    "word": "infer",
+    "ipa": "/ɪnˈfɜːr/",
+    "pos": "verb",
+    "meaningVi": "suy đoán ra từ dấu hiệu",
+    "example": "We can infer motive only from what people actually do.",
+    "exampleVi": "Ta chỉ có thể suy đoán ra từ dấu hiệu là hành động thật của người ta.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "C1",
+    "family": [
+      "inference"
+    ]
+  },
+  {
+    "word": "infrastructure",
+    "ipa": "/ˈɪn.frə.strʌk.tʃər/",
+    "pos": "noun",
+    "meaningVi": "hạ tầng cơ sở",
+    "example": "Transport infrastructure has not kept up with the population.",
+    "exampleVi": "Hạ tầng cơ sở giao thông không theo kịp dân số.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "initiate",
+    "ipa": "/ɪˈnɪʃ.i.eɪt/",
+    "pos": "verb",
+    "meaningVi": "khởi xướng một việc",
+    "example": "The council initiated a review of all school closures.",
+    "exampleVi": "Hội đồng khởi xướng một việc rà soát toàn bộ các trường bị đóng cửa.",
+    "tags": [
+      "awl",
+      "work"
+    ],
+    "level": "C1",
+    "family": [
+      "initiative",
+      "initiation"
+    ]
+  },
+  {
+    "word": "innovate",
+    "ipa": "/ˈɪn.ə.veɪt/",
+    "pos": "verb",
+    "meaningVi": "đổi mới sáng tạo",
+    "example": "Firms that fail to innovate lose market share quickly.",
+    "exampleVi": "Doanh nghiệp không đổi mới sáng tạo mất thị phần rất nhanh.",
+    "tags": [
+      "awl",
+      "technology"
+    ],
+    "level": "B2",
+    "family": [
+      "innovation",
+      "innovative"
+    ]
+  },
+  {
+    "word": "input",
+    "ipa": "/ˈɪn.pʊt/",
+    "pos": "noun",
+    "meaningVi": "đầu vào, phần đóng góp",
+    "example": "Teachers had no input into the new syllabus.",
+    "exampleVi": "Giáo viên không có phần đóng góp nào vào chương trình mới.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "insert",
+    "ipa": "/ɪnˈsɜːt/",
+    "pos": "verb",
+    "meaningVi": "chèn vào giữa",
+    "example": "A clause was inserted to protect existing tenants.",
+    "exampleVi": "Một điều khoản được chèn vào giữa để bảo vệ người thuê hiện hữu.",
+    "tags": [
+      "awl",
+      "law"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "inspect",
+    "ipa": "/ɪnˈspekt/",
+    "pos": "verb",
+    "meaningVi": "thanh tra, xem xét kỹ",
+    "example": "Officials inspect every restaurant twice a year.",
+    "exampleVi": "Cán bộ thanh tra mọi nhà hàng hai lần mỗi năm.",
+    "tags": [
+      "awl",
+      "work"
+    ],
+    "level": "B2",
+    "family": [
+      "inspection",
+      "inspector"
+    ]
+  },
+  {
+    "word": "institute",
+    "ipa": "/ˈɪn.stɪ.tjuːt/",
+    "pos": "noun",
+    "meaningVi": "viện nghiên cứu",
+    "example": "The institute publishes an annual index of press freedom.",
+    "exampleVi": "Viện nghiên cứu công bố chỉ số tự do báo chí hằng năm.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "B2",
+    "family": [
+      "institution",
+      "institutional"
+    ]
+  },
+  {
+    "word": "instruct",
+    "ipa": "/ɪnˈstrʌkt/",
+    "pos": "verb",
+    "meaningVi": "chỉ dẫn, hướng dẫn làm",
+    "example": "Staff were instructed to record every complaint.",
+    "exampleVi": "Nhân viên được chỉ dẫn ghi lại mọi khiếu nại.",
+    "tags": [
+      "awl",
+      "work"
+    ],
+    "level": "B2",
+    "family": [
+      "instruction",
+      "instructor"
+    ]
+  },
+  {
+    "word": "integrity",
+    "ipa": "/ɪnˈteɡ.rɪ.ti/",
+    "pos": "noun",
+    "meaningVi": "sự liêm chính",
+    "example": "Public trust depends on the integrity of the courts.",
+    "exampleVi": "Niềm tin của công chúng phụ thuộc vào sự liêm chính của toà án.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "intelligent",
+    "ipa": "/ɪnˈtel.ɪ.dʒənt/",
+    "pos": "adjective",
+    "meaningVi": "thông minh",
+    "example": "No machine is intelligent in the way a child is.",
+    "exampleVi": "Không cỗ máy nào thông minh theo cách một đứa trẻ thông minh.",
+    "tags": [
+      "awl",
+      "technology"
+    ],
+    "level": "B1",
+    "family": [
+      "intelligence"
+    ]
+  },
+  {
+    "word": "interact",
+    "ipa": "/ˌɪn.təˈrækt/",
+    "pos": "verb",
+    "meaningVi": "tương tác qua lại",
+    "example": "Students interact more freely in smaller groups.",
+    "exampleVi": "Sinh viên tương tác qua lại thoải mái hơn trong nhóm nhỏ.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "B2",
+    "family": [
+      "interaction"
+    ]
+  },
+  {
+    "word": "intermediate",
+    "ipa": "/ˌɪn.təˈmiː.di.ət/",
+    "pos": "adjective",
+    "meaningVi": "ở mức trung gian",
+    "example": "The course suits learners at an intermediate level.",
+    "exampleVi": "Khoá học phù hợp với người học ở mức trung gian.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "internal",
+    "ipa": "/ɪnˈtɜː.nəl/",
+    "pos": "adjective",
+    "meaningVi": "nội bộ bên trong",
+    "example": "An internal review found no evidence of fraud.",
+    "exampleVi": "Một cuộc rà soát nội bộ bên trong không tìm thấy bằng chứng gian lận.",
+    "tags": [
+      "awl",
+      "work"
+    ],
+    "level": "B2",
+    "family": [
+      "internally"
+    ]
+  },
+  {
+    "word": "invest",
+    "ipa": "/ɪnˈvest/",
+    "pos": "verb",
+    "meaningVi": "đầu tư nguồn lực",
+    "example": "Countries that invest in early education see lasting gains.",
+    "exampleVi": "Các nước đầu tư nguồn lực vào giáo dục sớm thu được lợi ích lâu dài.",
+    "tags": [
+      "awl",
+      "economy"
+    ],
+    "level": "B1",
+    "family": [
+      "investment",
+      "investor"
+    ]
+  },
+  {
+    "word": "investigate",
+    "ipa": "/ɪnˈves.tɪ.ɡeɪt/",
+    "pos": "verb",
+    "meaningVi": "điều tra làm rõ",
+    "example": "Journalists investigated the contract for eighteen months.",
+    "exampleVi": "Nhà báo điều tra làm rõ hợp đồng này suốt mười tám tháng.",
+    "tags": [
+      "awl",
+      "media"
+    ],
+    "level": "B2",
+    "family": [
+      "investigation"
+    ]
+  },
+  {
+    "word": "issue",
+    "ipa": "/ˈɪʃ.uː/",
+    "pos": "noun",
+    "meaningVi": "vấn đề đang tranh luận",
+    "example": "Housing is the issue voters mention most often.",
+    "exampleVi": "Nhà ở là vấn đề đang tranh luận mà cử tri nhắc tới nhiều nhất.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "item",
+    "ipa": "/ˈaɪ.təm/",
+    "pos": "noun",
+    "meaningVi": "khoản mục, món",
+    "example": "Each item on the questionnaire was tested beforehand.",
+    "exampleVi": "Mỗi khoản mục trong bảng hỏi đều được thử nghiệm trước.",
+    "tags": [
+      "awl"
+    ],
+    "level": "A2"
+  },
+  {
+    "word": "job",
+    "ipa": "/dʒɒb/",
+    "pos": "noun",
+    "meaningVi": "công việc làm công",
+    "example": "Automation will reshape jobs rather than abolish them.",
+    "exampleVi": "Tự động hoá sẽ định hình lại công việc làm công chứ không xoá bỏ chúng.",
+    "tags": [
+      "awl",
+      "work"
+    ],
+    "level": "A2"
+  },
+  {
+    "word": "journal",
+    "ipa": "/ˈdʒɜː.nəl/",
+    "pos": "noun",
+    "meaningVi": "tạp chí chuyên ngành",
+    "example": "The findings appeared in a peer-reviewed journal.",
+    "exampleVi": "Kết quả được đăng trên một tạp chí chuyên ngành có bình duyệt.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "label",
+    "ipa": "/ˈleɪ.bəl/",
+    "pos": "verb",
+    "meaningVi": "dán nhãn gọi tên",
+    "example": "Foods must be labelled with their country of origin.",
+    "exampleVi": "Thực phẩm phải được dán nhãn gọi tên nước xuất xứ.",
+    "tags": [
+      "awl",
+      "health"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "labour",
+    "ipa": "/ˈleɪ.bər/",
+    "pos": "noun",
+    "meaningVi": "sức lao động",
+    "example": "Cheap labour attracted factories to the region.",
+    "exampleVi": "Sức lao động giá rẻ thu hút các nhà máy tới khu vực.",
+    "tags": [
+      "awl",
+      "economy"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "layer",
+    "ipa": "/ˈleɪ.ər/",
+    "pos": "noun",
+    "meaningVi": "lớp, tầng chồng lên nhau",
+    "example": "Bureaucracy adds a layer of delay to every request.",
+    "exampleVi": "Thủ tục hành chính thêm một lớp chồng lên nhau của sự chậm trễ vào mọi yêu cầu.",
+    "tags": [
+      "awl",
+      "work"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "lecture",
+    "ipa": "/ˈlek.tʃər/",
+    "pos": "noun",
+    "meaningVi": "bài giảng",
+    "example": "Recorded lectures have not reduced attendance.",
+    "exampleVi": "Bài giảng ghi hình không làm giảm số người tới lớp.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "B1",
+    "family": [
+      "lecturer"
+    ]
+  },
+  {
+    "word": "legislate",
+    "ipa": "/ˈledʒ.ɪ.sleɪt/",
+    "pos": "verb",
+    "meaningVi": "làm luật, ban hành luật",
+    "example": "Parliament cannot legislate away social inequality.",
+    "exampleVi": "Quốc hội không thể làm luật để xoá bỏ bất bình đẳng xã hội.",
+    "tags": [
+      "awl",
+      "law"
+    ],
+    "level": "C1",
+    "family": [
+      "legislation",
+      "legislative"
+    ]
+  },
+  {
+    "word": "levy",
+    "ipa": "/ˈlev.i/",
+    "pos": "noun",
+    "meaningVi": "khoản thu bắt buộc",
+    "example": "A small levy on plastic bags cut usage by half.",
+    "exampleVi": "Một khoản thu bắt buộc nhỏ với túi nhựa đã cắt giảm mức dùng một nửa.",
+    "tags": [
+      "awl",
+      "environment"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "liberal",
+    "ipa": "/ˈlɪb.ə.rəl/",
+    "pos": "adjective",
+    "meaningVi": "phóng khoáng, cởi mở",
+    "example": "The country has a liberal attitude to press freedom.",
+    "exampleVi": "Nước này có thái độ phóng khoáng với tự do báo chí.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "licence",
+    "ipa": "/ˈlaɪ.səns/",
+    "pos": "noun",
+    "meaningVi": "giấy phép",
+    "example": "Operators need a licence renewed every five years.",
+    "exampleVi": "Đơn vị vận hành cần giấy phép gia hạn năm năm một lần.",
+    "tags": [
+      "awl",
+      "law"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "likewise",
+    "ipa": "/ˈlaɪ.kwaɪz/",
+    "pos": "adverb",
+    "meaningVi": "tương tự như vậy",
+    "example": "Coastal cities flooded; inland towns likewise suffered.",
+    "exampleVi": "Các thành phố ven biển ngập lụt, thị trấn nội địa tương tự như vậy cũng chịu thiệt hại.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "link",
+    "ipa": "/lɪŋk/",
+    "pos": "noun",
+    "meaningVi": "mối liên hệ",
+    "example": "The link between diet and illness is well established.",
+    "exampleVi": "Mối liên hệ giữa chế độ ăn và bệnh tật đã được xác lập vững chắc.",
+    "tags": [
+      "awl",
+      "health"
+    ],
+    "level": "A2"
+  },
+  {
+    "word": "locate",
+    "ipa": "/ləʊˈkeɪt/",
+    "pos": "verb",
+    "meaningVi": "đặt ở vị trí, xác định chỗ",
+    "example": "The plant was located far from any residential area.",
+    "exampleVi": "Nhà máy được đặt ở vị trí cách xa mọi khu dân cư.",
+    "tags": [
+      "awl"
+    ],
+    "level": "B1",
+    "family": [
+      "location"
+    ]
+  },
+  {
+    "word": "logic",
+    "ipa": "/ˈlɒdʒ.ɪk/",
+    "pos": "noun",
+    "meaningVi": "lô-gic, mạch lập luận",
+    "example": "The logic of the argument collapses in the third paragraph.",
+    "exampleVi": "Mạch lập luận của bài sụp đổ ở đoạn thứ ba.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B2",
+    "family": [
+      "logical",
+      "logically"
+    ]
+  },
+  {
+    "word": "major",
+    "ipa": "/ˈmeɪ.dʒər/",
+    "pos": "adjective",
+    "meaningVi": "chủ yếu, lớn nhất",
+    "example": "Traffic is the major source of urban noise.",
+    "exampleVi": "Giao thông là nguồn chủ yếu gây tiếng ồn đô thị.",
+    "tags": [
+      "awl"
+    ],
+    "level": "B1",
+    "family": [
+      "majority"
+    ]
+  },
+  {
+    "word": "manual",
+    "ipa": "/ˈmæn.ju.əl/",
+    "pos": "adjective",
+    "meaningVi": "làm bằng tay",
+    "example": "Manual jobs disappeared fastest in the north.",
+    "exampleVi": "Công việc làm bằng tay biến mất nhanh nhất ở miền bắc.",
+    "tags": [
+      "awl",
+      "work"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "maximise",
+    "ipa": "/ˈmæk.sɪ.maɪz/",
+    "pos": "verb",
+    "meaningVi": "tối đa hoá",
+    "example": "Farmers rotate crops to maximise yield.",
+    "exampleVi": "Nông dân luân canh để tối đa hoá sản lượng.",
+    "tags": [
+      "awl",
+      "economy"
+    ],
+    "level": "B2",
+    "family": [
+      "maximum"
+    ]
+  },
+  {
+    "word": "mechanism",
+    "ipa": "/ˈmek.ə.nɪ.zəm/",
+    "pos": "noun",
+    "meaningVi": "cơ chế vận hành",
+    "example": "No mechanism exists for appealing the decision.",
+    "exampleVi": "Không có cơ chế vận hành nào để khiếu nại quyết định đó.",
+    "tags": [
+      "awl"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "media",
+    "ipa": "/ˈmiː.di.ə/",
+    "pos": "noun",
+    "meaningVi": "giới truyền thông",
+    "example": "The media devoted little coverage to the report.",
+    "exampleVi": "Giới truyền thông dành rất ít thời lượng cho bản báo cáo.",
+    "tags": [
+      "awl",
+      "media"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "medical",
+    "ipa": "/ˈmed.ɪ.kəl/",
+    "pos": "adjective",
+    "meaningVi": "thuộc y tế",
+    "example": "Medical training takes at least six years.",
+    "exampleVi": "Đào tạo thuộc y tế mất ít nhất sáu năm.",
+    "tags": [
+      "awl",
+      "health"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "medium",
+    "ipa": "/ˈmiː.di.əm/",
+    "pos": "noun",
+    "meaningVi": "phương tiện truyền tải",
+    "example": "Radio remains the main medium in remote districts.",
+    "exampleVi": "Phát thanh vẫn là phương tiện truyền tải chính ở các huyện vùng sâu.",
+    "tags": [
+      "awl",
+      "media"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "mental",
+    "ipa": "/ˈmen.təl/",
+    "pos": "adjective",
+    "meaningVi": "thuộc tinh thần, tâm trí",
+    "example": "Mental health services are stretched beyond capacity.",
+    "exampleVi": "Dịch vụ sức khoẻ thuộc tinh thần đang quá tải.",
+    "tags": [
+      "awl",
+      "health"
+    ],
+    "level": "B1",
+    "family": [
+      "mentally"
+    ]
+  },
+  {
+    "word": "method",
+    "ipa": "/ˈmeθ.əd/",
+    "pos": "noun",
+    "meaningVi": "phương pháp tiến hành",
+    "example": "The method must be described clearly enough to repeat.",
+    "exampleVi": "Phương pháp tiến hành phải được mô tả đủ rõ để lặp lại được.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B1",
+    "family": [
+      "methodology"
+    ]
+  },
+  {
+    "word": "migrate",
+    "ipa": "/maɪˈɡreɪt/",
+    "pos": "verb",
+    "meaningVi": "di cư",
+    "example": "Workers migrate to the capital during the dry season.",
+    "exampleVi": "Người lao động di cư về thủ đô vào mùa khô.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "B2",
+    "family": [
+      "migration",
+      "migrant"
+    ]
+  },
+  {
+    "word": "military",
+    "ipa": "/ˈmɪl.ɪ.tə.ri/",
+    "pos": "adjective",
+    "meaningVi": "thuộc quân sự",
+    "example": "Military spending outweighs the education budget.",
+    "exampleVi": "Chi tiêu thuộc quân sự vượt trội ngân sách giáo dục.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "minimise",
+    "ipa": "/ˈmɪn.ɪ.maɪz/",
+    "pos": "verb",
+    "meaningVi": "giảm thiểu tối đa",
+    "example": "Careful design minimises waste at every stage.",
+    "exampleVi": "Thiết kế cẩn thận giảm thiểu tối đa rác thải ở mọi khâu.",
+    "tags": [
+      "awl",
+      "environment"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "minimum",
+    "ipa": "/ˈmɪn.ɪ.məm/",
+    "pos": "noun",
+    "meaningVi": "mức tối thiểu",
+    "example": "The minimum wage was raised twice in one year.",
+    "exampleVi": "Mức tối thiểu của tiền lương được nâng hai lần trong một năm.",
+    "tags": [
+      "awl",
+      "economy"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "ministry",
+    "ipa": "/ˈmɪn.ɪ.stri/",
+    "pos": "noun",
+    "meaningVi": "bộ trong chính phủ",
+    "example": "The ministry publishes enrolment figures each autumn.",
+    "exampleVi": "Bộ trong chính phủ công bố số liệu nhập học vào mỗi mùa thu.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "B2",
+    "family": [
+      "minister"
+    ]
+  },
+  {
+    "word": "minor",
+    "ipa": "/ˈmaɪ.nər/",
+    "pos": "adjective",
+    "meaningVi": "nhỏ, thứ yếu",
+    "example": "Only minor changes were made to the original draft.",
+    "exampleVi": "Chỉ những thay đổi nhỏ được thực hiện trên bản thảo gốc.",
+    "tags": [
+      "awl"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "mode",
+    "ipa": "/məʊd/",
+    "pos": "noun",
+    "meaningVi": "phương thức, kiểu thức",
+    "example": "Cycling is the fastest growing mode of transport.",
+    "exampleVi": "Xe đạp là phương thức giao thông tăng nhanh nhất.",
+    "tags": [
+      "awl",
+      "task1"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "modify",
+    "ipa": "/ˈmɒd.ɪ.faɪ/",
+    "pos": "verb",
+    "meaningVi": "điều chỉnh lại cho phù hợp",
+    "example": "The design was modified after the first trial.",
+    "exampleVi": "Thiết kế được điều chỉnh lại cho phù hợp sau lần thử đầu tiên.",
+    "tags": [
+      "awl"
+    ],
+    "level": "B2",
+    "family": [
+      "modification"
+    ]
+  },
+  {
+    "word": "motive",
+    "ipa": "/ˈməʊ.tɪv/",
+    "pos": "noun",
+    "meaningVi": "động cơ thúc đẩy",
+    "example": "Profit was not the only motive behind the merger.",
+    "exampleVi": "Lợi nhuận không phải động cơ thúc đẩy duy nhất phía sau vụ sáp nhập.",
+    "tags": [
+      "awl",
+      "work"
+    ],
+    "level": "B2",
+    "family": [
+      "motivate",
+      "motivation"
+    ]
+  },
+  {
+    "word": "negate",
+    "ipa": "/nɪˈɡeɪt/",
+    "pos": "verb",
+    "meaningVi": "triệt tiêu, làm mất tác dụng",
+    "example": "Rising rents negate any gain from higher wages.",
+    "exampleVi": "Giá thuê nhà tăng triệt tiêu mọi lợi ích từ lương cao hơn.",
+    "tags": [
+      "awl",
+      "economy"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "network",
+    "ipa": "/ˈnet.wɜːk/",
+    "pos": "noun",
+    "meaningVi": "mạng lưới",
+    "example": "A dense rail network reduces reliance on cars.",
+    "exampleVi": "Mạng lưới đường sắt dày đặc giảm sự phụ thuộc vào ô tô.",
+    "tags": [
+      "awl",
+      "technology"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "normal",
+    "ipa": "/ˈnɔː.məl/",
+    "pos": "adjective",
+    "meaningVi": "bình thường, thông lệ",
+    "example": "Rainfall was well below normal levels last season.",
+    "exampleVi": "Lượng mưa thấp hơn hẳn mức bình thường mùa vừa rồi.",
+    "tags": [
+      "awl"
+    ],
+    "level": "A2",
+    "family": [
+      "normally",
+      "norm"
+    ]
+  },
+  {
+    "word": "notwithstanding",
+    "ipa": "/ˌnɒt.wɪðˈstæn.dɪŋ/",
+    "pos": "preposition",
+    "meaningVi": "bất chấp điều đó",
+    "example": "Notwithstanding these limits, the study remains valuable.",
+    "exampleVi": "Bất chấp điều đó về những giới hạn này, nghiên cứu vẫn có giá trị.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "nuclear",
+    "ipa": "/ˈnjuː.kli.ər/",
+    "pos": "adjective",
+    "meaningVi": "thuộc hạt nhân",
+    "example": "Nuclear power divides opinion even among scientists.",
+    "exampleVi": "Điện thuộc hạt nhân gây chia rẽ quan điểm ngay trong giới khoa học.",
+    "tags": [
+      "awl",
+      "environment"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "obvious",
+    "ipa": "/ˈɒb.vi.əs/",
+    "pos": "adjective",
+    "meaningVi": "hiển nhiên, dễ thấy",
+    "example": "There is no obvious explanation for the sudden drop.",
+    "exampleVi": "Không có lời giải thích hiển nhiên nào cho cú sụt đột ngột.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B1",
+    "family": [
+      "obviously"
+    ]
+  },
+  {
+    "word": "occupy",
+    "ipa": "/ˈɒk.jʊ.paɪ/",
+    "pos": "verb",
+    "meaningVi": "chiếm chỗ, chiếm giữ",
+    "example": "Housing occupies a third of household spending.",
+    "exampleVi": "Nhà ở chiếm chỗ một phần ba chi tiêu hộ gia đình.",
+    "tags": [
+      "awl",
+      "economy"
+    ],
+    "level": "B2",
+    "family": [
+      "occupation"
+    ]
+  },
+  {
+    "word": "odd",
+    "ipa": "/ɒd/",
+    "pos": "adjective",
+    "meaningVi": "kỳ lạ, bất thường",
+    "example": "It seems odd that the survey omitted the largest city.",
+    "exampleVi": "Có vẻ kỳ lạ khi khảo sát bỏ sót thành phố lớn nhất.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "option",
+    "ipa": "/ˈɒp.ʃən/",
+    "pos": "noun",
+    "meaningVi": "lựa chọn có sẵn",
+    "example": "Cycling is not a realistic option without safe lanes.",
+    "exampleVi": "Đi xe đạp không phải lựa chọn có sẵn khả thi nếu thiếu làn đường an toàn.",
+    "tags": [
+      "awl"
+    ],
+    "level": "B1",
+    "family": [
+      "optional"
+    ]
+  },
+  {
+    "word": "orient",
+    "ipa": "/ˈɔː.ri.ənt/",
+    "pos": "verb",
+    "meaningVi": "định hướng theo",
+    "example": "The syllabus is oriented towards practical skills.",
+    "exampleVi": "Chương trình học được định hướng theo kỹ năng thực hành.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "C1",
+    "family": [
+      "orientation"
+    ]
+  },
+  {
+    "word": "output",
+    "ipa": "/ˈaʊt.pʊt/",
+    "pos": "noun",
+    "meaningVi": "sản lượng đầu ra",
+    "example": "Factory output rose for the fifth month running.",
+    "exampleVi": "Sản lượng đầu ra của nhà máy tăng tháng thứ năm liên tiếp.",
+    "tags": [
+      "awl",
+      "task1"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "overlap",
+    "ipa": "/ˌəʊ.vəˈlæp/",
+    "pos": "verb",
+    "meaningVi": "chồng lấn lên nhau",
+    "example": "The two categories overlap more than the chart suggests.",
+    "exampleVi": "Hai nhóm này chồng lấn lên nhau nhiều hơn biểu đồ gợi ý.",
+    "tags": [
+      "awl",
+      "task1"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "overseas",
+    "ipa": "/ˌəʊ.vəˈsiːz/",
+    "pos": "adjective",
+    "meaningVi": "ở nước ngoài",
+    "example": "Overseas students make up a fifth of the intake.",
+    "exampleVi": "Sinh viên ở nước ngoài chiếm một phần năm số tuyển sinh.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "panel",
+    "ipa": "/ˈpæn.əl/",
+    "pos": "noun",
+    "meaningVi": "hội đồng, ban thẩm định",
+    "example": "An independent panel reviewed all the applications.",
+    "exampleVi": "Một hội đồng độc lập rà soát toàn bộ hồ sơ.",
+    "tags": [
+      "awl",
+      "work"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "paradigm",
+    "ipa": "/ˈpær.ə.daɪm/",
+    "pos": "noun",
+    "meaningVi": "hệ hình, khuôn mẫu tư duy",
+    "example": "The discovery forced a new paradigm on the field.",
+    "exampleVi": "Phát hiện này buộc ngành phải theo một hệ hình mới.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "paragraph",
+    "ipa": "/ˈpær.ə.ɡræf/",
+    "pos": "noun",
+    "meaningVi": "đoạn văn",
+    "example": "Each paragraph should carry one clear idea.",
+    "exampleVi": "Mỗi đoạn văn nên mang đúng một ý rõ ràng.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "parameter",
+    "ipa": "/pəˈræm.ɪ.tər/",
+    "pos": "noun",
+    "meaningVi": "tham số giới hạn",
+    "example": "The committee set narrow parameters for the inquiry.",
+    "exampleVi": "Ban chuyên trách đặt tham số giới hạn hẹp cho cuộc điều tra.",
+    "tags": [
+      "awl"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "partner",
+    "ipa": "/ˈpɑːt.nər/",
+    "pos": "noun",
+    "meaningVi": "đối tác",
+    "example": "The university works with industrial partners abroad.",
+    "exampleVi": "Trường đại học hợp tác với các đối tác công nghiệp ở nước ngoài.",
+    "tags": [
+      "awl",
+      "work"
+    ],
+    "level": "B1",
+    "family": [
+      "partnership"
+    ]
+  },
+  {
+    "word": "passive",
+    "ipa": "/ˈpæs.ɪv/",
+    "pos": "adjective",
+    "meaningVi": "thụ động",
+    "example": "Lectures encourage passive rather than active learning.",
+    "exampleVi": "Bài giảng khuyến khích lối học thụ động thay vì chủ động.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "percent",
+    "ipa": "/pəˈsent/",
+    "pos": "noun",
+    "meaningVi": "phần trăm",
+    "example": "Barely two percent of applicants were successful.",
+    "exampleVi": "Chỉ vỏn vẹn hai phần trăm ứng viên thành công.",
+    "tags": [
+      "awl",
+      "task1"
+    ],
+    "level": "A2"
+  },
+  {
+    "word": "period",
+    "ipa": "/ˈpɪə.ri.əd/",
+    "pos": "noun",
+    "meaningVi": "giai đoạn thời gian",
+    "example": "Over this period the two lines moved in opposite directions.",
+    "exampleVi": "Trong giai đoạn thời gian này hai đường biểu diễn đi ngược chiều nhau.",
+    "tags": [
+      "awl",
+      "task1"
+    ],
+    "level": "A2"
+  },
+  {
+    "word": "perspective",
+    "ipa": "/pəˈspek.tɪv/",
+    "pos": "noun",
+    "meaningVi": "góc nhìn",
+    "example": "The book offers a perspective rarely heard in the debate.",
+    "exampleVi": "Cuốn sách đưa ra một góc nhìn hiếm khi được nghe trong cuộc tranh luận.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "phenomenon",
+    "ipa": "/fɪˈnɒm.ɪ.nən/",
+    "pos": "noun",
+    "meaningVi": "hiện tượng",
+    "example": "Urban heat islands are a well-studied phenomenon.",
+    "exampleVi": "Đảo nhiệt đô thị là một hiện tượng đã được nghiên cứu kỹ.",
+    "tags": [
+      "awl",
+      "environment"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "philosophy",
+    "ipa": "/fɪˈlɒs.ə.fi/",
+    "pos": "noun",
+    "meaningVi": "triết lý, triết học",
+    "example": "The school's philosophy puts wellbeing before results.",
+    "exampleVi": "Triết lý của nhà trường đặt sự an vui lên trước thành tích.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "B2",
+    "family": [
+      "philosophical"
+    ]
+  },
+  {
+    "word": "physical",
+    "ipa": "/ˈfɪz.ɪ.kəl/",
+    "pos": "adjective",
+    "meaningVi": "thuộc thể chất, vật chất",
+    "example": "Physical activity declined sharply among teenagers.",
+    "exampleVi": "Hoạt động thuộc thể chất giảm mạnh ở lứa tuổi thiếu niên.",
+    "tags": [
+      "awl",
+      "health"
+    ],
+    "level": "B1",
+    "family": [
+      "physically"
+    ]
+  },
+  {
+    "word": "policy",
+    "ipa": "/ˈpɒl.ɪ.si/",
+    "pos": "noun",
+    "meaningVi": "chính sách",
+    "example": "Housing policy has changed with every government.",
+    "exampleVi": "Chính sách nhà ở thay đổi theo từng chính phủ.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "pose",
+    "ipa": "/pəʊz/",
+    "pos": "verb",
+    "meaningVi": "đặt ra một mối nguy hay câu hỏi",
+    "example": "Antibiotic resistance poses a serious threat to public health.",
+    "exampleVi": "Kháng kháng sinh đặt ra một mối nguy nghiêm trọng cho y tế công cộng.",
+    "tags": [
+      "awl",
+      "health"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "positive",
+    "ipa": "/ˈpɒz.ɪ.tɪv/",
+    "pos": "adjective",
+    "meaningVi": "tích cực, thuận lợi",
+    "example": "Feedback from participants was overwhelmingly positive.",
+    "exampleVi": "Phản hồi từ người tham gia tích cực một cách áp đảo.",
+    "tags": [
+      "awl"
+    ],
+    "level": "A2",
+    "family": [
+      "positively"
+    ]
+  },
+  {
+    "word": "practitioner",
+    "ipa": "/prækˈtɪʃ.ə.nər/",
+    "pos": "noun",
+    "meaningVi": "người hành nghề",
+    "example": "General practitioners handle most first consultations.",
+    "exampleVi": "Người hành nghề y đa khoa xử lý phần lớn các lần khám đầu tiên.",
+    "tags": [
+      "awl",
+      "health"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "predominant",
+    "ipa": "/prɪˈdɒm.ɪ.nənt/",
+    "pos": "adjective",
+    "meaningVi": "chiếm ưu thế rõ rệt",
+    "example": "Rice is the predominant crop across the delta.",
+    "exampleVi": "Lúa là cây trồng chiếm ưu thế rõ rệt khắp vùng đồng bằng.",
+    "tags": [
+      "awl",
+      "task1"
+    ],
+    "level": "C1",
+    "family": [
+      "predominantly"
+    ]
+  },
+  {
+    "word": "primary",
+    "ipa": "/ˈpraɪ.mə.ri/",
+    "pos": "adjective",
+    "meaningVi": "sơ cấp, hàng đầu",
+    "example": "Primary education is free but not always accessible.",
+    "exampleVi": "Giáo dục sơ cấp miễn phí nhưng không phải lúc nào cũng tiếp cận được.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "B1",
+    "family": [
+      "primarily"
+    ]
+  },
+  {
+    "word": "prime",
+    "ipa": "/praɪm/",
+    "pos": "adjective",
+    "meaningVi": "quan trọng bậc nhất",
+    "example": "Cost was the prime consideration in the design.",
+    "exampleVi": "Chi phí là cân nhắc quan trọng bậc nhất trong thiết kế.",
+    "tags": [
+      "awl"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "principal",
+    "ipa": "/ˈprɪn.sɪ.pəl/",
+    "pos": "adjective",
+    "meaningVi": "chính yếu nhất",
+    "example": "The principal cause of the delay was poor weather.",
+    "exampleVi": "Nguyên nhân chính yếu nhất của việc chậm trễ là thời tiết xấu.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "principle",
+    "ipa": "/ˈprɪn.sɪ.pəl/",
+    "pos": "noun",
+    "meaningVi": "nguyên tắc nền tảng",
+    "example": "The scheme rests on the principle that education is free.",
+    "exampleVi": "Đề án dựa trên nguyên tắc nền tảng rằng giáo dục là miễn phí.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "prior",
+    "ipa": "/ˈpraɪ.ər/",
+    "pos": "adjective",
+    "meaningVi": "có trước đó",
+    "example": "No prior knowledge of statistics is required.",
+    "exampleVi": "Không đòi hỏi kiến thức có trước đó về thống kê.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "B2",
+    "family": [
+      "priority"
+    ]
+  },
+  {
+    "word": "process",
+    "ipa": "/ˈprəʊ.ses/",
+    "pos": "noun",
+    "meaningVi": "quy trình",
+    "example": "The diagram shows the process of water purification.",
+    "exampleVi": "Sơ đồ cho thấy quy trình lọc nước.",
+    "tags": [
+      "awl",
+      "task1"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "professional",
+    "ipa": "/prəˈfeʃ.ə.nəl/",
+    "pos": "adjective",
+    "meaningVi": "chuyên nghiệp, thuộc nghề nghiệp",
+    "example": "Teachers receive twenty hours of professional training a year.",
+    "exampleVi": "Giáo viên nhận hai mươi giờ đào tạo chuyên nghiệp mỗi năm.",
+    "tags": [
+      "awl",
+      "work"
+    ],
+    "level": "B1",
+    "family": [
+      "profession"
+    ]
+  },
+  {
+    "word": "project",
+    "ipa": "/prəˈdʒekt/",
+    "pos": "verb",
+    "meaningVi": "dự phóng, dự tính trước",
+    "example": "Analysts project a further fall over the next decade.",
+    "exampleVi": "Giới phân tích dự phóng mức giảm tiếp trong thập kỷ tới.",
+    "tags": [
+      "awl",
+      "task1"
+    ],
+    "level": "B2",
+    "family": [
+      "projection"
+    ]
+  },
+  {
+    "word": "psychology",
+    "ipa": "/saɪˈkɒl.ə.dʒi/",
+    "pos": "noun",
+    "meaningVi": "tâm lý học",
+    "example": "Psychology explains why warnings often fail to change behaviour.",
+    "exampleVi": "Tâm lý học giải thích vì sao cảnh báo thường không đổi được hành vi.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "B2",
+    "family": [
+      "psychological"
+    ]
+  },
+  {
+    "word": "publication",
+    "ipa": "/ˌpʌb.lɪˈkeɪ.ʃən/",
+    "pos": "noun",
+    "meaningVi": "ấn phẩm công bố",
+    "example": "Her publications are cited across three disciplines.",
+    "exampleVi": "Các ấn phẩm công bố của bà được trích dẫn ở ba ngành.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "publish",
+    "ipa": "/ˈpʌb.lɪʃ/",
+    "pos": "verb",
+    "meaningVi": "xuất bản, công bố ra",
+    "example": "The department publishes its accounts every June.",
+    "exampleVi": "Bộ công bố ra báo cáo tài chính vào tháng Sáu hằng năm.",
+    "tags": [
+      "awl",
+      "media"
+    ],
+    "level": "B1",
+    "family": [
+      "publisher"
+    ]
+  },
+  {
+    "word": "qualitative",
+    "ipa": "/ˈkwɒl.ɪ.teɪ.tɪv/",
+    "pos": "adjective",
+    "meaningVi": "định tính",
+    "example": "Qualitative interviews revealed what the numbers hid.",
+    "exampleVi": "Phỏng vấn định tính hé lộ những gì con số che giấu.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "quote",
+    "ipa": "/kwəʊt/",
+    "pos": "verb",
+    "meaningVi": "trích dẫn nguyên văn",
+    "example": "He quotes the minister without giving a date.",
+    "exampleVi": "Ông trích dẫn nguyên văn lời bộ trưởng mà không nêu ngày tháng.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B1",
+    "family": [
+      "quotation"
+    ]
+  },
+  {
+    "word": "random",
+    "ipa": "/ˈræn.dəm/",
+    "pos": "adjective",
+    "meaningVi": "ngẫu nhiên",
+    "example": "Participants were assigned to groups at random.",
+    "exampleVi": "Người tham gia được phân vào các nhóm một cách ngẫu nhiên.",
+    "tags": [
+      "awl"
+    ],
+    "level": "B2",
+    "family": [
+      "randomly"
+    ]
+  },
+  {
+    "word": "range",
+    "ipa": "/reɪndʒ/",
+    "pos": "noun",
+    "meaningVi": "khoảng biến thiên, dải giá trị",
+    "example": "Scores fell within a narrow range of eight points.",
+    "exampleVi": "Điểm số nằm trong khoảng biến thiên hẹp là tám điểm.",
+    "tags": [
+      "awl",
+      "task1"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "react",
+    "ipa": "/riˈækt/",
+    "pos": "verb",
+    "meaningVi": "phản ứng lại",
+    "example": "Markets reacted badly to the announcement.",
+    "exampleVi": "Thị trường phản ứng lại tiêu cực trước thông báo.",
+    "tags": [
+      "awl",
+      "economy"
+    ],
+    "level": "B1",
+    "family": [
+      "reaction"
+    ]
+  },
+  {
+    "word": "regime",
+    "ipa": "/reɪˈʒiːm/",
+    "pos": "noun",
+    "meaningVi": "chế độ cầm quyền",
+    "example": "The regime restricted access to foreign newspapers.",
+    "exampleVi": "Chế độ cầm quyền hạn chế tiếp cận báo chí nước ngoài.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "region",
+    "ipa": "/ˈriː.dʒən/",
+    "pos": "noun",
+    "meaningVi": "vùng địa lý",
+    "example": "The southern region receives the least rainfall.",
+    "exampleVi": "Vùng địa lý phía nam nhận lượng mưa ít nhất.",
+    "tags": [
+      "awl",
+      "task1"
+    ],
+    "level": "B1",
+    "family": [
+      "regional"
+    ]
+  },
+  {
+    "word": "register",
+    "ipa": "/ˈredʒ.ɪ.stər/",
+    "pos": "verb",
+    "meaningVi": "đăng ký ghi danh",
+    "example": "Only half of eligible voters registered in time.",
+    "exampleVi": "Chỉ một nửa cử tri đủ điều kiện đăng ký ghi danh kịp thời hạn.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "B1",
+    "family": [
+      "registration"
+    ]
+  },
+  {
+    "word": "regulate",
+    "ipa": "/ˈreɡ.juː.leɪt/",
+    "pos": "verb",
+    "meaningVi": "quản lý bằng quy định",
+    "example": "Few countries regulate the industry effectively.",
+    "exampleVi": "Rất ít quốc gia quản lý bằng quy định ngành này một cách hiệu quả.",
+    "tags": [
+      "awl",
+      "law"
+    ],
+    "level": "B2",
+    "family": [
+      "regulation",
+      "regulatory"
+    ]
+  },
+  {
+    "word": "relax",
+    "ipa": "/rɪˈlæks/",
+    "pos": "verb",
+    "meaningVi": "nới lỏng quy định",
+    "example": "The authorities relaxed the rules on student visas.",
+    "exampleVi": "Nhà chức trách nới lỏng quy định về thị thực sinh viên.",
+    "tags": [
+      "awl",
+      "law"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "release",
+    "ipa": "/rɪˈliːs/",
+    "pos": "verb",
+    "meaningVi": "phát hành ra công chúng",
+    "example": "The figures were released without any commentary.",
+    "exampleVi": "Các con số được phát hành ra công chúng mà không kèm bình luận.",
+    "tags": [
+      "awl",
+      "media"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "reluctance",
+    "ipa": "/rɪˈlʌk.təns/",
+    "pos": "noun",
+    "meaningVi": "sự miễn cưỡng",
+    "example": "There is clear reluctance to abandon coal entirely.",
+    "exampleVi": "Có sự miễn cưỡng rõ rệt trong việc từ bỏ hẳn than đá.",
+    "tags": [
+      "awl",
+      "environment"
+    ],
+    "level": "C1",
+    "family": [
+      "reluctant"
+    ]
+  },
+  {
+    "word": "rely",
+    "ipa": "/rɪˈlaɪ/",
+    "pos": "verb",
+    "meaningVi": "trông cậy vào",
+    "example": "Remote clinics rely on volunteers for transport.",
+    "exampleVi": "Các trạm y tế vùng xa trông cậy vào tình nguyện viên để đi lại.",
+    "tags": [
+      "awl",
+      "health"
+    ],
+    "level": "B1",
+    "family": [
+      "reliance",
+      "reliable"
+    ]
+  },
+  {
+    "word": "research",
+    "ipa": "/rɪˈsɜːtʃ/",
+    "pos": "noun",
+    "meaningVi": "công trình nghiên cứu",
+    "example": "Research into the vaccine began long before the outbreak.",
+    "exampleVi": "Công trình nghiên cứu vắc-xin bắt đầu từ lâu trước khi dịch bùng phát.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "B1",
+    "family": [
+      "researcher"
+    ]
+  },
+  {
+    "word": "reside",
+    "ipa": "/riˈzaɪd/",
+    "pos": "verb",
+    "meaningVi": "cư trú tại",
+    "example": "Most staff reside within walking distance of the campus.",
+    "exampleVi": "Phần lớn nhân viên cư trú tại nơi đi bộ được tới khuôn viên trường.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "C1",
+    "family": [
+      "resident",
+      "residence"
+    ]
+  },
+  {
+    "word": "restrain",
+    "ipa": "/rɪˈstreɪn/",
+    "pos": "verb",
+    "meaningVi": "kiềm chế lại",
+    "example": "Higher interest rates restrained consumer spending.",
+    "exampleVi": "Lãi suất cao hơn kiềm chế lại chi tiêu tiêu dùng.",
+    "tags": [
+      "awl",
+      "economy"
+    ],
+    "level": "C1",
+    "family": [
+      "restraint"
+    ]
+  },
+  {
+    "word": "revise",
+    "ipa": "/rɪˈvaɪz/",
+    "pos": "verb",
+    "meaningVi": "xem lại và sửa",
+    "example": "The forecast was revised downwards in November.",
+    "exampleVi": "Dự báo được xem lại và sửa theo hướng giảm vào tháng Mười một.",
+    "tags": [
+      "awl",
+      "task1"
+    ],
+    "level": "B1",
+    "family": [
+      "revision"
+    ]
+  },
+  {
+    "word": "revolution",
+    "ipa": "/ˌrev.əˈluː.ʃən/",
+    "pos": "noun",
+    "meaningVi": "cuộc cách mạng",
+    "example": "The digital revolution reshaped how news is consumed.",
+    "exampleVi": "Cuộc cách mạng số định hình lại cách người ta tiêu thụ tin tức.",
+    "tags": [
+      "awl",
+      "technology"
+    ],
+    "level": "B2",
+    "family": [
+      "revolutionary"
+    ]
+  },
+  {
+    "word": "role",
+    "ipa": "/rəʊl/",
+    "pos": "noun",
+    "meaningVi": "vai trò",
+    "example": "Parents play a decisive role in early literacy.",
+    "exampleVi": "Cha mẹ giữ vai trò quyết định trong việc biết chữ sớm.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "route",
+    "ipa": "/ruːt/",
+    "pos": "noun",
+    "meaningVi": "tuyến đường",
+    "example": "The new route cuts the journey by forty minutes.",
+    "exampleVi": "Tuyến đường mới rút ngắn hành trình bốn mươi phút.",
+    "tags": [
+      "awl",
+      "task1"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "schedule",
+    "ipa": "/ˈʃed.juːl/",
+    "pos": "noun",
+    "meaningVi": "lịch trình",
+    "example": "The project ran six months behind schedule.",
+    "exampleVi": "Dự án chạy chậm sáu tháng so với lịch trình.",
+    "tags": [
+      "awl",
+      "work"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "scheme",
+    "ipa": "/skiːm/",
+    "pos": "noun",
+    "meaningVi": "đề án, chương trình có tổ chức",
+    "example": "A pilot scheme ran in four districts.",
+    "exampleVi": "Một đề án thí điểm chạy tại bốn quận.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "section",
+    "ipa": "/ˈsek.ʃən/",
+    "pos": "noun",
+    "meaningVi": "phần, mục",
+    "example": "The second section deals with methodology.",
+    "exampleVi": "Phần thứ hai bàn về phương pháp luận.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "A2"
+  },
+  {
+    "word": "sector",
+    "ipa": "/ˈsek.tər/",
+    "pos": "noun",
+    "meaningVi": "ngành, khu vực kinh tế",
+    "example": "The service sector now employs most graduates.",
+    "exampleVi": "Ngành dịch vụ hiện tuyển dụng phần lớn sinh viên tốt nghiệp.",
+    "tags": [
+      "awl",
+      "economy"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "select",
+    "ipa": "/sɪˈlekt/",
+    "pos": "verb",
+    "meaningVi": "chọn lọc ra",
+    "example": "Judges selected twelve entries from over a thousand.",
+    "exampleVi": "Ban giám khảo chọn lọc ra mười hai bài dự thi trong hơn một nghìn.",
+    "tags": [
+      "awl"
+    ],
+    "level": "B1",
+    "family": [
+      "selection",
+      "selective"
+    ]
+  },
+  {
+    "word": "sequence",
+    "ipa": "/ˈsiː.kwəns/",
+    "pos": "noun",
+    "meaningVi": "trình tự nối tiếp",
+    "example": "The diagram sets out the sequence of eight stages.",
+    "exampleVi": "Sơ đồ trình bày trình tự nối tiếp của tám giai đoạn.",
+    "tags": [
+      "awl",
+      "task1"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "series",
+    "ipa": "/ˈsɪə.riːz/",
+    "pos": "noun",
+    "meaningVi": "chuỗi liên tiếp",
+    "example": "A series of reforms failed to lift attainment.",
+    "exampleVi": "Một chuỗi liên tiếp các cải cách không nâng được thành tích học tập.",
+    "tags": [
+      "awl"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "site",
+    "ipa": "/saɪt/",
+    "pos": "noun",
+    "meaningVi": "địa điểm, khu đất",
+    "example": "The site was chosen for its access to the river.",
+    "exampleVi": "Địa điểm được chọn vì tiếp cận được dòng sông.",
+    "tags": [
+      "awl"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "sole",
+    "ipa": "/səʊl/",
+    "pos": "adjective",
+    "meaningVi": "duy nhất, độc nhất",
+    "example": "Tourism is the island's sole source of income.",
+    "exampleVi": "Du lịch là nguồn thu nhập duy nhất của hòn đảo.",
+    "tags": [
+      "awl",
+      "economy"
+    ],
+    "level": "C1",
+    "family": [
+      "solely"
+    ]
+  },
+  {
+    "word": "somewhat",
+    "ipa": "/ˈsʌm.wɒt/",
+    "pos": "adverb",
+    "meaningVi": "phần nào, hơi",
+    "example": "The results were somewhat weaker than expected.",
+    "exampleVi": "Kết quả phần nào yếu hơn kỳ vọng.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "source",
+    "ipa": "/sɔːs/",
+    "pos": "noun",
+    "meaningVi": "nguồn gốc, xuất xứ",
+    "example": "Every claim must be traced to a named source.",
+    "exampleVi": "Mọi khẳng định phải truy được về một nguồn gốc có tên.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "specify",
+    "ipa": "/ˈspes.ɪ.faɪ/",
+    "pos": "verb",
+    "meaningVi": "nêu rõ cụ thể",
+    "example": "The contract does not specify who pays for repairs.",
+    "exampleVi": "Hợp đồng không nêu rõ cụ thể ai trả tiền sửa chữa.",
+    "tags": [
+      "awl",
+      "law"
+    ],
+    "level": "B2",
+    "family": [
+      "specific",
+      "specification"
+    ]
+  },
+  {
+    "word": "sphere",
+    "ipa": "/sfɪər/",
+    "pos": "noun",
+    "meaningVi": "lĩnh vực hoạt động",
+    "example": "Religion once dominated the public sphere.",
+    "exampleVi": "Tôn giáo từng thống trị lĩnh vực hoạt động công cộng.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "statistic",
+    "ipa": "/stəˈtɪs.tɪk/",
+    "pos": "noun",
+    "meaningVi": "số liệu thống kê",
+    "example": "One statistic stands out from the whole report.",
+    "exampleVi": "Một số liệu thống kê nổi bật lên khỏi cả bản báo cáo.",
+    "tags": [
+      "awl",
+      "task1"
+    ],
+    "level": "B2",
+    "family": [
+      "statistical"
+    ]
+  },
+  {
+    "word": "status",
+    "ipa": "/ˈsteɪ.təs/",
+    "pos": "noun",
+    "meaningVi": "vị thế, địa vị",
+    "example": "Teaching has lost status over two generations.",
+    "exampleVi": "Nghề dạy học mất dần vị thế qua hai thế hệ.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "straightforward",
+    "ipa": "/streɪtˈfɔː.wəd/",
+    "pos": "adjective",
+    "meaningVi": "đơn giản, dễ hiểu ngay",
+    "example": "The procedure is straightforward but time-consuming.",
+    "exampleVi": "Thủ tục đơn giản dễ hiểu ngay nhưng tốn thời gian.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "strategy",
+    "ipa": "/ˈstræt.ə.dʒi/",
+    "pos": "noun",
+    "meaningVi": "chiến lược",
+    "example": "The national strategy sets targets for each province.",
+    "exampleVi": "Chiến lược quốc gia đặt chỉ tiêu cho từng tỉnh.",
+    "tags": [
+      "awl",
+      "work"
+    ],
+    "level": "B1",
+    "family": [
+      "strategic"
+    ]
+  },
+  {
+    "word": "stress",
+    "ipa": "/stres/",
+    "pos": "verb",
+    "meaningVi": "nhấn mạnh rằng",
+    "example": "The author stresses that correlation is not cause.",
+    "exampleVi": "Tác giả nhấn mạnh rằng tương quan không phải nguyên nhân.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "structure",
+    "ipa": "/ˈstrʌk.tʃər/",
+    "pos": "noun",
+    "meaningVi": "cấu trúc, bố cục",
+    "example": "The essay has a clear structure from the first line.",
+    "exampleVi": "Bài luận có bố cục rõ ràng ngay từ dòng đầu.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B1",
+    "family": [
+      "structural"
+    ]
+  },
+  {
+    "word": "style",
+    "ipa": "/staɪl/",
+    "pos": "noun",
+    "meaningVi": "lối viết, phong cách",
+    "example": "Academic style avoids contractions and slang.",
+    "exampleVi": "Lối viết học thuật tránh dạng rút gọn và tiếng lóng.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "subordinate",
+    "ipa": "/səˈbɔː.də.neɪt/",
+    "pos": "adjective",
+    "meaningVi": "phụ thuộc, cấp dưới",
+    "example": "Environmental aims remain subordinate to economic ones.",
+    "exampleVi": "Mục tiêu môi trường vẫn phụ thuộc vào mục tiêu kinh tế.",
+    "tags": [
+      "awl",
+      "environment"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "subsidy",
+    "ipa": "/ˈsʌb.sɪ.di/",
+    "pos": "noun",
+    "meaningVi": "khoản trợ cấp nhà nước",
+    "example": "Fuel subsidies cost more than the health budget.",
+    "exampleVi": "Khoản trợ cấp nhà nước cho nhiên liệu tốn hơn ngân sách y tế.",
+    "tags": [
+      "awl",
+      "economy"
+    ],
+    "level": "C1",
+    "family": [
+      "subsidise"
+    ]
+  },
+  {
+    "word": "substitute",
+    "ipa": "/ˈsʌb.stɪ.tjuːt/",
+    "pos": "verb",
+    "meaningVi": "thay thế bằng cái khác",
+    "example": "Many households substitute gas for firewood.",
+    "exampleVi": "Nhiều hộ gia đình thay thế bằng cái khác là khí ga cho củi.",
+    "tags": [
+      "awl",
+      "environment"
+    ],
+    "level": "B2",
+    "family": [
+      "substitution"
+    ]
+  },
+  {
+    "word": "successor",
+    "ipa": "/səkˈses.ər/",
+    "pos": "noun",
+    "meaningVi": "người kế nhiệm",
+    "example": "Her successor reversed almost every decision.",
+    "exampleVi": "Người kế nhiệm của bà đảo ngược gần như mọi quyết định.",
+    "tags": [
+      "awl",
+      "work"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "sum",
+    "ipa": "/sʌm/",
+    "pos": "noun",
+    "meaningVi": "khoản tiền, tổng số",
+    "example": "A large sum was set aside for flood defences.",
+    "exampleVi": "Một khoản tiền lớn được dành riêng cho công trình chống lũ.",
+    "tags": [
+      "awl",
+      "economy"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "survey",
+    "ipa": "/ˈsɜː.veɪ/",
+    "pos": "noun",
+    "meaningVi": "cuộc khảo sát",
+    "example": "The survey covered four thousand households.",
+    "exampleVi": "Cuộc khảo sát bao phủ bốn nghìn hộ gia đình.",
+    "tags": [
+      "awl",
+      "task1"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "suspend",
+    "ipa": "/səˈspend/",
+    "pos": "verb",
+    "meaningVi": "tạm đình chỉ",
+    "example": "Flights were suspended for three days.",
+    "exampleVi": "Các chuyến bay bị tạm đình chỉ trong ba ngày.",
+    "tags": [
+      "awl",
+      "work"
+    ],
+    "level": "B2",
+    "family": [
+      "suspension"
+    ]
+  },
+  {
+    "word": "symbol",
+    "ipa": "/ˈsɪm.bəl/",
+    "pos": "noun",
+    "meaningVi": "biểu tượng",
+    "example": "The river became a symbol of the city's recovery.",
+    "exampleVi": "Dòng sông trở thành biểu tượng cho sự hồi sinh của thành phố.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "B1",
+    "family": [
+      "symbolic"
+    ]
+  },
+  {
+    "word": "tape",
+    "ipa": "/teɪp/",
+    "pos": "noun",
+    "meaningVi": "băng ghi âm",
+    "example": "The interviews survive only on tape.",
+    "exampleVi": "Các cuộc phỏng vấn chỉ còn lưu lại trên băng ghi âm.",
+    "tags": [
+      "awl",
+      "media"
+    ],
+    "level": "A2"
+  },
+  {
+    "word": "target",
+    "ipa": "/ˈtɑː.ɡɪt/",
+    "pos": "noun",
+    "meaningVi": "chỉ tiêu đặt ra",
+    "example": "The country missed its emissions target by a wide margin.",
+    "exampleVi": "Nước này trượt chỉ tiêu đặt ra về khí thải với khoảng cách lớn.",
+    "tags": [
+      "awl",
+      "environment"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "task",
+    "ipa": "/tɑːsk/",
+    "pos": "noun",
+    "meaningVi": "nhiệm vụ được giao",
+    "example": "Each task should take no more than twenty minutes.",
+    "exampleVi": "Mỗi nhiệm vụ được giao không nên mất quá hai mươi phút.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "A2"
+  },
+  {
+    "word": "team",
+    "ipa": "/tiːm/",
+    "pos": "noun",
+    "meaningVi": "nhóm làm việc",
+    "example": "The team published its findings after four years.",
+    "exampleVi": "Nhóm làm việc công bố kết quả sau bốn năm.",
+    "tags": [
+      "awl",
+      "work"
+    ],
+    "level": "A2"
+  },
+  {
+    "word": "technical",
+    "ipa": "/ˈtek.nɪ.kəl/",
+    "pos": "adjective",
+    "meaningVi": "thuộc kỹ thuật",
+    "example": "The report is too technical for a general audience.",
+    "exampleVi": "Báo cáo quá thuộc kỹ thuật đối với độc giả phổ thông.",
+    "tags": [
+      "awl",
+      "technology"
+    ],
+    "level": "B1",
+    "family": [
+      "technically"
+    ]
+  },
+  {
+    "word": "technique",
+    "ipa": "/tekˈniːk/",
+    "pos": "noun",
+    "meaningVi": "kỹ thuật thao tác",
+    "example": "A new imaging technique made the diagnosis possible.",
+    "exampleVi": "Một kỹ thuật thao tác chụp ảnh mới khiến việc chẩn đoán trở nên khả thi.",
+    "tags": [
+      "awl",
+      "health"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "technology",
+    "ipa": "/tekˈnɒl.ə.dʒi/",
+    "pos": "noun",
+    "meaningVi": "công nghệ",
+    "example": "Technology has changed teaching faster than assessment.",
+    "exampleVi": "Công nghệ đã thay đổi việc dạy nhanh hơn việc đánh giá.",
+    "tags": [
+      "awl",
+      "technology"
+    ],
+    "level": "B1",
+    "family": [
+      "technological"
+    ]
+  },
+  {
+    "word": "temporary",
+    "ipa": "/ˈtem.prə.ri/",
+    "pos": "adjective",
+    "meaningVi": "chỉ kéo dài một thời gian",
+    "example": "The fall in traffic proved temporary.",
+    "exampleVi": "Mức giảm lưu lượng giao thông hoá ra chỉ kéo dài một thời gian.",
+    "tags": [
+      "awl",
+      "task1"
+    ],
+    "level": "B1",
+    "family": [
+      "temporarily"
+    ]
+  },
+  {
+    "word": "tense",
+    "ipa": "/tens/",
+    "pos": "adjective",
+    "meaningVi": "căng thẳng",
+    "example": "Relations between the two ministries remain tense.",
+    "exampleVi": "Quan hệ giữa hai bộ vẫn căng thẳng.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "B1",
+    "family": [
+      "tension"
+    ]
+  },
+  {
+    "word": "text",
+    "ipa": "/tekst/",
+    "pos": "noun",
+    "meaningVi": "văn bản, bài đọc",
+    "example": "Candidates read three texts in sixty minutes.",
+    "exampleVi": "Thí sinh đọc ba văn bản trong sáu mươi phút.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "A2",
+    "family": [
+      "textual"
+    ]
+  },
+  {
+    "word": "theme",
+    "ipa": "/θiːm/",
+    "pos": "noun",
+    "meaningVi": "chủ đề xuyên suốt",
+    "example": "Inequality is the central theme of the collection.",
+    "exampleVi": "Bất bình đẳng là chủ đề xuyên suốt trung tâm của tuyển tập.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B2",
+    "family": [
+      "thematic"
+    ]
+  },
+  {
+    "word": "theory",
+    "ipa": "/ˈθɪə.ri/",
+    "pos": "noun",
+    "meaningVi": "lý thuyết",
+    "example": "The theory explains the data better than its rivals.",
+    "exampleVi": "Lý thuyết này giải thích dữ liệu tốt hơn các lý thuyết đối thủ.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B1",
+    "family": [
+      "theoretical"
+    ]
+  },
+  {
+    "word": "thereby",
+    "ipa": "/ðeəˈbaɪ/",
+    "pos": "adverb",
+    "meaningVi": "qua đó mà",
+    "example": "Cycling reduces congestion, thereby cutting emissions.",
+    "exampleVi": "Đi xe đạp giảm ùn tắc, qua đó mà cắt giảm khí thải.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "thesis",
+    "ipa": "/ˈθiː.sɪs/",
+    "pos": "noun",
+    "meaningVi": "luận án, luận điểm chính",
+    "example": "Her thesis runs to three hundred pages.",
+    "exampleVi": "Luận án của bà dài ba trăm trang.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "topic",
+    "ipa": "/ˈtɒp.ɪk/",
+    "pos": "noun",
+    "meaningVi": "đề tài bàn tới",
+    "example": "Candidates may choose any topic from the list.",
+    "exampleVi": "Thí sinh có thể chọn bất kỳ đề tài bàn tới nào trong danh sách.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "A2"
+  },
+  {
+    "word": "transit",
+    "ipa": "/ˈtræn.sɪt/",
+    "pos": "noun",
+    "meaningVi": "sự trung chuyển",
+    "example": "Goods are damaged most often in transit.",
+    "exampleVi": "Hàng hoá hư hỏng nhiều nhất trong quá trình trung chuyển.",
+    "tags": [
+      "awl",
+      "economy"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "transmit",
+    "ipa": "/trænˈsmɪt/",
+    "pos": "verb",
+    "meaningVi": "truyền đi, lây truyền",
+    "example": "The virus transmits most easily in crowded rooms.",
+    "exampleVi": "Vi-rút lây truyền dễ nhất trong phòng đông người.",
+    "tags": [
+      "awl",
+      "health"
+    ],
+    "level": "B2",
+    "family": [
+      "transmission"
+    ]
+  },
+  {
+    "word": "transport",
+    "ipa": "/ˈtræn.spɔːt/",
+    "pos": "noun",
+    "meaningVi": "giao thông vận tải",
+    "example": "Public transport carries two thirds of commuters.",
+    "exampleVi": "Giao thông vận tải công cộng chở hai phần ba người đi làm.",
+    "tags": [
+      "awl",
+      "task1"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "underlie",
+    "ipa": "/ˌʌn.dəˈlaɪ/",
+    "pos": "verb",
+    "meaningVi": "nằm bên dưới làm nền",
+    "example": "Deep inequalities underlie the protest movement.",
+    "exampleVi": "Những bất bình đẳng sâu sắc nằm bên dưới làm nền cho phong trào biểu tình.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "C1",
+    "family": [
+      "underlying"
+    ]
+  },
+  {
+    "word": "uniform",
+    "ipa": "/ˈjuː.nɪ.fɔːm/",
+    "pos": "adjective",
+    "meaningVi": "đồng nhất, như nhau khắp nơi",
+    "example": "Standards are far from uniform across the country.",
+    "exampleVi": "Tiêu chuẩn còn xa mới đồng nhất trên cả nước.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "unify",
+    "ipa": "/ˈjuː.nɪ.faɪ/",
+    "pos": "verb",
+    "meaningVi": "hợp nhất lại thành một",
+    "example": "A single exam unified a fragmented system.",
+    "exampleVi": "Một kỳ thi duy nhất hợp nhất lại thành một hệ thống vốn phân mảnh.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "C1",
+    "family": [
+      "unified",
+      "unity"
+    ]
+  },
+  {
+    "word": "unique",
+    "ipa": "/juːˈniːk/",
+    "pos": "adjective",
+    "meaningVi": "độc nhất vô nhị",
+    "example": "Each island has a unique set of species.",
+    "exampleVi": "Mỗi hòn đảo có một tập hợp loài độc nhất vô nhị.",
+    "tags": [
+      "awl",
+      "environment"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "utilise",
+    "ipa": "/ˈjuː.tə.laɪz/",
+    "pos": "verb",
+    "meaningVi": "tận dụng, sử dụng có mục đích",
+    "example": "Few schools utilise the equipment they already own.",
+    "exampleVi": "Rất ít trường tận dụng thiết bị họ đã có sẵn.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "valid",
+    "ipa": "/ˈvæl.ɪd/",
+    "pos": "adjective",
+    "meaningVi": "có căn cứ, còn hiệu lực",
+    "example": "The objection is valid but easily answered.",
+    "exampleVi": "Phản bác đó có căn cứ nhưng dễ trả lời.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B2",
+    "family": [
+      "validity",
+      "validate"
+    ]
+  },
+  {
+    "word": "version",
+    "ipa": "/ˈvɜː.ʃən/",
+    "pos": "noun",
+    "meaningVi": "phiên bản",
+    "example": "An earlier version of the paper reached a different conclusion.",
+    "exampleVi": "Một phiên bản trước đó của bài báo đi tới kết luận khác.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "via",
+    "ipa": "/ˈvaɪ.ə/",
+    "pos": "preposition",
+    "meaningVi": "thông qua, đi qua ngả",
+    "example": "Most applications arrive via the online portal.",
+    "exampleVi": "Phần lớn hồ sơ tới thông qua cổng trực tuyến.",
+    "tags": [
+      "awl",
+      "technology"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "violate",
+    "ipa": "/ˈvaɪ.ə.leɪt/",
+    "pos": "verb",
+    "meaningVi": "vi phạm",
+    "example": "The factory violated three safety regulations.",
+    "exampleVi": "Nhà máy vi phạm ba quy định an toàn.",
+    "tags": [
+      "awl",
+      "law"
+    ],
+    "level": "C1",
+    "family": [
+      "violation"
+    ]
+  },
+  {
+    "word": "visible",
+    "ipa": "/ˈvɪz.ə.bəl/",
+    "pos": "adjective",
+    "meaningVi": "nhìn thấy được",
+    "example": "The effect is visible only over long periods.",
+    "exampleVi": "Hiệu ứng chỉ nhìn thấy được qua những khoảng thời gian dài.",
+    "tags": [
+      "awl",
+      "task1"
+    ],
+    "level": "B1",
+    "family": [
+      "visibility"
+    ]
+  },
+  {
+    "word": "vision",
+    "ipa": "/ˈvɪʒ.ən/",
+    "pos": "noun",
+    "meaningVi": "tầm nhìn dài hạn",
+    "example": "The plan lacks any vision beyond the next election.",
+    "exampleVi": "Kế hoạch thiếu hẳn tầm nhìn dài hạn vượt quá kỳ bầu cử tới.",
+    "tags": [
+      "awl",
+      "work"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "visual",
+    "ipa": "/ˈvɪʒ.u.əl/",
+    "pos": "adjective",
+    "meaningVi": "bằng hình ảnh, thị giác",
+    "example": "Visual aids help learners retain new vocabulary.",
+    "exampleVi": "Phương tiện bằng hình ảnh giúp người học nhớ từ mới.",
+    "tags": [
+      "awl",
+      "education"
+    ],
+    "level": "B2",
+    "family": [
+      "visually"
+    ]
+  },
+  {
+    "word": "volume",
+    "ipa": "/ˈvɒl.juːm/",
+    "pos": "noun",
+    "meaningVi": "khối lượng, dung lượng",
+    "example": "The volume of traffic doubled after the bridge opened.",
+    "exampleVi": "Khối lượng giao thông tăng gấp đôi sau khi cầu thông xe.",
+    "tags": [
+      "awl",
+      "task1"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "voluntary",
+    "ipa": "/ˈvɒl.ən.tə.ri/",
+    "pos": "adjective",
+    "meaningVi": "tự nguyện",
+    "example": "Participation was voluntary and anonymous.",
+    "exampleVi": "Việc tham gia là tự nguyện và ẩn danh.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "B2",
+    "family": [
+      "volunteer",
+      "voluntarily"
+    ]
+  },
+  {
+    "word": "welfare",
+    "ipa": "/ˈwel.feər/",
+    "pos": "noun",
+    "meaningVi": "phúc lợi xã hội",
+    "example": "Welfare spending rose sharply during the downturn.",
+    "exampleVi": "Chi tiêu phúc lợi xã hội tăng mạnh trong thời kỳ suy thoái.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "whereby",
+    "ipa": "/ˈweə.baɪ/",
+    "pos": "adverb",
+    "meaningVi": "theo đó thì",
+    "example": "They agreed a system whereby costs are shared equally.",
+    "exampleVi": "Họ thống nhất một cơ chế theo đó thì chi phí được chia đều.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "sex",
+    "ipa": "/seks/",
+    "pos": "noun",
+    "meaningVi": "giới tính sinh học",
+    "example": "The form records age, sex and place of birth.",
+    "exampleVi": "Biểu mẫu ghi nhận tuổi, giới tính sinh học và nơi sinh.",
+    "tags": [
+      "awl",
+      "society"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "so-called",
+    "ipa": "/ˌsəʊˈkɔːld/",
+    "pos": "adjective",
+    "meaningVi": "cái gọi là",
+    "example": "The so-called reform changed almost nothing.",
+    "exampleVi": "Cái gọi là cải cách ấy hầu như không thay đổi được gì.",
+    "tags": [
+      "awl",
+      "writing"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "transfer",
+    "ipa": "/trænsˈfɜːr/",
+    "pos": "verb",
+    "meaningVi": "chuyển giao sang nơi khác",
+    "example": "Skills learned in one job transfer poorly to another.",
+    "exampleVi": "Kỹ năng học được ở công việc này chuyển giao sang nơi khác rất kém.",
+    "tags": [
+      "awl",
+      "work"
+    ],
+    "level": "B1"
+  }
+]

@@ -1,0 +1,357 @@
+[
+  {
+    "word": "inequality",
+    "ipa": "/ɪ.niːˈkwɒl.ɪ.ti/",
+    "pos": "noun",
+    "meaningVi": "tình trạng bất bình đẳng",
+    "example": "Inequality widened even as average income rose.",
+    "exampleVi": "Tình trạng bất bình đẳng giãn rộng ngay cả khi thu nhập trung bình tăng.",
+    "tags": [
+      "society"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "poverty",
+    "ipa": "/ˈpɒv.ə.ti/",
+    "pos": "noun",
+    "meaningVi": "sự nghèo đói",
+    "example": "Poverty is measured differently in every country.",
+    "exampleVi": "Sự nghèo đói được đo bằng cách khác nhau ở mỗi nước.",
+    "tags": [
+      "society"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "corruption",
+    "ipa": "/kəˈrʌp.ʃən/",
+    "pos": "noun",
+    "meaningVi": "nạn tham nhũng",
+    "example": "Corruption raises the cost of every public project.",
+    "exampleVi": "Nạn tham nhũng làm đội chi phí mọi dự án công.",
+    "tags": [
+      "society"
+    ],
+    "level": "B2",
+    "family": [
+      "corrupt"
+    ]
+  },
+  {
+    "word": "bureaucracy",
+    "ipa": "/bjɔːˈrɒk.rə.si/",
+    "pos": "noun",
+    "meaningVi": "bộ máy quan liêu",
+    "example": "Bureaucracy delays permits by an average of nine months.",
+    "exampleVi": "Bộ máy quan liêu làm chậm giấy phép trung bình chín tháng.",
+    "tags": [
+      "society"
+    ],
+    "level": "C1",
+    "family": [
+      "bureaucratic"
+    ]
+  },
+  {
+    "word": "democracy",
+    "ipa": "/dɪˈmɒk.rə.si/",
+    "pos": "noun",
+    "meaningVi": "nền dân chủ",
+    "example": "Democracy depends on more than holding elections.",
+    "exampleVi": "Nền dân chủ phụ thuộc vào nhiều thứ hơn là việc tổ chức bầu cử.",
+    "tags": [
+      "society"
+    ],
+    "level": "B2",
+    "family": [
+      "democratic"
+    ]
+  },
+  {
+    "word": "censorship",
+    "ipa": "/ˈsen.sə.ʃɪp/",
+    "pos": "noun",
+    "meaningVi": "sự kiểm duyệt",
+    "example": "Censorship pushes debate onto private messaging apps.",
+    "exampleVi": "Sự kiểm duyệt đẩy tranh luận sang các ứng dụng nhắn tin riêng tư.",
+    "tags": [
+      "society",
+      "media"
+    ],
+    "level": "C1",
+    "family": [
+      "censor"
+    ]
+  },
+  {
+    "word": "protest",
+    "ipa": "/ˈprəʊ.test/",
+    "pos": "noun",
+    "meaningVi": "cuộc biểu tình phản đối",
+    "example": "The protest drew crowds from six neighbouring towns.",
+    "exampleVi": "Cuộc biểu tình phản đối thu hút đám đông từ sáu thị trấn lân cận.",
+    "tags": [
+      "society"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "riot",
+    "ipa": "/ˈraɪ.ət/",
+    "pos": "noun",
+    "meaningVi": "cuộc bạo loạn",
+    "example": "A single arrest triggered three nights of riots.",
+    "exampleVi": "Một vụ bắt giữ duy nhất châm ngòi ba đêm bạo loạn.",
+    "tags": [
+      "society"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "crime",
+    "ipa": "/kraɪm/",
+    "pos": "noun",
+    "meaningVi": "tội phạm, tội ác",
+    "example": "Recorded crime fell while fear of crime rose.",
+    "exampleVi": "Tội phạm được ghi nhận giảm trong khi nỗi sợ tội ác lại tăng.",
+    "tags": [
+      "society"
+    ],
+    "level": "B1",
+    "family": [
+      "criminal"
+    ]
+  },
+  {
+    "word": "deterrent",
+    "ipa": "/dɪˈtɜː.rənt/",
+    "pos": "noun",
+    "meaningVi": "biện pháp răn đe",
+    "example": "Long sentences work poorly as a deterrent.",
+    "exampleVi": "Án tù dài hoạt động kém hiệu quả như một biện pháp răn đe.",
+    "tags": [
+      "society"
+    ],
+    "level": "C1",
+    "family": [
+      "deter"
+    ]
+  },
+  {
+    "word": "rehabilitate",
+    "ipa": "/rɪ.həˈbɪl.ɪ.teɪt/",
+    "pos": "verb",
+    "meaningVi": "cải tạo, giúp tái hoà nhập",
+    "example": "Prisons rehabilitate far fewer offenders than they claim.",
+    "exampleVi": "Nhà tù giúp tái hoà nhập ít phạm nhân hơn nhiều so với họ tuyên bố.",
+    "tags": [
+      "society"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "offender",
+    "ipa": "/əˈfen.dər/",
+    "pos": "noun",
+    "meaningVi": "người phạm tội",
+    "example": "Most offenders are released within two years.",
+    "exampleVi": "Phần lớn người phạm tội được thả trong vòng hai năm.",
+    "tags": [
+      "society"
+    ],
+    "level": "C1",
+    "family": [
+      "offend",
+      "offence"
+    ]
+  },
+  {
+    "word": "custody",
+    "ipa": "/ˈkʌs.tə.di/",
+    "pos": "noun",
+    "meaningVi": "sự giam giữ, quyền trông nom",
+    "example": "He spent four months in custody before the trial.",
+    "exampleVi": "Ông bị giam giữ bốn tháng trước khi xét xử.",
+    "tags": [
+      "society"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "verdict",
+    "ipa": "/ˈvɜː.dɪkt/",
+    "pos": "noun",
+    "meaningVi": "phán quyết của toà",
+    "example": "The verdict was overturned on appeal.",
+    "exampleVi": "Phán quyết của toà bị lật lại ở phiên phúc thẩm.",
+    "tags": [
+      "society"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "jury",
+    "ipa": "/ˈdʒɔː.ri/",
+    "pos": "noun",
+    "meaningVi": "bồi thẩm đoàn",
+    "example": "The jury deliberated for less than an hour.",
+    "exampleVi": "Bồi thẩm đoàn nghị án chưa tới một tiếng.",
+    "tags": [
+      "society"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "prosecute",
+    "ipa": "/ˈprɒs.ɪ.kjuːt/",
+    "pos": "verb",
+    "meaningVi": "truy tố ra toà",
+    "example": "Few companies are ever prosecuted for pollution.",
+    "exampleVi": "Rất ít công ty từng bị truy tố ra toà vì gây ô nhiễm.",
+    "tags": [
+      "society"
+    ],
+    "level": "C1",
+    "family": [
+      "prosecution",
+      "prosecutor"
+    ]
+  },
+  {
+    "word": "punishment",
+    "ipa": "/ˈpʌn.ɪʃ.mənt/",
+    "pos": "noun",
+    "meaningVi": "hình phạt",
+    "example": "Punishment without support produces repeat offending.",
+    "exampleVi": "Hình phạt mà không kèm hỗ trợ sẽ sinh ra tái phạm.",
+    "tags": [
+      "society"
+    ],
+    "level": "B1",
+    "family": [
+      "punish"
+    ]
+  },
+  {
+    "word": "immigration",
+    "ipa": "/ˌɪm.ɪˈɡreɪ.ʃən/",
+    "pos": "noun",
+    "meaningVi": "vấn đề nhập cư",
+    "example": "Immigration filled shortages the training system could not.",
+    "exampleVi": "Vấn đề nhập cư lấp được những thiếu hụt mà hệ thống đào tạo không lấp nổi.",
+    "tags": [
+      "society"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "refugee",
+    "ipa": "/ˈref.juː.dʒiː/",
+    "pos": "noun",
+    "meaningVi": "người tị nạn",
+    "example": "The camp houses refugees from four separate conflicts.",
+    "exampleVi": "Trại này chứa người tị nạn từ bốn cuộc xung đột riêng biệt.",
+    "tags": [
+      "society"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "discrimination",
+    "ipa": "/dɪˌskrɪm.ɪˈneɪ.ʃən/",
+    "pos": "noun",
+    "meaningVi": "sự phân biệt đối xử",
+    "example": "Discrimination in hiring is hard to prove in court.",
+    "exampleVi": "Sự phân biệt đối xử khi tuyển dụng rất khó chứng minh trước toà.",
+    "tags": [
+      "society"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "urbanisation",
+    "ipa": "/ˌɜː.bən.aɪˈzeɪ.ʃən/",
+    "pos": "noun",
+    "meaningVi": "quá trình đô thị hoá",
+    "example": "Rapid urbanisation outpaced every plan for housing.",
+    "exampleVi": "Quá trình đô thị hoá nhanh chóng vượt xa mọi kế hoạch nhà ở.",
+    "tags": [
+      "society"
+    ],
+    "level": "C1",
+    "family": [
+      "urban",
+      "urbanise"
+    ]
+  },
+  {
+    "word": "suburb",
+    "ipa": "/ˈsʌb.ɜːb/",
+    "pos": "noun",
+    "meaningVi": "vùng ngoại ô",
+    "example": "Families move to the suburbs once children arrive.",
+    "exampleVi": "Các gia đình chuyển ra vùng ngoại ô khi có con.",
+    "tags": [
+      "society"
+    ],
+    "level": "B1",
+    "family": [
+      "suburban"
+    ]
+  },
+  {
+    "word": "overcrowding",
+    "ipa": "/ˌəʊ.vəˈkraʊ.dɪŋ/",
+    "pos": "noun",
+    "meaningVi": "tình trạng chen chúc quá tải",
+    "example": "Overcrowding on trains has worsened every year.",
+    "exampleVi": "Tình trạng chen chúc quá tải trên tàu tệ đi mỗi năm.",
+    "tags": [
+      "society"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "homeless",
+    "ipa": "/ˈhəʊm.ləs/",
+    "pos": "adjective",
+    "meaningVi": "vô gia cư",
+    "example": "Homeless numbers double whenever rents jump.",
+    "exampleVi": "Số người vô gia cư tăng gấp đôi mỗi khi giá thuê nhà nhảy vọt.",
+    "tags": [
+      "society"
+    ],
+    "level": "B2",
+    "family": [
+      "homelessness"
+    ]
+  },
+  {
+    "word": "charity",
+    "ipa": "/ˈtʃær.ɪ.ti/",
+    "pos": "noun",
+    "meaningVi": "tổ chức từ thiện",
+    "example": "A charity now runs services the state once provided.",
+    "exampleVi": "Một tổ chức từ thiện nay vận hành những dịch vụ nhà nước từng cung cấp.",
+    "tags": [
+      "society"
+    ],
+    "level": "B1",
+    "family": [
+      "charitable"
+    ]
+  },
+  {
+    "word": "volunteerism",
+    "ipa": "/ˌvɒl.ənˈtɪə.rɪ.zəm/",
+    "pos": "noun",
+    "meaningVi": "tinh thần tình nguyện",
+    "example": "Volunteerism cannot substitute for properly funded services.",
+    "exampleVi": "Tinh thần tình nguyện không thể thay thế dịch vụ được cấp kinh phí đầy đủ.",
+    "tags": [
+      "society"
+    ],
+    "level": "C1"
+  }
+]

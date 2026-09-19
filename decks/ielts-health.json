@@ -1,0 +1,367 @@
+[
+  {
+    "word": "obesity",
+    "ipa": "/əʊˈbiː.sə.ti/",
+    "pos": "noun",
+    "meaningVi": "bệnh béo phì",
+    "example": "Childhood obesity has tripled in a single generation.",
+    "exampleVi": "Bệnh béo phì ở trẻ em tăng gấp ba chỉ trong một thế hệ.",
+    "tags": [
+      "health"
+    ],
+    "level": "B2",
+    "family": [
+      "obese"
+    ]
+  },
+  {
+    "word": "nutrition",
+    "ipa": "/njuːˈtrɪʃ.ən/",
+    "pos": "noun",
+    "meaningVi": "dinh dưỡng",
+    "example": "Good nutrition in the first years shapes adult health.",
+    "exampleVi": "Dinh dưỡng tốt trong những năm đầu định hình sức khoẻ khi trưởng thành.",
+    "tags": [
+      "health"
+    ],
+    "level": "B2",
+    "family": [
+      "nutritious",
+      "nutritional"
+    ]
+  },
+  {
+    "word": "vaccine",
+    "ipa": "/vækˈsiːn/",
+    "pos": "noun",
+    "meaningVi": "vắc-xin",
+    "example": "The vaccine reached rural clinics eight months late.",
+    "exampleVi": "Vắc-xin tới các trạm y tế nông thôn chậm tám tháng.",
+    "tags": [
+      "health"
+    ],
+    "level": "B2",
+    "family": [
+      "vaccinate",
+      "vaccination"
+    ]
+  },
+  {
+    "word": "epidemic",
+    "ipa": "/ˌep.ɪˈdem.ɪk/",
+    "pos": "noun",
+    "meaningVi": "dịch bệnh trong vùng",
+    "example": "The epidemic was contained within one province.",
+    "exampleVi": "Dịch bệnh trong vùng được khống chế trong phạm vi một tỉnh.",
+    "tags": [
+      "health"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "pandemic",
+    "ipa": "/pænˈdem.ɪk/",
+    "pos": "noun",
+    "meaningVi": "đại dịch toàn cầu",
+    "example": "A pandemic exposes every weakness in a health system.",
+    "exampleVi": "Đại dịch toàn cầu phơi bày mọi điểm yếu của một hệ thống y tế.",
+    "tags": [
+      "health"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "diagnosis",
+    "ipa": "/ˌdaɪ.əɡˈnəʊ.sɪs/",
+    "pos": "noun",
+    "meaningVi": "chẩn đoán bệnh",
+    "example": "Early diagnosis doubles the chance of recovery.",
+    "exampleVi": "Chẩn đoán bệnh sớm làm tăng gấp đôi cơ hội hồi phục.",
+    "tags": [
+      "health"
+    ],
+    "level": "B2",
+    "family": [
+      "diagnose",
+      "diagnostic"
+    ]
+  },
+  {
+    "word": "chronic",
+    "ipa": "/ˈkrɒn.ɪk/",
+    "pos": "adjective",
+    "meaningVi": "mạn tính, kéo dài dai dẳng",
+    "example": "Chronic conditions consume most of the health budget.",
+    "exampleVi": "Các bệnh mạn tính kéo dài dai dẳng ngốn phần lớn ngân sách y tế.",
+    "tags": [
+      "health"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "infectious",
+    "ipa": "/ɪnˈfek.ʃəs/",
+    "pos": "adjective",
+    "meaningVi": "lây nhiễm",
+    "example": "Infectious diseases spread fastest in crowded housing.",
+    "exampleVi": "Bệnh lây nhiễm lan nhanh nhất trong nhà ở chật chội.",
+    "tags": [
+      "health"
+    ],
+    "level": "B2",
+    "family": [
+      "infect",
+      "infection"
+    ]
+  },
+  {
+    "word": "immune",
+    "ipa": "/ɪˈmjuːn/",
+    "pos": "adjective",
+    "meaningVi": "miễn dịch",
+    "example": "Sleep loss leaves the immune system weaker.",
+    "exampleVi": "Thiếu ngủ khiến hệ miễn dịch yếu đi.",
+    "tags": [
+      "health"
+    ],
+    "level": "B2",
+    "family": [
+      "immunity"
+    ]
+  },
+  {
+    "word": "symptom",
+    "ipa": "/ˈsɪmp.təm/",
+    "pos": "noun",
+    "meaningVi": "triệu chứng",
+    "example": "The first symptom often appears weeks after infection.",
+    "exampleVi": "Triệu chứng đầu tiên thường xuất hiện nhiều tuần sau khi nhiễm.",
+    "tags": [
+      "health"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "hygiene",
+    "ipa": "/ˈhaɪ.dʒiːn/",
+    "pos": "noun",
+    "meaningVi": "vệ sinh cá nhân",
+    "example": "Simple hygiene measures cut infection rates by half.",
+    "exampleVi": "Các biện pháp vệ sinh cá nhân đơn giản giảm một nửa tỷ lệ nhiễm.",
+    "tags": [
+      "health"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "sanitation",
+    "ipa": "/ˌsæn.ɪˈteɪ.ʃən/",
+    "pos": "noun",
+    "meaningVi": "điều kiện vệ sinh công cộng",
+    "example": "Sanitation improved faster than access to clean water.",
+    "exampleVi": "Điều kiện vệ sinh công cộng cải thiện nhanh hơn việc tiếp cận nước sạch.",
+    "tags": [
+      "health"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "therapy",
+    "ipa": "/ˈθer.ə.pi/",
+    "pos": "noun",
+    "meaningVi": "liệu pháp điều trị",
+    "example": "Talking therapy is as effective as medication for mild cases.",
+    "exampleVi": "Liệu pháp điều trị bằng trò chuyện hiệu quả ngang thuốc với ca nhẹ.",
+    "tags": [
+      "health"
+    ],
+    "level": "B2",
+    "family": [
+      "therapist",
+      "therapeutic"
+    ]
+  },
+  {
+    "word": "prescription",
+    "ipa": "/prɪˈskrɪp.ʃən/",
+    "pos": "noun",
+    "meaningVi": "đơn thuốc",
+    "example": "Antibiotics are sold without a prescription in many countries.",
+    "exampleVi": "Kháng sinh được bán không cần đơn thuốc ở nhiều nước.",
+    "tags": [
+      "health"
+    ],
+    "level": "B2",
+    "family": [
+      "prescribe"
+    ]
+  },
+  {
+    "word": "surgery",
+    "ipa": "/ˈsɜː.dʒə.ri/",
+    "pos": "noun",
+    "meaningVi": "ca phẫu thuật",
+    "example": "Waiting times for routine surgery exceed a year.",
+    "exampleVi": "Thời gian chờ cho ca phẫu thuật thường quy vượt quá một năm.",
+    "tags": [
+      "health"
+    ],
+    "level": "B1",
+    "family": [
+      "surgeon",
+      "surgical"
+    ]
+  },
+  {
+    "word": "insomnia",
+    "ipa": "/ɪnˈsɒm.ni.ə/",
+    "pos": "noun",
+    "meaningVi": "chứng mất ngủ",
+    "example": "Shift work is a common cause of insomnia.",
+    "exampleVi": "Làm việc theo ca là nguyên nhân phổ biến của chứng mất ngủ.",
+    "tags": [
+      "health"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "addiction",
+    "ipa": "/əˈdɪk.ʃən/",
+    "pos": "noun",
+    "meaningVi": "sự nghiện",
+    "example": "Gambling addiction is rarely treated as a health problem.",
+    "exampleVi": "Sự nghiện cờ bạc hiếm khi được coi là vấn đề sức khoẻ.",
+    "tags": [
+      "health"
+    ],
+    "level": "B2",
+    "family": [
+      "addict",
+      "addictive"
+    ]
+  },
+  {
+    "word": "sedentary",
+    "ipa": "/ˈsed.ən.tri/",
+    "pos": "adjective",
+    "meaningVi": "ít vận động, ngồi nhiều",
+    "example": "A sedentary job harms health more than a stressful one.",
+    "exampleVi": "Công việc ít vận động ngồi nhiều hại sức khoẻ hơn công việc căng thẳng.",
+    "tags": [
+      "health"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "lifespan",
+    "ipa": "/ˈlaɪf.spæn/",
+    "pos": "noun",
+    "meaningVi": "tuổi thọ trung bình",
+    "example": "Lifespan rose by twelve years within two generations.",
+    "exampleVi": "Tuổi thọ trung bình tăng mười hai năm trong hai thế hệ.",
+    "tags": [
+      "health"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "mortality",
+    "ipa": "/mɔːˈtæl.ɪ.ti/",
+    "pos": "noun",
+    "meaningVi": "tỷ lệ tử vong",
+    "example": "Infant mortality remains the clearest measure of development.",
+    "exampleVi": "Tỷ lệ tử vong ở trẻ sơ sinh vẫn là thước đo rõ nhất về phát triển.",
+    "tags": [
+      "health"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "outbreak",
+    "ipa": "/ˈaʊt.breɪk/",
+    "pos": "noun",
+    "meaningVi": "đợt bùng phát dịch",
+    "example": "The outbreak began in a single market town.",
+    "exampleVi": "Đợt bùng phát dịch khởi đầu ở một thị trấn chợ duy nhất.",
+    "tags": [
+      "health"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "malnutrition",
+    "ipa": "/ˌmæl.njuːˈtrɪʃ.ən/",
+    "pos": "noun",
+    "meaningVi": "tình trạng suy dinh dưỡng",
+    "example": "Malnutrition stunts growth long before it kills.",
+    "exampleVi": "Tình trạng suy dinh dưỡng làm còi cọc từ rất lâu trước khi gây tử vong.",
+    "tags": [
+      "health"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "remedy",
+    "ipa": "/ˈrem.ə.di/",
+    "pos": "noun",
+    "meaningVi": "phương thuốc, cách chữa",
+    "example": "There is no quick remedy for an ageing workforce.",
+    "exampleVi": "Không có phương thuốc nhanh nào cho lực lượng lao động già hoá.",
+    "tags": [
+      "health"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "rehabilitation",
+    "ipa": "/rɪ.həˌbɪl.ɪˈteɪ.ʃən/",
+    "pos": "noun",
+    "meaningVi": "phục hồi chức năng",
+    "example": "Rehabilitation takes longer than the surgery itself.",
+    "exampleVi": "Phục hồi chức năng mất nhiều thời gian hơn chính ca mổ.",
+    "tags": [
+      "health"
+    ],
+    "level": "C1",
+    "family": [
+      "rehabilitate"
+    ]
+  },
+  {
+    "word": "wellbeing",
+    "ipa": "/ˌwelˈbiː.ɪŋ/",
+    "pos": "noun",
+    "meaningVi": "sự an vui khoẻ mạnh",
+    "example": "Green space in cities measurably improves wellbeing.",
+    "exampleVi": "Không gian xanh trong đô thị cải thiện rõ rệt sự an vui khoẻ mạnh.",
+    "tags": [
+      "health"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "longevity",
+    "ipa": "/lənˈdʒev.ɪ.ti/",
+    "pos": "noun",
+    "meaningVi": "sự sống thọ",
+    "example": "Longevity depends more on habit than on medicine.",
+    "exampleVi": "Sự sống thọ phụ thuộc vào thói quen nhiều hơn vào thuốc men.",
+    "tags": [
+      "health"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "stigma",
+    "ipa": "/ˈstɪɡ.mə/",
+    "pos": "noun",
+    "meaningVi": "sự kỳ thị",
+    "example": "Stigma stops people seeking help until it is too late.",
+    "exampleVi": "Sự kỳ thị ngăn người ta tìm trợ giúp cho tới khi quá muộn.",
+    "tags": [
+      "health",
+      "society"
+    ],
+    "level": "C1"
+  }
+]

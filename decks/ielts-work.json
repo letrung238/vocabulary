@@ -1,0 +1,230 @@
+[
+  {
+    "word": "recruitment",
+    "ipa": "/rɪˈkruːt.mənt/",
+    "pos": "noun",
+    "meaningVi": "công tác tuyển dụng",
+    "example": "Recruitment costs rise when skills are scarce.",
+    "exampleVi": "Chi phí công tác tuyển dụng tăng khi kỹ năng khan hiếm.",
+    "tags": [
+      "work"
+    ],
+    "level": "B2",
+    "family": [
+      "recruit"
+    ]
+  },
+  {
+    "word": "freelance",
+    "ipa": "/ˈfriː.lɑːns/",
+    "pos": "adjective",
+    "meaningVi": "làm tự do theo hợp đồng",
+    "example": "Freelance work offers flexibility but no sick pay.",
+    "exampleVi": "Công việc làm tự do theo hợp đồng cho sự linh hoạt nhưng không có tiền nghỉ ốm.",
+    "tags": [
+      "work"
+    ],
+    "level": "B2",
+    "family": [
+      "freelancer"
+    ]
+  },
+  {
+    "word": "outsourcing",
+    "ipa": "/ˈaʊtˌsɔː.sɪŋ/",
+    "pos": "noun",
+    "meaningVi": "việc thuê ngoài",
+    "example": "Outsourcing moved thousands of jobs offshore.",
+    "exampleVi": "Việc thuê ngoài đã chuyển hàng nghìn việc làm ra nước ngoài.",
+    "tags": [
+      "work"
+    ],
+    "level": "C1",
+    "family": [
+      "outsource"
+    ]
+  },
+  {
+    "word": "productivity",
+    "ipa": "/ˌprɒd.əkˈtɪv.ɪ.ti/",
+    "pos": "noun",
+    "meaningVi": "năng suất lao động",
+    "example": "Productivity has stalled despite heavy investment in software.",
+    "exampleVi": "Năng suất lao động chững lại bất chấp đầu tư lớn vào phần mềm.",
+    "tags": [
+      "work"
+    ],
+    "level": "B2",
+    "family": [
+      "productive"
+    ]
+  },
+  {
+    "word": "entrepreneur",
+    "ipa": "/ˌɒn.trə.prəˈnɜːr/",
+    "pos": "noun",
+    "meaningVi": "doanh nhân khởi nghiệp",
+    "example": "Every entrepreneur in the survey had failed at least once.",
+    "exampleVi": "Mọi doanh nhân khởi nghiệp trong khảo sát đều đã thất bại ít nhất một lần.",
+    "tags": [
+      "work"
+    ],
+    "level": "B2",
+    "family": [
+      "entrepreneurial"
+    ]
+  },
+  {
+    "word": "commute",
+    "ipa": "/kəˈmjuːt/",
+    "pos": "verb",
+    "meaningVi": "đi lại giữa nhà và nơi làm",
+    "example": "Staff commute an average of eighty minutes each day.",
+    "exampleVi": "Nhân viên đi lại giữa nhà và nơi làm trung bình tám mươi phút mỗi ngày.",
+    "tags": [
+      "work"
+    ],
+    "level": "B2",
+    "family": [
+      "commuter"
+    ]
+  },
+  {
+    "word": "wage",
+    "ipa": "/weɪdʒ/",
+    "pos": "noun",
+    "meaningVi": "tiền công theo giờ hoặc tuần",
+    "example": "Wages have not kept pace with housing costs.",
+    "exampleVi": "Tiền công theo giờ hoặc tuần không theo kịp chi phí nhà ở.",
+    "tags": [
+      "work"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "pension",
+    "ipa": "/ˈpen.ʃən/",
+    "pos": "noun",
+    "meaningVi": "lương hưu",
+    "example": "A state pension alone no longer covers basic costs.",
+    "exampleVi": "Lương hưu nhà nước đơn thuần không còn đủ trang trải chi phí cơ bản.",
+    "tags": [
+      "work"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "monopoly",
+    "ipa": "/məˈnɒp.ə.li/",
+    "pos": "noun",
+    "meaningVi": "thế độc quyền",
+    "example": "One firm holds a near monopoly on seed supply.",
+    "exampleVi": "Một doanh nghiệp nắm thế độc quyền gần như tuyệt đối về cung ứng hạt giống.",
+    "tags": [
+      "work"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "recession",
+    "ipa": "/rɪˈseʃ.ən/",
+    "pos": "noun",
+    "meaningVi": "suy thoái kinh tế",
+    "example": "The recession hit young workers hardest.",
+    "exampleVi": "Suy thoái kinh tế giáng đòn nặng nhất vào lao động trẻ.",
+    "tags": [
+      "work"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "inflation",
+    "ipa": "/ɪnˈfleɪ.ʃən/",
+    "pos": "noun",
+    "meaningVi": "lạm phát",
+    "example": "Inflation erased the value of the pay rise.",
+    "exampleVi": "Lạm phát xoá sạch giá trị của đợt tăng lương.",
+    "tags": [
+      "work"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "austerity",
+    "ipa": "/ɔːˈster.ɪ.ti/",
+    "pos": "noun",
+    "meaningVi": "chính sách thắt lưng buộc bụng",
+    "example": "A decade of austerity left services threadbare.",
+    "exampleVi": "Một thập kỷ chính sách thắt lưng buộc bụng khiến dịch vụ công xơ xác.",
+    "tags": [
+      "work"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "bankrupt",
+    "ipa": "/ˈbæŋ.krʌpt/",
+    "pos": "adjective",
+    "meaningVi": "phá sản",
+    "example": "Two airlines went bankrupt in the same quarter.",
+    "exampleVi": "Hai hãng hàng không phá sản trong cùng một quý.",
+    "tags": [
+      "work"
+    ],
+    "level": "B2",
+    "family": [
+      "bankruptcy"
+    ]
+  },
+  {
+    "word": "investment",
+    "ipa": "/ɪnˈvest.mənt/",
+    "pos": "noun",
+    "meaningVi": "khoản đầu tư",
+    "example": "Investment in training pays back over five years.",
+    "exampleVi": "Khoản đầu tư vào đào tạo hoàn vốn sau năm năm.",
+    "tags": [
+      "work"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "workforce",
+    "ipa": "/ˈwɜːk.fɔːs/",
+    "pos": "noun",
+    "meaningVi": "lực lượng lao động",
+    "example": "A quarter of the workforce will retire within a decade.",
+    "exampleVi": "Một phần tư lực lượng lao động sẽ nghỉ hưu trong vòng một thập kỷ.",
+    "tags": [
+      "work"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "unemployment",
+    "ipa": "/ʌ.nemˈplɔɪ.mənt/",
+    "pos": "noun",
+    "meaningVi": "tình trạng thất nghiệp",
+    "example": "Youth unemployment stayed high through the recovery.",
+    "exampleVi": "Tình trạng thất nghiệp ở thanh niên vẫn cao suốt giai đoạn phục hồi.",
+    "tags": [
+      "work"
+    ],
+    "level": "B1",
+    "family": [
+      "unemployed"
+    ]
+  },
+  {
+    "word": "trade union",
+    "ipa": "/ˈtreɪd ˌjuː.ni.ən/",
+    "pos": "noun",
+    "meaningVi": "công đoàn",
+    "example": "The trade union negotiated a shorter working week.",
+    "exampleVi": "Công đoàn đã thương lượng được tuần làm việc ngắn hơn.",
+    "tags": [
+      "work"
+    ],
+    "level": "B2"
+  }
+]

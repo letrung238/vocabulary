@@ -1,9 +1,10 @@
 {
   "title": "Bộ từ VocabLite",
+  "description": "Dùng chung cho bản Android, Windows, iOS và macOS. Gộp thêm bao nhiêu bộ cũng được — tiến độ học của từ đã có được giữ nguyên.",
   "files": [
     {
-      "title": "Bộ chính — 1002 từ",
-      "description": "600 từ thông dụng + 400 từ công việc/IT. 149 từ có nghĩa phụ.",
+      "title": "Bộ chính — thông dụng + công việc/IT",
+      "description": "600 từ A2–B2 và 400 thuật ngữ công việc/IT. 149 từ có nghĩa phụ.",
       "url": "seed_words.json",
       "count": 1002
     },
@@ -12,6 +13,54 @@
       "description": "Hệ phân tán, database, bảo mật, đồng thời, DevOps, observability. Không trùng bộ chính.",
       "url": "it_advanced.json",
       "count": 151
+    },
+    {
+      "title": "IELTS · Academic Word List",
+      "description": "Từ vựng học thuật lõi (Coxhead AWL), phần chưa có trong bộ chính.",
+      "url": "decks/ielts-awl.json",
+      "count": 318
+    },
+    {
+      "title": "IELTS · Chủ đề Giáo dục",
+      "description": "Trường lớp, thi cử, đào tạo nghề.",
+      "url": "decks/ielts-education.json",
+      "count": 27
+    },
+    {
+      "title": "IELTS · Chủ đề Môi trường",
+      "description": "Khí hậu, ô nhiễm, bảo tồn, tài nguyên.",
+      "url": "decks/ielts-environment.json",
+      "count": 34
+    },
+    {
+      "title": "IELTS · Chủ đề Sức khoẻ",
+      "description": "Dịch bệnh, dinh dưỡng, hệ thống y tế.",
+      "url": "decks/ielts-health.json",
+      "count": 27
+    },
+    {
+      "title": "IELTS · Chủ đề Xã hội & Pháp luật",
+      "description": "Bất bình đẳng, tội phạm, nhập cư, đô thị hoá.",
+      "url": "decks/ielts-society.json",
+      "count": 26
+    },
+    {
+      "title": "IELTS · Writing Task 1",
+      "description": "Động từ xu hướng, mức độ, so sánh — dùng để mô tả biểu đồ.",
+      "url": "decks/ielts-task1.json",
+      "count": 52
+    },
+    {
+      "title": "IELTS · Chủ đề Công nghệ",
+      "description": "Tự động hoá, quyền riêng tư, an ninh mạng.",
+      "url": "decks/ielts-technology.json",
+      "count": 23
+    },
+    {
+      "title": "IELTS · Chủ đề Việc làm & Kinh tế",
+      "description": "Tuyển dụng, năng suất, lạm phát, suy thoái.",
+      "url": "decks/ielts-work.json",
+      "count": 17
     }
   ]
 }

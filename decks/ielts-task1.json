@@ -1,0 +1,937 @@
+[
+  {
+    "word": "rise",
+    "ipa": "/raɪz/",
+    "pos": "verb",
+    "meaningVi": "tăng lên",
+    "example": "House prices rise sharply whenever interest rates drop.",
+    "exampleVi": "Giá nhà tăng mạnh mỗi khi lãi suất hạ xuống.",
+    "tags": [
+      "task1",
+      "trend-up"
+    ],
+    "level": "A2",
+    "synonyms": [
+      "increase",
+      "climb"
+    ],
+    "family": [
+      "rising",
+      "riser"
+    ]
+  },
+  {
+    "word": "increase",
+    "ipa": "/ɪnˈkriːs/",
+    "pos": "verb",
+    "meaningVi": "tăng, làm tăng",
+    "example": "The number of visitors increased steadily between 2010 and 2015.",
+    "exampleVi": "Số lượng khách tham quan tăng đều đặn trong giai đoạn 2010 đến 2015.",
+    "tags": [
+      "task1",
+      "trend-up"
+    ],
+    "level": "A2",
+    "synonyms": [
+      "rise",
+      "grow"
+    ],
+    "family": [
+      "increasing",
+      "increasingly"
+    ]
+  },
+  {
+    "word": "grow",
+    "ipa": "/ɡrəʊ/",
+    "pos": "verb",
+    "meaningVi": "tăng trưởng",
+    "example": "The economy continued to grow despite the global downturn.",
+    "exampleVi": "Nền kinh tế tiếp tục tăng trưởng bất chấp suy thoái toàn cầu.",
+    "tags": [
+      "task1",
+      "trend-up"
+    ],
+    "level": "A2",
+    "synonyms": [
+      "expand",
+      "increase"
+    ],
+    "family": [
+      "growth",
+      "growing"
+    ]
+  },
+  {
+    "word": "climb",
+    "ipa": "/klaɪm/",
+    "pos": "verb",
+    "meaningVi": "leo lên, nhích lên từ từ",
+    "example": "Unemployment climbed to a record high in the second quarter.",
+    "exampleVi": "Tỷ lệ thất nghiệp leo lên mức cao kỷ lục trong quý hai.",
+    "tags": [
+      "task1",
+      "trend-up"
+    ],
+    "level": "B1",
+    "synonyms": [
+      "rise",
+      "ascend"
+    ]
+  },
+  {
+    "word": "soar",
+    "ipa": "/sɔːr/",
+    "pos": "verb",
+    "meaningVi": "vọt lên rất cao",
+    "example": "Fuel costs soared after the supply agreement collapsed.",
+    "exampleVi": "Chi phí nhiên liệu vọt lên rất cao sau khi thoả thuận cung ứng đổ vỡ.",
+    "tags": [
+      "task1",
+      "trend-up"
+    ],
+    "level": "C1",
+    "synonyms": [
+      "surge",
+      "rocket"
+    ]
+  },
+  {
+    "word": "surge",
+    "ipa": "/sɜːdʒ/",
+    "pos": "verb",
+    "meaningVi": "dâng lên đột ngột",
+    "example": "Demand for electric cars surged in the space of a single year.",
+    "exampleVi": "Nhu cầu xe điện dâng lên đột ngột chỉ trong vòng một năm.",
+    "tags": [
+      "task1",
+      "trend-up"
+    ],
+    "level": "C1",
+    "synonyms": [
+      "soar",
+      "spike"
+    ]
+  },
+  {
+    "word": "rocket",
+    "ipa": "/ˈrɒk.ɪt/",
+    "pos": "verb",
+    "meaningVi": "tăng như tên bắn",
+    "example": "Property values rocketed in the districts near the new metro line.",
+    "exampleVi": "Giá bất động sản tăng như tên bắn ở các quận gần tuyến tàu điện mới.",
+    "tags": [
+      "task1",
+      "trend-up"
+    ],
+    "level": "C1",
+    "synonyms": [
+      "soar",
+      "skyrocket"
+    ]
+  },
+  {
+    "word": "jump",
+    "ipa": "/dʒʌmp/",
+    "pos": "verb",
+    "meaningVi": "nhảy vọt một nấc",
+    "example": "Online sales jumped from 12% to 31% of the total.",
+    "exampleVi": "Doanh số trực tuyến nhảy vọt từ 12% lên 31% tổng doanh số.",
+    "tags": [
+      "task1",
+      "trend-up"
+    ],
+    "level": "B1",
+    "synonyms": [
+      "leap",
+      "spike"
+    ]
+  },
+  {
+    "word": "leap",
+    "ipa": "/liːp/",
+    "pos": "noun",
+    "meaningVi": "bước nhảy lớn",
+    "example": "The chart shows a dramatic leap in enrolment after 2018.",
+    "exampleVi": "Biểu đồ cho thấy một bước nhảy lớn về số người nhập học sau năm 2018.",
+    "tags": [
+      "task1",
+      "trend-up"
+    ],
+    "level": "B2",
+    "synonyms": [
+      "jump",
+      "surge"
+    ]
+  },
+  {
+    "word": "fall",
+    "ipa": "/fɔːl/",
+    "pos": "verb",
+    "meaningVi": "giảm xuống",
+    "example": "Attendance falls every year during the rainy season.",
+    "exampleVi": "Số người tham dự giảm xuống hằng năm vào mùa mưa.",
+    "tags": [
+      "task1",
+      "trend-down"
+    ],
+    "level": "A2",
+    "synonyms": [
+      "decline",
+      "drop"
+    ]
+  },
+  {
+    "word": "drop",
+    "ipa": "/drɒp/",
+    "pos": "verb",
+    "meaningVi": "sụt xuống",
+    "example": "Newspaper circulation dropped by half over the decade.",
+    "exampleVi": "Lượng phát hành báo giấy sụt xuống một nửa trong thập kỷ đó.",
+    "tags": [
+      "task1",
+      "trend-down"
+    ],
+    "level": "A2",
+    "synonyms": [
+      "fall",
+      "decrease"
+    ]
+  },
+  {
+    "word": "plunge",
+    "ipa": "/plʌndʒ/",
+    "pos": "verb",
+    "meaningVi": "lao dốc",
+    "example": "Tourist numbers plunged when the border was closed.",
+    "exampleVi": "Lượng khách du lịch lao dốc khi biên giới bị đóng.",
+    "tags": [
+      "task1",
+      "trend-down"
+    ],
+    "level": "C1",
+    "synonyms": [
+      "plummet",
+      "nosedive"
+    ]
+  },
+  {
+    "word": "plummet",
+    "ipa": "/ˈplʌm.ɪt/",
+    "pos": "verb",
+    "meaningVi": "rơi thẳng đứng",
+    "example": "Share prices plummeted within hours of the announcement.",
+    "exampleVi": "Giá cổ phiếu rơi thẳng đứng chỉ vài giờ sau thông báo.",
+    "tags": [
+      "task1",
+      "trend-down"
+    ],
+    "level": "C1",
+    "synonyms": [
+      "plunge",
+      "tumble"
+    ]
+  },
+  {
+    "word": "dip",
+    "ipa": "/dɪp/",
+    "pos": "verb",
+    "meaningVi": "hạ nhẹ rồi hồi lại",
+    "example": "Output dipped briefly in March before recovering.",
+    "exampleVi": "Sản lượng hạ nhẹ trong tháng Ba rồi hồi lại ngay sau đó.",
+    "tags": [
+      "task1",
+      "trend-down"
+    ],
+    "level": "B2",
+    "synonyms": [
+      "dent",
+      "sag"
+    ]
+  },
+  {
+    "word": "slump",
+    "ipa": "/slʌmp/",
+    "pos": "verb",
+    "meaningVi": "sụt mạnh và kéo dài",
+    "example": "Exports slumped for three consecutive quarters.",
+    "exampleVi": "Kim ngạch xuất khẩu sụt mạnh và kéo dài suốt ba quý liên tiếp.",
+    "tags": [
+      "task1",
+      "trend-down"
+    ],
+    "level": "C1",
+    "synonyms": [
+      "collapse",
+      "sink"
+    ]
+  },
+  {
+    "word": "dwindle",
+    "ipa": "/ˈdwɪn.dəl/",
+    "pos": "verb",
+    "meaningVi": "teo dần đi",
+    "example": "Fish stocks dwindled as commercial fleets expanded.",
+    "exampleVi": "Trữ lượng cá teo dần đi khi đội tàu đánh bắt thương mại mở rộng.",
+    "tags": [
+      "task1",
+      "trend-down"
+    ],
+    "level": "C1",
+    "synonyms": [
+      "diminish",
+      "shrink"
+    ]
+  },
+  {
+    "word": "stabilise",
+    "ipa": "/ˈsteɪ.bəl.aɪz/",
+    "pos": "verb",
+    "meaningVi": "đi vào ổn định",
+    "example": "Prices stabilised once the new suppliers entered the market.",
+    "exampleVi": "Giá cả đi vào ổn định khi các nhà cung cấp mới tham gia thị trường.",
+    "tags": [
+      "task1",
+      "trend-flat"
+    ],
+    "level": "B2",
+    "synonyms": [
+      "steady",
+      "settle"
+    ],
+    "family": [
+      "stable",
+      "stability"
+    ]
+  },
+  {
+    "word": "plateau",
+    "ipa": "/ˈplæt.əʊ/",
+    "pos": "verb",
+    "meaningVi": "chững lại ở một mức",
+    "example": "Growth plateaued at around eight million users.",
+    "exampleVi": "Mức tăng trưởng chững lại ở khoảng tám triệu người dùng.",
+    "tags": [
+      "task1",
+      "trend-flat"
+    ],
+    "level": "C1",
+    "synonyms": [
+      "level off",
+      "flatten"
+    ]
+  },
+  {
+    "word": "stagnate",
+    "ipa": "/stæɡˈneɪt/",
+    "pos": "verb",
+    "meaningVi": "giậm chân tại chỗ",
+    "example": "Wages stagnated while living costs kept climbing.",
+    "exampleVi": "Tiền lương giậm chân tại chỗ trong khi chi phí sinh hoạt cứ leo thang.",
+    "tags": [
+      "task1",
+      "trend-flat"
+    ],
+    "level": "C1",
+    "synonyms": [
+      "stall",
+      "flatline"
+    ],
+    "family": [
+      "stagnant",
+      "stagnation"
+    ]
+  },
+  {
+    "word": "oscillate",
+    "ipa": "/ˈɒs.ɪ.leɪt/",
+    "pos": "verb",
+    "meaningVi": "lên xuống quanh một mức",
+    "example": "The figure oscillated between 40 and 60 throughout the period.",
+    "exampleVi": "Con số lên xuống quanh khoảng từ 40 đến 60 trong suốt giai đoạn này.",
+    "tags": [
+      "task1",
+      "trend-flat"
+    ],
+    "level": "C1",
+    "synonyms": [
+      "swing",
+      "waver"
+    ]
+  },
+  {
+    "word": "peak",
+    "ipa": "/piːk/",
+    "pos": "verb",
+    "meaningVi": "đạt đỉnh",
+    "example": "Consumption peaked in August and then eased off.",
+    "exampleVi": "Mức tiêu thụ đạt đỉnh vào tháng Tám rồi dịu dần.",
+    "tags": [
+      "task1",
+      "extreme"
+    ],
+    "level": "B2",
+    "synonyms": [
+      "culminate",
+      "top out"
+    ]
+  },
+  {
+    "word": "trough",
+    "ipa": "/trɒf/",
+    "pos": "noun",
+    "meaningVi": "đáy của đồ thị",
+    "example": "The graph reaches its trough in the winter months.",
+    "exampleVi": "Đồ thị chạm đáy vào những tháng mùa đông.",
+    "tags": [
+      "task1",
+      "extreme"
+    ],
+    "level": "C1",
+    "synonyms": [
+      "low point",
+      "bottom"
+    ]
+  },
+  {
+    "word": "culminate",
+    "ipa": "/ˈkʌl.mɪ.neɪt/",
+    "pos": "verb",
+    "meaningVi": "lên tới mức cao nhất rồi dừng",
+    "example": "The upward trend culminated in a record figure of 9.4 million.",
+    "exampleVi": "Xu hướng đi lên lên tới mức cao nhất là con số kỷ lục 9,4 triệu.",
+    "tags": [
+      "task1",
+      "extreme"
+    ],
+    "level": "C1",
+    "synonyms": [
+      "peak",
+      "climax"
+    ]
+  },
+  {
+    "word": "dramatic",
+    "ipa": "/drəˈmæt.ɪk/",
+    "pos": "adjective",
+    "meaningVi": "đột ngột và rất lớn",
+    "example": "There was a dramatic change in the pattern after 2005.",
+    "exampleVi": "Có một thay đổi đột ngột và rất lớn trong xu hướng sau năm 2005.",
+    "tags": [
+      "task1",
+      "degree"
+    ],
+    "level": "B2",
+    "synonyms": [
+      "striking",
+      "marked"
+    ],
+    "family": [
+      "dramatically"
+    ]
+  },
+  {
+    "word": "sharp",
+    "ipa": "/ʃɑːp/",
+    "pos": "adjective",
+    "meaningVi": "dốc đứng, gắt",
+    "example": "A sharp increase occurred immediately after the subsidy ended.",
+    "exampleVi": "Một mức tăng dốc đứng xảy ra ngay sau khi khoản trợ cấp chấm dứt.",
+    "tags": [
+      "task1",
+      "degree"
+    ],
+    "level": "B1",
+    "synonyms": [
+      "steep",
+      "abrupt"
+    ],
+    "family": [
+      "sharply"
+    ]
+  },
+  {
+    "word": "steep",
+    "ipa": "/stiːp/",
+    "pos": "adjective",
+    "meaningVi": "dựng đứng",
+    "example": "The line shows a steep rise between June and September.",
+    "exampleVi": "Đường biểu diễn cho thấy mức tăng dựng đứng từ tháng Sáu đến tháng Chín.",
+    "tags": [
+      "task1",
+      "degree"
+    ],
+    "level": "B2",
+    "synonyms": [
+      "sharp",
+      "precipitous"
+    ],
+    "family": [
+      "steeply"
+    ]
+  },
+  {
+    "word": "considerable",
+    "ipa": "/kənˈsɪd.ər.ə.bəl/",
+    "pos": "adjective",
+    "meaningVi": "khá lớn",
+    "example": "There was a considerable gap between the two categories.",
+    "exampleVi": "Có một khoảng cách khá lớn giữa hai nhóm.",
+    "tags": [
+      "task1",
+      "degree"
+    ],
+    "level": "B2",
+    "synonyms": [
+      "substantial",
+      "sizeable"
+    ],
+    "family": [
+      "considerably"
+    ]
+  },
+  {
+    "word": "slight",
+    "ipa": "/slaɪt/",
+    "pos": "adjective",
+    "meaningVi": "nhỏ, không đáng kể",
+    "example": "Only a slight difference separates the top two countries.",
+    "exampleVi": "Chỉ một khác biệt nhỏ ngăn cách hai nước dẫn đầu.",
+    "tags": [
+      "task1",
+      "degree"
+    ],
+    "level": "B1",
+    "synonyms": [
+      "minor",
+      "modest"
+    ],
+    "family": [
+      "slightly"
+    ]
+  },
+  {
+    "word": "gradual",
+    "ipa": "/ˈɡrædʒ.u.əl/",
+    "pos": "adjective",
+    "meaningVi": "từ từ, diễn ra chậm",
+    "example": "The data reveal a gradual shift towards renewable sources.",
+    "exampleVi": "Dữ liệu cho thấy sự dịch chuyển từ từ sang các nguồn tái tạo.",
+    "tags": [
+      "task1",
+      "degree"
+    ],
+    "level": "B2",
+    "synonyms": [
+      "progressive",
+      "incremental"
+    ],
+    "family": [
+      "gradually"
+    ]
+  },
+  {
+    "word": "steady",
+    "ipa": "/ˈsted.i/",
+    "pos": "adjective",
+    "meaningVi": "đều đặn, không giật cục",
+    "example": "Membership showed steady growth across all five years.",
+    "exampleVi": "Số hội viên cho thấy mức tăng đều đặn suốt cả năm năm.",
+    "tags": [
+      "task1",
+      "degree"
+    ],
+    "level": "B1",
+    "synonyms": [
+      "consistent",
+      "uniform"
+    ],
+    "family": [
+      "steadily"
+    ]
+  },
+  {
+    "word": "rapid",
+    "ipa": "/ˈræp.ɪd/",
+    "pos": "adjective",
+    "meaningVi": "nhanh chóng",
+    "example": "The region underwent rapid industrial expansion.",
+    "exampleVi": "Khu vực này trải qua quá trình mở rộng công nghiệp nhanh chóng.",
+    "tags": [
+      "task1",
+      "degree"
+    ],
+    "level": "B1",
+    "synonyms": [
+      "swift",
+      "brisk"
+    ],
+    "family": [
+      "rapidly"
+    ]
+  },
+  {
+    "word": "abrupt",
+    "ipa": "/əˈbrʌpt/",
+    "pos": "adjective",
+    "meaningVi": "đột ngột, không báo trước",
+    "example": "An abrupt reversal took place in the final year.",
+    "exampleVi": "Một sự đảo chiều đột ngột diễn ra vào năm cuối cùng.",
+    "tags": [
+      "task1",
+      "degree"
+    ],
+    "level": "C1",
+    "synonyms": [
+      "sudden",
+      "unexpected"
+    ],
+    "family": [
+      "abruptly"
+    ]
+  },
+  {
+    "word": "trend",
+    "ipa": "/trend/",
+    "pos": "noun",
+    "meaningVi": "xu hướng chung",
+    "example": "The overall trend was upward despite two brief setbacks.",
+    "exampleVi": "Xu hướng chung là đi lên bất chấp hai lần chững ngắn.",
+    "tags": [
+      "task1",
+      "noun"
+    ],
+    "level": "B1",
+    "synonyms": [
+      "tendency",
+      "direction"
+    ]
+  },
+  {
+    "word": "percentage",
+    "ipa": "/pəˈsen.tɪdʒ/",
+    "pos": "noun",
+    "meaningVi": "tỷ lệ phần trăm",
+    "example": "The percentage of households with broadband doubled.",
+    "exampleVi": "Tỷ lệ phần trăm hộ gia đình có internet băng thông rộng tăng gấp đôi.",
+    "tags": [
+      "task1",
+      "noun"
+    ],
+    "level": "B1",
+    "synonyms": [
+      "proportion",
+      "share"
+    ]
+  },
+  {
+    "word": "ratio",
+    "ipa": "/ˈreɪ.ʃi.əʊ/",
+    "pos": "noun",
+    "meaningVi": "tỷ số giữa hai đại lượng",
+    "example": "The ratio of students to teachers fell to 18 to 1.",
+    "exampleVi": "Tỷ số giữa học sinh và giáo viên giảm còn 18 trên 1.",
+    "tags": [
+      "task1",
+      "noun"
+    ],
+    "level": "B2",
+    "synonyms": [
+      "rate",
+      "quotient"
+    ]
+  },
+  {
+    "word": "majority",
+    "ipa": "/məˈdʒɒr.ə.ti/",
+    "pos": "noun",
+    "meaningVi": "phần đông, đa số",
+    "example": "The vast majority of respondents chose the first option.",
+    "exampleVi": "Phần đông áp đảo người trả lời chọn phương án đầu tiên.",
+    "tags": [
+      "task1",
+      "noun"
+    ],
+    "level": "B1",
+    "synonyms": [
+      "bulk",
+      "preponderance"
+    ]
+  },
+  {
+    "word": "minority",
+    "ipa": "/maɪˈnɒr.ə.ti/",
+    "pos": "noun",
+    "meaningVi": "phần nhỏ, thiểu số",
+    "example": "Only a small minority travelled by bicycle.",
+    "exampleVi": "Chỉ một phần nhỏ đi lại bằng xe đạp.",
+    "tags": [
+      "task1",
+      "noun"
+    ],
+    "level": "B1",
+    "synonyms": [
+      "fraction",
+      "few"
+    ]
+  },
+  {
+    "word": "fraction",
+    "ipa": "/ˈfræk.ʃən/",
+    "pos": "noun",
+    "meaningVi": "một phần rất nhỏ",
+    "example": "Rural areas received only a fraction of the total funding.",
+    "exampleVi": "Vùng nông thôn chỉ nhận được một phần rất nhỏ trong tổng vốn.",
+    "tags": [
+      "task1",
+      "noun"
+    ],
+    "level": "B2",
+    "synonyms": [
+      "portion",
+      "sliver"
+    ]
+  },
+  {
+    "word": "interval",
+    "ipa": "/ˈɪn.tə.vəl/",
+    "pos": "noun",
+    "meaningVi": "khoảng cách giữa hai mốc",
+    "example": "Readings were taken at five-year intervals.",
+    "exampleVi": "Số liệu được ghi theo khoảng cách giữa hai mốc là năm năm.",
+    "tags": [
+      "task1",
+      "noun"
+    ],
+    "level": "B2",
+    "synonyms": [
+      "gap",
+      "span"
+    ]
+  },
+  {
+    "word": "growth",
+    "ipa": "/ɡrəʊθ/",
+    "pos": "noun",
+    "meaningVi": "mức tăng trưởng",
+    "example": "Annual growth averaged just under four per cent.",
+    "exampleVi": "Mức tăng trưởng hằng năm trung bình chỉ dưới bốn phần trăm.",
+    "tags": [
+      "task1",
+      "noun"
+    ],
+    "level": "B1",
+    "synonyms": [
+      "expansion",
+      "increase"
+    ],
+    "family": [
+      "grow",
+      "growing"
+    ]
+  },
+  {
+    "word": "fluctuation",
+    "ipa": "/ˌflʌk.tʃuˈeɪ.ʃən/",
+    "pos": "noun",
+    "meaningVi": "sự dao động lên xuống",
+    "example": "Seasonal fluctuations make the yearly average misleading.",
+    "exampleVi": "Sự dao động lên xuống theo mùa khiến số trung bình năm dễ gây hiểu nhầm.",
+    "tags": [
+      "task1",
+      "noun"
+    ],
+    "level": "C1",
+    "synonyms": [
+      "variation",
+      "swing"
+    ],
+    "family": [
+      "fluctuate"
+    ]
+  },
+  {
+    "word": "respectively",
+    "ipa": "/rɪˈspek.tɪv.li/",
+    "pos": "adverb",
+    "meaningVi": "theo thứ tự đã nêu",
+    "example": "The figures for France and Spain were 24% and 19% respectively.",
+    "exampleVi": "Con số của Pháp và Tây Ban Nha theo thứ tự đã nêu là 24% và 19%.",
+    "tags": [
+      "task1",
+      "compare"
+    ],
+    "level": "B2",
+    "synonyms": [
+      "in that order"
+    ]
+  },
+  {
+    "word": "overtake",
+    "ipa": "/ˌəʊ.vəˈteɪk/",
+    "pos": "verb",
+    "meaningVi": "vượt qua và dẫn trước",
+    "example": "Solar power is expected to overtake coal within a decade.",
+    "exampleVi": "Điện mặt trời được dự đoán sẽ vượt qua và dẫn trước than trong vòng một thập kỷ.",
+    "tags": [
+      "task1",
+      "compare"
+    ],
+    "level": "B2",
+    "synonyms": [
+      "surpass",
+      "outstrip"
+    ]
+  },
+  {
+    "word": "outnumber",
+    "ipa": "/ˌaʊtˈnʌm.bər/",
+    "pos": "verb",
+    "meaningVi": "đông hơn về số lượng",
+    "example": "Female graduates outnumber male graduates in most faculties.",
+    "exampleVi": "Sinh viên nữ tốt nghiệp đông hơn về số lượng so với nam ở hầu hết các khoa.",
+    "tags": [
+      "task1",
+      "compare"
+    ],
+    "level": "B2",
+    "synonyms": [
+      "exceed"
+    ]
+  },
+  {
+    "word": "surpass",
+    "ipa": "/səˈpɑːs/",
+    "pos": "verb",
+    "meaningVi": "vượt trội hơn hẳn",
+    "example": "The 2020 figure surpassed every previous record.",
+    "exampleVi": "Con số năm 2020 vượt trội hơn hẳn mọi kỷ lục trước đó.",
+    "tags": [
+      "task1",
+      "compare"
+    ],
+    "level": "C1",
+    "synonyms": [
+      "exceed",
+      "eclipse"
+    ]
+  },
+  {
+    "word": "double",
+    "ipa": "/ˈdʌb.əl/",
+    "pos": "verb",
+    "meaningVi": "tăng gấp đôi",
+    "example": "The number of cars on the road doubled in fifteen years.",
+    "exampleVi": "Số ô tô lưu thông tăng gấp đôi trong mười lăm năm.",
+    "tags": [
+      "task1",
+      "compare"
+    ],
+    "level": "A2",
+    "synonyms": [
+      "twofold"
+    ]
+  },
+  {
+    "word": "triple",
+    "ipa": "/ˈtrɪp.əl/",
+    "pos": "verb",
+    "meaningVi": "tăng gấp ba",
+    "example": "Investment in the sector tripled between 2012 and 2020.",
+    "exampleVi": "Vốn đầu tư vào ngành này tăng gấp ba từ năm 2012 đến 2020.",
+    "tags": [
+      "task1",
+      "compare"
+    ],
+    "level": "B2",
+    "synonyms": [
+      "treble"
+    ]
+  },
+  {
+    "word": "quadruple",
+    "ipa": "/kwɒdˈruː.pəl/",
+    "pos": "verb",
+    "meaningVi": "tăng gấp bốn",
+    "example": "Data traffic quadrupled once the network was upgraded.",
+    "exampleVi": "Lưu lượng dữ liệu tăng gấp bốn sau khi mạng được nâng cấp.",
+    "tags": [
+      "task1",
+      "compare"
+    ],
+    "level": "C1",
+    "synonyms": [
+      "fourfold"
+    ]
+  },
+  {
+    "word": "halve",
+    "ipa": "/hɑːv/",
+    "pos": "verb",
+    "meaningVi": "giảm còn một nửa",
+    "example": "Waiting times halved after the new system was introduced.",
+    "exampleVi": "Thời gian chờ giảm còn một nửa sau khi hệ thống mới được đưa vào.",
+    "tags": [
+      "task1",
+      "compare"
+    ],
+    "level": "B2",
+    "synonyms": [
+      "cut in half"
+    ]
+  },
+  {
+    "word": "approximately",
+    "ipa": "/əˈprɒk.sɪ.mət.li/",
+    "pos": "adverb",
+    "meaningVi": "xấp xỉ, khoảng chừng",
+    "example": "Approximately one in five respondents disagreed.",
+    "exampleVi": "Xấp xỉ một phần năm số người trả lời không đồng tình.",
+    "tags": [
+      "task1",
+      "hedge"
+    ],
+    "level": "B1",
+    "synonyms": [
+      "roughly",
+      "about"
+    ],
+    "family": [
+      "approximate"
+    ]
+  },
+  {
+    "word": "roughly",
+    "ipa": "/ˈrʌf.li/",
+    "pos": "adverb",
+    "meaningVi": "áng chừng",
+    "example": "The two lines remain roughly parallel until 2014.",
+    "exampleVi": "Hai đường biểu diễn áng chừng song song với nhau cho tới năm 2014.",
+    "tags": [
+      "task1",
+      "hedge"
+    ],
+    "level": "B1",
+    "synonyms": [
+      "approximately",
+      "around"
+    ]
+  },
+  {
+    "word": "overall",
+    "ipa": "/ˌəʊ.vəˈrɔːl/",
+    "pos": "adverb",
+    "meaningVi": "nhìn tổng thể",
+    "example": "Overall, the three categories followed very similar patterns.",
+    "exampleVi": "Nhìn tổng thể, ba nhóm này đi theo những xu hướng rất giống nhau.",
+    "tags": [
+      "task1",
+      "hedge"
+    ],
+    "level": "B1",
+    "synonyms": [
+      "on the whole",
+      "in general"
+    ]
+  }
+]

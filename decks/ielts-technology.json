@@ -1,0 +1,300 @@
+[
+  {
+    "word": "automation",
+    "ipa": "/ˌɔː.təˈmeɪ.ʃən/",
+    "pos": "noun",
+    "meaningVi": "sự tự động hoá",
+    "example": "Automation has hit routine clerical work hardest.",
+    "exampleVi": "Sự tự động hoá giáng đòn nặng nhất vào công việc văn phòng lặp lại.",
+    "tags": [
+      "technology"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "cybersecurity",
+    "ipa": "/ˈsaɪ.bə.sɪˌkjʊə.rə.ti/",
+    "pos": "noun",
+    "meaningVi": "an ninh mạng",
+    "example": "Hospitals spend little on cybersecurity until they are attacked.",
+    "exampleVi": "Bệnh viện chi rất ít cho an ninh mạng cho tới khi bị tấn công.",
+    "tags": [
+      "technology"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "encryption",
+    "ipa": "/enˈkrɪp.ʃən/",
+    "pos": "noun",
+    "meaningVi": "việc mã hoá dữ liệu",
+    "example": "Strong encryption protects dissidents as well as criminals.",
+    "exampleVi": "Việc mã hoá dữ liệu mạnh bảo vệ cả người bất đồng chính kiến lẫn tội phạm.",
+    "tags": [
+      "technology"
+    ],
+    "level": "C1",
+    "family": [
+      "encrypt"
+    ]
+  },
+  {
+    "word": "surveillance",
+    "ipa": "/səˈveɪ.ləns/",
+    "pos": "noun",
+    "meaningVi": "sự giám sát theo dõi",
+    "example": "Public surveillance cameras rarely reduce serious crime.",
+    "exampleVi": "Camera giám sát theo dõi nơi công cộng hiếm khi giảm được tội phạm nghiêm trọng.",
+    "tags": [
+      "technology",
+      "society"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "malware",
+    "ipa": "/ˈmæl.weər/",
+    "pos": "noun",
+    "meaningVi": "phần mềm độc hại",
+    "example": "The malware spread through a single infected file.",
+    "exampleVi": "Phần mềm độc hại lan đi qua đúng một tệp bị nhiễm.",
+    "tags": [
+      "technology"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "privacy",
+    "ipa": "/ˈprɪv.ə.si/",
+    "pos": "noun",
+    "meaningVi": "quyền riêng tư",
+    "example": "Convenience is usually traded for privacy without much thought.",
+    "exampleVi": "Người ta thường đánh đổi quyền riêng tư lấy sự tiện lợi mà ít suy nghĩ.",
+    "tags": [
+      "technology",
+      "society"
+    ],
+    "level": "B2",
+    "family": [
+      "private"
+    ]
+  },
+  {
+    "word": "robotics",
+    "ipa": "/rəʊˈbɒt.ɪks/",
+    "pos": "noun",
+    "meaningVi": "ngành chế tạo rô-bốt",
+    "example": "Robotics is taught from the first year of the degree.",
+    "exampleVi": "Ngành chế tạo rô-bốt được dạy ngay từ năm thứ nhất.",
+    "tags": [
+      "technology"
+    ],
+    "level": "B2",
+    "family": [
+      "robot"
+    ]
+  },
+  {
+    "word": "simulation",
+    "ipa": "/ˌsɪm.jʊˈleɪ.ʃən/",
+    "pos": "noun",
+    "meaningVi": "bản mô phỏng",
+    "example": "Pilots train on a simulation before they ever fly.",
+    "exampleVi": "Phi công luyện tập trên bản mô phỏng trước khi thật sự bay.",
+    "tags": [
+      "technology"
+    ],
+    "level": "B2",
+    "family": [
+      "simulate"
+    ]
+  },
+  {
+    "word": "wireless",
+    "ipa": "/ˈwaɪ.ə.ləs/",
+    "pos": "adjective",
+    "meaningVi": "không dây",
+    "example": "Wireless coverage still stops at the district border.",
+    "exampleVi": "Vùng phủ sóng không dây vẫn dừng lại ở ranh giới huyện.",
+    "tags": [
+      "technology"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "biometric",
+    "ipa": "/ˌbaɪ.əʊˈmet.rɪk/",
+    "pos": "adjective",
+    "meaningVi": "sinh trắc học",
+    "example": "Biometric passports cannot be lent or forged easily.",
+    "exampleVi": "Hộ chiếu sinh trắc học không thể cho mượn hay làm giả dễ dàng.",
+    "tags": [
+      "technology"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "digitise",
+    "ipa": "/ˈdɪdʒ.ɪ.taɪz/",
+    "pos": "verb",
+    "meaningVi": "số hoá tài liệu",
+    "example": "The library digitised four centuries of manuscripts.",
+    "exampleVi": "Thư viện số hoá tài liệu là các bản thảo suốt bốn thế kỷ.",
+    "tags": [
+      "technology"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "gadget",
+    "ipa": "/ˈɡædʒ.ɪt/",
+    "pos": "noun",
+    "meaningVi": "đồ công nghệ nhỏ",
+    "example": "Every new gadget shortens the life of the last one.",
+    "exampleVi": "Mỗi món đồ công nghệ nhỏ mới lại rút ngắn tuổi thọ của món trước.",
+    "tags": [
+      "technology"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "hacker",
+    "ipa": "/ˈhæk.ər/",
+    "pos": "noun",
+    "meaningVi": "tin tặc",
+    "example": "A hacker needs only one careless employee.",
+    "exampleVi": "Một tin tặc chỉ cần đúng một nhân viên bất cẩn.",
+    "tags": [
+      "technology"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "innovation",
+    "ipa": "/ˌɪn.əˈveɪ.ʃən/",
+    "pos": "noun",
+    "meaningVi": "sự đổi mới sáng tạo",
+    "example": "Innovation clusters where universities and firms sit close together.",
+    "exampleVi": "Sự đổi mới sáng tạo tụ lại ở nơi trường đại học và doanh nghiệp ở gần nhau.",
+    "tags": [
+      "technology"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "screen",
+    "ipa": "/skriːn/",
+    "pos": "noun",
+    "meaningVi": "màn hình",
+    "example": "Children now spend more hours before a screen than outdoors.",
+    "exampleVi": "Trẻ em nay dành nhiều giờ trước màn hình hơn là ở ngoài trời.",
+    "tags": [
+      "technology",
+      "health"
+    ],
+    "level": "A2"
+  },
+  {
+    "word": "smartphone",
+    "ipa": "/ˈsmɑːt.fəʊn/",
+    "pos": "noun",
+    "meaningVi": "điện thoại thông minh",
+    "example": "A smartphone is the only computer many households own.",
+    "exampleVi": "Điện thoại thông minh là máy tính duy nhất mà nhiều hộ gia đình có.",
+    "tags": [
+      "technology"
+    ],
+    "level": "A2"
+  },
+  {
+    "word": "startup",
+    "ipa": "/ˈstɑːt.ʌp/",
+    "pos": "noun",
+    "meaningVi": "công ty khởi nghiệp",
+    "example": "Most startups fail before their third year.",
+    "exampleVi": "Phần lớn công ty khởi nghiệp thất bại trước năm thứ ba.",
+    "tags": [
+      "technology",
+      "work"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "upgrade",
+    "ipa": "/ˈəpˈɡreɪd/",
+    "pos": "verb",
+    "meaningVi": "nâng cấp lên bản mới",
+    "example": "Users upgrade only when the old device stops working.",
+    "exampleVi": "Người dùng nâng cấp lên bản mới chỉ khi thiết bị cũ ngừng hoạt động.",
+    "tags": [
+      "technology"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "misinformation",
+    "ipa": "/ˌmɪs.ɪn.fəˈmeɪ.ʃən/",
+    "pos": "noun",
+    "meaningVi": "thông tin sai lệch",
+    "example": "Misinformation travels faster than any correction.",
+    "exampleVi": "Thông tin sai lệch lan nhanh hơn mọi lời đính chính.",
+    "tags": [
+      "technology",
+      "media"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "anonymity",
+    "ipa": "/ˌæn.əˈnɪm.ɪ.ti/",
+    "pos": "noun",
+    "meaningVi": "tình trạng ẩn danh",
+    "example": "Anonymity encourages both honesty and cruelty online.",
+    "exampleVi": "Tình trạng ẩn danh khuyến khích cả sự thành thật lẫn sự tàn nhẫn trên mạng.",
+    "tags": [
+      "technology",
+      "society"
+    ],
+    "level": "C1",
+    "family": [
+      "anonymous"
+    ]
+  },
+  {
+    "word": "connectivity",
+    "ipa": "/ˌkɒn.ekˈtɪv.ə.ti/",
+    "pos": "noun",
+    "meaningVi": "khả năng kết nối mạng",
+    "example": "Poor connectivity keeps remote schools out of online lessons.",
+    "exampleVi": "Khả năng kết nối mạng kém khiến trường vùng xa đứng ngoài các lớp trực tuyến.",
+    "tags": [
+      "technology"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "obsolescence",
+    "ipa": "/ˌɒb.səˈles.əns/",
+    "pos": "noun",
+    "meaningVi": "sự lỗi thời nhanh chóng",
+    "example": "Planned obsolescence keeps sales high and landfills full.",
+    "exampleVi": "Sự lỗi thời nhanh chóng có chủ đích giữ doanh số cao và bãi rác đầy.",
+    "tags": [
+      "technology",
+      "environment"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "interface",
+    "ipa": "/ˈɪn.tə.feɪs/",
+    "pos": "noun",
+    "meaningVi": "giao diện tiếp xúc",
+    "example": "A confusing interface excludes older users entirely.",
+    "exampleVi": "Giao diện tiếp xúc rối rắm loại bỏ hoàn toàn người dùng lớn tuổi.",
+    "tags": [
+      "technology"
+    ],
+    "level": "B2"
+  }
+]

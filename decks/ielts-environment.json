@@ -1,0 +1,459 @@
+[
+  {
+    "word": "sustainable",
+    "ipa": "/səˈsteɪ.nə.bəl/",
+    "pos": "adjective",
+    "meaningVi": "bền vững, duy trì được lâu dài",
+    "example": "Sustainable farming keeps the soil productive for generations.",
+    "exampleVi": "Nông nghiệp bền vững giữ cho đất màu mỡ qua nhiều thế hệ.",
+    "tags": [
+      "environment"
+    ],
+    "level": "B2",
+    "synonyms": [
+      "viable",
+      "enduring"
+    ],
+    "family": [
+      "sustain",
+      "sustainability"
+    ]
+  },
+  {
+    "word": "renewable",
+    "ipa": "/rɪˈnju.ə.bəl/",
+    "pos": "adjective",
+    "meaningVi": "tái tạo được",
+    "example": "Renewable sources now supply a third of the grid.",
+    "exampleVi": "Các nguồn tái tạo được hiện cung cấp một phần ba lưới điện.",
+    "tags": [
+      "environment"
+    ],
+    "level": "B2",
+    "family": [
+      "renew"
+    ]
+  },
+  {
+    "word": "emission",
+    "ipa": "/ɪˈmɪʃ.ən/",
+    "pos": "noun",
+    "meaningVi": "khí thải phát ra",
+    "example": "Emissions from transport have barely fallen since 2000.",
+    "exampleVi": "Khí thải phát ra từ giao thông hầu như không giảm kể từ năm 2000.",
+    "tags": [
+      "environment"
+    ],
+    "level": "B2",
+    "family": [
+      "emit"
+    ]
+  },
+  {
+    "word": "carbon",
+    "ipa": "/ˈkɑː.bən/",
+    "pos": "noun",
+    "meaningVi": "các-bon",
+    "example": "Every flight adds carbon to the atmosphere.",
+    "exampleVi": "Mỗi chuyến bay thải thêm các-bon vào khí quyển.",
+    "tags": [
+      "environment"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "deforestation",
+    "ipa": "/dɪˌfɒr.ɪˈsteɪ.ʃən/",
+    "pos": "noun",
+    "meaningVi": "nạn phá rừng",
+    "example": "Deforestation continues despite the government ban.",
+    "exampleVi": "Nạn phá rừng vẫn tiếp diễn bất chấp lệnh cấm của chính phủ.",
+    "tags": [
+      "environment"
+    ],
+    "level": "C1",
+    "family": [
+      "deforest"
+    ]
+  },
+  {
+    "word": "biodiversity",
+    "ipa": "/ˌbaɪ.əʊ.daɪˈvɜː.sə.ti/",
+    "pos": "noun",
+    "meaningVi": "đa dạng sinh học",
+    "example": "Wetlands hold more biodiversity than any farmland.",
+    "exampleVi": "Đất ngập nước chứa đựng đa dạng sinh học nhiều hơn bất kỳ vùng canh tác nào.",
+    "tags": [
+      "environment"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "ecosystem",
+    "ipa": "/ˈiː.kəʊ.sɪ.stəm/",
+    "pos": "noun",
+    "meaningVi": "hệ sinh thái",
+    "example": "A single introduced species can wreck an ecosystem.",
+    "exampleVi": "Chỉ một loài ngoại lai du nhập cũng có thể phá hỏng một hệ sinh thái.",
+    "tags": [
+      "environment"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "habitat",
+    "ipa": "/ˈhæb.ɪ.tæt/",
+    "pos": "noun",
+    "meaningVi": "nơi cư trú của loài",
+    "example": "Road building has fragmented the tiger's habitat.",
+    "exampleVi": "Việc làm đường đã chia cắt nơi cư trú của loài hổ.",
+    "tags": [
+      "environment"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "pollutant",
+    "ipa": "/pəˈluː.tənt/",
+    "pos": "noun",
+    "meaningVi": "chất gây ô nhiễm",
+    "example": "The river carries pollutants from three provinces.",
+    "exampleVi": "Con sông mang theo chất gây ô nhiễm từ ba tỉnh.",
+    "tags": [
+      "environment"
+    ],
+    "level": "C1",
+    "family": [
+      "pollute",
+      "pollution"
+    ]
+  },
+  {
+    "word": "landfill",
+    "ipa": "/ˈlænd.fɪl/",
+    "pos": "noun",
+    "meaningVi": "bãi chôn lấp rác",
+    "example": "Most plastic still ends up in landfill.",
+    "exampleVi": "Phần lớn nhựa vẫn kết thúc ở bãi chôn lấp rác.",
+    "tags": [
+      "environment"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "recycle",
+    "ipa": "/rɪˈsaɪ.kəl/",
+    "pos": "verb",
+    "meaningVi": "tái chế",
+    "example": "Only a quarter of household waste is actually recycled.",
+    "exampleVi": "Chỉ một phần tư rác sinh hoạt thực sự được tái chế.",
+    "tags": [
+      "environment"
+    ],
+    "level": "B1",
+    "family": [
+      "recycling",
+      "recyclable"
+    ]
+  },
+  {
+    "word": "conservation",
+    "ipa": "/ˌkɒn.səˈveɪ.ʃən/",
+    "pos": "noun",
+    "meaningVi": "công tác bảo tồn",
+    "example": "Conservation works best when local people benefit.",
+    "exampleVi": "Công tác bảo tồn hiệu quả nhất khi người dân địa phương được hưởng lợi.",
+    "tags": [
+      "environment"
+    ],
+    "level": "B2",
+    "family": [
+      "conserve"
+    ]
+  },
+  {
+    "word": "extinct",
+    "ipa": "/ekˈstɪŋkt/",
+    "pos": "adjective",
+    "meaningVi": "tuyệt chủng",
+    "example": "Three bird species became extinct on the island.",
+    "exampleVi": "Ba loài chim đã tuyệt chủng trên hòn đảo.",
+    "tags": [
+      "environment"
+    ],
+    "level": "B2",
+    "family": [
+      "extinction"
+    ]
+  },
+  {
+    "word": "endangered",
+    "ipa": "/enˈdeɪn.dʒəd/",
+    "pos": "adjective",
+    "meaningVi": "đang bị đe doạ tuyệt chủng",
+    "example": "The park shelters twelve endangered mammals.",
+    "exampleVi": "Công viên che chở mười hai loài thú đang bị đe doạ tuyệt chủng.",
+    "tags": [
+      "environment"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "pesticide",
+    "ipa": "/ˈpes.tɪ.saɪd/",
+    "pos": "noun",
+    "meaningVi": "thuốc trừ sâu",
+    "example": "Pesticide runoff has killed the fish downstream.",
+    "exampleVi": "Nước chảy tràn mang thuốc trừ sâu đã giết cá ở hạ lưu.",
+    "tags": [
+      "environment"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "drought",
+    "ipa": "/draʊt/",
+    "pos": "noun",
+    "meaningVi": "hạn hán",
+    "example": "The worst drought in a century emptied the wells.",
+    "exampleVi": "Đợt hạn hán tệ nhất thế kỷ làm cạn các giếng nước.",
+    "tags": [
+      "environment"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "famine",
+    "ipa": "/ˈfæm.ɪn/",
+    "pos": "noun",
+    "meaningVi": "nạn đói",
+    "example": "Famine follows drought when there is no reserve.",
+    "exampleVi": "Nạn đói theo sau hạn hán khi không có nguồn dự trữ.",
+    "tags": [
+      "environment"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "erosion",
+    "ipa": "/ɪˈrəʊ.ʒən/",
+    "pos": "noun",
+    "meaningVi": "sự xói mòn",
+    "example": "Tree roots slow erosion on steep slopes.",
+    "exampleVi": "Rễ cây làm chậm sự xói mòn trên các sườn dốc.",
+    "tags": [
+      "environment"
+    ],
+    "level": "C1",
+    "family": [
+      "erode"
+    ]
+  },
+  {
+    "word": "glacier",
+    "ipa": "/ˈɡleɪ.ʃər/",
+    "pos": "noun",
+    "meaningVi": "sông băng",
+    "example": "The glacier has retreated two kilometres since 1980.",
+    "exampleVi": "Sông băng đã lùi hai ki-lô-mét kể từ năm 1980.",
+    "tags": [
+      "environment"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "greenhouse",
+    "ipa": "/ˈɡriːn.haʊs/",
+    "pos": "noun",
+    "meaningVi": "hiệu ứng nhà kính",
+    "example": "Methane traps heat far better than greenhouse gases like carbon dioxide.",
+    "exampleVi": "Khí mê-tan giữ nhiệt tốt hơn nhiều so với các khí gây hiệu ứng nhà kính như CO2.",
+    "tags": [
+      "environment"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "ozone",
+    "ipa": "/ˈəʊ.zəʊn/",
+    "pos": "noun",
+    "meaningVi": "tầng ô-dôn",
+    "example": "The ozone layer is slowly repairing itself.",
+    "exampleVi": "Tầng ô-dôn đang tự phục hồi chậm rãi.",
+    "tags": [
+      "environment"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "sewage",
+    "ipa": "/ˈsu.ɪdʒ/",
+    "pos": "noun",
+    "meaningVi": "nước thải sinh hoạt",
+    "example": "Untreated sewage flows straight into the bay.",
+    "exampleVi": "Nước thải sinh hoạt chưa xử lý chảy thẳng ra vịnh.",
+    "tags": [
+      "environment"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "toxic",
+    "ipa": "/ˈtɒk.sɪk/",
+    "pos": "adjective",
+    "meaningVi": "độc hại",
+    "example": "Old batteries leak toxic metals into the soil.",
+    "exampleVi": "Pin cũ rò rỉ kim loại độc hại vào đất.",
+    "tags": [
+      "environment"
+    ],
+    "level": "B2",
+    "family": [
+      "toxicity"
+    ]
+  },
+  {
+    "word": "wildlife",
+    "ipa": "/ˈwaɪld.laɪf/",
+    "pos": "noun",
+    "meaningVi": "động vật hoang dã",
+    "example": "Fences cut wildlife off from seasonal water.",
+    "exampleVi": "Hàng rào cắt đứt động vật hoang dã khỏi nguồn nước theo mùa.",
+    "tags": [
+      "environment"
+    ],
+    "level": "B1"
+  },
+  {
+    "word": "reservoir",
+    "ipa": "/ˈrez.ə.vwɑːr/",
+    "pos": "noun",
+    "meaningVi": "hồ chứa nước",
+    "example": "The reservoir fell to a fifth of its capacity.",
+    "exampleVi": "Hồ chứa nước xuống còn một phần năm dung tích.",
+    "tags": [
+      "environment"
+    ],
+    "level": "B2"
+  },
+  {
+    "word": "irrigation",
+    "ipa": "/ˌɪr.ɪˈɡeɪ.ʃən/",
+    "pos": "noun",
+    "meaningVi": "hệ thống tưới tiêu",
+    "example": "Efficient irrigation halved the water used per hectare.",
+    "exampleVi": "Hệ thống tưới tiêu hiệu quả giảm một nửa lượng nước dùng trên mỗi héc-ta.",
+    "tags": [
+      "environment"
+    ],
+    "level": "C1",
+    "family": [
+      "irrigate"
+    ]
+  },
+  {
+    "word": "desertification",
+    "ipa": "/dɪˌzɜː.tɪ.fɪˈkeɪ.ʃən/",
+    "pos": "noun",
+    "meaningVi": "sa mạc hoá",
+    "example": "Overgrazing is the main driver of desertification here.",
+    "exampleVi": "Chăn thả quá mức là động lực chính của tình trạng sa mạc hoá ở đây.",
+    "tags": [
+      "environment"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "overfishing",
+    "ipa": "/ˌəʊ.vəˈfɪʃ.ɪŋ/",
+    "pos": "noun",
+    "meaningVi": "đánh bắt cá quá mức",
+    "example": "Overfishing has emptied grounds that fed villages for centuries.",
+    "exampleVi": "Đánh bắt cá quá mức đã vét sạch những ngư trường nuôi sống các làng suốt hàng thế kỷ.",
+    "tags": [
+      "environment"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "reforestation",
+    "ipa": "/ˌriː.fɒr.ɪˈsteɪ.ʃən/",
+    "pos": "noun",
+    "meaningVi": "việc trồng lại rừng",
+    "example": "Reforestation projects rarely survive their first dry season.",
+    "exampleVi": "Các dự án trồng lại rừng hiếm khi sống sót qua mùa khô đầu tiên.",
+    "tags": [
+      "environment"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "composting",
+    "ipa": "/ˈkɒm.pəʊ.stɪŋ/",
+    "pos": "noun",
+    "meaningVi": "việc ủ rác hữu cơ",
+    "example": "Composting removes a third of the weight from household bins.",
+    "exampleVi": "Việc ủ rác hữu cơ lấy đi một phần ba trọng lượng thùng rác gia đình.",
+    "tags": [
+      "environment"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "sustainability",
+    "ipa": "/səˌsteɪ.nəˈbɪl.ɪ.ti/",
+    "pos": "noun",
+    "meaningVi": "tính bền vững",
+    "example": "Sustainability is now written into every planning decision.",
+    "exampleVi": "Tính bền vững nay được ghi vào mọi quyết định quy hoạch.",
+    "tags": [
+      "environment"
+    ],
+    "level": "C1"
+  },
+  {
+    "word": "contaminate",
+    "ipa": "/kənˈtæm.ɪ.neɪt/",
+    "pos": "verb",
+    "meaningVi": "làm nhiễm bẩn",
+    "example": "Mining contaminated the groundwater for decades.",
+    "exampleVi": "Khai khoáng làm nhiễm bẩn nước ngầm suốt nhiều thập kỷ.",
+    "tags": [
+      "environment"
+    ],
+    "level": "C1",
+    "family": [
+      "contamination"
+    ]
+  },
+  {
+    "word": "degrade",
+    "ipa": "/dɪˈɡreɪd/",
+    "pos": "verb",
+    "meaningVi": "làm suy thoái, xuống cấp",
+    "example": "Intensive farming degrades the topsoil within a decade.",
+    "exampleVi": "Canh tác thâm canh làm suy thoái lớp đất mặt chỉ trong một thập kỷ.",
+    "tags": [
+      "environment"
+    ],
+    "level": "C1",
+    "family": [
+      "degradation"
+    ]
+  },
+  {
+    "word": "deplete",
+    "ipa": "/dɪˈpliːt/",
+    "pos": "verb",
+    "meaningVi": "làm cạn kiệt",
+    "example": "Bottling plants deplete aquifers faster than rain refills them.",
+    "exampleVi": "Các nhà máy đóng chai làm cạn kiệt tầng nước ngầm nhanh hơn mưa bù lại.",
+    "tags": [
+      "environment"
+    ],
+    "level": "C1",
+    "family": [
+      "depletion"
+    ]
+  }
+]
