@@ -1,0 +1,209 @@
+[
+  {
+    "word": "congestion",
+    "ipa": "/kənˈdʒes.tʃən/",
+    "pos": "noun",
+    "meaningVi": "ùn tắc giao thông",
+    "example": "Congestion costs the city a day per worker each month.",
+    "exampleVi": "Ùn tắc giao thông làm thành phố mất một ngày công mỗi người mỗi tháng.",
+    "topic": "transport",
+    "level": "B2"
+  },
+  {
+    "word": "pedestrian",
+    "ipa": "/pəˈdes.tri.ən/",
+    "pos": "noun",
+    "meaningVi": "người đi bộ",
+    "example": "Pedestrians have the least space and the most risk.",
+    "exampleVi": "Người đi bộ có ít không gian nhất và chịu rủi ro cao nhất.",
+    "topic": "transport",
+    "level": "B2"
+  },
+  {
+    "word": "cyclist",
+    "ipa": "/ˈsaɪ.klɪst/",
+    "pos": "noun",
+    "meaningVi": "người đi xe đạp",
+    "example": "Cyclist numbers tripled after the lanes were painted.",
+    "exampleVi": "Số người đi xe đạp tăng gấp ba sau khi kẻ làn đường.",
+    "topic": "transport",
+    "level": "B1"
+  },
+  {
+    "word": "carpool",
+    "ipa": "/ˈkɑː.puːl/",
+    "pos": "verb",
+    "meaningVi": "đi chung xe",
+    "example": "Staff who carpool pay a third of the parking fee.",
+    "exampleVi": "Nhân viên đi chung xe chỉ trả một phần ba phí gửi xe.",
+    "topic": "transport",
+    "level": "C1"
+  },
+  {
+    "word": "fare",
+    "ipa": "/feər/",
+    "pos": "noun",
+    "meaningVi": "tiền vé đi lại",
+    "example": "A flat fare is simpler but punishes short trips.",
+    "exampleVi": "Tiền vé đi lại đồng hạng thì đơn giản nhưng thiệt cho chuyến ngắn.",
+    "topic": "transport",
+    "level": "B1"
+  },
+  {
+    "word": "toll",
+    "ipa": "/təʊl/",
+    "pos": "noun",
+    "meaningVi": "phí cầu đường",
+    "example": "The toll pays for the bridge in twenty years.",
+    "exampleVi": "Phí cầu đường hoàn vốn cây cầu trong hai mươi năm.",
+    "topic": "transport",
+    "level": "B2"
+  },
+  {
+    "word": "gridlock",
+    "ipa": "/ˈɡrɪd.lɒk/",
+    "pos": "noun",
+    "meaningVi": "tắc cứng không nhúc nhích",
+    "example": "One broken signal caused gridlock across four districts.",
+    "exampleVi": "Một đèn tín hiệu hỏng gây tắc cứng không nhúc nhích khắp bốn quận.",
+    "topic": "transport",
+    "level": "C1"
+  },
+  {
+    "word": "pedestrianise",
+    "ipa": "/pəˈdes.tri.ən.aɪz/",
+    "pos": "verb",
+    "meaningVi": "biến thành phố đi bộ",
+    "example": "The council pedestrianised the centre against fierce opposition.",
+    "exampleVi": "Hội đồng biến trung tâm thành phố đi bộ bất chấp phản đối dữ dội.",
+    "topic": "transport",
+    "level": "C1"
+  },
+  {
+    "word": "commuter",
+    "ipa": "/kəˈmjuː.tər/",
+    "pos": "noun",
+    "meaningVi": "người đi làm xa hằng ngày",
+    "example": "Commuters spend a working month a year in transit.",
+    "exampleVi": "Người đi làm xa hằng ngày mất một tháng công mỗi năm trên đường.",
+    "topic": "transport",
+    "level": "B2"
+  },
+  {
+    "word": "urban sprawl",
+    "ipa": "/ˌɜː.bən ˈsprɔːl/",
+    "pos": "noun",
+    "meaningVi": "đô thị lan rộng mất kiểm soát",
+    "example": "Urban sprawl makes public transport impossible to fund.",
+    "exampleVi": "Đô thị lan rộng mất kiểm soát khiến giao thông công cộng không thể cấp vốn nổi.",
+    "topic": "transport",
+    "level": "C1",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "rush hour",
+    "ipa": "/ˈrʌʃ aʊər/",
+    "pos": "noun",
+    "meaningVi": "giờ cao điểm",
+    "example": "Rush hour now lasts four hours in each direction.",
+    "exampleVi": "Giờ cao điểm nay kéo dài bốn tiếng theo mỗi chiều.",
+    "topic": "transport",
+    "level": "B1",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "public transport",
+    "ipa": "/ˌpʌb.lɪk ˈtræn.spɔːt/",
+    "pos": "noun",
+    "meaningVi": "phương tiện công cộng",
+    "example": "Public transport works only if it runs when people need it.",
+    "exampleVi": "Phương tiện công cộng chỉ hiệu quả nếu nó chạy vào lúc người ta cần.",
+    "topic": "transport",
+    "level": "B1",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "cycle lane",
+    "ipa": "/ˈsaɪ.kəl leɪn/",
+    "pos": "noun",
+    "meaningVi": "làn đường xe đạp",
+    "example": "A cycle lane that stops at a junction protects nobody.",
+    "exampleVi": "Làn đường xe đạp dừng ở ngã tư thì không bảo vệ được ai.",
+    "topic": "transport",
+    "level": "B2",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "road safety",
+    "ipa": "/ˈrəʊd ˌseɪf.ti/",
+    "pos": "noun",
+    "meaningVi": "an toàn giao thông",
+    "example": "Road safety improved most where speed limits dropped.",
+    "exampleVi": "An toàn giao thông cải thiện nhiều nhất ở nơi hạ giới hạn tốc độ.",
+    "topic": "transport",
+    "level": "B2",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "mass transit",
+    "ipa": "/ˌmæs ˈtræn.zɪt/",
+    "pos": "noun",
+    "meaningVi": "vận tải khối lượng lớn",
+    "example": "Mass transit moves more people per lane than any road.",
+    "exampleVi": "Vận tải khối lượng lớn chở nhiều người trên mỗi làn hơn bất kỳ con đường nào.",
+    "topic": "transport",
+    "level": "C1",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "ride-hailing",
+    "ipa": "/ˈraɪd ˌheɪ.lɪŋ/",
+    "pos": "adjective",
+    "meaningVi": "gọi xe qua ứng dụng",
+    "example": "Ride-hailing apps added traffic rather than removing it.",
+    "exampleVi": "Ứng dụng gọi xe qua ứng dụng làm tăng lưu lượng chứ không giảm.",
+    "topic": "transport",
+    "level": "C1",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "self-driving",
+    "ipa": "/ˌselfˈdraɪ.vɪŋ/",
+    "pos": "adjective",
+    "meaningVi": "tự lái không người",
+    "example": "Self-driving cars handle motorways long before city streets.",
+    "exampleVi": "Xe tự lái không người xử lý được cao tốc từ lâu trước khi làm được phố thị.",
+    "topic": "transport",
+    "level": "C1",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "fuel efficiency",
+    "ipa": "/ˈfjuː.əl ɪˌfɪʃ.ən.si/",
+    "pos": "noun",
+    "meaningVi": "mức tiêu hao nhiên liệu",
+    "example": "Fuel efficiency improved while vehicles grew heavier.",
+    "exampleVi": "Mức tiêu hao nhiên liệu cải thiện trong khi xe cộ ngày càng nặng hơn.",
+    "topic": "transport",
+    "level": "B2",
+    "tags": [
+      "collocation"
+    ]
+  }
+]

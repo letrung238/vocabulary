@@ -1,0 +1,260 @@
+[
+  {
+    "word": "cuisine",
+    "ipa": "/kwɪˈziːn/",
+    "pos": "noun",
+    "meaningVi": "nền ẩm thực",
+    "example": "Regional cuisine changes every hundred kilometres.",
+    "exampleVi": "Nền ẩm thực từng vùng thay đổi sau mỗi trăm ki-lô-mét.",
+    "topic": "food",
+    "level": "B2"
+  },
+  {
+    "word": "staple",
+    "ipa": "/ˈsteɪ.pəl/",
+    "pos": "noun",
+    "meaningVi": "lương thực chính",
+    "example": "Rice remains the staple for half the world.",
+    "exampleVi": "Gạo vẫn là lương thực chính của một nửa thế giới.",
+    "topic": "food",
+    "level": "B2"
+  },
+  {
+    "word": "organic",
+    "ipa": "/ɔːˈɡæn.ɪk/",
+    "pos": "adjective",
+    "meaningVi": "canh tác hữu cơ",
+    "example": "Organic produce costs more and keeps less long.",
+    "exampleVi": "Nông sản canh tác hữu cơ đắt hơn và để được ít lâu hơn.",
+    "topic": "food",
+    "level": "B2"
+  },
+  {
+    "word": "processed",
+    "ipa": "/ˈprɑː.sest/",
+    "pos": "adjective",
+    "meaningVi": "đã qua chế biến công nghiệp",
+    "example": "Processed meals contain salt people never taste.",
+    "exampleVi": "Bữa ăn đã qua chế biến công nghiệp chứa lượng muối mà người ta không hề nếm ra.",
+    "topic": "food",
+    "level": "B2"
+  },
+  {
+    "word": "additive",
+    "ipa": "/ˈæd.ɪ.tɪv/",
+    "pos": "noun",
+    "meaningVi": "phụ gia thực phẩm",
+    "example": "Some additives are banned in one country and legal next door.",
+    "exampleVi": "Có phụ gia thực phẩm bị cấm ở nước này lại hợp pháp ngay nước bên cạnh.",
+    "topic": "food",
+    "level": "C1"
+  },
+  {
+    "word": "preservative",
+    "ipa": "/prɪˈsɜː.və.tɪv/",
+    "pos": "noun",
+    "meaningVi": "chất bảo quản",
+    "example": "Without preservatives the loaf lasts two days.",
+    "exampleVi": "Không có chất bảo quản thì ổ bánh chỉ để được hai ngày.",
+    "topic": "food",
+    "level": "C1"
+  },
+  {
+    "word": "vegetarian",
+    "ipa": "/ˌvedʒ.ɪˈteə.ri.ən/",
+    "pos": "noun",
+    "meaningVi": "người ăn chay",
+    "example": "Vegetarians make up a fifth of the student body.",
+    "exampleVi": "Người ăn chay chiếm một phần năm số sinh viên.",
+    "topic": "food",
+    "level": "B1"
+  },
+  {
+    "word": "vegan",
+    "ipa": "/ˈviː.ɡən/",
+    "pos": "noun",
+    "meaningVi": "người ăn thuần chay",
+    "example": "Vegans avoid dairy as well as meat.",
+    "exampleVi": "Người ăn thuần chay tránh cả sữa lẫn thịt.",
+    "topic": "food",
+    "level": "B2"
+  },
+  {
+    "word": "calorie",
+    "ipa": "/ˈkæl.ɔː.ri/",
+    "pos": "noun",
+    "meaningVi": "ca-lo",
+    "example": "Labels list calories but rarely explain them.",
+    "exampleVi": "Nhãn ghi số ca-lo nhưng hiếm khi giải thích chúng nghĩa là gì.",
+    "topic": "food",
+    "level": "B1"
+  },
+  {
+    "word": "cutlery",
+    "ipa": "/ˈkʌt.lə.ri/",
+    "pos": "noun",
+    "meaningVi": "bộ dao dĩa thìa",
+    "example": "Disposable cutlery was banned in the canteen.",
+    "exampleVi": "Bộ dao dĩa thìa dùng một lần bị cấm trong căng-tin.",
+    "topic": "food",
+    "level": "B2"
+  },
+  {
+    "word": "recipe",
+    "ipa": "/ˈres.ɪ.piː/",
+    "pos": "noun",
+    "meaningVi": "công thức nấu ăn",
+    "example": "The recipe survived four generations unwritten.",
+    "exampleVi": "Công thức nấu ăn truyền qua bốn thế hệ mà không hề được chép lại.",
+    "topic": "food",
+    "level": "A2"
+  },
+  {
+    "word": "flavour",
+    "ipa": "/ˈfleɪ.vər/",
+    "pos": "noun",
+    "meaningVi": "hương vị",
+    "example": "Cheap tomatoes have colour but no flavour.",
+    "exampleVi": "Cà chua rẻ có màu nhưng không có hương vị.",
+    "topic": "food",
+    "level": "B1"
+  },
+  {
+    "word": "appetite",
+    "ipa": "/ˈæp.ɪ.taɪt/",
+    "pos": "noun",
+    "meaningVi": "cảm giác thèm ăn",
+    "example": "Stress kills appetite faster than illness does.",
+    "exampleVi": "Căng thẳng giết cảm giác thèm ăn nhanh hơn cả bệnh tật.",
+    "topic": "food",
+    "level": "B2"
+  },
+  {
+    "word": "portion",
+    "ipa": "/ˈpɔː.ʃən/",
+    "pos": "noun",
+    "meaningVi": "khẩu phần",
+    "example": "Restaurant portions have doubled since the seventies.",
+    "exampleVi": "Khẩu phần ở nhà hàng đã tăng gấp đôi từ những năm bảy mươi.",
+    "topic": "food",
+    "level": "B1"
+  },
+  {
+    "word": "leftovers",
+    "ipa": "/ˈlef.təʊ.vəz/",
+    "pos": "noun",
+    "meaningVi": "thức ăn thừa",
+    "example": "Leftovers feed the family for another two meals.",
+    "exampleVi": "Thức ăn thừa nuôi cả nhà thêm hai bữa nữa.",
+    "topic": "food",
+    "level": "B1"
+  },
+  {
+    "word": "edible",
+    "ipa": "/ˈed.ə.bəl/",
+    "pos": "adjective",
+    "meaningVi": "ăn được",
+    "example": "Half the plant is edible and the rest is poisonous.",
+    "exampleVi": "Một nửa cây là ăn được, phần còn lại có độc.",
+    "topic": "food",
+    "level": "C1"
+  },
+  {
+    "word": "perishable",
+    "ipa": "/ˈper.ɪ.ʃə.bəl/",
+    "pos": "adjective",
+    "meaningVi": "dễ hỏng, mau ôi thiu",
+    "example": "Perishable goods cannot survive the journey unrefrigerated.",
+    "exampleVi": "Hàng dễ hỏng mau ôi thiu không chịu nổi hành trình nếu không có lạnh.",
+    "topic": "food",
+    "level": "C1"
+  },
+  {
+    "word": "takeaway",
+    "ipa": "/ˈteɪ.kə.weɪ/",
+    "pos": "noun",
+    "meaningVi": "đồ ăn mang về",
+    "example": "Ordering takeaway three nights a week adds up.",
+    "exampleVi": "Gọi đồ ăn mang về ba tối một tuần thì cộng lại rất tốn.",
+    "topic": "food",
+    "level": "B1"
+  },
+  {
+    "word": "balanced diet",
+    "ipa": "/ˌbæl.ənst ˈdaɪ.ət/",
+    "pos": "noun",
+    "meaningVi": "chế độ ăn cân bằng",
+    "example": "A balanced diet beats any supplement on the shelf.",
+    "exampleVi": "Chế độ ăn cân bằng hơn hẳn mọi loại thực phẩm chức năng trên kệ.",
+    "topic": "food",
+    "level": "B2",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "food security",
+    "ipa": "/ˈfuːd sɪˌkjʊə.rə.ti/",
+    "pos": "noun",
+    "meaningVi": "an ninh lương thực",
+    "example": "Food security depends on trade as much as on harvests.",
+    "exampleVi": "An ninh lương thực phụ thuộc vào thương mại ngang với phụ thuộc vào mùa màng.",
+    "topic": "food",
+    "level": "C1",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "street food",
+    "ipa": "/ˈstriːt fuːd/",
+    "pos": "noun",
+    "meaningVi": "đồ ăn đường phố",
+    "example": "Street food feeds the city more cheaply than any canteen.",
+    "exampleVi": "Đồ ăn đường phố nuôi cả thành phố rẻ hơn mọi căng-tin.",
+    "topic": "food",
+    "level": "B1",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "convenience food",
+    "ipa": "/kənˈviː.ni.əns fuːd/",
+    "pos": "noun",
+    "meaningVi": "thực phẩm ăn liền",
+    "example": "Convenience food saves time and costs health.",
+    "exampleVi": "Thực phẩm ăn liền tiết kiệm thời gian và trả giá bằng sức khoẻ.",
+    "topic": "food",
+    "level": "B2",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "seasonal produce",
+    "ipa": "/ˌsiː.zən.əl ˈprɒd.juːs/",
+    "pos": "noun",
+    "meaningVi": "nông sản theo mùa",
+    "example": "Seasonal produce travels shorter distances to reach the plate.",
+    "exampleVi": "Nông sản theo mùa đi quãng đường ngắn hơn để tới đĩa ăn.",
+    "topic": "food",
+    "level": "C1",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "home-cooked",
+    "ipa": "/ˌhəʊmˈkʊkt/",
+    "pos": "adjective",
+    "meaningVi": "nấu tại nhà",
+    "example": "A home-cooked meal costs a third of the same dish outside.",
+    "exampleVi": "Bữa ăn nấu tại nhà tốn một phần ba so với cùng món ở ngoài.",
+    "topic": "food",
+    "level": "B1",
+    "tags": [
+      "collocation"
+    ]
+  }
+]

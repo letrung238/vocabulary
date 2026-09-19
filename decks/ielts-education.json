@@ -6,10 +6,8 @@
     "meaningVi": "chương trình giảng dạy",
     "example": "The national curriculum was rewritten twice in five years.",
     "exampleVi": "Chương trình giảng dạy quốc gia được viết lại hai lần trong năm năm.",
-    "tags": [
-      "education"
-    ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "education"
   },
   {
     "word": "tuition",
@@ -18,10 +16,8 @@
     "meaningVi": "học phí, việc dạy kèm",
     "example": "Tuition now costs more than rent for many students.",
     "exampleVi": "Học phí giờ đắt hơn tiền thuê nhà với nhiều sinh viên.",
-    "tags": [
-      "education"
-    ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "education"
   },
   {
     "word": "scholarship",
@@ -30,10 +26,8 @@
     "meaningVi": "suất học bổng",
     "example": "A full scholarship covers fees and living costs.",
     "exampleVi": "Một suất học bổng toàn phần trang trải cả học phí lẫn sinh hoạt phí.",
-    "tags": [
-      "education"
-    ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "education"
   },
   {
     "word": "undergraduate",
@@ -42,10 +36,8 @@
     "meaningVi": "sinh viên bậc cử nhân",
     "example": "Undergraduates outnumber postgraduates four to one.",
     "exampleVi": "Sinh viên bậc cử nhân đông gấp bốn lần học viên sau đại học.",
-    "tags": [
-      "education"
-    ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "education"
   },
   {
     "word": "postgraduate",
@@ -54,10 +46,8 @@
     "meaningVi": "học viên sau đại học",
     "example": "Most postgraduates fund their studies by teaching.",
     "exampleVi": "Phần lớn học viên sau đại học tự trang trải việc học bằng đi dạy.",
-    "tags": [
-      "education"
-    ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "education"
   },
   {
     "word": "dissertation",
@@ -66,10 +56,8 @@
     "meaningVi": "khoá luận tốt nghiệp",
     "example": "The dissertation counts for half the final mark.",
     "exampleVi": "Khoá luận tốt nghiệp chiếm một nửa điểm tổng kết.",
-    "tags": [
-      "education"
-    ],
-    "level": "C1"
+    "level": "C1",
+    "topic": "education"
   },
   {
     "word": "plagiarism",
@@ -78,13 +66,11 @@
     "meaningVi": "hành vi đạo văn",
     "example": "Software detects plagiarism but not paid ghostwriting.",
     "exampleVi": "Phần mềm phát hiện hành vi đạo văn nhưng không bắt được việc thuê người viết hộ.",
-    "tags": [
-      "education"
-    ],
     "level": "C1",
     "family": [
       "plagiarise"
-    ]
+    ],
+    "topic": "education"
   },
   {
     "word": "tutorial",
@@ -93,10 +79,8 @@
     "meaningVi": "buổi học nhóm nhỏ",
     "example": "A weekly tutorial gives students time to argue.",
     "exampleVi": "Buổi học nhóm nhỏ hằng tuần cho sinh viên thời gian để tranh luận.",
-    "tags": [
-      "education"
-    ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "education"
   },
   {
     "word": "seminar",
@@ -105,10 +89,8 @@
     "meaningVi": "buổi chuyên đề thảo luận",
     "example": "Each seminar is led by a different researcher.",
     "exampleVi": "Mỗi buổi chuyên đề thảo luận do một nhà nghiên cứu khác chủ trì.",
-    "tags": [
-      "education"
-    ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "education"
   },
   {
     "word": "syllabus",
@@ -117,10 +99,8 @@
     "meaningVi": "đề cương môn học",
     "example": "The syllabus lists every text to be read.",
     "exampleVi": "Đề cương môn học liệt kê mọi tài liệu cần đọc.",
-    "tags": [
-      "education"
-    ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "education"
   },
   {
     "word": "literacy",
@@ -129,13 +109,11 @@
     "meaningVi": "khả năng đọc viết",
     "example": "Adult literacy rose fastest in the poorest districts.",
     "exampleVi": "Khả năng đọc viết ở người lớn tăng nhanh nhất tại các huyện nghèo nhất.",
-    "tags": [
-      "education"
-    ],
     "level": "B2",
     "family": [
       "literate"
-    ]
+    ],
+    "topic": "education"
   },
   {
     "word": "numeracy",
@@ -144,10 +122,8 @@
     "meaningVi": "khả năng tính toán",
     "example": "Poor numeracy limits which jobs school leavers can take.",
     "exampleVi": "Khả năng tính toán kém hạn chế những công việc mà học sinh tốt nghiệp có thể làm.",
-    "tags": [
-      "education"
-    ],
-    "level": "C1"
+    "level": "C1",
+    "topic": "education"
   },
   {
     "word": "motivation",
@@ -156,13 +132,11 @@
     "meaningVi": "động lực học tập",
     "example": "Motivation matters more than talent over a long course.",
     "exampleVi": "Động lực học tập quan trọng hơn năng khiếu trong một khoá dài.",
-    "tags": [
-      "education"
-    ],
     "level": "B1",
     "family": [
       "motivate"
-    ]
+    ],
+    "topic": "education"
   },
   {
     "word": "rote",
@@ -171,10 +145,8 @@
     "meaningVi": "lối học vẹt",
     "example": "Learning by rote produces marks but not understanding.",
     "exampleVi": "Lối học vẹt tạo ra điểm số nhưng không tạo ra hiểu biết.",
-    "tags": [
-      "education"
-    ],
-    "level": "C1"
+    "level": "C1",
+    "topic": "education"
   },
   {
     "word": "vocational",
@@ -183,10 +155,8 @@
     "meaningVi": "thuộc đào tạo nghề",
     "example": "Vocational courses lead to work faster than degrees.",
     "exampleVi": "Các khoá thuộc đào tạo nghề dẫn tới việc làm nhanh hơn bằng đại học.",
-    "tags": [
-      "education"
-    ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "education"
   },
   {
     "word": "apprenticeship",
@@ -195,10 +165,8 @@
     "meaningVi": "chế độ học việc",
     "example": "An apprenticeship pays a wage while you train.",
     "exampleVi": "Chế độ học việc trả lương trong lúc bạn được đào tạo.",
-    "tags": [
-      "education"
-    ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "education"
   },
   {
     "word": "truancy",
@@ -207,10 +175,8 @@
     "meaningVi": "việc trốn học",
     "example": "Truancy rose sharply after the bus routes were cut.",
     "exampleVi": "Việc trốn học tăng mạnh sau khi các tuyến xe buýt bị cắt.",
-    "tags": [
-      "education"
-    ],
-    "level": "C1"
+    "level": "C1",
+    "topic": "education"
   },
   {
     "word": "expel",
@@ -219,10 +185,8 @@
     "meaningVi": "đuổi học",
     "example": "The school expelled two pupils for repeated cheating.",
     "exampleVi": "Nhà trường đuổi học hai học sinh vì gian lận nhiều lần.",
-    "tags": [
-      "education"
-    ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "education"
   },
   {
     "word": "enrol",
@@ -231,13 +195,11 @@
     "meaningVi": "ghi danh nhập học",
     "example": "Thousands enrol each September without ever finishing.",
     "exampleVi": "Hàng nghìn người ghi danh nhập học mỗi tháng Chín mà chẳng bao giờ học xong.",
-    "tags": [
-      "education"
-    ],
     "level": "B1",
     "family": [
       "enrolment"
-    ]
+    ],
+    "topic": "education"
   },
   {
     "word": "graduate",
@@ -246,13 +208,11 @@
     "meaningVi": "tốt nghiệp ra trường",
     "example": "Students graduate with debts their parents never had.",
     "exampleVi": "Sinh viên tốt nghiệp ra trường với khoản nợ mà cha mẹ họ chưa từng gánh.",
-    "tags": [
-      "education"
-    ],
     "level": "B1",
     "family": [
       "graduation"
-    ]
+    ],
+    "topic": "education"
   },
   {
     "word": "feedback",
@@ -261,10 +221,8 @@
     "meaningVi": "lời nhận xét góp ý",
     "example": "Written feedback is more useful than a bare grade.",
     "exampleVi": "Lời nhận xét góp ý bằng văn bản hữu ích hơn một con điểm trơ trọi.",
-    "tags": [
-      "education"
-    ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "education"
   },
   {
     "word": "assessment",
@@ -273,10 +231,8 @@
     "meaningVi": "cách thức đánh giá",
     "example": "Continuous assessment replaced the final examination.",
     "exampleVi": "Cách thức đánh giá liên tục thay cho kỳ thi cuối khoá.",
-    "tags": [
-      "education"
-    ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "education"
   },
   {
     "word": "extracurricular",
@@ -285,10 +241,8 @@
     "meaningVi": "ngoại khoá",
     "example": "Extracurricular activities are unaffordable for many families.",
     "exampleVi": "Hoạt động ngoại khoá nằm ngoài khả năng chi trả của nhiều gia đình.",
-    "tags": [
-      "education"
-    ],
-    "level": "C1"
+    "level": "C1",
+    "topic": "education"
   },
   {
     "word": "boarding",
@@ -297,10 +251,8 @@
     "meaningVi": "nội trú",
     "example": "Boarding schools separate children from their communities.",
     "exampleVi": "Trường nội trú tách trẻ khỏi cộng đồng của chúng.",
-    "tags": [
-      "education"
-    ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "education"
   },
   {
     "word": "coeducation",
@@ -309,10 +261,8 @@
     "meaningVi": "giáo dục nam nữ chung lớp",
     "example": "Coeducation became standard in the nineteen seventies.",
     "exampleVi": "Giáo dục nam nữ chung lớp trở thành chuẩn mực vào những năm bảy mươi.",
-    "tags": [
-      "education"
-    ],
-    "level": "C1"
+    "level": "C1",
+    "topic": "education"
   },
   {
     "word": "tertiary",
@@ -321,10 +271,8 @@
     "meaningVi": "bậc sau phổ thông",
     "example": "Tertiary enrolment doubled within one generation.",
     "exampleVi": "Số người học bậc sau phổ thông tăng gấp đôi trong một thế hệ.",
-    "tags": [
-      "education"
-    ],
-    "level": "C1"
+    "level": "C1",
+    "topic": "education"
   },
   {
     "word": "pedagogy",
@@ -333,9 +281,7 @@
     "meaningVi": "phương pháp sư phạm",
     "example": "New pedagogy reached the textbooks long before the classrooms.",
     "exampleVi": "Phương pháp sư phạm mới đến với sách giáo khoa từ lâu trước khi tới lớp học.",
-    "tags": [
-      "education"
-    ],
-    "level": "C1"
+    "level": "C1",
+    "topic": "education"
   }
 ]

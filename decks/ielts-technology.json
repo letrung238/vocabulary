@@ -6,10 +6,8 @@
     "meaningVi": "sự tự động hoá",
     "example": "Automation has hit routine clerical work hardest.",
     "exampleVi": "Sự tự động hoá giáng đòn nặng nhất vào công việc văn phòng lặp lại.",
-    "tags": [
-      "technology"
-    ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "technology"
   },
   {
     "word": "cybersecurity",
@@ -18,10 +16,8 @@
     "meaningVi": "an ninh mạng",
     "example": "Hospitals spend little on cybersecurity until they are attacked.",
     "exampleVi": "Bệnh viện chi rất ít cho an ninh mạng cho tới khi bị tấn công.",
-    "tags": [
-      "technology"
-    ],
-    "level": "C1"
+    "level": "C1",
+    "topic": "technology"
   },
   {
     "word": "encryption",
@@ -30,13 +26,11 @@
     "meaningVi": "việc mã hoá dữ liệu",
     "example": "Strong encryption protects dissidents as well as criminals.",
     "exampleVi": "Việc mã hoá dữ liệu mạnh bảo vệ cả người bất đồng chính kiến lẫn tội phạm.",
-    "tags": [
-      "technology"
-    ],
     "level": "C1",
     "family": [
       "encrypt"
-    ]
+    ],
+    "topic": "technology"
   },
   {
     "word": "surveillance",
@@ -46,10 +40,10 @@
     "example": "Public surveillance cameras rarely reduce serious crime.",
     "exampleVi": "Camera giám sát theo dõi nơi công cộng hiếm khi giảm được tội phạm nghiêm trọng.",
     "tags": [
-      "technology",
       "society"
     ],
-    "level": "C1"
+    "level": "C1",
+    "topic": "technology"
   },
   {
     "word": "malware",
@@ -58,10 +52,8 @@
     "meaningVi": "phần mềm độc hại",
     "example": "The malware spread through a single infected file.",
     "exampleVi": "Phần mềm độc hại lan đi qua đúng một tệp bị nhiễm.",
-    "tags": [
-      "technology"
-    ],
-    "level": "C1"
+    "level": "C1",
+    "topic": "technology"
   },
   {
     "word": "privacy",
@@ -71,13 +63,13 @@
     "example": "Convenience is usually traded for privacy without much thought.",
     "exampleVi": "Người ta thường đánh đổi quyền riêng tư lấy sự tiện lợi mà ít suy nghĩ.",
     "tags": [
-      "technology",
       "society"
     ],
     "level": "B2",
     "family": [
       "private"
-    ]
+    ],
+    "topic": "technology"
   },
   {
     "word": "robotics",
@@ -86,13 +78,11 @@
     "meaningVi": "ngành chế tạo rô-bốt",
     "example": "Robotics is taught from the first year of the degree.",
     "exampleVi": "Ngành chế tạo rô-bốt được dạy ngay từ năm thứ nhất.",
-    "tags": [
-      "technology"
-    ],
     "level": "B2",
     "family": [
       "robot"
-    ]
+    ],
+    "topic": "technology"
   },
   {
     "word": "simulation",
@@ -101,13 +91,11 @@
     "meaningVi": "bản mô phỏng",
     "example": "Pilots train on a simulation before they ever fly.",
     "exampleVi": "Phi công luyện tập trên bản mô phỏng trước khi thật sự bay.",
-    "tags": [
-      "technology"
-    ],
     "level": "B2",
     "family": [
       "simulate"
-    ]
+    ],
+    "topic": "technology"
   },
   {
     "word": "wireless",
@@ -116,10 +104,8 @@
     "meaningVi": "không dây",
     "example": "Wireless coverage still stops at the district border.",
     "exampleVi": "Vùng phủ sóng không dây vẫn dừng lại ở ranh giới huyện.",
-    "tags": [
-      "technology"
-    ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "technology"
   },
   {
     "word": "biometric",
@@ -128,10 +114,8 @@
     "meaningVi": "sinh trắc học",
     "example": "Biometric passports cannot be lent or forged easily.",
     "exampleVi": "Hộ chiếu sinh trắc học không thể cho mượn hay làm giả dễ dàng.",
-    "tags": [
-      "technology"
-    ],
-    "level": "C1"
+    "level": "C1",
+    "topic": "technology"
   },
   {
     "word": "digitise",
@@ -140,10 +124,8 @@
     "meaningVi": "số hoá tài liệu",
     "example": "The library digitised four centuries of manuscripts.",
     "exampleVi": "Thư viện số hoá tài liệu là các bản thảo suốt bốn thế kỷ.",
-    "tags": [
-      "technology"
-    ],
-    "level": "C1"
+    "level": "C1",
+    "topic": "technology"
   },
   {
     "word": "gadget",
@@ -152,10 +134,8 @@
     "meaningVi": "đồ công nghệ nhỏ",
     "example": "Every new gadget shortens the life of the last one.",
     "exampleVi": "Mỗi món đồ công nghệ nhỏ mới lại rút ngắn tuổi thọ của món trước.",
-    "tags": [
-      "technology"
-    ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "technology"
   },
   {
     "word": "hacker",
@@ -164,10 +144,8 @@
     "meaningVi": "tin tặc",
     "example": "A hacker needs only one careless employee.",
     "exampleVi": "Một tin tặc chỉ cần đúng một nhân viên bất cẩn.",
-    "tags": [
-      "technology"
-    ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "technology"
   },
   {
     "word": "innovation",
@@ -176,10 +154,8 @@
     "meaningVi": "sự đổi mới sáng tạo",
     "example": "Innovation clusters where universities and firms sit close together.",
     "exampleVi": "Sự đổi mới sáng tạo tụ lại ở nơi trường đại học và doanh nghiệp ở gần nhau.",
-    "tags": [
-      "technology"
-    ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "technology"
   },
   {
     "word": "screen",
@@ -189,10 +165,10 @@
     "example": "Children now spend more hours before a screen than outdoors.",
     "exampleVi": "Trẻ em nay dành nhiều giờ trước màn hình hơn là ở ngoài trời.",
     "tags": [
-      "technology",
       "health"
     ],
-    "level": "A2"
+    "level": "A2",
+    "topic": "technology"
   },
   {
     "word": "smartphone",
@@ -201,10 +177,8 @@
     "meaningVi": "điện thoại thông minh",
     "example": "A smartphone is the only computer many households own.",
     "exampleVi": "Điện thoại thông minh là máy tính duy nhất mà nhiều hộ gia đình có.",
-    "tags": [
-      "technology"
-    ],
-    "level": "A2"
+    "level": "A2",
+    "topic": "technology"
   },
   {
     "word": "startup",
@@ -214,10 +188,10 @@
     "example": "Most startups fail before their third year.",
     "exampleVi": "Phần lớn công ty khởi nghiệp thất bại trước năm thứ ba.",
     "tags": [
-      "technology",
       "work"
     ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "technology"
   },
   {
     "word": "upgrade",
@@ -226,10 +200,8 @@
     "meaningVi": "nâng cấp lên bản mới",
     "example": "Users upgrade only when the old device stops working.",
     "exampleVi": "Người dùng nâng cấp lên bản mới chỉ khi thiết bị cũ ngừng hoạt động.",
-    "tags": [
-      "technology"
-    ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "technology"
   },
   {
     "word": "misinformation",
@@ -239,10 +211,10 @@
     "example": "Misinformation travels faster than any correction.",
     "exampleVi": "Thông tin sai lệch lan nhanh hơn mọi lời đính chính.",
     "tags": [
-      "technology",
       "media"
     ],
-    "level": "C1"
+    "level": "C1",
+    "topic": "technology"
   },
   {
     "word": "anonymity",
@@ -252,13 +224,13 @@
     "example": "Anonymity encourages both honesty and cruelty online.",
     "exampleVi": "Tình trạng ẩn danh khuyến khích cả sự thành thật lẫn sự tàn nhẫn trên mạng.",
     "tags": [
-      "technology",
       "society"
     ],
     "level": "C1",
     "family": [
       "anonymous"
-    ]
+    ],
+    "topic": "technology"
   },
   {
     "word": "connectivity",
@@ -267,10 +239,8 @@
     "meaningVi": "khả năng kết nối mạng",
     "example": "Poor connectivity keeps remote schools out of online lessons.",
     "exampleVi": "Khả năng kết nối mạng kém khiến trường vùng xa đứng ngoài các lớp trực tuyến.",
-    "tags": [
-      "technology"
-    ],
-    "level": "C1"
+    "level": "C1",
+    "topic": "technology"
   },
   {
     "word": "obsolescence",
@@ -280,10 +250,10 @@
     "example": "Planned obsolescence keeps sales high and landfills full.",
     "exampleVi": "Sự lỗi thời nhanh chóng có chủ đích giữ doanh số cao và bãi rác đầy.",
     "tags": [
-      "technology",
       "environment"
     ],
-    "level": "C1"
+    "level": "C1",
+    "topic": "technology"
   },
   {
     "word": "interface",
@@ -292,9 +262,7 @@
     "meaningVi": "giao diện tiếp xúc",
     "example": "A confusing interface excludes older users entirely.",
     "exampleVi": "Giao diện tiếp xúc rối rắm loại bỏ hoàn toàn người dùng lớn tuổi.",
-    "tags": [
-      "technology"
-    ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "technology"
   }
 ]

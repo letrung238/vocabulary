@@ -1,0 +1,203 @@
+[
+  {
+    "word": "consumerism",
+    "ipa": "/kənˈsjuː.mə.rɪ.zəm/",
+    "pos": "noun",
+    "meaningVi": "chủ nghĩa tiêu dùng",
+    "example": "Consumerism measures a life by what it owns.",
+    "exampleVi": "Chủ nghĩa tiêu dùng đo một đời người bằng thứ người đó sở hữu.",
+    "topic": "money",
+    "level": "C1"
+  },
+  {
+    "word": "affordable",
+    "ipa": "/əˈfɔː.də.bəl/",
+    "pos": "adjective",
+    "meaningVi": "vừa túi tiền",
+    "example": "Affordable housing disappeared faster than wages rose.",
+    "exampleVi": "Nhà ở vừa túi tiền biến mất nhanh hơn tốc độ tăng lương.",
+    "topic": "money",
+    "level": "B1"
+  },
+  {
+    "word": "bargain",
+    "ipa": "/ˈbɑː.ɡɪn/",
+    "pos": "noun",
+    "meaningVi": "món hời",
+    "example": "A bargain you never use is not a bargain.",
+    "exampleVi": "Món hời mà bạn không bao giờ dùng thì không phải món hời.",
+    "topic": "money",
+    "level": "B1"
+  },
+  {
+    "word": "instalment",
+    "ipa": "/ɪnˈstɔːl.mənt/",
+    "pos": "noun",
+    "meaningVi": "khoản trả góp",
+    "example": "Paying by instalment hides the true price.",
+    "exampleVi": "Trả bằng khoản trả góp che mất giá thật.",
+    "topic": "money",
+    "level": "C1"
+  },
+  {
+    "word": "mortgage",
+    "ipa": "/ˈmɔː.ɡɪdʒ/",
+    "pos": "noun",
+    "meaningVi": "khoản vay mua nhà",
+    "example": "A mortgage now takes two incomes and thirty years.",
+    "exampleVi": "Khoản vay mua nhà nay cần hai nguồn thu nhập và ba mươi năm.",
+    "topic": "money",
+    "level": "B2"
+  },
+  {
+    "word": "debt",
+    "ipa": "/det/",
+    "pos": "noun",
+    "meaningVi": "nợ nần",
+    "example": "Student debt shapes decisions for a decade after graduation.",
+    "exampleVi": "Nợ nần thời sinh viên định hình quyết định suốt một thập kỷ sau tốt nghiệp.",
+    "topic": "money",
+    "level": "B1"
+  },
+  {
+    "word": "expenditure",
+    "ipa": "/ekˈspen.dɪ.tʃər/",
+    "pos": "noun",
+    "meaningVi": "khoản chi tiêu",
+    "example": "Household expenditure on food fell as a share of income.",
+    "exampleVi": "Khoản chi tiêu hộ gia đình cho thực phẩm giảm tính theo tỷ lệ thu nhập.",
+    "topic": "money",
+    "level": "C1"
+  },
+  {
+    "word": "materialism",
+    "ipa": "/məˈtɪə.ri.ə.lɪ.zəm/",
+    "pos": "noun",
+    "meaningVi": "lối sống trọng vật chất",
+    "example": "Materialism correlates poorly with reported happiness.",
+    "exampleVi": "Lối sống trọng vật chất tương quan rất kém với mức hạnh phúc tự khai.",
+    "topic": "money",
+    "level": "C1"
+  },
+  {
+    "word": "counterfeit",
+    "ipa": "/ˈkaʊn.tə.fɪt/",
+    "pos": "adjective",
+    "meaningVi": "hàng giả nhái",
+    "example": "Counterfeit goods now copy the packaging perfectly.",
+    "exampleVi": "Hàng giả nhái nay sao chép bao bì hoàn hảo.",
+    "topic": "money",
+    "level": "C1"
+  },
+  {
+    "word": "thrifty",
+    "ipa": "/ˈθrɪf.ti/",
+    "pos": "adjective",
+    "meaningVi": "tằn tiện, khéo chi tiêu",
+    "example": "Her thrifty habits outlasted the years of hardship.",
+    "exampleVi": "Thói quen tằn tiện khéo chi tiêu của bà còn lại lâu hơn những năm khó khăn.",
+    "topic": "money",
+    "level": "C1"
+  },
+  {
+    "word": "extravagant",
+    "ipa": "/ekˈstræv.ə.ɡənt/",
+    "pos": "adjective",
+    "meaningVi": "hoang phí",
+    "example": "One extravagant purchase undoes a year of saving.",
+    "exampleVi": "Một lần mua sắm hoang phí xoá sạch một năm tiết kiệm.",
+    "topic": "money",
+    "level": "C1"
+  },
+  {
+    "word": "disposable income",
+    "ipa": "/dɪˌspəʊ.zə.bəl ˈɪn.kʌm/",
+    "pos": "noun",
+    "meaningVi": "thu nhập còn lại để tiêu",
+    "example": "Disposable income fell even as salaries rose.",
+    "exampleVi": "Thu nhập còn lại để tiêu giảm ngay cả khi lương tăng.",
+    "topic": "money",
+    "level": "C1",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "cost of living",
+    "ipa": "/ˌkɒst əv ˈlɪv.ɪŋ/",
+    "pos": "noun",
+    "meaningVi": "chi phí sinh hoạt",
+    "example": "The cost of living rose fastest where jobs were scarcest.",
+    "exampleVi": "Chi phí sinh hoạt tăng nhanh nhất ở nơi việc làm khan hiếm nhất.",
+    "topic": "money",
+    "level": "B2",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "purchasing power",
+    "ipa": "/ˈpɜː.tʃə.sɪŋ ˌpaʊər/",
+    "pos": "noun",
+    "meaningVi": "sức mua",
+    "example": "Purchasing power halved within three years of the crisis.",
+    "exampleVi": "Sức mua giảm một nửa trong vòng ba năm sau khủng hoảng.",
+    "topic": "money",
+    "level": "C1",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "impulse buying",
+    "ipa": "/ˈɪm.pʌls ˌbaɪ.ɪŋ/",
+    "pos": "noun",
+    "meaningVi": "mua sắm bốc đồng",
+    "example": "Shops are laid out to encourage impulse buying.",
+    "exampleVi": "Cửa hàng được bày trí để khuyến khích mua sắm bốc đồng.",
+    "topic": "money",
+    "level": "C1",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "brand loyalty",
+    "ipa": "/ˈbrænd ˌlɔɪ.əl.ti/",
+    "pos": "noun",
+    "meaningVi": "lòng trung thành với thương hiệu",
+    "example": "Brand loyalty collapses the moment a cheaper option works.",
+    "exampleVi": "Lòng trung thành với thương hiệu sụp đổ ngay khi có lựa chọn rẻ hơn mà dùng được.",
+    "topic": "money",
+    "level": "C1",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "financial literacy",
+    "ipa": "/faɪˌnæn.ʃəl ˈlɪt.ər.ə.si/",
+    "pos": "noun",
+    "meaningVi": "hiểu biết về tài chính",
+    "example": "Financial literacy is taught nowhere and assumed everywhere.",
+    "exampleVi": "Hiểu biết về tài chính không được dạy ở đâu nhưng lại được mặc định ở mọi nơi.",
+    "topic": "money",
+    "level": "C1",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "income inequality",
+    "ipa": "/ˈɪn.kʌm ˌɪn.ɪˈkwɒl.ə.ti/",
+    "pos": "noun",
+    "meaningVi": "chênh lệch thu nhập",
+    "example": "Income inequality widened during the recovery, not the crash.",
+    "exampleVi": "Chênh lệch thu nhập giãn rộng trong giai đoạn phục hồi, không phải lúc sụp đổ.",
+    "topic": "money",
+    "level": "C1",
+    "tags": [
+      "collocation"
+    ]
+  }
+]

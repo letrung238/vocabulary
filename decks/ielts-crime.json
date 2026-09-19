@@ -1,0 +1,204 @@
+[
+  {
+    "word": "offence",
+    "ipa": "/əˈfens/",
+    "pos": "noun",
+    "meaningVi": "hành vi phạm pháp",
+    "example": "A first offence rarely leads to prison here.",
+    "exampleVi": "Hành vi phạm pháp lần đầu ở đây hiếm khi dẫn tới tù giam.",
+    "topic": "law",
+    "level": "B2"
+  },
+  {
+    "word": "burglary",
+    "ipa": "/ˈbɜː.ɡlər.i/",
+    "pos": "noun",
+    "meaningVi": "trộm đột nhập",
+    "example": "Burglary fell sharply once doors had better locks.",
+    "exampleVi": "Trộm đột nhập giảm mạnh khi cửa có khoá tốt hơn.",
+    "topic": "law",
+    "level": "C1"
+  },
+  {
+    "word": "vandalism",
+    "ipa": "/ˈvæn.dəl.ɪ.zəm/",
+    "pos": "noun",
+    "meaningVi": "phá hoại tài sản công",
+    "example": "Vandalism costs the council more than theft does.",
+    "exampleVi": "Phá hoại tài sản công tốn của hội đồng nhiều hơn trộm cắp.",
+    "topic": "law",
+    "level": "C1"
+  },
+  {
+    "word": "fraud",
+    "ipa": "/frɔːd/",
+    "pos": "noun",
+    "meaningVi": "gian lận lừa đảo",
+    "example": "Online fraud now outnumbers every other reported crime.",
+    "exampleVi": "Gian lận lừa đảo trực tuyến nay nhiều hơn mọi loại tội phạm được trình báo khác.",
+    "topic": "law",
+    "level": "B2"
+  },
+  {
+    "word": "smuggling",
+    "ipa": "/ˈsmʌɡ.lɪŋ/",
+    "pos": "noun",
+    "meaningVi": "buôn lậu",
+    "example": "Smuggling follows whatever the tax makes expensive.",
+    "exampleVi": "Buôn lậu bám theo bất cứ thứ gì thuế làm cho đắt đỏ.",
+    "topic": "law",
+    "level": "C1"
+  },
+  {
+    "word": "trafficking",
+    "ipa": "/ˈtræf.ɪ.kɪŋ/",
+    "pos": "noun",
+    "meaningVi": "buôn người, buôn hàng cấm",
+    "example": "Trafficking routes shift the moment one border tightens.",
+    "exampleVi": "Tuyến buôn người và hàng cấm đổi hướng ngay khi một biên giới siết chặt.",
+    "topic": "law",
+    "level": "C1"
+  },
+  {
+    "word": "convict",
+    "ipa": "/ˈkɑːn.vɪkt/",
+    "pos": "verb",
+    "meaningVi": "kết án là có tội",
+    "example": "Juries convict on evidence, not on impression.",
+    "exampleVi": "Bồi thẩm đoàn kết án là có tội dựa trên bằng chứng, không dựa trên cảm tưởng.",
+    "topic": "law",
+    "level": "C1"
+  },
+  {
+    "word": "probation",
+    "ipa": "/prəʊˈbeɪ.ʃən/",
+    "pos": "noun",
+    "meaningVi": "án treo có giám sát",
+    "example": "Probation costs a fraction of what a cell costs.",
+    "exampleVi": "Án treo có giám sát tốn một phần nhỏ so với một buồng giam.",
+    "topic": "law",
+    "level": "C1"
+  },
+  {
+    "word": "parole",
+    "ipa": "/pəˈrəʊl/",
+    "pos": "noun",
+    "meaningVi": "tha tù trước hạn",
+    "example": "Parole depends on behaviour inside, not the original crime.",
+    "exampleVi": "Tha tù trước hạn phụ thuộc vào hạnh kiểm bên trong, không phải tội ban đầu.",
+    "topic": "law",
+    "level": "C1"
+  },
+  {
+    "word": "deterrence",
+    "ipa": "/dɪˈter.əns/",
+    "pos": "noun",
+    "meaningVi": "tác dụng răn đe",
+    "example": "Deterrence works through certainty, not severity.",
+    "exampleVi": "Tác dụng răn đe đến từ sự chắc chắn bị bắt, không phải mức án nặng.",
+    "topic": "law",
+    "level": "C1"
+  },
+  {
+    "word": "juvenile",
+    "ipa": "/ˈdʒuː.və.naɪl/",
+    "pos": "adjective",
+    "meaningVi": "vị thành niên",
+    "example": "Juvenile offenders are tried under separate rules.",
+    "exampleVi": "Người phạm tội vị thành niên được xét xử theo quy định riêng.",
+    "topic": "law",
+    "level": "C1"
+  },
+  {
+    "word": "witness",
+    "ipa": "/ˈwɪt.nəs/",
+    "pos": "noun",
+    "meaningVi": "nhân chứng",
+    "example": "The only witness changed her account twice.",
+    "exampleVi": "Nhân chứng duy nhất đổi lời khai hai lần.",
+    "topic": "law",
+    "level": "B1"
+  },
+  {
+    "word": "testimony",
+    "ipa": "/ˈtes.tɪ.mə.ni/",
+    "pos": "noun",
+    "meaningVi": "lời khai trước toà",
+    "example": "Testimony from memory is less reliable than people assume.",
+    "exampleVi": "Lời khai trước toà dựa vào trí nhớ kém tin cậy hơn người ta tưởng.",
+    "topic": "law",
+    "level": "C1"
+  },
+  {
+    "word": "acquit",
+    "ipa": "/əˈkwɪt/",
+    "pos": "verb",
+    "meaningVi": "tuyên trắng án",
+    "example": "The court acquitted him after new evidence appeared.",
+    "exampleVi": "Toà tuyên trắng án cho ông sau khi có bằng chứng mới.",
+    "topic": "law",
+    "level": "C1"
+  },
+  {
+    "word": "bribery",
+    "ipa": "/ˈbraɪ.bər.i/",
+    "pos": "noun",
+    "meaningVi": "tội đưa và nhận hối lộ",
+    "example": "Bribery thrives where officials are paid too little.",
+    "exampleVi": "Tội đưa và nhận hối lộ sinh sôi ở nơi công chức được trả lương quá thấp.",
+    "topic": "law",
+    "level": "C1"
+  },
+  {
+    "word": "community service",
+    "ipa": "/kəˈmjuː.nə.ti ˌsɜː.vɪs/",
+    "pos": "noun",
+    "meaningVi": "lao động công ích",
+    "example": "Community service reoffends less than a short sentence.",
+    "exampleVi": "Lao động công ích có tỷ lệ tái phạm thấp hơn một án tù ngắn.",
+    "topic": "law",
+    "level": "B2",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "capital punishment",
+    "ipa": "/ˌkæp.ɪ.təl ˈpʌn.ɪʃ.mənt/",
+    "pos": "noun",
+    "meaningVi": "án tử hình",
+    "example": "Capital punishment has been abolished in most of Europe.",
+    "exampleVi": "Án tử hình đã bị bãi bỏ ở phần lớn châu Âu.",
+    "topic": "law",
+    "level": "C1",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "crime rate",
+    "ipa": "/ˈkraɪm reɪt/",
+    "pos": "noun",
+    "meaningVi": "tỷ lệ tội phạm",
+    "example": "The crime rate fell while fear of crime rose.",
+    "exampleVi": "Tỷ lệ tội phạm giảm trong khi nỗi sợ tội phạm lại tăng.",
+    "topic": "law",
+    "level": "B2",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "law enforcement",
+    "ipa": "/ˈlɔː ɪnˌfɔːs.mənt/",
+    "pos": "noun",
+    "meaningVi": "lực lượng thực thi pháp luật",
+    "example": "Law enforcement absorbs a quarter of the city budget.",
+    "exampleVi": "Lực lượng thực thi pháp luật ngốn một phần tư ngân sách thành phố.",
+    "topic": "law",
+    "level": "B2",
+    "tags": [
+      "collocation"
+    ]
+  }
+]

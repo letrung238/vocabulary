@@ -1,0 +1,224 @@
+[
+  {
+    "word": "athlete",
+    "ipa": "/ˈæθ.liːt/",
+    "pos": "noun",
+    "meaningVi": "vận động viên",
+    "example": "An athlete peaks for perhaps four years.",
+    "exampleVi": "Vận động viên đạt đỉnh phong độ có lẽ chỉ bốn năm.",
+    "topic": "sport",
+    "level": "B1"
+  },
+  {
+    "word": "endurance",
+    "ipa": "/enˈdjɔː.rəns/",
+    "pos": "noun",
+    "meaningVi": "sức bền",
+    "example": "Endurance improves long after speed stops improving.",
+    "exampleVi": "Sức bền còn tiến bộ rất lâu sau khi tốc độ đã chững.",
+    "topic": "sport",
+    "level": "B2"
+  },
+  {
+    "word": "stamina",
+    "ipa": "/ˈstæm.ɪ.nə/",
+    "pos": "noun",
+    "meaningVi": "sức dẻo dai",
+    "example": "Stamina fades first when training stops.",
+    "exampleVi": "Sức dẻo dai mất đầu tiên khi ngừng tập.",
+    "topic": "sport",
+    "level": "C1"
+  },
+  {
+    "word": "referee",
+    "ipa": "/ˌref.əˈriː/",
+    "pos": "noun",
+    "meaningVi": "trọng tài",
+    "example": "The referee changed the match with one decision.",
+    "exampleVi": "Trọng tài đổi cả trận đấu bằng một quyết định.",
+    "topic": "sport",
+    "level": "B1"
+  },
+  {
+    "word": "spectator",
+    "ipa": "/spekˈteɪ.tər/",
+    "pos": "noun",
+    "meaningVi": "khán giả xem thi đấu",
+    "example": "Spectators now watch more matches at home than in stadiums.",
+    "exampleVi": "Khán giả xem thi đấu nay theo dõi ở nhà nhiều hơn ở sân vận động.",
+    "topic": "sport",
+    "level": "B2"
+  },
+  {
+    "word": "tournament",
+    "ipa": "/ˈtɔː.nə.mənt/",
+    "pos": "noun",
+    "meaningVi": "giải đấu",
+    "example": "The tournament runs for three weeks every summer.",
+    "exampleVi": "Giải đấu kéo dài ba tuần vào mỗi mùa hè.",
+    "topic": "sport",
+    "level": "B1"
+  },
+  {
+    "word": "championship",
+    "ipa": "/ˈtʃæm.pi.ən.ʃɪp/",
+    "pos": "noun",
+    "meaningVi": "chức vô địch",
+    "example": "No club has held the championship twice running.",
+    "exampleVi": "Chưa câu lạc bộ nào giữ chức vô địch hai lần liên tiếp.",
+    "topic": "sport",
+    "level": "B1"
+  },
+  {
+    "word": "amateur",
+    "ipa": "/ˈæm.ə.tər/",
+    "pos": "adjective",
+    "meaningVi": "nghiệp dư",
+    "example": "Amateur clubs produce most of the national squad.",
+    "exampleVi": "Các câu lạc bộ nghiệp dư sản sinh phần lớn đội tuyển quốc gia.",
+    "topic": "sport",
+    "level": "B2"
+  },
+  {
+    "word": "doping",
+    "ipa": "/ˈdəʊ.pɪŋ/",
+    "pos": "noun",
+    "meaningVi": "sử dụng chất kích thích",
+    "example": "Doping controls catch a fraction of the cases.",
+    "exampleVi": "Kiểm tra sử dụng chất kích thích chỉ bắt được một phần nhỏ số ca.",
+    "topic": "sport",
+    "level": "C1"
+  },
+  {
+    "word": "sponsorship",
+    "ipa": "/ˈspɒn.sə.ʃɪp/",
+    "pos": "noun",
+    "meaningVi": "tiền tài trợ",
+    "example": "Sponsorship pays for everything the ticket price cannot.",
+    "exampleVi": "Tiền tài trợ trả cho mọi thứ mà giá vé không kham nổi.",
+    "topic": "sport",
+    "level": "B2"
+  },
+  {
+    "word": "recreation",
+    "ipa": "/ˌrek.riˈeɪ.ʃən/",
+    "pos": "noun",
+    "meaningVi": "hoạt động giải trí",
+    "example": "Recreation space per resident has halved since 1990.",
+    "exampleVi": "Diện tích cho hoạt động giải trí trên mỗi cư dân giảm một nửa từ năm 1990.",
+    "topic": "sport",
+    "level": "B2"
+  },
+  {
+    "word": "hobby",
+    "ipa": "/ˈhɒb.i/",
+    "pos": "noun",
+    "meaningVi": "sở thích riêng",
+    "example": "A hobby survives only if it survives a busy month.",
+    "exampleVi": "Sở thích riêng chỉ sống sót nếu nó qua nổi một tháng bận rộn.",
+    "topic": "sport",
+    "level": "A2"
+  },
+  {
+    "word": "competitive",
+    "ipa": "/kəmˈpet.ɪ.tɪv/",
+    "pos": "adjective",
+    "meaningVi": "mang tính ganh đua",
+    "example": "Competitive sport turns some children off exercise entirely.",
+    "exampleVi": "Thể thao mang tính ganh đua khiến một số trẻ chán vận động hẳn.",
+    "topic": "sport",
+    "level": "B2"
+  },
+  {
+    "word": "rivalry",
+    "ipa": "/ˈraɪ.vəl.ri/",
+    "pos": "noun",
+    "meaningVi": "sự kình địch",
+    "example": "The rivalry fills the stadium twice a year.",
+    "exampleVi": "Sự kình địch lấp đầy sân vận động hai lần mỗi năm.",
+    "topic": "sport",
+    "level": "C1"
+  },
+  {
+    "word": "sportsmanship",
+    "ipa": "/ˈspɔːts.mən.ʃɪp/",
+    "pos": "noun",
+    "meaningVi": "tinh thần thượng võ",
+    "example": "Sportsmanship is praised far more often than it is rewarded.",
+    "exampleVi": "Tinh thần thượng võ được ca ngợi nhiều hơn hẳn số lần được tưởng thưởng.",
+    "topic": "sport",
+    "level": "C1"
+  },
+  {
+    "word": "coaching",
+    "ipa": "/ˈkəʊ.tʃɪŋ/",
+    "pos": "noun",
+    "meaningVi": "công tác huấn luyện",
+    "example": "Good coaching matters more than good facilities.",
+    "exampleVi": "Công tác huấn luyện tốt quan trọng hơn cơ sở vật chất tốt.",
+    "topic": "sport",
+    "level": "B2"
+  },
+  {
+    "word": "venue",
+    "ipa": "/ˈven.juː/",
+    "pos": "noun",
+    "meaningVi": "địa điểm tổ chức",
+    "example": "The venue was built for one tournament and never reused.",
+    "exampleVi": "Địa điểm tổ chức được xây cho đúng một giải rồi không dùng lại lần nào.",
+    "topic": "sport",
+    "level": "B2"
+  },
+  {
+    "word": "team spirit",
+    "ipa": "/ˈtiːm ˌspɪr.ɪt/",
+    "pos": "noun",
+    "meaningVi": "tinh thần đồng đội",
+    "example": "Team spirit carries a weak squad further than talent does.",
+    "exampleVi": "Tinh thần đồng đội đưa một đội yếu đi xa hơn tài năng.",
+    "topic": "sport",
+    "level": "B1",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "fair play",
+    "ipa": "/ˌfeə ˈpleɪ/",
+    "pos": "noun",
+    "meaningVi": "chơi đẹp, đúng luật",
+    "example": "Fair play awards exist because fair play is rare.",
+    "exampleVi": "Giải thưởng chơi đẹp đúng luật tồn tại chính vì điều đó hiếm.",
+    "topic": "sport",
+    "level": "B2",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "physical fitness",
+    "ipa": "/ˌfɪz.ɪ.kəl ˈfɪt.nəs/",
+    "pos": "noun",
+    "meaningVi": "thể lực",
+    "example": "Physical fitness among teenagers fell for a decade running.",
+    "exampleVi": "Thể lực ở lứa tuổi thiếu niên giảm suốt một thập kỷ liền.",
+    "topic": "sport",
+    "level": "B2",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "leisure time",
+    "ipa": "/ˈleʒ.ə taɪm/",
+    "pos": "noun",
+    "meaningVi": "thời gian rảnh rỗi",
+    "example": "Leisure time has grown but feels shorter than ever.",
+    "exampleVi": "Thời gian rảnh rỗi đã nhiều lên nhưng cảm giác ngắn hơn bao giờ hết.",
+    "topic": "sport",
+    "level": "B1",
+    "tags": [
+      "collocation"
+    ]
+  }
+]

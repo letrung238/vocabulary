@@ -1,0 +1,250 @@
+[
+  {
+    "word": "upbringing",
+    "ipa": "/ʌpˈbrɪŋ.ɪŋ/",
+    "pos": "noun",
+    "meaningVi": "cách nuôi dạy thời thơ ấu",
+    "example": "His upbringing explains more than his schooling.",
+    "exampleVi": "Cách nuôi dạy thời thơ ấu của anh giải thích nhiều hơn cả việc học hành.",
+    "topic": "family",
+    "level": "C1"
+  },
+  {
+    "word": "sibling",
+    "ipa": "/ˈsɪb.lɪŋ/",
+    "pos": "noun",
+    "meaningVi": "anh chị em ruột",
+    "example": "Siblings raised apart still share striking habits.",
+    "exampleVi": "Anh chị em ruột lớn lên xa nhau vẫn có những thói quen giống nhau đến lạ.",
+    "topic": "family",
+    "level": "B2"
+  },
+  {
+    "word": "offspring",
+    "ipa": "/ˈɒf.sprɪŋ/",
+    "pos": "noun",
+    "meaningVi": "con cái, đời sau",
+    "example": "Couples now have fewer offspring and have them later.",
+    "exampleVi": "Các cặp đôi nay có ít con cái hơn và sinh muộn hơn.",
+    "topic": "family",
+    "level": "C1"
+  },
+  {
+    "word": "nurture",
+    "ipa": "/ˈnɜː.tʃər/",
+    "pos": "verb",
+    "meaningVi": "nuôi dưỡng, vun đắp",
+    "example": "Schools nurture curiosity or kill it early.",
+    "exampleVi": "Nhà trường nuôi dưỡng sự tò mò hoặc giết nó từ sớm.",
+    "topic": "family",
+    "level": "C1"
+  },
+  {
+    "word": "breadwinner",
+    "ipa": "/ˈbred.wɪn.ər/",
+    "pos": "noun",
+    "meaningVi": "người trụ cột kinh tế",
+    "example": "In a third of households the breadwinner is now a woman.",
+    "exampleVi": "Ở một phần ba số hộ, người trụ cột kinh tế nay là phụ nữ.",
+    "topic": "family",
+    "level": "C1"
+  },
+  {
+    "word": "caregiver",
+    "ipa": "/ˈkeə.ɡɪv.ər/",
+    "pos": "noun",
+    "meaningVi": "người chăm sóc",
+    "example": "Unpaid caregivers save the state billions each year.",
+    "exampleVi": "Người chăm sóc không lương tiết kiệm cho nhà nước hàng tỷ mỗi năm.",
+    "topic": "family",
+    "level": "C1"
+  },
+  {
+    "word": "parenting",
+    "ipa": "/ˈpeə.rən.tɪŋ/",
+    "pos": "noun",
+    "meaningVi": "việc làm cha mẹ",
+    "example": "Parenting advice contradicts itself every decade.",
+    "exampleVi": "Lời khuyên về việc làm cha mẹ tự mâu thuẫn sau mỗi thập kỷ.",
+    "topic": "family",
+    "level": "B2"
+  },
+  {
+    "word": "ancestor",
+    "ipa": "/ˈæn.se.stər/",
+    "pos": "noun",
+    "meaningVi": "tổ tiên",
+    "example": "Their ancestors farmed the same valley for centuries.",
+    "exampleVi": "Tổ tiên họ canh tác cùng một thung lũng suốt nhiều thế kỷ.",
+    "topic": "family",
+    "level": "B2"
+  },
+  {
+    "word": "descendant",
+    "ipa": "/dɪˈsen.dənt/",
+    "pos": "noun",
+    "meaningVi": "con cháu đời sau",
+    "example": "No descendant of the founder still works here.",
+    "exampleVi": "Không con cháu đời sau nào của người sáng lập còn làm ở đây.",
+    "topic": "family",
+    "level": "C1"
+  },
+  {
+    "word": "inherit",
+    "ipa": "/ɪnˈher.ɪt/",
+    "pos": "verb",
+    "meaningVi": "thừa kế",
+    "example": "She inherited the shop and the debts with it.",
+    "exampleVi": "Bà thừa kế cửa hàng và cả đống nợ đi kèm.",
+    "topic": "family",
+    "level": "B2"
+  },
+  {
+    "word": "kinship",
+    "ipa": "/ˈkɪn.ʃɪp/",
+    "pos": "noun",
+    "meaningVi": "quan hệ họ hàng",
+    "example": "Kinship still decides who gets land in the village.",
+    "exampleVi": "Quan hệ họ hàng vẫn quyết định ai được chia đất trong làng.",
+    "topic": "family",
+    "level": "C1"
+  },
+  {
+    "word": "divorce",
+    "ipa": "/dɪˈvɔːs/",
+    "pos": "noun",
+    "meaningVi": "ly hôn",
+    "example": "Divorce rates rose fastest among couples over fifty.",
+    "exampleVi": "Tỷ lệ ly hôn tăng nhanh nhất ở các cặp trên năm mươi tuổi.",
+    "topic": "family",
+    "level": "B1"
+  },
+  {
+    "word": "adoption",
+    "ipa": "/əˈdɒp.ʃən/",
+    "pos": "noun",
+    "meaningVi": "việc nhận con nuôi",
+    "example": "Adoption takes three years and endless paperwork.",
+    "exampleVi": "Việc nhận con nuôi mất ba năm và vô số giấy tờ.",
+    "topic": "family",
+    "level": "B2"
+  },
+  {
+    "word": "foster",
+    "ipa": "/ˈfɒs.tər/",
+    "pos": "verb",
+    "meaningVi": "nhận nuôi dưỡng tạm",
+    "example": "The couple fostered eleven children over two decades.",
+    "exampleVi": "Hai vợ chồng nhận nuôi dưỡng tạm mười một đứa trẻ trong hai thập kỷ.",
+    "topic": "family",
+    "level": "C1"
+  },
+  {
+    "word": "elderly",
+    "ipa": "/ˈel.də.li/",
+    "pos": "adjective",
+    "meaningVi": "cao tuổi",
+    "example": "Elderly relatives increasingly live alone.",
+    "exampleVi": "Người thân cao tuổi ngày càng sống một mình.",
+    "topic": "family",
+    "level": "B1"
+  },
+  {
+    "word": "intimacy",
+    "ipa": "/ˈɪn.tɪ.mə.si/",
+    "pos": "noun",
+    "meaningVi": "sự gần gũi thân mật",
+    "example": "Long working hours erode intimacy quietly.",
+    "exampleVi": "Giờ làm dài âm thầm bào mòn sự gần gũi thân mật.",
+    "topic": "family",
+    "level": "C1"
+  },
+  {
+    "word": "spoil",
+    "ipa": "/spɔɪl/",
+    "pos": "verb",
+    "meaningVi": "nuông chiều quá mức",
+    "example": "Grandparents spoil children and then hand them back.",
+    "exampleVi": "Ông bà nuông chiều quá mức bọn trẻ rồi trả chúng về.",
+    "topic": "family",
+    "level": "B2"
+  },
+  {
+    "word": "generation gap",
+    "ipa": "/ˌdʒen.əˈreɪ.ʃən ɡæp/",
+    "pos": "noun",
+    "meaningVi": "khoảng cách thế hệ",
+    "example": "The generation gap widened when phones arrived.",
+    "exampleVi": "Khoảng cách thế hệ giãn rộng khi điện thoại xuất hiện.",
+    "topic": "family",
+    "level": "B2",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "extended family",
+    "ipa": "/ɪkˌsten.dɪd ˈfæm.əl.i/",
+    "pos": "noun",
+    "meaningVi": "đại gia đình nhiều thế hệ",
+    "example": "An extended family shares childcare without paying for it.",
+    "exampleVi": "Đại gia đình nhiều thế hệ chia nhau việc trông trẻ mà không phải trả tiền.",
+    "topic": "family",
+    "level": "B2",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "nuclear family",
+    "ipa": "/ˌnjuː.kli.ə ˈfæm.əl.i/",
+    "pos": "noun",
+    "meaningVi": "gia đình hạt nhân",
+    "example": "The nuclear family became standard only recently.",
+    "exampleVi": "Gia đình hạt nhân mới trở thành chuẩn mực gần đây thôi.",
+    "topic": "family",
+    "level": "C1",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "household chore",
+    "ipa": "/ˈhaʊs.həʊld tʃɔːr/",
+    "pos": "noun",
+    "meaningVi": "việc nhà",
+    "example": "Household chores are still divided unevenly by gender.",
+    "exampleVi": "Việc nhà vẫn được chia không đều theo giới.",
+    "topic": "family",
+    "level": "B1",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "role model",
+    "ipa": "/ˈrəʊl ˌmɒd.əl/",
+    "pos": "noun",
+    "meaningVi": "tấm gương để noi theo",
+    "example": "A role model at home outweighs any lecture.",
+    "exampleVi": "Một tấm gương để noi theo ở nhà nặng hơn mọi bài giảng.",
+    "topic": "family",
+    "level": "B2",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "nursing home",
+    "ipa": "/ˈnɜː.sɪŋ həʊm/",
+    "pos": "noun",
+    "meaningVi": "viện dưỡng lão",
+    "example": "Nursing homes fill up faster than they are built.",
+    "exampleVi": "Viện dưỡng lão đầy nhanh hơn tốc độ xây mới.",
+    "topic": "family",
+    "level": "B2",
+    "tags": [
+      "collocation"
+    ]
+  }
+]

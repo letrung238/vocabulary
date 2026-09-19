@@ -7,14 +7,14 @@
     "example": "She was admitted to a naval academy at eighteen.",
     "exampleVi": "Cô được nhận vào một học viện hải quân năm mười tám tuổi.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "academic",
       "academically"
-    ]
+    ],
+    "topic": "education"
   },
   {
     "word": "access",
@@ -24,14 +24,14 @@
     "example": "Rural schools still lack access to reliable electricity.",
     "exampleVi": "Trường học ở nông thôn vẫn thiếu lối tiếp cận nguồn điện ổn định.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
     "level": "B1",
     "family": [
       "accessible",
       "accessibility"
-    ]
+    ],
+    "topic": "education"
   },
   {
     "word": "accumulate",
@@ -79,14 +79,14 @@
     "example": "A single agency administrates all public housing in the city.",
     "exampleVi": "Một cơ quan duy nhất quản trị toàn bộ nhà ở công tại thành phố.",
     "tags": [
-      "awl",
-      "work"
+      "awl"
     ],
     "level": "C1",
     "family": [
       "administration",
       "administrative"
-    ]
+    ],
+    "topic": "work"
   },
   {
     "word": "adult",
@@ -96,13 +96,13 @@
     "example": "The course is designed for adults returning to education.",
     "exampleVi": "Khoá học được thiết kế cho người trưởng thành quay lại việc học.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
     "level": "A2",
     "family": [
       "adulthood"
-    ]
+    ],
+    "topic": "education"
   },
   {
     "word": "affect",
@@ -112,14 +112,14 @@
     "example": "Rising sea levels affect coastal communities first.",
     "exampleVi": "Mực nước biển dâng tác động tới các cộng đồng ven biển trước tiên.",
     "tags": [
-      "awl",
-      "environment"
+      "awl"
     ],
     "level": "B1",
     "synonyms": [
       "influence",
       "impact"
-    ]
+    ],
+    "topic": "environment"
   },
   {
     "word": "aid",
@@ -129,14 +129,14 @@
     "example": "International aid arrived within a week of the earthquake.",
     "exampleVi": "Viện trợ quốc tế tới nơi trong vòng một tuần sau trận động đất.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
     "level": "B1",
     "synonyms": [
       "assistance",
       "relief"
-    ]
+    ],
+    "topic": "society"
   },
   {
     "word": "albeit",
@@ -181,13 +181,13 @@
     "example": "Parliament amended the law to close the loophole.",
     "exampleVi": "Quốc hội sửa đổi văn bản luật để bịt kẽ hở.",
     "tags": [
-      "awl",
-      "law"
+      "awl"
     ],
     "level": "C1",
     "family": [
       "amendment"
-    ]
+    ],
+    "topic": "law"
   },
   {
     "word": "analogy",
@@ -213,13 +213,13 @@
     "example": "The annual report is published every March.",
     "exampleVi": "Báo cáo hằng năm được công bố vào tháng Ba.",
     "tags": [
-      "awl",
-      "work"
+      "awl"
     ],
     "level": "B1",
     "family": [
       "annually"
-    ]
+    ],
+    "topic": "work"
   },
   {
     "word": "append",
@@ -314,13 +314,13 @@
     "example": "Examiners assess candidates on four separate criteria.",
     "exampleVi": "Giám khảo thẩm định thí sinh theo bốn tiêu chí riêng biệt.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "assessment"
-    ]
+    ],
+    "topic": "education"
   },
   {
     "word": "assign",
@@ -330,13 +330,13 @@
     "example": "Each student is assigned a supervisor in the first week.",
     "exampleVi": "Mỗi sinh viên được giao việc cho một người hướng dẫn ngay tuần đầu.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "assignment"
-    ]
+    ],
+    "topic": "education"
   },
   {
     "word": "attribute",
@@ -378,14 +378,14 @@
     "example": "Banks have automated most routine transactions.",
     "exampleVi": "Các ngân hàng đã tự động hoá phần lớn giao dịch thường nhật.",
     "tags": [
-      "awl",
-      "technology"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "automation",
       "automatic"
-    ]
+    ],
+    "topic": "technology"
   },
   {
     "word": "available",
@@ -410,10 +410,10 @@
     "example": "She accepted the prize on behalf of the whole team.",
     "exampleVi": "Cô nhận giải với danh nghĩa thay mặt cả nhóm.",
     "tags": [
-      "awl",
-      "work"
+      "awl"
     ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "work"
   },
   {
     "word": "bond",
@@ -423,14 +423,14 @@
     "example": "Migration weakens the bond between generations.",
     "exampleVi": "Di cư làm suy yếu mối ràng buộc giữa các thế hệ.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
     "level": "B2",
     "synonyms": [
       "tie",
       "attachment"
-    ]
+    ],
+    "topic": "society"
   },
   {
     "word": "bulk",
@@ -470,10 +470,10 @@
     "example": "Social media has become the main channel for political debate.",
     "exampleVi": "Mạng xã hội đã thành kênh dẫn chính cho tranh luận chính trị.",
     "tags": [
-      "awl",
-      "media"
+      "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "media"
   },
   {
     "word": "chapter",
@@ -513,14 +513,14 @@
     "example": "Farmers use fewer chemicals than they did a decade ago.",
     "exampleVi": "Nông dân dùng ít hoá chất hơn so với một thập kỷ trước.",
     "tags": [
-      "awl",
-      "environment"
+      "awl"
     ],
     "level": "B1",
     "family": [
       "chemistry",
       "chemically"
-    ]
+    ],
+    "topic": "environment"
   },
   {
     "word": "classic",
@@ -546,10 +546,10 @@
     "example": "Every profession has its own code of conduct.",
     "exampleVi": "Mỗi nghề đều có bộ quy tắc ứng xử riêng.",
     "tags": [
-      "awl",
-      "work"
+      "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "work"
   },
   {
     "word": "commence",
@@ -559,8 +559,7 @@
     "example": "Construction commenced two years behind schedule.",
     "exampleVi": "Việc xây dựng khởi sự chậm hai năm so với kế hoạch.",
     "tags": [
-      "awl",
-      "work"
+      "awl"
     ],
     "level": "C1",
     "synonyms": [
@@ -569,7 +568,8 @@
     ],
     "family": [
       "commencement"
-    ]
+    ],
+    "topic": "work"
   },
   {
     "word": "commission",
@@ -579,10 +579,10 @@
     "example": "A royal commission investigated the collapse.",
     "exampleVi": "Một uỷ ban được lập ra theo lệnh hoàng gia đã điều tra vụ sụp đổ.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "society"
   },
   {
     "word": "communicate",
@@ -592,13 +592,13 @@
     "example": "Scientists must communicate risk without causing panic.",
     "exampleVi": "Nhà khoa học phải truyền đạt thông tin về rủi ro mà không gây hoảng loạn.",
     "tags": [
-      "awl",
-      "media"
+      "awl"
     ],
     "level": "B1",
     "family": [
       "communication"
-    ]
+    ],
+    "topic": "media"
   },
   {
     "word": "compatible",
@@ -608,13 +608,13 @@
     "example": "Economic growth is not always compatible with conservation.",
     "exampleVi": "Tăng trưởng kinh tế không phải lúc nào cũng tương thích được với bảo tồn.",
     "tags": [
-      "awl",
-      "environment"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "compatibility"
-    ]
+    ],
+    "topic": "environment"
   },
   {
     "word": "complement",
@@ -624,13 +624,13 @@
     "example": "Online lessons complement rather than replace classroom teaching.",
     "exampleVi": "Bài học trực tuyến bổ trợ cho nhau với việc dạy trên lớp chứ không thay thế.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
     "level": "C1",
     "family": [
       "complementary"
-    ]
+    ],
+    "topic": "education"
   },
   {
     "word": "component",
@@ -640,14 +640,14 @@
     "example": "Listening is the component most candidates find hardest.",
     "exampleVi": "Nghe là thành phần cấu thành mà đa số thí sinh thấy khó nhất.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
     "level": "B2",
     "synonyms": [
       "element",
       "part"
-    ]
+    ],
+    "topic": "education"
   },
   {
     "word": "compute",
@@ -657,13 +657,13 @@
     "example": "The model computes risk from thirty separate variables.",
     "exampleVi": "Mô hình tính toán ra kết quả rủi ro từ ba mươi biến số riêng biệt.",
     "tags": [
-      "awl",
-      "technology"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "computation"
-    ]
+    ],
+    "topic": "technology"
   },
   {
     "word": "concept",
@@ -716,10 +716,10 @@
     "example": "A degree confers no automatic right to employment.",
     "exampleVi": "Tấm bằng không trao cho một quyền lợi việc làm nào một cách mặc nhiên.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
-    "level": "C1"
+    "level": "C1",
+    "topic": "education"
   },
   {
     "word": "consequent",
@@ -729,14 +729,14 @@
     "example": "Deforestation and the consequent soil erosion are well documented.",
     "exampleVi": "Phá rừng và xói mòn đất xảy ra như hệ quả đã được ghi nhận đầy đủ.",
     "tags": [
-      "awl",
-      "environment"
+      "awl"
     ],
     "level": "C1",
     "family": [
       "consequence",
       "consequently"
-    ]
+    ],
+    "topic": "environment"
   },
   {
     "word": "constrain",
@@ -823,10 +823,10 @@
     "example": "The board convenes twice a year to review spending.",
     "exampleVi": "Hội đồng triệu tập một cuộc họp hai lần mỗi năm để rà soát chi tiêu.",
     "tags": [
-      "awl",
-      "work"
+      "awl"
     ],
-    "level": "C1"
+    "level": "C1",
+    "topic": "work"
   },
   {
     "word": "converse",
@@ -867,14 +867,14 @@
     "example": "Neighbouring states cooperate on flood management.",
     "exampleVi": "Các bang lân cận hợp tác cùng làm công tác quản lý lũ.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "cooperation",
       "cooperative"
-    ]
+    ],
+    "topic": "society"
   },
   {
     "word": "coordinate",
@@ -884,13 +884,13 @@
     "example": "One office coordinates relief work across the province.",
     "exampleVi": "Một văn phòng điều phối cho ăn khớp công tác cứu trợ toàn tỉnh.",
     "tags": [
-      "awl",
-      "work"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "coordination"
-    ]
+    ],
+    "topic": "work"
   },
   {
     "word": "core",
@@ -900,10 +900,10 @@
     "example": "Critical thinking lies at the core of the curriculum.",
     "exampleVi": "Tư duy phản biện nằm ở phần cốt lõi của chương trình học.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "education"
   },
   {
     "word": "corporate",
@@ -913,13 +913,13 @@
     "example": "Corporate donations now fund a third of the research.",
     "exampleVi": "Các khoản tài trợ thuộc về tập đoàn hiện chi trả một phần ba công trình nghiên cứu.",
     "tags": [
-      "awl",
-      "work"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "corporation"
-    ]
+    ],
+    "topic": "work"
   },
   {
     "word": "couple",
@@ -929,10 +929,10 @@
     "example": "Poor housing coupled with low pay drives migration.",
     "exampleVi": "Nhà ở tồi tàn đi kèm với lương thấp thúc đẩy di cư.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "society"
   },
   {
     "word": "create",
@@ -958,10 +958,10 @@
     "example": "Small farmers rarely qualify for bank credit.",
     "exampleVi": "Nông dân nhỏ lẻ hiếm khi đủ điều kiện vay tín dụng ngân hàng.",
     "tags": [
-      "awl",
-      "economy"
+      "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "economy"
   },
   {
     "word": "criteria",
@@ -971,13 +971,13 @@
     "example": "Applicants are ranked against five published criteria.",
     "exampleVi": "Ứng viên được xếp hạng theo năm tiêu chí đã công bố.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "criterion"
-    ]
+    ],
+    "topic": "education"
   },
   {
     "word": "culture",
@@ -987,14 +987,14 @@
     "example": "Language shapes the culture that produces it.",
     "exampleVi": "Ngôn ngữ định hình nền văn hoá đã sinh ra nó.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
     "level": "B1",
     "family": [
       "cultural",
       "culturally"
-    ]
+    ],
+    "topic": "society"
   },
   {
     "word": "currency",
@@ -1004,10 +1004,10 @@
     "example": "A weak currency makes imported medicine unaffordable.",
     "exampleVi": "Đồng tiền lưu hành yếu khiến thuốc nhập khẩu trở nên quá đắt.",
     "tags": [
-      "awl",
-      "economy"
+      "awl"
     ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "economy"
   },
   {
     "word": "cycle",
@@ -1017,13 +1017,13 @@
     "example": "Poverty and poor health reinforce each other in a cycle.",
     "exampleVi": "Nghèo đói và sức khoẻ kém củng cố lẫn nhau trong một chu kỳ lặp lại.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
     "level": "B1",
     "family": [
       "cyclical"
-    ]
+    ],
+    "topic": "society"
   },
   {
     "word": "data",
@@ -1091,13 +1091,13 @@
     "example": "Cheap imports depressed local wages for years.",
     "exampleVi": "Hàng nhập khẩu giá rẻ làm suy giảm xuống mức lương địa phương trong nhiều năm.",
     "tags": [
-      "awl",
-      "economy"
+      "awl"
     ],
     "level": "C1",
     "family": [
       "depression"
-    ]
+    ],
+    "topic": "economy"
   },
   {
     "word": "design",
@@ -1119,10 +1119,10 @@
     "example": "Most students own at least two connected devices.",
     "exampleVi": "Phần lớn sinh viên sở hữu ít nhất hai thiết bị có kết nối.",
     "tags": [
-      "awl",
-      "technology"
+      "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "technology"
   },
   {
     "word": "differentiate",
@@ -1132,10 +1132,10 @@
     "example": "Readers must differentiate opinion from reported fact.",
     "exampleVi": "Người đọc phải phân biệt cái này với cái kia là ý kiến và sự kiện được thuật lại.",
     "tags": [
-      "awl",
-      "media"
+      "awl"
     ],
-    "level": "C1"
+    "level": "C1",
+    "topic": "media"
   },
   {
     "word": "dimension",
@@ -1145,10 +1145,10 @@
     "example": "Poverty has a psychological dimension as well as a financial one.",
     "exampleVi": "Nghèo đói có một chiều tâm lý bên cạnh mặt tài chính.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "society"
   },
   {
     "word": "discrete",
@@ -1170,13 +1170,13 @@
     "example": "Employers may not discriminate on grounds of age.",
     "exampleVi": "Người sử dụng lao động không được đối xử phân biệt vì lý do tuổi tác.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "discrimination"
-    ]
+    ],
+    "topic": "society"
   },
   {
     "word": "displace",
@@ -1186,13 +1186,13 @@
     "example": "The dam displaced forty villages along the valley.",
     "exampleVi": "Con đập đẩy ra khỏi chỗ cũ bốn mươi ngôi làng dọc thung lũng.",
     "tags": [
-      "awl",
-      "environment"
+      "awl"
     ],
     "level": "C1",
     "family": [
       "displacement"
-    ]
+    ],
+    "topic": "environment"
   },
   {
     "word": "dispose",
@@ -1202,13 +1202,13 @@
     "example": "Households must dispose of batteries separately.",
     "exampleVi": "Hộ gia đình phải thải bỏ pin riêng ra.",
     "tags": [
-      "awl",
-      "environment"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "disposal"
-    ]
+    ],
+    "topic": "environment"
   },
   {
     "word": "distinct",
@@ -1278,10 +1278,10 @@
     "example": "Domestic demand recovered faster than exports.",
     "exampleVi": "Nhu cầu trong nước phục hồi nhanh hơn xuất khẩu.",
     "tags": [
-      "awl",
-      "economy"
+      "awl"
     ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "economy"
   },
   {
     "word": "drama",
@@ -1291,13 +1291,13 @@
     "example": "Drama is taught alongside music in primary schools.",
     "exampleVi": "Kịch được dạy song song với âm nhạc ở bậc tiểu học.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
     "level": "B1",
     "family": [
       "dramatic"
-    ]
+    ],
+    "topic": "education"
   },
   {
     "word": "duration",
@@ -1307,10 +1307,10 @@
     "example": "The duration of the course was cut from three years to two.",
     "exampleVi": "Khoảng thời gian kéo dài của khoá học bị rút từ ba năm xuống hai năm.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "education"
   },
   {
     "word": "dynamic",
@@ -1320,10 +1320,10 @@
     "example": "Cities are dynamic systems that never settle.",
     "exampleVi": "Đô thị là những hệ thống luôn biến động, không bao giờ ổn định hẳn.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "society"
   },
   {
     "word": "economy",
@@ -1333,14 +1333,14 @@
     "example": "The economy depends heavily on a single export.",
     "exampleVi": "Nền kinh tế phụ thuộc nặng nề vào một mặt hàng xuất khẩu duy nhất.",
     "tags": [
-      "awl",
-      "economy"
+      "awl"
     ],
     "level": "B1",
     "family": [
       "economic",
       "economical"
-    ]
+    ],
+    "topic": "economy"
   },
   {
     "word": "edit",
@@ -1350,14 +1350,14 @@
     "example": "She edited the volume with two colleagues.",
     "exampleVi": "Bà biên tập tuyển tập này cùng hai đồng nghiệp.",
     "tags": [
-      "awl",
-      "media"
+      "awl"
     ],
     "level": "B1",
     "family": [
       "editor",
       "edition"
-    ]
+    ],
+    "topic": "media"
   },
   {
     "word": "element",
@@ -1396,10 +1396,10 @@
     "example": "Wind now supplies a quarter of the country's energy.",
     "exampleVi": "Điện gió hiện cung cấp một phần tư năng lượng của cả nước.",
     "tags": [
-      "awl",
-      "environment"
+      "awl"
     ],
-    "level": "A2"
+    "level": "A2",
+    "topic": "environment"
   },
   {
     "word": "enforce",
@@ -1409,13 +1409,13 @@
     "example": "The rules exist but are rarely enforced.",
     "exampleVi": "Quy định thì có nhưng hiếm khi được thi hành.",
     "tags": [
-      "awl",
-      "law"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "enforcement"
-    ]
+    ],
+    "topic": "law"
   },
   {
     "word": "entity",
@@ -1425,10 +1425,10 @@
     "example": "The university is a legal entity separate from the state.",
     "exampleVi": "Trường đại học là một thực thể riêng biệt về pháp lý, tách khỏi nhà nước.",
     "tags": [
-      "awl",
-      "law"
+      "awl"
     ],
-    "level": "C1"
+    "level": "C1",
+    "topic": "law"
   },
   {
     "word": "environment",
@@ -1438,13 +1438,13 @@
     "example": "Industrial waste damages the marine environment.",
     "exampleVi": "Chất thải công nghiệp gây hại cho môi trường sống biển.",
     "tags": [
-      "awl",
-      "environment"
+      "awl"
     ],
     "level": "B1",
     "family": [
       "environmental"
-    ]
+    ],
+    "topic": "environment"
   },
   {
     "word": "equate",
@@ -1467,10 +1467,10 @@
     "example": "Laboratory equipment absorbs most of the department budget.",
     "exampleVi": "Trang thiết bị phòng thí nghiệm ngốn phần lớn ngân sách của khoa.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "education"
   },
   {
     "word": "error",
@@ -1492,10 +1492,10 @@
     "example": "The housing estate was built on former farmland.",
     "exampleVi": "Khu bất động sản nhà ở được xây trên đất nông nghiệp cũ.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "society"
   },
   {
     "word": "ethic",
@@ -1505,14 +1505,14 @@
     "example": "A strong work ethic is valued more than talent here.",
     "exampleVi": "Chuẩn mực đạo đức nghề vững vàng ở đây được coi trọng hơn tài năng.",
     "tags": [
-      "awl",
-      "work"
+      "awl"
     ],
     "level": "C1",
     "family": [
       "ethical",
       "ethics"
-    ]
+    ],
+    "topic": "work"
   },
   {
     "word": "ethnic",
@@ -1522,13 +1522,13 @@
     "example": "The census records more than fifty ethnic groups.",
     "exampleVi": "Cuộc tổng điều tra ghi nhận hơn năm mươi nhóm thuộc về sắc tộc.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "ethnicity"
-    ]
+    ],
+    "topic": "society"
   },
   {
     "word": "eventual",
@@ -1571,13 +1571,13 @@
     "example": "The festival evolved from a small village fair.",
     "exampleVi": "Lễ hội tiến hoá dần dần từ một hội chợ làng nhỏ.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "evolution"
-    ]
+    ],
+    "topic": "society"
   },
   {
     "word": "expert",
@@ -1602,10 +1602,10 @@
     "example": "Coffee remains the country's largest export.",
     "exampleVi": "Cà phê vẫn là hàng xuất khẩu lớn nhất của nước này.",
     "tags": [
-      "awl",
-      "economy"
+      "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "economy"
   },
   {
     "word": "expose",
@@ -1615,13 +1615,13 @@
     "example": "Children exposed to lead show slower development.",
     "exampleVi": "Trẻ em bị phơi bày ra trước chì có tốc độ phát triển chậm hơn.",
     "tags": [
-      "awl",
-      "health"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "exposure"
-    ]
+    ],
+    "topic": "health"
   },
   {
     "word": "external",
@@ -1631,13 +1631,13 @@
     "example": "An external examiner reviews every dissertation.",
     "exampleVi": "Một giám khảo từ bên ngoài rà soát mọi luận văn.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "externally"
-    ]
+    ],
+    "topic": "education"
   },
   {
     "word": "factor",
@@ -1673,10 +1673,10 @@
     "example": "Federal funding covers half the programme.",
     "exampleVi": "Ngân sách thuộc chính quyền liên bang chi trả một nửa chương trình.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "society"
   },
   {
     "word": "fee",
@@ -1686,10 +1686,10 @@
     "example": "Tuition fees have tripled since the reform.",
     "exampleVi": "Khoản phí phải trả cho học phí đã tăng gấp ba kể từ cuộc cải cách.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "education"
   },
   {
     "word": "file",
@@ -1699,10 +1699,10 @@
     "example": "Patient files are kept for thirty years.",
     "exampleVi": "Hồ sơ bệnh nhân được lưu giữ trong ba mươi năm.",
     "tags": [
-      "awl",
-      "work"
+      "awl"
     ],
-    "level": "A2"
+    "level": "A2",
+    "topic": "work"
   },
   {
     "word": "final",
@@ -1729,13 +1729,13 @@
     "example": "Public finance is stretched by an ageing population.",
     "exampleVi": "Tài chính công bị căng ra vì dân số già hoá.",
     "tags": [
-      "awl",
-      "economy"
+      "awl"
     ],
     "level": "B1",
     "family": [
       "financial"
-    ]
+    ],
+    "topic": "economy"
   },
   {
     "word": "finite",
@@ -1745,10 +1745,10 @@
     "example": "Fossil fuels are a finite resource.",
     "exampleVi": "Nhiên liệu hoá thạch là nguồn tài nguyên hữu hạn.",
     "tags": [
-      "awl",
-      "environment"
+      "awl"
     ],
-    "level": "C1"
+    "level": "C1",
+    "topic": "environment"
   },
   {
     "word": "focus",
@@ -1771,10 +1771,10 @@
     "example": "The exam format changed in 2019.",
     "exampleVi": "Định dạng trình bày của kỳ thi thay đổi năm 2019.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "education"
   },
   {
     "word": "forthcoming",
@@ -1797,10 +1797,10 @@
     "example": "Primary school lays the foundation for later learning.",
     "exampleVi": "Tiểu học đặt nền móng cho việc học về sau.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "education"
   },
   {
     "word": "founded",
@@ -1838,13 +1838,13 @@
     "example": "The government funds three quarters of medical research.",
     "exampleVi": "Chính phủ cấp kinh phí cho ba phần tư nghiên cứu y học.",
     "tags": [
-      "awl",
-      "economy"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "funding"
-    ]
+    ],
+    "topic": "economy"
   },
   {
     "word": "furthermore",
@@ -1871,10 +1871,10 @@
     "example": "The pay gap between genders narrowed only slightly.",
     "exampleVi": "Khoảng cách lương giữa các giới tính xã hội chỉ thu hẹp chút ít.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "society"
   },
   {
     "word": "generation",
@@ -1884,10 +1884,10 @@
     "example": "This generation will work longer than its parents did.",
     "exampleVi": "Thế hệ này sẽ làm việc lâu hơn thế hệ cha mẹ họ.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "society"
   },
   {
     "word": "globe",
@@ -1897,14 +1897,14 @@
     "example": "The disease spread across the globe in four months.",
     "exampleVi": "Dịch bệnh lan ra toàn cầu chỉ trong bốn tháng.",
     "tags": [
-      "awl",
-      "health"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "global",
       "globalisation"
-    ]
+    ],
+    "topic": "health"
   },
   {
     "word": "goal",
@@ -1914,10 +1914,10 @@
     "example": "The stated goal is to halve emissions by 2035.",
     "exampleVi": "Mục tiêu hướng tới được nêu ra là giảm một nửa khí thải vào năm 2035.",
     "tags": [
-      "awl",
-      "environment"
+      "awl"
     ],
-    "level": "A2"
+    "level": "A2",
+    "topic": "environment"
   },
   {
     "word": "grade",
@@ -1927,10 +1927,10 @@
     "example": "Grades alone reveal little about a student's progress.",
     "exampleVi": "Điểm xếp loại đơn thuần cho biết rất ít về tiến bộ của học sinh.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
-    "level": "A2"
+    "level": "A2",
+    "topic": "education"
   },
   {
     "word": "grant",
@@ -1940,10 +1940,10 @@
     "example": "She won a research grant of forty thousand pounds.",
     "exampleVi": "Bà giành được khoản tài trợ có điều kiện cho nghiên cứu trị giá bốn mươi nghìn bảng.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "education"
   },
   {
     "word": "hence",
@@ -1996,13 +1996,13 @@
     "example": "Education policy shifted with each new ideology.",
     "exampleVi": "Chính sách giáo dục thay đổi theo từng hệ tư tưởng mới.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
     "level": "C1",
     "family": [
       "ideological"
-    ]
+    ],
+    "topic": "society"
   },
   {
     "word": "ignorant",
@@ -2012,13 +2012,13 @@
     "example": "Many voters remain ignorant of how the system works.",
     "exampleVi": "Nhiều cử tri vẫn thiếu hiểu biết về cách vận hành của hệ thống.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
     "level": "C1",
     "family": [
       "ignorance"
-    ]
+    ],
+    "topic": "society"
   },
   {
     "word": "image",
@@ -2028,10 +2028,10 @@
     "example": "Satellite images revealed the extent of the flooding.",
     "exampleVi": "Hình ảnh vệ tinh cho thấy mức độ ngập lụt.",
     "tags": [
-      "awl",
-      "media"
+      "awl"
     ],
-    "level": "A2"
+    "level": "A2",
+    "topic": "media"
   },
   {
     "word": "immigrate",
@@ -2041,14 +2041,14 @@
     "example": "Her grandparents immigrated in the nineteen fifties.",
     "exampleVi": "Ông bà của bà nhập cư vào một nước khác hồi những năm năm mươi.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "immigration",
       "immigrant"
-    ]
+    ],
+    "topic": "society"
   },
   {
     "word": "implicate",
@@ -2058,10 +2058,10 @@
     "example": "The study implicates air pollution in childhood asthma.",
     "exampleVi": "Nghiên cứu cho thấy có liên đới giữa ô nhiễm không khí và hen suyễn ở trẻ.",
     "tags": [
-      "awl",
-      "health"
+      "awl"
     ],
-    "level": "C1"
+    "level": "C1",
+    "topic": "health"
   },
   {
     "word": "implicit",
@@ -2087,10 +2087,10 @@
     "example": "The incidence of diabetes doubled in twenty years.",
     "exampleVi": "Tỷ lệ xuất hiện của hiện tượng tiểu đường tăng gấp đôi trong hai mươi năm.",
     "tags": [
-      "awl",
-      "health"
+      "awl"
     ],
-    "level": "C1"
+    "level": "C1",
+    "topic": "health"
   },
   {
     "word": "incline",
@@ -2100,14 +2100,14 @@
     "example": "Younger voters incline towards the smaller parties.",
     "exampleVi": "Cử tri trẻ nghiêng về hướng các đảng nhỏ.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
     "level": "C1",
     "family": [
       "inclined",
       "inclination"
-    ]
+    ],
+    "topic": "society"
   },
   {
     "word": "income",
@@ -2117,10 +2117,10 @@
     "example": "Household income barely kept pace with inflation.",
     "exampleVi": "Thu nhập hộ gia đình hầu như không theo kịp lạm phát.",
     "tags": [
-      "awl",
-      "economy"
+      "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "economy"
   },
   {
     "word": "individual",
@@ -2130,13 +2130,13 @@
     "example": "Policy must balance the individual against the community.",
     "exampleVi": "Chính sách phải cân bằng giữa cá nhân và cộng đồng.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
     "level": "B1",
     "family": [
       "individually"
-    ]
+    ],
+    "topic": "society"
   },
   {
     "word": "infer",
@@ -2162,10 +2162,10 @@
     "example": "Transport infrastructure has not kept up with the population.",
     "exampleVi": "Hạ tầng cơ sở giao thông không theo kịp dân số.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "society"
   },
   {
     "word": "initiate",
@@ -2175,14 +2175,14 @@
     "example": "The council initiated a review of all school closures.",
     "exampleVi": "Hội đồng khởi xướng một việc rà soát toàn bộ các trường bị đóng cửa.",
     "tags": [
-      "awl",
-      "work"
+      "awl"
     ],
     "level": "C1",
     "family": [
       "initiative",
       "initiation"
-    ]
+    ],
+    "topic": "work"
   },
   {
     "word": "innovate",
@@ -2192,14 +2192,14 @@
     "example": "Firms that fail to innovate lose market share quickly.",
     "exampleVi": "Doanh nghiệp không đổi mới sáng tạo mất thị phần rất nhanh.",
     "tags": [
-      "awl",
-      "technology"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "innovation",
       "innovative"
-    ]
+    ],
+    "topic": "technology"
   },
   {
     "word": "input",
@@ -2209,10 +2209,10 @@
     "example": "Teachers had no input into the new syllabus.",
     "exampleVi": "Giáo viên không có phần đóng góp nào vào chương trình mới.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "education"
   },
   {
     "word": "insert",
@@ -2222,10 +2222,10 @@
     "example": "A clause was inserted to protect existing tenants.",
     "exampleVi": "Một điều khoản được chèn vào giữa để bảo vệ người thuê hiện hữu.",
     "tags": [
-      "awl",
-      "law"
+      "awl"
     ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "law"
   },
   {
     "word": "inspect",
@@ -2235,14 +2235,14 @@
     "example": "Officials inspect every restaurant twice a year.",
     "exampleVi": "Cán bộ thanh tra mọi nhà hàng hai lần mỗi năm.",
     "tags": [
-      "awl",
-      "work"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "inspection",
       "inspector"
-    ]
+    ],
+    "topic": "work"
   },
   {
     "word": "institute",
@@ -2252,14 +2252,14 @@
     "example": "The institute publishes an annual index of press freedom.",
     "exampleVi": "Viện nghiên cứu công bố chỉ số tự do báo chí hằng năm.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "institution",
       "institutional"
-    ]
+    ],
+    "topic": "education"
   },
   {
     "word": "instruct",
@@ -2269,14 +2269,14 @@
     "example": "Staff were instructed to record every complaint.",
     "exampleVi": "Nhân viên được chỉ dẫn ghi lại mọi khiếu nại.",
     "tags": [
-      "awl",
-      "work"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "instruction",
       "instructor"
-    ]
+    ],
+    "topic": "work"
   },
   {
     "word": "integrity",
@@ -2286,10 +2286,10 @@
     "example": "Public trust depends on the integrity of the courts.",
     "exampleVi": "Niềm tin của công chúng phụ thuộc vào sự liêm chính của toà án.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
-    "level": "C1"
+    "level": "C1",
+    "topic": "society"
   },
   {
     "word": "intelligent",
@@ -2299,13 +2299,13 @@
     "example": "No machine is intelligent in the way a child is.",
     "exampleVi": "Không cỗ máy nào thông minh theo cách một đứa trẻ thông minh.",
     "tags": [
-      "awl",
-      "technology"
+      "awl"
     ],
     "level": "B1",
     "family": [
       "intelligence"
-    ]
+    ],
+    "topic": "technology"
   },
   {
     "word": "interact",
@@ -2315,13 +2315,13 @@
     "example": "Students interact more freely in smaller groups.",
     "exampleVi": "Sinh viên tương tác qua lại thoải mái hơn trong nhóm nhỏ.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "interaction"
-    ]
+    ],
+    "topic": "education"
   },
   {
     "word": "intermediate",
@@ -2331,10 +2331,10 @@
     "example": "The course suits learners at an intermediate level.",
     "exampleVi": "Khoá học phù hợp với người học ở mức trung gian.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "education"
   },
   {
     "word": "internal",
@@ -2344,13 +2344,13 @@
     "example": "An internal review found no evidence of fraud.",
     "exampleVi": "Một cuộc rà soát nội bộ bên trong không tìm thấy bằng chứng gian lận.",
     "tags": [
-      "awl",
-      "work"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "internally"
-    ]
+    ],
+    "topic": "work"
   },
   {
     "word": "invest",
@@ -2360,14 +2360,14 @@
     "example": "Countries that invest in early education see lasting gains.",
     "exampleVi": "Các nước đầu tư nguồn lực vào giáo dục sớm thu được lợi ích lâu dài.",
     "tags": [
-      "awl",
-      "economy"
+      "awl"
     ],
     "level": "B1",
     "family": [
       "investment",
       "investor"
-    ]
+    ],
+    "topic": "economy"
   },
   {
     "word": "investigate",
@@ -2377,13 +2377,13 @@
     "example": "Journalists investigated the contract for eighteen months.",
     "exampleVi": "Nhà báo điều tra làm rõ hợp đồng này suốt mười tám tháng.",
     "tags": [
-      "awl",
-      "media"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "investigation"
-    ]
+    ],
+    "topic": "media"
   },
   {
     "word": "issue",
@@ -2393,10 +2393,10 @@
     "example": "Housing is the issue voters mention most often.",
     "exampleVi": "Nhà ở là vấn đề đang tranh luận mà cử tri nhắc tới nhiều nhất.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "society"
   },
   {
     "word": "item",
@@ -2418,10 +2418,10 @@
     "example": "Automation will reshape jobs rather than abolish them.",
     "exampleVi": "Tự động hoá sẽ định hình lại công việc làm công chứ không xoá bỏ chúng.",
     "tags": [
-      "awl",
-      "work"
+      "awl"
     ],
-    "level": "A2"
+    "level": "A2",
+    "topic": "work"
   },
   {
     "word": "journal",
@@ -2444,10 +2444,10 @@
     "example": "Foods must be labelled with their country of origin.",
     "exampleVi": "Thực phẩm phải được dán nhãn gọi tên nước xuất xứ.",
     "tags": [
-      "awl",
-      "health"
+      "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "health"
   },
   {
     "word": "labour",
@@ -2457,10 +2457,10 @@
     "example": "Cheap labour attracted factories to the region.",
     "exampleVi": "Sức lao động giá rẻ thu hút các nhà máy tới khu vực.",
     "tags": [
-      "awl",
-      "economy"
+      "awl"
     ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "economy"
   },
   {
     "word": "layer",
@@ -2470,10 +2470,10 @@
     "example": "Bureaucracy adds a layer of delay to every request.",
     "exampleVi": "Thủ tục hành chính thêm một lớp chồng lên nhau của sự chậm trễ vào mọi yêu cầu.",
     "tags": [
-      "awl",
-      "work"
+      "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "work"
   },
   {
     "word": "lecture",
@@ -2483,13 +2483,13 @@
     "example": "Recorded lectures have not reduced attendance.",
     "exampleVi": "Bài giảng ghi hình không làm giảm số người tới lớp.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
     "level": "B1",
     "family": [
       "lecturer"
-    ]
+    ],
+    "topic": "education"
   },
   {
     "word": "legislate",
@@ -2499,14 +2499,14 @@
     "example": "Parliament cannot legislate away social inequality.",
     "exampleVi": "Quốc hội không thể làm luật để xoá bỏ bất bình đẳng xã hội.",
     "tags": [
-      "awl",
-      "law"
+      "awl"
     ],
     "level": "C1",
     "family": [
       "legislation",
       "legislative"
-    ]
+    ],
+    "topic": "law"
   },
   {
     "word": "levy",
@@ -2516,10 +2516,10 @@
     "example": "A small levy on plastic bags cut usage by half.",
     "exampleVi": "Một khoản thu bắt buộc nhỏ với túi nhựa đã cắt giảm mức dùng một nửa.",
     "tags": [
-      "awl",
-      "environment"
+      "awl"
     ],
-    "level": "C1"
+    "level": "C1",
+    "topic": "environment"
   },
   {
     "word": "liberal",
@@ -2529,10 +2529,10 @@
     "example": "The country has a liberal attitude to press freedom.",
     "exampleVi": "Nước này có thái độ phóng khoáng với tự do báo chí.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "society"
   },
   {
     "word": "licence",
@@ -2542,10 +2542,10 @@
     "example": "Operators need a licence renewed every five years.",
     "exampleVi": "Đơn vị vận hành cần giấy phép gia hạn năm năm một lần.",
     "tags": [
-      "awl",
-      "law"
+      "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "law"
   },
   {
     "word": "likewise",
@@ -2568,10 +2568,10 @@
     "example": "The link between diet and illness is well established.",
     "exampleVi": "Mối liên hệ giữa chế độ ăn và bệnh tật đã được xác lập vững chắc.",
     "tags": [
-      "awl",
-      "health"
+      "awl"
     ],
-    "level": "A2"
+    "level": "A2",
+    "topic": "health"
   },
   {
     "word": "locate",
@@ -2628,10 +2628,10 @@
     "example": "Manual jobs disappeared fastest in the north.",
     "exampleVi": "Công việc làm bằng tay biến mất nhanh nhất ở miền bắc.",
     "tags": [
-      "awl",
-      "work"
+      "awl"
     ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "work"
   },
   {
     "word": "maximise",
@@ -2641,13 +2641,13 @@
     "example": "Farmers rotate crops to maximise yield.",
     "exampleVi": "Nông dân luân canh để tối đa hoá sản lượng.",
     "tags": [
-      "awl",
-      "economy"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "maximum"
-    ]
+    ],
+    "topic": "economy"
   },
   {
     "word": "mechanism",
@@ -2669,10 +2669,10 @@
     "example": "The media devoted little coverage to the report.",
     "exampleVi": "Giới truyền thông dành rất ít thời lượng cho bản báo cáo.",
     "tags": [
-      "awl",
-      "media"
+      "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "media"
   },
   {
     "word": "medical",
@@ -2682,10 +2682,10 @@
     "example": "Medical training takes at least six years.",
     "exampleVi": "Đào tạo thuộc y tế mất ít nhất sáu năm.",
     "tags": [
-      "awl",
-      "health"
+      "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "health"
   },
   {
     "word": "medium",
@@ -2695,10 +2695,10 @@
     "example": "Radio remains the main medium in remote districts.",
     "exampleVi": "Phát thanh vẫn là phương tiện truyền tải chính ở các huyện vùng sâu.",
     "tags": [
-      "awl",
-      "media"
+      "awl"
     ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "media"
   },
   {
     "word": "mental",
@@ -2708,13 +2708,13 @@
     "example": "Mental health services are stretched beyond capacity.",
     "exampleVi": "Dịch vụ sức khoẻ thuộc tinh thần đang quá tải.",
     "tags": [
-      "awl",
-      "health"
+      "awl"
     ],
     "level": "B1",
     "family": [
       "mentally"
-    ]
+    ],
+    "topic": "health"
   },
   {
     "word": "method",
@@ -2740,14 +2740,14 @@
     "example": "Workers migrate to the capital during the dry season.",
     "exampleVi": "Người lao động di cư về thủ đô vào mùa khô.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "migration",
       "migrant"
-    ]
+    ],
+    "topic": "society"
   },
   {
     "word": "military",
@@ -2757,10 +2757,10 @@
     "example": "Military spending outweighs the education budget.",
     "exampleVi": "Chi tiêu thuộc quân sự vượt trội ngân sách giáo dục.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "society"
   },
   {
     "word": "minimise",
@@ -2770,10 +2770,10 @@
     "example": "Careful design minimises waste at every stage.",
     "exampleVi": "Thiết kế cẩn thận giảm thiểu tối đa rác thải ở mọi khâu.",
     "tags": [
-      "awl",
-      "environment"
+      "awl"
     ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "environment"
   },
   {
     "word": "minimum",
@@ -2783,10 +2783,10 @@
     "example": "The minimum wage was raised twice in one year.",
     "exampleVi": "Mức tối thiểu của tiền lương được nâng hai lần trong một năm.",
     "tags": [
-      "awl",
-      "economy"
+      "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "economy"
   },
   {
     "word": "ministry",
@@ -2796,13 +2796,13 @@
     "example": "The ministry publishes enrolment figures each autumn.",
     "exampleVi": "Bộ trong chính phủ công bố số liệu nhập học vào mỗi mùa thu.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "minister"
-    ]
+    ],
+    "topic": "society"
   },
   {
     "word": "minor",
@@ -2852,14 +2852,14 @@
     "example": "Profit was not the only motive behind the merger.",
     "exampleVi": "Lợi nhuận không phải động cơ thúc đẩy duy nhất phía sau vụ sáp nhập.",
     "tags": [
-      "awl",
-      "work"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "motivate",
       "motivation"
-    ]
+    ],
+    "topic": "work"
   },
   {
     "word": "negate",
@@ -2869,10 +2869,10 @@
     "example": "Rising rents negate any gain from higher wages.",
     "exampleVi": "Giá thuê nhà tăng triệt tiêu mọi lợi ích từ lương cao hơn.",
     "tags": [
-      "awl",
-      "economy"
+      "awl"
     ],
-    "level": "C1"
+    "level": "C1",
+    "topic": "economy"
   },
   {
     "word": "network",
@@ -2882,10 +2882,10 @@
     "example": "A dense rail network reduces reliance on cars.",
     "exampleVi": "Mạng lưới đường sắt dày đặc giảm sự phụ thuộc vào ô tô.",
     "tags": [
-      "awl",
-      "technology"
+      "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "technology"
   },
   {
     "word": "normal",
@@ -2924,10 +2924,10 @@
     "example": "Nuclear power divides opinion even among scientists.",
     "exampleVi": "Điện thuộc hạt nhân gây chia rẽ quan điểm ngay trong giới khoa học.",
     "tags": [
-      "awl",
-      "environment"
+      "awl"
     ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "environment"
   },
   {
     "word": "obvious",
@@ -2953,13 +2953,13 @@
     "example": "Housing occupies a third of household spending.",
     "exampleVi": "Nhà ở chiếm chỗ một phần ba chi tiêu hộ gia đình.",
     "tags": [
-      "awl",
-      "economy"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "occupation"
-    ]
+    ],
+    "topic": "economy"
   },
   {
     "word": "odd",
@@ -2997,13 +2997,13 @@
     "example": "The syllabus is oriented towards practical skills.",
     "exampleVi": "Chương trình học được định hướng theo kỹ năng thực hành.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
     "level": "C1",
     "family": [
       "orientation"
-    ]
+    ],
+    "topic": "education"
   },
   {
     "word": "output",
@@ -3039,10 +3039,10 @@
     "example": "Overseas students make up a fifth of the intake.",
     "exampleVi": "Sinh viên ở nước ngoài chiếm một phần năm số tuyển sinh.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "education"
   },
   {
     "word": "panel",
@@ -3052,10 +3052,10 @@
     "example": "An independent panel reviewed all the applications.",
     "exampleVi": "Một hội đồng độc lập rà soát toàn bộ hồ sơ.",
     "tags": [
-      "awl",
-      "work"
+      "awl"
     ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "work"
   },
   {
     "word": "paradigm",
@@ -3103,13 +3103,13 @@
     "example": "The university works with industrial partners abroad.",
     "exampleVi": "Trường đại học hợp tác với các đối tác công nghiệp ở nước ngoài.",
     "tags": [
-      "awl",
-      "work"
+      "awl"
     ],
     "level": "B1",
     "family": [
       "partnership"
-    ]
+    ],
+    "topic": "work"
   },
   {
     "word": "passive",
@@ -3119,10 +3119,10 @@
     "example": "Lectures encourage passive rather than active learning.",
     "exampleVi": "Bài giảng khuyến khích lối học thụ động thay vì chủ động.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "education"
   },
   {
     "word": "percent",
@@ -3171,10 +3171,10 @@
     "example": "Urban heat islands are a well-studied phenomenon.",
     "exampleVi": "Đảo nhiệt đô thị là một hiện tượng đã được nghiên cứu kỹ.",
     "tags": [
-      "awl",
-      "environment"
+      "awl"
     ],
-    "level": "C1"
+    "level": "C1",
+    "topic": "environment"
   },
   {
     "word": "philosophy",
@@ -3184,13 +3184,13 @@
     "example": "The school's philosophy puts wellbeing before results.",
     "exampleVi": "Triết lý của nhà trường đặt sự an vui lên trước thành tích.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "philosophical"
-    ]
+    ],
+    "topic": "education"
   },
   {
     "word": "physical",
@@ -3200,13 +3200,13 @@
     "example": "Physical activity declined sharply among teenagers.",
     "exampleVi": "Hoạt động thuộc thể chất giảm mạnh ở lứa tuổi thiếu niên.",
     "tags": [
-      "awl",
-      "health"
+      "awl"
     ],
     "level": "B1",
     "family": [
       "physically"
-    ]
+    ],
+    "topic": "health"
   },
   {
     "word": "policy",
@@ -3216,10 +3216,10 @@
     "example": "Housing policy has changed with every government.",
     "exampleVi": "Chính sách nhà ở thay đổi theo từng chính phủ.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "society"
   },
   {
     "word": "pose",
@@ -3229,10 +3229,10 @@
     "example": "Antibiotic resistance poses a serious threat to public health.",
     "exampleVi": "Kháng kháng sinh đặt ra một mối nguy nghiêm trọng cho y tế công cộng.",
     "tags": [
-      "awl",
-      "health"
+      "awl"
     ],
-    "level": "C1"
+    "level": "C1",
+    "topic": "health"
   },
   {
     "word": "positive",
@@ -3257,10 +3257,10 @@
     "example": "General practitioners handle most first consultations.",
     "exampleVi": "Người hành nghề y đa khoa xử lý phần lớn các lần khám đầu tiên.",
     "tags": [
-      "awl",
-      "health"
+      "awl"
     ],
-    "level": "C1"
+    "level": "C1",
+    "topic": "health"
   },
   {
     "word": "predominant",
@@ -3286,13 +3286,13 @@
     "example": "Primary education is free but not always accessible.",
     "exampleVi": "Giáo dục sơ cấp miễn phí nhưng không phải lúc nào cũng tiếp cận được.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
     "level": "B1",
     "family": [
       "primarily"
-    ]
+    ],
+    "topic": "education"
   },
   {
     "word": "prime",
@@ -3340,13 +3340,13 @@
     "example": "No prior knowledge of statistics is required.",
     "exampleVi": "Không đòi hỏi kiến thức có trước đó về thống kê.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "priority"
-    ]
+    ],
+    "topic": "education"
   },
   {
     "word": "process",
@@ -3369,13 +3369,13 @@
     "example": "Teachers receive twenty hours of professional training a year.",
     "exampleVi": "Giáo viên nhận hai mươi giờ đào tạo chuyên nghiệp mỗi năm.",
     "tags": [
-      "awl",
-      "work"
+      "awl"
     ],
     "level": "B1",
     "family": [
       "profession"
-    ]
+    ],
+    "topic": "work"
   },
   {
     "word": "project",
@@ -3401,13 +3401,13 @@
     "example": "Psychology explains why warnings often fail to change behaviour.",
     "exampleVi": "Tâm lý học giải thích vì sao cảnh báo thường không đổi được hành vi.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "psychological"
-    ]
+    ],
+    "topic": "education"
   },
   {
     "word": "publication",
@@ -3430,13 +3430,13 @@
     "example": "The department publishes its accounts every June.",
     "exampleVi": "Bộ công bố ra báo cáo tài chính vào tháng Sáu hằng năm.",
     "tags": [
-      "awl",
-      "media"
+      "awl"
     ],
     "level": "B1",
     "family": [
       "publisher"
-    ]
+    ],
+    "topic": "media"
   },
   {
     "word": "qualitative",
@@ -3503,13 +3503,13 @@
     "example": "Markets reacted badly to the announcement.",
     "exampleVi": "Thị trường phản ứng lại tiêu cực trước thông báo.",
     "tags": [
-      "awl",
-      "economy"
+      "awl"
     ],
     "level": "B1",
     "family": [
       "reaction"
-    ]
+    ],
+    "topic": "economy"
   },
   {
     "word": "regime",
@@ -3519,10 +3519,10 @@
     "example": "The regime restricted access to foreign newspapers.",
     "exampleVi": "Chế độ cầm quyền hạn chế tiếp cận báo chí nước ngoài.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
-    "level": "C1"
+    "level": "C1",
+    "topic": "society"
   },
   {
     "word": "region",
@@ -3548,13 +3548,13 @@
     "example": "Only half of eligible voters registered in time.",
     "exampleVi": "Chỉ một nửa cử tri đủ điều kiện đăng ký ghi danh kịp thời hạn.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
     "level": "B1",
     "family": [
       "registration"
-    ]
+    ],
+    "topic": "society"
   },
   {
     "word": "regulate",
@@ -3564,14 +3564,14 @@
     "example": "Few countries regulate the industry effectively.",
     "exampleVi": "Rất ít quốc gia quản lý bằng quy định ngành này một cách hiệu quả.",
     "tags": [
-      "awl",
-      "law"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "regulation",
       "regulatory"
-    ]
+    ],
+    "topic": "law"
   },
   {
     "word": "relax",
@@ -3581,10 +3581,10 @@
     "example": "The authorities relaxed the rules on student visas.",
     "exampleVi": "Nhà chức trách nới lỏng quy định về thị thực sinh viên.",
     "tags": [
-      "awl",
-      "law"
+      "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "law"
   },
   {
     "word": "release",
@@ -3594,10 +3594,10 @@
     "example": "The figures were released without any commentary.",
     "exampleVi": "Các con số được phát hành ra công chúng mà không kèm bình luận.",
     "tags": [
-      "awl",
-      "media"
+      "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "media"
   },
   {
     "word": "reluctance",
@@ -3607,13 +3607,13 @@
     "example": "There is clear reluctance to abandon coal entirely.",
     "exampleVi": "Có sự miễn cưỡng rõ rệt trong việc từ bỏ hẳn than đá.",
     "tags": [
-      "awl",
-      "environment"
+      "awl"
     ],
     "level": "C1",
     "family": [
       "reluctant"
-    ]
+    ],
+    "topic": "environment"
   },
   {
     "word": "rely",
@@ -3623,14 +3623,14 @@
     "example": "Remote clinics rely on volunteers for transport.",
     "exampleVi": "Các trạm y tế vùng xa trông cậy vào tình nguyện viên để đi lại.",
     "tags": [
-      "awl",
-      "health"
+      "awl"
     ],
     "level": "B1",
     "family": [
       "reliance",
       "reliable"
-    ]
+    ],
+    "topic": "health"
   },
   {
     "word": "research",
@@ -3640,13 +3640,13 @@
     "example": "Research into the vaccine began long before the outbreak.",
     "exampleVi": "Công trình nghiên cứu vắc-xin bắt đầu từ lâu trước khi dịch bùng phát.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
     "level": "B1",
     "family": [
       "researcher"
-    ]
+    ],
+    "topic": "education"
   },
   {
     "word": "reside",
@@ -3656,14 +3656,14 @@
     "example": "Most staff reside within walking distance of the campus.",
     "exampleVi": "Phần lớn nhân viên cư trú tại nơi đi bộ được tới khuôn viên trường.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
     "level": "C1",
     "family": [
       "resident",
       "residence"
-    ]
+    ],
+    "topic": "society"
   },
   {
     "word": "restrain",
@@ -3673,13 +3673,13 @@
     "example": "Higher interest rates restrained consumer spending.",
     "exampleVi": "Lãi suất cao hơn kiềm chế lại chi tiêu tiêu dùng.",
     "tags": [
-      "awl",
-      "economy"
+      "awl"
     ],
     "level": "C1",
     "family": [
       "restraint"
-    ]
+    ],
+    "topic": "economy"
   },
   {
     "word": "revise",
@@ -3705,13 +3705,13 @@
     "example": "The digital revolution reshaped how news is consumed.",
     "exampleVi": "Cuộc cách mạng số định hình lại cách người ta tiêu thụ tin tức.",
     "tags": [
-      "awl",
-      "technology"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "revolutionary"
-    ]
+    ],
+    "topic": "technology"
   },
   {
     "word": "role",
@@ -3721,10 +3721,10 @@
     "example": "Parents play a decisive role in early literacy.",
     "exampleVi": "Cha mẹ giữ vai trò quyết định trong việc biết chữ sớm.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "education"
   },
   {
     "word": "route",
@@ -3747,10 +3747,10 @@
     "example": "The project ran six months behind schedule.",
     "exampleVi": "Dự án chạy chậm sáu tháng so với lịch trình.",
     "tags": [
-      "awl",
-      "work"
+      "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "work"
   },
   {
     "word": "scheme",
@@ -3760,10 +3760,10 @@
     "example": "A pilot scheme ran in four districts.",
     "exampleVi": "Một đề án thí điểm chạy tại bốn quận.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "society"
   },
   {
     "word": "section",
@@ -3786,10 +3786,10 @@
     "example": "The service sector now employs most graduates.",
     "exampleVi": "Ngành dịch vụ hiện tuyển dụng phần lớn sinh viên tốt nghiệp.",
     "tags": [
-      "awl",
-      "economy"
+      "awl"
     ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "economy"
   },
   {
     "word": "select",
@@ -3852,13 +3852,13 @@
     "example": "Tourism is the island's sole source of income.",
     "exampleVi": "Du lịch là nguồn thu nhập duy nhất của hòn đảo.",
     "tags": [
-      "awl",
-      "economy"
+      "awl"
     ],
     "level": "C1",
     "family": [
       "solely"
-    ]
+    ],
+    "topic": "economy"
   },
   {
     "word": "somewhat",
@@ -3894,14 +3894,14 @@
     "example": "The contract does not specify who pays for repairs.",
     "exampleVi": "Hợp đồng không nêu rõ cụ thể ai trả tiền sửa chữa.",
     "tags": [
-      "awl",
-      "law"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "specific",
       "specification"
-    ]
+    ],
+    "topic": "law"
   },
   {
     "word": "sphere",
@@ -3911,10 +3911,10 @@
     "example": "Religion once dominated the public sphere.",
     "exampleVi": "Tôn giáo từng thống trị lĩnh vực hoạt động công cộng.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
-    "level": "C1"
+    "level": "C1",
+    "topic": "society"
   },
   {
     "word": "statistic",
@@ -3940,10 +3940,10 @@
     "example": "Teaching has lost status over two generations.",
     "exampleVi": "Nghề dạy học mất dần vị thế qua hai thế hệ.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "society"
   },
   {
     "word": "straightforward",
@@ -3966,13 +3966,13 @@
     "example": "The national strategy sets targets for each province.",
     "exampleVi": "Chiến lược quốc gia đặt chỉ tiêu cho từng tỉnh.",
     "tags": [
-      "awl",
-      "work"
+      "awl"
     ],
     "level": "B1",
     "family": [
       "strategic"
-    ]
+    ],
+    "topic": "work"
   },
   {
     "word": "stress",
@@ -4024,10 +4024,10 @@
     "example": "Environmental aims remain subordinate to economic ones.",
     "exampleVi": "Mục tiêu môi trường vẫn phụ thuộc vào mục tiêu kinh tế.",
     "tags": [
-      "awl",
-      "environment"
+      "awl"
     ],
-    "level": "C1"
+    "level": "C1",
+    "topic": "environment"
   },
   {
     "word": "subsidy",
@@ -4037,13 +4037,13 @@
     "example": "Fuel subsidies cost more than the health budget.",
     "exampleVi": "Khoản trợ cấp nhà nước cho nhiên liệu tốn hơn ngân sách y tế.",
     "tags": [
-      "awl",
-      "economy"
+      "awl"
     ],
     "level": "C1",
     "family": [
       "subsidise"
-    ]
+    ],
+    "topic": "economy"
   },
   {
     "word": "substitute",
@@ -4053,13 +4053,13 @@
     "example": "Many households substitute gas for firewood.",
     "exampleVi": "Nhiều hộ gia đình thay thế bằng cái khác là khí ga cho củi.",
     "tags": [
-      "awl",
-      "environment"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "substitution"
-    ]
+    ],
+    "topic": "environment"
   },
   {
     "word": "successor",
@@ -4069,10 +4069,10 @@
     "example": "Her successor reversed almost every decision.",
     "exampleVi": "Người kế nhiệm của bà đảo ngược gần như mọi quyết định.",
     "tags": [
-      "awl",
-      "work"
+      "awl"
     ],
-    "level": "C1"
+    "level": "C1",
+    "topic": "work"
   },
   {
     "word": "sum",
@@ -4082,10 +4082,10 @@
     "example": "A large sum was set aside for flood defences.",
     "exampleVi": "Một khoản tiền lớn được dành riêng cho công trình chống lũ.",
     "tags": [
-      "awl",
-      "economy"
+      "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "economy"
   },
   {
     "word": "survey",
@@ -4108,13 +4108,13 @@
     "example": "Flights were suspended for three days.",
     "exampleVi": "Các chuyến bay bị tạm đình chỉ trong ba ngày.",
     "tags": [
-      "awl",
-      "work"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "suspension"
-    ]
+    ],
+    "topic": "work"
   },
   {
     "word": "symbol",
@@ -4124,13 +4124,13 @@
     "example": "The river became a symbol of the city's recovery.",
     "exampleVi": "Dòng sông trở thành biểu tượng cho sự hồi sinh của thành phố.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
     "level": "B1",
     "family": [
       "symbolic"
-    ]
+    ],
+    "topic": "society"
   },
   {
     "word": "tape",
@@ -4140,10 +4140,10 @@
     "example": "The interviews survive only on tape.",
     "exampleVi": "Các cuộc phỏng vấn chỉ còn lưu lại trên băng ghi âm.",
     "tags": [
-      "awl",
-      "media"
+      "awl"
     ],
-    "level": "A2"
+    "level": "A2",
+    "topic": "media"
   },
   {
     "word": "target",
@@ -4153,10 +4153,10 @@
     "example": "The country missed its emissions target by a wide margin.",
     "exampleVi": "Nước này trượt chỉ tiêu đặt ra về khí thải với khoảng cách lớn.",
     "tags": [
-      "awl",
-      "environment"
+      "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "environment"
   },
   {
     "word": "task",
@@ -4166,10 +4166,10 @@
     "example": "Each task should take no more than twenty minutes.",
     "exampleVi": "Mỗi nhiệm vụ được giao không nên mất quá hai mươi phút.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
-    "level": "A2"
+    "level": "A2",
+    "topic": "education"
   },
   {
     "word": "team",
@@ -4179,10 +4179,10 @@
     "example": "The team published its findings after four years.",
     "exampleVi": "Nhóm làm việc công bố kết quả sau bốn năm.",
     "tags": [
-      "awl",
-      "work"
+      "awl"
     ],
-    "level": "A2"
+    "level": "A2",
+    "topic": "work"
   },
   {
     "word": "technical",
@@ -4192,13 +4192,13 @@
     "example": "The report is too technical for a general audience.",
     "exampleVi": "Báo cáo quá thuộc kỹ thuật đối với độc giả phổ thông.",
     "tags": [
-      "awl",
-      "technology"
+      "awl"
     ],
     "level": "B1",
     "family": [
       "technically"
-    ]
+    ],
+    "topic": "technology"
   },
   {
     "word": "technique",
@@ -4208,10 +4208,10 @@
     "example": "A new imaging technique made the diagnosis possible.",
     "exampleVi": "Một kỹ thuật thao tác chụp ảnh mới khiến việc chẩn đoán trở nên khả thi.",
     "tags": [
-      "awl",
-      "health"
+      "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "health"
   },
   {
     "word": "technology",
@@ -4221,13 +4221,13 @@
     "example": "Technology has changed teaching faster than assessment.",
     "exampleVi": "Công nghệ đã thay đổi việc dạy nhanh hơn việc đánh giá.",
     "tags": [
-      "awl",
-      "technology"
+      "awl"
     ],
     "level": "B1",
     "family": [
       "technological"
-    ]
+    ],
+    "topic": "technology"
   },
   {
     "word": "temporary",
@@ -4253,13 +4253,13 @@
     "example": "Relations between the two ministries remain tense.",
     "exampleVi": "Quan hệ giữa hai bộ vẫn căng thẳng.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
     "level": "B1",
     "family": [
       "tension"
-    ]
+    ],
+    "topic": "society"
   },
   {
     "word": "text",
@@ -4269,13 +4269,13 @@
     "example": "Candidates read three texts in sixty minutes.",
     "exampleVi": "Thí sinh đọc ba văn bản trong sáu mươi phút.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
     "level": "A2",
     "family": [
       "textual"
-    ]
+    ],
+    "topic": "education"
   },
   {
     "word": "theme",
@@ -4343,10 +4343,10 @@
     "example": "Candidates may choose any topic from the list.",
     "exampleVi": "Thí sinh có thể chọn bất kỳ đề tài bàn tới nào trong danh sách.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
-    "level": "A2"
+    "level": "A2",
+    "topic": "education"
   },
   {
     "word": "transit",
@@ -4356,10 +4356,10 @@
     "example": "Goods are damaged most often in transit.",
     "exampleVi": "Hàng hoá hư hỏng nhiều nhất trong quá trình trung chuyển.",
     "tags": [
-      "awl",
-      "economy"
+      "awl"
     ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "economy"
   },
   {
     "word": "transmit",
@@ -4369,13 +4369,13 @@
     "example": "The virus transmits most easily in crowded rooms.",
     "exampleVi": "Vi-rút lây truyền dễ nhất trong phòng đông người.",
     "tags": [
-      "awl",
-      "health"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "transmission"
-    ]
+    ],
+    "topic": "health"
   },
   {
     "word": "transport",
@@ -4398,13 +4398,13 @@
     "example": "Deep inequalities underlie the protest movement.",
     "exampleVi": "Những bất bình đẳng sâu sắc nằm bên dưới làm nền cho phong trào biểu tình.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
     "level": "C1",
     "family": [
       "underlying"
-    ]
+    ],
+    "topic": "society"
   },
   {
     "word": "uniform",
@@ -4414,10 +4414,10 @@
     "example": "Standards are far from uniform across the country.",
     "exampleVi": "Tiêu chuẩn còn xa mới đồng nhất trên cả nước.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "education"
   },
   {
     "word": "unify",
@@ -4427,14 +4427,14 @@
     "example": "A single exam unified a fragmented system.",
     "exampleVi": "Một kỳ thi duy nhất hợp nhất lại thành một hệ thống vốn phân mảnh.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
     "level": "C1",
     "family": [
       "unified",
       "unity"
-    ]
+    ],
+    "topic": "education"
   },
   {
     "word": "unique",
@@ -4444,10 +4444,10 @@
     "example": "Each island has a unique set of species.",
     "exampleVi": "Mỗi hòn đảo có một tập hợp loài độc nhất vô nhị.",
     "tags": [
-      "awl",
-      "environment"
+      "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "environment"
   },
   {
     "word": "utilise",
@@ -4457,10 +4457,10 @@
     "example": "Few schools utilise the equipment they already own.",
     "exampleVi": "Rất ít trường tận dụng thiết bị họ đã có sẵn.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
-    "level": "C1"
+    "level": "C1",
+    "topic": "education"
   },
   {
     "word": "valid",
@@ -4500,10 +4500,10 @@
     "example": "Most applications arrive via the online portal.",
     "exampleVi": "Phần lớn hồ sơ tới thông qua cổng trực tuyến.",
     "tags": [
-      "awl",
-      "technology"
+      "awl"
     ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "technology"
   },
   {
     "word": "violate",
@@ -4513,13 +4513,13 @@
     "example": "The factory violated three safety regulations.",
     "exampleVi": "Nhà máy vi phạm ba quy định an toàn.",
     "tags": [
-      "awl",
-      "law"
+      "awl"
     ],
     "level": "C1",
     "family": [
       "violation"
-    ]
+    ],
+    "topic": "law"
   },
   {
     "word": "visible",
@@ -4545,10 +4545,10 @@
     "example": "The plan lacks any vision beyond the next election.",
     "exampleVi": "Kế hoạch thiếu hẳn tầm nhìn dài hạn vượt quá kỳ bầu cử tới.",
     "tags": [
-      "awl",
-      "work"
+      "awl"
     ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "work"
   },
   {
     "word": "visual",
@@ -4558,13 +4558,13 @@
     "example": "Visual aids help learners retain new vocabulary.",
     "exampleVi": "Phương tiện bằng hình ảnh giúp người học nhớ từ mới.",
     "tags": [
-      "awl",
-      "education"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "visually"
-    ]
+    ],
+    "topic": "education"
   },
   {
     "word": "volume",
@@ -4587,14 +4587,14 @@
     "example": "Participation was voluntary and anonymous.",
     "exampleVi": "Việc tham gia là tự nguyện và ẩn danh.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
     "level": "B2",
     "family": [
       "volunteer",
       "voluntarily"
-    ]
+    ],
+    "topic": "society"
   },
   {
     "word": "welfare",
@@ -4604,10 +4604,10 @@
     "example": "Welfare spending rose sharply during the downturn.",
     "exampleVi": "Chi tiêu phúc lợi xã hội tăng mạnh trong thời kỳ suy thoái.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
-    "level": "B2"
+    "level": "B2",
+    "topic": "society"
   },
   {
     "word": "whereby",
@@ -4630,10 +4630,10 @@
     "example": "The form records age, sex and place of birth.",
     "exampleVi": "Biểu mẫu ghi nhận tuổi, giới tính sinh học và nơi sinh.",
     "tags": [
-      "awl",
-      "society"
+      "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "society"
   },
   {
     "word": "so-called",
@@ -4656,9 +4656,9 @@
     "example": "Skills learned in one job transfer poorly to another.",
     "exampleVi": "Kỹ năng học được ở công việc này chuyển giao sang nơi khác rất kém.",
     "tags": [
-      "awl",
-      "work"
+      "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "topic": "work"
   }
 ]

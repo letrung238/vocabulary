@@ -1,0 +1,296 @@
+[
+  {
+    "word": "itinerary",
+    "ipa": "/aɪˈtɪn.ə.rə.ri/",
+    "pos": "noun",
+    "meaningVi": "lịch trình chuyến đi",
+    "example": "The itinerary packed six cities into ten days.",
+    "exampleVi": "Lịch trình chuyến đi nhồi sáu thành phố vào mười ngày.",
+    "topic": "travel",
+    "level": "C1"
+  },
+  {
+    "word": "excursion",
+    "ipa": "/ekˈskɜː.ʃən/",
+    "pos": "noun",
+    "meaningVi": "chuyến đi chơi ngắn ngày",
+    "example": "A day excursion to the caves costs almost nothing.",
+    "exampleVi": "Chuyến đi chơi ngắn ngày tới hang động gần như không tốn gì.",
+    "topic": "travel",
+    "level": "C1"
+  },
+  {
+    "word": "backpacking",
+    "ipa": "/ˈbæk.pæ.kɪŋ/",
+    "pos": "noun",
+    "meaningVi": "du lịch bụi",
+    "example": "Backpacking taught her more than any classroom did.",
+    "exampleVi": "Du lịch bụi dạy cô nhiều hơn mọi lớp học.",
+    "topic": "travel",
+    "level": "B2"
+  },
+  {
+    "word": "sightseeing",
+    "ipa": "/ˈsaɪt.si.ɪŋ/",
+    "pos": "noun",
+    "meaningVi": "việc đi ngắm cảnh",
+    "example": "Two days of sightseeing left everyone exhausted.",
+    "exampleVi": "Hai ngày đi ngắm cảnh khiến ai cũng kiệt sức.",
+    "topic": "travel",
+    "level": "B1"
+  },
+  {
+    "word": "landmark",
+    "ipa": "/ˈlænd.mɑːk/",
+    "pos": "noun",
+    "meaningVi": "địa danh nổi tiếng",
+    "example": "Every landmark in the old town charges an entry fee.",
+    "exampleVi": "Mọi địa danh nổi tiếng ở phố cổ đều thu phí vào cửa.",
+    "topic": "travel",
+    "level": "B2"
+  },
+  {
+    "word": "hospitality",
+    "ipa": "/ˌhɒs.pɪˈtæl.ɪ.ti/",
+    "pos": "noun",
+    "meaningVi": "lòng hiếu khách",
+    "example": "Rural hospitality surprised visitors used to cities.",
+    "exampleVi": "Lòng hiếu khách ở nông thôn làm khách quen sống ở đô thị bất ngờ.",
+    "topic": "travel",
+    "level": "B2"
+  },
+  {
+    "word": "accommodation",
+    "ipa": "/əˌkɒm.əˈdeɪ.ʃən/",
+    "pos": "noun",
+    "meaningVi": "chỗ ở khi đi xa",
+    "example": "Accommodation costs more than the flight in peak months.",
+    "exampleVi": "Chỗ ở khi đi xa tốn hơn vé máy bay vào các tháng cao điểm.",
+    "topic": "travel",
+    "level": "B2"
+  },
+  {
+    "word": "hostel",
+    "ipa": "/ˈhɒs.təl/",
+    "pos": "noun",
+    "meaningVi": "nhà trọ giá rẻ",
+    "example": "A hostel bed costs a tenth of a hotel room.",
+    "exampleVi": "Một giường trong nhà trọ giá rẻ bằng một phần mười phòng khách sạn.",
+    "topic": "travel",
+    "level": "B1"
+  },
+  {
+    "word": "resort",
+    "ipa": "/riˈsɔːt/",
+    "pos": "noun",
+    "meaningVi": "khu nghỉ dưỡng",
+    "example": "The resort employs half the village.",
+    "exampleVi": "Khu nghỉ dưỡng thuê một nửa dân làng.",
+    "topic": "travel",
+    "level": "B1"
+  },
+  {
+    "word": "destination",
+    "ipa": "/ˌdes.tɪˈneɪ.ʃən/",
+    "pos": "noun",
+    "meaningVi": "điểm đến",
+    "example": "The island became a destination almost overnight.",
+    "exampleVi": "Hòn đảo thành điểm đến gần như chỉ sau một đêm.",
+    "topic": "travel",
+    "level": "B1"
+  },
+  {
+    "word": "souvenir",
+    "ipa": "/ˌsuː.vəˈni.ər/",
+    "pos": "noun",
+    "meaningVi": "đồ lưu niệm",
+    "example": "Most souvenirs sold here are made abroad.",
+    "exampleVi": "Phần lớn đồ lưu niệm bán ở đây lại được làm ở nước ngoài.",
+    "topic": "travel",
+    "level": "B1"
+  },
+  {
+    "word": "visa",
+    "ipa": "/ˈviː.zə/",
+    "pos": "noun",
+    "meaningVi": "thị thực",
+    "example": "A visa takes six weeks and three appointments.",
+    "exampleVi": "Thị thực mất sáu tuần và ba lần hẹn.",
+    "topic": "travel",
+    "level": "B1"
+  },
+  {
+    "word": "customs",
+    "ipa": "/ˈkʌs.təmz/",
+    "pos": "noun",
+    "meaningVi": "hải quan",
+    "example": "Customs held the parcel for a fortnight.",
+    "exampleVi": "Hải quan giữ kiện hàng suốt hai tuần.",
+    "topic": "travel",
+    "level": "B2"
+  },
+  {
+    "word": "departure",
+    "ipa": "/dɪˈpɑː.tʃər/",
+    "pos": "noun",
+    "meaningVi": "lúc khởi hành",
+    "example": "Departure was delayed by fog for five hours.",
+    "exampleVi": "Lúc khởi hành bị hoãn năm tiếng vì sương mù.",
+    "topic": "travel",
+    "level": "B1"
+  },
+  {
+    "word": "layover",
+    "ipa": "/ˈleɪ.əʊ.vər/",
+    "pos": "noun",
+    "meaningVi": "chặng dừng nối chuyến",
+    "example": "A nine-hour layover ruins any cheap ticket.",
+    "exampleVi": "Chặng dừng nối chuyến chín tiếng phá hỏng mọi tấm vé rẻ.",
+    "topic": "travel",
+    "level": "C1"
+  },
+  {
+    "word": "jet lag",
+    "ipa": "/ˈdʒet læɡ/",
+    "pos": "noun",
+    "meaningVi": "mệt mỏi do lệch múi giờ",
+    "example": "Jet lag costs the first two days of any long trip.",
+    "exampleVi": "Mệt mỏi do lệch múi giờ lấy mất hai ngày đầu của mọi chuyến đi xa.",
+    "topic": "travel",
+    "level": "B2"
+  },
+  {
+    "word": "ecotourism",
+    "ipa": "/ˌiː.kəʊˈtʊə.rɪ.zəm/",
+    "pos": "noun",
+    "meaningVi": "du lịch sinh thái",
+    "example": "Ecotourism funds the reserve without cutting a tree.",
+    "exampleVi": "Du lịch sinh thái nuôi khu bảo tồn mà không phải chặt cây nào.",
+    "topic": "travel",
+    "level": "C1"
+  },
+  {
+    "word": "overtourism",
+    "ipa": "/ˌəʊ.vəˈtʊə.rɪ.zəm/",
+    "pos": "noun",
+    "meaningVi": "tình trạng quá tải du khách",
+    "example": "Overtourism has driven residents out of the centre.",
+    "exampleVi": "Tình trạng quá tải du khách đã đẩy cư dân ra khỏi trung tâm.",
+    "topic": "travel",
+    "level": "C1"
+  },
+  {
+    "word": "homestay",
+    "ipa": "/ˈhəʊm.steɪ/",
+    "pos": "noun",
+    "meaningVi": "hình thức ở nhà dân",
+    "example": "A homestay puts money straight into local hands.",
+    "exampleVi": "Hình thức ở nhà dân đưa tiền thẳng vào tay người địa phương.",
+    "topic": "travel",
+    "level": "B2"
+  },
+  {
+    "word": "off the beaten track",
+    "ipa": "/ˌɒf ðə ˈbiː.tən træk/",
+    "pos": "phrase",
+    "meaningVi": "ở nơi ít người lui tới",
+    "example": "The village stays off the beaten track because the road is bad.",
+    "exampleVi": "Ngôi làng vẫn ở nơi ít người lui tới vì đường sá tệ.",
+    "topic": "travel",
+    "level": "C1",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "tourist attraction",
+    "ipa": "/ˈtʊə.rɪst əˌtræk.ʃən/",
+    "pos": "noun",
+    "meaningVi": "điểm thu hút khách du lịch",
+    "example": "The waterfall is the only tourist attraction for miles.",
+    "exampleVi": "Thác nước là điểm thu hút khách du lịch duy nhất trong bán kính nhiều dặm.",
+    "topic": "travel",
+    "level": "B1",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "package tour",
+    "ipa": "/ˈpæk.ɪdʒ tʊər/",
+    "pos": "noun",
+    "meaningVi": "tour trọn gói",
+    "example": "A package tour removes every decision from the traveller.",
+    "exampleVi": "Tour trọn gói lấy đi mọi quyết định khỏi tay người đi.",
+    "topic": "travel",
+    "level": "B2",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "peak season",
+    "ipa": "/ˌpiːk ˈsiː.zən/",
+    "pos": "noun",
+    "meaningVi": "mùa cao điểm",
+    "example": "Prices triple in peak season and nobody complains.",
+    "exampleVi": "Giá tăng gấp ba vào mùa cao điểm mà không ai phàn nàn.",
+    "topic": "travel",
+    "level": "B2",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "culture shock",
+    "ipa": "/ˈkʌl.tʃə ʃɒk/",
+    "pos": "noun",
+    "meaningVi": "cú sốc văn hoá",
+    "example": "Culture shock hits hardest in the second week.",
+    "exampleVi": "Cú sốc văn hoá giáng mạnh nhất vào tuần thứ hai.",
+    "topic": "travel",
+    "level": "B2",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "travel insurance",
+    "ipa": "/ˈtræv.əl ɪnˌʃɔː.rəns/",
+    "pos": "noun",
+    "meaningVi": "bảo hiểm du lịch",
+    "example": "Travel insurance seems pointless until it is not.",
+    "exampleVi": "Bảo hiểm du lịch có vẻ vô ích cho tới lúc không còn vô ích nữa.",
+    "topic": "travel",
+    "level": "B2",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "budget airline",
+    "ipa": "/ˈbʌdʒ.ɪt ˈeə.laɪn/",
+    "pos": "noun",
+    "meaningVi": "hãng bay giá rẻ",
+    "example": "Budget airlines charge separately for everything but the seat.",
+    "exampleVi": "Hãng bay giá rẻ tính tiền riêng cho mọi thứ trừ chỗ ngồi.",
+    "topic": "travel",
+    "level": "B2",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "guided tour",
+    "ipa": "/ˌɡaɪ.dɪd ˈtʊər/",
+    "pos": "noun",
+    "meaningVi": "chuyến tham quan có hướng dẫn",
+    "example": "A guided tour explains what the signs leave out.",
+    "exampleVi": "Chuyến tham quan có hướng dẫn giải thích những gì biển chỉ dẫn bỏ sót.",
+    "topic": "travel",
+    "level": "B1",
+    "tags": [
+      "collocation"
+    ]
+  }
+]

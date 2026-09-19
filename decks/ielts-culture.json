@@ -1,0 +1,218 @@
+[
+  {
+    "word": "heritage",
+    "ipa": "/ˈher.ɪ.tɪdʒ/",
+    "pos": "noun",
+    "meaningVi": "di sản",
+    "example": "The whole quarter was listed as heritage in 1998.",
+    "exampleVi": "Cả khu phố được xếp hạng di sản năm 1998.",
+    "topic": "culture",
+    "level": "B2"
+  },
+  {
+    "word": "ritual",
+    "ipa": "/ˈrɪtʃ.u.əl/",
+    "pos": "noun",
+    "meaningVi": "nghi thức",
+    "example": "The ritual survives even where the belief has gone.",
+    "exampleVi": "Nghi thức vẫn còn ngay cả ở nơi niềm tin đã mất.",
+    "topic": "culture",
+    "level": "B2"
+  },
+  {
+    "word": "folklore",
+    "ipa": "/ˈfəʊ.klɔːr/",
+    "pos": "noun",
+    "meaningVi": "văn hoá dân gian",
+    "example": "Folklore records what official history leaves out.",
+    "exampleVi": "Văn hoá dân gian ghi lại những gì chính sử bỏ sót.",
+    "topic": "culture",
+    "level": "C1"
+  },
+  {
+    "word": "indigenous",
+    "ipa": "/ɪnˈdɪdʒ.ə.nəs/",
+    "pos": "adjective",
+    "meaningVi": "thuộc về dân bản địa",
+    "example": "Indigenous languages disappear faster than species.",
+    "exampleVi": "Ngôn ngữ thuộc về dân bản địa biến mất nhanh hơn cả các loài.",
+    "topic": "culture",
+    "level": "C1"
+  },
+  {
+    "word": "assimilate",
+    "ipa": "/əˈsɪm.ɪ.leɪt/",
+    "pos": "verb",
+    "meaningVi": "hoà nhập tới mức mất bản sắc",
+    "example": "Migrants assimilate faster than their parents expect.",
+    "exampleVi": "Người nhập cư hoà nhập tới mức mất bản sắc nhanh hơn cha mẹ họ tưởng.",
+    "topic": "culture",
+    "level": "C1"
+  },
+  {
+    "word": "multicultural",
+    "ipa": "/ˌmʌl.tiˈkʌl.tʃər.əl/",
+    "pos": "adjective",
+    "meaningVi": "đa văn hoá",
+    "example": "The school is multicultural in intake but not in staff.",
+    "exampleVi": "Trường đa văn hoá về học sinh nhưng không đa văn hoá về giáo viên.",
+    "topic": "culture",
+    "level": "B2"
+  },
+  {
+    "word": "globalisation",
+    "ipa": "/ˌɡləʊ.bəl.aɪˈzeɪ.ʃən/",
+    "pos": "noun",
+    "meaningVi": "toàn cầu hoá",
+    "example": "Globalisation made the same shop appear in every airport.",
+    "exampleVi": "Toàn cầu hoá khiến cùng một cửa hàng xuất hiện ở mọi sân bay.",
+    "topic": "culture",
+    "level": "C1"
+  },
+  {
+    "word": "identity",
+    "ipa": "/aɪˈden.tɪ.ti/",
+    "pos": "noun",
+    "meaningVi": "bản sắc",
+    "example": "Language carries identity more than borders do.",
+    "exampleVi": "Ngôn ngữ mang bản sắc nhiều hơn biên giới.",
+    "topic": "culture",
+    "level": "B2"
+  },
+  {
+    "word": "dialect",
+    "ipa": "/ˈdaɪ.ə.lekt/",
+    "pos": "noun",
+    "meaningVi": "phương ngữ",
+    "example": "The dialect vanished within one generation.",
+    "exampleVi": "Phương ngữ biến mất chỉ trong một thế hệ.",
+    "topic": "culture",
+    "level": "C1"
+  },
+  {
+    "word": "ceremony",
+    "ipa": "/ˈser.ɪ.mə.ni/",
+    "pos": "noun",
+    "meaningVi": "buổi lễ",
+    "example": "The ceremony lasts three days in the old villages.",
+    "exampleVi": "Buổi lễ kéo dài ba ngày ở những làng cổ.",
+    "topic": "culture",
+    "level": "B1"
+  },
+  {
+    "word": "superstition",
+    "ipa": "/ˈsuː.pəˈstɪʃ.ən/",
+    "pos": "noun",
+    "meaningVi": "điều mê tín",
+    "example": "Superstition still decides which floors a building skips.",
+    "exampleVi": "Điều mê tín vẫn quyết định toà nhà bỏ qua những tầng nào.",
+    "topic": "culture",
+    "level": "C1"
+  },
+  {
+    "word": "monument",
+    "ipa": "/ˈmɒn.juː.mənt/",
+    "pos": "noun",
+    "meaningVi": "công trình tưởng niệm",
+    "example": "The monument was moved twice for political reasons.",
+    "exampleVi": "Công trình tưởng niệm bị dời hai lần vì lý do chính trị.",
+    "topic": "culture",
+    "level": "B2"
+  },
+  {
+    "word": "artefact",
+    "ipa": "/ˈɑː.tɪ.fækt/",
+    "pos": "noun",
+    "meaningVi": "hiện vật khảo cổ",
+    "example": "Most artefacts sit in storage, never displayed.",
+    "exampleVi": "Phần lớn hiện vật khảo cổ nằm trong kho, không bao giờ được trưng bày.",
+    "topic": "culture",
+    "level": "C1"
+  },
+  {
+    "word": "craftsmanship",
+    "ipa": "/ˈkrɑːfts.mən.ʃɪp/",
+    "pos": "noun",
+    "meaningVi": "tay nghề thủ công",
+    "example": "Craftsmanship takes years to learn and minutes to undercut.",
+    "exampleVi": "Tay nghề thủ công mất nhiều năm để học và vài phút để bị phá giá.",
+    "topic": "culture",
+    "level": "C1"
+  },
+  {
+    "word": "mainstream",
+    "ipa": "/ˈmeɪn.striːm/",
+    "pos": "adjective",
+    "meaningVi": "thuộc dòng chính",
+    "example": "What was underground became mainstream in five years.",
+    "exampleVi": "Thứ từng nằm ngoài lề trở thành dòng chính trong năm năm.",
+    "topic": "culture",
+    "level": "B2"
+  },
+  {
+    "word": "stereotype",
+    "ipa": "/ˈster.i.əʊ.taɪp/",
+    "pos": "noun",
+    "meaningVi": "định kiến rập khuôn",
+    "example": "Films repeat the stereotype until nobody questions it.",
+    "exampleVi": "Phim ảnh lặp lại định kiến rập khuôn cho tới khi không ai còn nghi ngờ.",
+    "topic": "culture",
+    "level": "B2"
+  },
+  {
+    "word": "prejudice",
+    "ipa": "/ˈpredʒ.uː.dɪs/",
+    "pos": "noun",
+    "meaningVi": "thành kiến",
+    "example": "Prejudice survives contact if the contact stays shallow.",
+    "exampleVi": "Thành kiến vẫn sống sót qua tiếp xúc nếu tiếp xúc chỉ hời hợt.",
+    "topic": "culture",
+    "level": "C1"
+  },
+  {
+    "word": "tolerance",
+    "ipa": "/ˈtɒl.ə.rəns/",
+    "pos": "noun",
+    "meaningVi": "sự khoan dung",
+    "example": "Tolerance is easier to declare than to practise.",
+    "exampleVi": "Sự khoan dung dễ tuyên bố hơn là thực hành.",
+    "topic": "culture",
+    "level": "B2"
+  },
+  {
+    "word": "diversity",
+    "ipa": "/daɪˈvɜː.sɪ.ti/",
+    "pos": "noun",
+    "meaningVi": "sự đa dạng",
+    "example": "Diversity in the intake does not guarantee it in the boardroom.",
+    "exampleVi": "Sự đa dạng ở đầu vào không bảo đảm có nó trong phòng họp lãnh đạo.",
+    "topic": "culture",
+    "level": "B2"
+  },
+  {
+    "word": "cultural exchange",
+    "ipa": "/ˌkʌl.tʃər.əl ɪksˈtʃeɪndʒ/",
+    "pos": "noun",
+    "meaningVi": "giao lưu văn hoá",
+    "example": "Cultural exchange works only when both sides give something.",
+    "exampleVi": "Giao lưu văn hoá chỉ hiệu quả khi cả hai phía đều cho đi thứ gì đó.",
+    "topic": "culture",
+    "level": "B2",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "ethnic minority",
+    "ipa": "/ˌeθ.nɪk maɪˈnɒr.ə.ti/",
+    "pos": "noun",
+    "meaningVi": "dân tộc thiểu số",
+    "example": "Ethnic minority pupils are underrepresented in top schools.",
+    "exampleVi": "Học sinh dân tộc thiểu số có tỷ lệ thấp bất thường ở các trường top.",
+    "topic": "culture",
+    "level": "B2",
+    "tags": [
+      "collocation"
+    ]
+  }
+]

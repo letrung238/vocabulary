@@ -1,0 +1,163 @@
+[
+  {
+    "word": "laboratory",
+    "ipa": "/ləˈbɒr.ə.tri/",
+    "pos": "noun",
+    "meaningVi": "phòng thí nghiệm",
+    "example": "The laboratory runs on grants renewed every two years.",
+    "exampleVi": "Phòng thí nghiệm sống bằng các khoản tài trợ gia hạn hai năm một lần.",
+    "topic": "science",
+    "level": "B1"
+  },
+  {
+    "word": "breakthrough",
+    "ipa": "/ˈbreɪk.θruː/",
+    "pos": "noun",
+    "meaningVi": "bước đột phá",
+    "example": "The breakthrough came after nine years of failure.",
+    "exampleVi": "Bước đột phá đến sau chín năm thất bại.",
+    "topic": "science",
+    "level": "B2"
+  },
+  {
+    "word": "empirical",
+    "ipa": "/emˈpɪr.ɪ.kəl/",
+    "pos": "adjective",
+    "meaningVi": "dựa trên quan sát thực nghiệm",
+    "example": "Empirical work beats a clever argument every time.",
+    "exampleVi": "Công trình dựa trên quan sát thực nghiệm luôn thắng một lập luận khéo léo.",
+    "topic": "science",
+    "level": "C1"
+  },
+  {
+    "word": "replicate",
+    "ipa": "/ˈrep.lɪ.keɪt/",
+    "pos": "verb",
+    "meaningVi": "lặp lại để kiểm chứng",
+    "example": "Nobody could replicate the result for a decade.",
+    "exampleVi": "Suốt một thập kỷ không ai lặp lại để kiểm chứng được kết quả đó.",
+    "topic": "science",
+    "level": "C1"
+  },
+  {
+    "word": "variable",
+    "ipa": "/ˈveə.ri.ə.bəl/",
+    "pos": "noun",
+    "meaningVi": "biến số",
+    "example": "One uncontrolled variable invalidated the whole trial.",
+    "exampleVi": "Một biến số không kiểm soát được làm hỏng giá trị của cả thử nghiệm.",
+    "topic": "science",
+    "level": "B2"
+  },
+  {
+    "word": "specimen",
+    "ipa": "/ˈspes.ɪ.mən/",
+    "pos": "noun",
+    "meaningVi": "mẫu vật",
+    "example": "Each specimen is logged before it leaves the site.",
+    "exampleVi": "Mỗi mẫu vật đều được ghi sổ trước khi rời hiện trường.",
+    "topic": "science",
+    "level": "C1"
+  },
+  {
+    "word": "genetics",
+    "ipa": "/dʒeˈnet.ɪks/",
+    "pos": "noun",
+    "meaningVi": "di truyền học",
+    "example": "Genetics explains risk, not destiny.",
+    "exampleVi": "Di truyền học giải thích nguy cơ, không phải số phận.",
+    "topic": "science",
+    "level": "B2"
+  },
+  {
+    "word": "clinical trial",
+    "ipa": "/ˌklɪn.ɪ.kəl ˈtraɪ.əl/",
+    "pos": "noun",
+    "meaningVi": "thử nghiệm lâm sàng",
+    "example": "A clinical trial needs thousands of volunteers and years of patience.",
+    "exampleVi": "Thử nghiệm lâm sàng cần hàng nghìn tình nguyện viên và nhiều năm kiên nhẫn.",
+    "topic": "science",
+    "level": "C1",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "peer review",
+    "ipa": "/ˌpɪə rɪˈvjuː/",
+    "pos": "noun",
+    "meaningVi": "bình duyệt đồng nghiệp",
+    "example": "Peer review catches errors but rarely catches fraud.",
+    "exampleVi": "Bình duyệt đồng nghiệp bắt được lỗi nhưng hiếm khi bắt được gian lận.",
+    "topic": "science",
+    "level": "C1",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "scientific method",
+    "ipa": "/ˌsaɪ.ənˌtɪf.ɪk ˈmeθ.əd/",
+    "pos": "noun",
+    "meaningVi": "phương pháp khoa học",
+    "example": "The scientific method is slow precisely so it is reliable.",
+    "exampleVi": "Phương pháp khoa học chậm chạp chính là để nó đáng tin.",
+    "topic": "science",
+    "level": "B2",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "evidence-based",
+    "ipa": "/ˈev.ɪ.dəns beɪst/",
+    "pos": "adjective",
+    "meaningVi": "dựa trên bằng chứng",
+    "example": "Evidence-based policy is rarer than the phrase suggests.",
+    "exampleVi": "Chính sách dựa trên bằng chứng hiếm hơn nhiều so với cách người ta hay nói.",
+    "topic": "science",
+    "level": "C1",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "space exploration",
+    "ipa": "/ˈspeɪs ˌek.spləˈreɪ.ʃən/",
+    "pos": "noun",
+    "meaningVi": "thám hiểm vũ trụ",
+    "example": "Space exploration returns technology long before it returns rocks.",
+    "exampleVi": "Thám hiểm vũ trụ mang về công nghệ từ rất lâu trước khi mang về đá.",
+    "topic": "science",
+    "level": "B2",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "artificial intelligence",
+    "ipa": "/ˌɑː.tɪˌfɪʃ.əl ɪnˈtel.ɪ.dʒəns/",
+    "pos": "noun",
+    "meaningVi": "trí tuệ nhân tạo",
+    "example": "Artificial intelligence writes text faster than anyone can check it.",
+    "exampleVi": "Trí tuệ nhân tạo viết chữ nhanh hơn tốc độ bất kỳ ai kiểm tra được.",
+    "topic": "science",
+    "level": "B2",
+    "tags": [
+      "collocation"
+    ]
+  },
+  {
+    "word": "ethical concern",
+    "ipa": "/ˈeθ.ɪ.kəl kənˌsɜːn/",
+    "pos": "noun",
+    "meaningVi": "quan ngại về đạo đức",
+    "example": "Ethical concerns are raised after the technology ships, not before.",
+    "exampleVi": "Quan ngại về đạo đức được nêu sau khi công nghệ ra mắt, không phải trước.",
+    "topic": "science",
+    "level": "C1",
+    "tags": [
+      "collocation"
+    ]
+  }
+]
