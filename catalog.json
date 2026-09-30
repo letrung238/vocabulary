@@ -15,6 +15,12 @@
       "count": 151
     },
     {
+      "title": "B2 · 1.000 từ mới",
+      "description": "Từ B2 không trùng bộ hiện có; 909 mục có nghĩa phụ. Dữ liệu biên tập từ thichhoc-dict và skypediacode (CC BY-SA 4.0).",
+      "url": "decks/b2-1000.json",
+      "count": 1000
+    },
+    {
       "title": "IELTS · Academic Word List",
       "description": "Từ vựng học thuật lõi (Coxhead AWL), phần chưa có trong bộ chính.",
       "url": "decks/ielts-awl.json",
