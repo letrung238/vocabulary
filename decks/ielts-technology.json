@@ -43,7 +43,13 @@
       "society"
     ],
     "level": "C1",
-    "topic": "technology"
+    "topic": "technology",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "việc theo dõi y tế liên tục để phát hiện bệnh"
+      }
+    ]
   },
   {
     "word": "malware",
@@ -69,7 +75,13 @@
     "family": [
       "private"
     ],
-    "topic": "technology"
+    "topic": "technology",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sự yên tĩnh riêng tư khi không bị người khác làm phiền"
+      }
+    ]
   },
   {
     "word": "robotics",
@@ -95,7 +107,13 @@
     "family": [
       "simulate"
     ],
-    "topic": "technology"
+    "topic": "technology",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "việc giả vờ có một triệu chứng hoặc hành vi"
+      }
+    ]
   },
   {
     "word": "wireless",
@@ -105,7 +123,13 @@
     "example": "Wireless coverage still stops at the district border.",
     "exampleVi": "Vùng phủ sóng không dây vẫn dừng lại ở ranh giới huyện.",
     "level": "B1",
-    "topic": "technology"
+    "topic": "technology",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "máy thu thanh vô tuyến (cách gọi cũ)"
+      }
+    ]
   },
   {
     "word": "biometric",
@@ -115,7 +139,13 @@
     "example": "Biometric passports cannot be lent or forged easily.",
     "exampleVi": "Hộ chiếu sinh trắc học không thể cho mượn hay làm giả dễ dàng.",
     "level": "C1",
-    "topic": "technology"
+    "topic": "technology",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "dữ liệu đo đặc điểm cơ thể dùng để nhận dạng"
+      }
+    ]
   },
   {
     "word": "digitise",
@@ -135,7 +165,13 @@
     "example": "Every new gadget shortens the life of the last one.",
     "exampleVi": "Mỗi món đồ công nghệ nhỏ mới lại rút ngắn tuổi thọ của món trước.",
     "level": "B1",
-    "topic": "technology"
+    "topic": "technology",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "chương trình nhỏ thực hiện một chức năng trên màn hình"
+      }
+    ]
   },
   {
     "word": "hacker",
@@ -145,7 +181,13 @@
     "example": "A hacker needs only one careless employee.",
     "exampleVi": "Một tin tặc chỉ cần đúng một nhân viên bất cẩn.",
     "level": "B2",
-    "topic": "technology"
+    "topic": "technology",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "người mê tìm hiểu và thử nghiệm hệ thống máy tính"
+      }
+    ]
   },
   {
     "word": "innovation",
@@ -168,7 +210,13 @@
       "health"
     ],
     "level": "A2",
-    "topic": "technology"
+    "topic": "technology",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "sàng lọc để phát hiện bệnh"
+      }
+    ]
   },
   {
     "word": "smartphone",
@@ -191,7 +239,13 @@
       "work"
     ],
     "level": "B2",
-    "topic": "technology"
+    "topic": "technology",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "quá trình khởi động máy tính hoặc động cơ"
+      }
+    ]
   },
   {
     "word": "upgrade",
@@ -201,7 +255,13 @@
     "example": "Users upgrade only when the old device stops working.",
     "exampleVi": "Người dùng nâng cấp lên bản mới chỉ khi thiết bị cũ ngừng hoạt động.",
     "level": "B1",
-    "topic": "technology"
+    "topic": "technology",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "việc chuyển lên hạng ghế hoặc phòng cao hơn"
+      }
+    ]
   },
   {
     "word": "misinformation",
@@ -240,7 +300,13 @@
     "example": "Poor connectivity keeps remote schools out of online lessons.",
     "exampleVi": "Khả năng kết nối mạng kém khiến trường vùng xa đứng ngoài các lớp trực tuyến.",
     "level": "C1",
-    "topic": "technology"
+    "topic": "technology",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "cảm giác gắn kết giữa những người với nhau"
+      }
+    ]
   },
   {
     "word": "obsolescence",
@@ -263,6 +329,12 @@
     "example": "A confusing interface excludes older users entirely.",
     "exampleVi": "Giao diện tiếp xúc rối rắm loại bỏ hoàn toàn người dùng lớn tuổi.",
     "level": "B2",
-    "topic": "technology"
+    "topic": "technology",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "bề mặt tiếp xúc hoặc ranh giới giữa hai vật"
+      }
+    ]
   }
 ]

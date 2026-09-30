@@ -7,7 +7,13 @@
     "example": "Inequality widened even as average income rose.",
     "exampleVi": "Tình trạng bất bình đẳng giãn rộng ngay cả khi thu nhập trung bình tăng.",
     "level": "B2",
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "hệ thức toán học thể hiện hai vế không bằng nhau"
+      }
+    ]
   },
   {
     "word": "poverty",
@@ -17,7 +23,13 @@
     "example": "Poverty is measured differently in every country.",
     "exampleVi": "Sự nghèo đói được đo bằng cách khác nhau ở mỗi nước.",
     "level": "B1",
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sự thiếu hụt trầm trọng một phẩm chất hoặc nguồn lực"
+      }
+    ]
   },
   {
     "word": "corruption",
@@ -30,7 +42,13 @@
     "family": [
       "corrupt"
     ],
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sự hỏng hoặc biến dạng của dữ liệu"
+      }
+    ]
   },
   {
     "word": "bureaucracy",
@@ -43,7 +61,13 @@
     "family": [
       "bureaucratic"
     ],
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "hệ thống quan chức trong bộ máy hành chính"
+      }
+    ]
   },
   {
     "word": "democracy",
@@ -56,7 +80,13 @@
     "family": [
       "democratic"
     ],
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "cách ra quyết định dựa trên ý kiến của mọi thành viên"
+      }
+    ]
   },
   {
     "word": "censorship",
@@ -82,7 +112,13 @@
     "example": "The protest drew crowds from six neighbouring towns.",
     "exampleVi": "Cuộc biểu tình phản đối thu hút đám đông từ sáu thị trấn lân cận.",
     "level": "B1",
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "phản đối công khai một hành động hoặc quyết định"
+      }
+    ]
   },
   {
     "word": "riot",
@@ -92,7 +128,13 @@
     "example": "A single arrest triggered three nights of riots.",
     "exampleVi": "Một vụ bắt giữ duy nhất châm ngòi ba đêm bạo loạn.",
     "level": "B2",
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sự bùng nổ của màu sắc hoặc âm thanh"
+      }
+    ]
   },
   {
     "word": "crime",
@@ -105,7 +147,13 @@
     "family": [
       "criminal"
     ],
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "điều đáng tiếc hoặc đáng xấu hổ"
+      }
+    ]
   },
   {
     "word": "deterrent",
@@ -118,7 +166,13 @@
     "family": [
       "deter"
     ],
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "có tác dụng ngăn chặn bằng cách răn đe"
+      }
+    ]
   },
   {
     "word": "rehabilitate",
@@ -128,7 +182,13 @@
     "example": "Prisons rehabilitate far fewer offenders than they claim.",
     "exampleVi": "Nhà tù giúp tái hoà nhập ít phạm nhân hơn nhiều so với họ tuyên bố.",
     "level": "C1",
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "phục hồi danh dự hoặc uy tín cho một người"
+      }
+    ]
   },
   {
     "word": "offender",
@@ -152,7 +212,13 @@
     "example": "He spent four months in custody before the trial.",
     "exampleVi": "Ông bị giam giữ bốn tháng trước khi xét xử.",
     "level": "C1",
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "quyền chăm sóc con theo quyết định của tòa"
+      }
+    ]
   },
   {
     "word": "verdict",
@@ -162,7 +228,13 @@
     "example": "The verdict was overturned on appeal.",
     "exampleVi": "Phán quyết của toà bị lật lại ở phiên phúc thẩm.",
     "level": "C1",
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "ý kiến kết luận của công chúng về một sự việc"
+      }
+    ]
   },
   {
     "word": "jury",
@@ -172,7 +244,13 @@
     "example": "The jury deliberated for less than an hour.",
     "exampleVi": "Bồi thẩm đoàn nghị án chưa tới một tiếng.",
     "level": "B2",
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "ban giám khảo của một cuộc thi"
+      }
+    ]
   },
   {
     "word": "prosecute",
@@ -186,7 +264,13 @@
       "prosecution",
       "prosecutor"
     ],
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "tiếp tục thực hiện một kế hoạch một cách quyết liệt"
+      }
+    ]
   },
   {
     "word": "punishment",
@@ -229,7 +313,13 @@
     "example": "Discrimination in hiring is hard to prove in court.",
     "exampleVi": "Sự phân biệt đối xử khi tuyển dụng rất khó chứng minh trước toà.",
     "level": "B2",
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "khả năng nhận ra sự khác biệt rất nhỏ"
+      }
+    ]
   },
   {
     "word": "urbanisation",
@@ -279,7 +369,13 @@
     "family": [
       "homelessness"
     ],
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "những người không có nhà ở"
+      }
+    ]
   },
   {
     "word": "charity",
@@ -292,7 +388,13 @@
     "family": [
       "charitable"
     ],
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "lòng nhân ái đối với người khác"
+      }
+    ]
   },
   {
     "word": "volunteerism",

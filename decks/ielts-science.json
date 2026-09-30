@@ -7,7 +7,13 @@
     "example": "The laboratory runs on grants renewed every two years.",
     "exampleVi": "Phòng thí nghiệm sống bằng các khoản tài trợ gia hạn hai năm một lần.",
     "topic": "science",
-    "level": "B1"
+    "level": "B1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "nơi hoặc môi trường để thử nghiệm ý tưởng mới"
+      }
+    ]
   },
   {
     "word": "breakthrough",
@@ -17,7 +23,13 @@
     "example": "The breakthrough came after nine years of failure.",
     "exampleVi": "Bước đột phá đến sau chín năm thất bại.",
     "topic": "science",
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "việc chọc thủng một rào cản vật lý"
+      }
+    ]
   },
   {
     "word": "empirical",
@@ -37,7 +49,13 @@
     "example": "Nobody could replicate the result for a decade.",
     "exampleVi": "Suốt một thập kỷ không ai lặp lại để kiểm chứng được kết quả đó.",
     "topic": "science",
-    "level": "C1"
+    "level": "C1",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "tạo một bản sao giống bản gốc"
+      }
+    ]
   },
   {
     "word": "variable",
@@ -47,7 +65,13 @@
     "example": "One uncontrolled variable invalidated the whole trial.",
     "exampleVi": "Một biến số không kiểm soát được làm hỏng giá trị của cả thử nghiệm.",
     "topic": "science",
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "có thể thay đổi theo hoàn cảnh"
+      }
+    ]
   },
   {
     "word": "specimen",
@@ -57,7 +81,13 @@
     "example": "Each specimen is logged before it leaves the site.",
     "exampleVi": "Mỗi mẫu vật đều được ghi sổ trước khi rời hiện trường.",
     "topic": "science",
-    "level": "C1"
+    "level": "C1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "ví dụ tiêu biểu của một loại người hoặc vật"
+      }
+    ]
   },
   {
     "word": "genetics",
@@ -93,6 +123,12 @@
     "level": "C1",
     "tags": [
       "collocation"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "việc đồng nghiệp góp ý hiệu quả công việc"
+      }
     ]
   },
   {

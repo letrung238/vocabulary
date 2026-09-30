@@ -17,7 +17,13 @@
     "example": "Tuition now costs more than rent for many students.",
     "exampleVi": "Học phí giờ đắt hơn tiền thuê nhà với nhiều sinh viên.",
     "level": "B2",
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "việc giảng dạy hoặc chỉ dẫn"
+      }
+    ]
   },
   {
     "word": "scholarship",
@@ -27,7 +33,13 @@
     "example": "A full scholarship covers fees and living costs.",
     "exampleVi": "Một suất học bổng toàn phần trang trải cả học phí lẫn sinh hoạt phí.",
     "level": "B1",
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "trình độ nghiên cứu và học thuật"
+      }
+    ]
   },
   {
     "word": "undergraduate",
@@ -37,7 +49,13 @@
     "example": "Undergraduates outnumber postgraduates four to one.",
     "exampleVi": "Sinh viên bậc cử nhân đông gấp bốn lần học viên sau đại học.",
     "level": "B2",
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "thuộc bậc học trước khi tốt nghiệp đại học"
+      }
+    ]
   },
   {
     "word": "postgraduate",
@@ -47,7 +65,13 @@
     "example": "Most postgraduates fund their studies by teaching.",
     "exampleVi": "Phần lớn học viên sau đại học tự trang trải việc học bằng đi dạy.",
     "level": "B2",
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "thuộc chương trình học sau đại học"
+      }
+    ]
   },
   {
     "word": "dissertation",
@@ -57,7 +81,13 @@
     "example": "The dissertation counts for half the final mark.",
     "exampleVi": "Khoá luận tốt nghiệp chiếm một nửa điểm tổng kết.",
     "level": "C1",
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "bài luận dài trình bày một luận điểm"
+      }
+    ]
   },
   {
     "word": "plagiarism",
@@ -80,7 +110,13 @@
     "example": "A weekly tutorial gives students time to argue.",
     "exampleVi": "Buổi học nhóm nhỏ hằng tuần cho sinh viên thời gian để tranh luận.",
     "level": "B2",
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "thuộc việc hướng dẫn học tập"
+      }
+    ]
   },
   {
     "word": "seminar",
@@ -90,7 +126,13 @@
     "example": "Each seminar is led by a different researcher.",
     "exampleVi": "Mỗi buổi chuyên đề thảo luận do một nhà nghiên cứu khác chủ trì.",
     "level": "B2",
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "khóa học nhóm nhỏ có thảo luận thường xuyên"
+      }
+    ]
   },
   {
     "word": "syllabus",
@@ -113,7 +155,13 @@
     "family": [
       "literate"
     ],
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "khả năng hiểu và sử dụng công nghệ số"
+      }
+    ]
   },
   {
     "word": "numeracy",
@@ -136,7 +184,13 @@
     "family": [
       "motivate"
     ],
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "lý do hoặc động cơ đằng sau một hành động"
+      }
+    ]
   },
   {
     "word": "rote",
@@ -186,7 +240,13 @@
     "example": "The school expelled two pupils for repeated cheating.",
     "exampleVi": "Nhà trường đuổi học hai học sinh vì gian lận nhiều lần.",
     "level": "B2",
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "đẩy khí hoặc chất lỏng ra khỏi một vật"
+      }
+    ]
   },
   {
     "word": "enrol",
@@ -212,7 +272,13 @@
     "family": [
       "graduation"
     ],
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "người đã tốt nghiệp"
+      }
+    ]
   },
   {
     "word": "feedback",
@@ -222,7 +288,13 @@
     "example": "Written feedback is more useful than a bare grade.",
     "exampleVi": "Lời nhận xét góp ý bằng văn bản hữu ích hơn một con điểm trơ trọi.",
     "level": "B1",
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "âm thanh rít do loa thu lại tiếng từ chính nó"
+      }
+    ]
   },
   {
     "word": "assessment",
@@ -232,7 +304,13 @@
     "example": "Continuous assessment replaced the final examination.",
     "exampleVi": "Cách thức đánh giá liên tục thay cho kỳ thi cuối khoá.",
     "level": "B2",
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "số tiền được định để thu thuế hoặc phí"
+      }
+    ]
   },
   {
     "word": "extracurricular",
@@ -242,7 +320,13 @@
     "example": "Extracurricular activities are unaffordable for many families.",
     "exampleVi": "Hoạt động ngoại khoá nằm ngoài khả năng chi trả của nhiều gia đình.",
     "level": "C1",
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "nằm ngoài nhiệm vụ chính của một tổ chức"
+      }
+    ]
   },
   {
     "word": "boarding",
@@ -252,7 +336,13 @@
     "example": "Boarding schools separate children from their communities.",
     "exampleVi": "Trường nội trú tách trẻ khỏi cộng đồng của chúng.",
     "level": "B2",
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "việc lên tàu hoặc máy bay"
+      }
+    ]
   },
   {
     "word": "coeducation",
@@ -272,7 +362,13 @@
     "example": "Tertiary enrolment doubled within one generation.",
     "exampleVi": "Số người học bậc sau phổ thông tăng gấp đôi trong một thế hệ.",
     "level": "C1",
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "đứng thứ ba trong một chuỗi"
+      }
+    ]
   },
   {
     "word": "pedagogy",

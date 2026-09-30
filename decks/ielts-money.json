@@ -7,7 +7,13 @@
     "example": "Consumerism measures a life by what it owns.",
     "exampleVi": "Chủ nghĩa tiêu dùng đo một đời người bằng thứ người đó sở hữu.",
     "topic": "money",
-    "level": "C1"
+    "level": "C1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "phong trào bảo vệ quyền lợi người tiêu dùng"
+      }
+    ]
   },
   {
     "word": "affordable",
@@ -27,7 +33,13 @@
     "example": "A bargain you never use is not a bargain.",
     "exampleVi": "Món hời mà bạn không bao giờ dùng thì không phải món hời.",
     "topic": "money",
-    "level": "B1"
+    "level": "B1",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "mặc cả để đạt được giá hoặc điều kiện tốt hơn"
+      }
+    ]
   },
   {
     "word": "instalment",
@@ -37,7 +49,13 @@
     "example": "Paying by instalment hides the true price.",
     "exampleVi": "Trả bằng khoản trả góp che mất giá thật.",
     "topic": "money",
-    "level": "C1"
+    "level": "C1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "một tập trong bộ phim hoặc câu chuyện nhiều kỳ"
+      }
+    ]
   },
   {
     "word": "mortgage",
@@ -47,7 +65,13 @@
     "example": "A mortgage now takes two incomes and thirty years.",
     "exampleVi": "Khoản vay mua nhà nay cần hai nguồn thu nhập và ba mươi năm.",
     "topic": "money",
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "đem tài sản thế chấp để vay tiền"
+      }
+    ]
   },
   {
     "word": "debt",
@@ -57,7 +81,13 @@
     "example": "Student debt shapes decisions for a decade after graduation.",
     "exampleVi": "Nợ nần thời sinh viên định hình quyết định suốt một thập kỷ sau tốt nghiệp.",
     "topic": "money",
-    "level": "B1"
+    "level": "B1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "ơn nghĩa hoặc nghĩa vụ tinh thần phải đáp lại"
+      }
+    ]
   },
   {
     "word": "expenditure",
@@ -67,7 +97,13 @@
     "example": "Household expenditure on food fell as a share of income.",
     "exampleVi": "Khoản chi tiêu hộ gia đình cho thực phẩm giảm tính theo tỷ lệ thu nhập.",
     "topic": "money",
-    "level": "C1"
+    "level": "C1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "việc tiêu tốn thời gian hoặc công sức"
+      }
+    ]
   },
   {
     "word": "materialism",
@@ -77,7 +113,13 @@
     "example": "Materialism correlates poorly with reported happiness.",
     "exampleVi": "Lối sống trọng vật chất tương quan rất kém với mức hạnh phúc tự khai.",
     "topic": "money",
-    "level": "C1"
+    "level": "C1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "chủ nghĩa duy vật trong triết học"
+      }
+    ]
   },
   {
     "word": "counterfeit",
@@ -87,7 +129,13 @@
     "example": "Counterfeit goods now copy the packaging perfectly.",
     "exampleVi": "Hàng giả nhái nay sao chép bao bì hoàn hảo.",
     "topic": "money",
-    "level": "C1"
+    "level": "C1",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "làm giả tiền hoặc hàng hóa"
+      }
+    ]
   },
   {
     "word": "thrifty",
@@ -107,7 +155,13 @@
     "example": "One extravagant purchase undoes a year of saving.",
     "exampleVi": "Một lần mua sắm hoang phí xoá sạch một năm tiết kiệm.",
     "topic": "money",
-    "level": "C1"
+    "level": "C1",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "quá mức và thiếu tiết chế trong lời nói"
+      }
+    ]
   },
   {
     "word": "disposable income",

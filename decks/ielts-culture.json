@@ -7,7 +7,13 @@
     "example": "The whole quarter was listed as heritage in 1998.",
     "exampleVi": "Cả khu phố được xếp hạng di sản năm 1998.",
     "topic": "culture",
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "tài sản hoặc quyền lợi được thừa kế"
+      }
+    ]
   },
   {
     "word": "ritual",
@@ -17,7 +23,13 @@
     "example": "The ritual survives even where the belief has gone.",
     "exampleVi": "Nghi thức vẫn còn ngay cả ở nơi niềm tin đã mất.",
     "topic": "culture",
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "thuộc về một nghi lễ"
+      }
+    ]
   },
   {
     "word": "folklore",
@@ -47,7 +59,13 @@
     "example": "Migrants assimilate faster than their parents expect.",
     "exampleVi": "Người nhập cư hoà nhập tới mức mất bản sắc nhanh hơn cha mẹ họ tưởng.",
     "topic": "culture",
-    "level": "C1"
+    "level": "C1",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "tiếp thu và hiểu một thông tin mới"
+      }
+    ]
   },
   {
     "word": "multicultural",
@@ -77,7 +95,13 @@
     "example": "Language carries identity more than borders do.",
     "exampleVi": "Ngôn ngữ mang bản sắc nhiều hơn biên giới.",
     "topic": "culture",
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "đẳng thức trong toán học luôn đúng với mọi giá trị"
+      }
+    ]
   },
   {
     "word": "dialect",
@@ -87,7 +111,13 @@
     "example": "The dialect vanished within one generation.",
     "exampleVi": "Phương ngữ biến mất chỉ trong một thế hệ.",
     "topic": "culture",
-    "level": "C1"
+    "level": "C1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "biến thể của một ngôn ngữ lập trình"
+      }
+    ]
   },
   {
     "word": "ceremony",
@@ -97,7 +127,13 @@
     "example": "The ceremony lasts three days in the old villages.",
     "exampleVi": "Buổi lễ kéo dài ba ngày ở những làng cổ.",
     "topic": "culture",
-    "level": "B1"
+    "level": "B1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "phép tắc xã giao được tuân theo trong một dịp trang trọng"
+      }
+    ]
   },
   {
     "word": "superstition",
@@ -117,7 +153,13 @@
     "example": "The monument was moved twice for political reasons.",
     "exampleVi": "Công trình tưởng niệm bị dời hai lần vì lý do chính trị.",
     "topic": "culture",
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "ví dụ nổi bật nhắc người ta nhớ đến một thành tựu"
+      }
+    ]
   },
   {
     "word": "artefact",
@@ -127,7 +169,13 @@
     "example": "Most artefacts sit in storage, never displayed.",
     "exampleVi": "Phần lớn hiện vật khảo cổ nằm trong kho, không bao giờ được trưng bày.",
     "topic": "culture",
-    "level": "C1"
+    "level": "C1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "hiện tượng giả xuất hiện do quá trình xử lý ảnh hoặc tín hiệu"
+      }
+    ]
   },
   {
     "word": "craftsmanship",
@@ -147,7 +195,13 @@
     "example": "What was underground became mainstream in five years.",
     "exampleVi": "Thứ từng nằm ngoài lề trở thành dòng chính trong năm năm.",
     "topic": "culture",
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "quan điểm hoặc xu hướng chiếm ưu thế"
+      }
+    ]
   },
   {
     "word": "stereotype",
@@ -157,7 +211,13 @@
     "example": "Films repeat the stereotype until nobody questions it.",
     "exampleVi": "Phim ảnh lặp lại định kiến rập khuôn cho tới khi không ai còn nghi ngờ.",
     "topic": "culture",
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "gán đặc điểm rập khuôn cho một nhóm người"
+      }
+    ]
   },
   {
     "word": "prejudice",
@@ -167,7 +227,13 @@
     "example": "Prejudice survives contact if the contact stays shallow.",
     "exampleVi": "Thành kiến vẫn sống sót qua tiếp xúc nếu tiếp xúc chỉ hời hợt.",
     "topic": "culture",
-    "level": "C1"
+    "level": "C1",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "gây bất lợi cho việc xem xét công bằng"
+      }
+    ]
   },
   {
     "word": "tolerance",
@@ -177,7 +243,13 @@
     "example": "Tolerance is easier to declare than to practise.",
     "exampleVi": "Sự khoan dung dễ tuyên bố hơn là thực hành.",
     "topic": "culture",
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "khả năng chịu được một loại thuốc hoặc chất"
+      }
+    ]
   },
   {
     "word": "diversity",

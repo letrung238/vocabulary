@@ -18,6 +18,12 @@
     "family": [
       "rising",
       "riser"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "chỗ đất dốc lên"
+      }
     ]
   },
   {
@@ -39,6 +45,12 @@
     "family": [
       "increasing",
       "increasingly"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "mức tăng thêm so với trước"
+      }
     ]
   },
   {
@@ -60,6 +72,12 @@
     "family": [
       "growth",
       "growing"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "trồng cây hoặc chăn nuôi để lấy sản phẩm"
+      }
     ]
   },
   {
@@ -77,6 +95,12 @@
     "synonyms": [
       "rise",
       "ascend"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "đoạn đường dốc phải leo"
+      }
     ]
   },
   {
@@ -94,6 +118,12 @@
     "synonyms": [
       "surge",
       "rocket"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "bay vút lên cao như chim hoặc máy bay"
+      }
     ]
   },
   {
@@ -111,6 +141,12 @@
     "synonyms": [
       "soar",
       "spike"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "dòng nước dâng mạnh"
+      }
     ]
   },
   {
@@ -128,6 +164,12 @@
     "synonyms": [
       "soar",
       "skyrocket"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "tên lửa"
+      }
     ]
   },
   {
@@ -145,6 +187,12 @@
     "synonyms": [
       "leap",
       "spike"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "cảnh cắt đột ngột trong phim"
+      }
     ]
   },
   {
@@ -162,6 +210,12 @@
     "synonyms": [
       "jump",
       "surge"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "nhảy qua một khoảng cách bằng chân"
+      }
     ]
   },
   {
@@ -179,6 +233,12 @@
     "synonyms": [
       "decline",
       "drop"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "mùa thu (cách gọi ở Bắc Mỹ)"
+      }
     ]
   },
   {
@@ -196,6 +256,12 @@
     "synonyms": [
       "fall",
       "decrease"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "một giọt chất lỏng"
+      }
     ]
   },
   {
@@ -213,6 +279,12 @@
     "synonyms": [
       "plummet",
       "nosedive"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "lao mình xuống nước"
+      }
     ]
   },
   {
@@ -230,6 +302,12 @@
     "synonyms": [
       "plunge",
       "tumble"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "quả dọi dùng để kiểm tra phương thẳng đứng"
+      }
     ]
   },
   {
@@ -247,6 +325,12 @@
     "synonyms": [
       "dent",
       "sag"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "chỗ trũng hoặc phần lõm xuống"
+      }
     ]
   },
   {
@@ -264,6 +348,12 @@
     "synonyms": [
       "collapse",
       "sink"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "ngồi hoặc đứng với tư thế sụp xuống"
+      }
     ]
   },
   {
@@ -302,6 +392,12 @@
     "family": [
       "stable",
       "stability"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "làm một vật đứng vững và không lung lay"
+      }
     ]
   },
   {
@@ -319,6 +415,12 @@
     "synonyms": [
       "level off",
       "flatten"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "cao nguyên"
+      }
     ]
   },
   {
@@ -340,6 +442,12 @@
     "family": [
       "stagnant",
       "stagnation"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "đứng yên, không chảy như nước đọng"
+      }
     ]
   },
   {
@@ -357,6 +465,12 @@
     "synonyms": [
       "swing",
       "waver"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "đung đưa qua lại quanh một vị trí cân bằng"
+      }
     ]
   },
   {
@@ -374,6 +488,12 @@
     "synonyms": [
       "culminate",
       "top out"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "đỉnh núi hoặc điểm cao nhất của một vật"
+      }
     ]
   },
   {
@@ -391,6 +511,12 @@
     "synonyms": [
       "low point",
       "bottom"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "máng cho gia súc ăn hoặc uống"
+      }
     ]
   },
   {
@@ -428,6 +554,12 @@
     ],
     "family": [
       "dramatically"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "thuộc về sân khấu hoặc kịch"
+      }
     ]
   },
   {
@@ -448,6 +580,12 @@
     ],
     "family": [
       "sharply"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "có lưỡi sắc có thể cắt"
+      }
     ]
   },
   {
@@ -468,6 +606,12 @@
     ],
     "family": [
       "steeply"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "ngâm trong chất lỏng để chiết hương vị"
+      }
     ]
   },
   {
@@ -508,6 +652,12 @@
     ],
     "family": [
       "slightly"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "lời nói hoặc hành động xúc phạm nhẹ"
+      }
     ]
   },
   {
@@ -528,6 +678,12 @@
     ],
     "family": [
       "gradually"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "có độ dốc thoải, không dựng đứng"
+      }
     ]
   },
   {
@@ -548,6 +704,12 @@
     ],
     "family": [
       "steadily"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "đáng tin cậy và không thay đổi thất thường"
+      }
     ]
   },
   {
@@ -568,6 +730,12 @@
     ],
     "family": [
       "rapidly"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "ghềnh có dòng nước chảy xiết"
+      }
     ]
   },
   {
@@ -588,6 +756,12 @@
     ],
     "family": [
       "abruptly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "dốc đứng hoặc gãy khúc đột ngột"
+      }
     ]
   },
   {
@@ -604,6 +778,12 @@
     "synonyms": [
       "tendency",
       "direction"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "trở thành xu hướng phổ biến"
+      }
     ]
   },
   {
@@ -652,6 +832,12 @@
     "synonyms": [
       "bulk",
       "preponderance"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "tuổi trưởng thành theo pháp luật"
+      }
     ]
   },
   {
@@ -668,6 +854,12 @@
     "synonyms": [
       "fraction",
       "few"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "nhóm dân cư ít người hơn trong xã hội"
+      }
     ]
   },
   {
@@ -684,6 +876,12 @@
     "synonyms": [
       "portion",
       "sliver"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "một phân số trong toán học"
+      }
     ]
   },
   {
@@ -700,6 +898,12 @@
     "synonyms": [
       "gap",
       "span"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "khoảng nghỉ giữa hai phần biểu diễn"
+      }
     ]
   },
   {
@@ -720,6 +924,12 @@
     "family": [
       "grow",
       "growing"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sự lớn lên về kích thước của sinh vật"
+      }
     ]
   },
   {
@@ -772,6 +982,12 @@
     "synonyms": [
       "surpass",
       "outstrip"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "vượt qua một phương tiện trên đường"
+      }
     ]
   },
   {
@@ -821,6 +1037,12 @@
     "level": "A2",
     "synonyms": [
       "twofold"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "người đóng thế cho diễn viên"
+      }
     ]
   },
   {
@@ -837,6 +1059,12 @@
     "level": "B2",
     "synonyms": [
       "treble"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "bộ gồm ba thứ"
+      }
     ]
   },
   {
@@ -853,6 +1081,12 @@
     "level": "C1",
     "synonyms": [
       "fourfold"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "bộ gồm bốn thứ"
+      }
     ]
   },
   {
@@ -869,6 +1103,12 @@
     "level": "B2",
     "synonyms": [
       "cut in half"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "cắt một vật thành hai nửa bằng nhau"
+      }
     ]
   },
   {
@@ -906,6 +1146,12 @@
     "synonyms": [
       "approximately",
       "around"
+    ],
+    "senses": [
+      {
+        "pos": "adverb",
+        "meaningVi": "một cách thô bạo hoặc không nhẹ nhàng"
+      }
     ]
   },
   {
@@ -923,6 +1169,12 @@
     "synonyms": [
       "on the whole",
       "in general"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "bộ quần áo bảo hộ liền thân"
+      }
     ]
   }
 ]

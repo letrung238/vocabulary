@@ -28,7 +28,13 @@
     "family": [
       "renew"
     ],
-    "topic": "environment"
+    "topic": "environment",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "có thể gia hạn, như hợp đồng hoặc giấy phép"
+      }
+    ]
   },
   {
     "word": "emission",
@@ -41,7 +47,13 @@
     "family": [
       "emit"
     ],
-    "topic": "environment"
+    "topic": "environment",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sự phát ra ánh sáng hoặc bức xạ"
+      }
+    ]
   },
   {
     "word": "carbon",
@@ -51,7 +63,13 @@
     "example": "Every flight adds carbon to the atmosphere.",
     "exampleVi": "Mỗi chuyến bay thải thêm các-bon vào khí quyển.",
     "level": "B1",
-    "topic": "environment"
+    "topic": "environment",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "nguyên tố hóa học có ký hiệu C"
+      }
+    ]
   },
   {
     "word": "deforestation",
@@ -118,7 +136,13 @@
     "example": "Most plastic still ends up in landfill.",
     "exampleVi": "Phần lớn nhựa vẫn kết thúc ở bãi chôn lấp rác.",
     "level": "B2",
-    "topic": "environment"
+    "topic": "environment",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "vật liệu được dùng để san lấp đất"
+      }
+    ]
   },
   {
     "word": "recycle",
@@ -132,7 +156,13 @@
       "recycling",
       "recyclable"
     ],
-    "topic": "environment"
+    "topic": "environment",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "lặp lại một ý tưởng hoặc câu chuyện cũ"
+      }
+    ]
   },
   {
     "word": "conservation",
@@ -145,7 +175,13 @@
     "family": [
       "conserve"
     ],
-    "topic": "environment"
+    "topic": "environment",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "nguyên lý bảo toàn một đại lượng vật lý"
+      }
+    ]
   },
   {
     "word": "extinct",
@@ -158,7 +194,13 @@
     "family": [
       "extinction"
     ],
-    "topic": "environment"
+    "topic": "environment",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "không còn hoạt động, như núi lửa đã tắt"
+      }
+    ]
   },
   {
     "word": "endangered",
@@ -188,7 +230,13 @@
     "example": "The worst drought in a century emptied the wells.",
     "exampleVi": "Đợt hạn hán tệ nhất thế kỷ làm cạn các giếng nước.",
     "level": "B2",
-    "topic": "environment"
+    "topic": "environment",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "thời kỳ thiếu trầm trọng một nguồn lực"
+      }
+    ]
   },
   {
     "word": "famine",
@@ -198,7 +246,13 @@
     "example": "Famine follows drought when there is no reserve.",
     "exampleVi": "Nạn đói theo sau hạn hán khi không có nguồn dự trữ.",
     "level": "C1",
-    "topic": "environment"
+    "topic": "environment",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sự thiếu hụt nghiêm trọng của một thứ cần thiết"
+      }
+    ]
   },
   {
     "word": "erosion",
@@ -211,7 +265,13 @@
     "family": [
       "erode"
     ],
-    "topic": "environment"
+    "topic": "environment",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sự suy giảm dần lòng tin hoặc quyền lực"
+      }
+    ]
   },
   {
     "word": "glacier",
@@ -227,19 +287,25 @@
     "word": "greenhouse",
     "ipa": "/ˈɡriːn.haʊs/",
     "pos": "noun",
-    "meaningVi": "hiệu ứng nhà kính",
-    "example": "Methane traps heat far better than greenhouse gases like carbon dioxide.",
-    "exampleVi": "Khí mê-tan giữ nhiệt tốt hơn nhiều so với các khí gây hiệu ứng nhà kính như CO2.",
+    "meaningVi": "nhà kính dùng để trồng cây",
+    "example": "The seedlings grew in a heated greenhouse.",
+    "exampleVi": "Những cây con lớn lên trong một nhà kính có sưởi.",
     "level": "B2",
-    "topic": "environment"
+    "topic": "environment",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "thuộc hiện tượng giữ nhiệt trong khí quyển, như khí nhà kính"
+      }
+    ]
   },
   {
     "word": "ozone",
     "ipa": "/ˈəʊ.zəʊn/",
     "pos": "noun",
-    "meaningVi": "tầng ô-dôn",
-    "example": "The ozone layer is slowly repairing itself.",
-    "exampleVi": "Tầng ô-dôn đang tự phục hồi chậm rãi.",
+    "meaningVi": "khí ô-dôn",
+    "example": "Ozone in the upper atmosphere absorbs ultraviolet radiation.",
+    "exampleVi": "Khí ô-dôn ở tầng khí quyển trên hấp thụ bức xạ cực tím.",
     "level": "B2",
     "topic": "environment"
   },
@@ -264,7 +330,13 @@
     "family": [
       "toxicity"
     ],
-    "topic": "environment"
+    "topic": "environment",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "có tác động tinh thần rất tiêu cực"
+      }
+    ]
   },
   {
     "word": "wildlife",
@@ -284,7 +356,13 @@
     "example": "The reservoir fell to a fifth of its capacity.",
     "exampleVi": "Hồ chứa nước xuống còn một phần năm dung tích.",
     "level": "B2",
-    "topic": "environment"
+    "topic": "environment",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "nguồn dự trữ của một thứ có thể dùng dần"
+      }
+    ]
   },
   {
     "word": "irrigation",
@@ -297,7 +375,13 @@
     "family": [
       "irrigate"
     ],
-    "topic": "environment"
+    "topic": "environment",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "việc rửa sạch vết thương bằng dòng dung dịch"
+      }
+    ]
   },
   {
     "word": "desertification",
@@ -360,7 +444,13 @@
     "family": [
       "contamination"
     ],
-    "topic": "environment"
+    "topic": "environment",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "làm sai lệch bằng chứng hoặc kết quả nghiên cứu"
+      }
+    ]
   },
   {
     "word": "degrade",
@@ -373,7 +463,13 @@
     "family": [
       "degradation"
     ],
-    "topic": "environment"
+    "topic": "environment",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "phân hủy một chất thành các phần đơn giản hơn"
+      }
+    ]
   },
   {
     "word": "deplete",

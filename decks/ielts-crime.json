@@ -7,7 +7,13 @@
     "example": "A first offence rarely leads to prison here.",
     "exampleVi": "Hành vi phạm pháp lần đầu ở đây hiếm khi dẫn tới tù giam.",
     "topic": "law",
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "lời nói hoặc hành động làm người khác phật ý"
+      }
+    ]
   },
   {
     "word": "burglary",
@@ -37,7 +43,13 @@
     "example": "Online fraud now outnumbers every other reported crime.",
     "exampleVi": "Gian lận lừa đảo trực tuyến nay nhiều hơn mọi loại tội phạm được trình báo khác.",
     "topic": "law",
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "người mạo danh hoặc lừa đảo"
+      }
+    ]
   },
   {
     "word": "smuggling",
@@ -67,7 +79,13 @@
     "example": "Juries convict on evidence, not on impression.",
     "exampleVi": "Bồi thẩm đoàn kết án là có tội dựa trên bằng chứng, không dựa trên cảm tưởng.",
     "topic": "law",
-    "level": "C1"
+    "level": "C1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "người bị kết án và đang chịu hình phạt"
+      }
+    ]
   },
   {
     "word": "probation",
@@ -77,7 +95,13 @@
     "example": "Probation costs a fraction of what a cell costs.",
     "exampleVi": "Án treo có giám sát tốn một phần nhỏ so với một buồng giam.",
     "topic": "law",
-    "level": "C1"
+    "level": "C1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "thời gian thử việc trước khi được nhận chính thức"
+      }
+    ]
   },
   {
     "word": "parole",
@@ -87,7 +111,13 @@
     "example": "Parole depends on behaviour inside, not the original crime.",
     "exampleVi": "Tha tù trước hạn phụ thuộc vào hạnh kiểm bên trong, không phải tội ban đầu.",
     "topic": "law",
-    "level": "C1"
+    "level": "C1",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "trả tự do có điều kiện cho tù nhân"
+      }
+    ]
   },
   {
     "word": "deterrence",
@@ -107,7 +137,13 @@
     "example": "Juvenile offenders are tried under separate rules.",
     "exampleVi": "Người phạm tội vị thành niên được xét xử theo quy định riêng.",
     "topic": "law",
-    "level": "C1"
+    "level": "C1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "người chưa đến tuổi trưởng thành"
+      }
+    ]
   },
   {
     "word": "witness",
@@ -117,7 +153,13 @@
     "example": "The only witness changed her account twice.",
     "exampleVi": "Nhân chứng duy nhất đổi lời khai hai lần.",
     "topic": "law",
-    "level": "B1"
+    "level": "B1",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "chứng kiến một sự kiện"
+      }
+    ]
   },
   {
     "word": "testimony",
@@ -127,7 +169,13 @@
     "example": "Testimony from memory is less reliable than people assume.",
     "exampleVi": "Lời khai trước toà dựa vào trí nhớ kém tin cậy hơn người ta tưởng.",
     "topic": "law",
-    "level": "C1"
+    "level": "C1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "bằng chứng cho thấy một điều là đúng"
+      }
+    ]
   },
   {
     "word": "acquit",
@@ -137,7 +185,13 @@
     "example": "The court acquitted him after new evidence appeared.",
     "exampleVi": "Toà tuyên trắng án cho ông sau khi có bằng chứng mới.",
     "topic": "law",
-    "level": "C1"
+    "level": "C1",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "thể hiện bản thân trong một tình huống khó"
+      }
+    ]
   },
   {
     "word": "bribery",
@@ -160,6 +214,12 @@
     "level": "B2",
     "tags": [
       "collocation"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "việc phục vụ cộng đồng trên tinh thần tự nguyện"
+      }
     ]
   },
   {

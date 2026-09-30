@@ -7,7 +7,13 @@
     "example": "Congestion costs the city a day per worker each month.",
     "exampleVi": "Ùn tắc giao thông làm thành phố mất một ngày công mỗi người mỗi tháng.",
     "topic": "transport",
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sự ứ đọng máu hoặc dịch trong cơ thể"
+      }
+    ]
   },
   {
     "word": "pedestrian",
@@ -17,7 +23,13 @@
     "example": "Pedestrians have the least space and the most risk.",
     "exampleVi": "Người đi bộ có ít không gian nhất và chịu rủi ro cao nhất.",
     "topic": "transport",
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "tẻ nhạt, thiếu sức tưởng tượng"
+      }
+    ]
   },
   {
     "word": "cyclist",
@@ -47,7 +59,13 @@
     "example": "A flat fare is simpler but punishes short trips.",
     "exampleVi": "Tiền vé đi lại đồng hạng thì đơn giản nhưng thiệt cho chuyến ngắn.",
     "topic": "transport",
-    "level": "B1"
+    "level": "B1",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "xoay xở hoặc tiến triển trong một hoàn cảnh"
+      }
+    ]
   },
   {
     "word": "toll",
@@ -57,7 +75,13 @@
     "example": "The toll pays for the bridge in twenty years.",
     "exampleVi": "Phí cầu đường hoàn vốn cây cầu trong hai mươi năm.",
     "topic": "transport",
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "đổ chuông chậm từng tiếng"
+      }
+    ]
   },
   {
     "word": "gridlock",
@@ -67,7 +91,13 @@
     "example": "One broken signal caused gridlock across four districts.",
     "exampleVi": "Một đèn tín hiệu hỏng gây tắc cứng không nhúc nhích khắp bốn quận.",
     "topic": "transport",
-    "level": "C1"
+    "level": "C1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "tình trạng bế tắc không bên nào nhượng bộ"
+      }
+    ]
   },
   {
     "word": "pedestrianise",
@@ -87,7 +117,13 @@
     "example": "Commuters spend a working month a year in transit.",
     "exampleVi": "Người đi làm xa hằng ngày mất một tháng công mỗi năm trên đường.",
     "topic": "transport",
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "phục vụ người đi làm hằng ngày như tàu hoặc tuyến đường"
+      }
+    ]
   },
   {
     "word": "urban sprawl",

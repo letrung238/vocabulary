@@ -17,7 +17,13 @@
     "example": "Rice remains the staple for half the world.",
     "exampleVi": "Gạo vẫn là lương thực chính của một nửa thế giới.",
     "topic": "food",
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "dập ghim để giữ các tờ giấy lại"
+      }
+    ]
   },
   {
     "word": "organic",
@@ -27,7 +33,13 @@
     "example": "Organic produce costs more and keeps less long.",
     "exampleVi": "Nông sản canh tác hữu cơ đắt hơn và để được ít lâu hơn.",
     "topic": "food",
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "hợp chất hữu cơ"
+      }
+    ]
   },
   {
     "word": "processed",
@@ -37,7 +49,13 @@
     "example": "Processed meals contain salt people never taste.",
     "exampleVi": "Bữa ăn đã qua chế biến công nghiệp chứa lượng muối mà người ta không hề nếm ra.",
     "topic": "food",
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "đã được máy tính xử lý thành dữ liệu mới"
+      }
+    ]
   },
   {
     "word": "additive",
@@ -47,7 +65,13 @@
     "example": "Some additives are banned in one country and legal next door.",
     "exampleVi": "Có phụ gia thực phẩm bị cấm ở nước này lại hợp pháp ngay nước bên cạnh.",
     "topic": "food",
-    "level": "C1"
+    "level": "C1",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "có tính chất cộng được trong toán học"
+      }
+    ]
   },
   {
     "word": "preservative",
@@ -57,7 +81,13 @@
     "example": "Without preservatives the loaf lasts two days.",
     "exampleVi": "Không có chất bảo quản thì ổ bánh chỉ để được hai ngày.",
     "topic": "food",
-    "level": "C1"
+    "level": "C1",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "giúp bảo quản một thứ khỏi hư hỏng"
+      }
+    ]
   },
   {
     "word": "vegetarian",
@@ -67,7 +97,13 @@
     "example": "Vegetarians make up a fifth of the student body.",
     "exampleVi": "Người ăn chay chiếm một phần năm số sinh viên.",
     "topic": "food",
-    "level": "B1"
+    "level": "B1",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "không chứa thịt, dùng cho món ăn"
+      }
+    ]
   },
   {
     "word": "vegan",
@@ -77,7 +113,13 @@
     "example": "Vegans avoid dairy as well as meat.",
     "exampleVi": "Người ăn thuần chay tránh cả sữa lẫn thịt.",
     "topic": "food",
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "không có nguyên liệu có nguồn gốc động vật"
+      }
+    ]
   },
   {
     "word": "calorie",
@@ -107,7 +149,13 @@
     "example": "The recipe survived four generations unwritten.",
     "exampleVi": "Công thức nấu ăn truyền qua bốn thế hệ mà không hề được chép lại.",
     "topic": "food",
-    "level": "A2"
+    "level": "A2",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "phương pháp làm một việc để đạt kết quả mong muốn"
+      }
+    ]
   },
   {
     "word": "flavour",
@@ -117,7 +165,13 @@
     "example": "Cheap tomatoes have colour but no flavour.",
     "exampleVi": "Cà chua rẻ có màu nhưng không có hương vị.",
     "topic": "food",
-    "level": "B1"
+    "level": "B1",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "nêm gia vị để tạo hương vị"
+      }
+    ]
   },
   {
     "word": "appetite",
@@ -127,7 +181,13 @@
     "example": "Stress kills appetite faster than illness does.",
     "exampleVi": "Căng thẳng giết cảm giác thèm ăn nhanh hơn cả bệnh tật.",
     "topic": "food",
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "mong muốn mạnh mẽ với điều gì ngoài thức ăn"
+      }
+    ]
   },
   {
     "word": "portion",
@@ -137,7 +197,13 @@
     "example": "Restaurant portions have doubled since the seventies.",
     "exampleVi": "Khẩu phần ở nhà hàng đã tăng gấp đôi từ những năm bảy mươi.",
     "topic": "food",
-    "level": "B1"
+    "level": "B1",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "chia thức ăn hoặc tài sản thành từng phần"
+      }
+    ]
   },
   {
     "word": "leftovers",
@@ -147,7 +213,13 @@
     "example": "Leftovers feed the family for another two meals.",
     "exampleVi": "Thức ăn thừa nuôi cả nhà thêm hai bữa nữa.",
     "topic": "food",
-    "level": "B1"
+    "level": "B1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "những thứ còn sót lại sau một hoạt động"
+      }
+    ]
   },
   {
     "word": "edible",
@@ -157,7 +229,13 @@
     "example": "Half the plant is edible and the rest is poisonous.",
     "exampleVi": "Một nửa cây là ăn được, phần còn lại có độc.",
     "topic": "food",
-    "level": "C1"
+    "level": "C1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "thức ăn có thể dùng được"
+      }
+    ]
   },
   {
     "word": "perishable",
@@ -167,7 +245,13 @@
     "example": "Perishable goods cannot survive the journey unrefrigerated.",
     "exampleVi": "Hàng dễ hỏng mau ôi thiu không chịu nổi hành trình nếu không có lạnh.",
     "topic": "food",
-    "level": "C1"
+    "level": "C1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "hàng hóa dễ hỏng nếu không được bảo quản"
+      }
+    ]
   },
   {
     "word": "takeaway",
@@ -177,7 +261,13 @@
     "example": "Ordering takeaway three nights a week adds up.",
     "exampleVi": "Gọi đồ ăn mang về ba tối một tuần thì cộng lại rất tốn.",
     "topic": "food",
-    "level": "B1"
+    "level": "B1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "điểm chính rút ra từ một cuộc thảo luận"
+      }
+    ]
   },
   {
     "word": "balanced diet",

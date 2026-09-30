@@ -48,7 +48,13 @@
     "example": "The epidemic was contained within one province.",
     "exampleVi": "Dịch bệnh trong vùng được khống chế trong phạm vi một tỉnh.",
     "level": "B2",
-    "topic": "health"
+    "topic": "health",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "lan rộng như một dịch bệnh"
+      }
+    ]
   },
   {
     "word": "pandemic",
@@ -58,7 +64,13 @@
     "example": "A pandemic exposes every weakness in a health system.",
     "exampleVi": "Đại dịch toàn cầu phơi bày mọi điểm yếu của một hệ thống y tế.",
     "level": "B2",
-    "topic": "health"
+    "topic": "health",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "lan rộng trên nhiều quốc gia như một đại dịch"
+      }
+    ]
   },
   {
     "word": "diagnosis",
@@ -72,7 +84,13 @@
       "diagnose",
       "diagnostic"
     ],
-    "topic": "health"
+    "topic": "health",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "việc xác định nguyên nhân của một trục trặc"
+      }
+    ]
   },
   {
     "word": "chronic",
@@ -82,7 +100,13 @@
     "example": "Chronic conditions consume most of the health budget.",
     "exampleVi": "Các bệnh mạn tính kéo dài dai dẳng ngốn phần lớn ngân sách y tế.",
     "level": "B2",
-    "topic": "health"
+    "topic": "health",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "lặp đi lặp lại thành thói quen xấu"
+      }
+    ]
   },
   {
     "word": "infectious",
@@ -96,7 +120,13 @@
       "infect",
       "infection"
     ],
-    "topic": "health"
+    "topic": "health",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "dễ lây sang người khác như tiếng cười"
+      }
+    ]
   },
   {
     "word": "immune",
@@ -109,7 +139,13 @@
     "family": [
       "immunity"
     ],
-    "topic": "health"
+    "topic": "health",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "không bị tác động hoặc ảnh hưởng bởi điều gì"
+      }
+    ]
   },
   {
     "word": "symptom",
@@ -119,7 +155,13 @@
     "example": "The first symptom often appears weeks after infection.",
     "exampleVi": "Triệu chứng đầu tiên thường xuất hiện nhiều tuần sau khi nhiễm.",
     "level": "B1",
-    "topic": "health"
+    "topic": "health",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "dấu hiệu cho thấy một vấn đề sâu xa hơn"
+      }
+    ]
   },
   {
     "word": "hygiene",
@@ -129,7 +171,13 @@
     "example": "Simple hygiene measures cut infection rates by half.",
     "exampleVi": "Các biện pháp vệ sinh cá nhân đơn giản giảm một nửa tỷ lệ nhiễm.",
     "level": "B2",
-    "topic": "health"
+    "topic": "health",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "thói quen giữ an toàn và vệ sinh trong một lĩnh vực"
+      }
+    ]
   },
   {
     "word": "sanitation",
@@ -139,7 +187,13 @@
     "example": "Sanitation improved faster than access to clean water.",
     "exampleVi": "Điều kiện vệ sinh công cộng cải thiện nhanh hơn việc tiếp cận nước sạch.",
     "level": "C1",
-    "topic": "health"
+    "topic": "health",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "hệ thống thu gom và xử lý nước thải"
+      }
+    ]
   },
   {
     "word": "therapy",
@@ -166,7 +220,13 @@
     "family": [
       "prescribe"
     ],
-    "topic": "health"
+    "topic": "health",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "quy định yêu cầu phải làm một việc"
+      }
+    ]
   },
   {
     "word": "surgery",
@@ -180,7 +240,13 @@
       "surgeon",
       "surgical"
     ],
-    "topic": "health"
+    "topic": "health",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "phòng khám của bác sĩ (cách dùng Anh-Anh)"
+      }
+    ]
   },
   {
     "word": "insomnia",
@@ -214,7 +280,13 @@
     "example": "A sedentary job harms health more than a stressful one.",
     "exampleVi": "Công việc ít vận động ngồi nhiều hại sức khoẻ hơn công việc căng thẳng.",
     "level": "C1",
-    "topic": "health"
+    "topic": "health",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "sống cố định một chỗ, như một số sinh vật"
+      }
+    ]
   },
   {
     "word": "lifespan",
@@ -224,7 +296,13 @@
     "example": "Lifespan rose by twelve years within two generations.",
     "exampleVi": "Tuổi thọ trung bình tăng mười hai năm trong hai thế hệ.",
     "level": "B2",
-    "topic": "health"
+    "topic": "health",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "thời gian hoạt động của một sản phẩm hoặc thiết bị"
+      }
+    ]
   },
   {
     "word": "mortality",
@@ -234,7 +312,13 @@
     "example": "Infant mortality remains the clearest measure of development.",
     "exampleVi": "Tỷ lệ tử vong ở trẻ sơ sinh vẫn là thước đo rõ nhất về phát triển.",
     "level": "C1",
-    "topic": "health"
+    "topic": "health",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "tình trạng hữu hạn, không thể sống mãi"
+      }
+    ]
   },
   {
     "word": "outbreak",
@@ -244,7 +328,13 @@
     "example": "The outbreak began in a single market town.",
     "exampleVi": "Đợt bùng phát dịch khởi đầu ở một thị trấn chợ duy nhất.",
     "level": "B2",
-    "topic": "health"
+    "topic": "health",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sự bùng phát đột ngột của bạo lực"
+      }
+    ]
   },
   {
     "word": "malnutrition",
@@ -264,7 +354,13 @@
     "example": "There is no quick remedy for an ageing workforce.",
     "exampleVi": "Không có phương thuốc nhanh nào cho lực lượng lao động già hoá.",
     "level": "B2",
-    "topic": "health"
+    "topic": "health",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "biện pháp khắc phục theo pháp luật"
+      }
+    ]
   },
   {
     "word": "rehabilitation",
@@ -277,7 +373,13 @@
     "family": [
       "rehabilitate"
     ],
-    "topic": "health"
+    "topic": "health",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "việc cải tạo một tòa nhà hoặc khu vực xuống cấp"
+      }
+    ]
   },
   {
     "word": "wellbeing",
@@ -297,7 +399,13 @@
     "example": "Longevity depends more on habit than on medicine.",
     "exampleVi": "Sự sống thọ phụ thuộc vào thói quen nhiều hơn vào thuốc men.",
     "level": "C1",
-    "topic": "health"
+    "topic": "health",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "tuổi thọ sử dụng dài của một sản phẩm"
+      }
+    ]
   },
   {
     "word": "stigma",
@@ -310,6 +418,12 @@
       "society"
     ],
     "level": "C1",
-    "topic": "health"
+    "topic": "health",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "đầu nhụy của hoa"
+      }
+    ]
   }
 ]

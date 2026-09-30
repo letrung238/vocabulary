@@ -17,7 +17,13 @@
     "example": "Endurance improves long after speed stops improving.",
     "exampleVi": "Sức bền còn tiến bộ rất lâu sau khi tốc độ đã chững.",
     "topic": "sport",
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sự tiếp tục tồn tại qua thời gian dài"
+      }
+    ]
   },
   {
     "word": "stamina",
@@ -37,7 +43,13 @@
     "example": "The referee changed the match with one decision.",
     "exampleVi": "Trọng tài đổi cả trận đấu bằng một quyết định.",
     "topic": "sport",
-    "level": "B1"
+    "level": "B1",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "phản biện một bài báo khoa học"
+      }
+    ]
   },
   {
     "word": "spectator",
@@ -57,7 +69,13 @@
     "example": "The tournament runs for three weeks every summer.",
     "exampleVi": "Giải đấu kéo dài ba tuần vào mỗi mùa hè.",
     "topic": "sport",
-    "level": "B1"
+    "level": "B1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "cuộc đấu thương của hiệp sĩ thời trung cổ"
+      }
+    ]
   },
   {
     "word": "championship",
@@ -77,7 +95,13 @@
     "example": "Amateur clubs produce most of the national squad.",
     "exampleVi": "Các câu lạc bộ nghiệp dư sản sinh phần lớn đội tuyển quốc gia.",
     "topic": "sport",
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "người tham gia một hoạt động vì yêu thích thay vì được trả tiền"
+      }
+    ]
   },
   {
     "word": "doping",
@@ -87,7 +111,13 @@
     "example": "Doping controls catch a fraction of the cases.",
     "exampleVi": "Kiểm tra sử dụng chất kích thích chỉ bắt được một phần nhỏ số ca.",
     "topic": "sport",
-    "level": "C1"
+    "level": "C1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "việc thêm tạp chất vào chất bán dẫn"
+      }
+    ]
   },
   {
     "word": "sponsorship",
@@ -107,7 +137,13 @@
     "example": "Recreation space per resident has halved since 1990.",
     "exampleVi": "Diện tích cho hoạt động giải trí trên mỗi cư dân giảm một nửa từ năm 1990.",
     "topic": "sport",
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "việc tái tạo hoặc làm mới một vật"
+      }
+    ]
   },
   {
     "word": "hobby",
@@ -127,7 +163,13 @@
     "example": "Competitive sport turns some children off exercise entirely.",
     "exampleVi": "Thể thao mang tính ganh đua khiến một số trẻ chán vận động hẳn.",
     "topic": "sport",
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "có giá hoặc chất lượng đủ sức cạnh tranh"
+      }
+    ]
   },
   {
     "word": "rivalry",
@@ -167,7 +209,13 @@
     "example": "The venue was built for one tournament and never reused.",
     "exampleVi": "Địa điểm tổ chức được xây cho đúng một giải rồi không dùng lại lần nào.",
     "topic": "sport",
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "địa điểm xét xử một vụ án"
+      }
+    ]
   },
   {
     "word": "team spirit",
@@ -193,6 +241,12 @@
     "level": "B2",
     "tags": [
       "collocation"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "cách cư xử công bằng trong mọi hoàn cảnh"
+      }
     ]
   },
   {

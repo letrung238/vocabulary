@@ -14,7 +14,13 @@
       "academic",
       "academically"
     ],
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "viện hàn lâm của các học giả hoặc nghệ sĩ"
+      }
+    ]
   },
   {
     "word": "access",
@@ -31,7 +37,13 @@
       "accessible",
       "accessibility"
     ],
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "truy cập một tệp hoặc hệ thống máy tính"
+      }
+    ]
   },
   {
     "word": "accumulate",
@@ -102,7 +114,13 @@
     "family": [
       "adulthood"
     ],
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "thuộc về người trưởng thành"
+      }
+    ]
   },
   {
     "word": "affect",
@@ -119,7 +137,13 @@
       "influence",
       "impact"
     ],
-    "topic": "environment"
+    "topic": "environment",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "trạng thái cảm xúc thể hiện ra ngoài"
+      }
+    ]
   },
   {
     "word": "aid",
@@ -136,7 +160,13 @@
       "assistance",
       "relief"
     ],
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "dụng cụ hỗ trợ một hoạt động"
+      }
+    ]
   },
   {
     "word": "albeit",
@@ -171,6 +201,12 @@
     ],
     "family": [
       "alteration"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "sửa quần áo để vừa người"
+      }
     ]
   },
   {
@@ -187,7 +223,13 @@
     "family": [
       "amendment"
     ],
-    "topic": "law"
+    "topic": "law",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "cải thiện một tình huống hoặc hành vi"
+      }
+    ]
   },
   {
     "word": "analogy",
@@ -203,6 +245,12 @@
     "level": "C1",
     "family": [
       "analogous"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "phép loại suy để rút ra kết luận từ trường hợp tương tự"
+      }
     ]
   },
   {
@@ -219,7 +267,13 @@
     "family": [
       "annually"
     ],
-    "topic": "work"
+    "topic": "work",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "ấn phẩm phát hành mỗi năm một lần"
+      }
+    ]
   },
   {
     "word": "append",
@@ -252,6 +306,12 @@
     "family": [
       "approximately",
       "approximation"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "ước lượng một giá trị gần đúng"
+      }
     ]
   },
   {
@@ -268,6 +328,12 @@
     "synonyms": [
       "field",
       "zone"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "diện tích của một bề mặt"
+      }
     ]
   },
   {
@@ -285,6 +351,12 @@
     "synonyms": [
       "facet",
       "dimension"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "diện mạo hoặc vẻ ngoài của một nơi"
+      }
     ]
   },
   {
@@ -320,7 +392,13 @@
     "family": [
       "assessment"
     ],
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "ấn định mức thuế hoặc tiền phạt"
+      }
+    ]
   },
   {
     "word": "assign",
@@ -336,7 +414,13 @@
     "family": [
       "assignment"
     ],
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "gán một giá trị cho biến trong toán hoặc lập trình"
+      }
+    ]
   },
   {
     "word": "attribute",
@@ -352,6 +436,12 @@
     "level": "C1",
     "family": [
       "attribution"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "đặc tính của một người hoặc vật"
+      }
     ]
   },
   {
@@ -368,6 +458,12 @@
     "level": "B1",
     "family": [
       "authorship"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "viết hoặc biên soạn một tác phẩm"
+      }
     ]
   },
   {
@@ -400,6 +496,12 @@
     "level": "A2",
     "family": [
       "availability"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "rảnh và có thể gặp hoặc làm việc"
+      }
     ]
   },
   {
@@ -413,7 +515,13 @@
       "awl"
     ],
     "level": "B2",
-    "topic": "work"
+    "topic": "work",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "lợi ích của một người trong cụm in behalf of"
+      }
+    ]
   },
   {
     "word": "bond",
@@ -430,7 +538,13 @@
       "tie",
       "attachment"
     ],
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "trái phiếu hoặc giấy nhận nợ"
+      }
+    ]
   },
   {
     "word": "bulk",
@@ -443,7 +557,13 @@
       "awl",
       "task1"
     ],
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "kích thước hoặc khối lượng của một vật"
+      }
+    ]
   },
   {
     "word": "category",
@@ -473,7 +593,13 @@
       "awl"
     ],
     "level": "B1",
-    "topic": "media"
+    "topic": "media",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "hướng nguồn lực hoặc cảm xúc vào một mục tiêu"
+      }
+    ]
   },
   {
     "word": "chapter",
@@ -486,7 +612,13 @@
       "awl",
       "writing"
     ],
-    "level": "A2"
+    "level": "A2",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "chi hội địa phương của một tổ chức"
+      }
+    ]
   },
   {
     "word": "chart",
@@ -503,6 +635,12 @@
     "synonyms": [
       "graph",
       "diagram"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "vẽ bản đồ hoặc ghi lại lộ trình"
+      }
     ]
   },
   {
@@ -520,7 +658,13 @@
       "chemistry",
       "chemically"
     ],
-    "topic": "environment"
+    "topic": "environment",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "thuộc về hóa học"
+      }
+    ]
   },
   {
     "word": "classic",
@@ -536,6 +680,12 @@
     "level": "B2",
     "family": [
       "classical"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "tác phẩm kinh điển có giá trị lâu dài"
+      }
     ]
   },
   {
@@ -549,7 +699,13 @@
       "awl"
     ],
     "level": "B1",
-    "topic": "work"
+    "topic": "work",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "hệ thống ký hiệu bí mật dùng để truyền tin"
+      }
+    ]
   },
   {
     "word": "commence",
@@ -582,7 +738,13 @@
       "awl"
     ],
     "level": "B2",
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "tiền hoa hồng nhận theo doanh số"
+      }
+    ]
   },
   {
     "word": "communicate",
@@ -598,7 +760,13 @@
     "family": [
       "communication"
     ],
-    "topic": "media"
+    "topic": "media",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "lây truyền bệnh từ người này sang người khác"
+      }
+    ]
   },
   {
     "word": "compatible",
@@ -614,7 +782,13 @@
     "family": [
       "compatibility"
     ],
-    "topic": "environment"
+    "topic": "environment",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "hợp tính và có thể sống hoặc làm việc hòa thuận"
+      }
+    ]
   },
   {
     "word": "complement",
@@ -630,7 +804,13 @@
     "family": [
       "complementary"
     ],
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "phần bổ sung làm cho một thứ hoàn chỉnh"
+      }
+    ]
   },
   {
     "word": "component",
@@ -706,7 +886,13 @@
     "tags": [
       "awl"
     ],
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "cách cư xử của một người"
+      }
+    ]
   },
   {
     "word": "confer",
@@ -719,7 +905,13 @@
       "awl"
     ],
     "level": "C1",
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "trao đổi ý kiến để đi đến quyết định"
+      }
+    ]
   },
   {
     "word": "consequent",
@@ -767,6 +959,12 @@
     "level": "B2",
     "family": [
       "construction"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "khái niệm được tạo ra để giải thích một hiện tượng"
+      }
     ]
   },
   {
@@ -783,6 +981,12 @@
     "level": "B2",
     "family": [
       "contextual"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "ngữ cảnh các từ xung quanh một từ hoặc câu"
+      }
     ]
   },
   {
@@ -813,7 +1017,13 @@
       "awl",
       "writing"
     ],
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "bướng bỉnh, hay làm trái ý người khác"
+      }
+    ]
   },
   {
     "word": "convene",
@@ -826,7 +1036,13 @@
       "awl"
     ],
     "level": "C1",
-    "topic": "work"
+    "topic": "work",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "cùng nhóm họp sau khi được triệu tập"
+      }
+    ]
   },
   {
     "word": "converse",
@@ -842,6 +1058,12 @@
     "level": "C1",
     "family": [
       "conversely"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "trò chuyện với người khác"
+      }
     ]
   },
   {
@@ -857,6 +1079,12 @@
     "level": "B2",
     "family": [
       "conversion"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "người cải đạo"
+      }
     ]
   },
   {
@@ -890,7 +1118,13 @@
     "family": [
       "coordination"
     ],
-    "topic": "work"
+    "topic": "work",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "một tọa độ trong hệ định vị"
+      }
+    ]
   },
   {
     "word": "core",
@@ -903,7 +1137,13 @@
       "awl"
     ],
     "level": "B2",
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "phần lõi của quả chứa hạt"
+      }
+    ]
   },
   {
     "word": "corporate",
@@ -919,7 +1159,13 @@
     "family": [
       "corporation"
     ],
-    "topic": "work"
+    "topic": "work",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "chung của cả tập thể"
+      }
+    ]
   },
   {
     "word": "couple",
@@ -932,7 +1178,13 @@
       "awl"
     ],
     "level": "B2",
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "hai người hoặc vật đi thành cặp"
+      }
+    ]
   },
   {
     "word": "create",
@@ -948,6 +1200,12 @@
     "family": [
       "creation",
       "creative"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "gây ra một tình huống hoặc vấn đề"
+      }
     ]
   },
   {
@@ -961,7 +1219,13 @@
       "awl"
     ],
     "level": "B1",
-    "topic": "economy"
+    "topic": "economy",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "ghi nhận công lao cho ai đó"
+      }
+    ]
   },
   {
     "word": "criteria",
@@ -994,7 +1258,13 @@
       "cultural",
       "culturally"
     ],
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "mẫu nuôi cấy vi sinh vật"
+      }
+    ]
   },
   {
     "word": "currency",
@@ -1007,7 +1277,13 @@
       "awl"
     ],
     "level": "B2",
-    "topic": "economy"
+    "topic": "economy",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sự lưu hành và được chấp nhận rộng rãi của một ý tưởng"
+      }
+    ]
   },
   {
     "word": "cycle",
@@ -1023,7 +1299,13 @@
     "family": [
       "cyclical"
     ],
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "đi xe đạp"
+      }
+    ]
   },
   {
     "word": "data",
@@ -1049,7 +1331,13 @@
       "awl",
       "task1"
     ],
-    "level": "B1"
+    "level": "B1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "nhóm gồm mười đơn vị"
+      }
+    ]
   },
   {
     "word": "deduce",
@@ -1081,6 +1369,12 @@
     "level": "B1",
     "family": [
       "definition"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "xác định ranh giới hoặc đường viền rõ ràng"
+      }
     ]
   },
   {
@@ -1097,7 +1391,13 @@
     "family": [
       "depression"
     ],
-    "topic": "economy"
+    "topic": "economy",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "ấn một nút hoặc vật xuống"
+      }
+    ]
   },
   {
     "word": "design",
@@ -1109,7 +1409,13 @@
     "tags": [
       "awl"
     ],
-    "level": "A2"
+    "level": "A2",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "có ý định để một vật phục vụ một mục đích"
+      }
+    ]
   },
   {
     "word": "device",
@@ -1122,7 +1428,13 @@
       "awl"
     ],
     "level": "B1",
-    "topic": "technology"
+    "topic": "technology",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "thủ pháp hoặc cách làm để tạo ra một hiệu quả cụ thể"
+      }
+    ]
   },
   {
     "word": "differentiate",
@@ -1135,7 +1447,13 @@
       "awl"
     ],
     "level": "C1",
-    "topic": "media"
+    "topic": "media",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "lấy đạo hàm của một hàm số"
+      }
+    ]
   },
   {
     "word": "dimension",
@@ -1148,7 +1466,13 @@
       "awl"
     ],
     "level": "B2",
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "kích thước đo được của một vật"
+      }
+    ]
   },
   {
     "word": "discrete",
@@ -1176,7 +1500,13 @@
     "family": [
       "discrimination"
     ],
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "phân biệt được hai thứ tương tự nhau"
+      }
+    ]
   },
   {
     "word": "displace",
@@ -1192,7 +1522,13 @@
     "family": [
       "displacement"
     ],
-    "topic": "environment"
+    "topic": "environment",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "chiếm chỗ và đẩy chất lỏng sang nơi khác"
+      }
+    ]
   },
   {
     "word": "dispose",
@@ -1208,7 +1544,13 @@
     "family": [
       "disposal"
     ],
-    "topic": "environment"
+    "topic": "environment",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "bán hoặc chuyển nhượng tài sản"
+      }
+    ]
   },
   {
     "word": "distinct",
@@ -1224,6 +1566,12 @@
     "family": [
       "distinction",
       "distinctly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "rõ ràng, dễ nhận thấy"
+      }
     ]
   },
   {
@@ -1240,6 +1588,12 @@
     "level": "C1",
     "family": [
       "distortion"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "xuyên tạc sự thật để người khác hiểu sai"
+      }
     ]
   },
   {
@@ -1256,6 +1610,12 @@
     "level": "B2",
     "family": [
       "documentation"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "văn bản hoặc tài liệu chính thức"
+      }
     ]
   },
   {
@@ -1268,7 +1628,13 @@
     "tags": [
       "awl"
     ],
-    "level": "C1"
+    "level": "C1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "miền xác định của một hàm số"
+      }
+    ]
   },
   {
     "word": "domestic",
@@ -1281,7 +1647,13 @@
       "awl"
     ],
     "level": "B2",
-    "topic": "economy"
+    "topic": "economy",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "thuộc gia đình hoặc việc nhà"
+      }
+    ]
   },
   {
     "word": "drama",
@@ -1297,7 +1669,13 @@
     "family": [
       "dramatic"
     ],
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "chuyện ồn ào đầy cảm xúc hoặc xung đột"
+      }
+    ]
   },
   {
     "word": "duration",
@@ -1323,7 +1701,13 @@
       "awl"
     ],
     "level": "B2",
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "động lực chi phối mối quan hệ hoặc hệ thống"
+      }
+    ]
   },
   {
     "word": "economy",
@@ -1340,7 +1724,13 @@
       "economic",
       "economical"
     ],
-    "topic": "economy"
+    "topic": "economy",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sự tiết kiệm trong sử dụng nguồn lực"
+      }
+    ]
   },
   {
     "word": "edit",
@@ -1369,7 +1759,13 @@
     "tags": [
       "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "nguyên tố hóa học"
+      }
+    ]
   },
   {
     "word": "emphasis",
@@ -1386,6 +1782,12 @@
     "family": [
       "emphasise",
       "emphatic"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "kiểu nhấn chữ trong văn bản"
+      }
     ]
   },
   {
@@ -1399,7 +1801,13 @@
       "awl"
     ],
     "level": "A2",
-    "topic": "environment"
+    "topic": "environment",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sức lực và sự hăng hái của con người"
+      }
+    ]
   },
   {
     "word": "enforce",
@@ -1444,7 +1852,13 @@
     "family": [
       "environmental"
     ],
-    "topic": "environment"
+    "topic": "environment",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "môi trường chạy của một chương trình máy tính"
+      }
+    ]
   },
   {
     "word": "equate",
@@ -1457,7 +1871,13 @@
       "awl",
       "writing"
     ],
-    "level": "C1"
+    "level": "C1",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "làm hai đại lượng bằng nhau"
+      }
+    ]
   },
   {
     "word": "equipment",
@@ -1482,7 +1902,13 @@
     "tags": [
       "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sai số giữa giá trị đo và giá trị thực"
+      }
+    ]
   },
   {
     "word": "estate",
@@ -1495,7 +1921,13 @@
       "awl"
     ],
     "level": "B2",
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "toàn bộ tài sản của người đã mất"
+      }
+    ]
   },
   {
     "word": "ethic",
@@ -1512,7 +1944,13 @@
       "ethical",
       "ethics"
     ],
-    "topic": "work"
+    "topic": "work",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "hệ thống nguyên tắc đạo đức của một nhóm"
+      }
+    ]
   },
   {
     "word": "ethnic",
@@ -1577,7 +2015,13 @@
     "family": [
       "evolution"
     ],
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "dần phát triển một kế hoạch hoặc ý tưởng"
+      }
+    ]
   },
   {
     "word": "expert",
@@ -1592,6 +2036,12 @@
     "level": "B1",
     "family": [
       "expertise"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "thành thạo một lĩnh vực"
+      }
     ]
   },
   {
@@ -1605,7 +2055,13 @@
       "awl"
     ],
     "level": "B1",
-    "topic": "economy"
+    "topic": "economy",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "bán hàng ra nước ngoài"
+      }
+    ]
   },
   {
     "word": "expose",
@@ -1621,7 +2077,13 @@
     "family": [
       "exposure"
     ],
-    "topic": "health"
+    "topic": "health",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "cho phim ảnh hoặc cảm biến tiếp xúc với ánh sáng"
+      }
+    ]
   },
   {
     "word": "external",
@@ -1637,7 +2099,13 @@
     "family": [
       "externally"
     ],
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "hình thức bề ngoài của một vật"
+      }
+    ]
   },
   {
     "word": "factor",
@@ -1650,7 +2118,13 @@
       "awl",
       "writing"
     ],
-    "level": "B1"
+    "level": "B1",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "phân tích một số thành các thừa số"
+      }
+    ]
   },
   {
     "word": "feature",
@@ -1663,7 +2137,13 @@
       "awl",
       "task1"
     ],
-    "level": "B1"
+    "level": "B1",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "có ai hoặc cái gì là điểm nổi bật"
+      }
+    ]
   },
   {
     "word": "federal",
@@ -1702,7 +2182,13 @@
       "awl"
     ],
     "level": "A2",
-    "topic": "work"
+    "topic": "work",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "mài nhẵn bằng giũa"
+      }
+    ]
   },
   {
     "word": "final",
@@ -1719,6 +2205,12 @@
     "family": [
       "finally",
       "finalise"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "trận chung kết"
+      }
     ]
   },
   {
@@ -1735,7 +2227,13 @@
     "family": [
       "financial"
     ],
-    "topic": "economy"
+    "topic": "economy",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "cấp vốn cho một hoạt động"
+      }
+    ]
   },
   {
     "word": "finite",
@@ -1748,7 +2246,13 @@
       "awl"
     ],
     "level": "C1",
-    "topic": "environment"
+    "topic": "environment",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "có chia theo thì và ngôi, như động từ hữu hạn"
+      }
+    ]
   },
   {
     "word": "focus",
@@ -1761,7 +2265,13 @@
       "awl",
       "writing"
     ],
-    "level": "B1"
+    "level": "B1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "độ nét của hình ảnh"
+      }
+    ]
   },
   {
     "word": "format",
@@ -1774,7 +2284,13 @@
       "awl"
     ],
     "level": "B1",
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "sắp xếp hoặc định dạng lại tài liệu"
+      }
+    ]
   },
   {
     "word": "forthcoming",
@@ -1800,7 +2316,13 @@
       "awl"
     ],
     "level": "B2",
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "tổ chức được lập để tài trợ hoạt động từ thiện"
+      }
+    ]
   },
   {
     "word": "founded",
@@ -1828,6 +2350,12 @@
     "level": "B1",
     "family": [
       "functional"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "hoạt động đúng chức năng"
+      }
     ]
   },
   {
@@ -1844,7 +2372,13 @@
     "family": [
       "funding"
     ],
-    "topic": "economy"
+    "topic": "economy",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "quỹ tiền dành cho một mục đích"
+      }
+    ]
   },
   {
     "word": "furthermore",
@@ -1874,7 +2408,13 @@
       "awl"
     ],
     "level": "B2",
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "giống ngữ pháp của danh từ"
+      }
+    ]
   },
   {
     "word": "generation",
@@ -1887,7 +2427,13 @@
       "awl"
     ],
     "level": "B1",
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "việc tạo ra điện hoặc năng lượng"
+      }
+    ]
   },
   {
     "word": "globe",
@@ -1904,7 +2450,13 @@
       "global",
       "globalisation"
     ],
-    "topic": "health"
+    "topic": "health",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "vật có hình cầu như quả cầu thủy tinh"
+      }
+    ]
   },
   {
     "word": "goal",
@@ -1917,7 +2469,13 @@
       "awl"
     ],
     "level": "A2",
-    "topic": "environment"
+    "topic": "environment",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "khung thành trong thể thao"
+      }
+    ]
   },
   {
     "word": "grade",
@@ -1930,7 +2488,13 @@
       "awl"
     ],
     "level": "A2",
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "san phẳng mặt đường hoặc nền đất"
+      }
+    ]
   },
   {
     "word": "grant",
@@ -1943,7 +2507,13 @@
       "awl"
     ],
     "level": "B2",
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "thừa nhận một điều là đúng"
+      }
+    ]
   },
   {
     "word": "hence",
@@ -1960,6 +2530,12 @@
     "synonyms": [
       "therefore",
       "thus"
+    ],
+    "senses": [
+      {
+        "pos": "adverb",
+        "meaningVi": "từ thời điểm này trở đi"
+      }
     ]
   },
   {
@@ -1973,7 +2549,13 @@
       "awl",
       "writing"
     ],
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "vùng sáng nhất trong bức ảnh"
+      }
+    ]
   },
   {
     "word": "identical",
@@ -2018,7 +2600,13 @@
     "family": [
       "ignorance"
     ],
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "thô lỗ và thiếu ý tứ (cách dùng Anh-Anh)"
+      }
+    ]
   },
   {
     "word": "image",
@@ -2031,7 +2619,13 @@
       "awl"
     ],
     "level": "A2",
-    "topic": "media"
+    "topic": "media",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "tạo hình ảnh bằng thiết bị y tế"
+      }
+    ]
   },
   {
     "word": "immigrate",
@@ -2061,7 +2655,13 @@
       "awl"
     ],
     "level": "C1",
-    "topic": "health"
+    "topic": "health",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "kéo theo một hệ quả theo logic"
+      }
+    ]
   },
   {
     "word": "implicit",
@@ -2077,6 +2677,12 @@
     "level": "C1",
     "family": [
       "implicitly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "tuyệt đối và không kèm điều kiện như lòng tin"
+      }
     ]
   },
   {
@@ -2090,7 +2696,13 @@
       "awl"
     ],
     "level": "C1",
-    "topic": "health"
+    "topic": "health",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "góc chiếu của một tia sáng lên bề mặt"
+      }
+    ]
   },
   {
     "word": "incline",
@@ -2107,7 +2719,13 @@
       "inclined",
       "inclination"
     ],
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sườn dốc hoặc con đường dốc"
+      }
+    ]
   },
   {
     "word": "income",
@@ -2136,7 +2754,13 @@
     "family": [
       "individually"
     ],
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "riêng lẻ, tách biệt khỏi tập thể"
+      }
+    ]
   },
   {
     "word": "infer",
@@ -2182,7 +2806,13 @@
       "initiative",
       "initiation"
     ],
-    "topic": "work"
+    "topic": "work",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "kết nạp một người vào nhóm bằng nghi lễ"
+      }
+    ]
   },
   {
     "word": "innovate",
@@ -2212,7 +2842,13 @@
       "awl"
     ],
     "level": "B2",
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "nhập dữ liệu vào hệ thống"
+      }
+    ]
   },
   {
     "word": "insert",
@@ -2225,7 +2861,13 @@
       "awl"
     ],
     "level": "B2",
-    "topic": "law"
+    "topic": "law",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "tờ rời được kẹp thêm vào sách hoặc báo"
+      }
+    ]
   },
   {
     "word": "inspect",
@@ -2259,7 +2901,13 @@
       "institution",
       "institutional"
     ],
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "thiết lập hoặc khởi xướng một thủ tục"
+      }
+    ]
   },
   {
     "word": "instruct",
@@ -2276,7 +2924,13 @@
       "instruction",
       "instructor"
     ],
-    "topic": "work"
+    "topic": "work",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "ra lệnh theo thẩm quyền"
+      }
+    ]
   },
   {
     "word": "integrity",
@@ -2289,7 +2943,13 @@
       "awl"
     ],
     "level": "C1",
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "tình trạng nguyên vẹn, không bị hỏng"
+      }
+    ]
   },
   {
     "word": "intelligent",
@@ -2334,7 +2994,13 @@
       "awl"
     ],
     "level": "B1",
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "chất trung gian tạo ra giữa các bước phản ứng"
+      }
+    ]
   },
   {
     "word": "internal",
@@ -2350,7 +3016,13 @@
     "family": [
       "internally"
     ],
-    "topic": "work"
+    "topic": "work",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "thuộc phạm vi trong nước thay vì quốc tế"
+      }
+    ]
   },
   {
     "word": "invest",
@@ -2367,7 +3039,13 @@
       "investment",
       "investor"
     ],
-    "topic": "economy"
+    "topic": "economy",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "trao cho ai quyền lực hoặc một chức vụ"
+      }
+    ]
   },
   {
     "word": "investigate",
@@ -2396,19 +3074,31 @@
       "awl"
     ],
     "level": "B1",
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "cấp hoặc phát một giấy tờ chính thức"
+      }
+    ]
   },
   {
     "word": "item",
     "ipa": "/ˈaɪ.təm/",
     "pos": "noun",
-    "meaningVi": "khoản mục, món",
+    "meaningVi": "một mục riêng trong bảng hỏi hoặc danh sách",
     "example": "Each item on the questionnaire was tested beforehand.",
     "exampleVi": "Mỗi khoản mục trong bảng hỏi đều được thử nghiệm trước.",
     "tags": [
       "awl"
     ],
-    "level": "A2"
+    "level": "A2",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "một đồ vật riêng lẻ trong một nhóm đồ vật"
+      }
+    ]
   },
   {
     "word": "job",
@@ -2421,7 +3111,13 @@
       "awl"
     ],
     "level": "A2",
-    "topic": "work"
+    "topic": "work",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "giao khoán một công việc cho bên khác"
+      }
+    ]
   },
   {
     "word": "journal",
@@ -2434,7 +3130,13 @@
       "awl",
       "writing"
     ],
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sổ nhật ký ghi chép hằng ngày"
+      }
+    ]
   },
   {
     "word": "label",
@@ -2447,7 +3149,13 @@
       "awl"
     ],
     "level": "B1",
-    "topic": "health"
+    "topic": "health",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "miếng nhãn gắn lên đồ vật"
+      }
+    ]
   },
   {
     "word": "labour",
@@ -2460,7 +3168,13 @@
       "awl"
     ],
     "level": "B2",
-    "topic": "economy"
+    "topic": "economy",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "trải qua cơn chuyển dạ"
+      }
+    ]
   },
   {
     "word": "layer",
@@ -2473,7 +3187,13 @@
       "awl"
     ],
     "level": "B1",
-    "topic": "work"
+    "topic": "work",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "xếp thành nhiều lớp"
+      }
+    ]
   },
   {
     "word": "lecture",
@@ -2489,7 +3209,13 @@
     "family": [
       "lecturer"
     ],
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "khiển trách ai đó bằng giọng dạy đời"
+      }
+    ]
   },
   {
     "word": "legislate",
@@ -2519,7 +3245,13 @@
       "awl"
     ],
     "level": "C1",
-    "topic": "environment"
+    "topic": "environment",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "đánh thuế hoặc thu một khoản bắt buộc"
+      }
+    ]
   },
   {
     "word": "liberal",
@@ -2532,7 +3264,13 @@
       "awl"
     ],
     "level": "B2",
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "người theo tư tưởng tự do"
+      }
+    ]
   },
   {
     "word": "licence",
@@ -2545,7 +3283,13 @@
       "awl"
     ],
     "level": "B1",
-    "topic": "law"
+    "topic": "law",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sự tự do vượt khuôn phép được dung thứ"
+      }
+    ]
   },
   {
     "word": "likewise",
@@ -2571,13 +3315,19 @@
       "awl"
     ],
     "level": "A2",
-    "topic": "health"
+    "topic": "health",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "mắt xích của một sợi dây"
+      }
+    ]
   },
   {
     "word": "locate",
     "ipa": "/ləʊˈkeɪt/",
     "pos": "verb",
-    "meaningVi": "đặt ở vị trí, xác định chỗ",
+    "meaningVi": "đặt ở một vị trí cụ thể",
     "example": "The plant was located far from any residential area.",
     "exampleVi": "Nhà máy được đặt ở vị trí cách xa mọi khu dân cư.",
     "tags": [
@@ -2586,6 +3336,12 @@
     "level": "B1",
     "family": [
       "location"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "xác định vị trí của người hoặc vật đang cần tìm"
+      }
     ]
   },
   {
@@ -2603,6 +3359,12 @@
     "family": [
       "logical",
       "logically"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "mạch hoặc hệ logic trong thiết bị điện tử"
+      }
     ]
   },
   {
@@ -2618,6 +3380,12 @@
     "level": "B1",
     "family": [
       "majority"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "chuyên ngành chính ở đại học"
+      }
     ]
   },
   {
@@ -2631,7 +3399,13 @@
       "awl"
     ],
     "level": "B2",
-    "topic": "work"
+    "topic": "work",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sách hướng dẫn sử dụng"
+      }
+    ]
   },
   {
     "word": "maximise",
@@ -2659,7 +3433,13 @@
     "tags": [
       "awl"
     ],
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "bộ phận máy móc truyền chuyển động"
+      }
+    ]
   },
   {
     "word": "media",
@@ -2672,7 +3452,13 @@
       "awl"
     ],
     "level": "B1",
-    "topic": "media"
+    "topic": "media",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "vật liệu hoặc phương tiện dùng để sáng tác nghệ thuật"
+      }
+    ]
   },
   {
     "word": "medical",
@@ -2685,7 +3471,13 @@
       "awl"
     ],
     "level": "B1",
-    "topic": "health"
+    "topic": "health",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "buổi khám sức khỏe tổng quát"
+      }
+    ]
   },
   {
     "word": "medium",
@@ -2698,7 +3490,13 @@
       "awl"
     ],
     "level": "B2",
-    "topic": "media"
+    "topic": "media",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "ở mức trung bình"
+      }
+    ]
   },
   {
     "word": "mental",
@@ -2747,7 +3545,13 @@
       "migration",
       "migrant"
     ],
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "di chuyển theo mùa như chim hoặc động vật"
+      }
+    ]
   },
   {
     "word": "military",
@@ -2760,7 +3564,13 @@
       "awl"
     ],
     "level": "B1",
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "lực lượng quân đội"
+      }
+    ]
   },
   {
     "word": "minimise",
@@ -2773,7 +3583,13 @@
       "awl"
     ],
     "level": "B2",
-    "topic": "environment"
+    "topic": "environment",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "coi nhẹ tầm quan trọng của một vấn đề"
+      }
+    ]
   },
   {
     "word": "minimum",
@@ -2786,7 +3602,13 @@
       "awl"
     ],
     "level": "B1",
-    "topic": "economy"
+    "topic": "economy",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "ở mức thấp nhất được phép hoặc có thể"
+      }
+    ]
   },
   {
     "word": "ministry",
@@ -2814,7 +3636,13 @@
     "tags": [
       "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "người chưa đủ tuổi trưởng thành"
+      }
+    ]
   },
   {
     "word": "mode",
@@ -2827,7 +3655,13 @@
       "awl",
       "task1"
     ],
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "giá trị xuất hiện nhiều nhất trong tập dữ liệu"
+      }
+    ]
   },
   {
     "word": "modify",
@@ -2842,6 +3676,12 @@
     "level": "B2",
     "family": [
       "modification"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "bổ nghĩa cho một từ trong ngữ pháp"
+      }
     ]
   },
   {
@@ -2859,7 +3699,13 @@
       "motivate",
       "motivation"
     ],
-    "topic": "work"
+    "topic": "work",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "gây ra chuyển động"
+      }
+    ]
   },
   {
     "word": "negate",
@@ -2872,7 +3718,13 @@
       "awl"
     ],
     "level": "C1",
-    "topic": "economy"
+    "topic": "economy",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "bác bỏ một mệnh đề"
+      }
+    ]
   },
   {
     "word": "network",
@@ -2885,7 +3737,13 @@
       "awl"
     ],
     "level": "B1",
-    "topic": "technology"
+    "topic": "technology",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "gặp gỡ để tạo quan hệ nghề nghiệp"
+      }
+    ]
   },
   {
     "word": "normal",
@@ -2901,6 +3759,12 @@
     "family": [
       "normally",
       "norm"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "đường vuông góc với một bề mặt"
+      }
     ]
   },
   {
@@ -2914,7 +3778,13 @@
       "awl",
       "writing"
     ],
-    "level": "C1"
+    "level": "C1",
+    "senses": [
+      {
+        "pos": "adverb",
+        "meaningVi": "tuy vậy, dù thế"
+      }
+    ]
   },
   {
     "word": "nuclear",
@@ -2927,7 +3797,13 @@
       "awl"
     ],
     "level": "B2",
-    "topic": "environment"
+    "topic": "environment",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "thuộc nhân tế bào trong sinh học"
+      }
+    ]
   },
   {
     "word": "obvious",
@@ -2959,7 +3835,13 @@
     "family": [
       "occupation"
     ],
-    "topic": "economy"
+    "topic": "economy",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "làm ai đó bận rộn trong một khoảng thời gian"
+      }
+    ]
   },
   {
     "word": "odd",
@@ -2972,7 +3854,13 @@
       "awl",
       "writing"
     ],
-    "level": "B1"
+    "level": "B1",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "lẻ, không chia hết cho hai"
+      }
+    ]
   },
   {
     "word": "option",
@@ -2987,6 +3875,12 @@
     "level": "B1",
     "family": [
       "optional"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "quyền mua hoặc bán tài sản theo các điều kiện đã định trong tương lai"
+      }
     ]
   },
   {
@@ -3003,7 +3897,13 @@
     "family": [
       "orientation"
     ],
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "xác định vị trí và phương hướng của bản thân trong môi trường"
+      }
+    ]
   },
   {
     "word": "output",
@@ -3016,7 +3916,13 @@
       "awl",
       "task1"
     ],
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "tạo ra một lượng sản phẩm nhất định"
+      }
+    ]
   },
   {
     "word": "overlap",
@@ -3029,7 +3935,13 @@
       "awl",
       "task1"
     ],
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "phần diện tích hoặc thời gian trùng nhau"
+      }
+    ]
   },
   {
     "word": "overseas",
@@ -3042,7 +3954,13 @@
       "awl"
     ],
     "level": "B1",
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "adverb",
+        "meaningVi": "ra nước ngoài"
+      }
+    ]
   },
   {
     "word": "panel",
@@ -3055,7 +3973,13 @@
       "awl"
     ],
     "level": "B2",
-    "topic": "work"
+    "topic": "work",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "tấm phẳng dùng để ốp hoặc lắp ghép"
+      }
+    ]
   },
   {
     "word": "paradigm",
@@ -3068,7 +3992,13 @@
       "awl",
       "writing"
     ],
-    "level": "C1"
+    "level": "C1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "bảng các dạng biến cách của một từ"
+      }
+    ]
   },
   {
     "word": "paragraph",
@@ -3081,19 +4011,31 @@
       "awl",
       "writing"
     ],
-    "level": "B1"
+    "level": "B1",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "chia văn bản thành các đoạn"
+      }
+    ]
   },
   {
     "word": "parameter",
     "ipa": "/pəˈræm.ɪ.tər/",
     "pos": "noun",
-    "meaningVi": "tham số giới hạn",
+    "meaningVi": "giới hạn phạm vi",
     "example": "The committee set narrow parameters for the inquiry.",
-    "exampleVi": "Ban chuyên trách đặt tham số giới hạn hẹp cho cuộc điều tra.",
+    "exampleVi": "Ban chuyên trách đặt giới hạn hẹp cho cuộc điều tra.",
     "tags": [
       "awl"
     ],
-    "level": "C1"
+    "level": "C1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "tham số của một hàm hoặc mô hình"
+      }
+    ]
   },
   {
     "word": "partner",
@@ -3109,7 +4051,13 @@
     "family": [
       "partnership"
     ],
-    "topic": "work"
+    "topic": "work",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "cùng hợp tác với một người hoặc tổ chức"
+      }
+    ]
   },
   {
     "word": "passive",
@@ -3122,7 +4070,13 @@
       "awl"
     ],
     "level": "B2",
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "thể bị động trong ngữ pháp"
+      }
+    ]
   },
   {
     "word": "percent",
@@ -3148,7 +4102,13 @@
       "awl",
       "task1"
     ],
-    "level": "A2"
+    "level": "A2",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "kỳ kinh nguyệt"
+      }
+    ]
   },
   {
     "word": "perspective",
@@ -3161,7 +4121,13 @@
       "awl",
       "writing"
     ],
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "phối cảnh tạo cảm giác chiều sâu trong tranh"
+      }
+    ]
   },
   {
     "word": "phenomenon",
@@ -3174,13 +4140,19 @@
       "awl"
     ],
     "level": "C1",
-    "topic": "environment"
+    "topic": "environment",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "người hoặc vật có tài năng hay đặc điểm phi thường"
+      }
+    ]
   },
   {
     "word": "philosophy",
     "ipa": "/fɪˈlɒs.ə.fi/",
     "pos": "noun",
-    "meaningVi": "triết lý, triết học",
+    "meaningVi": "triết lý hoặc phương châm sống",
     "example": "The school's philosophy puts wellbeing before results.",
     "exampleVi": "Triết lý của nhà trường đặt sự an vui lên trước thành tích.",
     "tags": [
@@ -3190,7 +4162,13 @@
     "family": [
       "philosophical"
     ],
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "môn triết học nghiên cứu các câu hỏi căn bản"
+      }
+    ]
   },
   {
     "word": "physical",
@@ -3206,7 +4184,13 @@
     "family": [
       "physically"
     ],
-    "topic": "health"
+    "topic": "health",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "thuộc môn vật lý"
+      }
+    ]
   },
   {
     "word": "policy",
@@ -3219,7 +4203,13 @@
       "awl"
     ],
     "level": "B1",
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "hợp đồng bảo hiểm"
+      }
+    ]
   },
   {
     "word": "pose",
@@ -3232,7 +4222,13 @@
       "awl"
     ],
     "level": "C1",
-    "topic": "health"
+    "topic": "health",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "tư thế để chụp ảnh hoặc vẽ"
+      }
+    ]
   },
   {
     "word": "positive",
@@ -3247,6 +4243,12 @@
     "level": "A2",
     "family": [
       "positively"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "bản ảnh dương có màu sáng tối như vật thật"
+      }
     ]
   },
   {
@@ -3292,7 +4294,13 @@
     "family": [
       "primarily"
     ],
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "cuộc bầu cử sơ bộ để chọn ứng viên"
+      }
+    ]
   },
   {
     "word": "prime",
@@ -3304,7 +4312,13 @@
     "tags": [
       "awl"
     ],
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "số nguyên tố"
+      }
+    ]
   },
   {
     "word": "principal",
@@ -3317,7 +4331,13 @@
       "awl",
       "writing"
     ],
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "hiệu trưởng của một trường"
+      }
+    ]
   },
   {
     "word": "principle",
@@ -3346,7 +4366,13 @@
     "family": [
       "priority"
     ],
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "tu viện trưởng hoặc bề trên của tu viện"
+      }
+    ]
   },
   {
     "word": "process",
@@ -3359,7 +4385,13 @@
       "awl",
       "task1"
     ],
-    "level": "B1"
+    "level": "B1",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "chế biến nguyên liệu thành sản phẩm"
+      }
+    ]
   },
   {
     "word": "professional",
@@ -3375,7 +4407,13 @@
     "family": [
       "profession"
     ],
-    "topic": "work"
+    "topic": "work",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "người kiếm sống bằng một nghề chuyên môn"
+      }
+    ]
   },
   {
     "word": "project",
@@ -3391,6 +4429,12 @@
     "level": "B2",
     "family": [
       "projection"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "chiếu hình ảnh lên màn"
+      }
     ]
   },
   {
@@ -3420,13 +4464,19 @@
       "awl",
       "writing"
     ],
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "việc đưa thông tin ra cho công chúng"
+      }
+    ]
   },
   {
     "word": "publish",
     "ipa": "/ˈpʌb.lɪʃ/",
     "pos": "verb",
-    "meaningVi": "xuất bản, công bố ra",
+    "meaningVi": "công bố thông tin cho công chúng",
     "example": "The department publishes its accounts every June.",
     "exampleVi": "Bộ công bố ra báo cáo tài chính vào tháng Sáu hằng năm.",
     "tags": [
@@ -3436,7 +4486,13 @@
     "family": [
       "publisher"
     ],
-    "topic": "media"
+    "topic": "media",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "xuất bản sách hoặc tạp chí"
+      }
+    ]
   },
   {
     "word": "qualitative",
@@ -3465,6 +4521,12 @@
     "level": "B1",
     "family": [
       "quotation"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "đoạn được trích dẫn nguyên văn"
+      }
     ]
   },
   {
@@ -3480,6 +4542,12 @@
     "level": "B2",
     "family": [
       "randomly"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "kỳ quặc hoặc chẳng ăn nhập với tình huống (khẩu ngữ)"
+      }
     ]
   },
   {
@@ -3493,7 +4561,13 @@
       "awl",
       "task1"
     ],
-    "level": "B1"
+    "level": "B1",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "dao động trong một khoảng giá trị"
+      }
+    ]
   },
   {
     "word": "react",
@@ -3509,7 +4583,13 @@
     "family": [
       "reaction"
     ],
-    "topic": "economy"
+    "topic": "economy",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "tham gia phản ứng hóa học"
+      }
+    ]
   },
   {
     "word": "regime",
@@ -3522,7 +4602,13 @@
       "awl"
     ],
     "level": "C1",
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "hệ thống quy tắc hoặc phương pháp được áp dụng trong một lĩnh vực"
+      }
+    ]
   },
   {
     "word": "region",
@@ -3538,6 +4624,12 @@
     "level": "B1",
     "family": [
       "regional"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "vùng xác định trên cơ thể"
+      }
     ]
   },
   {
@@ -3554,7 +4646,13 @@
     "family": [
       "registration"
     ],
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sổ ghi danh hoặc sổ bộ"
+      }
+    ]
   },
   {
     "word": "regulate",
@@ -3571,7 +4669,13 @@
       "regulation",
       "regulatory"
     ],
-    "topic": "law"
+    "topic": "law",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "điều hòa nhiệt độ hoặc tốc độ"
+      }
+    ]
   },
   {
     "word": "relax",
@@ -3584,7 +4688,13 @@
       "awl"
     ],
     "level": "B1",
-    "topic": "law"
+    "topic": "law",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "thư giãn sau khi căng thẳng"
+      }
+    ]
   },
   {
     "word": "release",
@@ -3597,7 +4707,13 @@
       "awl"
     ],
     "level": "B1",
-    "topic": "media"
+    "topic": "media",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "thả một người hoặc vật đang bị giữ"
+      }
+    ]
   },
   {
     "word": "reluctance",
@@ -3613,7 +4729,13 @@
     "family": [
       "reluctant"
     ],
-    "topic": "environment"
+    "topic": "environment",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "từ trở của mạch từ trong vật lý"
+      }
+    ]
   },
   {
     "word": "rely",
@@ -3646,7 +4768,13 @@
     "family": [
       "researcher"
     ],
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "nghiên cứu kỹ một chủ đề"
+      }
+    ]
   },
   {
     "word": "reside",
@@ -3679,7 +4807,13 @@
     "family": [
       "restraint"
     ],
-    "topic": "economy"
+    "topic": "economy",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "giữ chặt để ai đó không cử động"
+      }
+    ]
   },
   {
     "word": "revise",
@@ -3695,6 +4829,12 @@
     "level": "B1",
     "family": [
       "revision"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "ôn lại bài để chuẩn bị thi"
+      }
     ]
   },
   {
@@ -3711,7 +4851,13 @@
     "family": [
       "revolutionary"
     ],
-    "topic": "technology"
+    "topic": "technology",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "một vòng quay trọn của hành tinh"
+      }
+    ]
   },
   {
     "word": "role",
@@ -3724,7 +4870,13 @@
       "awl"
     ],
     "level": "B1",
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "vai diễn trong phim hoặc vở kịch"
+      }
+    ]
   },
   {
     "word": "route",
@@ -3737,7 +4889,13 @@
       "awl",
       "task1"
     ],
-    "level": "B1"
+    "level": "B1",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "chuyển dữ liệu hoặc hàng hóa theo một tuyến"
+      }
+    ]
   },
   {
     "word": "schedule",
@@ -3750,7 +4908,13 @@
       "awl"
     ],
     "level": "B1",
-    "topic": "work"
+    "topic": "work",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "sắp xếp một việc vào thời gian cụ thể"
+      }
+    ]
   },
   {
     "word": "scheme",
@@ -3763,7 +4927,13 @@
       "awl"
     ],
     "level": "B2",
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "âm mưu hoặc lên kế hoạch bí mật"
+      }
+    ]
   },
   {
     "word": "section",
@@ -3776,7 +4946,13 @@
       "awl",
       "writing"
     ],
-    "level": "A2"
+    "level": "A2",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "chia một bộ phận thành các lát cắt"
+      }
+    ]
   },
   {
     "word": "sector",
@@ -3789,7 +4965,13 @@
       "awl"
     ],
     "level": "B2",
-    "topic": "economy"
+    "topic": "economy",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "hình quạt trong hình học"
+      }
+    ]
   },
   {
     "word": "select",
@@ -3805,6 +4987,12 @@
     "family": [
       "selection",
       "selective"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "chỉ dành cho một nhóm được chọn"
+      }
     ]
   },
   {
@@ -3818,7 +5006,13 @@
       "awl",
       "task1"
     ],
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "xác định thứ tự các thành phần ADN"
+      }
+    ]
   },
   {
     "word": "series",
@@ -3830,7 +5024,13 @@
     "tags": [
       "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "phim hoặc chương trình nhiều tập"
+      }
+    ]
   },
   {
     "word": "site",
@@ -3842,7 +5042,13 @@
     "tags": [
       "awl"
     ],
-    "level": "B1"
+    "level": "B1",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "đặt một công trình ở vị trí đã chọn"
+      }
+    ]
   },
   {
     "word": "sole",
@@ -3858,7 +5064,13 @@
     "family": [
       "solely"
     ],
-    "topic": "economy"
+    "topic": "economy",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "đế của bàn chân hoặc giày"
+      }
+    ]
   },
   {
     "word": "somewhat",
@@ -3884,7 +5096,13 @@
       "awl",
       "writing"
     ],
-    "level": "B1"
+    "level": "B1",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "tìm nguồn cung ứng hàng hóa hoặc nguyên liệu"
+      }
+    ]
   },
   {
     "word": "specify",
@@ -3914,7 +5132,13 @@
       "awl"
     ],
     "level": "C1",
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "khối cầu trong hình học"
+      }
+    ]
   },
   {
     "word": "statistic",
@@ -3943,7 +5167,13 @@
       "awl"
     ],
     "level": "B2",
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "tình trạng hiện tại của một công việc"
+      }
+    ]
   },
   {
     "word": "straightforward",
@@ -3956,7 +5186,13 @@
       "awl",
       "writing"
     ],
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "thẳng thắn, nói điều mình nghĩ"
+      }
+    ]
   },
   {
     "word": "strategy",
@@ -3985,7 +5221,13 @@
       "awl",
       "writing"
     ],
-    "level": "B1"
+    "level": "B1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "áp lực thể chất hoặc tinh thần"
+      }
+    ]
   },
   {
     "word": "structure",
@@ -4001,6 +5243,12 @@
     "level": "B1",
     "family": [
       "structural"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "tổ chức các phần theo một trật tự"
+      }
     ]
   },
   {
@@ -4014,7 +5262,13 @@
       "awl",
       "writing"
     ],
-    "level": "B1"
+    "level": "B1",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "tạo kiểu tóc hoặc tạo hình theo phong cách"
+      }
+    ]
   },
   {
     "word": "subordinate",
@@ -4027,7 +5281,13 @@
       "awl"
     ],
     "level": "C1",
-    "topic": "environment"
+    "topic": "environment",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "người cấp dưới"
+      }
+    ]
   },
   {
     "word": "subsidy",
@@ -4059,7 +5319,13 @@
     "family": [
       "substitution"
     ],
-    "topic": "environment"
+    "topic": "environment",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "người hoặc vật thay thế"
+      }
+    ]
   },
   {
     "word": "successor",
@@ -4072,7 +5338,13 @@
       "awl"
     ],
     "level": "C1",
-    "topic": "work"
+    "topic": "work",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "số nguyên đứng ngay sau một số khác"
+      }
+    ]
   },
   {
     "word": "sum",
@@ -4085,7 +5357,13 @@
       "awl"
     ],
     "level": "B1",
-    "topic": "economy"
+    "topic": "economy",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "tóm tắt nội dung chính"
+      }
+    ]
   },
   {
     "word": "survey",
@@ -4098,7 +5376,13 @@
       "awl",
       "task1"
     ],
-    "level": "B1"
+    "level": "B1",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "đo đạc và lập bản đồ đất đai"
+      }
+    ]
   },
   {
     "word": "suspend",
@@ -4114,7 +5398,13 @@
     "family": [
       "suspension"
     ],
-    "topic": "work"
+    "topic": "work",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "treo một vật lơ lửng trên cao"
+      }
+    ]
   },
   {
     "word": "symbol",
@@ -4130,7 +5420,13 @@
     "family": [
       "symbolic"
     ],
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "ký hiệu đại diện cho một nguyên tố hóa học"
+      }
+    ]
   },
   {
     "word": "tape",
@@ -4143,7 +5439,13 @@
       "awl"
     ],
     "level": "A2",
-    "topic": "media"
+    "topic": "media",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "dán một thứ bằng băng dính"
+      }
+    ]
   },
   {
     "word": "target",
@@ -4156,7 +5458,13 @@
       "awl"
     ],
     "level": "B1",
-    "topic": "environment"
+    "topic": "environment",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "nhắm vào một đối tượng cụ thể"
+      }
+    ]
   },
   {
     "word": "task",
@@ -4169,7 +5477,13 @@
       "awl"
     ],
     "level": "A2",
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "giao nhiệm vụ cho ai đó"
+      }
+    ]
   },
   {
     "word": "team",
@@ -4182,7 +5496,13 @@
       "awl"
     ],
     "level": "A2",
-    "topic": "work"
+    "topic": "work",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "lập nhóm để cùng làm việc"
+      }
+    ]
   },
   {
     "word": "technical",
@@ -4198,7 +5518,13 @@
     "family": [
       "technically"
     ],
-    "topic": "technology"
+    "topic": "technology",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "liên quan đến chi tiết chuyên môn chứ không phải ý chính"
+      }
+    ]
   },
   {
     "word": "technique",
@@ -4227,7 +5553,13 @@
     "family": [
       "technological"
     ],
-    "topic": "technology"
+    "topic": "technology",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "các thiết bị được tạo ra bằng kỹ thuật"
+      }
+    ]
   },
   {
     "word": "temporary",
@@ -4243,6 +5575,12 @@
     "level": "B1",
     "family": [
       "temporarily"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "người làm công việc tạm thời"
+      }
     ]
   },
   {
@@ -4259,7 +5597,13 @@
     "family": [
       "tension"
     ],
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "thì của động từ"
+      }
+    ]
   },
   {
     "word": "text",
@@ -4275,7 +5619,13 @@
     "family": [
       "textual"
     ],
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "tin nhắn văn bản trên điện thoại"
+      }
+    ]
   },
   {
     "word": "theme",
@@ -4291,6 +5641,12 @@
     "level": "B2",
     "family": [
       "thematic"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "đặt một chủ đề chung cho sự kiện"
+      }
     ]
   },
   {
@@ -4307,6 +5663,12 @@
     "level": "B1",
     "family": [
       "theoretical"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "giả thuyết cá nhân chưa được chứng minh"
+      }
     ]
   },
   {
@@ -4326,14 +5688,20 @@
     "word": "thesis",
     "ipa": "/ˈθiː.sɪs/",
     "pos": "noun",
-    "meaningVi": "luận án, luận điểm chính",
+    "meaningVi": "luận án",
     "example": "Her thesis runs to three hundred pages.",
     "exampleVi": "Luận án của bà dài ba trăm trang.",
     "tags": [
       "awl",
       "writing"
     ],
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "luận điểm chính của một bài nghị luận"
+      }
+    ]
   },
   {
     "word": "topic",
@@ -4359,13 +5727,19 @@
       "awl"
     ],
     "level": "B2",
-    "topic": "economy"
+    "topic": "economy",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "đi ngang qua một khu vực"
+      }
+    ]
   },
   {
     "word": "transmit",
     "ipa": "/trænˈsmɪt/",
     "pos": "verb",
-    "meaningVi": "truyền đi, lây truyền",
+    "meaningVi": "lây truyền bệnh",
     "example": "The virus transmits most easily in crowded rooms.",
     "exampleVi": "Vi-rút lây truyền dễ nhất trong phòng đông người.",
     "tags": [
@@ -4375,7 +5749,13 @@
     "family": [
       "transmission"
     ],
-    "topic": "health"
+    "topic": "health",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "truyền tín hiệu qua khoảng cách"
+      }
+    ]
   },
   {
     "word": "transport",
@@ -4388,15 +5768,21 @@
       "awl",
       "task1"
     ],
-    "level": "B1"
+    "level": "B1",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "vận chuyển người hoặc hàng hóa"
+      }
+    ]
   },
   {
     "word": "underlie",
     "ipa": "/ˌʌn.dəˈlaɪ/",
     "pos": "verb",
-    "meaningVi": "nằm bên dưới làm nền",
+    "meaningVi": "là nền tảng hoặc nguyên nhân của một việc",
     "example": "Deep inequalities underlie the protest movement.",
-    "exampleVi": "Những bất bình đẳng sâu sắc nằm bên dưới làm nền cho phong trào biểu tình.",
+    "exampleVi": "Những bất bình đẳng sâu sắc là nguyên nhân nền tảng của phong trào biểu tình.",
     "tags": [
       "awl"
     ],
@@ -4404,7 +5790,13 @@
     "family": [
       "underlying"
     ],
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "nằm bên dưới một vật về vị trí"
+      }
+    ]
   },
   {
     "word": "uniform",
@@ -4417,7 +5809,13 @@
       "awl"
     ],
     "level": "B2",
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "bộ đồng phục"
+      }
+    ]
   },
   {
     "word": "unify",
@@ -4466,7 +5864,7 @@
     "word": "valid",
     "ipa": "/ˈvæl.ɪd/",
     "pos": "adjective",
-    "meaningVi": "có căn cứ, còn hiệu lực",
+    "meaningVi": "có căn cứ",
     "example": "The objection is valid but easily answered.",
     "exampleVi": "Phản bác đó có căn cứ nhưng dễ trả lời.",
     "tags": [
@@ -4477,6 +5875,12 @@
     "family": [
       "validity",
       "validate"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "còn hiệu lực về pháp lý"
+      }
     ]
   },
   {
@@ -4490,7 +5894,13 @@
       "awl",
       "writing"
     ],
-    "level": "B1"
+    "level": "B1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "cách kể của một người về sự việc"
+      }
+    ]
   },
   {
     "word": "via",
@@ -4548,7 +5958,13 @@
       "awl"
     ],
     "level": "B2",
-    "topic": "work"
+    "topic": "work",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "khả năng nhìn bằng mắt"
+      }
+    ]
   },
   {
     "word": "visual",
@@ -4564,7 +5980,13 @@
     "family": [
       "visually"
     ],
-    "topic": "education"
+    "topic": "education",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "hình minh họa trong bài thuyết trình"
+      }
+    ]
   },
   {
     "word": "volume",
@@ -4577,7 +5999,13 @@
       "awl",
       "task1"
     ],
-    "level": "B1"
+    "level": "B1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "một quyển sách trong bộ nhiều tập"
+      }
+    ]
   },
   {
     "word": "voluntary",
@@ -4607,7 +6035,13 @@
       "awl"
     ],
     "level": "B2",
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "tình trạng khỏe mạnh và hạnh phúc"
+      }
+    ]
   },
   {
     "word": "whereby",
@@ -4633,7 +6067,13 @@
       "awl"
     ],
     "level": "B1",
-    "topic": "society"
+    "topic": "society",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "xác định giới tính của động vật"
+      }
+    ]
   },
   {
     "word": "so-called",
@@ -4659,6 +6099,12 @@
       "awl"
     ],
     "level": "B1",
-    "topic": "work"
+    "topic": "work",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "người được chuyển sang đơn vị khác"
+      }
+    ]
   }
 ]

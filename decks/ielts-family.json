@@ -17,7 +17,13 @@
     "example": "Siblings raised apart still share striking habits.",
     "exampleVi": "Anh chị em ruột lớn lên xa nhau vẫn có những thói quen giống nhau đến lạ.",
     "topic": "family",
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "một nút có cùng nút cha trong cấu trúc cây"
+      }
+    ]
   },
   {
     "word": "offspring",
@@ -27,7 +33,13 @@
     "example": "Couples now have fewer offspring and have them later.",
     "exampleVi": "Các cặp đôi nay có ít con cái hơn và sinh muộn hơn.",
     "topic": "family",
-    "level": "C1"
+    "level": "C1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sản phẩm hoặc kết quả nảy sinh từ một hoạt động"
+      }
+    ]
   },
   {
     "word": "nurture",
@@ -37,7 +49,13 @@
     "example": "Schools nurture curiosity or kill it early.",
     "exampleVi": "Nhà trường nuôi dưỡng sự tò mò hoặc giết nó từ sớm.",
     "topic": "family",
-    "level": "C1"
+    "level": "C1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "môi trường và cách nuôi dạy ảnh hưởng đến sự phát triển"
+      }
+    ]
   },
   {
     "word": "breadwinner",
@@ -77,7 +95,13 @@
     "example": "Their ancestors farmed the same valley for centuries.",
     "exampleVi": "Tổ tiên họ canh tác cùng một thung lũng suốt nhiều thế kỷ.",
     "topic": "family",
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "loài tổ tiên mà một loài khác tiến hóa từ đó"
+      }
+    ]
   },
   {
     "word": "descendant",
@@ -87,7 +111,13 @@
     "example": "No descendant of the founder still works here.",
     "exampleVi": "Không con cháu đời sau nào của người sáng lập còn làm ở đây.",
     "topic": "family",
-    "level": "C1"
+    "level": "C1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "nút nằm ở nhánh dưới một nút khác trong cấu trúc cây"
+      }
+    ]
   },
   {
     "word": "inherit",
@@ -97,7 +127,13 @@
     "example": "She inherited the shop and the debts with it.",
     "exampleVi": "Bà thừa kế cửa hàng và cả đống nợ đi kèm.",
     "topic": "family",
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "thừa hưởng một đặc điểm từ cha mẹ qua di truyền"
+      }
+    ]
   },
   {
     "word": "kinship",
@@ -107,7 +143,13 @@
     "example": "Kinship still decides who gets land in the village.",
     "exampleVi": "Quan hệ họ hàng vẫn quyết định ai được chia đất trong làng.",
     "topic": "family",
-    "level": "C1"
+    "level": "C1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "cảm giác gần gũi giữa những người không có họ hàng"
+      }
+    ]
   },
   {
     "word": "divorce",
@@ -117,7 +159,13 @@
     "example": "Divorce rates rose fastest among couples over fifty.",
     "exampleVi": "Tỷ lệ ly hôn tăng nhanh nhất ở các cặp trên năm mươi tuổi.",
     "topic": "family",
-    "level": "B1"
+    "level": "B1",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "ly hôn với vợ hoặc chồng"
+      }
+    ]
   },
   {
     "word": "adoption",
@@ -127,7 +175,13 @@
     "example": "Adoption takes three years and endless paperwork.",
     "exampleVi": "Việc nhận con nuôi mất ba năm và vô số giấy tờ.",
     "topic": "family",
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "việc chấp nhận và bắt đầu áp dụng một chính sách hoặc ý tưởng"
+      }
+    ]
   },
   {
     "word": "foster",
@@ -137,7 +191,13 @@
     "example": "The couple fostered eleven children over two decades.",
     "exampleVi": "Hai vợ chồng nhận nuôi dưỡng tạm mười một đứa trẻ trong hai thập kỷ.",
     "topic": "family",
-    "level": "C1"
+    "level": "C1",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "khuyến khích một ý tưởng hoặc mối quan hệ phát triển"
+      }
+    ]
   },
   {
     "word": "elderly",
@@ -147,7 +207,13 @@
     "example": "Elderly relatives increasingly live alone.",
     "exampleVi": "Người thân cao tuổi ngày càng sống một mình.",
     "topic": "family",
-    "level": "B1"
+    "level": "B1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "những người cao tuổi"
+      }
+    ]
   },
   {
     "word": "intimacy",
@@ -157,7 +223,13 @@
     "example": "Long working hours erode intimacy quietly.",
     "exampleVi": "Giờ làm dài âm thầm bào mòn sự gần gũi thân mật.",
     "topic": "family",
-    "level": "C1"
+    "level": "C1",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "quan hệ thân mật về mặt tình dục"
+      }
+    ]
   },
   {
     "word": "spoil",
@@ -167,7 +239,13 @@
     "example": "Grandparents spoil children and then hand them back.",
     "exampleVi": "Ông bà nuông chiều quá mức bọn trẻ rồi trả chúng về.",
     "topic": "family",
-    "level": "B2"
+    "level": "B2",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "làm hỏng thức ăn"
+      }
+    ]
   },
   {
     "word": "generation gap",

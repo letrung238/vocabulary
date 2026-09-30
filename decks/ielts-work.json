@@ -10,7 +10,13 @@
     "family": [
       "recruit"
     ],
-    "topic": "work"
+    "topic": "work",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "việc chiêu mộ người vào quân đội"
+      }
+    ]
   },
   {
     "word": "freelance",
@@ -23,7 +29,13 @@
     "family": [
       "freelancer"
     ],
-    "topic": "work"
+    "topic": "work",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "người làm việc độc lập theo từng hợp đồng"
+      }
+    ]
   },
   {
     "word": "outsourcing",
@@ -49,7 +61,13 @@
     "family": [
       "productive"
     ],
-    "topic": "work"
+    "topic": "work",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "khả năng sinh trưởng hoặc tạo ra sản phẩm của đất"
+      }
+    ]
   },
   {
     "word": "entrepreneur",
@@ -75,7 +93,13 @@
     "family": [
       "commuter"
     ],
-    "topic": "work"
+    "topic": "work",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "giảm nhẹ một bản án"
+      }
+    ]
   },
   {
     "word": "wage",
@@ -85,7 +109,13 @@
     "example": "Wages have not kept pace with housing costs.",
     "exampleVi": "Tiền công theo giờ hoặc tuần không theo kịp chi phí nhà ở.",
     "level": "B1",
-    "topic": "work"
+    "topic": "work",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "tiến hành một cuộc chiến hoặc chiến dịch"
+      }
+    ]
   },
   {
     "word": "pension",
@@ -95,7 +125,13 @@
     "example": "A state pension alone no longer covers basic costs.",
     "exampleVi": "Lương hưu nhà nước đơn thuần không còn đủ trang trải chi phí cơ bản.",
     "level": "B2",
-    "topic": "work"
+    "topic": "work",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "nhà trọ cung cấp chỗ ở và bữa ăn (cách dùng ở châu Âu)"
+      }
+    ]
   },
   {
     "word": "monopoly",
@@ -105,7 +141,13 @@
     "example": "One firm holds a near monopoly on seed supply.",
     "exampleVi": "Một doanh nghiệp nắm thế độc quyền gần như tuyệt đối về cung ứng hạt giống.",
     "level": "C1",
-    "topic": "work"
+    "topic": "work",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "trò chơi cờ tỷ phú Monopoly"
+      }
+    ]
   },
   {
     "word": "recession",
@@ -115,7 +157,13 @@
     "example": "The recession hit young workers hardest.",
     "exampleVi": "Suy thoái kinh tế giáng đòn nặng nhất vào lao động trẻ.",
     "level": "B2",
-    "topic": "work"
+    "topic": "work",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sự lùi dần của đường chân tóc"
+      }
+    ]
   },
   {
     "word": "inflation",
@@ -125,7 +173,13 @@
     "example": "Inflation erased the value of the pay rise.",
     "exampleVi": "Lạm phát xoá sạch giá trị của đợt tăng lương.",
     "level": "B2",
-    "topic": "work"
+    "topic": "work",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "việc bơm hơi cho căng một vật"
+      }
+    ]
   },
   {
     "word": "austerity",
@@ -135,7 +189,13 @@
     "example": "A decade of austerity left services threadbare.",
     "exampleVi": "Một thập kỷ chính sách thắt lưng buộc bụng khiến dịch vụ công xơ xác.",
     "level": "C1",
-    "topic": "work"
+    "topic": "work",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "lối sống giản dị và nghiêm khắc"
+      }
+    ]
   },
   {
     "word": "bankrupt",
@@ -148,7 +208,13 @@
     "family": [
       "bankruptcy"
     ],
-    "topic": "work"
+    "topic": "work",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "làm cho một người hoặc doanh nghiệp phá sản"
+      }
+    ]
   },
   {
     "word": "investment",
@@ -158,7 +224,13 @@
     "example": "Investment in training pays back over five years.",
     "exampleVi": "Khoản đầu tư vào đào tạo hoàn vốn sau năm năm.",
     "level": "B1",
-    "topic": "work"
+    "topic": "work",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "thời gian hoặc công sức bỏ vào một mục tiêu"
+      }
+    ]
   },
   {
     "word": "workforce",
