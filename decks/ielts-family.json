@@ -21,7 +21,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "một nút có cùng nút cha trong cấu trúc cây"
+        "meaningVi": "một nút có cùng nút cha trong cấu trúc cây",
+        "example": "In this tree, each node has a sibling that shares the same parent.",
+        "exampleVi": "Trong cây này, mỗi nút có một nút anh em cùng nút cha."
       }
     ]
   },
@@ -37,7 +39,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "sản phẩm hoặc kết quả nảy sinh từ một hoạt động"
+        "meaningVi": "sản phẩm hoặc kết quả nảy sinh từ một hoạt động",
+        "example": "The new journal was the offspring of several years of discussion among researchers.",
+        "exampleVi": "Tạp chí mới là sản phẩm của nhiều năm trao đổi giữa các nhà nghiên cứu."
       }
     ]
   },
@@ -53,7 +57,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "môi trường và cách nuôi dạy ảnh hưởng đến sự phát triển"
+        "meaningVi": "môi trường và cách nuôi dạy ảnh hưởng đến sự phát triển",
+        "example": "The researchers studied how nature and nurture shape a child's development.",
+        "exampleVi": "Các nhà nghiên cứu tìm hiểu cách yếu tố bẩm sinh và môi trường nuôi dưỡng định hình sự phát triển của trẻ."
       }
     ]
   },
@@ -99,7 +105,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "loài tổ tiên mà một loài khác tiến hóa từ đó"
+        "meaningVi": "loài tổ tiên mà một loài khác tiến hóa từ đó",
+        "example": "The fossil may represent an ancestor of several living species.",
+        "exampleVi": "Hóa thạch này có thể đại diện cho một loài tổ tiên của một số loài đang sống."
       }
     ]
   },
@@ -115,7 +123,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "nút nằm ở nhánh dưới một nút khác trong cấu trúc cây"
+        "meaningVi": "nút nằm ở nhánh dưới một nút khác trong cấu trúc cây",
+        "example": "A descendant node lies below its ancestor in the tree structure.",
+        "exampleVi": "Một nút hậu duệ nằm bên dưới nút tổ tiên của nó trong cấu trúc cây."
       }
     ]
   },
@@ -131,7 +141,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "thừa hưởng một đặc điểm từ cha mẹ qua di truyền"
+        "meaningVi": "thừa hưởng một đặc điểm từ cha mẹ qua di truyền",
+        "example": "Children may inherit certain physical traits from their parents.",
+        "exampleVi": "Trẻ có thể thừa hưởng một số đặc điểm thể chất từ cha mẹ qua di truyền."
       }
     ]
   },
@@ -147,7 +159,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "cảm giác gần gũi giữa những người không có họ hàng"
+        "meaningVi": "cảm giác gần gũi giữa những người không có họ hàng",
+        "example": "She felt an immediate kinship with people who shared her love of music.",
+        "exampleVi": "Cô lập tức cảm thấy gần gũi với những người cùng yêu âm nhạc."
       }
     ]
   },
@@ -163,7 +177,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "ly hôn với vợ hoặc chồng"
+        "meaningVi": "ly hôn với vợ hoặc chồng",
+        "example": "He decided to divorce his wife after years of separation.",
+        "exampleVi": "Anh quyết định ly hôn với vợ sau nhiều năm ly thân."
       }
     ]
   },
@@ -179,7 +195,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "việc chấp nhận và bắt đầu áp dụng một chính sách hoặc ý tưởng"
+        "meaningVi": "việc chấp nhận và bắt đầu áp dụng một chính sách hoặc ý tưởng",
+        "example": "The adoption of the new policy changed how applications were handled.",
+        "exampleVi": "Việc áp dụng chính sách mới đã thay đổi cách xử lý hồ sơ."
       }
     ]
   },
@@ -195,7 +213,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "khuyến khích một ý tưởng hoặc mối quan hệ phát triển"
+        "meaningVi": "khuyến khích một ý tưởng hoặc mối quan hệ phát triển",
+        "example": "The workshops aim to foster cooperation between local businesses.",
+        "exampleVi": "Các buổi hội thảo nhằm khuyến khích sự hợp tác giữa các doanh nghiệp địa phương."
       }
     ]
   },
@@ -211,7 +231,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "những người cao tuổi"
+        "meaningVi": "những người cao tuổi",
+        "example": "The center offers free transport for the elderly.",
+        "exampleVi": "Trung tâm cung cấp dịch vụ đưa đón miễn phí cho người cao tuổi."
       }
     ]
   },
@@ -227,7 +249,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "quan hệ thân mật về mặt tình dục"
+        "meaningVi": "quan hệ thân mật về mặt tình dục",
+        "example": "The couple discussed their expectations about sexual intimacy.",
+        "exampleVi": "Cặp đôi trao đổi về những mong muốn của họ trong quan hệ thân mật tình dục."
       }
     ]
   },
@@ -243,7 +267,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "làm hỏng thức ăn"
+        "meaningVi": "làm hỏng thức ăn",
+        "example": "Warm temperatures can spoil milk if it is left outside the refrigerator.",
+        "exampleVi": "Nhiệt độ ấm có thể làm hỏng sữa nếu để bên ngoài tủ lạnh."
       }
     ]
   },

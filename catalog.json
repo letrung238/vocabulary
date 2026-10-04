@@ -4,7 +4,7 @@
   "files": [
     {
       "title": "Bộ chính — thông dụng + công việc/IT",
-      "description": "600 từ A2–B2 và 400 thuật ngữ công việc/IT. 149 từ có nghĩa phụ.",
+      "description": "1.002 từ thông dụng và công việc/IT. 672 từ có nghĩa phụ.",
       "url": "seed_words.json",
       "count": 1002
     },
@@ -13,6 +13,18 @@
       "description": "Hệ phân tán, database, bảo mật, đồng thời, DevOps, observability. Không trùng bộ chính.",
       "url": "it_advanced.json",
       "count": 151
+    },
+    {
+      "title": "B2 · Giao tiếp & công việc · 500 từ mới",
+      "description": "500 từ mới không trùng các bộ hiện có; 264 từ có nghĩa/cách dùng phụ. Ví dụ Anh–Việt biên tập riêng, có sẵn offline trên Windows/Android.",
+      "url": "decks/b2-daily-work-500.json",
+      "count": 500
+    },
+    {
+      "title": "Giao tiếp & công việc · 498 từ trung cấp",
+      "description": "498 từ mới, tránh từ quá cơ bản và không trùng các bộ cũ. Nhãn nguồn B1/B2; 227 từ có nghĩa/cách dùng phụ, 818 ví dụ Anh–Việt; có sẵn offline trên Windows/Android.",
+      "url": "decks/daily-work-498.json",
+      "count": 498
     },
     {
       "title": "B2 · 1.000 từ mới",

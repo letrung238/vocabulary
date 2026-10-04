@@ -21,7 +21,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "sự đi chệch khỏi chủ đề hoặc lộ trình thông thường"
+        "meaningVi": "sự đi chệch khỏi chủ đề hoặc lộ trình thông thường",
+        "example": "The lecture included a brief excursion into the history of the idea.",
+        "exampleVi": "Bài giảng có một đoạn chuyển ngắn sang lịch sử của ý tưởng này."
       }
     ]
   },
@@ -57,7 +59,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "bước ngoặt quan trọng trong một quá trình"
+        "meaningVi": "bước ngoặt quan trọng trong một quá trình",
+        "example": "The discovery was a landmark in the development of modern medicine.",
+        "exampleVi": "Khám phá này là một bước ngoặt trong sự phát triển của y học hiện đại."
       }
     ]
   },
@@ -73,7 +77,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "ngành dịch vụ lưu trú và ăn uống"
+        "meaningVi": "ngành dịch vụ lưu trú và ăn uống",
+        "example": "She works in hospitality, managing a small hotel and its restaurant.",
+        "exampleVi": "Cô làm trong ngành dịch vụ lưu trú và ăn uống, quản lý một khách sạn nhỏ cùng nhà hàng của nó."
       }
     ]
   },
@@ -89,7 +95,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "sự điều tiết tiêu cự của mắt"
+        "meaningVi": "sự điều tiết tiêu cự của mắt",
+        "example": "Accommodation allows the eye to focus on objects at different distances.",
+        "exampleVi": "Sự điều tiết giúp mắt tập trung vào những vật ở các khoảng cách khác nhau."
       }
     ]
   },
@@ -105,7 +113,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "nơi ở tạm dành cho người vô gia cư hoặc cần hỗ trợ"
+        "meaningVi": "nơi ở tạm dành cho người vô gia cư hoặc cần hỗ trợ",
+        "example": "The charity opened a hostel for people who had lost their homes.",
+        "exampleVi": "Tổ chức từ thiện mở một nơi ở tạm cho những người đã mất nhà."
       }
     ]
   },
@@ -121,7 +131,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "buộc phải dùng đến một biện pháp"
+        "meaningVi": "buộc phải dùng đến một biện pháp",
+        "example": "We may have to resort to a paper map if the phone battery dies.",
+        "exampleVi": "Chúng tôi có thể phải dùng đến bản đồ giấy nếu điện thoại hết pin."
       }
     ]
   },
@@ -137,7 +149,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "mục tiêu cuối cùng mà một việc hướng tới"
+        "meaningVi": "mục tiêu cuối cùng mà một việc hướng tới",
+        "example": "For this project, our final destination is a fully accessible library.",
+        "exampleVi": "Đối với dự án này, mục tiêu cuối cùng của chúng tôi là một thư viện mà mọi người đều có thể tiếp cận."
       }
     ]
   },
@@ -163,7 +177,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "cấp thị thực vào hộ chiếu"
+        "meaningVi": "cấp thị thực vào hộ chiếu",
+        "example": "The consulate will visa the passport once the application has been approved.",
+        "exampleVi": "Lãnh sự quán sẽ cấp thị thực vào hộ chiếu khi hồ sơ đã được chấp thuận."
       }
     ]
   },
@@ -179,7 +195,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "tập quán lâu đời của một cộng đồng"
+        "meaningVi": "tập quán lâu đời của một cộng đồng",
+        "example": "Visitors should learn about local customs before attending the festival.",
+        "exampleVi": "Khách đến thăm nên tìm hiểu các tập quán địa phương trước khi tham dự lễ hội."
       }
     ]
   },
@@ -195,7 +213,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "sự đi chệch khỏi một kế hoạch hoặc thông lệ"
+        "meaningVi": "sự đi chệch khỏi một kế hoạch hoặc thông lệ",
+        "example": "The new design is a bold departure from the company's usual style.",
+        "exampleVi": "Thiết kế mới là một bước chuyển táo bạo khỏi phong cách thường lệ của công ty."
       }
     ]
   },
@@ -264,7 +284,9 @@
     "senses": [
       {
         "pos": "phrase",
-        "meaningVi": "khác với lựa chọn hoặc phương pháp thông thường"
+        "meaningVi": "khác với lựa chọn hoặc phương pháp thông thường",
+        "example": "Her approach to teaching is off the beaten track, using music to explain mathematics.",
+        "exampleVi": "Cách dạy của cô khác với phương pháp thông thường, dùng âm nhạc để giải thích toán học."
       }
     ]
   },

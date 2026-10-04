@@ -47,7 +47,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "việc theo dõi y tế liên tục để phát hiện bệnh"
+        "meaningVi": "việc theo dõi y tế liên tục để phát hiện bệnh",
+        "example": "Public health surveillance tracks patterns of illness across the population.",
+        "exampleVi": "Hoạt động giám sát y tế công cộng theo dõi các mô hình bệnh tật trong dân cư."
       }
     ]
   },
@@ -79,7 +81,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "sự yên tĩnh riêng tư khi không bị người khác làm phiền"
+        "meaningVi": "sự yên tĩnh riêng tư khi không bị người khác làm phiền",
+        "example": "She wanted the privacy of a quiet room where nobody would interrupt her.",
+        "exampleVi": "Cô muốn có sự riêng tư trong một căn phòng yên tĩnh nơi không ai làm phiền."
       }
     ]
   },
@@ -111,7 +115,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "việc giả vờ có một triệu chứng hoặc hành vi"
+        "meaningVi": "việc giả vờ có một triệu chứng hoặc hành vi",
+        "example": "The examiner considered whether the reported weakness was a simulation of a symptom.",
+        "exampleVi": "Người kiểm tra xem xét liệu sự yếu cơ được báo cáo có phải là việc giả vờ một triệu chứng hay không."
       }
     ]
   },
@@ -127,7 +133,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "máy thu thanh vô tuyến (cách gọi cũ)"
+        "meaningVi": "máy thu thanh vô tuyến (cách gọi cũ)",
+        "example": "My grandfather listened to the news on an old wireless.",
+        "exampleVi": "Ông tôi nghe tin tức bằng một chiếc máy thu thanh vô tuyến cũ."
       }
     ]
   },
@@ -143,7 +151,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "dữ liệu đo đặc điểm cơ thể dùng để nhận dạng"
+        "meaningVi": "dữ liệu đo đặc điểm cơ thể dùng để nhận dạng",
+        "example": "A fingerprint is a biometric that can be used to verify identity.",
+        "exampleVi": "Dấu vân tay là một dữ liệu sinh trắc học có thể dùng để xác minh danh tính."
       }
     ]
   },
@@ -169,7 +179,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "chương trình nhỏ thực hiện một chức năng trên màn hình"
+        "meaningVi": "chương trình nhỏ thực hiện một chức năng trên màn hình",
+        "example": "The desktop gadget displays the current weather in a small panel.",
+        "exampleVi": "Tiện ích nhỏ trên màn hình máy tính hiển thị thời tiết hiện tại trong một ô nhỏ."
       }
     ]
   },
@@ -185,7 +197,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "người mê tìm hiểu và thử nghiệm hệ thống máy tính"
+        "meaningVi": "người mê tìm hiểu và thử nghiệm hệ thống máy tính",
+        "example": "The young hacker enjoyed exploring old computers and improving their software.",
+        "exampleVi": "Người trẻ đam mê khám phá máy tính thích tìm hiểu những máy cũ và cải tiến phần mềm của chúng."
       }
     ]
   },
@@ -214,7 +228,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "sàng lọc để phát hiện bệnh"
+        "meaningVi": "sàng lọc để phát hiện bệnh",
+        "example": "The clinic will screen volunteers for signs of the disease.",
+        "exampleVi": "Phòng khám sẽ sàng lọc tình nguyện viên để tìm dấu hiệu của căn bệnh."
       }
     ]
   },
@@ -243,13 +259,15 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "quá trình khởi động máy tính hoặc động cơ"
+        "meaningVi": "quá trình khởi động máy tính hoặc động cơ",
+        "example": "The computer checks its memory during startup.",
+        "exampleVi": "Máy tính kiểm tra bộ nhớ trong quá trình khởi động."
       }
     ]
   },
   {
     "word": "upgrade",
-    "ipa": "/ˈəpˈɡreɪd/",
+    "ipa": "/ʌpˈɡreɪd/",
     "pos": "verb",
     "meaningVi": "nâng cấp lên bản mới",
     "example": "Users upgrade only when the old device stops working.",
@@ -259,7 +277,10 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "việc chuyển lên hạng ghế hoặc phòng cao hơn"
+        "meaningVi": "việc chuyển lên hạng ghế hoặc phòng cao hơn",
+        "example": "The airline offered us an upgrade to business class.",
+        "exampleVi": "Hãng hàng không đề nghị nâng hạng ghế của chúng tôi lên hạng thương gia.",
+        "ipa": "/ˈʌp.ɡreɪd/"
       }
     ]
   },
@@ -304,7 +325,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "cảm giác gắn kết giữa những người với nhau"
+        "meaningVi": "cảm giác gắn kết giữa những người với nhau",
+        "example": "The community center encourages social connectivity among older residents.",
+        "exampleVi": "Trung tâm cộng đồng khuyến khích sự gắn kết xã hội giữa những cư dân lớn tuổi."
       }
     ]
   },
@@ -333,7 +356,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "bề mặt tiếp xúc hoặc ranh giới giữa hai vật"
+        "meaningVi": "bề mặt tiếp xúc hoặc ranh giới giữa hai vật",
+        "example": "Tiny bubbles formed at the interface between the oil and water.",
+        "exampleVi": "Những bọt nhỏ hình thành tại bề mặt tiếp xúc giữa dầu và nước."
       }
     ]
   }

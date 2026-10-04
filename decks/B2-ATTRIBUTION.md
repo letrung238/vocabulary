@@ -27,6 +27,12 @@ Bản dịch ví dụ được tạo cục bộ với
 ([Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)) rồi rà soát/sửa
 các lỗi phát hiện được. Không phân phối trọng số mô hình trong dự án.
 
+Đợt ngữ cảnh B2 ngày 2026-10-03 bổ sung đủ 1.234 ví dụ nghĩa phụ và bản dịch,
+đọc lại toàn bộ bản dịch và sửa 346 câu. Sửa tám định nghĩa/cách dùng nguồn
+được ghi riêng tại `tools/curated-b2-corrections.json`, đối chiếu Merriam-Webster
+và Collins; không sao chép câu ví dụ của các từ điển này. Câu nghĩa chính
+của `densely` cũng được thay vì câu nguồn dùng sai ngữ cảnh.
+
 **Giấy phép cho riêng dữ liệu deck `b2-1000.json`:**
 [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
 Khi phân phối bản sửa đổi của deck, giữ ghi nguồn và phát hành dữ liệu phái sinh

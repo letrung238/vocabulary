@@ -11,7 +11,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "tài sản hoặc quyền lợi được thừa kế"
+        "meaningVi": "tài sản hoặc quyền lợi được thừa kế",
+        "example": "In the old legal document, the family farm is described as the son's heritage.",
+        "exampleVi": "Trong tài liệu pháp lý cũ, nông trại gia đình được mô tả là tài sản thừa kế của người con trai."
       }
     ]
   },
@@ -27,7 +29,9 @@
     "senses": [
       {
         "pos": "adjective",
-        "meaningVi": "thuộc về một nghi lễ"
+        "meaningVi": "thuộc về một nghi lễ",
+        "example": "The priest wore special clothes for the ritual dance.",
+        "exampleVi": "Vị tư tế mặc trang phục đặc biệt cho điệu múa nghi lễ."
       }
     ]
   },
@@ -63,7 +67,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "tiếp thu và hiểu một thông tin mới"
+        "meaningVi": "tiếp thu và hiểu một thông tin mới",
+        "example": "It takes time to assimilate so much new information.",
+        "exampleVi": "Cần có thời gian để tiếp thu lượng thông tin mới lớn như vậy."
       }
     ]
   },
@@ -99,7 +105,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "đẳng thức trong toán học luôn đúng với mọi giá trị"
+        "meaningVi": "đẳng thức trong toán học luôn đúng với mọi giá trị",
+        "example": "The equation is an identity because it holds for every permitted value of x.",
+        "exampleVi": "Phương trình là một đẳng thức đồng nhất vì nó đúng với mọi giá trị được phép của x."
       }
     ]
   },
@@ -115,7 +123,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "biến thể của một ngôn ngữ lập trình"
+        "meaningVi": "biến thể của một ngôn ngữ lập trình",
+        "example": "This database uses a dialect of SQL with several extra commands.",
+        "exampleVi": "Cơ sở dữ liệu này dùng một biến thể của SQL với một số lệnh bổ sung."
       }
     ]
   },
@@ -131,7 +141,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "phép tắc xã giao được tuân theo trong một dịp trang trọng"
+        "meaningVi": "phép tắc xã giao được tuân theo trong một dịp trang trọng",
+        "example": "The host welcomed us without ceremony and invited us straight to dinner.",
+        "exampleVi": "Chủ nhà đón chúng tôi không câu nệ lễ nghi và mời vào ăn tối ngay."
       }
     ]
   },
@@ -157,7 +169,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "ví dụ nổi bật nhắc người ta nhớ đến một thành tựu"
+        "meaningVi": "ví dụ nổi bật nhắc người ta nhớ đến một thành tựu",
+        "example": "The restored library is a monument to the town's commitment to education.",
+        "exampleVi": "Thư viện được phục hồi là một minh chứng nổi bật cho sự coi trọng giáo dục của thị trấn."
       }
     ]
   },
@@ -173,7 +187,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "hiện tượng giả xuất hiện do quá trình xử lý ảnh hoặc tín hiệu"
+        "meaningVi": "hiện tượng giả xuất hiện do quá trình xử lý ảnh hoặc tín hiệu",
+        "example": "The bright line in the scan was an artefact caused by processing the image.",
+        "exampleVi": "Vạch sáng trong ảnh quét là một hiện tượng giả do quá trình xử lý ảnh gây ra."
       }
     ]
   },
@@ -199,7 +215,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "quan điểm hoặc xu hướng chiếm ưu thế"
+        "meaningVi": "quan điểm hoặc xu hướng chiếm ưu thế",
+        "example": "The idea moved from a small activist group into the political mainstream.",
+        "exampleVi": "Ý tưởng chuyển từ một nhóm vận động nhỏ sang dòng quan điểm chính trị chủ đạo."
       }
     ]
   },
@@ -215,7 +233,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "gán đặc điểm rập khuôn cho một nhóm người"
+        "meaningVi": "gán đặc điểm rập khuôn cho một nhóm người",
+        "example": "It is unfair to stereotype all teenagers as careless.",
+        "exampleVi": "Thật không công bằng khi gán cho mọi thiếu niên đặc điểm rập khuôn là bất cẩn."
       }
     ]
   },
@@ -231,7 +251,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "gây bất lợi cho việc xem xét công bằng"
+        "meaningVi": "gây bất lợi cho việc xem xét công bằng",
+        "example": "Public comments about the case could prejudice a fair trial.",
+        "exampleVi": "Những bình luận công khai về vụ án có thể gây bất lợi cho việc xét xử công bằng."
       }
     ]
   },
@@ -247,7 +269,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "khả năng chịu được một loại thuốc hoặc chất"
+        "meaningVi": "khả năng chịu được một loại thuốc hoặc chất",
+        "example": "Repeated use can increase a person's tolerance to a drug.",
+        "exampleVi": "Việc sử dụng lặp lại có thể làm tăng khả năng dung nạp của một người đối với một loại thuốc."
       }
     ]
   },

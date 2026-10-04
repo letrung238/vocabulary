@@ -11,7 +11,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "phong trào bảo vệ quyền lợi người tiêu dùng"
+        "meaningVi": "phong trào bảo vệ quyền lợi người tiêu dùng",
+        "example": "Consumerism has encouraged clearer labels and stronger protections for buyers.",
+        "exampleVi": "Phong trào bảo vệ người tiêu dùng đã thúc đẩy việc ghi nhãn rõ ràng hơn và tăng cường bảo vệ người mua."
       }
     ]
   },
@@ -37,7 +39,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "mặc cả để đạt được giá hoặc điều kiện tốt hơn"
+        "meaningVi": "mặc cả để đạt được giá hoặc điều kiện tốt hơn",
+        "example": "You can bargain with the seller over the price of the bicycle.",
+        "exampleVi": "Bạn có thể mặc cả với người bán về giá chiếc xe đạp."
       }
     ]
   },
@@ -53,7 +57,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "một tập trong bộ phim hoặc câu chuyện nhiều kỳ"
+        "meaningVi": "một tập trong bộ phim hoặc câu chuyện nhiều kỳ",
+        "example": "The next instalment of the story will appear in Monday's newspaper.",
+        "exampleVi": "Phần tiếp theo của câu chuyện nhiều kỳ sẽ xuất hiện trên báo thứ Hai."
       }
     ]
   },
@@ -69,7 +75,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "đem tài sản thế chấp để vay tiền"
+        "meaningVi": "đem tài sản thế chấp để vay tiền",
+        "example": "They decided to mortgage their house to finance the new shop.",
+        "exampleVi": "Họ quyết định thế chấp nhà để tài trợ cho cửa hàng mới."
       }
     ]
   },
@@ -85,7 +93,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "ơn nghĩa hoặc nghĩa vụ tinh thần phải đáp lại"
+        "meaningVi": "ơn nghĩa hoặc nghĩa vụ tinh thần phải đáp lại",
+        "example": "I owe a debt of gratitude to the teacher who encouraged me.",
+        "exampleVi": "Tôi mang ơn người giáo viên đã khích lệ mình."
       }
     ]
   },
@@ -101,7 +111,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "việc tiêu tốn thời gian hoặc công sức"
+        "meaningVi": "việc tiêu tốn thời gian hoặc công sức",
+        "example": "The repairs required a considerable expenditure of time and effort.",
+        "exampleVi": "Việc sửa chữa đòi hỏi phải bỏ ra rất nhiều thời gian và công sức."
       }
     ]
   },
@@ -117,7 +129,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "chủ nghĩa duy vật trong triết học"
+        "meaningVi": "chủ nghĩa duy vật trong triết học",
+        "example": "Philosophical materialism regards matter as fundamental to reality.",
+        "exampleVi": "Chủ nghĩa duy vật trong triết học coi vật chất là nền tảng của thực tại."
       }
     ]
   },
@@ -133,7 +147,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "làm giả tiền hoặc hàng hóa"
+        "meaningVi": "làm giả tiền hoặc hàng hóa",
+        "example": "The criminals tried to counterfeit banknotes in a hidden workshop.",
+        "exampleVi": "Bọn tội phạm cố làm giả tiền giấy trong một xưởng bí mật."
       }
     ]
   },
@@ -159,7 +175,9 @@
     "senses": [
       {
         "pos": "adjective",
-        "meaningVi": "quá mức và thiếu tiết chế trong lời nói"
+        "meaningVi": "quá mức và thiếu tiết chế trong lời nói",
+        "example": "His extravagant claims about the product were unsupported by evidence.",
+        "exampleVi": "Những lời khẳng định quá mức của anh về sản phẩm không có bằng chứng hỗ trợ."
       }
     ]
   },

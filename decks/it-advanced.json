@@ -1,0 +1,1522 @@
+[
+  {
+    "word": "abstraction layer",
+    "ipa": "/æbˈstræk.ʃən ˈleɪ.ər/",
+    "pos": "noun",
+    "meaningVi": "lớp trừu tượng che chi tiết bên dưới",
+    "example": "Add one abstraction layer, not three.",
+    "exampleVi": "Thêm một lớp trừu tượng thôi, đừng ba lớp."
+  },
+  {
+    "word": "alert fatigue",
+    "ipa": "/əˈlɜːt fəˈtiːɡ/",
+    "pos": "noun",
+    "meaningVi": "chai lì vì cảnh báo quá nhiều",
+    "example": "Noisy alerts cause alert fatigue.",
+    "exampleVi": "Cảnh báo ồn ào gây ra tình trạng chai lì."
+  },
+  {
+    "word": "API gateway",
+    "ipa": "/ˌeɪ.piːˈaɪ ˈɡeɪt.weɪ/",
+    "pos": "noun",
+    "meaningVi": "cổng vào chung cho mọi API",
+    "example": "Auth happens at the API gateway.",
+    "exampleVi": "Việc xác thực diễn ra ở cổng API chung."
+  },
+  {
+    "word": "artifact registry",
+    "ipa": "/ˈɑː.tɪ.fækt ˈredʒ.ɪ.stri/",
+    "pos": "noun",
+    "meaningVi": "kho chứa bản build",
+    "example": "Push the image to the artifact registry.",
+    "exampleVi": "Đẩy image lên kho chứa bản build."
+  },
+  {
+    "word": "at-least-once",
+    "ipa": "/ət liːst wʌns/",
+    "pos": "adjective",
+    "meaningVi": "đảm bảo giao ít nhất một lần, có thể lặp",
+    "example": "Delivery is at-least-once, so handle duplicates.",
+    "exampleVi": "Tin được giao ít nhất một lần, nên phải xử lý trùng."
+  },
+  {
+    "word": "atomic",
+    "ipa": "/əˈtɒm.ɪk/",
+    "pos": "adjective",
+    "meaningVi": "trọn vẹn, không thể bị cắt ngang",
+    "example": "The update must be atomic.",
+    "exampleVi": "Lần cập nhật đó phải trọn vẹn, không được cắt ngang.",
+    "senses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "thuộc nguyên tử",
+        "example": "Atomic energy can generate electricity.",
+        "exampleVi": "Năng lượng nguyên tử có thể tạo ra điện."
+      }
+    ]
+  },
+  {
+    "word": "attack surface",
+    "ipa": "/əˈtæk ˈsɜː.fɪs/",
+    "pos": "noun",
+    "meaningVi": "bề mặt tấn công, chỗ kẻ xấu có thể chạm tới",
+    "example": "Closing that port shrinks the attack surface.",
+    "exampleVi": "Đóng cổng đó thu nhỏ bề mặt tấn công."
+  },
+  {
+    "word": "autoscaling",
+    "ipa": "/ˈɔː.təʊˌskeɪ.lɪŋ/",
+    "pos": "noun",
+    "meaningVi": "tự co giãn số máy theo tải",
+    "example": "Autoscaling added four nodes at noon.",
+    "exampleVi": "Cơ chế tự co giãn thêm bốn node lúc trưa."
+  },
+  {
+    "word": "backpressure",
+    "ipa": "/ˈbæk.preʃ.ər/",
+    "pos": "noun",
+    "meaningVi": "cơ chế ép bên gửi chậm lại",
+    "example": "The queue applies backpressure when full.",
+    "exampleVi": "Hàng đợi ép bên gửi chậm lại khi đầy."
+  },
+  {
+    "word": "backward compatibility",
+    "ipa": "/ˈbæk.wəd kəmˌpæt.əˈbɪl.ə.ti/",
+    "pos": "noun",
+    "meaningVi": "tương thích ngược với bản cũ",
+    "example": "Keep backward compatibility for one release.",
+    "exampleVi": "Giữ tương thích ngược thêm một bản phát hành."
+  },
+  {
+    "word": "blast radius",
+    "ipa": "/blɑːst ˈreɪ.di.əs/",
+    "pos": "noun",
+    "meaningVi": "phạm vi ảnh hưởng khi hỏng",
+    "example": "Feature flags shrink the blast radius.",
+    "exampleVi": "Cờ tính năng thu nhỏ phạm vi ảnh hưởng."
+  },
+  {
+    "word": "blue-green deployment",
+    "ipa": "/ˌbluː ɡriːn dɪˈplɔɪ.mənt/",
+    "pos": "noun",
+    "meaningVi": "triển khai hai môi trường song song rồi chuyển luồng",
+    "example": "Blue-green deployment let us switch back instantly.",
+    "exampleVi": "Triển khai song song cho phép chúng tôi quay lại tức thì."
+  },
+  {
+    "word": "boilerplate code",
+    "ipa": "/ˈbɔɪ.lə.pleɪt kəʊd/",
+    "pos": "noun",
+    "meaningVi": "code lặp khuôn mẫu",
+    "example": "The generator removes the boilerplate code.",
+    "exampleVi": "Bộ sinh code loại bỏ phần code lặp khuôn mẫu."
+  },
+  {
+    "word": "buffer overflow",
+    "ipa": "/ˈbʌf.ər ˈəʊ.və.fləʊ/",
+    "pos": "noun",
+    "meaningVi": "tràn bộ đệm, ghi quá vùng cấp phát",
+    "example": "The parser had a buffer overflow.",
+    "exampleVi": "Bộ phân tích đó có lỗi tràn bộ đệm."
+  },
+  {
+    "word": "build reproducibility",
+    "ipa": "/bɪld ˌriː.prəˌdjuː.səˈbɪl.ə.ti/",
+    "pos": "noun",
+    "meaningVi": "khả năng build ra kết quả giống hệt",
+    "example": "Pinned versions give build reproducibility.",
+    "exampleVi": "Ghim phiên bản giúp build ra kết quả giống hệt."
+  },
+  {
+    "word": "bulkhead",
+    "ipa": "/ˈbʌlk.hed/",
+    "pos": "noun",
+    "meaningVi": "vách ngăn tài nguyên để lỗi không lan",
+    "example": "Bulkheads keep one slow call from sinking the service.",
+    "exampleVi": "Vách ngăn giữ cho một lời gọi chậm không kéo sập cả dịch vụ.",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "vách ngăn bên trong tàu hoặc máy bay",
+        "example": "A steel bulkhead separates the ship's compartments.",
+        "exampleVi": "Một vách ngăn thép chia các khoang của tàu."
+      }
+    ]
+  },
+  {
+    "word": "cache hit ratio",
+    "ipa": "/kæʃ hɪt ˈreɪ.ʃi.əʊ/",
+    "pos": "noun",
+    "meaningVi": "tỉ lệ lấy được từ cache",
+    "example": "The cache hit ratio dropped to sixty percent.",
+    "exampleVi": "Tỉ lệ lấy được từ cache tụt xuống sáu mươi phần trăm."
+  },
+  {
+    "word": "cache invalidation",
+    "ipa": "/kæʃ ɪnˌvæl.ɪˈdeɪ.ʃən/",
+    "pos": "noun",
+    "meaningVi": "xoá cache cũ khi dữ liệu đổi",
+    "example": "Cache invalidation is the hard part.",
+    "exampleVi": "Xoá cache cũ mới là phần khó."
+  },
+  {
+    "word": "capacity headroom",
+    "ipa": "/kəˈpæs.ə.ti ˈhed.ruːm/",
+    "pos": "noun",
+    "meaningVi": "phần dư năng lực còn lại",
+    "example": "Keep thirty percent capacity headroom.",
+    "exampleVi": "Giữ lại ba mươi phần trăm năng lực dư."
+  },
+  {
+    "word": "cardinality",
+    "ipa": "/ˌkɑː.dɪˈnæl.ə.ti/",
+    "pos": "noun",
+    "meaningVi": "số lượng giá trị khác nhau",
+    "example": "High cardinality labels blow up the metric store.",
+    "exampleVi": "Nhãn có quá nhiều giá trị khác nhau làm phình kho số liệu."
+  },
+  {
+    "word": "certificate pinning",
+    "ipa": "/səˈtɪf.ɪ.kət ˈpɪn.ɪŋ/",
+    "pos": "noun",
+    "meaningVi": "ghim chứng chỉ để chống giả mạo",
+    "example": "Certificate pinning broke after the renewal.",
+    "exampleVi": "Việc ghim chứng chỉ hỏng sau khi gia hạn."
+  },
+  {
+    "word": "changelog entry",
+    "ipa": "/ˈtʃeɪndʒ.lɒɡ ˈen.tri/",
+    "pos": "noun",
+    "meaningVi": "mục ghi thay đổi của bản phát hành",
+    "example": "Every merge needs a changelog entry.",
+    "exampleVi": "Mỗi lần merge cần một mục ghi thay đổi."
+  },
+  {
+    "word": "chaos engineering",
+    "ipa": "/ˈkeɪ.ɒs ˌen.dʒɪˈnɪə.rɪŋ/",
+    "pos": "noun",
+    "meaningVi": "chủ động gây lỗi để thử sức chịu đựng",
+    "example": "Chaos engineering exposed the missing retry.",
+    "exampleVi": "Việc chủ động gây lỗi phơi ra chỗ thiếu cơ chế thử lại."
+  },
+  {
+    "word": "checkpointing",
+    "ipa": "/ˈtʃek.pɔɪn.tɪŋ/",
+    "pos": "noun",
+    "meaningVi": "lưu mốc để khôi phục nhanh",
+    "example": "Checkpointing every minute keeps recovery short.",
+    "exampleVi": "Lưu mốc mỗi phút giúp khôi phục nhanh."
+  },
+  {
+    "word": "circuit breaker",
+    "ipa": "/ˈsɜː.kɪt ˈbreɪ.kər/",
+    "pos": "noun",
+    "meaningVi": "cầu dao ngắt gọi dịch vụ đang hỏng",
+    "example": "The circuit breaker opened after ten failures.",
+    "exampleVi": "Cầu dao ngắt sau mười lần gọi lỗi.",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "cầu dao tự động ngắt điện khi có sự cố",
+        "example": "The circuit breaker cut the power to the damaged cable.",
+        "exampleVi": "Cầu dao tự động ngắt điện tới dây cáp bị hỏng."
+      }
+    ]
+  },
+  {
+    "word": "closure",
+    "ipa": "/ˈkləʊ.ʒər/",
+    "pos": "noun",
+    "meaningVi": "hàm giữ lại biến ở phạm vi ngoài",
+    "example": "The closure captured the wrong variable.",
+    "exampleVi": "Hàm đó giữ nhầm biến bên ngoài.",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sự đóng cửa hoặc chấm dứt hoạt động",
+        "example": "The factory closure left many workers without jobs.",
+        "exampleVi": "Việc đóng cửa nhà máy khiến nhiều công nhân mất việc."
+      }
+    ]
+  },
+  {
+    "word": "code smell",
+    "ipa": "/kəʊd smel/",
+    "pos": "noun",
+    "meaningVi": "dấu hiệu code có vấn đề",
+    "example": "A long parameter list is a code smell.",
+    "exampleVi": "Danh sách tham số quá dài là một dấu hiệu code có vấn đề."
+  },
+  {
+    "word": "cohesion",
+    "ipa": "/kəʊˈhiː.ʒən/",
+    "pos": "noun",
+    "meaningVi": "mức gắn kết bên trong một module",
+    "example": "High cohesion keeps modules readable.",
+    "exampleVi": "Gắn kết cao giúp module dễ đọc.",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sự đoàn kết, gắn bó của một nhóm",
+        "example": "Shared goals strengthened cohesion within the team.",
+        "exampleVi": "Mục tiêu chung củng cố sự đoàn kết trong đội."
+      }
+    ]
+  },
+  {
+    "word": "cold start",
+    "ipa": "/kəʊld stɑːt/",
+    "pos": "noun",
+    "meaningVi": "lần chạy đầu chậm do chưa sẵn sàng",
+    "example": "Cold start adds two seconds.",
+    "exampleVi": "Lần chạy đầu cộng thêm hai giây.",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "việc khởi động động cơ khi còn nguội",
+        "example": "The engine struggled during a cold start on a winter morning.",
+        "exampleVi": "Động cơ khó khởi động khi còn nguội vào một sáng mùa đông."
+      }
+    ]
+  },
+  {
+    "word": "columnar storage",
+    "ipa": "/kəˈlʌm.nər ˈstɔː.rɪdʒ/",
+    "pos": "noun",
+    "meaningVi": "lưu theo cột, hợp cho phân tích",
+    "example": "Columnar storage sped the aggregation up.",
+    "exampleVi": "Lưu theo cột giúp phép tổng hợp nhanh hẳn."
+  },
+  {
+    "word": "connection pool",
+    "ipa": "/kəˈnek.ʃən puːl/",
+    "pos": "noun",
+    "meaningVi": "bể kết nối dùng lại",
+    "example": "The connection pool was exhausted.",
+    "exampleVi": "Bể kết nối đã cạn."
+  },
+  {
+    "word": "consensus",
+    "ipa": "/kənˈsen.səs/",
+    "pos": "noun",
+    "meaningVi": "sự đồng thuận (giữa các node)",
+    "example": "The cluster reaches consensus before committing.",
+    "exampleVi": "Cụm máy đạt đồng thuận trước khi ghi nhận.",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sự nhất trí chung của một nhóm người",
+        "example": "The committee reached a consensus on the new policy.",
+        "exampleVi": "Ủy ban đạt được sự nhất trí về chính sách mới."
+      }
+    ]
+  },
+  {
+    "word": "consistent hashing",
+    "ipa": "/kənˈsɪs.tənt ˈhæʃ.ɪŋ/",
+    "pos": "noun",
+    "meaningVi": "băm nhất quán để chia lại ít dữ liệu",
+    "example": "Consistent hashing limits the reshuffle.",
+    "exampleVi": "Băm nhất quán hạn chế lượng dữ liệu phải chia lại."
+  },
+  {
+    "word": "correlation id",
+    "ipa": "/ˌkɒr.əˈleɪ.ʃən ˌaɪˈdiː/",
+    "pos": "noun",
+    "meaningVi": "mã nối các bản ghi của cùng một yêu cầu",
+    "example": "Log the correlation id everywhere.",
+    "exampleVi": "Ghi mã nối yêu cầu ở mọi nơi."
+  },
+  {
+    "word": "coupling",
+    "ipa": "/ˈkʌp.lɪŋ/",
+    "pos": "noun",
+    "meaningVi": "mức phụ thuộc lẫn nhau giữa các phần",
+    "example": "Tight coupling made the change risky.",
+    "exampleVi": "Phụ thuộc chặt khiến thay đổi trở nên rủi ro.",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "bộ phận nối hai chi tiết cơ khí",
+        "example": "The mechanic replaced the coupling between the two shafts.",
+        "exampleVi": "Thợ máy thay khớp nối giữa hai trục."
+      }
+    ]
+  },
+  {
+    "word": "coverage gap",
+    "ipa": "/ˈkʌv.ər.ɪdʒ ɡæp/",
+    "pos": "noun",
+    "meaningVi": "khoảng trống chưa được test phủ",
+    "example": "The report shows a coverage gap in auth.",
+    "exampleVi": "Báo cáo cho thấy phần xác thực còn khoảng trống chưa test."
+  },
+  {
+    "word": "cross-site scripting",
+    "ipa": "/ˌkrɒs.saɪt ˈskrɪp.tɪŋ/",
+    "pos": "noun",
+    "meaningVi": "chèn mã độc vào trang web",
+    "example": "Escape output to stop cross-site scripting.",
+    "exampleVi": "Thoát ký tự đầu ra để chặn chèn mã độc."
+  },
+  {
+    "word": "cyclomatic complexity",
+    "ipa": "/ˌsaɪ.kləˈmæt.ɪk kəmˈplek.sə.ti/",
+    "pos": "noun",
+    "meaningVi": "độ phức tạp theo số nhánh rẽ",
+    "example": "That function has high cyclomatic complexity.",
+    "exampleVi": "Hàm đó có độ phức tạp nhánh rẽ rất cao."
+  },
+  {
+    "word": "dangling pointer",
+    "ipa": "/ˈdæŋ.ɡlɪŋ ˈpɔɪn.tər/",
+    "pos": "noun",
+    "meaningVi": "con trỏ trỏ vào vùng đã giải phóng",
+    "example": "A dangling pointer caused the crash.",
+    "exampleVi": "Một con trỏ trỏ vào vùng đã giải phóng gây ra cú sập."
+  },
+  {
+    "word": "dark launch",
+    "ipa": "/dɑːk lɔːntʃ/",
+    "pos": "noun",
+    "meaningVi": "chạy ngầm chưa lộ cho người dùng",
+    "example": "We dark launched the new engine.",
+    "exampleVi": "Chúng tôi cho động cơ mới chạy ngầm trước."
+  },
+  {
+    "word": "dead letter queue",
+    "ipa": "/ded ˈlet.ər kjuː/",
+    "pos": "noun",
+    "meaningVi": "hàng đợi chứa tin xử lý thất bại",
+    "example": "Failed jobs land in the dead letter queue.",
+    "exampleVi": "Việc xử lý thất bại rơi vào hàng đợi tin hỏng."
+  },
+  {
+    "word": "debounce",
+    "ipa": "/dɪˈbaʊns/",
+    "pos": "verb",
+    "meaningVi": "gom nhiều lần gọi liên tiếp thành một",
+    "example": "Debounce the search box by 300 ms.",
+    "exampleVi": "Gom các lần gõ trong ô tìm kiếm lại sau 300 ms."
+  },
+  {
+    "word": "denormalize",
+    "ipa": "/ˌdiːˈnɔː.mə.laɪz/",
+    "pos": "verb",
+    "meaningVi": "gộp bảng lại để đọc nhanh hơn",
+    "example": "We denormalized the table to skip the join.",
+    "exampleVi": "Chúng tôi gộp bảng lại để bỏ được phép join."
+  },
+  {
+    "word": "dependency injection",
+    "ipa": "/dɪˈpen.dən.si ɪnˈdʒek.ʃən/",
+    "pos": "noun",
+    "meaningVi": "tiêm phụ thuộc từ ngoài vào",
+    "example": "Dependency injection made it testable.",
+    "exampleVi": "Việc tiêm phụ thuộc từ ngoài giúp nó kiểm thử được."
+  },
+  {
+    "word": "dependency pinning",
+    "ipa": "/dɪˈpen.dən.si ˈpɪn.ɪŋ/",
+    "pos": "noun",
+    "meaningVi": "ghim phiên bản thư viện",
+    "example": "Dependency pinning stopped the surprise upgrade.",
+    "exampleVi": "Ghim phiên bản chặn được cú nâng cấp bất ngờ."
+  },
+  {
+    "word": "deprecation notice",
+    "ipa": "/ˌdep.rəˈkeɪ.ʃən ˈnəʊ.tɪs/",
+    "pos": "noun",
+    "meaningVi": "thông báo sắp ngừng hỗ trợ",
+    "example": "Send the deprecation notice six months ahead.",
+    "exampleVi": "Gửi thông báo ngừng hỗ trợ trước sáu tháng."
+  },
+  {
+    "word": "dirty read",
+    "ipa": "/ˈdɜː.ti riːd/",
+    "pos": "noun",
+    "meaningVi": "đọc phải dữ liệu chưa commit",
+    "example": "A dirty read showed the wrong balance.",
+    "exampleVi": "Một lần đọc dữ liệu chưa commit cho ra số dư sai."
+  },
+  {
+    "word": "distributed tracing",
+    "ipa": "/dɪˈstrɪb.juː.tɪd ˈtreɪ.sɪŋ/",
+    "pos": "noun",
+    "meaningVi": "truy vết một yêu cầu qua nhiều dịch vụ",
+    "example": "Distributed tracing showed the slow hop.",
+    "exampleVi": "Truy vết xuyên dịch vụ chỉ ra chặng chậm."
+  },
+  {
+    "word": "drain",
+    "ipa": "/dreɪn/",
+    "pos": "verb",
+    "meaningVi": "rút hết việc còn lại trước khi tắt",
+    "example": "Drain the node before the upgrade.",
+    "exampleVi": "Rút hết việc khỏi node trước khi nâng cấp.",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "rút hoặc làm chảy hết chất lỏng",
+        "example": "Drain the water from the sink.",
+        "exampleVi": "Xả hết nước trong bồn rửa."
+      }
+    ]
+  },
+  {
+    "word": "drift",
+    "ipa": "/drɪft/",
+    "pos": "noun",
+    "meaningVi": "hạ tầng thực lệch khỏi khai báo",
+    "example": "The plan revealed config drift.",
+    "exampleVi": "Bản kế hoạch lộ ra phần cấu hình đã lệch.",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "trôi dạt theo gió hoặc dòng nước",
+        "example": "The small boat began to drift away from the shore.",
+        "exampleVi": "Chiếc thuyền nhỏ bắt đầu trôi xa bờ."
+      }
+    ]
+  },
+  {
+    "word": "eager loading",
+    "ipa": "/ˈiː.ɡər ˈləʊ.dɪŋ/",
+    "pos": "noun",
+    "meaningVi": "nạp sẵn trước khi dùng",
+    "example": "Eager loading fixed the N+1 query.",
+    "exampleVi": "Nạp sẵn trước đã sửa được lỗi truy vấn lặp."
+  },
+  {
+    "word": "edge",
+    "ipa": "/edʒ/",
+    "pos": "noun",
+    "meaningVi": "máy chủ biên, gần người dùng nhất",
+    "example": "The edge serves the file from Singapore.",
+    "exampleVi": "Máy chủ biên phục vụ file đó từ Singapore.",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "mép hoặc cạnh của một vật",
+        "example": "Do not place the glass near the edge of the table.",
+        "exampleVi": "Đừng đặt chiếc cốc gần mép bàn."
+      }
+    ]
+  },
+  {
+    "word": "encapsulation",
+    "ipa": "/ɪnˌkæp.sjuˈleɪ.ʃən/",
+    "pos": "noun",
+    "meaningVi": "đóng gói, giấu chi tiết bên trong",
+    "example": "Encapsulation hides the storage format.",
+    "exampleVi": "Việc đóng gói giấu đi định dạng lưu trữ.",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sự bao bọc một chất trong lớp vỏ hoặc viên nang",
+        "example": "Encapsulation protects the ingredient inside a thin coating.",
+        "exampleVi": "Việc bao bọc bảo vệ thành phần bên trong một lớp phủ mỏng."
+      }
+    ]
+  },
+  {
+    "word": "error budget",
+    "ipa": "/ˈer.ər ˈbʌdʒ.ɪt/",
+    "pos": "noun",
+    "meaningVi": "mức lỗi cho phép trong kỳ",
+    "example": "We burned the error budget in one outage.",
+    "exampleVi": "Chúng tôi đốt sạch mức lỗi cho phép chỉ trong một sự cố."
+  },
+  {
+    "word": "eventual consistency",
+    "ipa": "/ɪˈven.tʃu.əl kənˈsɪs.tən.si/",
+    "pos": "noun",
+    "meaningVi": "nhất quán sau một khoảng trễ",
+    "example": "The read replica offers eventual consistency.",
+    "exampleVi": "Bản sao đọc chỉ nhất quán sau một khoảng trễ."
+  },
+  {
+    "word": "exactly-once",
+    "ipa": "/ɪɡˈzækt.li wʌns/",
+    "pos": "adjective",
+    "meaningVi": "đảm bảo xử lý đúng một lần",
+    "example": "Exactly-once processing costs more.",
+    "exampleVi": "Xử lý đúng một lần tốn kém hơn."
+  },
+  {
+    "word": "exponential backoff",
+    "ipa": "/ˌek.spəˈnen.ʃəl ˈbæk.ɒf/",
+    "pos": "noun",
+    "meaningVi": "thử lại với khoảng chờ tăng dần",
+    "example": "Retry with exponential backoff and jitter.",
+    "exampleVi": "Thử lại với khoảng chờ tăng dần và có xê dịch ngẫu nhiên."
+  },
+  {
+    "word": "feature toggle",
+    "ipa": "/ˈfiː.tʃər ˈtɒɡ.əl/",
+    "pos": "noun",
+    "meaningVi": "công tắc bật tắt tính năng lúc chạy",
+    "example": "Hide it behind a feature toggle.",
+    "exampleVi": "Giấu nó sau một công tắc tính năng."
+  },
+  {
+    "word": "fixture",
+    "ipa": "/ˈfɪks.tʃər/",
+    "pos": "noun",
+    "meaningVi": "dữ liệu dựng sẵn cho test",
+    "example": "Load the fixture before each case.",
+    "exampleVi": "Nạp dữ liệu dựng sẵn trước mỗi ca kiểm thử.",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "vật được gắn cố định trong nhà hoặc công trình",
+        "example": "The plumber installed a new bathroom fixture.",
+        "exampleVi": "Thợ sửa ống nước lắp một thiết bị cố định mới trong phòng tắm."
+      }
+    ]
+  },
+  {
+    "word": "flaky test",
+    "ipa": "/ˈfleɪ.ki test/",
+    "pos": "noun",
+    "meaningVi": "test lúc đậu lúc rớt thất thường",
+    "example": "Quarantine the flaky test.",
+    "exampleVi": "Tách riêng cái test thất thường đó ra."
+  },
+  {
+    "word": "foreign key",
+    "ipa": "/ˈfɒr.ən kiː/",
+    "pos": "noun",
+    "meaningVi": "khoá ngoại",
+    "example": "Add a foreign key to the orders table.",
+    "exampleVi": "Thêm khoá ngoại vào bảng đơn hàng."
+  },
+  {
+    "word": "full table scan",
+    "ipa": "/fʊl ˈteɪ.bəl skæn/",
+    "pos": "noun",
+    "meaningVi": "quét toàn bộ bảng",
+    "example": "Without the index it does a full table scan.",
+    "exampleVi": "Không có index thì nó quét toàn bộ bảng."
+  },
+  {
+    "word": "gossip protocol",
+    "ipa": "/ˈɡɒs.ɪp ˈprəʊ.tə.kɒl/",
+    "pos": "noun",
+    "meaningVi": "giao thức lan tin giữa các node",
+    "example": "Nodes share state via a gossip protocol.",
+    "exampleVi": "Các node chia sẻ trạng thái qua giao thức lan tin."
+  },
+  {
+    "word": "graceful shutdown",
+    "ipa": "/ˈɡreɪs.fəl ˈʃʌt.daʊn/",
+    "pos": "noun",
+    "meaningVi": "tắt êm, xử lý nốt việc đang chạy",
+    "example": "Graceful shutdown drains the queue first.",
+    "exampleVi": "Tắt êm sẽ xử lý hết hàng đợi trước."
+  },
+  {
+    "word": "handshake",
+    "ipa": "/ˈhænd.ʃeɪk/",
+    "pos": "noun",
+    "meaningVi": "bắt tay thiết lập kết nối bảo mật",
+    "example": "The TLS handshake failed twice.",
+    "exampleVi": "Bước bắt tay TLS thất bại hai lần.",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "cái bắt tay khi chào hỏi hoặc thỏa thuận",
+        "example": "They greeted each other with a firm handshake.",
+        "exampleVi": "Họ chào nhau bằng một cái bắt tay chắc chắn."
+      }
+    ]
+  },
+  {
+    "word": "hashing",
+    "ipa": "/ˈhæʃ.ɪŋ/",
+    "pos": "noun",
+    "meaningVi": "băm dữ liệu thành chuỗi cố định",
+    "example": "Password hashing must be slow on purpose.",
+    "exampleVi": "Việc băm mật khẩu phải cố ý chậm."
+  },
+  {
+    "word": "heartbeat",
+    "ipa": "/ˈhɑːt.biːt/",
+    "pos": "noun",
+    "meaningVi": "tín hiệu báo còn sống định kỳ",
+    "example": "Miss three heartbeats and the node is dropped.",
+    "exampleVi": "Trượt ba tín hiệu báo sống là node bị loại.",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "nhịp đập của tim",
+        "example": "She could hear her own heartbeat in the quiet room.",
+        "exampleVi": "Cô ấy nghe được nhịp tim của mình trong căn phòng yên tĩnh."
+      }
+    ]
+  },
+  {
+    "word": "hot partition",
+    "ipa": "/hɒt pɑːˈtɪʃ.ən/",
+    "pos": "noun",
+    "meaningVi": "phân vùng bị dồn tải",
+    "example": "One hot partition slowed every write.",
+    "exampleVi": "Một phân vùng bị dồn tải làm chậm mọi lần ghi."
+  },
+  {
+    "word": "hotpath",
+    "ipa": "/ˈhɒt.pɑːθ/",
+    "pos": "noun",
+    "meaningVi": "đoạn code chạy nhiều nhất",
+    "example": "Do not allocate on the hotpath.",
+    "exampleVi": "Đừng cấp phát bộ nhớ trên đoạn code chạy nhiều nhất."
+  },
+  {
+    "word": "idempotency key",
+    "ipa": "/ˌaɪ.demˈpəʊ.tən.si kiː/",
+    "pos": "noun",
+    "meaningVi": "khoá chống xử lý trùng",
+    "example": "Send an idempotency key with every charge.",
+    "exampleVi": "Gửi kèm khoá chống trùng ở mỗi lần tính phí."
+  },
+  {
+    "word": "infrastructure as code",
+    "ipa": "/ˈɪn.frəˌstrʌk.tʃər əz kəʊd/",
+    "pos": "noun",
+    "meaningVi": "khai báo hạ tầng bằng file code",
+    "example": "Infrastructure as code made the rebuild repeatable.",
+    "exampleVi": "Khai báo hạ tầng bằng code giúp dựng lại y hệt."
+  },
+  {
+    "word": "injection",
+    "ipa": "/ɪnˈdʒek.ʃən/",
+    "pos": "noun",
+    "meaningVi": "chèn lệnh độc vào câu truy vấn",
+    "example": "Parameterized queries prevent injection.",
+    "exampleVi": "Truy vấn tham số hoá ngăn được chèn lệnh độc.",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "mũi tiêm; việc đưa thuốc vào cơ thể bằng kim tiêm",
+        "example": "The nurse gave him an injection.",
+        "exampleVi": "Y tá tiêm cho anh ấy một mũi."
+      }
+    ]
+  },
+  {
+    "word": "inversion of control",
+    "ipa": "/ɪnˈvɜː.ʃən əv kənˈtrəʊl/",
+    "pos": "noun",
+    "meaningVi": "đảo ngược quyền điều khiển",
+    "example": "The framework applies inversion of control.",
+    "exampleVi": "Framework đó áp dụng nguyên tắc đảo quyền điều khiển."
+  },
+  {
+    "word": "isolation level",
+    "ipa": "/ˌaɪ.səˈleɪ.ʃən ˈlev.əl/",
+    "pos": "noun",
+    "meaningVi": "mức cô lập giao dịch",
+    "example": "Raise the isolation level to avoid dirty reads.",
+    "exampleVi": "Nâng mức cô lập để tránh đọc dữ liệu bẩn."
+  },
+  {
+    "word": "jitter",
+    "ipa": "/ˈdʒɪt.ər/",
+    "pos": "noun",
+    "meaningVi": "xê dịch ngẫu nhiên để tránh dồn cục",
+    "example": "Jitter spreads the retries out.",
+    "exampleVi": "Xê dịch ngẫu nhiên giúp các lần thử lại giãn ra.",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "rung hoặc chuyển động nhanh, không đều",
+        "example": "The loose wheel began to jitter on the rough road.",
+        "exampleVi": "Bánh xe lỏng bắt đầu rung trên con đường gồ ghề."
+      }
+    ]
+  },
+  {
+    "word": "lag",
+    "ipa": "/læɡ/",
+    "pos": "noun",
+    "meaningVi": "độ trễ đồng bộ",
+    "example": "Replication lag hit nine seconds.",
+    "exampleVi": "Độ trễ đồng bộ lên tới chín giây.",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "tụt lại phía sau, tiến chậm hơn người khác",
+        "example": "The tired runner began to lag behind the group.",
+        "exampleVi": "Vận động viên mệt mỏi bắt đầu tụt lại phía sau nhóm."
+      }
+    ]
+  },
+  {
+    "word": "lazy loading",
+    "ipa": "/ˈleɪ.zi ˈləʊ.dɪŋ/",
+    "pos": "noun",
+    "meaningVi": "chỉ nạp khi thật sự cần",
+    "example": "Lazy loading trimmed the startup cost.",
+    "exampleVi": "Việc chỉ nạp khi cần giảm chi phí khởi động."
+  },
+  {
+    "word": "leader election",
+    "ipa": "/ˈliː.dər ɪˈlek.ʃən/",
+    "pos": "noun",
+    "meaningVi": "bầu node chủ",
+    "example": "Leader election took four seconds.",
+    "exampleVi": "Việc bầu node chủ mất bốn giây."
+  },
+  {
+    "word": "linting",
+    "ipa": "/ˈlɪn.tɪŋ/",
+    "pos": "noun",
+    "meaningVi": "soát lỗi và phong cách code tự động",
+    "example": "Linting runs before every commit.",
+    "exampleVi": "Việc soát code tự động chạy trước mỗi lần commit."
+  },
+  {
+    "word": "liveness probe",
+    "ipa": "/ˈlaɪv.nəs prəʊb/",
+    "pos": "noun",
+    "meaningVi": "phép thử xem tiến trình còn sống",
+    "example": "The liveness probe restarts stuck pods.",
+    "exampleVi": "Phép thử còn sống sẽ khởi động lại pod bị treo."
+  },
+  {
+    "word": "load balancer",
+    "ipa": "/ləʊd ˈbæl.ən.sər/",
+    "pos": "noun",
+    "meaningVi": "bộ cân bằng tải",
+    "example": "The load balancer drops unhealthy nodes.",
+    "exampleVi": "Bộ cân bằng tải loại các node không khoẻ."
+  },
+  {
+    "word": "log level",
+    "ipa": "/lɒɡ ˈlev.əl/",
+    "pos": "noun",
+    "meaningVi": "mức chi tiết của nhật ký",
+    "example": "Drop the log level to warn in production.",
+    "exampleVi": "Hạ mức nhật ký xuống warn khi chạy thật."
+  },
+  {
+    "word": "materialized view",
+    "ipa": "/məˈtɪə.ri.ə.laɪzd vjuː/",
+    "pos": "noun",
+    "meaningVi": "khung nhìn đã tính sẵn và lưu lại",
+    "example": "The report reads a materialized view.",
+    "exampleVi": "Báo cáo đọc từ một khung nhìn tính sẵn."
+  },
+  {
+    "word": "memoization",
+    "ipa": "/ˌmem.əʊ.aɪˈzeɪ.ʃən/",
+    "pos": "noun",
+    "meaningVi": "nhớ kết quả cũ để khỏi tính lại",
+    "example": "Memoization cut the render time in half.",
+    "exampleVi": "Việc nhớ kết quả cũ giảm một nửa thời gian dựng hình."
+  },
+  {
+    "word": "memory leak",
+    "ipa": "/ˈmem.ər.i liːk/",
+    "pos": "noun",
+    "meaningVi": "rò rỉ bộ nhớ, cấp mà không trả",
+    "example": "A memory leak crashed the worker nightly.",
+    "exampleVi": "Rò rỉ bộ nhớ làm tiến trình sập mỗi đêm."
+  },
+  {
+    "word": "message broker",
+    "ipa": "/ˈmes.ɪdʒ ˈbrəʊ.kər/",
+    "pos": "noun",
+    "meaningVi": "bên trung chuyển tin nhắn",
+    "example": "Kafka acts as the message broker.",
+    "exampleVi": "Kafka đóng vai bên trung chuyển tin nhắn."
+  },
+  {
+    "word": "microservice",
+    "ipa": "/ˈmaɪ.krəʊˌsɜː.vɪs/",
+    "pos": "noun",
+    "meaningVi": "dịch vụ nhỏ tách riêng",
+    "example": "Each microservice owns its database.",
+    "exampleVi": "Mỗi dịch vụ nhỏ sở hữu database riêng."
+  },
+  {
+    "word": "monolith",
+    "ipa": "/ˈmɒn.ə.lɪθ/",
+    "pos": "noun",
+    "meaningVi": "khối ứng dụng gộp chung",
+    "example": "We split the monolith last year.",
+    "exampleVi": "Chúng tôi tách khối gộp chung từ năm ngoái.",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "khối đá lớn nguyên khối",
+        "example": "An ancient monolith stands beside the path.",
+        "exampleVi": "Một khối đá cổ lớn đứng bên lối đi."
+      }
+    ]
+  },
+  {
+    "word": "mutex",
+    "ipa": "/ˈmjuː.teks/",
+    "pos": "noun",
+    "meaningVi": "khoá cho phép một luồng vào tại một thời điểm",
+    "example": "Guard the map with a mutex.",
+    "exampleVi": "Bảo vệ cái map đó bằng một khoá loại trừ."
+  },
+  {
+    "word": "N+1 query",
+    "ipa": "/en plʌs wʌn ˈkwɪə.ri/",
+    "pos": "noun",
+    "meaningVi": "lỗi truy vấn lặp cho từng dòng",
+    "example": "That loop hides an N+1 query.",
+    "exampleVi": "Vòng lặp đó giấu một lỗi truy vấn lặp từng dòng."
+  },
+  {
+    "word": "noisy neighbour",
+    "ipa": "/ˈnɔɪ.zi ˈneɪ.bər/",
+    "pos": "noun",
+    "meaningVi": "tenant ngốn tài nguyên làm ảnh hưởng bên khác",
+    "example": "A noisy neighbour slowed the whole host.",
+    "exampleVi": "Một tenant ngốn tài nguyên làm chậm cả máy chủ."
+  },
+  {
+    "word": "nonce",
+    "ipa": "/nɒns/",
+    "pos": "noun",
+    "meaningVi": "giá trị chỉ dùng một lần",
+    "example": "Each request carries a fresh nonce.",
+    "exampleVi": "Mỗi yêu cầu mang một giá trị dùng một lần mới.",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "thời điểm hiện tại (trong cụm for the nonce, cách dùng trang trọng hoặc cũ)",
+        "example": "For the nonce, we will keep the current arrangement.",
+        "exampleVi": "Tạm thời, chúng ta sẽ giữ cách sắp xếp hiện tại."
+      }
+    ]
+  },
+  {
+    "word": "normalization",
+    "ipa": "/ˌnɔː.mə.laɪˈzeɪ.ʃən/",
+    "pos": "noun",
+    "meaningVi": "chuẩn hoá cấu trúc bảng",
+    "example": "Normalization removed the duplicated columns.",
+    "exampleVi": "Việc chuẩn hoá loại bỏ các cột lặp.",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "việc đưa quan hệ hoặc tình trạng trở lại bình thường",
+        "example": "The talks led to the normalization of relations between the countries.",
+        "exampleVi": "Các cuộc đàm phán dẫn tới việc bình thường hóa quan hệ giữa các nước."
+      }
+    ]
+  },
+  {
+    "word": "optimistic locking",
+    "ipa": "/ˌɒp.tɪˈmɪs.tɪk ˈlɒk.ɪŋ/",
+    "pos": "noun",
+    "meaningVi": "khoá lạc quan, kiểm tra xung đột lúc ghi",
+    "example": "Optimistic locking uses a version column.",
+    "exampleVi": "Khoá lạc quan dùng một cột phiên bản."
+  },
+  {
+    "word": "origin server",
+    "ipa": "/ˈɒr.ɪ.dʒɪn ˈsɜː.vər/",
+    "pos": "noun",
+    "meaningVi": "máy chủ gốc phía sau CDN",
+    "example": "Only misses reach the origin server.",
+    "exampleVi": "Chỉ những lần trượt cache mới chạm tới máy chủ gốc."
+  },
+  {
+    "word": "paging",
+    "ipa": "/ˈpeɪ.dʒɪŋ/",
+    "pos": "noun",
+    "meaningVi": "gọi người trực dậy xử lý sự cố",
+    "example": "Stop paging for non-urgent warnings.",
+    "exampleVi": "Đừng gọi người trực vì những cảnh báo không gấp.",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "phân trang bộ nhớ; chuyển các trang dữ liệu giữa RAM và đĩa",
+        "example": "Paging moves memory pages between RAM and disk.",
+        "exampleVi": "Phân trang chuyển các trang bộ nhớ giữa RAM và đĩa."
+      }
+    ]
+  },
+  {
+    "word": "partition",
+    "ipa": "/pɑːˈtɪʃ.ən/",
+    "pos": "noun",
+    "meaningVi": "phân vùng dữ liệu",
+    "example": "Each partition holds one month of logs.",
+    "exampleVi": "Mỗi phân vùng chứa nhật ký của một tháng.",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "vách ngăn chia một căn phòng",
+        "example": "A wooden partition divides the office into two rooms.",
+        "exampleVi": "Một vách ngăn gỗ chia văn phòng thành hai phòng."
+      }
+    ]
+  },
+  {
+    "word": "penetration test",
+    "ipa": "/ˌpen.ɪˈtreɪ.ʃən test/",
+    "pos": "noun",
+    "meaningVi": "kiểm thử xâm nhập",
+    "example": "The penetration test found two issues.",
+    "exampleVi": "Đợt kiểm thử xâm nhập tìm ra hai vấn đề."
+  },
+  {
+    "word": "pessimistic locking",
+    "ipa": "/ˌpes.ɪˈmɪs.tɪk ˈlɒk.ɪŋ/",
+    "pos": "noun",
+    "meaningVi": "khoá bi quan, giữ khoá suốt giao dịch",
+    "example": "Pessimistic locking hurts throughput here.",
+    "exampleVi": "Khoá bi quan làm giảm thông lượng ở đây."
+  },
+  {
+    "word": "pipeline stage",
+    "ipa": "/ˈpaɪp.laɪn steɪdʒ/",
+    "pos": "noun",
+    "meaningVi": "chặng trong quy trình build",
+    "example": "The test pipeline stage failed.",
+    "exampleVi": "Chặng kiểm thử trong quy trình build thất bại."
+  },
+  {
+    "word": "polymorphism",
+    "ipa": "/ˌpɒl.iˈmɔː.fɪ.zəm/",
+    "pos": "noun",
+    "meaningVi": "đa hình, một lời gọi nhiều cách hiện thực",
+    "example": "Polymorphism removed the long switch.",
+    "exampleVi": "Tính đa hình loại bỏ được khối switch dài.",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sự tồn tại nhiều dạng hình thái trong cùng một loài (sinh học)",
+        "example": "The different shell colours illustrate polymorphism in this snail species.",
+        "exampleVi": "Các màu vỏ khác nhau minh họa tính đa hình ở loài ốc này."
+      }
+    ]
+  },
+  {
+    "word": "privilege escalation",
+    "ipa": "/ˈprɪv.əl.ɪdʒ ˌes.kəˈleɪ.ʃən/",
+    "pos": "noun",
+    "meaningVi": "leo thang chiếm quyền cao hơn",
+    "example": "The bug allowed privilege escalation.",
+    "exampleVi": "Lỗi đó cho phép leo thang chiếm quyền cao hơn."
+  },
+  {
+    "word": "profiling session",
+    "ipa": "/ˈprəʊ.faɪ.lɪŋ ˈseʃ.ən/",
+    "pos": "noun",
+    "meaningVi": "phiên đo hiệu năng chi tiết",
+    "example": "The profiling session blamed the JSON parser.",
+    "exampleVi": "Phiên đo hiệu năng chỉ đích danh bộ phân tích JSON."
+  },
+  {
+    "word": "property-based testing",
+    "ipa": "/ˈprɒp.ə.ti beɪst ˈtes.tɪŋ/",
+    "pos": "noun",
+    "meaningVi": "kiểm thử theo tính chất, sinh dữ liệu ngẫu nhiên",
+    "example": "Property-based testing found the edge case.",
+    "exampleVi": "Kiểm thử theo tính chất tìm ra ca biên đó."
+  },
+  {
+    "word": "publish-subscribe",
+    "ipa": "/ˈpʌb.lɪʃ səbˈskraɪb/",
+    "pos": "noun",
+    "meaningVi": "mô hình phát và đăng ký nhận",
+    "example": "Notifications use publish-subscribe.",
+    "exampleVi": "Thông báo dùng mô hình phát và đăng ký nhận."
+  },
+  {
+    "word": "pure function",
+    "ipa": "/pjʊə ˈfʌŋk.ʃən/",
+    "pos": "noun",
+    "meaningVi": "hàm thuần, cùng đầu vào cho cùng đầu ra",
+    "example": "A pure function is easy to test.",
+    "exampleVi": "Hàm thuần rất dễ kiểm thử."
+  },
+  {
+    "word": "purge",
+    "ipa": "/pɜːdʒ/",
+    "pos": "verb",
+    "meaningVi": "xoá sạch cache ở CDN",
+    "example": "Purge the CDN after each release.",
+    "exampleVi": "Xoá sạch cache CDN sau mỗi lần phát hành.",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "thanh trừng; loại bỏ người khỏi một tổ chức",
+        "example": "The leader tried to purge his opponents from the party.",
+        "exampleVi": "Người lãnh đạo tìm cách thanh trừng các đối thủ khỏi đảng."
+      }
+    ]
+  },
+  {
+    "word": "quorum",
+    "ipa": "/ˈkwɔː.rəm/",
+    "pos": "noun",
+    "meaningVi": "số node tối thiểu để quyết định",
+    "example": "Writes need a quorum of three nodes.",
+    "exampleVi": "Mỗi lần ghi cần đủ ba node tán thành.",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "số thành viên tối thiểu cần có để cuộc họp ra quyết định hợp lệ",
+        "example": "The committee cannot vote without a quorum.",
+        "exampleVi": "Ủy ban không thể biểu quyết nếu chưa đủ số thành viên tối thiểu."
+      }
+    ]
+  },
+  {
+    "word": "quota exhaustion",
+    "ipa": "/ˈkwəʊ.tə ɪɡˈzɔːs.tʃən/",
+    "pos": "noun",
+    "meaningVi": "cạn hạn mức được cấp",
+    "example": "Quota exhaustion blocked the nightly job.",
+    "exampleVi": "Việc cạn hạn mức chặn tác vụ chạy đêm."
+  },
+  {
+    "word": "race condition",
+    "ipa": "/reɪs kənˈdɪʃ.ən/",
+    "pos": "noun",
+    "meaningVi": "lỗi do hai luồng tranh nhau",
+    "example": "A race condition corrupted the counter.",
+    "exampleVi": "Một lỗi tranh chấp luồng làm hỏng bộ đếm."
+  },
+  {
+    "word": "read replica",
+    "ipa": "/riːd ˈrep.lɪ.kə/",
+    "pos": "noun",
+    "meaningVi": "bản sao chỉ để đọc",
+    "example": "Point analytics at the read replica.",
+    "exampleVi": "Trỏ phần phân tích vào bản sao chỉ đọc."
+  },
+  {
+    "word": "readiness probe",
+    "ipa": "/ˈred.i.nəs prəʊb/",
+    "pos": "noun",
+    "meaningVi": "phép thử xem đã sẵn sàng nhận tải chưa",
+    "example": "Traffic waits for the readiness probe.",
+    "exampleVi": "Lưu lượng chờ phép thử sẵn sàng."
+  },
+  {
+    "word": "reverse proxy",
+    "ipa": "/rɪˈvɜːs ˈprɒk.si/",
+    "pos": "noun",
+    "meaningVi": "máy chủ trung gian đứng trước backend",
+    "example": "Nginx runs as a reverse proxy here.",
+    "exampleVi": "Nginx ở đây đóng vai máy chủ trung gian."
+  },
+  {
+    "word": "round robin",
+    "ipa": "/ˌraʊnd ˈrɒb.ɪn/",
+    "pos": "noun",
+    "meaningVi": "chia lượt xoay vòng",
+    "example": "Requests are spread round robin.",
+    "exampleVi": "Yêu cầu được chia xoay vòng đều nhau.",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "giải đấu vòng tròn, mỗi người hoặc đội gặp tất cả đối thủ",
+        "example": "The teams will compete in a round robin before the final.",
+        "exampleVi": "Các đội sẽ thi đấu vòng tròn trước trận chung kết."
+      }
+    ]
+  },
+  {
+    "word": "runbook entry",
+    "ipa": "/ˈrʌn.bʊk ˈen.tri/",
+    "pos": "noun",
+    "meaningVi": "mục hướng dẫn xử lý sự cố",
+    "example": "Every alert needs a runbook entry.",
+    "exampleVi": "Mỗi cảnh báo cần một mục hướng dẫn xử lý."
+  },
+  {
+    "word": "saga",
+    "ipa": "/ˈsɑː.ɡə/",
+    "pos": "noun",
+    "meaningVi": "chuỗi giao dịch có bước hoàn tác",
+    "example": "The order flow is a saga with three steps.",
+    "exampleVi": "Luồng đặt hàng là một chuỗi giao dịch ba bước.",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "câu chuyện dài về nhiều sự kiện hoặc thế hệ",
+        "example": "The novel is a family saga spanning three generations.",
+        "exampleVi": "Cuốn tiểu thuyết là câu chuyện gia đình kéo dài qua ba thế hệ."
+      }
+    ]
+  },
+  {
+    "word": "salt",
+    "ipa": "/sɒlt/",
+    "pos": "noun",
+    "meaningVi": "chuỗi ngẫu nhiên thêm vào trước khi băm",
+    "example": "Store a unique salt per user.",
+    "exampleVi": "Lưu một chuỗi ngẫu nhiên riêng cho từng người dùng.",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "muối",
+        "example": "Add a pinch of salt.",
+        "exampleVi": "Thêm một nhúm muối."
+      }
+    ]
+  },
+  {
+    "word": "sanitization",
+    "ipa": "/ˌsæn.ɪ.taɪˈzeɪ.ʃən/",
+    "pos": "noun",
+    "meaningVi": "làm sạch dữ liệu đầu vào",
+    "example": "Input sanitization happens at the edge.",
+    "exampleVi": "Việc làm sạch đầu vào diễn ra ở lớp ngoài cùng.",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "việc làm sạch, khử khuẩn",
+        "example": "The kitchen closed briefly for sanitization.",
+        "exampleVi": "Nhà bếp đóng cửa trong thời gian ngắn để làm sạch và khử khuẩn."
+      }
+    ]
+  },
+  {
+    "word": "semantic versioning",
+    "ipa": "/sɪˈmæn.tɪk ˈvɜː.ʃən.ɪŋ/",
+    "pos": "noun",
+    "meaningVi": "đánh số phiên bản theo ý nghĩa thay đổi",
+    "example": "Semantic versioning signals breaking changes.",
+    "exampleVi": "Đánh số phiên bản theo ý nghĩa báo hiệu thay đổi gây vỡ."
+  },
+  {
+    "word": "semaphore",
+    "ipa": "/ˈsem.ə.fɔːr/",
+    "pos": "noun",
+    "meaningVi": "bộ đếm giới hạn số luồng vào cùng lúc",
+    "example": "A semaphore caps it at ten workers.",
+    "exampleVi": "Một bộ đếm giới hạn nó ở mười luồng.",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "hệ thống truyền tín hiệu bằng vị trí của cờ hoặc cánh tay",
+        "example": "The sailor sent a semaphore message using two flags.",
+        "exampleVi": "Thủy thủ truyền một thông điệp bằng tín hiệu cờ với hai lá cờ."
+      }
+    ]
+  },
+  {
+    "word": "service level objective",
+    "ipa": "/ˈsɜː.vɪs ˈlev.əl əbˈdʒek.tɪv/",
+    "pos": "noun",
+    "meaningVi": "mục tiêu chất lượng dịch vụ tự đặt",
+    "example": "Our service level objective is 99.9 percent.",
+    "exampleVi": "Mục tiêu chất lượng dịch vụ của chúng tôi là 99,9 phần trăm."
+  },
+  {
+    "word": "service mesh",
+    "ipa": "/ˈsɜː.vɪs meʃ/",
+    "pos": "noun",
+    "meaningVi": "lớp mạng chung giữa các dịch vụ",
+    "example": "The service mesh handles retries for us.",
+    "exampleVi": "Lớp mạng chung lo việc thử lại giúp chúng ta."
+  },
+  {
+    "word": "shadow traffic",
+    "ipa": "/ˈʃæd.əʊ ˈtræf.ɪk/",
+    "pos": "noun",
+    "meaningVi": "nhân bản lưu lượng thật để thử",
+    "example": "Shadow traffic exposed the memory issue.",
+    "exampleVi": "Lưu lượng nhân bản phơi ra vấn đề bộ nhớ."
+  },
+  {
+    "word": "side effect",
+    "ipa": "/ˈsaɪd ɪˌfekt/",
+    "pos": "noun",
+    "meaningVi": "tác dụng phụ ngoài giá trị trả về",
+    "example": "Keep the function free of side effects.",
+    "exampleVi": "Giữ cho hàm không có tác dụng phụ.",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "tác dụng phụ không mong muốn của thuốc hoặc phương pháp điều trị",
+        "example": "Drowsiness is a possible side effect of this medicine.",
+        "exampleVi": "Buồn ngủ là một tác dụng phụ có thể xảy ra của thuốc này."
+      }
+    ]
+  },
+  {
+    "word": "sidecar",
+    "ipa": "/ˈsaɪd.kɑːr/",
+    "pos": "noun",
+    "meaningVi": "container phụ chạy kèm container chính",
+    "example": "Logging runs in a sidecar.",
+    "exampleVi": "Việc ghi nhật ký chạy trong container phụ.",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "thùng xe gắn bên cạnh xe máy",
+        "example": "The passenger sat in the motorcycle's sidecar.",
+        "exampleVi": "Hành khách ngồi trong thùng xe bên cạnh xe máy."
+      }
+    ]
+  },
+  {
+    "word": "span",
+    "ipa": "/spæn/",
+    "pos": "noun",
+    "meaningVi": "một đoạn công việc trong truy vết",
+    "example": "That span took 900 milliseconds.",
+    "exampleVi": "Đoạn đó mất 900 mili giây.",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "khoảng thời gian kéo dài giữa hai mốc",
+        "example": "The project was completed over a span of six months.",
+        "exampleVi": "Dự án được hoàn thành trong khoảng thời gian sáu tháng."
+      }
+    ]
+  },
+  {
+    "word": "split-brain",
+    "ipa": "/ˌsplɪt ˈbreɪn/",
+    "pos": "noun",
+    "meaningVi": "tình trạng cụm tách đôi, hai bên cùng nhận mình là chủ",
+    "example": "A network glitch caused a split-brain.",
+    "exampleVi": "Một sự cố mạng gây ra tình trạng cụm tách đôi."
+  },
+  {
+    "word": "stack overflow",
+    "ipa": "/stæk ˈəʊ.və.fləʊ/",
+    "pos": "noun",
+    "meaningVi": "tràn ngăn xếp do đệ quy quá sâu",
+    "example": "Deep recursion caused a stack overflow.",
+    "exampleVi": "Đệ quy quá sâu gây tràn ngăn xếp."
+  },
+  {
+    "word": "stale data",
+    "ipa": "/steɪl ˈdeɪ.tə/",
+    "pos": "noun",
+    "meaningVi": "dữ liệu cũ chưa được làm mới",
+    "example": "Users saw stale data for an hour.",
+    "exampleVi": "Người dùng thấy dữ liệu cũ suốt một giờ."
+  },
+  {
+    "word": "starvation",
+    "ipa": "/stɑːˈveɪ.ʃən/",
+    "pos": "noun",
+    "meaningVi": "luồng bị bỏ đói, không tới lượt",
+    "example": "Low priority jobs suffered starvation.",
+    "exampleVi": "Các việc ưu tiên thấp bị bỏ đói.",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "tình trạng thiếu thức ăn nghiêm trọng; sự chết đói",
+        "example": "Food deliveries helped prevent starvation during the drought.",
+        "exampleVi": "Các chuyến giao thực phẩm giúp ngăn nạn đói trong đợt hạn hán."
+      }
+    ]
+  },
+  {
+    "word": "static analysis",
+    "ipa": "/ˈstæt.ɪk əˈnæl.ə.sɪs/",
+    "pos": "noun",
+    "meaningVi": "phân tích code mà không cần chạy",
+    "example": "Static analysis caught the null path.",
+    "exampleVi": "Phân tích tĩnh bắt được nhánh null đó."
+  },
+  {
+    "word": "strong consistency",
+    "ipa": "/strɒŋ kənˈsɪs.tən.si/",
+    "pos": "noun",
+    "meaningVi": "nhất quán tức thì",
+    "example": "Payments require strong consistency.",
+    "exampleVi": "Thanh toán đòi hỏi nhất quán tức thì."
+  },
+  {
+    "word": "structured logging",
+    "ipa": "/ˈstrʌk.tʃəd ˈlɒɡ.ɪŋ/",
+    "pos": "noun",
+    "meaningVi": "ghi nhật ký có cấu trúc, dễ truy vấn",
+    "example": "Structured logging made the search trivial.",
+    "exampleVi": "Ghi nhật ký có cấu trúc làm việc tìm kiếm dễ hẳn."
+  },
+  {
+    "word": "supply chain",
+    "ipa": "/səˈplaɪ tʃeɪn/",
+    "pos": "noun",
+    "meaningVi": "chuỗi cung ứng phần mềm",
+    "example": "Audit the software supply chain quarterly.",
+    "exampleVi": "Rà soát chuỗi cung ứng phần mềm mỗi quý.",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "chuỗi các đơn vị và công đoạn đưa hàng hóa tới người tiêu dùng",
+        "example": "A delay at the port disrupted the food supply chain.",
+        "exampleVi": "Sự chậm trễ ở cảng làm gián đoạn chuỗi cung ứng thực phẩm."
+      }
+    ]
+  },
+  {
+    "word": "tail latency",
+    "ipa": "/teɪl ˈleɪ.tən.si/",
+    "pos": "noun",
+    "meaningVi": "độ trễ ở nhóm chậm nhất",
+    "example": "Tail latency matters more than the average.",
+    "exampleVi": "Độ trễ nhóm chậm nhất quan trọng hơn giá trị trung bình."
+  },
+  {
+    "word": "test double",
+    "ipa": "/test ˈdʌb.əl/",
+    "pos": "noun",
+    "meaningVi": "vật thế thân trong kiểm thử",
+    "example": "Use a test double for the payment API.",
+    "exampleVi": "Dùng vật thế thân cho API thanh toán."
+  },
+  {
+    "word": "thread-safe",
+    "ipa": "/ˌθred ˈseɪf/",
+    "pos": "adjective",
+    "meaningVi": "an toàn khi nhiều luồng dùng chung",
+    "example": "This class is not thread-safe.",
+    "exampleVi": "Lớp này không an toàn khi nhiều luồng dùng chung."
+  },
+  {
+    "word": "threat model",
+    "ipa": "/θret ˈmɒd.əl/",
+    "pos": "noun",
+    "meaningVi": "mô hình mối đe doạ",
+    "example": "Write the threat model before coding.",
+    "exampleVi": "Viết mô hình mối đe doạ trước khi code."
+  },
+  {
+    "word": "throttling",
+    "ipa": "/ˈθrɒt.əl.ɪŋ/",
+    "pos": "noun",
+    "meaningVi": "bóp tốc độ để giữ hệ thống sống",
+    "example": "Throttling kicked in at a thousand requests.",
+    "exampleVi": "Cơ chế bóp tốc độ kích hoạt ở mức một nghìn yêu cầu.",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "hành động bóp cổ, siết cổ",
+        "example": "The detective investigated an attempted throttling.",
+        "exampleVi": "Thám tử điều tra một vụ mưu toan bóp cổ."
+      }
+    ]
+  },
+  {
+    "word": "throughput ceiling",
+    "ipa": "/ˈθruː.pʊt ˈsiː.lɪŋ/",
+    "pos": "noun",
+    "meaningVi": "trần thông lượng",
+    "example": "We hit the throughput ceiling at noon.",
+    "exampleVi": "Chúng tôi chạm trần thông lượng lúc trưa."
+  },
+  {
+    "word": "thundering herd",
+    "ipa": "/ˈθʌn.dər.ɪŋ hɜːd/",
+    "pos": "noun",
+    "meaningVi": "cả đàn cùng ập vào một lúc",
+    "example": "Cache expiry caused a thundering herd.",
+    "exampleVi": "Cache hết hạn cùng lúc gây ra cảnh cả đàn ập vào."
+  },
+  {
+    "word": "time to live",
+    "ipa": "/taɪm tuː lɪv/",
+    "pos": "noun",
+    "meaningVi": "thời gian sống của một bản ghi cache",
+    "example": "Set the time to live to five minutes.",
+    "exampleVi": "Đặt thời gian sống là năm phút."
+  },
+  {
+    "word": "toil",
+    "ipa": "/tɔɪl/",
+    "pos": "noun",
+    "meaningVi": "việc tay chân lặp đi lặp lại, đáng tự động hoá",
+    "example": "Automate the toil out of on-call.",
+    "exampleVi": "Tự động hoá bớt việc tay chân trong ca trực.",
+    "senses": [
+      {
+        "pos": "verb",
+        "meaningVi": "làm việc nặng nhọc trong thời gian dài",
+        "example": "They toil in the fields from dawn until sunset.",
+        "exampleVi": "Họ làm việc vất vả ngoài đồng từ bình minh đến hoàng hôn."
+      }
+    ]
+  },
+  {
+    "word": "token rotation",
+    "ipa": "/ˈtəʊ.kən rəʊˈteɪ.ʃən/",
+    "pos": "noun",
+    "meaningVi": "xoay vòng đổi token định kỳ",
+    "example": "Token rotation runs every thirty days.",
+    "exampleVi": "Việc xoay token chạy mỗi ba mươi ngày."
+  },
+  {
+    "word": "transitive dependency",
+    "ipa": "/ˈtræn.sə.tɪv dɪˈpen.dən.si/",
+    "pos": "noun",
+    "meaningVi": "thư viện phụ thuộc gián tiếp",
+    "example": "The flaw sits in a transitive dependency.",
+    "exampleVi": "Lỗ hổng nằm ở một thư viện phụ thuộc gián tiếp."
+  },
+  {
+    "word": "two-phase commit",
+    "ipa": "/ˌtuː feɪz kəˈmɪt/",
+    "pos": "noun",
+    "meaningVi": "cam kết hai pha giữa nhiều bên",
+    "example": "Two-phase commit blocks if the coordinator dies.",
+    "exampleVi": "Cam kết hai pha sẽ treo nếu bên điều phối chết."
+  },
+  {
+    "word": "vector clock",
+    "ipa": "/ˈvek.tər klɒk/",
+    "pos": "noun",
+    "meaningVi": "đồng hồ vector để xếp thứ tự sự kiện",
+    "example": "Vector clocks detect concurrent writes.",
+    "exampleVi": "Đồng hồ vector phát hiện các lần ghi song song."
+  },
+  {
+    "word": "warm-up",
+    "ipa": "/ˈwɔːm.ʌp/",
+    "pos": "noun",
+    "meaningVi": "giai đoạn làm nóng trước khi nhận tải",
+    "example": "Give the pool a short warm-up.",
+    "exampleVi": "Cho bể kết nối một khoảng làm nóng ngắn.",
+    "senses": [
+      {
+        "pos": "noun",
+        "meaningVi": "bài khởi động trước khi vận động hoặc thi đấu",
+        "example": "The players completed a short warm-up before the match.",
+        "exampleVi": "Các cầu thủ thực hiện bài khởi động ngắn trước trận đấu."
+      }
+    ]
+  },
+  {
+    "word": "write amplification",
+    "ipa": "/raɪt ˌæm.plɪ.fɪˈkeɪ.ʃən/",
+    "pos": "noun",
+    "meaningVi": "một lần ghi logic kéo theo nhiều lần ghi vật lý",
+    "example": "Write amplification wore the disks out early.",
+    "exampleVi": "Hiện tượng ghi nhân lên làm ổ đĩa hỏng sớm."
+  },
+  {
+    "word": "write-ahead log",
+    "ipa": "/raɪt əˈhed lɒɡ/",
+    "pos": "noun",
+    "meaningVi": "nhật ký ghi trước khi áp dụng",
+    "example": "Recovery replays the write-ahead log.",
+    "exampleVi": "Quá trình khôi phục chạy lại nhật ký ghi trước."
+  },
+  {
+    "word": "zero-day",
+    "ipa": "/ˌzɪə.rəʊ ˈdeɪ/",
+    "pos": "noun",
+    "meaningVi": "lỗ hổng chưa có bản vá",
+    "example": "A zero-day hit the library last night.",
+    "exampleVi": "Một lỗ hổng chưa có bản vá tấn công thư viện đó tối qua."
+  }
+]

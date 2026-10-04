@@ -32,7 +32,9 @@
     "senses": [
       {
         "pos": "adjective",
-        "meaningVi": "có thể gia hạn, như hợp đồng hoặc giấy phép"
+        "meaningVi": "có thể gia hạn, như hợp đồng hoặc giấy phép",
+        "example": "The company signed a renewable one-year lease.",
+        "exampleVi": "Công ty ký một hợp đồng thuê một năm có thể gia hạn."
       }
     ]
   },
@@ -51,7 +53,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "sự phát ra ánh sáng hoặc bức xạ"
+        "meaningVi": "sự phát ra ánh sáng hoặc bức xạ",
+        "example": "The instrument detects the emission of light from excited atoms.",
+        "exampleVi": "Thiết bị phát hiện sự phát sáng từ các nguyên tử ở trạng thái kích thích."
       }
     ]
   },
@@ -59,15 +63,17 @@
     "word": "carbon",
     "ipa": "/ˈkɑː.bən/",
     "pos": "noun",
-    "meaningVi": "các-bon",
-    "example": "Every flight adds carbon to the atmosphere.",
-    "exampleVi": "Mỗi chuyến bay thải thêm các-bon vào khí quyển.",
+    "meaningVi": "cacbon; nguyên tố hóa học có ký hiệu C",
+    "example": "Carbon is present in both diamond and graphite.",
+    "exampleVi": "Cacbon có trong cả kim cương và than chì.",
     "level": "B1",
     "topic": "environment",
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "nguyên tố hóa học có ký hiệu C"
+        "meaningVi": "giấy than; tờ giấy dùng để sao chép khi viết hoặc đánh máy",
+        "example": "Put a carbon between the two sheets before typing.",
+        "exampleVi": "Đặt một tờ giấy than giữa hai tờ giấy trước khi đánh máy."
       }
     ]
   },
@@ -140,7 +146,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "vật liệu được dùng để san lấp đất"
+        "meaningVi": "vật liệu được dùng để san lấp đất",
+        "example": "The builders used landfill to raise the level of the site.",
+        "exampleVi": "Thợ xây dùng vật liệu san lấp để nâng cao mặt bằng khu đất."
       }
     ]
   },
@@ -160,7 +168,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "lặp lại một ý tưởng hoặc câu chuyện cũ"
+        "meaningVi": "lặp lại một ý tưởng hoặc câu chuyện cũ",
+        "example": "The columnist tends to recycle the same joke in every article.",
+        "exampleVi": "Người viết chuyên mục thường dùng lại cùng một câu chuyện đùa trong mọi bài viết."
       }
     ]
   },
@@ -179,7 +189,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "nguyên lý bảo toàn một đại lượng vật lý"
+        "meaningVi": "nguyên lý bảo toàn một đại lượng vật lý",
+        "example": "The calculation relies on the conservation of energy.",
+        "exampleVi": "Phép tính dựa trên nguyên lý bảo toàn năng lượng."
       }
     ]
   },
@@ -198,7 +210,9 @@
     "senses": [
       {
         "pos": "adjective",
-        "meaningVi": "không còn hoạt động, như núi lửa đã tắt"
+        "meaningVi": "không còn hoạt động, như núi lửa đã tắt",
+        "example": "The geologist classified the volcano as extinct, with no expected future eruptions.",
+        "exampleVi": "Nhà địa chất xếp núi lửa này vào loại đã tắt, không được dự đoán sẽ phun trào trở lại."
       }
     ]
   },
@@ -234,7 +248,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "thời kỳ thiếu trầm trọng một nguồn lực"
+        "meaningVi": "thời kỳ thiếu trầm trọng một nguồn lực",
+        "example": "The small publisher faced a drought of new manuscripts.",
+        "exampleVi": "Nhà xuất bản nhỏ đối mặt với tình trạng thiếu trầm trọng bản thảo mới."
       }
     ]
   },
@@ -250,7 +266,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "sự thiếu hụt nghiêm trọng của một thứ cần thiết"
+        "meaningVi": "sự thiếu hụt nghiêm trọng của một thứ cần thiết",
+        "example": "Critics described the shortage of original ideas as a creative famine.",
+        "exampleVi": "Các nhà phê bình mô tả tình trạng thiếu ý tưởng độc đáo là một sự khan hiếm nghiêm trọng trong sáng tạo."
       }
     ]
   },
@@ -269,7 +287,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "sự suy giảm dần lòng tin hoặc quyền lực"
+        "meaningVi": "sự suy giảm dần lòng tin hoặc quyền lực",
+        "example": "The scandal caused a gradual erosion of public trust.",
+        "exampleVi": "Vụ bê bối khiến lòng tin của công chúng suy giảm dần."
       }
     ]
   },
@@ -295,7 +315,9 @@
     "senses": [
       {
         "pos": "adjective",
-        "meaningVi": "thuộc hiện tượng giữ nhiệt trong khí quyển, như khí nhà kính"
+        "meaningVi": "thuộc hiện tượng giữ nhiệt trong khí quyển, như khí nhà kính",
+        "example": "Greenhouse gases trap some of the heat that would otherwise escape into space.",
+        "exampleVi": "Khí nhà kính giữ lại một phần nhiệt vốn sẽ thoát ra không gian."
       }
     ]
   },
@@ -334,7 +356,9 @@
     "senses": [
       {
         "pos": "adjective",
-        "meaningVi": "có tác động tinh thần rất tiêu cực"
+        "meaningVi": "có tác động tinh thần rất tiêu cực",
+        "example": "She left the toxic workplace after months of bullying.",
+        "exampleVi": "Cô rời môi trường làm việc độc hại sau nhiều tháng bị bắt nạt."
       }
     ]
   },
@@ -360,7 +384,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "nguồn dự trữ của một thứ có thể dùng dần"
+        "meaningVi": "nguồn dự trữ của một thứ có thể dùng dần",
+        "example": "The volunteers brought a reservoir of experience to the project.",
+        "exampleVi": "Các tình nguyện viên mang đến cho dự án một nguồn kinh nghiệm dồi dào."
       }
     ]
   },
@@ -379,7 +405,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "việc rửa sạch vết thương bằng dòng dung dịch"
+        "meaningVi": "việc rửa sạch vết thương bằng dòng dung dịch",
+        "example": "The nurse prepared sterile fluid for wound irrigation.",
+        "exampleVi": "Y tá chuẩn bị dung dịch vô trùng để rửa vết thương."
       }
     ]
   },
@@ -448,7 +476,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "làm sai lệch bằng chứng hoặc kết quả nghiên cứu"
+        "meaningVi": "làm sai lệch bằng chứng hoặc kết quả nghiên cứu",
+        "example": "Leading questions can contaminate a witness's account of events.",
+        "exampleVi": "Những câu hỏi dẫn dắt có thể làm sai lệch lời kể của nhân chứng về sự kiện."
       }
     ]
   },
@@ -467,7 +497,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "phân hủy một chất thành các phần đơn giản hơn"
+        "meaningVi": "phân hủy một chất thành các phần đơn giản hơn",
+        "example": "Bacteria can degrade some organic compounds into simpler substances.",
+        "exampleVi": "Vi khuẩn có thể phân hủy một số hợp chất hữu cơ thành những chất đơn giản hơn."
       }
     ]
   },

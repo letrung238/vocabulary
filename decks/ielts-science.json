@@ -11,7 +11,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "nơi hoặc môi trường để thử nghiệm ý tưởng mới"
+        "meaningVi": "nơi hoặc môi trường để thử nghiệm ý tưởng mới",
+        "example": "The small theater became a laboratory for experimental performances.",
+        "exampleVi": "Nhà hát nhỏ trở thành một nơi thử nghiệm các ý tưởng biểu diễn mới."
       }
     ]
   },
@@ -27,7 +29,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "việc chọc thủng một rào cản vật lý"
+        "meaningVi": "việc chọc thủng một rào cản vật lý",
+        "example": "The troops achieved a breakthrough in the enemy's defensive line.",
+        "exampleVi": "Quân đội chọc thủng được tuyến phòng thủ của đối phương."
       }
     ]
   },
@@ -53,7 +57,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "tạo một bản sao giống bản gốc"
+        "meaningVi": "tạo một bản sao giống bản gốc",
+        "example": "The museum used a scanner to replicate the damaged sculpture.",
+        "exampleVi": "Bảo tàng dùng máy quét để tạo bản sao của bức tượng bị hư hại."
       }
     ]
   },
@@ -69,7 +75,9 @@
     "senses": [
       {
         "pos": "adjective",
-        "meaningVi": "có thể thay đổi theo hoàn cảnh"
+        "meaningVi": "có thể thay đổi theo hoàn cảnh",
+        "example": "The route takes us through an area with highly variable weather.",
+        "exampleVi": "Tuyến đường đưa chúng tôi qua một vùng có thời tiết thay đổi rất nhiều."
       }
     ]
   },
@@ -85,7 +93,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "ví dụ tiêu biểu của một loại người hoặc vật"
+        "meaningVi": "ví dụ tiêu biểu của một loại người hoặc vật",
+        "example": "The restored car is a fine specimen of early automotive design.",
+        "exampleVi": "Chiếc xe được phục hồi là một mẫu tiêu biểu đẹp của thiết kế ô tô thời kỳ đầu."
       }
     ]
   },
@@ -127,7 +137,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "việc đồng nghiệp góp ý hiệu quả công việc"
+        "meaningVi": "việc đồng nghiệp góp ý hiệu quả công việc",
+        "example": "The employee's peer review included suggestions from colleagues who had worked with her.",
+        "exampleVi": "Đánh giá đồng nghiệp dành cho nhân viên này bao gồm các góp ý từ những người từng làm việc cùng cô."
       }
     ]
   },

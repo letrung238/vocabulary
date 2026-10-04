@@ -52,7 +52,9 @@
     "senses": [
       {
         "pos": "adjective",
-        "meaningVi": "lan rộng như một dịch bệnh"
+        "meaningVi": "lan rộng như một dịch bệnh",
+        "example": "The report described epidemic levels of absenteeism across the schools.",
+        "exampleVi": "Báo cáo mô tả tình trạng nghỉ học lan rộng như dịch bệnh ở các trường."
       }
     ]
   },
@@ -68,7 +70,9 @@
     "senses": [
       {
         "pos": "adjective",
-        "meaningVi": "lan rộng trên nhiều quốc gia như một đại dịch"
+        "meaningVi": "lan rộng trên nhiều quốc gia như một đại dịch",
+        "example": "The response to pandemic influenza requires cooperation across national borders.",
+        "exampleVi": "Việc ứng phó với cúm lan thành đại dịch đòi hỏi sự hợp tác xuyên biên giới quốc gia."
       }
     ]
   },
@@ -88,7 +92,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "việc xác định nguyên nhân của một trục trặc"
+        "meaningVi": "việc xác định nguyên nhân của một trục trặc",
+        "example": "The mechanic's diagnosis of the engine fault saved us an unnecessary replacement.",
+        "exampleVi": "Việc thợ máy xác định nguyên nhân lỗi động cơ giúp chúng tôi tránh phải thay một bộ phận không cần thiết."
       }
     ]
   },
@@ -104,7 +110,9 @@
     "senses": [
       {
         "pos": "adjective",
-        "meaningVi": "lặp đi lặp lại thành thói quen xấu"
+        "meaningVi": "lặp đi lặp lại thành thói quen xấu",
+        "example": "His chronic lateness frustrated the rest of the team.",
+        "exampleVi": "Thói quen đến muộn lặp đi lặp lại của anh khiến cả đội bực bội."
       }
     ]
   },
@@ -124,7 +132,9 @@
     "senses": [
       {
         "pos": "adjective",
-        "meaningVi": "dễ lây sang người khác như tiếng cười"
+        "meaningVi": "dễ lây sang người khác như tiếng cười",
+        "example": "Her infectious laugh soon had everyone smiling.",
+        "exampleVi": "Tiếng cười dễ lan sang người khác của cô chẳng mấy chốc khiến mọi người đều mỉm cười."
       }
     ]
   },
@@ -143,7 +153,9 @@
     "senses": [
       {
         "pos": "adjective",
-        "meaningVi": "không bị tác động hoặc ảnh hưởng bởi điều gì"
+        "meaningVi": "không bị tác động hoặc ảnh hưởng bởi điều gì",
+        "example": "She seems immune to criticism and continues with her plan.",
+        "exampleVi": "Cô dường như không bị ảnh hưởng bởi những lời phê bình và tiếp tục kế hoạch của mình."
       }
     ]
   },
@@ -159,7 +171,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "dấu hiệu cho thấy một vấn đề sâu xa hơn"
+        "meaningVi": "dấu hiệu cho thấy một vấn đề sâu xa hơn",
+        "example": "The frequent delays are a symptom of deeper problems in the organization.",
+        "exampleVi": "Những lần chậm trễ thường xuyên là dấu hiệu của các vấn đề sâu xa hơn trong tổ chức."
       }
     ]
   },
@@ -175,7 +189,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "thói quen giữ an toàn và vệ sinh trong một lĩnh vực"
+        "meaningVi": "thói quen giữ an toàn và vệ sinh trong một lĩnh vực",
+        "example": "Good password hygiene includes avoiding the reuse of the same password.",
+        "exampleVi": "Thói quen giữ an toàn mật khẩu tốt bao gồm việc tránh dùng lại cùng một mật khẩu."
       }
     ]
   },
@@ -191,7 +207,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "hệ thống thu gom và xử lý nước thải"
+        "meaningVi": "hệ thống thu gom và xử lý nước thải",
+        "example": "The town invested in sanitation to collect and treat wastewater safely.",
+        "exampleVi": "Thị trấn đầu tư vào hệ thống vệ sinh để thu gom và xử lý nước thải an toàn."
       }
     ]
   },
@@ -224,7 +242,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "quy định yêu cầu phải làm một việc"
+        "meaningVi": "quy định yêu cầu phải làm một việc",
+        "example": "The rules include a strict prescription that every expense must have a receipt.",
+        "exampleVi": "Các quy tắc có một yêu cầu nghiêm ngặt là mọi khoản chi đều phải có biên lai."
       }
     ]
   },
@@ -244,7 +264,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "phòng khám của bác sĩ (cách dùng Anh-Anh)"
+        "meaningVi": "phòng khám của bác sĩ (cách dùng Anh-Anh)",
+        "example": "In Britain, you can call the doctor's surgery to book an appointment.",
+        "exampleVi": "Ở Anh, bạn có thể gọi phòng khám của bác sĩ để đặt lịch hẹn."
       }
     ]
   },
@@ -284,7 +306,9 @@
     "senses": [
       {
         "pos": "adjective",
-        "meaningVi": "sống cố định một chỗ, như một số sinh vật"
+        "meaningVi": "sống cố định một chỗ, như một số sinh vật",
+        "example": "The barnacle is a sedentary animal that remains attached to a surface.",
+        "exampleVi": "Hà biển là một loài động vật sống cố định, luôn bám vào một bề mặt."
       }
     ]
   },
@@ -300,7 +324,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "thời gian hoạt động của một sản phẩm hoặc thiết bị"
+        "meaningVi": "thời gian hoạt động của một sản phẩm hoặc thiết bị",
+        "example": "Regular maintenance can extend the lifespan of the printer.",
+        "exampleVi": "Việc bảo dưỡng thường xuyên có thể kéo dài thời gian sử dụng của máy in."
       }
     ]
   },
@@ -316,7 +342,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "tình trạng hữu hạn, không thể sống mãi"
+        "meaningVi": "tình trạng hữu hạn, không thể sống mãi",
+        "example": "The poem reflects on human mortality and the passing of time.",
+        "exampleVi": "Bài thơ suy ngẫm về thân phận hữu hạn của con người và dòng thời gian trôi qua."
       }
     ]
   },
@@ -332,7 +360,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "sự bùng phát đột ngột của bạo lực"
+        "meaningVi": "sự bùng phát đột ngột của bạo lực",
+        "example": "An outbreak of violence forced the market to close.",
+        "exampleVi": "Một đợt bạo lực bùng phát khiến chợ phải đóng cửa."
       }
     ]
   },
@@ -358,7 +388,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "biện pháp khắc phục theo pháp luật"
+        "meaningVi": "biện pháp khắc phục theo pháp luật",
+        "example": "The court considered whether damages were an adequate legal remedy.",
+        "exampleVi": "Tòa án xem xét liệu tiền bồi thường có phải là một biện pháp khắc phục pháp lý đầy đủ hay không."
       }
     ]
   },
@@ -377,7 +409,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "việc cải tạo một tòa nhà hoặc khu vực xuống cấp"
+        "meaningVi": "việc cải tạo một tòa nhà hoặc khu vực xuống cấp",
+        "example": "The rehabilitation of the abandoned warehouse created space for new apartments.",
+        "exampleVi": "Việc cải tạo nhà kho bị bỏ hoang tạo ra không gian cho các căn hộ mới."
       }
     ]
   },
@@ -403,7 +437,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "tuổi thọ sử dụng dài của một sản phẩm"
+        "meaningVi": "tuổi thọ sử dụng dài của một sản phẩm",
+        "example": "The manufacturer tested the battery's longevity under normal use.",
+        "exampleVi": "Nhà sản xuất kiểm tra tuổi thọ sử dụng của pin trong điều kiện thông thường."
       }
     ]
   },
@@ -422,7 +458,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "đầu nhụy của hoa"
+        "meaningVi": "đầu nhụy của hoa",
+        "example": "Pollen lands on the stigma at the top of the flower's pistil.",
+        "exampleVi": "Phấn hoa rơi lên đầu nhụy ở phần trên cùng của nhụy hoa."
       }
     ]
   }

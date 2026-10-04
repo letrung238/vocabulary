@@ -21,7 +21,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "việc giảng dạy hoặc chỉ dẫn"
+        "meaningVi": "việc giảng dạy hoặc chỉ dẫn",
+        "example": "She receives private tuition in mathematics twice a week.",
+        "exampleVi": "Cô được dạy kèm toán riêng hai lần mỗi tuần."
       }
     ]
   },
@@ -37,7 +39,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "trình độ nghiên cứu và học thuật"
+        "meaningVi": "trình độ nghiên cứu và học thuật",
+        "example": "The historian's scholarship is evident in the carefully documented book.",
+        "exampleVi": "Trình độ nghiên cứu của nhà sử học thể hiện rõ trong cuốn sách được dẫn chứng cẩn thận."
       }
     ]
   },
@@ -53,13 +57,15 @@
     "senses": [
       {
         "pos": "adjective",
-        "meaningVi": "thuộc bậc học trước khi tốt nghiệp đại học"
+        "meaningVi": "thuộc bậc học trước khi tốt nghiệp đại học",
+        "example": "The university offers several undergraduate courses in economics.",
+        "exampleVi": "Trường đại học cung cấp một số khóa học kinh tế ở bậc đại học."
       }
     ]
   },
   {
     "word": "postgraduate",
-    "ipa": "/ˈpəʊst.ɡrə.dju.eɪt/",
+    "ipa": "/ˌpəʊstˈɡrædʒ.u.ət/",
     "pos": "noun",
     "meaningVi": "học viên sau đại học",
     "example": "Most postgraduates fund their studies by teaching.",
@@ -69,7 +75,9 @@
     "senses": [
       {
         "pos": "adjective",
-        "meaningVi": "thuộc chương trình học sau đại học"
+        "meaningVi": "thuộc chương trình học sau đại học",
+        "example": "He is applying for a postgraduate program in engineering.",
+        "exampleVi": "Anh đang đăng ký một chương trình sau đại học về kỹ thuật."
       }
     ]
   },
@@ -85,7 +93,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "bài luận dài trình bày một luận điểm"
+        "meaningVi": "bài luận dài trình bày một luận điểm",
+        "example": "The philosopher published a dissertation on the meaning of justice.",
+        "exampleVi": "Nhà triết học công bố một bài luận dài về ý nghĩa của công lý."
       }
     ]
   },
@@ -114,7 +124,9 @@
     "senses": [
       {
         "pos": "adjective",
-        "meaningVi": "thuộc việc hướng dẫn học tập"
+        "meaningVi": "thuộc việc hướng dẫn học tập",
+        "example": "The tutorial sessions give students extra help with difficult topics.",
+        "exampleVi": "Các buổi hướng dẫn học tập hỗ trợ thêm cho sinh viên về những chủ đề khó."
       }
     ]
   },
@@ -130,7 +142,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "khóa học nhóm nhỏ có thảo luận thường xuyên"
+        "meaningVi": "khóa học nhóm nhỏ có thảo luận thường xuyên",
+        "example": "The semester-long seminar meets weekly to discuss recent research.",
+        "exampleVi": "Khóa học thảo luận kéo dài cả học kỳ tổ chức gặp hàng tuần để trao đổi về nghiên cứu mới."
       }
     ]
   },
@@ -159,7 +173,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "khả năng hiểu và sử dụng công nghệ số"
+        "meaningVi": "khả năng hiểu và sử dụng công nghệ số",
+        "example": "Digital literacy helps people recognize online scams and use technology safely.",
+        "exampleVi": "Năng lực số giúp mọi người nhận diện lừa đảo trên mạng và sử dụng công nghệ an toàn."
       }
     ]
   },
@@ -188,7 +204,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "lý do hoặc động cơ đằng sau một hành động"
+        "meaningVi": "lý do hoặc động cơ đằng sau một hành động",
+        "example": "Her main motivation for moving was to live closer to her family.",
+        "exampleVi": "Lý do chính khiến cô chuyển nhà là muốn sống gần gia đình hơn."
       }
     ]
   },
@@ -244,7 +262,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "đẩy khí hoặc chất lỏng ra khỏi một vật"
+        "meaningVi": "đẩy khí hoặc chất lỏng ra khỏi một vật",
+        "example": "The pump can expel air from the pipe before drawing in water.",
+        "exampleVi": "Máy bơm có thể đẩy không khí ra khỏi ống trước khi hút nước vào."
       }
     ]
   },
@@ -263,7 +283,7 @@
   },
   {
     "word": "graduate",
-    "ipa": "/ˈɡrædʒ.ə.weɪt/",
+    "ipa": "/ˈɡrædʒ.u.eɪt/",
     "pos": "verb",
     "meaningVi": "tốt nghiệp ra trường",
     "example": "Students graduate with debts their parents never had.",
@@ -276,7 +296,10 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "người đã tốt nghiệp"
+        "meaningVi": "người đã tốt nghiệp",
+        "example": "Each graduate received a certificate at the ceremony.",
+        "exampleVi": "Mỗi người tốt nghiệp nhận một giấy chứng nhận tại buổi lễ.",
+        "ipa": "/ˈɡrædʒ.u.ət/"
       }
     ]
   },
@@ -292,7 +315,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "âm thanh rít do loa thu lại tiếng từ chính nó"
+        "meaningVi": "âm thanh rít do loa thu lại tiếng từ chính nó",
+        "example": "A loud squeal of feedback came from the speakers when the microphone was moved too close.",
+        "exampleVi": "Một tiếng rít lớn do hồi tiếp vang lên từ loa khi micro bị đưa đến quá gần."
       }
     ]
   },
@@ -308,7 +333,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "số tiền được định để thu thuế hoặc phí"
+        "meaningVi": "số tiền được định để thu thuế hoặc phí",
+        "example": "The property owner challenged the new tax assessment.",
+        "exampleVi": "Chủ bất động sản phản đối khoản thuế mới được ấn định."
       }
     ]
   },
@@ -324,7 +351,9 @@
     "senses": [
       {
         "pos": "adjective",
-        "meaningVi": "nằm ngoài nhiệm vụ chính của một tổ chức"
+        "meaningVi": "nằm ngoài nhiệm vụ chính của một tổ chức",
+        "example": "The department's extracurricular charity work takes place outside its normal duties.",
+        "exampleVi": "Hoạt động từ thiện ngoài nhiệm vụ chính của phòng ban diễn ra bên ngoài công việc thường lệ."
       }
     ]
   },
@@ -340,7 +369,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "việc lên tàu hoặc máy bay"
+        "meaningVi": "việc lên tàu hoặc máy bay",
+        "example": "Boarding will begin twenty minutes before the flight departs.",
+        "exampleVi": "Việc lên máy bay sẽ bắt đầu hai mươi phút trước giờ cất cánh."
       }
     ]
   },
@@ -366,7 +397,9 @@
     "senses": [
       {
         "pos": "adjective",
-        "meaningVi": "đứng thứ ba trong một chuỗi"
+        "meaningVi": "đứng thứ ba trong một chuỗi",
+        "example": "The tertiary stage follows the primary and secondary stages in this process.",
+        "exampleVi": "Giai đoạn thứ ba theo sau giai đoạn thứ nhất và thứ hai trong quy trình này."
       }
     ]
   },

@@ -14,7 +14,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "việc chiêu mộ người vào quân đội"
+        "meaningVi": "việc chiêu mộ người vào quân đội",
+        "example": "The army began a recruitment campaign for new soldiers.",
+        "exampleVi": "Quân đội bắt đầu một chiến dịch tuyển mộ binh sĩ mới."
       }
     ]
   },
@@ -33,7 +35,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "người làm việc độc lập theo từng hợp đồng"
+        "meaningVi": "người làm việc độc lập theo từng hợp đồng",
+        "example": "The magazine hired a freelance to photograph the event.",
+        "exampleVi": "Tạp chí thuê một người làm việc tự do để chụp ảnh sự kiện."
       }
     ]
   },
@@ -65,7 +69,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "khả năng sinh trưởng hoặc tạo ra sản phẩm của đất"
+        "meaningVi": "khả năng sinh trưởng hoặc tạo ra sản phẩm của đất",
+        "example": "The farmer used compost to improve the productivity of the soil.",
+        "exampleVi": "Người nông dân dùng phân ủ để tăng năng suất của đất."
       }
     ]
   },
@@ -97,7 +103,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "giảm nhẹ một bản án"
+        "meaningVi": "giảm nhẹ một bản án",
+        "example": "The governor agreed to commute the prison sentence to a shorter term.",
+        "exampleVi": "Thống đốc đồng ý giảm nhẹ bản án tù xuống một thời hạn ngắn hơn."
       }
     ]
   },
@@ -113,7 +121,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "tiến hành một cuộc chiến hoặc chiến dịch"
+        "meaningVi": "tiến hành một cuộc chiến hoặc chiến dịch",
+        "example": "The organization will wage a campaign against illegal dumping.",
+        "exampleVi": "Tổ chức sẽ tiến hành một chiến dịch chống đổ rác trái phép."
       }
     ]
   },
@@ -129,7 +139,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "nhà trọ cung cấp chỗ ở và bữa ăn (cách dùng ở châu Âu)"
+        "meaningVi": "nhà trọ cung cấp chỗ ở và bữa ăn (cách dùng ở châu Âu)",
+        "example": "During our trip through Europe, we stayed in a small pension that served breakfast and dinner.",
+        "exampleVi": "Trong chuyến đi qua châu Âu, chúng tôi ở một nhà trọ nhỏ phục vụ cả bữa sáng lẫn bữa tối."
       }
     ]
   },
@@ -145,7 +157,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "trò chơi cờ tỷ phú Monopoly"
+        "meaningVi": "trò chơi cờ tỷ phú Monopoly",
+        "example": "The children played Monopoly and bought properties with paper money.",
+        "exampleVi": "Bọn trẻ chơi cờ tỷ phú Monopoly và mua bất động sản bằng tiền giấy."
       }
     ]
   },
@@ -161,7 +175,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "sự lùi dần của đường chân tóc"
+        "meaningVi": "sự lùi dần của đường chân tóc",
+        "example": "He noticed a gradual recession of his hairline over several years.",
+        "exampleVi": "Anh nhận thấy đường chân tóc của mình lùi dần trong nhiều năm."
       }
     ]
   },
@@ -177,7 +193,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "việc bơm hơi cho căng một vật"
+        "meaningVi": "việc bơm hơi cho căng một vật",
+        "example": "Inflation of the balloon took only a few breaths.",
+        "exampleVi": "Chỉ cần thổi vài hơi là quả bóng bay đã căng lên."
       }
     ]
   },
@@ -193,7 +211,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "lối sống giản dị và nghiêm khắc"
+        "meaningVi": "lối sống giản dị và nghiêm khắc",
+        "example": "The monk chose a life of austerity with few possessions and simple meals.",
+        "exampleVi": "Vị tu sĩ chọn một cuộc sống khắc khổ với ít đồ đạc và những bữa ăn giản dị."
       }
     ]
   },
@@ -212,7 +232,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "làm cho một người hoặc doanh nghiệp phá sản"
+        "meaningVi": "làm cho một người hoặc doanh nghiệp phá sản",
+        "example": "The lawsuit could bankrupt the small company.",
+        "exampleVi": "Vụ kiện có thể khiến công ty nhỏ phá sản."
       }
     ]
   },
@@ -228,7 +250,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "thời gian hoặc công sức bỏ vào một mục tiêu"
+        "meaningVi": "thời gian hoặc công sức bỏ vào một mục tiêu",
+        "example": "Learning a language requires an investment of time and effort.",
+        "exampleVi": "Học một ngôn ngữ đòi hỏi phải đầu tư thời gian và công sức."
       }
     ]
   },

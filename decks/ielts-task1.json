@@ -22,7 +22,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "chỗ đất dốc lên"
+        "meaningVi": "chỗ đất dốc lên",
+        "example": "The cottage stands on a slight rise above the river.",
+        "exampleVi": "Ngôi nhà nhỏ nằm trên một gò đất thoai thoải phía trên sông."
       }
     ]
   },
@@ -49,7 +51,10 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "mức tăng thêm so với trước"
+        "meaningVi": "mức tăng thêm so với trước",
+        "example": "The rent increase added fifty dollars to our monthly bill.",
+        "exampleVi": "Mức tăng tiền thuê làm hóa đơn hàng tháng của chúng tôi tăng thêm năm mươi đô la.",
+        "ipa": "/ˈɪn.kriːs/"
       }
     ]
   },
@@ -76,7 +81,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "trồng cây hoặc chăn nuôi để lấy sản phẩm"
+        "meaningVi": "trồng cây hoặc chăn nuôi để lấy sản phẩm",
+        "example": "We grow tomatoes and beans in the garden.",
+        "exampleVi": "Chúng tôi trồng cà chua và đậu trong vườn."
       }
     ]
   },
@@ -99,7 +106,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "đoạn đường dốc phải leo"
+        "meaningVi": "đoạn đường dốc phải leo",
+        "example": "The last climb to the village was steep and tiring.",
+        "exampleVi": "Đoạn đường leo cuối cùng lên làng dốc và mệt."
       }
     ]
   },
@@ -122,7 +131,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "bay vút lên cao như chim hoặc máy bay"
+        "meaningVi": "bay vút lên cao như chim hoặc máy bay",
+        "example": "We watched an eagle soar above the cliffs.",
+        "exampleVi": "Chúng tôi ngắm một con đại bàng bay vút trên các vách đá."
       }
     ]
   },
@@ -145,7 +156,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "dòng nước dâng mạnh"
+        "meaningVi": "dòng nước dâng mạnh",
+        "example": "A sudden surge of water swept across the lower deck.",
+        "exampleVi": "Một đợt nước dâng mạnh bất ngờ quét qua boong dưới."
       }
     ]
   },
@@ -168,7 +181,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "tên lửa"
+        "meaningVi": "tên lửa",
+        "example": "The rocket carried a satellite into orbit.",
+        "exampleVi": "Tên lửa đưa một vệ tinh vào quỹ đạo."
       }
     ]
   },
@@ -191,7 +206,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "cảnh cắt đột ngột trong phim"
+        "meaningVi": "cảnh cắt đột ngột trong phim",
+        "example": "A jump cut moves abruptly between two shots of the same subject.",
+        "exampleVi": "Một cú cắt nhảy chuyển đột ngột giữa hai cảnh quay của cùng một chủ thể."
       }
     ]
   },
@@ -214,7 +231,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "nhảy qua một khoảng cách bằng chân"
+        "meaningVi": "nhảy qua một khoảng cách bằng chân",
+        "example": "The child tried to leap across the narrow stream.",
+        "exampleVi": "Đứa trẻ cố nhảy qua con suối hẹp."
       }
     ]
   },
@@ -237,7 +256,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "mùa thu (cách gọi ở Bắc Mỹ)"
+        "meaningVi": "mùa thu (cách gọi ở Bắc Mỹ)",
+        "example": "In North America, many people call autumn fall.",
+        "exampleVi": "Ở Bắc Mỹ, nhiều người gọi mùa thu là fall."
       }
     ]
   },
@@ -260,7 +281,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "một giọt chất lỏng"
+        "meaningVi": "một giọt chất lỏng",
+        "example": "A drop of rain landed on the open book.",
+        "exampleVi": "Một giọt mưa rơi lên cuốn sách đang mở."
       }
     ]
   },
@@ -283,7 +306,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "lao mình xuống nước"
+        "meaningVi": "lao mình xuống nước",
+        "example": "The swimmers prepared to plunge into the cold lake.",
+        "exampleVi": "Những người bơi chuẩn bị lao mình xuống hồ lạnh."
       }
     ]
   },
@@ -306,7 +331,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "quả dọi dùng để kiểm tra phương thẳng đứng"
+        "meaningVi": "quả dọi dùng để kiểm tra phương thẳng đứng",
+        "example": "The builder used a plummet to check that the wall was vertical.",
+        "exampleVi": "Thợ xây dùng một quả dọi để kiểm tra xem bức tường có thẳng đứng hay không."
       }
     ]
   },
@@ -329,7 +356,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "chỗ trũng hoặc phần lõm xuống"
+        "meaningVi": "chỗ trũng hoặc phần lõm xuống",
+        "example": "Rainwater collected in a small dip in the road.",
+        "exampleVi": "Nước mưa đọng lại trong một chỗ trũng nhỏ trên đường."
       }
     ]
   },
@@ -352,7 +381,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "ngồi hoặc đứng với tư thế sụp xuống"
+        "meaningVi": "ngồi hoặc đứng với tư thế sụp xuống",
+        "example": "After the long shift, he began to slump in his chair.",
+        "exampleVi": "Sau ca làm việc dài, anh bắt đầu ngồi rũ xuống trên ghế."
       }
     ]
   },
@@ -396,7 +427,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "làm một vật đứng vững và không lung lay"
+        "meaningVi": "làm một vật đứng vững và không lung lay",
+        "example": "Use a wider base to stabilise the tall stand.",
+        "exampleVi": "Hãy dùng một đế rộng hơn để làm giá đỡ cao đứng vững."
       }
     ]
   },
@@ -419,7 +452,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "cao nguyên"
+        "meaningVi": "cao nguyên",
+        "example": "The village lies on a plateau above the valley.",
+        "exampleVi": "Ngôi làng nằm trên một cao nguyên phía trên thung lũng."
       }
     ]
   },
@@ -446,7 +481,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "đứng yên, không chảy như nước đọng"
+        "meaningVi": "đứng yên, không chảy như nước đọng",
+        "example": "Water can stagnate in a pond that has no outlet.",
+        "exampleVi": "Nước có thể đọng lại trong một ao không có lối thoát."
       }
     ]
   },
@@ -469,7 +506,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "đung đưa qua lại quanh một vị trí cân bằng"
+        "meaningVi": "đung đưa qua lại quanh một vị trí cân bằng",
+        "example": "The pendulum will oscillate around its resting position.",
+        "exampleVi": "Con lắc sẽ dao động quanh vị trí cân bằng của nó."
       }
     ]
   },
@@ -492,7 +531,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "đỉnh núi hoặc điểm cao nhất của một vật"
+        "meaningVi": "đỉnh núi hoặc điểm cao nhất của một vật",
+        "example": "Snow covered the peak of the mountain.",
+        "exampleVi": "Tuyết phủ đỉnh núi."
       }
     ]
   },
@@ -515,7 +556,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "máng cho gia súc ăn hoặc uống"
+        "meaningVi": "máng cho gia súc ăn hoặc uống",
+        "example": "The farmer filled the trough with fresh water for the cattle.",
+        "exampleVi": "Người nông dân đổ đầy nước sạch vào máng cho gia súc uống."
       }
     ]
   },
@@ -558,7 +601,9 @@
     "senses": [
       {
         "pos": "adjective",
-        "meaningVi": "thuộc về sân khấu hoặc kịch"
+        "meaningVi": "thuộc về sân khấu hoặc kịch",
+        "example": "The school offers a course in dramatic art and stage performance.",
+        "exampleVi": "Trường cung cấp một khóa học về nghệ thuật kịch và biểu diễn sân khấu."
       }
     ]
   },
@@ -584,7 +629,9 @@
     "senses": [
       {
         "pos": "adjective",
-        "meaningVi": "có lưỡi sắc có thể cắt"
+        "meaningVi": "có lưỡi sắc có thể cắt",
+        "example": "Be careful with the sharp edge of the knife.",
+        "exampleVi": "Hãy cẩn thận với lưỡi dao sắc."
       }
     ]
   },
@@ -610,7 +657,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "ngâm trong chất lỏng để chiết hương vị"
+        "meaningVi": "ngâm trong chất lỏng để chiết hương vị",
+        "example": "Let the tea leaves steep in hot water for a few minutes.",
+        "exampleVi": "Hãy để lá trà ngâm trong nước nóng trong vài phút."
       }
     ]
   },
@@ -656,7 +705,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "lời nói hoặc hành động xúc phạm nhẹ"
+        "meaningVi": "lời nói hoặc hành động xúc phạm nhẹ",
+        "example": "She regarded his refusal to greet her as a slight.",
+        "exampleVi": "Cô xem việc anh không chịu chào mình là một sự xúc phạm nhẹ."
       }
     ]
   },
@@ -682,7 +733,9 @@
     "senses": [
       {
         "pos": "adjective",
-        "meaningVi": "có độ dốc thoải, không dựng đứng"
+        "meaningVi": "có độ dốc thoải, không dựng đứng",
+        "example": "A gradual slope leads from the garden down to the lake.",
+        "exampleVi": "Một con dốc thoải dẫn từ khu vườn xuống hồ."
       }
     ]
   },
@@ -708,7 +761,9 @@
     "senses": [
       {
         "pos": "adjective",
-        "meaningVi": "đáng tin cậy và không thay đổi thất thường"
+        "meaningVi": "đáng tin cậy và không thay đổi thất thường",
+        "example": "He has been a steady friend through difficult times.",
+        "exampleVi": "Anh luôn là một người bạn đáng tin cậy qua những giai đoạn khó khăn."
       }
     ]
   },
@@ -734,7 +789,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "ghềnh có dòng nước chảy xiết"
+        "meaningVi": "ghềnh có dòng nước chảy xiết",
+        "example": "The guide warned us about a dangerous rapid farther down the river.",
+        "exampleVi": "Hướng dẫn viên cảnh báo chúng tôi về một ghềnh nước xiết nguy hiểm ở phía dưới dòng sông."
       }
     ]
   },
@@ -760,7 +817,9 @@
     "senses": [
       {
         "pos": "adjective",
-        "meaningVi": "dốc đứng hoặc gãy khúc đột ngột"
+        "meaningVi": "dốc đứng hoặc gãy khúc đột ngột",
+        "example": "The path ends at an abrupt drop beside the cliff.",
+        "exampleVi": "Con đường mòn kết thúc ở một chỗ dốc đứng đột ngột bên vách đá."
       }
     ]
   },
@@ -782,7 +841,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "trở thành xu hướng phổ biến"
+        "meaningVi": "trở thành xu hướng phổ biến",
+        "example": "A short video can trend online within a few hours.",
+        "exampleVi": "Một video ngắn có thể trở thành xu hướng trên mạng trong vài giờ."
       }
     ]
   },
@@ -836,7 +897,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "tuổi trưởng thành theo pháp luật"
+        "meaningVi": "tuổi trưởng thành theo pháp luật",
+        "example": "The trust releases the money when the beneficiary reaches majority.",
+        "exampleVi": "Quỹ tín thác trao tiền khi người thụ hưởng đến tuổi trưởng thành theo pháp luật."
       }
     ]
   },
@@ -858,7 +921,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "nhóm dân cư ít người hơn trong xã hội"
+        "meaningVi": "nhóm dân cư ít người hơn trong xã hội",
+        "example": "The policy aims to protect the rights of every ethnic minority.",
+        "exampleVi": "Chính sách nhằm bảo vệ quyền của mọi nhóm dân tộc thiểu số."
       }
     ]
   },
@@ -880,7 +945,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "một phân số trong toán học"
+        "meaningVi": "một phân số trong toán học",
+        "example": "Write three quarters as a fraction before converting it to a decimal.",
+        "exampleVi": "Hãy viết ba phần tư dưới dạng phân số trước khi đổi sang số thập phân."
       }
     ]
   },
@@ -902,7 +969,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "khoảng nghỉ giữa hai phần biểu diễn"
+        "meaningVi": "khoảng nghỉ giữa hai phần biểu diễn",
+        "example": "We bought refreshments during the interval between the two acts.",
+        "exampleVi": "Chúng tôi mua đồ ăn uống trong khoảng nghỉ giữa hai hồi kịch."
       }
     ]
   },
@@ -928,7 +997,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "sự lớn lên về kích thước của sinh vật"
+        "meaningVi": "sự lớn lên về kích thước của sinh vật",
+        "example": "Warm weather encouraged rapid growth in the young plants.",
+        "exampleVi": "Thời tiết ấm thúc đẩy cây non lớn lên nhanh chóng."
       }
     ]
   },
@@ -986,7 +1057,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "vượt qua một phương tiện trên đường"
+        "meaningVi": "vượt qua một phương tiện trên đường",
+        "example": "Wait for a clear view before trying to overtake the truck.",
+        "exampleVi": "Hãy chờ có tầm nhìn thoáng trước khi cố vượt xe tải."
       }
     ]
   },
@@ -1041,7 +1114,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "người đóng thế cho diễn viên"
+        "meaningVi": "người đóng thế cho diễn viên",
+        "example": "The actor's double performed the dangerous fall from the roof.",
+        "exampleVi": "Người đóng thế của diễn viên thực hiện cú ngã nguy hiểm từ mái nhà."
       }
     ]
   },
@@ -1063,7 +1138,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "bộ gồm ba thứ"
+        "meaningVi": "bộ gồm ba thứ",
+        "example": "The three numbers form a triple in the mathematical model.",
+        "exampleVi": "Ba số tạo thành một bộ ba trong mô hình toán học."
       }
     ]
   },
@@ -1085,7 +1162,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "bộ gồm bốn thứ"
+        "meaningVi": "bộ gồm bốn thứ",
+        "example": "The coordinates are stored as a quadruple of four numbers.",
+        "exampleVi": "Các tọa độ được lưu thành một bộ bốn số."
       }
     ]
   },
@@ -1107,7 +1186,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "cắt một vật thành hai nửa bằng nhau"
+        "meaningVi": "cắt một vật thành hai nửa bằng nhau",
+        "example": "Halve the apple and give one piece to each child.",
+        "exampleVi": "Hãy cắt đôi quả táo và cho mỗi đứa trẻ một nửa."
       }
     ]
   },
@@ -1150,7 +1231,9 @@
     "senses": [
       {
         "pos": "adverb",
-        "meaningVi": "một cách thô bạo hoặc không nhẹ nhàng"
+        "meaningVi": "một cách thô bạo hoặc không nhẹ nhàng",
+        "example": "The guard handled the bag roughly and broke the jar inside.",
+        "exampleVi": "Người bảo vệ xử lý chiếc túi thô bạo và làm vỡ lọ bên trong."
       }
     ]
   },
@@ -1173,7 +1256,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "bộ quần áo bảo hộ liền thân"
+        "meaningVi": "bộ quần áo bảo hộ liền thân",
+        "example": "He wore a protective overall while spraying paint.",
+        "exampleVi": "Anh mặc một bộ quần áo bảo hộ liền thân khi phun sơn."
       }
     ]
   }

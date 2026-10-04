@@ -11,7 +11,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "hệ thức toán học thể hiện hai vế không bằng nhau"
+        "meaningVi": "hệ thức toán học thể hiện hai vế không bằng nhau",
+        "example": "Solve the inequality to find all values of x greater than three.",
+        "exampleVi": "Hãy giải bất phương trình để tìm mọi giá trị của x lớn hơn ba."
       }
     ]
   },
@@ -27,7 +29,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "sự thiếu hụt trầm trọng một phẩm chất hoặc nguồn lực"
+        "meaningVi": "sự thiếu hụt trầm trọng một phẩm chất hoặc nguồn lực",
+        "example": "The essay revealed a poverty of imagination despite its many pages.",
+        "exampleVi": "Bài luận cho thấy sự nghèo nàn về trí tưởng tượng dù có nhiều trang."
       }
     ]
   },
@@ -46,7 +50,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "sự hỏng hoặc biến dạng của dữ liệu"
+        "meaningVi": "sự hỏng hoặc biến dạng của dữ liệu",
+        "example": "A power failure caused corruption of the file during saving.",
+        "exampleVi": "Sự cố mất điện khiến tệp bị hỏng trong khi lưu."
       }
     ]
   },
@@ -65,7 +71,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "hệ thống quan chức trong bộ máy hành chính"
+        "meaningVi": "hệ thống quan chức trong bộ máy hành chính",
+        "example": "The minister met senior members of the bureaucracy to discuss the reforms.",
+        "exampleVi": "Bộ trưởng gặp các quan chức cấp cao trong bộ máy hành chính để trao đổi về cải cách."
       }
     ]
   },
@@ -84,7 +92,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "cách ra quyết định dựa trên ý kiến của mọi thành viên"
+        "meaningVi": "cách ra quyết định dựa trên ý kiến của mọi thành viên",
+        "example": "The club practices democracy by letting every member vote on major decisions.",
+        "exampleVi": "Câu lạc bộ áp dụng cách quyết định dân chủ bằng việc cho mọi thành viên bỏ phiếu về các quyết định lớn."
       }
     ]
   },
@@ -116,7 +126,10 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "phản đối công khai một hành động hoặc quyết định"
+        "meaningVi": "phản đối công khai một hành động hoặc quyết định",
+        "example": "Residents plan to protest against the proposed road closure.",
+        "exampleVi": "Cư dân dự định phản đối công khai đề xuất đóng đường.",
+        "ipa": "/prəˈtest/"
       }
     ]
   },
@@ -132,7 +145,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "sự bùng nổ của màu sắc hoặc âm thanh"
+        "meaningVi": "sự bùng nổ của màu sắc hoặc âm thanh",
+        "example": "The garden was a riot of color in spring.",
+        "exampleVi": "Khu vườn ngập tràn màu sắc rực rỡ vào mùa xuân."
       }
     ]
   },
@@ -151,7 +166,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "điều đáng tiếc hoặc đáng xấu hổ"
+        "meaningVi": "điều đáng tiếc hoặc đáng xấu hổ",
+        "example": "It would be a crime to waste such delicious food.",
+        "exampleVi": "Lãng phí thức ăn ngon như vậy thì thật đáng tiếc."
       }
     ]
   },
@@ -170,7 +187,9 @@
     "senses": [
       {
         "pos": "adjective",
-        "meaningVi": "có tác dụng ngăn chặn bằng cách răn đe"
+        "meaningVi": "có tác dụng ngăn chặn bằng cách răn đe",
+        "example": "The warning signs may have a deterrent effect on illegal dumping.",
+        "exampleVi": "Các biển cảnh báo có thể có tác dụng răn đe đối với việc đổ rác trái phép."
       }
     ]
   },
@@ -186,7 +205,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "phục hồi danh dự hoặc uy tín cho một người"
+        "meaningVi": "phục hồi danh dự hoặc uy tín cho một người",
+        "example": "The new evidence helped rehabilitate the scientist's reputation.",
+        "exampleVi": "Bằng chứng mới giúp phục hồi danh tiếng của nhà khoa học."
       }
     ]
   },
@@ -216,7 +237,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "quyền chăm sóc con theo quyết định của tòa"
+        "meaningVi": "quyền chăm sóc con theo quyết định của tòa",
+        "example": "The court granted joint custody of the children to both parents.",
+        "exampleVi": "Tòa án trao quyền cùng chăm sóc các con cho cả cha lẫn mẹ."
       }
     ]
   },
@@ -232,13 +255,15 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "ý kiến kết luận của công chúng về một sự việc"
+        "meaningVi": "ý kiến kết luận của công chúng về một sự việc",
+        "example": "The public's verdict on the redesigned station was largely positive.",
+        "exampleVi": "Đánh giá chung của công chúng về nhà ga được thiết kế lại phần lớn là tích cực."
       }
     ]
   },
   {
     "word": "jury",
-    "ipa": "/ˈdʒɔː.ri/",
+    "ipa": "/ˈdʒʊə.ri/",
     "pos": "noun",
     "meaningVi": "bồi thẩm đoàn",
     "example": "The jury deliberated for less than an hour.",
@@ -248,7 +273,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "ban giám khảo của một cuộc thi"
+        "meaningVi": "ban giám khảo của một cuộc thi",
+        "example": "The competition jury selected three films for the final round.",
+        "exampleVi": "Ban giám khảo cuộc thi chọn ba bộ phim vào vòng cuối."
       }
     ]
   },
@@ -268,7 +295,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "tiếp tục thực hiện một kế hoạch một cách quyết liệt"
+        "meaningVi": "tiếp tục thực hiện một kế hoạch một cách quyết liệt",
+        "example": "The researchers intend to prosecute their investigation despite the funding cuts.",
+        "exampleVi": "Các nhà nghiên cứu dự định tiếp tục theo đuổi cuộc điều tra dù kinh phí bị cắt giảm."
       }
     ]
   },
@@ -297,7 +326,7 @@
   },
   {
     "word": "refugee",
-    "ipa": "/ˈref.juː.dʒiː/",
+    "ipa": "/ˌref.juˈdʒiː/",
     "pos": "noun",
     "meaningVi": "người tị nạn",
     "example": "The camp houses refugees from four separate conflicts.",
@@ -317,7 +346,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "khả năng nhận ra sự khác biệt rất nhỏ"
+        "meaningVi": "khả năng nhận ra sự khác biệt rất nhỏ",
+        "example": "The expert's discrimination between genuine and fake gems is remarkable.",
+        "exampleVi": "Khả năng phân biệt đá quý thật và giả của chuyên gia thật đáng chú ý."
       }
     ]
   },
@@ -373,7 +404,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "những người không có nhà ở"
+        "meaningVi": "những người không có nhà ở",
+        "example": "The shelter provides warm meals for the homeless.",
+        "exampleVi": "Nơi trú tạm cung cấp những bữa ăn nóng cho người không có nhà ở."
       }
     ]
   },
@@ -392,7 +425,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "lòng nhân ái đối với người khác"
+        "meaningVi": "lòng nhân ái đối với người khác",
+        "example": "She showed charity toward the young employee who had made a mistake.",
+        "exampleVi": "Cô thể hiện lòng nhân ái đối với nhân viên trẻ đã mắc lỗi."
       }
     ]
   },

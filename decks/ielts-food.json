@@ -21,7 +21,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "dập ghim để giữ các tờ giấy lại"
+        "meaningVi": "dập ghim để giữ các tờ giấy lại",
+        "example": "Staple the three pages together in the top corner.",
+        "exampleVi": "Hãy dập ghim ba trang lại với nhau ở góc trên."
       }
     ]
   },
@@ -37,7 +39,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "hợp chất hữu cơ"
+        "meaningVi": "hợp chất hữu cơ",
+        "example": "The chemist classified the compound as an organic because it belonged to the carbon-based group under study.",
+        "exampleVi": "Nhà hóa học phân loại chất này là một hợp chất hữu cơ vì nó thuộc nhóm chất dựa trên cacbon đang được nghiên cứu."
       }
     ]
   },
@@ -53,7 +57,9 @@
     "senses": [
       {
         "pos": "adjective",
-        "meaningVi": "đã được máy tính xử lý thành dữ liệu mới"
+        "meaningVi": "đã được máy tính xử lý thành dữ liệu mới",
+        "example": "The processed data is ready for the computer to display as a graph.",
+        "exampleVi": "Dữ liệu đã được xử lý sẵn sàng để máy tính hiển thị thành đồ thị."
       }
     ]
   },
@@ -69,7 +75,9 @@
     "senses": [
       {
         "pos": "adjective",
-        "meaningVi": "có tính chất cộng được trong toán học"
+        "meaningVi": "có tính chất cộng được trong toán học",
+        "example": "For an additive function, the value at a sum equals the sum of the values.",
+        "exampleVi": "Với một hàm có tính cộng được, giá trị tại một tổng bằng tổng của các giá trị tương ứng."
       }
     ]
   },
@@ -85,7 +93,9 @@
     "senses": [
       {
         "pos": "adjective",
-        "meaningVi": "giúp bảo quản một thứ khỏi hư hỏng"
+        "meaningVi": "giúp bảo quản một thứ khỏi hư hỏng",
+        "example": "Salt has a preservative effect that helps food last longer.",
+        "exampleVi": "Muối có tác dụng bảo quản giúp thức ăn giữ được lâu hơn."
       }
     ]
   },
@@ -101,7 +111,9 @@
     "senses": [
       {
         "pos": "adjective",
-        "meaningVi": "không chứa thịt, dùng cho món ăn"
+        "meaningVi": "không chứa thịt, dùng cho món ăn",
+        "example": "The café offers a vegetarian soup made with beans and vegetables.",
+        "exampleVi": "Quán cà phê phục vụ một món súp chay làm từ đậu và rau củ."
       }
     ]
   },
@@ -117,7 +129,9 @@
     "senses": [
       {
         "pos": "adjective",
-        "meaningVi": "không có nguyên liệu có nguồn gốc động vật"
+        "meaningVi": "không có nguyên liệu có nguồn gốc động vật",
+        "example": "The bakery makes a vegan cake without eggs, milk, or butter.",
+        "exampleVi": "Tiệm bánh làm một chiếc bánh thuần chay không dùng trứng, sữa hay bơ."
       }
     ]
   },
@@ -153,7 +167,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "phương pháp làm một việc để đạt kết quả mong muốn"
+        "meaningVi": "phương pháp làm một việc để đạt kết quả mong muốn",
+        "example": "Careful planning and patient practice are a recipe for success.",
+        "exampleVi": "Lập kế hoạch cẩn thận và luyện tập kiên nhẫn là công thức để thành công."
       }
     ]
   },
@@ -169,7 +185,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "nêm gia vị để tạo hương vị"
+        "meaningVi": "nêm gia vị để tạo hương vị",
+        "example": "Use fresh herbs to flavour the soup.",
+        "exampleVi": "Hãy dùng rau thơm tươi để tạo hương vị cho món súp."
       }
     ]
   },
@@ -185,7 +203,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "mong muốn mạnh mẽ với điều gì ngoài thức ăn"
+        "meaningVi": "mong muốn mạnh mẽ với điều gì ngoài thức ăn",
+        "example": "The audience showed a growing appetite for science documentaries.",
+        "exampleVi": "Khán giả thể hiện sự quan tâm ngày càng mạnh mẽ đối với phim tài liệu khoa học."
       }
     ]
   },
@@ -201,7 +221,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "chia thức ăn hoặc tài sản thành từng phần"
+        "meaningVi": "chia thức ăn hoặc tài sản thành từng phần",
+        "example": "Portion the soup into six bowls before adding the herbs.",
+        "exampleVi": "Hãy chia súp vào sáu bát trước khi thêm rau thơm."
       }
     ]
   },
@@ -217,7 +239,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "những thứ còn sót lại sau một hoạt động"
+        "meaningVi": "những thứ còn sót lại sau một hoạt động",
+        "example": "The design team used leftovers from earlier projects to build the display.",
+        "exampleVi": "Đội thiết kế dùng những vật liệu còn sót lại từ các dự án trước để làm phần trưng bày."
       }
     ]
   },
@@ -233,7 +257,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "thức ăn có thể dùng được"
+        "meaningVi": "thức ăn có thể dùng được",
+        "example": "In the survival exercise, each edible had to be identified before anyone could eat it.",
+        "exampleVi": "Trong bài tập sinh tồn, mỗi thứ có thể ăn được đều phải được nhận diện trước khi bất kỳ ai ăn nó."
       }
     ]
   },
@@ -249,7 +275,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "hàng hóa dễ hỏng nếu không được bảo quản"
+        "meaningVi": "hàng hóa dễ hỏng nếu không được bảo quản",
+        "example": "Milk is a perishable that needs proper refrigeration.",
+        "exampleVi": "Sữa là một loại hàng dễ hỏng cần được giữ lạnh đúng cách."
       }
     ]
   },
@@ -265,7 +293,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "điểm chính rút ra từ một cuộc thảo luận"
+        "meaningVi": "điểm chính rút ra từ một cuộc thảo luận",
+        "example": "The main takeaway from the meeting was that we need a clearer schedule.",
+        "exampleVi": "Điểm chính rút ra từ cuộc họp là chúng ta cần một lịch trình rõ ràng hơn."
       }
     ]
   },

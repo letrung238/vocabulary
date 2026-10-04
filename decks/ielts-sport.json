@@ -21,7 +21,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "sự tiếp tục tồn tại qua thời gian dài"
+        "meaningVi": "sự tiếp tục tồn tại qua thời gian dài",
+        "example": "The endurance of this tradition over centuries surprised the historians.",
+        "exampleVi": "Việc truyền thống này tiếp tục tồn tại qua nhiều thế kỷ khiến các nhà sử học ngạc nhiên."
       }
     ]
   },
@@ -47,7 +49,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "phản biện một bài báo khoa học"
+        "meaningVi": "phản biện một bài báo khoa học",
+        "example": "The editor asked two specialists to referee the scientific paper.",
+        "exampleVi": "Biên tập viên nhờ hai chuyên gia phản biện bài báo khoa học."
       }
     ]
   },
@@ -73,7 +77,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "cuộc đấu thương của hiệp sĩ thời trung cổ"
+        "meaningVi": "cuộc đấu thương của hiệp sĩ thời trung cổ",
+        "example": "The medieval tournament brought knights together for contests with lances.",
+        "exampleVi": "Cuộc đấu thương thời trung cổ quy tụ các hiệp sĩ thi đấu bằng giáo dài."
       }
     ]
   },
@@ -99,7 +105,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "người tham gia một hoạt động vì yêu thích thay vì được trả tiền"
+        "meaningVi": "người tham gia một hoạt động vì yêu thích thay vì được trả tiền",
+        "example": "As an amateur, she plays music for enjoyment rather than payment.",
+        "exampleVi": "Là người chơi nghiệp dư, cô chơi nhạc vì yêu thích thay vì để được trả tiền."
       }
     ]
   },
@@ -115,7 +123,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "việc thêm tạp chất vào chất bán dẫn"
+        "meaningVi": "việc thêm tạp chất vào chất bán dẫn",
+        "example": "Doping silicon with a small amount of another element changes its electrical properties.",
+        "exampleVi": "Việc pha một lượng nhỏ nguyên tố khác vào silic làm thay đổi tính chất điện của nó."
       }
     ]
   },
@@ -141,7 +151,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "việc tái tạo hoặc làm mới một vật"
+        "meaningVi": "việc tái tạo hoặc làm mới một vật",
+        "example": "The recreation of the lost mosaic used photographs taken before its destruction.",
+        "exampleVi": "Việc tái tạo bức tranh khảm đã mất sử dụng các ảnh chụp trước khi nó bị phá hủy."
       }
     ]
   },
@@ -167,7 +179,9 @@
     "senses": [
       {
         "pos": "adjective",
-        "meaningVi": "có giá hoặc chất lượng đủ sức cạnh tranh"
+        "meaningVi": "có giá hoặc chất lượng đủ sức cạnh tranh",
+        "example": "The shop offers competitive prices on office supplies.",
+        "exampleVi": "Cửa hàng đưa ra mức giá đủ sức cạnh tranh cho đồ dùng văn phòng."
       }
     ]
   },
@@ -213,7 +227,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "địa điểm xét xử một vụ án"
+        "meaningVi": "địa điểm xét xử một vụ án",
+        "example": "The lawyers asked the court to change the venue of the trial.",
+        "exampleVi": "Các luật sư yêu cầu tòa thay đổi địa điểm xét xử."
       }
     ]
   },
@@ -245,7 +261,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "cách cư xử công bằng trong mọi hoàn cảnh"
+        "meaningVi": "cách cư xử công bằng trong mọi hoàn cảnh",
+        "example": "Fair play means giving every applicant the same opportunity to explain their experience.",
+        "exampleVi": "Cư xử công bằng có nghĩa là cho mọi ứng viên cơ hội như nhau để trình bày kinh nghiệm."
       }
     ]
   },

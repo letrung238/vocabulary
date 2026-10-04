@@ -11,7 +11,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "sự ứ đọng máu hoặc dịch trong cơ thể"
+        "meaningVi": "sự ứ đọng máu hoặc dịch trong cơ thể",
+        "example": "The doctor examined the patient for signs of chest congestion.",
+        "exampleVi": "Bác sĩ kiểm tra bệnh nhân để tìm dấu hiệu ứ đọng dịch ở ngực."
       }
     ]
   },
@@ -27,7 +29,9 @@
     "senses": [
       {
         "pos": "adjective",
-        "meaningVi": "tẻ nhạt, thiếu sức tưởng tượng"
+        "meaningVi": "tẻ nhạt, thiếu sức tưởng tượng",
+        "example": "The critic found the novel's plot pedestrian and predictable.",
+        "exampleVi": "Nhà phê bình cho rằng cốt truyện của cuốn tiểu thuyết tẻ nhạt và dễ đoán."
       }
     ]
   },
@@ -63,7 +67,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "xoay xở hoặc tiến triển trong một hoàn cảnh"
+        "meaningVi": "xoay xở hoặc tiến triển trong một hoàn cảnh",
+        "example": "How did your team fare in the final round?",
+        "exampleVi": "Đội của bạn thi đấu ra sao ở vòng cuối?"
       }
     ]
   },
@@ -79,7 +85,9 @@
     "senses": [
       {
         "pos": "verb",
-        "meaningVi": "đổ chuông chậm từng tiếng"
+        "meaningVi": "đổ chuông chậm từng tiếng",
+        "example": "The church bells toll slowly at the start of the memorial service.",
+        "exampleVi": "Chuông nhà thờ ngân chậm từng tiếng khi buổi lễ tưởng niệm bắt đầu."
       }
     ]
   },
@@ -95,7 +103,9 @@
     "senses": [
       {
         "pos": "noun",
-        "meaningVi": "tình trạng bế tắc không bên nào nhượng bộ"
+        "meaningVi": "tình trạng bế tắc không bên nào nhượng bộ",
+        "example": "Political gridlock prevented the two parties from agreeing on a budget.",
+        "exampleVi": "Tình trạng bế tắc chính trị khiến hai đảng không thể thống nhất ngân sách."
       }
     ]
   },
@@ -121,7 +131,9 @@
     "senses": [
       {
         "pos": "adjective",
-        "meaningVi": "phục vụ người đi làm hằng ngày như tàu hoặc tuyến đường"
+        "meaningVi": "phục vụ người đi làm hằng ngày như tàu hoặc tuyến đường",
+        "example": "The new commuter train connects the suburbs to the city center.",
+        "exampleVi": "Tuyến tàu mới phục vụ người đi làm kết nối vùng ngoại ô với trung tâm thành phố."
       }
     ]
   },
