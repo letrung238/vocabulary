@@ -27,6 +27,12 @@
       "count": 498
     },
     {
+      "title": "Đọc báo công nghệ & AI · 1.000 thuật ngữ",
+      "description": "700 công nghệ/AI, 150 tài chính, 150 doanh nghiệp. Từ và cụm chuyên ngành mới, IPA và ví dụ Anh–Việt; có sẵn offline trên Windows/Android.",
+      "url": "decks/professional-reading-1000.json",
+      "count": 1000
+    },
+    {
       "title": "B2 · 1.000 từ mới",
       "description": "Từ B2 không trùng bộ hiện có; 909 mục có nghĩa phụ. Dữ liệu biên tập từ thichhoc-dict và skypediacode (CC BY-SA 4.0).",
       "url": "decks/b2-1000.json",
