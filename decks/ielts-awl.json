@@ -22,6 +22,15 @@
         "example": "The academy elected two historians as new members.",
         "exampleVi": "Viện hàn lâm bầu hai nhà sử học làm thành viên mới."
       }
+    ],
+    "forms": [
+      {
+        "word": "academies",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/əˈkæd.ə.miz/"
+      }
     ]
   },
   {
@@ -47,6 +56,31 @@
         "example": "Use your password to access the file.",
         "exampleVi": "Dùng mật khẩu của bạn để truy cập tệp."
       }
+    ],
+    "forms": [
+      {
+        "word": "accesses",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈæk.sesɪz/"
+      },
+      {
+        "word": "accessing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈæk.sesɪŋ/"
+      },
+      {
+        "word": "accessed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈæk.sest/"
+      }
     ]
   },
   {
@@ -66,6 +100,33 @@
     ],
     "family": [
       "accumulation"
+    ],
+    "forms": [
+      {
+        "word": "accumulates",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/əˈkjuː.mjʊ.leɪts/"
+      },
+      {
+        "word": "accumulating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/əˈkjuː.mjʊ.leɪtɪŋ/"
+      },
+      {
+        "word": "accumulated",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/əˈkjuː.mjʊ.leɪtɪd/",
+        "example": "Evidence accumulated over three decades of field research.",
+        "exampleVi": "Bằng chứng tích luỹ dần qua ba thập kỷ nghiên cứu thực địa."
+      }
     ]
   },
   {
@@ -85,6 +146,33 @@
     ],
     "family": [
       "achievement"
+    ],
+    "forms": [
+      {
+        "word": "achieves",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/əˈtʃiːvz/"
+      },
+      {
+        "word": "achieving",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/əˈtʃiːvɪŋ/"
+      },
+      {
+        "word": "achieved",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/əˈtʃiːvd/",
+        "example": "Few countries achieved the targets set out in the treaty.",
+        "exampleVi": "Rất ít quốc gia đạt được các mục tiêu nêu trong hiệp ước."
+      }
     ]
   },
   {
@@ -102,7 +190,34 @@
       "administration",
       "administrative"
     ],
-    "topic": "work"
+    "topic": "work",
+    "forms": [
+      {
+        "word": "administrates",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ədˈmɪn.ɪ.streɪts/",
+        "example": "A single agency administrates all public housing in the city.",
+        "exampleVi": "Một cơ quan duy nhất quản trị toàn bộ nhà ở công tại thành phố."
+      },
+      {
+        "word": "administrating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ədˈmɪn.ɪ.streɪtɪŋ/"
+      },
+      {
+        "word": "administrated",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ədˈmɪn.ɪ.streɪtɪd/"
+      }
+    ]
   },
   {
     "word": "adult",
@@ -125,6 +240,17 @@
         "meaningVi": "thuộc về người trưởng thành",
         "example": "The shop sells adult clothing upstairs.",
         "exampleVi": "Cửa hàng bán quần áo người lớn ở tầng trên."
+      }
+    ],
+    "forms": [
+      {
+        "word": "adults",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈæd.ʌlts/",
+        "example": "The course is designed for adults returning to education.",
+        "exampleVi": "Khoá học được thiết kế cho người trưởng thành quay lại việc học."
       }
     ]
   },
@@ -152,6 +278,31 @@
         "exampleVi": "Nhà tâm lý học ghi nhận biểu hiện cảm xúc phẳng lặng của bệnh nhân.",
         "ipa": "/ˈæf.ekt/"
       }
+    ],
+    "forms": [
+      {
+        "word": "affects",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/əˈfekts/"
+      },
+      {
+        "word": "affecting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/əˈfektɪŋ/"
+      },
+      {
+        "word": "affected",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/əˈfektɪd/"
+      }
     ]
   },
   {
@@ -176,6 +327,15 @@
         "meaningVi": "dụng cụ hỗ trợ một hoạt động",
         "example": "A magnifying glass is a useful reading aid.",
         "exampleVi": "Kính lúp là một dụng cụ hỗ trợ đọc hữu ích."
+      }
+    ],
+    "forms": [
+      {
+        "word": "aids",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/eɪdz/"
       }
     ]
   },
@@ -220,6 +380,33 @@
         "example": "The tailor will alter my jacket tomorrow.",
         "exampleVi": "Thợ may sẽ sửa áo khoác cho tôi vào ngày mai."
       }
+    ],
+    "forms": [
+      {
+        "word": "alters",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈɒl.tərz/"
+      },
+      {
+        "word": "altering",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈɒl.tərɪŋ/"
+      },
+      {
+        "word": "altered",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈɒl.tərd/",
+        "example": "The new evidence altered the way historians read the treaty.",
+        "exampleVi": "Bằng chứng mới làm thay đổi đi cách các nhà sử học đọc hiệp ước."
+      }
     ]
   },
   {
@@ -243,6 +430,33 @@
         "meaningVi": "cải thiện một tình huống hoặc hành vi",
         "example": "He promised to amend his behaviour after the warning.",
         "exampleVi": "Anh ấy hứa sửa đổi hành vi sau lời cảnh cáo."
+      }
+    ],
+    "forms": [
+      {
+        "word": "amends",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/əˈmendz/"
+      },
+      {
+        "word": "amending",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/əˈmendɪŋ/"
+      },
+      {
+        "word": "amended",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/əˈmendɪd/",
+        "example": "Parliament amended the law to close the loophole.",
+        "exampleVi": "Quốc hội sửa đổi văn bản luật để bịt kẽ hở."
       }
     ]
   },
@@ -268,6 +482,15 @@
         "example": "Reasoning by analogy can suggest a possible solution.",
         "exampleVi": "Lập luận bằng phép loại suy có thể gợi ra một giải pháp khả dĩ."
       }
+    ],
+    "forms": [
+      {
+        "word": "analogies",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/əˈnæl.ə.dʒiz/"
+      }
     ]
   },
   {
@@ -292,6 +515,15 @@
         "example": "The club's annual contains reports from the whole year.",
         "exampleVi": "Ấn phẩm thường niên của câu lạc bộ chứa báo cáo của cả năm."
       }
+    ],
+    "forms": [
+      {
+        "word": "annuals",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈæn.ju.əlz/"
+      }
     ]
   },
   {
@@ -308,6 +540,33 @@
     "level": "C1",
     "family": [
       "appendix"
+    ],
+    "forms": [
+      {
+        "word": "appends",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/əˈpendz/"
+      },
+      {
+        "word": "appending",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/əˈpendɪŋ/"
+      },
+      {
+        "word": "appended",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/əˈpendɪd/",
+        "example": "The author appended a full list of sources to the essay.",
+        "exampleVi": "Tác giả gắn thêm vào cuối bài luận một danh mục nguồn đầy đủ."
+      }
     ]
   },
   {
@@ -334,6 +593,31 @@
         "exampleVi": "Chúng ta có thể ước lượng khoảng cách bằng bản đồ này.",
         "ipa": "/əˈprɒk.sɪ.meɪt/"
       }
+    ],
+    "forms": [
+      {
+        "word": "approximates",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/əˈprɒk.sɪ.meɪts/"
+      },
+      {
+        "word": "approximating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/əˈprɒk.sɪ.meɪtɪŋ/"
+      },
+      {
+        "word": "approximated",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/əˈprɒk.sɪ.meɪtɪd/"
+      }
     ]
   },
   {
@@ -357,6 +641,15 @@
         "meaningVi": "diện tích của một bề mặt",
         "example": "The area of this rectangle is twelve square metres.",
         "exampleVi": "Diện tích hình chữ nhật này là mười hai mét vuông."
+      }
+    ],
+    "forms": [
+      {
+        "word": "areas",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈeə.ri.əz/"
       }
     ]
   },
@@ -383,6 +676,15 @@
         "example": "The old square has a peaceful aspect at dawn.",
         "exampleVi": "Quảng trường cổ có vẻ yên bình vào lúc bình minh."
       }
+    ],
+    "forms": [
+      {
+        "word": "aspects",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈæs.pekts/"
+      }
     ]
   },
   {
@@ -402,6 +704,33 @@
     ],
     "family": [
       "assembly"
+    ],
+    "forms": [
+      {
+        "word": "assembles",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/əˈsem.bəlz/"
+      },
+      {
+        "word": "assembling",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/əˈsem.bəlɪŋ/"
+      },
+      {
+        "word": "assembled",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/əˈsem.bəld/",
+        "example": "The committee assembled experts from six universities.",
+        "exampleVi": "Ban chuyên trách tập hợp lại thành một khối các chuyên gia từ sáu trường đại học."
+      }
     ]
   },
   {
@@ -426,6 +755,31 @@
         "example": "The authority may assess a penalty for late payment.",
         "exampleVi": "Cơ quan có thẩm quyền có thể ấn định tiền phạt do thanh toán trễ."
       }
+    ],
+    "forms": [
+      {
+        "word": "assesses",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/əˈsesɪz/"
+      },
+      {
+        "word": "assessing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/əˈsesɪŋ/"
+      },
+      {
+        "word": "assessed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/əˈsest/"
+      }
     ]
   },
   {
@@ -449,6 +803,33 @@
         "meaningVi": "gán một giá trị cho biến trong toán hoặc lập trình",
         "example": "Assign the value five to the variable x.",
         "exampleVi": "Gán giá trị năm cho biến x."
+      }
+    ],
+    "forms": [
+      {
+        "word": "assigns",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/əˈsaɪnz/"
+      },
+      {
+        "word": "assigning",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/əˈsaɪnɪŋ/"
+      },
+      {
+        "word": "assigned",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/əˈsaɪnd/",
+        "example": "Each student is assigned a supervisor in the first week.",
+        "exampleVi": "Mỗi sinh viên được phân một người hướng dẫn trong tuần đầu."
       }
     ]
   },
@@ -475,6 +856,32 @@
         "exampleVi": "Kiên nhẫn là một phẩm chất quan trọng của giáo viên giỏi.",
         "ipa": "/ˈæt.rɪ.bjuːt/"
       }
+    ],
+    "forms": [
+      {
+        "word": "attributes",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/əˈtrɪb.juːts/, /ˈæt.rɪ.bjuːts/"
+      },
+      {
+        "word": "attributing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/əˈtrɪb.juːtɪŋ/"
+      },
+      {
+        "word": "attributed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/əˈtrɪb.juːtɪd/"
+      }
     ]
   },
   {
@@ -499,6 +906,32 @@
         "example": "She plans to author a book about local history.",
         "exampleVi": "Cô ấy dự định viết một cuốn sách về lịch sử địa phương."
       }
+    ],
+    "forms": [
+      {
+        "word": "authors",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈɔː.θərz/"
+      },
+      {
+        "word": "authoring",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈɔː.θərɪŋ/"
+      },
+      {
+        "word": "authored",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈɔː.θərd/"
+      }
     ]
   },
   {
@@ -516,7 +949,34 @@
       "automation",
       "automatic"
     ],
-    "topic": "technology"
+    "topic": "technology",
+    "forms": [
+      {
+        "word": "automates",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈɔː.tə.meɪts/"
+      },
+      {
+        "word": "automating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈɔː.tə.meɪtɪŋ/"
+      },
+      {
+        "word": "automated",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈɔː.tə.meɪtɪd/",
+        "example": "Banks have automated most routine transactions.",
+        "exampleVi": "Các ngân hàng đã tự động hoá phần lớn giao dịch thường nhật."
+      }
+    ]
   },
   {
     "word": "available",
@@ -585,6 +1045,15 @@
         "example": "The company issued a bond to fund the project.",
         "exampleVi": "Công ty phát hành một trái phiếu để tài trợ dự án."
       }
+    ],
+    "forms": [
+      {
+        "word": "bonds",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/bɒndz/"
+      }
     ]
   },
   {
@@ -623,6 +1092,17 @@
     "family": [
       "categorise",
       "categorical"
+    ],
+    "forms": [
+      {
+        "word": "categories",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkæt.ɪ.ɡə.riz/",
+        "example": "Responses fell into three broad categories.",
+        "exampleVi": "Các câu trả lời rơi vào ba hạng mục phân loại lớn."
+      }
     ]
   },
   {
@@ -644,6 +1124,48 @@
         "example": "Try to channel your anger into something creative.",
         "exampleVi": "Hãy thử hướng sự tức giận của bạn vào một việc sáng tạo."
       }
+    ],
+    "forms": [
+      {
+        "word": "channels",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈtʃæn.əlz/"
+      },
+      {
+        "word": "channeling",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈtʃæn.əlɪŋ/"
+      },
+      {
+        "word": "channelling",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈtʃæn.əlɪŋ/"
+      },
+      {
+        "word": "channeled",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈtʃæn.əld/"
+      },
+      {
+        "word": "channelled",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈtʃæn.əld/"
+      }
     ]
   },
   {
@@ -664,6 +1186,15 @@
         "meaningVi": "chi hội địa phương của một tổ chức",
         "example": "She joined the local chapter of the association.",
         "exampleVi": "Cô ấy tham gia chi hội địa phương của hiệp hội."
+      }
+    ],
+    "forms": [
+      {
+        "word": "chapters",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtʃæp.tərz/"
       }
     ]
   },
@@ -690,6 +1221,32 @@
         "example": "The explorers will chart a route through the mountains.",
         "exampleVi": "Các nhà thám hiểm sẽ vẽ lại tuyến đường xuyên qua dãy núi."
       }
+    ],
+    "forms": [
+      {
+        "word": "charts",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/tʃɑːts/"
+      },
+      {
+        "word": "charting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/tʃɑːtɪŋ/"
+      },
+      {
+        "word": "charted",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/tʃɑːtɪd/"
+      }
     ]
   },
   {
@@ -715,6 +1272,17 @@
         "example": "The workers must avoid direct chemical exposure.",
         "exampleVi": "Công nhân phải tránh tiếp xúc trực tiếp với hóa chất."
       }
+    ],
+    "forms": [
+      {
+        "word": "chemicals",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkem.ɪ.kəlz/",
+        "example": "Farmers use fewer chemicals than they did a decade ago.",
+        "exampleVi": "Nông dân dùng ít hoá chất hơn so với một thập kỷ trước."
+      }
     ]
   },
   {
@@ -738,6 +1306,15 @@
         "meaningVi": "tác phẩm kinh điển có giá trị lâu dài",
         "example": "This novel is a classic of modern literature.",
         "exampleVi": "Tiểu thuyết này là một tác phẩm kinh điển của văn học hiện đại."
+      }
+    ],
+    "forms": [
+      {
+        "word": "classics",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈklæs.ɪks/"
       }
     ]
   },
@@ -780,7 +1357,34 @@
     "family": [
       "commencement"
     ],
-    "topic": "work"
+    "topic": "work",
+    "forms": [
+      {
+        "word": "commences",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/kəˈmensɪz/"
+      },
+      {
+        "word": "commencing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/kəˈmensɪŋ/"
+      },
+      {
+        "word": "commenced",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/kəˈmenst/",
+        "example": "Construction commenced two years behind schedule.",
+        "exampleVi": "Việc xây dựng khởi sự chậm hai năm so với kế hoạch."
+      }
+    ]
   },
   {
     "word": "commission",
@@ -800,6 +1404,15 @@
         "meaningVi": "tiền hoa hồng nhận theo doanh số",
         "example": "She earns a commission on every car she sells.",
         "exampleVi": "Cô ấy nhận tiền hoa hồng cho mỗi chiếc xe bán được."
+      }
+    ],
+    "forms": [
+      {
+        "word": "commissions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kəˈmɪʃ.ənz/"
       }
     ]
   },
@@ -824,6 +1437,31 @@
         "meaningVi": "lây truyền bệnh từ người này sang người khác",
         "example": "Infected animals can communicate the disease to humans.",
         "exampleVi": "Động vật nhiễm bệnh có thể truyền bệnh sang người."
+      }
+    ],
+    "forms": [
+      {
+        "word": "communicates",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/kəˈmjuː.nɪ.keɪts/"
+      },
+      {
+        "word": "communicating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/kəˈmjuː.nɪ.keɪtɪŋ/"
+      },
+      {
+        "word": "communicated",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/kəˈmjuː.nɪ.keɪtɪd/"
       }
     ]
   },
@@ -874,6 +1512,32 @@
         "exampleVi": "Rau tươi là phần bổ sung hoàn hảo cho món ăn này.",
         "ipa": "/ˈkɒm.plɪ.mənt/"
       }
+    ],
+    "forms": [
+      {
+        "word": "complements",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈkɒm.plɪ.ments/, /ˈkɒm.plɪ.mənts/"
+      },
+      {
+        "word": "complementing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈkɒm.plɪ.mentɪŋ/"
+      },
+      {
+        "word": "complemented",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈkɒm.plɪ.mentɪd/"
+      }
     ]
   },
   {
@@ -891,7 +1555,16 @@
       "element",
       "part"
     ],
-    "topic": "education"
+    "topic": "education",
+    "forms": [
+      {
+        "word": "components",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kəmˈpəʊ.nənts/"
+      }
+    ]
   },
   {
     "word": "compute",
@@ -907,7 +1580,34 @@
     "family": [
       "computation"
     ],
-    "topic": "technology"
+    "topic": "technology",
+    "forms": [
+      {
+        "word": "computes",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/kəmˈpjuːts/",
+        "example": "The model computes risk from thirty separate variables.",
+        "exampleVi": "Mô hình tính toán ra kết quả rủi ro từ ba mươi biến số riêng biệt."
+      },
+      {
+        "word": "computing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/kəmˈpjuːtɪŋ/"
+      },
+      {
+        "word": "computed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/kəmˈpjuːtɪd/"
+      }
+    ]
   },
   {
     "word": "concept",
@@ -923,6 +1623,15 @@
     "level": "B2",
     "family": [
       "conceptual"
+    ],
+    "forms": [
+      {
+        "word": "concepts",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkɒn.septs/"
+      }
     ]
   },
   {
@@ -959,6 +1668,33 @@
         "exampleVi": "Nhà trường khen ngợi cách cư xử biết quan tâm của các em.",
         "ipa": "/ˈkɒn.dʌkt/"
       }
+    ],
+    "forms": [
+      {
+        "word": "conducts",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/kənˈdʌkts/"
+      },
+      {
+        "word": "conducting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/kənˈdʌktɪŋ/"
+      },
+      {
+        "word": "conducted",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/kənˈdʌktɪd/",
+        "example": "The team conducted interviews in twelve villages.",
+        "exampleVi": "Nhóm tiến hành một hoạt động phỏng vấn tại mười hai ngôi làng."
+      }
     ]
   },
   {
@@ -979,6 +1715,33 @@
         "meaningVi": "trao đổi ý kiến để đi đến quyết định",
         "example": "The judges will confer before announcing their decision.",
         "exampleVi": "Các giám khảo sẽ trao đổi ý kiến trước khi công bố quyết định."
+      }
+    ],
+    "forms": [
+      {
+        "word": "confers",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/kənˈfɜːrz/",
+        "example": "A degree confers no automatic right to employment.",
+        "exampleVi": "Tấm bằng không trao cho một quyền lợi việc làm nào một cách mặc nhiên."
+      },
+      {
+        "word": "conferring",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/kənˈfɜːrɪŋ/"
+      },
+      {
+        "word": "conferred",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/kənˈfɜːrd/"
       }
     ]
   },
@@ -1012,6 +1775,33 @@
     "level": "C1",
     "family": [
       "constraint"
+    ],
+    "forms": [
+      {
+        "word": "constrains",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/kənˈstreɪnz/",
+        "example": "Limited funding constrains what small schools can offer.",
+        "exampleVi": "Kinh phí hạn hẹp bó buộc những gì trường nhỏ có thể cung cấp."
+      },
+      {
+        "word": "constraining",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/kənˈstreɪnɪŋ/"
+      },
+      {
+        "word": "constrained",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/kənˈstreɪnd/"
+      }
     ]
   },
   {
@@ -1037,6 +1827,34 @@
         "exampleVi": "Nhà nghiên cứu mô tả bản sắc như một khái niệm do xã hội kiến tạo.",
         "ipa": "/ˈkɒn.strʌkt/"
       }
+    ],
+    "forms": [
+      {
+        "word": "constructs",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/kənˈstrʌkts/, /ˈkɒn.strʌkts/",
+        "example": "The essay constructs an argument from three case studies.",
+        "exampleVi": "Bài luận dựng nên một lập luận từ ba nghiên cứu trường hợp."
+      },
+      {
+        "word": "constructing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/kənˈstrʌktɪŋ/"
+      },
+      {
+        "word": "constructed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/kənˈstrʌktɪd/"
+      }
     ]
   },
   {
@@ -1061,6 +1879,15 @@
         "example": "Read the whole paragraph to understand the word's context.",
         "exampleVi": "Đọc toàn bộ đoạn văn để hiểu ngữ cảnh của từ."
       }
+    ],
+    "forms": [
+      {
+        "word": "contexts",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkɒn.teksts/"
+      }
     ]
   },
   {
@@ -1078,6 +1905,31 @@
     "family": [
       "contradiction",
       "contradictory"
+    ],
+    "forms": [
+      {
+        "word": "contradicts",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˌkɒn.trəˈdɪkts/"
+      },
+      {
+        "word": "contradicting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˌkɒn.trəˈdɪktɪŋ/"
+      },
+      {
+        "word": "contradicted",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˌkɒn.trəˈdɪktɪd/"
+      }
     ]
   },
   {
@@ -1120,6 +1972,33 @@
         "example": "The committee will convene again on Monday.",
         "exampleVi": "Ủy ban sẽ nhóm họp lại vào thứ Hai."
       }
+    ],
+    "forms": [
+      {
+        "word": "convenes",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/kənˈviːnz/",
+        "example": "The board convenes twice a year to review spending.",
+        "exampleVi": "Hội đồng triệu tập một cuộc họp hai lần mỗi năm để rà soát chi tiêu."
+      },
+      {
+        "word": "convening",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/kənˈviːnɪŋ/"
+      },
+      {
+        "word": "convened",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/kənˈviːnd/"
+      }
     ]
   },
   {
@@ -1145,6 +2024,32 @@
         "exampleVi": "Các vị khách bắt đầu trò chuyện trong bữa tối.",
         "ipa": "/kənˈvɜːs/"
       }
+    ],
+    "forms": [
+      {
+        "word": "converses",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/kənˈvɜːsɪz/, /ˈkɒn.vɜːsɪz/"
+      },
+      {
+        "word": "conversing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/kənˈvɜːsɪŋ/"
+      },
+      {
+        "word": "conversed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/kənˈvɜːst/"
+      }
     ]
   },
   {
@@ -1169,6 +2074,34 @@
         "exampleVi": "Người mới cải đạo bắt đầu dự lễ hằng tuần.",
         "ipa": "/ˈkɒn.vɜːt/"
       }
+    ],
+    "forms": [
+      {
+        "word": "converts",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/kənˈvɜːts/, /ˈkɒn.vɜːts/"
+      },
+      {
+        "word": "converting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/kənˈvɜːtɪŋ/"
+      },
+      {
+        "word": "converted",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/kənˈvɜːtɪd/",
+        "example": "The mill was converted into student accommodation.",
+        "exampleVi": "Nhà máy được chuyển đổi sang dạng khác là ký túc xá sinh viên."
+      }
     ]
   },
   {
@@ -1186,7 +2119,32 @@
       "cooperation",
       "cooperative"
     ],
-    "topic": "society"
+    "topic": "society",
+    "forms": [
+      {
+        "word": "cooperates",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/kəʊˈɒp.ə.reɪts/"
+      },
+      {
+        "word": "cooperating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/kəʊˈɒp.ə.reɪtɪŋ/"
+      },
+      {
+        "word": "cooperated",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/kəʊˈɒp.ə.reɪtɪd/"
+      }
+    ]
   },
   {
     "word": "coordinate",
@@ -1211,6 +2169,34 @@
         "exampleVi": "Tọa độ x cho biết vị trí theo chiều ngang của điểm.",
         "ipa": "/kəʊˈɔː.dɪ.nət/"
       }
+    ],
+    "forms": [
+      {
+        "word": "coordinates",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/kəʊˈɔː.də.neɪts/, /kəʊˈɔː.dɪ.nəts/",
+        "example": "One office coordinates relief work across the province.",
+        "exampleVi": "Một văn phòng điều phối cho ăn khớp công tác cứu trợ toàn tỉnh."
+      },
+      {
+        "word": "coordinating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/kəʊˈɔː.də.neɪtɪŋ/"
+      },
+      {
+        "word": "coordinated",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/kəʊˈɔː.də.neɪtɪd/"
+      }
     ]
   },
   {
@@ -1231,6 +2217,15 @@
         "meaningVi": "phần lõi của quả chứa hạt",
         "example": "Remove the apple's core before slicing it.",
         "exampleVi": "Bỏ lõi táo trước khi cắt lát."
+      }
+    ],
+    "forms": [
+      {
+        "word": "cores",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kɔːrz/"
       }
     ]
   },
@@ -1277,6 +2272,34 @@
         "example": "We saw a couple of swans beside the lake.",
         "exampleVi": "Chúng tôi thấy một đôi thiên nga bên hồ."
       }
+    ],
+    "forms": [
+      {
+        "word": "couples",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈkʌp.əlz/"
+      },
+      {
+        "word": "coupling",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈkʌp.əlɪŋ/"
+      },
+      {
+        "word": "coupled",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈkʌp.əld/",
+        "example": "Poor housing coupled with low pay drives migration.",
+        "exampleVi": "Nhà ở tồi tàn đi kèm với lương thấp thúc đẩy di cư."
+      }
     ]
   },
   {
@@ -1301,6 +2324,33 @@
         "example": "The unexpected delay may create further problems.",
         "exampleVi": "Sự chậm trễ bất ngờ có thể gây thêm vấn đề."
       }
+    ],
+    "forms": [
+      {
+        "word": "creates",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/kriˈeɪts/"
+      },
+      {
+        "word": "creating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/kriˈeɪtɪŋ/"
+      },
+      {
+        "word": "created",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/kriˈeɪtɪd/",
+        "example": "The scheme created six thousand jobs in two years.",
+        "exampleVi": "Đề án tạo ra sáu nghìn việc làm trong hai năm."
+      }
     ]
   },
   {
@@ -1321,6 +2371,32 @@
         "meaningVi": "ghi nhận công lao cho ai đó",
         "example": "We should credit the volunteers for the event's success.",
         "exampleVi": "Chúng ta nên ghi nhận công lao của tình nguyện viên đối với thành công của sự kiện."
+      }
+    ],
+    "forms": [
+      {
+        "word": "credits",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈkred.ɪts/"
+      },
+      {
+        "word": "crediting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈkred.ɪtɪŋ/"
+      },
+      {
+        "word": "credited",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈkred.ɪtɪd/"
       }
     ]
   },
@@ -1363,6 +2439,15 @@
         "example": "The laboratory grew a culture of the bacteria.",
         "exampleVi": "Phòng thí nghiệm nuôi cấy một mẫu vi khuẩn."
       }
+    ],
+    "forms": [
+      {
+        "word": "cultures",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkʌl.tʃərz/"
+      }
     ]
   },
   {
@@ -1383,6 +2468,15 @@
         "meaningVi": "sự lưu hành và được chấp nhận rộng rãi của một ý tưởng",
         "example": "The idea gained currency among young researchers.",
         "exampleVi": "Ý tưởng này được các nhà nghiên cứu trẻ chấp nhận rộng rãi."
+      }
+    ],
+    "forms": [
+      {
+        "word": "currencies",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkʌr.ən.siz/"
       }
     ]
   },
@@ -1407,6 +2501,32 @@
         "meaningVi": "đi xe đạp",
         "example": "They cycle to school instead of taking the bus.",
         "exampleVi": "Họ đạp xe đến trường thay vì đi xe buýt."
+      }
+    ],
+    "forms": [
+      {
+        "word": "cycles",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈsaɪ.kəlz/"
+      },
+      {
+        "word": "cycling",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈsaɪ.kəlɪŋ/"
+      },
+      {
+        "word": "cycled",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈsaɪ.kəld/"
       }
     ]
   },
@@ -1442,6 +2562,15 @@
         "example": "One decade of the rosary includes ten Hail Marys.",
         "exampleVi": "Một chục kinh trong chuỗi Mân Côi gồm mười kinh Kính Mừng."
       }
+    ],
+    "forms": [
+      {
+        "word": "decades",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈdek.eɪdz/"
+      }
     ]
   },
   {
@@ -1458,6 +2587,31 @@
     "level": "C1",
     "family": [
       "deduction"
+    ],
+    "forms": [
+      {
+        "word": "deduces",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/dɪˈdjuːsɪz/"
+      },
+      {
+        "word": "deducing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/dɪˈdjuːsɪŋ/"
+      },
+      {
+        "word": "deduced",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/dɪˈdjuːst/"
+      }
     ]
   },
   {
@@ -1481,6 +2635,33 @@
         "meaningVi": "xác định ranh giới hoặc đường viền rõ ràng",
         "example": "A fence will define the boundary of the garden.",
         "exampleVi": "Một hàng rào sẽ xác định ranh giới khu vườn."
+      }
+    ],
+    "forms": [
+      {
+        "word": "defines",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/dɪˈfaɪnz/",
+        "example": "The paper never defines what it means by success.",
+        "exampleVi": "Bài báo không hề định nghĩa rõ ràng thành công nghĩa là gì."
+      },
+      {
+        "word": "defining",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/dɪˈfaɪnɪŋ/"
+      },
+      {
+        "word": "defined",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/dɪˈfaɪnd/"
       }
     ]
   },
@@ -1506,6 +2687,33 @@
         "example": "Depress the pedal slowly to lower the platform.",
         "exampleVi": "Ấn bàn đạp từ từ để hạ bệ xuống."
       }
+    ],
+    "forms": [
+      {
+        "word": "depresses",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/dɪˈpresɪz/"
+      },
+      {
+        "word": "depressing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/dɪˈpresɪŋ/"
+      },
+      {
+        "word": "depressed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/dɪˈprest/",
+        "example": "Cheap imports depressed local wages for years.",
+        "exampleVi": "Hàng nhập khẩu giá rẻ làm suy giảm xuống mức lương địa phương trong nhiều năm."
+      }
     ]
   },
   {
@@ -1525,6 +2733,32 @@
         "meaningVi": "có ý định để một vật phục vụ một mục đích",
         "example": "They design these tools for use in small gardens.",
         "exampleVi": "Họ thiết kế các dụng cụ này để dùng trong những khu vườn nhỏ."
+      }
+    ],
+    "forms": [
+      {
+        "word": "designs",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/dɪˈzaɪnz/"
+      },
+      {
+        "word": "designing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/dɪˈzaɪnɪŋ/"
+      },
+      {
+        "word": "designed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/dɪˈzaɪnd/"
       }
     ]
   },
@@ -1547,6 +2781,17 @@
         "example": "Repetition is a literary device used in this poem.",
         "exampleVi": "Lặp lại là một thủ pháp văn học được dùng trong bài thơ này."
       }
+    ],
+    "forms": [
+      {
+        "word": "devices",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/dɪˈvaɪsɪz/",
+        "example": "Most students own at least two connected devices.",
+        "exampleVi": "Phần lớn sinh viên sở hữu ít nhất hai thiết bị có kết nối."
+      }
     ]
   },
   {
@@ -1568,6 +2813,31 @@
         "example": "Differentiate the function to find its rate of change.",
         "exampleVi": "Lấy đạo hàm của hàm số để tìm tốc độ biến thiên."
       }
+    ],
+    "forms": [
+      {
+        "word": "differentiates",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˌdɪf.əˈren.ʃi.eɪts/"
+      },
+      {
+        "word": "differentiating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˌdɪf.əˈren.ʃi.eɪtɪŋ/"
+      },
+      {
+        "word": "differentiated",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˌdɪf.əˈren.ʃi.eɪtɪd/"
+      }
     ]
   },
   {
@@ -1588,6 +2858,15 @@
         "meaningVi": "kích thước đo được của một vật",
         "example": "Measure each dimension of the box before packing it.",
         "exampleVi": "Đo từng kích thước của chiếc hộp trước khi đóng gói."
+      }
+    ],
+    "forms": [
+      {
+        "word": "dimensions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/daɪˈmen.ʃənz/"
       }
     ]
   },
@@ -1625,6 +2904,31 @@
         "example": "Young birds learn to discriminate between different calls.",
         "exampleVi": "Chim non học cách phân biệt các tiếng kêu khác nhau."
       }
+    ],
+    "forms": [
+      {
+        "word": "discriminates",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/dɪˈskrɪm.ɪ.neɪts/"
+      },
+      {
+        "word": "discriminating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/dɪˈskrɪm.ɪ.neɪtɪŋ/"
+      },
+      {
+        "word": "discriminated",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/dɪˈskrɪm.ɪ.neɪtɪd/"
+      }
     ]
   },
   {
@@ -1649,6 +2953,33 @@
         "example": "The stone will displace some water when submerged.",
         "exampleVi": "Hòn đá sẽ đẩy một lượng nước ra khi được nhúng xuống."
       }
+    ],
+    "forms": [
+      {
+        "word": "displaces",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/dɪˈspleɪsɪz/"
+      },
+      {
+        "word": "displacing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/dɪˈspleɪsɪŋ/"
+      },
+      {
+        "word": "displaced",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/dɪˈspleɪst/",
+        "example": "The dam displaced forty villages along the valley.",
+        "exampleVi": "Con đập đẩy ra khỏi chỗ cũ bốn mươi ngôi làng dọc thung lũng."
+      }
     ]
   },
   {
@@ -1672,6 +3003,31 @@
         "meaningVi": "bán hoặc chuyển nhượng tài sản",
         "example": "They plan to dispose of the unused land.",
         "exampleVi": "Họ dự định bán phần đất không sử dụng."
+      }
+    ],
+    "forms": [
+      {
+        "word": "disposes",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/dɪˈspəʊzɪz/"
+      },
+      {
+        "word": "disposing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/dɪˈspəʊzɪŋ/"
+      },
+      {
+        "word": "disposed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/dɪˈspəʊzd/"
       }
     ]
   },
@@ -1721,6 +3077,31 @@
         "example": "The edited video may distort what actually happened.",
         "exampleVi": "Đoạn phim đã biên tập có thể xuyên tạc những gì thực sự xảy ra."
       }
+    ],
+    "forms": [
+      {
+        "word": "distorts",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/dɪˈstɔːts/"
+      },
+      {
+        "word": "distorting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/dɪˈstɔːtɪŋ/"
+      },
+      {
+        "word": "distorted",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/dɪˈstɔːtɪd/"
+      }
     ]
   },
   {
@@ -1746,6 +3127,34 @@
         "exampleVi": "Vui lòng ký vào văn bản trước khi gửi lại.",
         "ipa": "/ˈdɒk.jə.mənt/"
       }
+    ],
+    "forms": [
+      {
+        "word": "documents",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈdɒk.jə.ments/, /ˈdɒk.jə.mənts/"
+      },
+      {
+        "word": "documenting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈdɒk.jə.mentɪŋ/"
+      },
+      {
+        "word": "documented",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈdɒk.jə.mentɪd/",
+        "example": "The team documented every stage of the excavation.",
+        "exampleVi": "Nhóm ghi chép lại có chứng cứ từng giai đoạn khai quật."
+      }
     ]
   },
   {
@@ -1765,6 +3174,15 @@
         "meaningVi": "miền xác định của một hàm số",
         "example": "The domain of this function excludes zero.",
         "exampleVi": "Miền xác định của hàm số này không bao gồm số không."
+      }
+    ],
+    "forms": [
+      {
+        "word": "domains",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/dəˈmeɪnz/"
       }
     ]
   },
@@ -1811,6 +3229,15 @@
         "example": "I want a quiet evening without any family drama.",
         "exampleVi": "Tôi muốn một buổi tối yên tĩnh, không có chuyện gia đình ồn ào."
       }
+    ],
+    "forms": [
+      {
+        "word": "dramas",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈdrɑː.məz/"
+      }
     ]
   },
   {
@@ -1824,7 +3251,16 @@
       "awl"
     ],
     "level": "B2",
-    "topic": "education"
+    "topic": "education",
+    "forms": [
+      {
+        "word": "durations",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/djɔːˈreɪ.ʃənz/"
+      }
+    ]
   },
   {
     "word": "dynamic",
@@ -1844,6 +3280,15 @@
         "meaningVi": "động lực chi phối mối quan hệ hoặc hệ thống",
         "example": "Competition changed the dynamic between the two friends.",
         "exampleVi": "Sự cạnh tranh làm thay đổi động lực trong mối quan hệ giữa hai người bạn."
+      }
+    ],
+    "forms": [
+      {
+        "word": "dynamics",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/daɪˈnæm.ɪks/"
       }
     ]
   },
@@ -1870,6 +3315,15 @@
         "example": "The design achieves economy in its use of materials.",
         "exampleVi": "Thiết kế đạt được sự tiết kiệm trong việc sử dụng vật liệu."
       }
+    ],
+    "forms": [
+      {
+        "word": "economies",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɪˈkɒn.ə.miz/"
+      }
     ]
   },
   {
@@ -1887,7 +3341,34 @@
       "editor",
       "edition"
     ],
-    "topic": "media"
+    "topic": "media",
+    "forms": [
+      {
+        "word": "edits",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈed.ɪts/"
+      },
+      {
+        "word": "editing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈed.ɪtɪŋ/"
+      },
+      {
+        "word": "edited",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈed.ɪtɪd/",
+        "example": "She edited the volume with two colleagues.",
+        "exampleVi": "Bà biên tập tuyển tập này cùng hai đồng nghiệp."
+      }
+    ]
   },
   {
     "word": "element",
@@ -1906,6 +3387,15 @@
         "meaningVi": "nguyên tố hóa học",
         "example": "Oxygen is an element essential to human life.",
         "exampleVi": "Ôxy là một nguyên tố thiết yếu đối với sự sống của con người."
+      }
+    ],
+    "forms": [
+      {
+        "word": "elements",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈel.ɪ.mənts/"
       }
     ]
   },
@@ -1931,6 +3421,15 @@
         "meaningVi": "kiểu nhấn chữ trong văn bản",
         "example": "Use italics for emphasis in the final sentence.",
         "exampleVi": "Dùng chữ nghiêng để nhấn mạnh câu cuối."
+      }
+    ],
+    "forms": [
+      {
+        "word": "emphases",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈemfəsiːz/"
       }
     ]
   },
@@ -1969,7 +3468,34 @@
     "family": [
       "enforcement"
     ],
-    "topic": "law"
+    "topic": "law",
+    "forms": [
+      {
+        "word": "enforces",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/enˈfɔːsɪz/"
+      },
+      {
+        "word": "enforcing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/enˈfɔːsɪŋ/"
+      },
+      {
+        "word": "enforced",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/enˈfɔːst/",
+        "example": "The rules exist but are rarely enforced.",
+        "exampleVi": "Quy định thì có nhưng hiếm khi được thi hành."
+      }
+    ]
   },
   {
     "word": "entity",
@@ -1982,7 +3508,16 @@
       "awl"
     ],
     "level": "C1",
-    "topic": "law"
+    "topic": "law",
+    "forms": [
+      {
+        "word": "entities",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈen.tɪ.tiz/"
+      }
+    ]
   },
   {
     "word": "environment",
@@ -2006,6 +3541,15 @@
         "example": "Run the script in a separate testing environment.",
         "exampleVi": "Chạy tập lệnh trong một môi trường kiểm thử riêng."
       }
+    ],
+    "forms": [
+      {
+        "word": "environments",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/enˈvaɪ.rən.mənts/"
+      }
     ]
   },
   {
@@ -2026,6 +3570,31 @@
         "meaningVi": "làm hai đại lượng bằng nhau",
         "example": "Equate the two expressions to find the unknown value.",
         "exampleVi": "Cho hai biểu thức bằng nhau để tìm giá trị chưa biết."
+      }
+    ],
+    "forms": [
+      {
+        "word": "equates",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ɪˈkweɪts/"
+      },
+      {
+        "word": "equating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɪˈkweɪtɪŋ/"
+      },
+      {
+        "word": "equated",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɪˈkweɪtɪd/"
       }
     ]
   },
@@ -2060,6 +3629,15 @@
         "example": "The measurement has an error of two millimetres.",
         "exampleVi": "Phép đo có sai số hai milimét."
       }
+    ],
+    "forms": [
+      {
+        "word": "errors",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈer.ərz/"
+      }
     ]
   },
   {
@@ -2080,6 +3658,15 @@
         "meaningVi": "toàn bộ tài sản của người đã mất",
         "example": "Her children inherited the estate after her death.",
         "exampleVi": "Các con của bà thừa kế khối tài sản sau khi bà qua đời."
+      }
+    ],
+    "forms": [
+      {
+        "word": "estates",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɪˈsteɪts/"
       }
     ]
   },
@@ -2105,6 +3692,15 @@
         "meaningVi": "hệ thống nguyên tắc đạo đức của một nhóm",
         "example": "An ethic of honesty guides the organisation.",
         "exampleVi": "Một hệ nguyên tắc đề cao sự trung thực định hướng cho tổ chức."
+      }
+    ],
+    "forms": [
+      {
+        "word": "ethics",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈeθ.ɪks/"
       }
     ]
   },
@@ -2179,6 +3775,33 @@
         "example": "We hope to evolve a better plan through discussion.",
         "exampleVi": "Chúng tôi hy vọng dần xây dựng được kế hoạch tốt hơn qua thảo luận."
       }
+    ],
+    "forms": [
+      {
+        "word": "evolves",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ɪˈvɒlvz/"
+      },
+      {
+        "word": "evolving",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɪˈvɒlvɪŋ/"
+      },
+      {
+        "word": "evolved",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɪˈvɒlvd/",
+        "example": "The festival evolved from a small village fair.",
+        "exampleVi": "Lễ hội tiến hoá dần dần từ một hội chợ làng nhỏ."
+      }
     ]
   },
   {
@@ -2202,6 +3825,17 @@
         "example": "The repair requires expert knowledge of electronics.",
         "exampleVi": "Việc sửa chữa đòi hỏi kiến thức chuyên sâu về điện tử."
       }
+    ],
+    "forms": [
+      {
+        "word": "experts",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈek.spɜːts/",
+        "example": "Experts disagree about how fast the ice is melting.",
+        "exampleVi": "Các chuyên gia bất đồng về tốc độ tan chảy của băng."
+      }
     ]
   },
   {
@@ -2223,6 +3857,32 @@
         "example": "The farmers export coffee to several countries.",
         "exampleVi": "Những người nông dân xuất khẩu cà phê sang nhiều nước.",
         "ipa": "/ɪkˈspɔːt/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "exports",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ɪkˈspɔːts/, /ˈek.spɔːts/"
+      },
+      {
+        "word": "exporting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɪkˈspɔːtɪŋ/"
+      },
+      {
+        "word": "exported",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɪkˈspɔːtɪd/"
       }
     ]
   },
@@ -2248,6 +3908,33 @@
         "example": "Do not expose the photographic film to bright light.",
         "exampleVi": "Không để phim ảnh tiếp xúc với ánh sáng mạnh."
       }
+    ],
+    "forms": [
+      {
+        "word": "exposes",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ɪkˈspəʊzɪz/"
+      },
+      {
+        "word": "exposing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɪkˈspəʊzɪŋ/"
+      },
+      {
+        "word": "exposed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɪkˈspəʊzd/",
+        "example": "Children exposed to lead show slower development.",
+        "exampleVi": "Trẻ em bị phơi bày ra trước chì có tốc độ phát triển chậm hơn."
+      }
     ]
   },
   {
@@ -2272,6 +3959,17 @@
         "example": "The building's externals hide a surprisingly modern interior.",
         "exampleVi": "Vẻ ngoài của tòa nhà che giấu một nội thất hiện đại đến bất ngờ."
       }
+    ],
+    "forms": [
+      {
+        "word": "externals",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɪkˈstɜː.nəlz/",
+        "example": "The building's externals hide a surprisingly modern interior.",
+        "exampleVi": "Vẻ ngoài của tòa nhà che giấu một nội thất hiện đại đến bất ngờ."
+      }
     ]
   },
   {
@@ -2293,6 +3991,32 @@
         "example": "Factor twelve into two times two times three.",
         "exampleVi": "Phân tích mười hai thành hai nhân hai nhân ba."
       }
+    ],
+    "forms": [
+      {
+        "word": "factors",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈfæk.tərz/"
+      },
+      {
+        "word": "factoring",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈfæk.tərɪŋ/"
+      },
+      {
+        "word": "factored",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈfæk.tərd/"
+      }
     ]
   },
   {
@@ -2313,6 +4037,32 @@
         "meaningVi": "có ai hoặc cái gì là điểm nổi bật",
         "example": "The exhibition will feature paintings by local artists.",
         "exampleVi": "Triển lãm sẽ lấy các bức tranh của họa sĩ địa phương làm điểm nổi bật."
+      }
+    ],
+    "forms": [
+      {
+        "word": "features",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈfiː.tʃərz/"
+      },
+      {
+        "word": "featuring",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈfiː.tʃərɪŋ/"
+      },
+      {
+        "word": "featured",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈfiː.tʃərd/"
       }
     ]
   },
@@ -2340,7 +4090,18 @@
       "awl"
     ],
     "level": "B1",
-    "topic": "education"
+    "topic": "education",
+    "forms": [
+      {
+        "word": "fees",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/fiːz/",
+        "example": "Tuition fees have tripled since the reform.",
+        "exampleVi": "Khoản phí phải trả cho học phí đã tăng gấp ba kể từ cuộc cải cách."
+      }
+    ]
   },
   {
     "word": "file",
@@ -2360,6 +4121,32 @@
         "meaningVi": "mài nhẵn bằng giũa",
         "example": "File the rough edge until it feels smooth.",
         "exampleVi": "Giũa cạnh thô cho đến khi nó nhẵn."
+      }
+    ],
+    "forms": [
+      {
+        "word": "files",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/faɪlz/"
+      },
+      {
+        "word": "filing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/faɪlɪŋ/"
+      },
+      {
+        "word": "filed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/faɪld/"
       }
     ]
   },
@@ -2386,6 +4173,15 @@
         "example": "Our team reached the final after a close match.",
         "exampleVi": "Đội chúng tôi vào trận chung kết sau một trận đấu sít sao."
       }
+    ],
+    "forms": [
+      {
+        "word": "finals",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈfaɪ.nəlz/"
+      }
     ]
   },
   {
@@ -2409,6 +4205,31 @@
         "meaningVi": "cấp vốn cho một hoạt động",
         "example": "The bank will finance the construction of the bridge.",
         "exampleVi": "Ngân hàng sẽ cấp vốn xây dựng cây cầu."
+      }
+    ],
+    "forms": [
+      {
+        "word": "finances",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈfaɪ.nænsɪz/"
+      },
+      {
+        "word": "financing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈfaɪ.nænsɪŋ/"
+      },
+      {
+        "word": "financed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈfaɪ.nænst/"
       }
     ]
   },
@@ -2452,6 +4273,33 @@
         "example": "Adjust the lens until the image is in focus.",
         "exampleVi": "Điều chỉnh ống kính cho đến khi hình ảnh rõ nét."
       }
+    ],
+    "forms": [
+      {
+        "word": "focuses",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈfəʊ.kəsɪz/",
+        "example": "The study focuses on children under five.",
+        "exampleVi": "Nghiên cứu tập trung sự chú ý vào trẻ dưới năm tuổi."
+      },
+      {
+        "word": "focusing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈfəʊ.kəsɪŋ/"
+      },
+      {
+        "word": "focused",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈfəʊ.kəst/"
+      }
     ]
   },
   {
@@ -2472,6 +4320,32 @@
         "meaningVi": "sắp xếp hoặc định dạng lại tài liệu",
         "example": "Format the report with clear headings and page numbers.",
         "exampleVi": "Định dạng báo cáo với các tiêu đề rõ ràng và số trang."
+      }
+    ],
+    "forms": [
+      {
+        "word": "formats",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈfɔː.mæts/"
+      },
+      {
+        "word": "formatting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈfɔː.mætɪŋ/"
+      },
+      {
+        "word": "formatted",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈfɔː.mætɪd/"
       }
     ]
   },
@@ -2506,6 +4380,15 @@
         "meaningVi": "tổ chức được lập để tài trợ hoạt động từ thiện",
         "example": "The foundation funds scholarships for rural students.",
         "exampleVi": "Quỹ này tài trợ học bổng cho học sinh nông thôn."
+      }
+    ],
+    "forms": [
+      {
+        "word": "foundations",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/faʊnˈdeɪ.ʃənz/"
       }
     ]
   },
@@ -2543,6 +4426,32 @@
         "example": "The old printer can still function without the new software.",
         "exampleVi": "Máy in cũ vẫn có thể hoạt động mà không cần phần mềm mới."
       }
+    ],
+    "forms": [
+      {
+        "word": "functions",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈfʌŋk.ʃənz/"
+      },
+      {
+        "word": "functioning",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈfʌŋk.ʃənɪŋ/"
+      },
+      {
+        "word": "functioned",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈfʌŋk.ʃənd/"
+      }
     ]
   },
   {
@@ -2566,6 +4475,34 @@
         "meaningVi": "quỹ tiền dành cho một mục đích",
         "example": "The town created a fund to repair the library.",
         "exampleVi": "Thị trấn lập một quỹ để sửa thư viện."
+      }
+    ],
+    "forms": [
+      {
+        "word": "funds",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/fʌndz/",
+        "example": "The government funds three quarters of medical research.",
+        "exampleVi": "Chính phủ cấp kinh phí cho ba phần tư nghiên cứu y học."
+      },
+      {
+        "word": "funding",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/fʌndɪŋ/"
+      },
+      {
+        "word": "funded",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/fʌndɪd/"
       }
     ]
   },
@@ -2605,6 +4542,17 @@
         "example": "French nouns have grammatical gender.",
         "exampleVi": "Danh từ tiếng Pháp có giống ngữ pháp."
       }
+    ],
+    "forms": [
+      {
+        "word": "genders",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈdʒen.dərz/",
+        "example": "The pay gap between genders narrowed only slightly.",
+        "exampleVi": "Khoảng cách lương giữa các giới tính xã hội chỉ thu hẹp chút ít."
+      }
     ]
   },
   {
@@ -2625,6 +4573,15 @@
         "meaningVi": "việc tạo ra điện hoặc năng lượng",
         "example": "The plant uses sunlight for electricity generation.",
         "exampleVi": "Nhà máy dùng ánh nắng để sản xuất điện."
+      }
+    ],
+    "forms": [
+      {
+        "word": "generations",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌdʒen.əˈreɪ.ʃənz/"
       }
     ]
   },
@@ -2651,6 +4608,15 @@
         "example": "A glass globe covers the small lamp.",
         "exampleVi": "Một quả cầu thủy tinh bao bọc chiếc đèn nhỏ."
       }
+    ],
+    "forms": [
+      {
+        "word": "globes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɡləʊbz/"
+      }
     ]
   },
   {
@@ -2671,6 +4637,15 @@
         "meaningVi": "khung thành trong thể thao",
         "example": "The goalkeeper stood in front of the goal.",
         "exampleVi": "Thủ môn đứng trước khung thành."
+      }
+    ],
+    "forms": [
+      {
+        "word": "goals",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɡəʊlz/"
       }
     ]
   },
@@ -2693,6 +4668,32 @@
         "example": "Workers will grade the ground before building the road.",
         "exampleVi": "Công nhân sẽ san phẳng đất trước khi làm đường."
       }
+    ],
+    "forms": [
+      {
+        "word": "grades",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ɡreɪdz/"
+      },
+      {
+        "word": "grading",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɡreɪdɪŋ/"
+      },
+      {
+        "word": "graded",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɡreɪdɪd/"
+      }
     ]
   },
   {
@@ -2713,6 +4714,32 @@
         "meaningVi": "thừa nhận một điều là đúng",
         "example": "I grant that your argument has some merit.",
         "exampleVi": "Tôi thừa nhận rằng lập luận của bạn có phần hợp lý."
+      }
+    ],
+    "forms": [
+      {
+        "word": "grants",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ɡrɑːnts/"
+      },
+      {
+        "word": "granting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɡrɑːntɪŋ/"
+      },
+      {
+        "word": "granted",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɡrɑːntɪd/"
       }
     ]
   },
@@ -2760,6 +4787,34 @@
         "example": "The bright highlight on the vase adds depth to the photo.",
         "exampleVi": "Vùng sáng nổi bật trên chiếc bình tạo chiều sâu cho bức ảnh."
       }
+    ],
+    "forms": [
+      {
+        "word": "highlights",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈhaɪ.laɪts/",
+        "example": "The report highlights failures in the inspection system.",
+        "exampleVi": "Báo cáo làm nổi bật lên những thất bại trong hệ thống thanh tra."
+      },
+      {
+        "word": "highlighting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈhaɪ.laɪtɪŋ/"
+      },
+      {
+        "word": "highlighted",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈhaɪ.laɪtɪd/"
+      }
     ]
   },
   {
@@ -2789,7 +4844,16 @@
     "family": [
       "ideological"
     ],
-    "topic": "society"
+    "topic": "society",
+    "forms": [
+      {
+        "word": "ideologies",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌaɪ.diˈɒl.ə.dʒiz/"
+      }
+    ]
   },
   {
     "word": "ignorant",
@@ -2834,6 +4898,32 @@
         "example": "The scanner can image the brain in great detail.",
         "exampleVi": "Máy quét có thể tạo hình ảnh bộ não rất chi tiết."
       }
+    ],
+    "forms": [
+      {
+        "word": "images",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈɪm.ɪdʒɪz/"
+      },
+      {
+        "word": "imaging",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈɪm.ɪdʒɪŋ/"
+      },
+      {
+        "word": "imaged",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈɪm.ɪdʒd/"
+      }
     ]
   },
   {
@@ -2851,7 +4941,34 @@
       "immigration",
       "immigrant"
     ],
-    "topic": "society"
+    "topic": "society",
+    "forms": [
+      {
+        "word": "immigrates",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈɪm.ɪ.ɡreɪts/"
+      },
+      {
+        "word": "immigrating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈɪm.ɪ.ɡreɪtɪŋ/"
+      },
+      {
+        "word": "immigrated",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈɪm.ɪ.ɡreɪtɪd/",
+        "example": "Her grandparents immigrated in the nineteen fifties.",
+        "exampleVi": "Ông bà của cô ấy nhập cư vào những năm 1950."
+      }
+    ]
   },
   {
     "word": "implicate",
@@ -2871,6 +4988,33 @@
         "meaningVi": "kéo theo một hệ quả theo logic",
         "example": "Changing this assumption would implicate a different conclusion.",
         "exampleVi": "Thay đổi giả định này sẽ kéo theo một kết luận khác."
+      }
+    ],
+    "forms": [
+      {
+        "word": "implicates",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈɪm.plɪ.keɪts/",
+        "example": "The study implicates air pollution in childhood asthma.",
+        "exampleVi": "Nghiên cứu cho thấy có liên đới giữa ô nhiễm không khí và hen suyễn ở trẻ."
+      },
+      {
+        "word": "implicating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈɪm.plɪ.keɪtɪŋ/"
+      },
+      {
+        "word": "implicated",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈɪm.plɪ.keɪtɪd/"
       }
     ]
   },
@@ -2917,6 +5061,15 @@
         "example": "The angle of incidence changes as the mirror turns.",
         "exampleVi": "Góc tới thay đổi khi gương xoay."
       }
+    ],
+    "forms": [
+      {
+        "word": "incidences",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɪn.sɪ.dənsɪz/"
+      }
     ]
   },
   {
@@ -2942,6 +5095,32 @@
         "example": "The cyclist struggled up the steep incline.",
         "exampleVi": "Người đi xe đạp vất vả leo lên con dốc đứng.",
         "ipa": "/ˈɪn.klaɪn/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "inclines",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ɪnˈklaɪnz/, /ˈɪn.klaɪnz/"
+      },
+      {
+        "word": "inclining",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɪnˈklaɪnɪŋ/"
+      },
+      {
+        "word": "inclined",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɪnˈklaɪnd/"
       }
     ]
   },
@@ -2980,6 +5159,15 @@
         "example": "Place each sample in an individual container.",
         "exampleVi": "Đặt mỗi mẫu trong một hộp riêng."
       }
+    ],
+    "forms": [
+      {
+        "word": "individuals",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌɪn.dɪˈvɪdʒ.u.əlz/"
+      }
     ]
   },
   {
@@ -2996,6 +5184,31 @@
     "level": "C1",
     "family": [
       "inference"
+    ],
+    "forms": [
+      {
+        "word": "infers",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ɪnˈfɜːrz/"
+      },
+      {
+        "word": "inferring",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɪnˈfɜːrɪŋ/"
+      },
+      {
+        "word": "inferred",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɪnˈfɜːrd/"
+      }
     ]
   },
   {
@@ -3034,6 +5247,33 @@
         "example": "The society will initiate its new members tonight.",
         "exampleVi": "Hội sẽ làm lễ kết nạp thành viên mới vào tối nay."
       }
+    ],
+    "forms": [
+      {
+        "word": "initiates",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ɪˈnɪʃ.i.eɪts/"
+      },
+      {
+        "word": "initiating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɪˈnɪʃ.i.eɪtɪŋ/"
+      },
+      {
+        "word": "initiated",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɪˈnɪʃ.i.eɪtɪd/",
+        "example": "The council initiated a review of all school closures.",
+        "exampleVi": "Hội đồng khởi xướng một việc rà soát toàn bộ các trường bị đóng cửa."
+      }
     ]
   },
   {
@@ -3051,7 +5291,32 @@
       "innovation",
       "innovative"
     ],
-    "topic": "technology"
+    "topic": "technology",
+    "forms": [
+      {
+        "word": "innovates",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈɪn.ə.veɪts/"
+      },
+      {
+        "word": "innovating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈɪn.ə.veɪtɪŋ/"
+      },
+      {
+        "word": "innovated",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈɪn.ə.veɪtɪd/"
+      }
+    ]
   },
   {
     "word": "input",
@@ -3071,6 +5336,32 @@
         "meaningVi": "nhập dữ liệu vào hệ thống",
         "example": "Input your name and address into the form.",
         "exampleVi": "Nhập tên và địa chỉ của bạn vào biểu mẫu."
+      }
+    ],
+    "forms": [
+      {
+        "word": "inputs",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈɪn.pʊts/"
+      },
+      {
+        "word": "inputting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈɪn.pʊtɪŋ/"
+      },
+      {
+        "word": "input",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈɪn.pʊt/"
       }
     ]
   },
@@ -3094,6 +5385,34 @@
         "exampleVi": "Tờ báo có kèm một tờ rời về các sự kiện địa phương.",
         "ipa": "/ˈɪn.sɜːt/"
       }
+    ],
+    "forms": [
+      {
+        "word": "inserts",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ɪnˈsɜːts/, /ˈɪn.sɜːts/"
+      },
+      {
+        "word": "inserting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɪnˈsɜːtɪŋ/"
+      },
+      {
+        "word": "inserted",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɪnˈsɜːtɪd/",
+        "example": "A clause was inserted to protect existing tenants.",
+        "exampleVi": "Một điều khoản được chèn vào giữa để bảo vệ người thuê hiện hữu."
+      }
     ]
   },
   {
@@ -3111,7 +5430,32 @@
       "inspection",
       "inspector"
     ],
-    "topic": "work"
+    "topic": "work",
+    "forms": [
+      {
+        "word": "inspects",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ɪnˈspekts/"
+      },
+      {
+        "word": "inspecting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɪnˈspektɪŋ/"
+      },
+      {
+        "word": "inspected",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɪnˈspektɪd/"
+      }
+    ]
   },
   {
     "word": "institute",
@@ -3135,6 +5479,32 @@
         "meaningVi": "thiết lập hoặc khởi xướng một thủ tục",
         "example": "The school will institute a new attendance policy.",
         "exampleVi": "Nhà trường sẽ thiết lập một quy định điểm danh mới."
+      }
+    ],
+    "forms": [
+      {
+        "word": "institutes",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈɪn.stɪ.tjuːts/"
+      },
+      {
+        "word": "instituting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈɪn.stɪ.tjuːtɪŋ/"
+      },
+      {
+        "word": "instituted",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈɪn.stɪ.tjuːtɪd/"
       }
     ]
   },
@@ -3160,6 +5530,33 @@
         "meaningVi": "ra lệnh theo thẩm quyền",
         "example": "The officer may instruct drivers to leave the road.",
         "exampleVi": "Viên cảnh sát có thể ra lệnh cho tài xế rời khỏi đường."
+      }
+    ],
+    "forms": [
+      {
+        "word": "instructs",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ɪnˈstrʌkts/"
+      },
+      {
+        "word": "instructing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɪnˈstrʌktɪŋ/"
+      },
+      {
+        "word": "instructed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɪnˈstrʌktɪd/",
+        "example": "Staff were instructed to record every complaint.",
+        "exampleVi": "Nhân viên được chỉ dẫn ghi lại mọi khiếu nại."
       }
     ]
   },
@@ -3214,7 +5611,32 @@
     "family": [
       "interaction"
     ],
-    "topic": "education"
+    "topic": "education",
+    "forms": [
+      {
+        "word": "interacts",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˌɪn.təˈrækts/"
+      },
+      {
+        "word": "interacting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˌɪn.təˈræktɪŋ/"
+      },
+      {
+        "word": "interacted",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˌɪn.təˈræktɪd/"
+      }
+    ]
   },
   {
     "word": "intermediate",
@@ -3234,6 +5656,15 @@
         "meaningVi": "chất trung gian tạo ra giữa các bước phản ứng",
         "example": "This intermediate forms during the first reaction step.",
         "exampleVi": "Chất trung gian này hình thành trong bước phản ứng đầu tiên."
+      }
+    ],
+    "forms": [
+      {
+        "word": "intermediates",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌɪn.təˈmiː.di.əts/"
       }
     ]
   },
@@ -3284,6 +5715,31 @@
         "example": "The ceremony will invest the new president with authority.",
         "exampleVi": "Buổi lễ sẽ trao quyền cho vị chủ tịch mới."
       }
+    ],
+    "forms": [
+      {
+        "word": "invests",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ɪnˈvests/"
+      },
+      {
+        "word": "investing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɪnˈvestɪŋ/"
+      },
+      {
+        "word": "invested",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɪnˈvestɪd/"
+      }
     ]
   },
   {
@@ -3300,7 +5756,34 @@
     "family": [
       "investigation"
     ],
-    "topic": "media"
+    "topic": "media",
+    "forms": [
+      {
+        "word": "investigates",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ɪnˈves.tɪ.ɡeɪts/"
+      },
+      {
+        "word": "investigating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɪnˈves.tɪ.ɡeɪtɪŋ/"
+      },
+      {
+        "word": "investigated",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɪnˈves.tɪ.ɡeɪtɪd/",
+        "example": "Journalists investigated the contract for eighteen months.",
+        "exampleVi": "Nhà báo điều tra làm rõ hợp đồng này suốt mười tám tháng."
+      }
+    ]
   },
   {
     "word": "issue",
@@ -3321,6 +5804,32 @@
         "example": "The council will issue a permit after the inspection.",
         "exampleVi": "Hội đồng sẽ cấp giấy phép sau cuộc kiểm tra."
       }
+    ],
+    "forms": [
+      {
+        "word": "issues",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈɪʃ.uːz/"
+      },
+      {
+        "word": "issuing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈɪʃ.uːɪŋ/"
+      },
+      {
+        "word": "issued",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈɪʃ.uːd/"
+      }
     ]
   },
   {
@@ -3340,6 +5849,15 @@
         "meaningVi": "một đồ vật riêng lẻ trong một nhóm đồ vật",
         "example": "Please wrap each fragile item separately.",
         "exampleVi": "Vui lòng gói riêng từng đồ vật dễ vỡ."
+      }
+    ],
+    "forms": [
+      {
+        "word": "items",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈaɪ.təmz/"
       }
     ]
   },
@@ -3362,6 +5880,32 @@
         "example": "The firm will job out the printing to a specialist.",
         "exampleVi": "Công ty sẽ giao khoán việc in ấn cho một đơn vị chuyên môn."
       }
+    ],
+    "forms": [
+      {
+        "word": "jobs",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/dʒɒbz/"
+      },
+      {
+        "word": "jobbing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/dʒɒbɪŋ/"
+      },
+      {
+        "word": "jobbed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/dʒɒbd/"
+      }
     ]
   },
   {
@@ -3382,6 +5926,15 @@
         "meaningVi": "sổ nhật ký ghi chép hằng ngày",
         "example": "She keeps a journal of her travels.",
         "exampleVi": "Cô ấy ghi nhật ký về các chuyến đi của mình."
+      }
+    ],
+    "forms": [
+      {
+        "word": "journals",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈdʒɜː.nəlz/"
       }
     ]
   },
@@ -3404,6 +5957,50 @@
         "example": "The label on the jar lists all the ingredients.",
         "exampleVi": "Nhãn trên lọ liệt kê tất cả thành phần."
       }
+    ],
+    "forms": [
+      {
+        "word": "labels",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈleɪ.bəlz/"
+      },
+      {
+        "word": "labeling",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈleɪ.bəlɪŋ/"
+      },
+      {
+        "word": "labelling",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈleɪ.bəlɪŋ/"
+      },
+      {
+        "word": "labeled",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈleɪ.bəld/"
+      },
+      {
+        "word": "labelled",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈleɪ.bəld/",
+        "example": "Foods must be labelled with their country of origin.",
+        "exampleVi": "Thực phẩm phải được dán nhãn ghi rõ nước xuất xứ."
+      }
     ]
   },
   {
@@ -3425,6 +6022,31 @@
         "example": "She began to labour during the night.",
         "exampleVi": "Cô ấy bắt đầu chuyển dạ trong đêm."
       }
+    ],
+    "forms": [
+      {
+        "word": "labours",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈleɪ.bərz/"
+      },
+      {
+        "word": "labouring",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈleɪ.bərɪŋ/"
+      },
+      {
+        "word": "laboured",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈleɪ.bərd/"
+      }
     ]
   },
   {
@@ -3445,6 +6067,32 @@
         "meaningVi": "xếp thành nhiều lớp",
         "example": "Layer the potatoes and cheese in the baking dish.",
         "exampleVi": "Xếp khoai tây và phô mai thành các lớp trong khay nướng."
+      }
+    ],
+    "forms": [
+      {
+        "word": "layers",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈleɪ.ərz/"
+      },
+      {
+        "word": "layering",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈleɪ.ərɪŋ/"
+      },
+      {
+        "word": "layered",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈleɪ.ərd/"
       }
     ]
   },
@@ -3470,6 +6118,32 @@
         "example": "Please do not lecture me about every small mistake.",
         "exampleVi": "Đừng lên lớp tôi về từng lỗi nhỏ."
       }
+    ],
+    "forms": [
+      {
+        "word": "lectures",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈlek.tʃərz/"
+      },
+      {
+        "word": "lecturing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈlek.tʃərɪŋ/"
+      },
+      {
+        "word": "lectured",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈlek.tʃərd/"
+      }
     ]
   },
   {
@@ -3487,7 +6161,32 @@
       "legislation",
       "legislative"
     ],
-    "topic": "law"
+    "topic": "law",
+    "forms": [
+      {
+        "word": "legislates",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈledʒ.ɪ.sleɪts/"
+      },
+      {
+        "word": "legislating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈledʒ.ɪ.sleɪtɪŋ/"
+      },
+      {
+        "word": "legislated",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈledʒ.ɪ.sleɪtɪd/"
+      }
+    ]
   },
   {
     "word": "levy",
@@ -3507,6 +6206,32 @@
         "meaningVi": "đánh thuế hoặc thu một khoản bắt buộc",
         "example": "The council may levy a fee on vacant properties.",
         "exampleVi": "Hội đồng có thể áp một khoản phí lên các bất động sản bỏ trống."
+      }
+    ],
+    "forms": [
+      {
+        "word": "levies",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈlev.iz/"
+      },
+      {
+        "word": "levying",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈlev.iɪŋ/"
+      },
+      {
+        "word": "levied",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈlev.id/"
       }
     ]
   },
@@ -3529,6 +6254,15 @@
         "example": "As a liberal, she supports equal rights and free debate.",
         "exampleVi": "Là người theo tư tưởng tự do, cô ấy ủng hộ quyền bình đẳng và tranh luận tự do."
       }
+    ],
+    "forms": [
+      {
+        "word": "liberals",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈlɪb.ə.rəlz/"
+      }
     ]
   },
   {
@@ -3549,6 +6283,15 @@
         "meaningVi": "sự tự do vượt khuôn phép được dung thứ",
         "example": "The poet took artistic licence with the historical details.",
         "exampleVi": "Nhà thơ sử dụng quyền tự do nghệ thuật đối với các chi tiết lịch sử."
+      }
+    ],
+    "forms": [
+      {
+        "word": "licences",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈlaɪ.sənsɪz/"
       }
     ]
   },
@@ -3584,6 +6327,15 @@
         "example": "One broken link weakened the whole chain.",
         "exampleVi": "Một mắt xích bị gãy làm cả sợi dây xích yếu đi."
       }
+    ],
+    "forms": [
+      {
+        "word": "links",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/lɪŋks/"
+      }
     ]
   },
   {
@@ -3606,6 +6358,33 @@
         "meaningVi": "xác định vị trí của người hoặc vật đang cần tìm",
         "example": "The rescue team used a signal to locate the hikers.",
         "exampleVi": "Đội cứu hộ dùng tín hiệu để xác định vị trí những người đi bộ đường dài."
+      }
+    ],
+    "forms": [
+      {
+        "word": "locates",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ləʊˈkeɪts/"
+      },
+      {
+        "word": "locating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ləʊˈkeɪtɪŋ/"
+      },
+      {
+        "word": "located",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ləʊˈkeɪtɪd/",
+        "example": "The plant was located far from any residential area.",
+        "exampleVi": "Nhà máy được đặt cách xa mọi khu dân cư."
       }
     ]
   },
@@ -3632,6 +6411,15 @@
         "example": "The chip's logic controls the sequence of operations.",
         "exampleVi": "Hệ logic của con chip điều khiển trình tự các thao tác."
       }
+    ],
+    "forms": [
+      {
+        "word": "logics",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈlɒdʒ.ɪks/"
+      }
     ]
   },
   {
@@ -3655,6 +6443,15 @@
         "example": "Her major is environmental science.",
         "exampleVi": "Chuyên ngành chính của cô ấy là khoa học môi trường."
       }
+    ],
+    "forms": [
+      {
+        "word": "majors",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈmeɪ.dʒərz/"
+      }
     ]
   },
   {
@@ -3676,6 +6473,15 @@
         "example": "The manual explains how to set up the camera.",
         "exampleVi": "Sách hướng dẫn giải thích cách thiết lập máy ảnh."
       }
+    ],
+    "forms": [
+      {
+        "word": "manuals",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈmæn.ju.əlz/"
+      }
     ]
   },
   {
@@ -3692,7 +6498,32 @@
     "family": [
       "maximum"
     ],
-    "topic": "economy"
+    "topic": "economy",
+    "forms": [
+      {
+        "word": "maximises",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈmæk.sɪ.maɪzɪz/"
+      },
+      {
+        "word": "maximising",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈmæk.sɪ.maɪzɪŋ/"
+      },
+      {
+        "word": "maximised",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈmæk.sɪ.maɪzd/"
+      }
+    ]
   },
   {
     "word": "mechanism",
@@ -3711,6 +6542,15 @@
         "meaningVi": "bộ phận máy móc truyền chuyển động",
         "example": "The clock's mechanism needs cleaning.",
         "exampleVi": "Bộ máy của chiếc đồng hồ cần được làm sạch."
+      }
+    ],
+    "forms": [
+      {
+        "word": "mechanisms",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈmek.ə.nɪ.zəmz/"
       }
     ]
   },
@@ -3754,6 +6594,15 @@
         "example": "He must pass a medical before joining the team.",
         "exampleVi": "Anh ấy phải vượt qua một buổi khám sức khỏe trước khi gia nhập đội."
       }
+    ],
+    "forms": [
+      {
+        "word": "medicals",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈmed.ɪ.kəlz/"
+      }
     ]
   },
   {
@@ -3774,6 +6623,22 @@
         "meaningVi": "ở mức trung bình",
         "example": "Bake the dish over medium heat.",
         "exampleVi": "Nướng món ăn ở mức nhiệt trung bình."
+      }
+    ],
+    "forms": [
+      {
+        "word": "media",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈmidiə/"
+      },
+      {
+        "word": "mediums",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈmiː.di.əmz/"
       }
     ]
   },
@@ -3807,6 +6672,15 @@
     "level": "B1",
     "family": [
       "methodology"
+    ],
+    "forms": [
+      {
+        "word": "methods",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈmeθ.ədz/"
+      }
     ]
   },
   {
@@ -3832,6 +6706,31 @@
         "example": "These birds migrate south every winter.",
         "exampleVi": "Những con chim này di cư về phía nam mỗi mùa đông."
       }
+    ],
+    "forms": [
+      {
+        "word": "migrates",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/maɪˈɡreɪts/"
+      },
+      {
+        "word": "migrating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/maɪˈɡreɪtɪŋ/"
+      },
+      {
+        "word": "migrated",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/maɪˈɡreɪtɪd/"
+      }
     ]
   },
   {
@@ -3852,6 +6751,15 @@
         "meaningVi": "lực lượng quân đội",
         "example": "The military helped evacuate residents after the flood.",
         "exampleVi": "Quân đội giúp sơ tán cư dân sau trận lũ."
+      }
+    ],
+    "forms": [
+      {
+        "word": "militaries",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈmɪl.ɪ.tə.riz/"
       }
     ]
   },
@@ -3874,6 +6782,33 @@
         "example": "Do not minimise the seriousness of the problem.",
         "exampleVi": "Đừng coi nhẹ mức độ nghiêm trọng của vấn đề."
       }
+    ],
+    "forms": [
+      {
+        "word": "minimises",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈmɪn.ɪ.maɪzɪz/",
+        "example": "Careful design minimises waste at every stage.",
+        "exampleVi": "Thiết kế cẩn thận giảm thiểu tối đa rác thải ở mọi khâu."
+      },
+      {
+        "word": "minimising",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈmɪn.ɪ.maɪzɪŋ/"
+      },
+      {
+        "word": "minimised",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈmɪn.ɪ.maɪzd/"
+      }
     ]
   },
   {
@@ -3895,6 +6830,15 @@
         "example": "The minimum age for entry is sixteen.",
         "exampleVi": "Độ tuổi thấp nhất được phép vào là mười sáu."
       }
+    ],
+    "forms": [
+      {
+        "word": "minimums",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈmɪn.ɪ.məmz/"
+      }
     ]
   },
   {
@@ -3911,7 +6855,16 @@
     "family": [
       "minister"
     ],
-    "topic": "society"
+    "topic": "society",
+    "forms": [
+      {
+        "word": "ministries",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈmɪn.ɪ.striz/"
+      }
+    ]
   },
   {
     "word": "minor",
@@ -3930,6 +6883,15 @@
         "meaningVi": "người chưa đủ tuổi trưởng thành",
         "example": "A minor needs parental permission to join the trip.",
         "exampleVi": "Người chưa thành niên cần được cha mẹ cho phép để tham gia chuyến đi."
+      }
+    ],
+    "forms": [
+      {
+        "word": "minors",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈmaɪ.nərz/"
       }
     ]
   },
@@ -3951,6 +6913,15 @@
         "meaningVi": "giá trị xuất hiện nhiều nhất trong tập dữ liệu",
         "example": "The mode of this data set is four.",
         "exampleVi": "Giá trị xuất hiện nhiều nhất trong tập dữ liệu này là bốn."
+      }
+    ],
+    "forms": [
+      {
+        "word": "modes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/məʊdz/"
       }
     ]
   },
@@ -3974,6 +6945,33 @@
         "meaningVi": "bổ nghĩa cho một từ trong ngữ pháp",
         "example": "An adverb can modify a verb.",
         "exampleVi": "Trạng từ có thể bổ nghĩa cho động từ."
+      }
+    ],
+    "forms": [
+      {
+        "word": "modifies",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈmɒd.ɪ.faɪz/"
+      },
+      {
+        "word": "modifying",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈmɒd.ɪ.faɪɪŋ/"
+      },
+      {
+        "word": "modified",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈmɒd.ɪ.faɪd/",
+        "example": "The design was modified after the first trial.",
+        "exampleVi": "Thiết kế được điều chỉnh lại cho phù hợp sau lần thử đầu tiên."
       }
     ]
   },
@@ -4000,6 +6998,15 @@
         "example": "Steam supplied the engine's motive power.",
         "exampleVi": "Hơi nước cung cấp sức kéo cho động cơ."
       }
+    ],
+    "forms": [
+      {
+        "word": "motives",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈməʊ.tɪvz/"
+      }
     ]
   },
   {
@@ -4021,6 +7028,31 @@
         "example": "One counterexample can negate a universal claim.",
         "exampleVi": "Một phản ví dụ có thể bác bỏ một khẳng định phổ quát."
       }
+    ],
+    "forms": [
+      {
+        "word": "negates",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/nɪˈɡeɪts/"
+      },
+      {
+        "word": "negating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/nɪˈɡeɪtɪŋ/"
+      },
+      {
+        "word": "negated",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/nɪˈɡeɪtɪd/"
+      }
     ]
   },
   {
@@ -4041,6 +7073,32 @@
         "meaningVi": "gặp gỡ để tạo quan hệ nghề nghiệp",
         "example": "The conference gives graduates a chance to network.",
         "exampleVi": "Hội nghị tạo cơ hội cho sinh viên mới tốt nghiệp xây dựng quan hệ nghề nghiệp."
+      }
+    ],
+    "forms": [
+      {
+        "word": "networks",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈnet.wɜːks/"
+      },
+      {
+        "word": "networking",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈnet.wɜːkɪŋ/"
+      },
+      {
+        "word": "networked",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈnet.wɜːkt/"
       }
     ]
   },
@@ -4065,6 +7123,15 @@
         "meaningVi": "đường vuông góc với một bề mặt",
         "example": "Draw a normal to the surface at this point.",
         "exampleVi": "Vẽ một đường vuông góc với bề mặt tại điểm này."
+      }
+    ],
+    "forms": [
+      {
+        "word": "normals",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈnɔː.məlz/"
       }
     ]
   },
@@ -4148,6 +7215,33 @@
         "example": "The puzzle will occupy the children for an hour.",
         "exampleVi": "Câu đố sẽ khiến bọn trẻ bận rộn trong một giờ."
       }
+    ],
+    "forms": [
+      {
+        "word": "occupies",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈɒk.jʊ.paɪz/",
+        "example": "Housing occupies a third of household spending.",
+        "exampleVi": "Nhà ở chiếm chỗ một phần ba chi tiêu hộ gia đình."
+      },
+      {
+        "word": "occupying",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈɒk.jʊ.paɪɪŋ/"
+      },
+      {
+        "word": "occupied",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈɒk.jʊ.paɪd/"
+      }
     ]
   },
   {
@@ -4192,6 +7286,15 @@
         "example": "The contract gives her an option to buy the land.",
         "exampleVi": "Hợp đồng cho cô ấy quyền mua mảnh đất theo điều kiện đã định."
       }
+    ],
+    "forms": [
+      {
+        "word": "options",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɒp.ʃənz/"
+      }
     ]
   },
   {
@@ -4216,6 +7319,33 @@
         "example": "Use the map to orient yourself before walking further.",
         "exampleVi": "Dùng bản đồ để xác định phương hướng trước khi đi tiếp."
       }
+    ],
+    "forms": [
+      {
+        "word": "orients",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈɔː.ri.ənts/"
+      },
+      {
+        "word": "orienting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈɔː.ri.əntɪŋ/"
+      },
+      {
+        "word": "oriented",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈɔː.ri.əntɪd/",
+        "example": "The syllabus is oriented towards practical skills.",
+        "exampleVi": "Chương trình học được định hướng theo kỹ năng thực hành."
+      }
     ]
   },
   {
@@ -4236,6 +7366,32 @@
         "meaningVi": "tạo ra một lượng sản phẩm nhất định",
         "example": "The factory can output five hundred units a day.",
         "exampleVi": "Nhà máy có thể sản xuất năm trăm sản phẩm mỗi ngày."
+      }
+    ],
+    "forms": [
+      {
+        "word": "outputs",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈaʊt.pʊts/"
+      },
+      {
+        "word": "outputting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈaʊt.pʊtɪŋ/"
+      },
+      {
+        "word": "output",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈaʊt.pʊt/"
       }
     ]
   },
@@ -4258,6 +7414,32 @@
         "example": "There is an overlap of ten minutes between the shifts.",
         "exampleVi": "Hai ca làm việc có mười phút trùng nhau.",
         "ipa": "/ˈəʊ.və.læp/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "overlaps",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˌəʊ.vəˈlæps/, /ˈəʊ.və.læps/"
+      },
+      {
+        "word": "overlapping",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˌəʊ.vəˈlæpɪŋ/"
+      },
+      {
+        "word": "overlapped",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˌəʊ.vəˈlæpt/"
       }
     ]
   },
@@ -4301,6 +7483,15 @@
         "example": "A wooden panel covers the damaged wall.",
         "exampleVi": "Một tấm gỗ che phần tường bị hỏng."
       }
+    ],
+    "forms": [
+      {
+        "word": "panels",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpæn.əlz/"
+      }
     ]
   },
   {
@@ -4321,6 +7512,15 @@
         "meaningVi": "bảng các dạng biến cách của một từ",
         "example": "The textbook presents the full paradigm of the Latin noun.",
         "exampleVi": "Sách giáo khoa trình bày đầy đủ bảng biến cách của danh từ Latin."
+      }
+    ],
+    "forms": [
+      {
+        "word": "paradigms",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpær.ə.daɪmz/"
       }
     ]
   },
@@ -4343,6 +7543,32 @@
         "example": "Paragraph the essay so that each idea has its own section.",
         "exampleVi": "Chia bài luận thành các đoạn để mỗi ý có phần riêng."
       }
+    ],
+    "forms": [
+      {
+        "word": "paragraphs",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈpær.ə.ɡræfs/"
+      },
+      {
+        "word": "paragraphing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈpær.ə.ɡræfɪŋ/"
+      },
+      {
+        "word": "paragraphed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈpær.ə.ɡræft/"
+      }
     ]
   },
   {
@@ -4362,6 +7588,17 @@
         "meaningVi": "tham số của một hàm hoặc mô hình",
         "example": "Change this parameter to adjust the model's output.",
         "exampleVi": "Thay đổi tham số này để điều chỉnh kết quả của mô hình."
+      }
+    ],
+    "forms": [
+      {
+        "word": "parameters",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/pəˈræm.ɪ.tərz/",
+        "example": "The committee set narrow parameters for the inquiry.",
+        "exampleVi": "Ban chuyên trách đặt giới hạn hẹp cho cuộc điều tra."
       }
     ]
   },
@@ -4387,6 +7624,32 @@
         "example": "The museum will partner with a local school.",
         "exampleVi": "Bảo tàng sẽ hợp tác với một trường học địa phương."
       }
+    ],
+    "forms": [
+      {
+        "word": "partners",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈpɑːt.nərz/"
+      },
+      {
+        "word": "partnering",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈpɑːt.nərɪŋ/"
+      },
+      {
+        "word": "partnered",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈpɑːt.nərd/"
+      }
     ]
   },
   {
@@ -4408,6 +7671,15 @@
         "example": "Rewrite the sentence in the passive.",
         "exampleVi": "Viết lại câu ở thể bị động."
       }
+    ],
+    "forms": [
+      {
+        "word": "passives",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpæs.ɪvz/"
+      }
     ]
   },
   {
@@ -4421,7 +7693,16 @@
       "awl",
       "task1"
     ],
-    "level": "A2"
+    "level": "A2",
+    "forms": [
+      {
+        "word": "percents",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/pəˈsents/"
+      }
+    ]
   },
   {
     "word": "period",
@@ -4441,6 +7722,15 @@
         "meaningVi": "kỳ kinh nguyệt",
         "example": "Her period began earlier than she expected.",
         "exampleVi": "Kỳ kinh nguyệt của cô ấy bắt đầu sớm hơn dự kiến."
+      }
+    ],
+    "forms": [
+      {
+        "word": "periods",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpɪə.ri.ədz/"
       }
     ]
   },
@@ -4463,6 +7753,15 @@
         "example": "The artist used perspective to give the street depth.",
         "exampleVi": "Họa sĩ dùng phối cảnh để tạo chiều sâu cho con phố."
       }
+    ],
+    "forms": [
+      {
+        "word": "perspectives",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/pəˈspek.tɪvz/"
+      }
     ]
   },
   {
@@ -4483,6 +7782,15 @@
         "meaningVi": "người hoặc vật có tài năng hay đặc điểm phi thường",
         "example": "The young pianist became a musical phenomenon.",
         "exampleVi": "Nghệ sĩ piano trẻ trở thành một hiện tượng âm nhạc."
+      }
+    ],
+    "forms": [
+      {
+        "word": "phenomena",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/fəˈnɑmənə/"
       }
     ]
   },
@@ -4507,6 +7815,15 @@
         "meaningVi": "môn triết học nghiên cứu các câu hỏi căn bản",
         "example": "She studies philosophy at university.",
         "exampleVi": "Cô ấy học triết học ở đại học."
+      }
+    ],
+    "forms": [
+      {
+        "word": "philosophies",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/fɪˈlɒs.ə.fiz/"
       }
     ]
   },
@@ -4553,6 +7870,15 @@
         "example": "Our insurance policy covers damage caused by storms.",
         "exampleVi": "Hợp đồng bảo hiểm của chúng tôi chi trả thiệt hại do bão."
       }
+    ],
+    "forms": [
+      {
+        "word": "policies",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpɒl.ɪ.siz/"
+      }
     ]
   },
   {
@@ -4573,6 +7899,34 @@
         "meaningVi": "tư thế để chụp ảnh hoặc vẽ",
         "example": "The photographer asked her to hold the pose.",
         "exampleVi": "Nhiếp ảnh gia yêu cầu cô ấy giữ nguyên tư thế."
+      }
+    ],
+    "forms": [
+      {
+        "word": "poses",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/pəʊzɪz/",
+        "example": "Antibiotic resistance poses a serious threat to public health.",
+        "exampleVi": "Kháng kháng sinh đặt ra một mối nguy nghiêm trọng cho y tế công cộng."
+      },
+      {
+        "word": "posing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/pəʊzɪŋ/"
+      },
+      {
+        "word": "posed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/pəʊzd/"
       }
     ]
   },
@@ -4597,6 +7951,15 @@
         "example": "The photographer made a positive from the original negative.",
         "exampleVi": "Nhiếp ảnh gia tạo một bản ảnh dương từ phim âm bản gốc."
       }
+    ],
+    "forms": [
+      {
+        "word": "positives",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpɒz.ɪ.tɪvz/"
+      }
     ]
   },
   {
@@ -4610,7 +7973,18 @@
       "awl"
     ],
     "level": "C1",
-    "topic": "health"
+    "topic": "health",
+    "forms": [
+      {
+        "word": "practitioners",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/prækˈtɪʃ.ə.nərz/",
+        "example": "General practitioners handle most first consultations.",
+        "exampleVi": "Người hành nghề y đa khoa xử lý phần lớn các lần khám đầu tiên."
+      }
+    ]
   },
   {
     "word": "predominant",
@@ -4650,6 +8024,15 @@
         "example": "The party will hold a primary to choose its candidate.",
         "exampleVi": "Đảng sẽ tổ chức bầu cử sơ bộ để chọn ứng viên."
       }
+    ],
+    "forms": [
+      {
+        "word": "primaries",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpraɪ.mə.riz/"
+      }
     ]
   },
   {
@@ -4669,6 +8052,15 @@
         "meaningVi": "số nguyên tố",
         "example": "Eleven is a prime because only one and eleven divide it.",
         "exampleVi": "Mười một là số nguyên tố vì chỉ một và mười một chia hết nó."
+      }
+    ],
+    "forms": [
+      {
+        "word": "primes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/praɪmz/"
       }
     ]
   },
@@ -4691,6 +8083,15 @@
         "example": "The principal welcomed the new pupils.",
         "exampleVi": "Hiệu trưởng chào đón các học sinh mới."
       }
+    ],
+    "forms": [
+      {
+        "word": "principals",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈprɪn.sɪ.pəlz/"
+      }
     ]
   },
   {
@@ -4704,7 +8105,16 @@
       "awl",
       "writing"
     ],
-    "level": "B2"
+    "level": "B2",
+    "forms": [
+      {
+        "word": "principles",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈprɪn.sɪ.pəlz/"
+      }
+    ]
   },
   {
     "word": "prior",
@@ -4728,6 +8138,15 @@
         "example": "The prior welcomed visitors to the monastery.",
         "exampleVi": "Vị bề trên chào đón khách đến tu viện."
       }
+    ],
+    "forms": [
+      {
+        "word": "priors",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpraɪ.ərz/"
+      }
     ]
   },
   {
@@ -4748,6 +8167,32 @@
         "meaningVi": "chế biến nguyên liệu thành sản phẩm",
         "example": "The factory will process milk into cheese.",
         "exampleVi": "Nhà máy sẽ chế biến sữa thành phô mai."
+      }
+    ],
+    "forms": [
+      {
+        "word": "processes",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈprəʊ.sesɪz/"
+      },
+      {
+        "word": "processing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈprəʊ.sesɪŋ/"
+      },
+      {
+        "word": "processed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈprəʊ.sest/"
       }
     ]
   },
@@ -4773,6 +8218,15 @@
         "example": "Ask a professional to inspect the wiring.",
         "exampleVi": "Nhờ một người có chuyên môn kiểm tra hệ thống dây điện."
       }
+    ],
+    "forms": [
+      {
+        "word": "professionals",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/prəˈfeʃ.ə.nəlz/"
+      }
     ]
   },
   {
@@ -4796,6 +8250,31 @@
         "meaningVi": "chiếu hình ảnh lên màn",
         "example": "The machine can project images onto the wall.",
         "exampleVi": "Máy có thể chiếu hình ảnh lên tường."
+      }
+    ],
+    "forms": [
+      {
+        "word": "projects",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/prəˈdʒekts/"
+      },
+      {
+        "word": "projecting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/prəˈdʒektɪŋ/"
+      },
+      {
+        "word": "projected",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/prəˈdʒektɪd/"
       }
     ]
   },
@@ -4834,6 +8313,17 @@
         "example": "Publication of the results is planned for next month.",
         "exampleVi": "Việc công bố kết quả được dự kiến vào tháng tới."
       }
+    ],
+    "forms": [
+      {
+        "word": "publications",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌpʌb.lɪˈkeɪ.ʃənz/",
+        "example": "Her publications are cited across three disciplines.",
+        "exampleVi": "Các ấn phẩm công bố của bà được trích dẫn ở ba ngành."
+      }
     ]
   },
   {
@@ -4857,6 +8347,33 @@
         "meaningVi": "xuất bản sách hoặc tạp chí",
         "example": "The press will publish her first novel next spring.",
         "exampleVi": "Nhà xuất bản sẽ xuất bản tiểu thuyết đầu tay của cô ấy vào mùa xuân tới."
+      }
+    ],
+    "forms": [
+      {
+        "word": "publishes",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈpʌb.lɪʃɪz/",
+        "example": "The department publishes its accounts every June.",
+        "exampleVi": "Bộ công bố ra báo cáo tài chính vào tháng Sáu hằng năm."
+      },
+      {
+        "word": "publishing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈpʌb.lɪʃɪŋ/"
+      },
+      {
+        "word": "published",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈpʌb.lɪʃt/"
       }
     ]
   },
@@ -4894,6 +8411,34 @@
         "meaningVi": "đoạn được trích dẫn nguyên văn",
         "example": "He included a short quote from the speech.",
         "exampleVi": "Anh ấy đưa vào một đoạn trích ngắn từ bài phát biểu."
+      }
+    ],
+    "forms": [
+      {
+        "word": "quotes",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/kwəʊts/",
+        "example": "He quotes the minister without giving a date.",
+        "exampleVi": "Ông trích dẫn nguyên văn lời bộ trưởng mà không nêu ngày tháng."
+      },
+      {
+        "word": "quoting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/kwəʊtɪŋ/"
+      },
+      {
+        "word": "quoted",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/kwəʊtɪd/"
       }
     ]
   },
@@ -4939,6 +8484,32 @@
         "example": "Prices range from ten to fifty dollars.",
         "exampleVi": "Giá dao động từ mười đến năm mươi đô la."
       }
+    ],
+    "forms": [
+      {
+        "word": "ranges",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/reɪndʒɪz/"
+      },
+      {
+        "word": "ranging",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/reɪndʒɪŋ/"
+      },
+      {
+        "word": "ranged",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/reɪndʒd/"
+      }
     ]
   },
   {
@@ -4963,6 +8534,33 @@
         "example": "The metal will react with the acid.",
         "exampleVi": "Kim loại sẽ phản ứng với axit."
       }
+    ],
+    "forms": [
+      {
+        "word": "reacts",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/riˈækts/"
+      },
+      {
+        "word": "reacting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/riˈæktɪŋ/"
+      },
+      {
+        "word": "reacted",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/riˈæktɪd/",
+        "example": "Markets reacted badly to the announcement.",
+        "exampleVi": "Thị trường phản ứng lại tiêu cực trước thông báo."
+      }
     ]
   },
   {
@@ -4983,6 +8581,15 @@
         "meaningVi": "hệ thống quy tắc hoặc phương pháp được áp dụng trong một lĩnh vực",
         "example": "The new inspection regime applies to every factory.",
         "exampleVi": "Chế độ kiểm tra mới áp dụng cho mọi nhà máy."
+      }
+    ],
+    "forms": [
+      {
+        "word": "regimes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/reɪˈʒiːmz/"
       }
     ]
   },
@@ -5008,6 +8615,15 @@
         "example": "The pain is in the lower abdominal region.",
         "exampleVi": "Cơn đau nằm ở vùng bụng dưới."
       }
+    ],
+    "forms": [
+      {
+        "word": "regions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈriː.dʒənz/"
+      }
     ]
   },
   {
@@ -5031,6 +8647,34 @@
         "meaningVi": "sổ ghi danh hoặc sổ bộ",
         "example": "Write your name in the visitors' register.",
         "exampleVi": "Ghi tên bạn vào sổ đăng ký khách."
+      }
+    ],
+    "forms": [
+      {
+        "word": "registers",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈredʒ.ɪ.stərz/"
+      },
+      {
+        "word": "registering",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈredʒ.ɪ.stərɪŋ/"
+      },
+      {
+        "word": "registered",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈredʒ.ɪ.stərd/",
+        "example": "Only half of eligible voters registered in time.",
+        "exampleVi": "Chỉ một nửa cử tri đủ điều kiện đăng ký ghi danh kịp thời hạn."
       }
     ]
   },
@@ -5057,6 +8701,31 @@
         "example": "The thermostat helps regulate the room temperature.",
         "exampleVi": "Bộ điều nhiệt giúp điều hòa nhiệt độ phòng."
       }
+    ],
+    "forms": [
+      {
+        "word": "regulates",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈreɡ.juː.leɪts/"
+      },
+      {
+        "word": "regulating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈreɡ.juː.leɪtɪŋ/"
+      },
+      {
+        "word": "regulated",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈreɡ.juː.leɪtɪd/"
+      }
     ]
   },
   {
@@ -5078,6 +8747,33 @@
         "example": "She likes to relax with a book after work.",
         "exampleVi": "Cô ấy thích thư giãn với một cuốn sách sau giờ làm."
       }
+    ],
+    "forms": [
+      {
+        "word": "relaxes",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/rɪˈlæksɪz/"
+      },
+      {
+        "word": "relaxing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/rɪˈlæksɪŋ/"
+      },
+      {
+        "word": "relaxed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/rɪˈlækst/",
+        "example": "The authorities relaxed the rules on student visas.",
+        "exampleVi": "Nhà chức trách nới lỏng quy định về thị thực sinh viên."
+      }
     ]
   },
   {
@@ -5098,6 +8794,33 @@
         "meaningVi": "thả một người hoặc vật đang bị giữ",
         "example": "The keeper will release the bird back into the wild.",
         "exampleVi": "Người chăm sóc sẽ thả con chim trở lại tự nhiên."
+      }
+    ],
+    "forms": [
+      {
+        "word": "releases",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/rɪˈliːsɪz/"
+      },
+      {
+        "word": "releasing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/rɪˈliːsɪŋ/"
+      },
+      {
+        "word": "released",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/rɪˈliːst/",
+        "example": "The figures were released without any commentary.",
+        "exampleVi": "Các con số được phát hành ra công chúng mà không kèm bình luận."
       }
     ]
   },
@@ -5140,7 +8863,32 @@
       "reliance",
       "reliable"
     ],
-    "topic": "health"
+    "topic": "health",
+    "forms": [
+      {
+        "word": "relies",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/rɪˈlaɪz/"
+      },
+      {
+        "word": "relying",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/rɪˈlaɪɪŋ/"
+      },
+      {
+        "word": "relied",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/rɪˈlaɪd/"
+      }
+    ]
   },
   {
     "word": "research",
@@ -5164,6 +8912,31 @@
         "example": "Students will research the history of their town.",
         "exampleVi": "Học sinh sẽ nghiên cứu lịch sử thị trấn của mình."
       }
+    ],
+    "forms": [
+      {
+        "word": "researches",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/rɪˈsɜːtʃɪz/"
+      },
+      {
+        "word": "researching",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/rɪˈsɜːtʃɪŋ/"
+      },
+      {
+        "word": "researched",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/rɪˈsɜːtʃt/"
+      }
     ]
   },
   {
@@ -5181,7 +8954,32 @@
       "resident",
       "residence"
     ],
-    "topic": "society"
+    "topic": "society",
+    "forms": [
+      {
+        "word": "resides",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/riˈzaɪdz/"
+      },
+      {
+        "word": "residing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/riˈzaɪdɪŋ/"
+      },
+      {
+        "word": "resided",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/riˈzaɪdɪd/"
+      }
+    ]
   },
   {
     "word": "restrain",
@@ -5204,6 +9002,33 @@
         "meaningVi": "giữ chặt để ai đó không cử động",
         "example": "Two guards had to restrain the struggling prisoner.",
         "exampleVi": "Hai lính gác phải giữ chặt tù nhân đang giãy giụa."
+      }
+    ],
+    "forms": [
+      {
+        "word": "restrains",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/rɪˈstreɪnz/"
+      },
+      {
+        "word": "restraining",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/rɪˈstreɪnɪŋ/"
+      },
+      {
+        "word": "restrained",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/rɪˈstreɪnd/",
+        "example": "Higher interest rates restrained consumer spending.",
+        "exampleVi": "Lãi suất cao hơn kiềm chế lại chi tiêu tiêu dùng."
       }
     ]
   },
@@ -5229,6 +9054,33 @@
         "example": "I need to revise for my chemistry exam.",
         "exampleVi": "Tôi cần ôn tập cho kỳ thi hóa học."
       }
+    ],
+    "forms": [
+      {
+        "word": "revises",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/rɪˈvaɪzɪz/"
+      },
+      {
+        "word": "revising",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/rɪˈvaɪzɪŋ/"
+      },
+      {
+        "word": "revised",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/rɪˈvaɪzd/",
+        "example": "The forecast was revised downwards in November.",
+        "exampleVi": "Dự báo được xem lại và sửa theo hướng giảm vào tháng Mười một."
+      }
     ]
   },
   {
@@ -5253,6 +9105,15 @@
         "example": "The planet completes one revolution around its star.",
         "exampleVi": "Hành tinh hoàn thành một vòng quay quanh ngôi sao của nó."
       }
+    ],
+    "forms": [
+      {
+        "word": "revolutions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌrev.əˈluː.ʃənz/"
+      }
     ]
   },
   {
@@ -5273,6 +9134,15 @@
         "meaningVi": "vai diễn trong phim hoặc vở kịch",
         "example": "She accepted a small role in the new film.",
         "exampleVi": "Cô ấy nhận một vai nhỏ trong bộ phim mới."
+      }
+    ],
+    "forms": [
+      {
+        "word": "roles",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/rəʊlz/"
       }
     ]
   },
@@ -5295,6 +9165,32 @@
         "example": "The router will route the data through another server.",
         "exampleVi": "Bộ định tuyến sẽ chuyển dữ liệu qua một máy chủ khác."
       }
+    ],
+    "forms": [
+      {
+        "word": "routes",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ruːts/"
+      },
+      {
+        "word": "routing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ruːtɪŋ/"
+      },
+      {
+        "word": "routed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ruːtɪd/"
+      }
     ]
   },
   {
@@ -5315,6 +9211,32 @@
         "meaningVi": "sắp xếp một việc vào thời gian cụ thể",
         "example": "Please schedule the interview for Tuesday morning.",
         "exampleVi": "Vui lòng xếp lịch phỏng vấn vào sáng thứ Ba."
+      }
+    ],
+    "forms": [
+      {
+        "word": "schedules",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈʃed.juːlz/"
+      },
+      {
+        "word": "scheduling",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈʃed.juːlɪŋ/"
+      },
+      {
+        "word": "scheduled",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈʃed.juːld/"
       }
     ]
   },
@@ -5337,6 +9259,32 @@
         "example": "The characters scheme to seize the throne.",
         "exampleVi": "Các nhân vật âm mưu chiếm ngôi."
       }
+    ],
+    "forms": [
+      {
+        "word": "schemes",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/skiːmz/"
+      },
+      {
+        "word": "scheming",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/skiːmɪŋ/"
+      },
+      {
+        "word": "schemed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/skiːmd/"
+      }
     ]
   },
   {
@@ -5358,6 +9306,32 @@
         "example": "The technician will section the sample for examination.",
         "exampleVi": "Kỹ thuật viên sẽ cắt mẫu thành các lát để kiểm tra."
       }
+    ],
+    "forms": [
+      {
+        "word": "sections",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈsek.ʃənz/"
+      },
+      {
+        "word": "sectioning",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈsek.ʃənɪŋ/"
+      },
+      {
+        "word": "sectioned",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈsek.ʃənd/"
+      }
     ]
   },
   {
@@ -5378,6 +9352,15 @@
         "meaningVi": "hình quạt trong hình học",
         "example": "A sector is bounded by two radii and an arc.",
         "exampleVi": "Hình quạt được giới hạn bởi hai bán kính và một cung tròn."
+      }
+    ],
+    "forms": [
+      {
+        "word": "sectors",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsek.tərz/"
       }
     ]
   },
@@ -5403,6 +9386,33 @@
         "example": "The club admits only a select group of guests.",
         "exampleVi": "Câu lạc bộ chỉ tiếp nhận một nhóm khách được chọn lọc."
       }
+    ],
+    "forms": [
+      {
+        "word": "selects",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/sɪˈlekts/"
+      },
+      {
+        "word": "selecting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/sɪˈlektɪŋ/"
+      },
+      {
+        "word": "selected",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/sɪˈlektɪd/",
+        "example": "Judges selected twelve entries from over a thousand.",
+        "exampleVi": "Ban giám khảo chọn lọc ra mười hai bài dự thi trong hơn một nghìn."
+      }
     ]
   },
   {
@@ -5424,6 +9434,32 @@
         "example": "Scientists will sequence the DNA from the sample.",
         "exampleVi": "Các nhà khoa học sẽ xác định trình tự ADN của mẫu."
       }
+    ],
+    "forms": [
+      {
+        "word": "sequences",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈsiː.kwənsɪz/"
+      },
+      {
+        "word": "sequencing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈsiː.kwənsɪŋ/"
+      },
+      {
+        "word": "sequenced",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈsiː.kwənst/"
+      }
     ]
   },
   {
@@ -5444,6 +9480,15 @@
         "example": "The television series follows a family of doctors.",
         "exampleVi": "Bộ phim truyền hình nhiều tập kể về một gia đình bác sĩ."
       }
+    ],
+    "forms": [
+      {
+        "word": "series",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsɪə.riːz/"
+      }
     ]
   },
   {
@@ -5463,6 +9508,32 @@
         "meaningVi": "đặt một công trình ở vị trí đã chọn",
         "example": "They will site the new school near the station.",
         "exampleVi": "Họ sẽ đặt trường học mới gần nhà ga."
+      }
+    ],
+    "forms": [
+      {
+        "word": "sites",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/saɪts/"
+      },
+      {
+        "word": "siting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/saɪtɪŋ/"
+      },
+      {
+        "word": "sited",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/saɪtɪd/"
       }
     ]
   },
@@ -5487,6 +9558,15 @@
         "meaningVi": "đế của bàn chân hoặc giày",
         "example": "A nail pierced the sole of his shoe.",
         "exampleVi": "Một chiếc đinh xuyên qua đế giày của anh ấy."
+      }
+    ],
+    "forms": [
+      {
+        "word": "soles",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/səʊlz/"
       }
     ]
   },
@@ -5522,6 +9602,32 @@
         "example": "The restaurant tries to source vegetables from local farms.",
         "exampleVi": "Nhà hàng cố gắng tìm nguồn rau từ các trang trại địa phương."
       }
+    ],
+    "forms": [
+      {
+        "word": "sources",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/sɔːsɪz/"
+      },
+      {
+        "word": "sourcing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/sɔːsɪŋ/"
+      },
+      {
+        "word": "sourced",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/sɔːst/"
+      }
     ]
   },
   {
@@ -5539,7 +9645,32 @@
       "specific",
       "specification"
     ],
-    "topic": "law"
+    "topic": "law",
+    "forms": [
+      {
+        "word": "specifies",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈspes.ɪ.faɪz/"
+      },
+      {
+        "word": "specifying",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈspes.ɪ.faɪɪŋ/"
+      },
+      {
+        "word": "specified",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈspes.ɪ.faɪd/"
+      }
+    ]
   },
   {
     "word": "sphere",
@@ -5560,6 +9691,15 @@
         "example": "The ball is almost a perfect sphere.",
         "exampleVi": "Quả bóng gần như là một khối cầu hoàn hảo."
       }
+    ],
+    "forms": [
+      {
+        "word": "spheres",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/sfɪərz/"
+      }
     ]
   },
   {
@@ -5576,6 +9716,15 @@
     "level": "B2",
     "family": [
       "statistical"
+    ],
+    "forms": [
+      {
+        "word": "statistics",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/stəˈtɪs.tɪks/"
+      }
     ]
   },
   {
@@ -5596,6 +9745,15 @@
         "meaningVi": "tình trạng hiện tại của một công việc",
         "example": "Check the status of your order online.",
         "exampleVi": "Kiểm tra tình trạng đơn hàng của bạn trên mạng."
+      }
+    ],
+    "forms": [
+      {
+        "word": "statuses",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsteɪ.təsɪz/"
       }
     ]
   },
@@ -5634,7 +9792,16 @@
     "family": [
       "strategic"
     ],
-    "topic": "work"
+    "topic": "work",
+    "forms": [
+      {
+        "word": "strategies",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈstræt.ə.dʒiz/"
+      }
+    ]
   },
   {
     "word": "stress",
@@ -5654,6 +9821,34 @@
         "meaningVi": "áp lực thể chất hoặc tinh thần",
         "example": "The long working hours caused him considerable stress.",
         "exampleVi": "Giờ làm việc kéo dài khiến anh ấy chịu áp lực tinh thần đáng kể."
+      }
+    ],
+    "forms": [
+      {
+        "word": "stresses",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/stresɪz/",
+        "example": "The author stresses that correlation is not cause.",
+        "exampleVi": "Tác giả nhấn mạnh rằng tương quan không phải nguyên nhân."
+      },
+      {
+        "word": "stressing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/stresɪŋ/"
+      },
+      {
+        "word": "stressed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/strest/"
       }
     ]
   },
@@ -5679,6 +9874,32 @@
         "example": "Structure the report around three main questions.",
         "exampleVi": "Tổ chức báo cáo xoay quanh ba câu hỏi chính."
       }
+    ],
+    "forms": [
+      {
+        "word": "structures",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈstrʌk.tʃərz/"
+      },
+      {
+        "word": "structuring",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈstrʌk.tʃərɪŋ/"
+      },
+      {
+        "word": "structured",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈstrʌk.tʃərd/"
+      }
     ]
   },
   {
@@ -5699,6 +9920,32 @@
         "meaningVi": "tạo kiểu tóc hoặc tạo hình theo phong cách",
         "example": "She asked the hairdresser to style her hair for the wedding.",
         "exampleVi": "Cô ấy nhờ thợ làm tóc tạo kiểu cho đám cưới."
+      }
+    ],
+    "forms": [
+      {
+        "word": "styles",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/staɪlz/"
+      },
+      {
+        "word": "styling",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/staɪlɪŋ/"
+      },
+      {
+        "word": "styled",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/staɪld/"
       }
     ]
   },
@@ -5721,6 +9968,15 @@
         "example": "The manager asked a subordinate to prepare the report.",
         "exampleVi": "Người quản lý yêu cầu một nhân viên cấp dưới chuẩn bị báo cáo."
       }
+    ],
+    "forms": [
+      {
+        "word": "subordinates",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/səˈbɔː.dɪ.nəts/"
+      }
     ]
   },
   {
@@ -5737,7 +9993,18 @@
     "family": [
       "subsidise"
     ],
-    "topic": "economy"
+    "topic": "economy",
+    "forms": [
+      {
+        "word": "subsidies",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsʌb.sɪ.diz/",
+        "example": "Fuel subsidies cost more than the health budget.",
+        "exampleVi": "Khoản trợ cấp nhà nước cho nhiên liệu tốn hơn ngân sách y tế."
+      }
+    ]
   },
   {
     "word": "substitute",
@@ -5761,6 +10028,32 @@
         "example": "A substitute took over when the goalkeeper was injured.",
         "exampleVi": "Một cầu thủ dự bị vào thay khi thủ môn bị chấn thương."
       }
+    ],
+    "forms": [
+      {
+        "word": "substitutes",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈsʌb.stɪ.tjuːts/"
+      },
+      {
+        "word": "substituting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈsʌb.stɪ.tjuːtɪŋ/"
+      },
+      {
+        "word": "substituted",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈsʌb.stɪ.tjuːtɪd/"
+      }
     ]
   },
   {
@@ -5781,6 +10074,15 @@
         "meaningVi": "số nguyên đứng ngay sau một số khác",
         "example": "The successor of eight is nine.",
         "exampleVi": "Số nguyên liền sau tám là chín."
+      }
+    ],
+    "forms": [
+      {
+        "word": "successors",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/səkˈses.ərz/"
       }
     ]
   },
@@ -5803,6 +10105,32 @@
         "example": "These two sentences sum up the main argument.",
         "exampleVi": "Hai câu này tóm tắt lập luận chính."
       }
+    ],
+    "forms": [
+      {
+        "word": "sums",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/sʌmz/"
+      },
+      {
+        "word": "summing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/sʌmɪŋ/"
+      },
+      {
+        "word": "summed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/sʌmd/"
+      }
     ]
   },
   {
@@ -5824,6 +10152,32 @@
         "example": "The engineers will survey the land before construction.",
         "exampleVi": "Các kỹ sư sẽ đo đạc đất trước khi xây dựng.",
         "ipa": "/səˈveɪ/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "surveys",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/səˈveɪz/, /ˈsɜː.veɪz/"
+      },
+      {
+        "word": "surveying",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/səˈveɪɪŋ/"
+      },
+      {
+        "word": "surveyed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/səˈveɪd/"
       }
     ]
   },
@@ -5849,6 +10203,33 @@
         "example": "Suspend the lamp from a hook in the ceiling.",
         "exampleVi": "Treo chiếc đèn từ một móc trên trần nhà."
       }
+    ],
+    "forms": [
+      {
+        "word": "suspends",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/səˈspendz/"
+      },
+      {
+        "word": "suspending",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/səˈspendɪŋ/"
+      },
+      {
+        "word": "suspended",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/səˈspendɪd/",
+        "example": "Flights were suspended for three days.",
+        "exampleVi": "Các chuyến bay bị tạm đình chỉ trong ba ngày."
+      }
     ]
   },
   {
@@ -5873,6 +10254,15 @@
         "example": "The chemical symbol for oxygen is O.",
         "exampleVi": "Ký hiệu hóa học của ôxy là O."
       }
+    ],
+    "forms": [
+      {
+        "word": "symbols",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsɪm.bəlz/"
+      }
     ]
   },
   {
@@ -5893,6 +10283,32 @@
         "meaningVi": "dán một thứ bằng băng dính",
         "example": "Tape the loose cable to the floor.",
         "exampleVi": "Dán dây cáp bị lỏng xuống sàn bằng băng dính."
+      }
+    ],
+    "forms": [
+      {
+        "word": "tapes",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/teɪps/"
+      },
+      {
+        "word": "taping",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/teɪpɪŋ/"
+      },
+      {
+        "word": "taped",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/teɪpt/"
       }
     ]
   },
@@ -5915,6 +10331,32 @@
         "example": "The campaign will target first-time voters.",
         "exampleVi": "Chiến dịch sẽ nhắm đến những cử tri bỏ phiếu lần đầu."
       }
+    ],
+    "forms": [
+      {
+        "word": "targets",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈtɑː.ɡɪts/"
+      },
+      {
+        "word": "targeting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈtɑː.ɡɪtɪŋ/"
+      },
+      {
+        "word": "targeted",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈtɑː.ɡɪtɪd/"
+      }
     ]
   },
   {
@@ -5936,6 +10378,32 @@
         "example": "The manager will task her with organising the event.",
         "exampleVi": "Người quản lý sẽ giao cho cô ấy nhiệm vụ tổ chức sự kiện."
       }
+    ],
+    "forms": [
+      {
+        "word": "tasks",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/tɑːsks/"
+      },
+      {
+        "word": "tasking",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/tɑːskɪŋ/"
+      },
+      {
+        "word": "tasked",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/tɑːskt/"
+      }
     ]
   },
   {
@@ -5956,6 +10424,32 @@
         "meaningVi": "lập nhóm để cùng làm việc",
         "example": "The two laboratories will team up to study the problem.",
         "exampleVi": "Hai phòng thí nghiệm sẽ lập nhóm để nghiên cứu vấn đề."
+      }
+    ],
+    "forms": [
+      {
+        "word": "teams",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/tiːmz/"
+      },
+      {
+        "word": "teaming",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/tiːmɪŋ/"
+      },
+      {
+        "word": "teamed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/tiːmd/"
       }
     ]
   },
@@ -5994,7 +10488,16 @@
       "awl"
     ],
     "level": "B1",
-    "topic": "health"
+    "topic": "health",
+    "forms": [
+      {
+        "word": "techniques",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/tekˈniːks/"
+      }
+    ]
   },
   {
     "word": "technology",
@@ -6017,6 +10520,15 @@
         "meaningVi": "các thiết bị được tạo ra bằng kỹ thuật",
         "example": "The laboratory has modern technology for testing samples.",
         "exampleVi": "Phòng thí nghiệm có thiết bị kỹ thuật hiện đại để kiểm tra mẫu."
+      }
+    ],
+    "forms": [
+      {
+        "word": "technologies",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/tekˈnɒl.ə.dʒiz/"
       }
     ]
   },
@@ -6042,6 +10554,15 @@
         "example": "The office hired a temporary to cover the holiday period.",
         "exampleVi": "Văn phòng thuê một nhân viên thời vụ để làm thay trong kỳ nghỉ."
       }
+    ],
+    "forms": [
+      {
+        "word": "temporaries",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtem.prə.riz/"
+      }
     ]
   },
   {
@@ -6065,6 +10586,15 @@
         "meaningVi": "thì của động từ",
         "example": "Use the past tense to describe yesterday's events.",
         "exampleVi": "Dùng thì quá khứ để mô tả các sự kiện hôm qua."
+      }
+    ],
+    "forms": [
+      {
+        "word": "tenses",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/tensɪz/"
       }
     ]
   },
@@ -6090,6 +10620,17 @@
         "example": "She sent me a text to say she was late.",
         "exampleVi": "Cô ấy gửi tin nhắn cho tôi để báo rằng mình đến muộn."
       }
+    ],
+    "forms": [
+      {
+        "word": "texts",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/teksts/",
+        "example": "Candidates read three texts in sixty minutes.",
+        "exampleVi": "Thí sinh đọc ba văn bản trong sáu mươi phút."
+      }
     ]
   },
   {
@@ -6114,6 +10655,32 @@
         "example": "They will theme the festival around local history.",
         "exampleVi": "Họ sẽ xây dựng lễ hội theo chủ đề lịch sử địa phương."
       }
+    ],
+    "forms": [
+      {
+        "word": "themes",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/θiːmz/"
+      },
+      {
+        "word": "theming",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/θiːmɪŋ/"
+      },
+      {
+        "word": "themed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/θiːmd/"
+      }
     ]
   },
   {
@@ -6137,6 +10704,15 @@
         "meaningVi": "giả thuyết cá nhân chưa được chứng minh",
         "example": "My theory is that the missing key is in the kitchen.",
         "exampleVi": "Giả thuyết của tôi là chiếc chìa khóa bị mất đang ở trong bếp."
+      }
+    ],
+    "forms": [
+      {
+        "word": "theories",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈθɪə.riz/"
       }
     ]
   },
@@ -6172,6 +10748,15 @@
         "example": "The essay's thesis is that public transport needs more funding.",
         "exampleVi": "Luận điểm của bài luận là giao thông công cộng cần được tài trợ nhiều hơn."
       }
+    ],
+    "forms": [
+      {
+        "word": "theses",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈθiːsiːz/"
+      }
     ]
   },
   {
@@ -6185,7 +10770,16 @@
       "awl"
     ],
     "level": "A2",
-    "topic": "education"
+    "topic": "education",
+    "forms": [
+      {
+        "word": "topics",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtɒp.ɪks/"
+      }
+    ]
   },
   {
     "word": "transit",
@@ -6205,6 +10799,31 @@
         "meaningVi": "đi ngang qua một khu vực",
         "example": "The ship will transit the canal before dawn.",
         "exampleVi": "Con tàu sẽ đi qua kênh trước bình minh."
+      }
+    ],
+    "forms": [
+      {
+        "word": "transits",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈtræn.sɪts/"
+      },
+      {
+        "word": "transiting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈtræn.sɪtɪŋ/"
+      },
+      {
+        "word": "transited",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈtræn.sɪtɪd/"
       }
     ]
   },
@@ -6230,6 +10849,33 @@
         "example": "The antenna can transmit signals across the valley.",
         "exampleVi": "Ăng ten có thể truyền tín hiệu qua thung lũng."
       }
+    ],
+    "forms": [
+      {
+        "word": "transmits",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/trænˈsmɪts/",
+        "example": "The virus transmits most easily in crowded rooms.",
+        "exampleVi": "Vi-rút lây truyền dễ nhất trong phòng đông người."
+      },
+      {
+        "word": "transmitting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/trænˈsmɪtɪŋ/"
+      },
+      {
+        "word": "transmitted",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/trænˈsmɪtɪd/"
+      }
     ]
   },
   {
@@ -6251,6 +10897,31 @@
         "example": "These trucks transport goods to the port.",
         "exampleVi": "Những chiếc xe tải này vận chuyển hàng hóa đến cảng.",
         "ipa": "/trænˈspɔːt/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "transports",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/trænˈspɔːts/"
+      },
+      {
+        "word": "transporting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/trænˈspɔːtɪŋ/"
+      },
+      {
+        "word": "transported",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/trænˈspɔːtɪd/"
       }
     ]
   },
@@ -6276,6 +10947,37 @@
         "example": "Layers of clay underlie the sandy soil.",
         "exampleVi": "Các lớp đất sét nằm bên dưới lớp đất cát."
       }
+    ],
+    "forms": [
+      {
+        "word": "underlies",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˌʌn.dəˈlaɪz/"
+      },
+      {
+        "word": "underlying",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˌʌn.dəˈlaɪɪŋ/"
+      },
+      {
+        "word": "underlay",
+        "types": [
+          "past_simple"
+        ],
+        "ipa": "/ˌʌn.dəˈleɪ/"
+      },
+      {
+        "word": "underlain",
+        "types": [
+          "past_participle"
+        ],
+        "ipa": "/ˌʌn.dəˈleɪn/"
+      }
     ]
   },
   {
@@ -6297,6 +10999,15 @@
         "example": "Every nurse wears a clean uniform.",
         "exampleVi": "Mỗi y tá mặc một bộ đồng phục sạch."
       }
+    ],
+    "forms": [
+      {
+        "word": "uniforms",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈjuː.nɪ.fɔːmz/"
+      }
     ]
   },
   {
@@ -6314,7 +11025,34 @@
       "unified",
       "unity"
     ],
-    "topic": "education"
+    "topic": "education",
+    "forms": [
+      {
+        "word": "unifies",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈjuː.nɪ.faɪz/"
+      },
+      {
+        "word": "unifying",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈjuː.nɪ.faɪɪŋ/"
+      },
+      {
+        "word": "unified",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈjuː.nɪ.faɪd/",
+        "example": "A single exam unified a fragmented system.",
+        "exampleVi": "Một kỳ thi duy nhất hợp nhất lại thành một hệ thống vốn phân mảnh."
+      }
+    ]
   },
   {
     "word": "unique",
@@ -6340,7 +11078,32 @@
       "awl"
     ],
     "level": "C1",
-    "topic": "education"
+    "topic": "education",
+    "forms": [
+      {
+        "word": "utilises",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈjuː.tə.laɪzɪz/"
+      },
+      {
+        "word": "utilising",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈjuː.tə.laɪzɪŋ/"
+      },
+      {
+        "word": "utilised",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈjuː.tə.laɪzd/"
+      }
+    ]
   },
   {
     "word": "valid",
@@ -6386,6 +11149,15 @@
         "example": "Her version of the accident differed from his.",
         "exampleVi": "Cách cô ấy kể về tai nạn khác với cách anh ấy kể."
       }
+    ],
+    "forms": [
+      {
+        "word": "versions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈvɜː.ʃənz/"
+      }
     ]
   },
   {
@@ -6415,7 +11187,34 @@
     "family": [
       "violation"
     ],
-    "topic": "law"
+    "topic": "law",
+    "forms": [
+      {
+        "word": "violates",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈvaɪ.ə.leɪts/"
+      },
+      {
+        "word": "violating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈvaɪ.ə.leɪtɪŋ/"
+      },
+      {
+        "word": "violated",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈvaɪ.ə.leɪtɪd/",
+        "example": "The factory violated three safety regulations.",
+        "exampleVi": "Nhà máy vi phạm ba quy định an toàn."
+      }
+    ]
   },
   {
     "word": "visible",
@@ -6452,6 +11251,15 @@
         "example": "The test checks your distance vision.",
         "exampleVi": "Bài kiểm tra đánh giá khả năng nhìn xa của bạn."
       }
+    ],
+    "forms": [
+      {
+        "word": "visions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈvɪʒ.ənz/"
+      }
     ]
   },
   {
@@ -6476,6 +11284,15 @@
         "example": "Add a clear visual to explain the sales figures.",
         "exampleVi": "Thêm một hình minh họa rõ ràng để giải thích số liệu bán hàng."
       }
+    ],
+    "forms": [
+      {
+        "word": "visuals",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈvɪʒ.u.əlz/"
+      }
     ]
   },
   {
@@ -6496,6 +11313,15 @@
         "meaningVi": "một quyển sách trong bộ nhiều tập",
         "example": "The library owns the second volume of the encyclopedia.",
         "exampleVi": "Thư viện có quyển thứ hai của bộ bách khoa toàn thư."
+      }
+    ],
+    "forms": [
+      {
+        "word": "volumes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈvɒl.juːmz/"
       }
     ]
   },
@@ -6569,6 +11395,32 @@
         "example": "Trained workers sex the chicks shortly after hatching.",
         "exampleVi": "Những nhân viên được đào tạo xác định giới tính gà con ngay sau khi nở."
       }
+    ],
+    "forms": [
+      {
+        "word": "sexes",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/seksɪz/"
+      },
+      {
+        "word": "sexing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/seksɪŋ/"
+      },
+      {
+        "word": "sexed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/sekst/"
+      }
     ]
   },
   {
@@ -6603,6 +11455,34 @@
         "example": "The new transfer joined our class on Monday.",
         "exampleVi": "Học sinh mới chuyển đến gia nhập lớp chúng tôi vào thứ Hai.",
         "ipa": "/ˈtræns.fɜː/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "transfers",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/trænsˈfɜːrz/, /ˈtræns.fɜːz/"
+      },
+      {
+        "word": "transferring",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/trænsˈfɜːrɪŋ/"
+      },
+      {
+        "word": "transferred",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/trænsˈfɜːrd/",
+        "example": "He transferred the money yesterday.",
+        "exampleVi": "Anh ấy đã chuyển tiền hôm qua."
       }
     ]
   }

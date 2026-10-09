@@ -5,7 +5,16 @@
     "pos": "noun",
     "meaningVi": "lớp trừu tượng che chi tiết bên dưới",
     "example": "Add one abstraction layer, not three.",
-    "exampleVi": "Thêm một lớp trừu tượng thôi, đừng ba lớp."
+    "exampleVi": "Thêm một lớp trừu tượng thôi, đừng ba lớp.",
+    "forms": [
+      {
+        "word": "abstraction layers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/æbˈstræk.ʃən ˈleɪ.ərz/"
+      }
+    ]
   },
   {
     "word": "alert fatigue",
@@ -21,7 +30,16 @@
     "pos": "noun",
     "meaningVi": "cổng vào chung cho mọi API",
     "example": "Auth happens at the API gateway.",
-    "exampleVi": "Việc xác thực diễn ra ở cổng API chung."
+    "exampleVi": "Việc xác thực diễn ra ở cổng API chung.",
+    "forms": [
+      {
+        "word": "API gateways",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌeɪ.piːˈaɪ ˈɡeɪt.weɪz/"
+      }
+    ]
   },
   {
     "word": "artifact registry",
@@ -29,7 +47,16 @@
     "pos": "noun",
     "meaningVi": "kho chứa bản build",
     "example": "Push the image to the artifact registry.",
-    "exampleVi": "Đẩy image lên kho chứa bản build."
+    "exampleVi": "Đẩy image lên kho chứa bản build.",
+    "forms": [
+      {
+        "word": "artifact registries",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɑː.tɪ.fækt ˈredʒ.ɪ.striz/"
+      }
+    ]
   },
   {
     "word": "at-least-once",
@@ -61,7 +88,16 @@
     "pos": "noun",
     "meaningVi": "bề mặt tấn công, chỗ kẻ xấu có thể chạm tới",
     "example": "Closing that port shrinks the attack surface.",
-    "exampleVi": "Đóng cổng đó thu nhỏ bề mặt tấn công."
+    "exampleVi": "Đóng cổng đó thu nhỏ bề mặt tấn công.",
+    "forms": [
+      {
+        "word": "attack surfaces",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/əˈtæk ˈsɜː.fɪsɪz/"
+      }
+    ]
   },
   {
     "word": "autoscaling",
@@ -93,7 +129,23 @@
     "pos": "noun",
     "meaningVi": "phạm vi ảnh hưởng khi hỏng",
     "example": "Feature flags shrink the blast radius.",
-    "exampleVi": "Cờ tính năng thu nhỏ phạm vi ảnh hưởng."
+    "exampleVi": "Cờ tính năng thu nhỏ phạm vi ảnh hưởng.",
+    "forms": [
+      {
+        "word": "blast radii",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/blɑːst ˈreɪdiaɪ/"
+      },
+      {
+        "word": "blast radiuses",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/blɑːst ˈreɪ.di.əsɪz/"
+      }
+    ]
   },
   {
     "word": "blue-green deployment",
@@ -101,7 +153,16 @@
     "pos": "noun",
     "meaningVi": "triển khai hai môi trường song song rồi chuyển luồng",
     "example": "Blue-green deployment let us switch back instantly.",
-    "exampleVi": "Triển khai song song cho phép chúng tôi quay lại tức thì."
+    "exampleVi": "Triển khai song song cho phép chúng tôi quay lại tức thì.",
+    "forms": [
+      {
+        "word": "blue-green deployments",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌbluː ɡriːn dɪˈplɔɪ.mənts/"
+      }
+    ]
   },
   {
     "word": "boilerplate code",
@@ -117,7 +178,16 @@
     "pos": "noun",
     "meaningVi": "tràn bộ đệm, ghi quá vùng cấp phát",
     "example": "The parser had a buffer overflow.",
-    "exampleVi": "Bộ phân tích đó có lỗi tràn bộ đệm."
+    "exampleVi": "Bộ phân tích đó có lỗi tràn bộ đệm.",
+    "forms": [
+      {
+        "word": "buffer overflows",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈbʌf.ər ˈəʊ.və.fləʊz/"
+      }
+    ]
   },
   {
     "word": "build reproducibility",
@@ -141,6 +211,17 @@
         "example": "A steel bulkhead separates the ship's compartments.",
         "exampleVi": "Một vách ngăn thép chia các khoang của tàu."
       }
+    ],
+    "forms": [
+      {
+        "word": "bulkheads",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈbʌlk.hedz/",
+        "example": "Bulkheads keep one slow call from sinking the service.",
+        "exampleVi": "Vách ngăn giữ cho một lời gọi chậm không kéo sập cả dịch vụ."
+      }
     ]
   },
   {
@@ -149,7 +230,16 @@
     "pos": "noun",
     "meaningVi": "tỉ lệ lấy được từ cache",
     "example": "The cache hit ratio dropped to sixty percent.",
-    "exampleVi": "Tỉ lệ lấy được từ cache tụt xuống sáu mươi phần trăm."
+    "exampleVi": "Tỉ lệ lấy được từ cache tụt xuống sáu mươi phần trăm.",
+    "forms": [
+      {
+        "word": "cache hit ratios",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kæʃ hɪt ˈreɪ.ʃi.əʊz/"
+      }
+    ]
   },
   {
     "word": "cache invalidation",
@@ -173,7 +263,16 @@
     "pos": "noun",
     "meaningVi": "số lượng giá trị khác nhau",
     "example": "High cardinality labels blow up the metric store.",
-    "exampleVi": "Nhãn có quá nhiều giá trị khác nhau làm phình kho số liệu."
+    "exampleVi": "Nhãn có quá nhiều giá trị khác nhau làm phình kho số liệu.",
+    "forms": [
+      {
+        "word": "cardinalities",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌkɑː.dɪˈnæl.ə.tiz/"
+      }
+    ]
   },
   {
     "word": "certificate pinning",
@@ -189,7 +288,16 @@
     "pos": "noun",
     "meaningVi": "mục ghi thay đổi của bản phát hành",
     "example": "Every merge needs a changelog entry.",
-    "exampleVi": "Mỗi lần merge cần một mục ghi thay đổi."
+    "exampleVi": "Mỗi lần merge cần một mục ghi thay đổi.",
+    "forms": [
+      {
+        "word": "changelog entries",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtʃeɪndʒ.lɒɡ ˈen.triz/"
+      }
+    ]
   },
   {
     "word": "chaos engineering",
@@ -221,6 +329,15 @@
         "example": "The circuit breaker cut the power to the damaged cable.",
         "exampleVi": "Cầu dao tự động ngắt điện tới dây cáp bị hỏng."
       }
+    ],
+    "forms": [
+      {
+        "word": "circuit breakers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsɜː.kɪt ˈbreɪ.kərz/"
+      }
     ]
   },
   {
@@ -237,6 +354,15 @@
         "example": "The factory closure left many workers without jobs.",
         "exampleVi": "Việc đóng cửa nhà máy khiến nhiều công nhân mất việc."
       }
+    ],
+    "forms": [
+      {
+        "word": "closures",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkləʊ.ʒərz/"
+      }
     ]
   },
   {
@@ -245,7 +371,16 @@
     "pos": "noun",
     "meaningVi": "dấu hiệu code có vấn đề",
     "example": "A long parameter list is a code smell.",
-    "exampleVi": "Danh sách tham số quá dài là một dấu hiệu code có vấn đề."
+    "exampleVi": "Danh sách tham số quá dài là một dấu hiệu code có vấn đề.",
+    "forms": [
+      {
+        "word": "code smells",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kəʊd smelz/"
+      }
+    ]
   },
   {
     "word": "cohesion",
@@ -277,6 +412,15 @@
         "example": "The engine struggled during a cold start on a winter morning.",
         "exampleVi": "Động cơ khó khởi động khi còn nguội vào một sáng mùa đông."
       }
+    ],
+    "forms": [
+      {
+        "word": "cold starts",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kəʊld stɑːts/"
+      }
     ]
   },
   {
@@ -293,7 +437,16 @@
     "pos": "noun",
     "meaningVi": "bể kết nối dùng lại",
     "example": "The connection pool was exhausted.",
-    "exampleVi": "Bể kết nối đã cạn."
+    "exampleVi": "Bể kết nối đã cạn.",
+    "forms": [
+      {
+        "word": "connection pools",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kəˈnek.ʃən puːlz/"
+      }
+    ]
   },
   {
     "word": "consensus",
@@ -308,6 +461,15 @@
         "meaningVi": "sự nhất trí chung của một nhóm người",
         "example": "The committee reached a consensus on the new policy.",
         "exampleVi": "Ủy ban đạt được sự nhất trí về chính sách mới."
+      }
+    ],
+    "forms": [
+      {
+        "word": "consensuses",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kənˈsen.səsɪz/"
       }
     ]
   },
@@ -325,7 +487,16 @@
     "pos": "noun",
     "meaningVi": "mã nối các bản ghi của cùng một yêu cầu",
     "example": "Log the correlation id everywhere.",
-    "exampleVi": "Ghi mã nối yêu cầu ở mọi nơi."
+    "exampleVi": "Ghi mã nối yêu cầu ở mọi nơi.",
+    "forms": [
+      {
+        "word": "correlation ids",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌkɒr.əˈleɪ.ʃən ˌaɪˈdiːz/"
+      }
+    ]
   },
   {
     "word": "coupling",
@@ -341,6 +512,15 @@
         "example": "The mechanic replaced the coupling between the two shafts.",
         "exampleVi": "Thợ máy thay khớp nối giữa hai trục."
       }
+    ],
+    "forms": [
+      {
+        "word": "couplings",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkʌp.lɪŋz/"
+      }
     ]
   },
   {
@@ -349,7 +529,16 @@
     "pos": "noun",
     "meaningVi": "khoảng trống chưa được test phủ",
     "example": "The report shows a coverage gap in auth.",
-    "exampleVi": "Báo cáo cho thấy phần xác thực còn khoảng trống chưa test."
+    "exampleVi": "Báo cáo cho thấy phần xác thực còn khoảng trống chưa test.",
+    "forms": [
+      {
+        "word": "coverage gaps",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkʌv.ər.ɪdʒ ɡæps/"
+      }
+    ]
   },
   {
     "word": "cross-site scripting",
@@ -365,7 +554,16 @@
     "pos": "noun",
     "meaningVi": "độ phức tạp theo số nhánh rẽ",
     "example": "That function has high cyclomatic complexity.",
-    "exampleVi": "Hàm đó có độ phức tạp nhánh rẽ rất cao."
+    "exampleVi": "Hàm đó có độ phức tạp nhánh rẽ rất cao.",
+    "forms": [
+      {
+        "word": "cyclomatic complexities",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌsaɪ.kləˈmæt.ɪk kəmˈplek.sə.tiz/"
+      }
+    ]
   },
   {
     "word": "dangling pointer",
@@ -373,7 +571,16 @@
     "pos": "noun",
     "meaningVi": "con trỏ trỏ vào vùng đã giải phóng",
     "example": "A dangling pointer caused the crash.",
-    "exampleVi": "Một con trỏ trỏ vào vùng đã giải phóng gây ra cú sập."
+    "exampleVi": "Một con trỏ trỏ vào vùng đã giải phóng gây ra cú sập.",
+    "forms": [
+      {
+        "word": "dangling pointers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈdæŋ.ɡlɪŋ ˈpɔɪn.tərz/"
+      }
+    ]
   },
   {
     "word": "dark launch",
@@ -381,7 +588,16 @@
     "pos": "noun",
     "meaningVi": "chạy ngầm chưa lộ cho người dùng",
     "example": "We dark launched the new engine.",
-    "exampleVi": "Chúng tôi cho động cơ mới chạy ngầm trước."
+    "exampleVi": "Chúng tôi cho động cơ mới chạy ngầm trước.",
+    "forms": [
+      {
+        "word": "dark launches",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/dɑːk lɔːntʃɪz/"
+      }
+    ]
   },
   {
     "word": "dead letter queue",
@@ -389,7 +605,16 @@
     "pos": "noun",
     "meaningVi": "hàng đợi chứa tin xử lý thất bại",
     "example": "Failed jobs land in the dead letter queue.",
-    "exampleVi": "Việc xử lý thất bại rơi vào hàng đợi tin hỏng."
+    "exampleVi": "Việc xử lý thất bại rơi vào hàng đợi tin hỏng.",
+    "forms": [
+      {
+        "word": "dead letter queues",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ded ˈlet.ər kjuːz/"
+      }
+    ]
   },
   {
     "word": "debounce",
@@ -397,7 +622,32 @@
     "pos": "verb",
     "meaningVi": "gom nhiều lần gọi liên tiếp thành một",
     "example": "Debounce the search box by 300 ms.",
-    "exampleVi": "Gom các lần gõ trong ô tìm kiếm lại sau 300 ms."
+    "exampleVi": "Gom các lần gõ trong ô tìm kiếm lại sau 300 ms.",
+    "forms": [
+      {
+        "word": "debounces",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/dɪˈbaʊnsɪz/"
+      },
+      {
+        "word": "debouncing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/dɪˈbaʊnsɪŋ/"
+      },
+      {
+        "word": "debounced",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/dɪˈbaʊnst/"
+      }
+    ]
   },
   {
     "word": "denormalize",
@@ -405,7 +655,34 @@
     "pos": "verb",
     "meaningVi": "gộp bảng lại để đọc nhanh hơn",
     "example": "We denormalized the table to skip the join.",
-    "exampleVi": "Chúng tôi gộp bảng lại để bỏ được phép join."
+    "exampleVi": "Chúng tôi gộp bảng lại để bỏ được phép join.",
+    "forms": [
+      {
+        "word": "denormalizes",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˌdiːˈnɔː.mə.laɪzɪz/"
+      },
+      {
+        "word": "denormalizing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˌdiːˈnɔː.mə.laɪzɪŋ/"
+      },
+      {
+        "word": "denormalized",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˌdiːˈnɔː.mə.laɪzd/",
+        "example": "We denormalized the table to skip the join.",
+        "exampleVi": "Chúng tôi gộp bảng lại để bỏ được phép join."
+      }
+    ]
   },
   {
     "word": "dependency injection",
@@ -413,7 +690,16 @@
     "pos": "noun",
     "meaningVi": "tiêm phụ thuộc từ ngoài vào",
     "example": "Dependency injection made it testable.",
-    "exampleVi": "Việc tiêm phụ thuộc từ ngoài giúp nó kiểm thử được."
+    "exampleVi": "Việc tiêm phụ thuộc từ ngoài giúp nó kiểm thử được.",
+    "forms": [
+      {
+        "word": "dependency injections",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/dɪˈpen.dən.si ɪnˈdʒek.ʃənz/"
+      }
+    ]
   },
   {
     "word": "dependency pinning",
@@ -429,7 +715,16 @@
     "pos": "noun",
     "meaningVi": "thông báo sắp ngừng hỗ trợ",
     "example": "Send the deprecation notice six months ahead.",
-    "exampleVi": "Gửi thông báo ngừng hỗ trợ trước sáu tháng."
+    "exampleVi": "Gửi thông báo ngừng hỗ trợ trước sáu tháng.",
+    "forms": [
+      {
+        "word": "deprecation notices",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌdep.rəˈkeɪ.ʃən ˈnəʊ.tɪsɪz/"
+      }
+    ]
   },
   {
     "word": "dirty read",
@@ -437,7 +732,16 @@
     "pos": "noun",
     "meaningVi": "đọc phải dữ liệu chưa commit",
     "example": "A dirty read showed the wrong balance.",
-    "exampleVi": "Một lần đọc dữ liệu chưa commit cho ra số dư sai."
+    "exampleVi": "Một lần đọc dữ liệu chưa commit cho ra số dư sai.",
+    "forms": [
+      {
+        "word": "dirty reads",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈdɜː.ti riːdz/"
+      }
+    ]
   },
   {
     "word": "distributed tracing",
@@ -461,6 +765,31 @@
         "example": "Drain the water from the sink.",
         "exampleVi": "Xả hết nước trong bồn rửa."
       }
+    ],
+    "forms": [
+      {
+        "word": "drains",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/dreɪnz/"
+      },
+      {
+        "word": "draining",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/dreɪnɪŋ/"
+      },
+      {
+        "word": "drained",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/dreɪnd/"
+      }
     ]
   },
   {
@@ -476,6 +805,31 @@
         "meaningVi": "trôi dạt theo gió hoặc dòng nước",
         "example": "The small boat began to drift away from the shore.",
         "exampleVi": "Chiếc thuyền nhỏ bắt đầu trôi xa bờ."
+      }
+    ],
+    "forms": [
+      {
+        "word": "drifts",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/drɪfts/"
+      },
+      {
+        "word": "drifting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/drɪftɪŋ/"
+      },
+      {
+        "word": "drifted",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/drɪftɪd/"
       }
     ]
   },
@@ -501,6 +855,15 @@
         "example": "Do not place the glass near the edge of the table.",
         "exampleVi": "Đừng đặt chiếc cốc gần mép bàn."
       }
+    ],
+    "forms": [
+      {
+        "word": "edges",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/edʒɪz/"
+      }
     ]
   },
   {
@@ -525,7 +888,16 @@
     "pos": "noun",
     "meaningVi": "mức lỗi cho phép trong kỳ",
     "example": "We burned the error budget in one outage.",
-    "exampleVi": "Chúng tôi đốt sạch mức lỗi cho phép chỉ trong một sự cố."
+    "exampleVi": "Chúng tôi đốt sạch mức lỗi cho phép chỉ trong một sự cố.",
+    "forms": [
+      {
+        "word": "error budgets",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈer.ər ˈbʌdʒ.ɪts/"
+      }
+    ]
   },
   {
     "word": "eventual consistency",
@@ -557,7 +929,16 @@
     "pos": "noun",
     "meaningVi": "công tắc bật tắt tính năng lúc chạy",
     "example": "Hide it behind a feature toggle.",
-    "exampleVi": "Giấu nó sau một công tắc tính năng."
+    "exampleVi": "Giấu nó sau một công tắc tính năng.",
+    "forms": [
+      {
+        "word": "feature toggles",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈfiː.tʃər ˈtɒɡ.əlz/"
+      }
+    ]
   },
   {
     "word": "fixture",
@@ -573,6 +954,15 @@
         "example": "The plumber installed a new bathroom fixture.",
         "exampleVi": "Thợ sửa ống nước lắp một thiết bị cố định mới trong phòng tắm."
       }
+    ],
+    "forms": [
+      {
+        "word": "fixtures",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈfɪks.tʃərz/"
+      }
     ]
   },
   {
@@ -581,7 +971,16 @@
     "pos": "noun",
     "meaningVi": "test lúc đậu lúc rớt thất thường",
     "example": "Quarantine the flaky test.",
-    "exampleVi": "Tách riêng cái test thất thường đó ra."
+    "exampleVi": "Tách riêng cái test thất thường đó ra.",
+    "forms": [
+      {
+        "word": "flaky tests",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈfleɪ.ki tests/"
+      }
+    ]
   },
   {
     "word": "foreign key",
@@ -589,7 +988,16 @@
     "pos": "noun",
     "meaningVi": "khoá ngoại",
     "example": "Add a foreign key to the orders table.",
-    "exampleVi": "Thêm khoá ngoại vào bảng đơn hàng."
+    "exampleVi": "Thêm khoá ngoại vào bảng đơn hàng.",
+    "forms": [
+      {
+        "word": "foreign keys",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈfɒr.ən kiːz/"
+      }
+    ]
   },
   {
     "word": "full table scan",
@@ -597,7 +1005,16 @@
     "pos": "noun",
     "meaningVi": "quét toàn bộ bảng",
     "example": "Without the index it does a full table scan.",
-    "exampleVi": "Không có index thì nó quét toàn bộ bảng."
+    "exampleVi": "Không có index thì nó quét toàn bộ bảng.",
+    "forms": [
+      {
+        "word": "full table scans",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/fʊl ˈteɪ.bəl skænz/"
+      }
+    ]
   },
   {
     "word": "gossip protocol",
@@ -605,7 +1022,16 @@
     "pos": "noun",
     "meaningVi": "giao thức lan tin giữa các node",
     "example": "Nodes share state via a gossip protocol.",
-    "exampleVi": "Các node chia sẻ trạng thái qua giao thức lan tin."
+    "exampleVi": "Các node chia sẻ trạng thái qua giao thức lan tin.",
+    "forms": [
+      {
+        "word": "gossip protocols",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɡɒs.ɪp ˈprəʊ.tə.kɒlz/"
+      }
+    ]
   },
   {
     "word": "graceful shutdown",
@@ -613,7 +1039,16 @@
     "pos": "noun",
     "meaningVi": "tắt êm, xử lý nốt việc đang chạy",
     "example": "Graceful shutdown drains the queue first.",
-    "exampleVi": "Tắt êm sẽ xử lý hết hàng đợi trước."
+    "exampleVi": "Tắt êm sẽ xử lý hết hàng đợi trước.",
+    "forms": [
+      {
+        "word": "graceful shutdowns",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɡreɪs.fəl ˈʃʌt.daʊnz/"
+      }
+    ]
   },
   {
     "word": "handshake",
@@ -628,6 +1063,15 @@
         "meaningVi": "cái bắt tay khi chào hỏi hoặc thỏa thuận",
         "example": "They greeted each other with a firm handshake.",
         "exampleVi": "Họ chào nhau bằng một cái bắt tay chắc chắn."
+      }
+    ],
+    "forms": [
+      {
+        "word": "handshakes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈhænd.ʃeɪks/"
       }
     ]
   },
@@ -653,6 +1097,17 @@
         "example": "She could hear her own heartbeat in the quiet room.",
         "exampleVi": "Cô ấy nghe được nhịp tim của mình trong căn phòng yên tĩnh."
       }
+    ],
+    "forms": [
+      {
+        "word": "heartbeats",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈhɑːt.biːts/",
+        "example": "Miss three heartbeats and the node is dropped.",
+        "exampleVi": "Trượt ba tín hiệu báo sống là node bị loại."
+      }
     ]
   },
   {
@@ -661,7 +1116,16 @@
     "pos": "noun",
     "meaningVi": "phân vùng bị dồn tải",
     "example": "One hot partition slowed every write.",
-    "exampleVi": "Một phân vùng bị dồn tải làm chậm mọi lần ghi."
+    "exampleVi": "Một phân vùng bị dồn tải làm chậm mọi lần ghi.",
+    "forms": [
+      {
+        "word": "hot partitions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/hɒt pɑːˈtɪʃ.ənz/"
+      }
+    ]
   },
   {
     "word": "hotpath",
@@ -669,7 +1133,16 @@
     "pos": "noun",
     "meaningVi": "đoạn code chạy nhiều nhất",
     "example": "Do not allocate on the hotpath.",
-    "exampleVi": "Đừng cấp phát bộ nhớ trên đoạn code chạy nhiều nhất."
+    "exampleVi": "Đừng cấp phát bộ nhớ trên đoạn code chạy nhiều nhất.",
+    "forms": [
+      {
+        "word": "hotpaths",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈhɒt.pɑːθs/"
+      }
+    ]
   },
   {
     "word": "idempotency key",
@@ -677,7 +1150,16 @@
     "pos": "noun",
     "meaningVi": "khoá chống xử lý trùng",
     "example": "Send an idempotency key with every charge.",
-    "exampleVi": "Gửi kèm khoá chống trùng ở mỗi lần tính phí."
+    "exampleVi": "Gửi kèm khoá chống trùng ở mỗi lần tính phí.",
+    "forms": [
+      {
+        "word": "idempotency keys",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌaɪ.demˈpəʊ.tən.si kiːz/"
+      }
+    ]
   },
   {
     "word": "infrastructure as code",
@@ -701,6 +1183,15 @@
         "example": "The nurse gave him an injection.",
         "exampleVi": "Y tá tiêm cho anh ấy một mũi."
       }
+    ],
+    "forms": [
+      {
+        "word": "injections",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɪnˈdʒek.ʃənz/"
+      }
     ]
   },
   {
@@ -717,7 +1208,16 @@
     "pos": "noun",
     "meaningVi": "mức cô lập giao dịch",
     "example": "Raise the isolation level to avoid dirty reads.",
-    "exampleVi": "Nâng mức cô lập để tránh đọc dữ liệu bẩn."
+    "exampleVi": "Nâng mức cô lập để tránh đọc dữ liệu bẩn.",
+    "forms": [
+      {
+        "word": "isolation levels",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌaɪ.səˈleɪ.ʃən ˈlev.əlz/"
+      }
+    ]
   },
   {
     "word": "jitter",
@@ -732,6 +1232,32 @@
         "meaningVi": "rung hoặc chuyển động nhanh, không đều",
         "example": "The loose wheel began to jitter on the rough road.",
         "exampleVi": "Bánh xe lỏng bắt đầu rung trên con đường gồ ghề."
+      }
+    ],
+    "forms": [
+      {
+        "word": "jitters",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈdʒɪt.ərz/"
+      },
+      {
+        "word": "jittering",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈdʒɪt.ərɪŋ/"
+      },
+      {
+        "word": "jittered",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈdʒɪt.ərd/"
       }
     ]
   },
@@ -749,6 +1275,32 @@
         "example": "The tired runner began to lag behind the group.",
         "exampleVi": "Vận động viên mệt mỏi bắt đầu tụt lại phía sau nhóm."
       }
+    ],
+    "forms": [
+      {
+        "word": "lags",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/læɡz/"
+      },
+      {
+        "word": "lagging",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/læɡɪŋ/"
+      },
+      {
+        "word": "lagged",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/læɡd/"
+      }
     ]
   },
   {
@@ -765,7 +1317,16 @@
     "pos": "noun",
     "meaningVi": "bầu node chủ",
     "example": "Leader election took four seconds.",
-    "exampleVi": "Việc bầu node chủ mất bốn giây."
+    "exampleVi": "Việc bầu node chủ mất bốn giây.",
+    "forms": [
+      {
+        "word": "leader elections",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈliː.dər ɪˈlek.ʃənz/"
+      }
+    ]
   },
   {
     "word": "linting",
@@ -781,7 +1342,16 @@
     "pos": "noun",
     "meaningVi": "phép thử xem tiến trình còn sống",
     "example": "The liveness probe restarts stuck pods.",
-    "exampleVi": "Phép thử còn sống sẽ khởi động lại pod bị treo."
+    "exampleVi": "Phép thử còn sống sẽ khởi động lại pod bị treo.",
+    "forms": [
+      {
+        "word": "liveness probes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈlaɪv.nəs prəʊbz/"
+      }
+    ]
   },
   {
     "word": "load balancer",
@@ -789,7 +1359,16 @@
     "pos": "noun",
     "meaningVi": "bộ cân bằng tải",
     "example": "The load balancer drops unhealthy nodes.",
-    "exampleVi": "Bộ cân bằng tải loại các node không khoẻ."
+    "exampleVi": "Bộ cân bằng tải loại các node không khoẻ.",
+    "forms": [
+      {
+        "word": "load balancers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ləʊd ˈbæl.ən.sərz/"
+      }
+    ]
   },
   {
     "word": "log level",
@@ -797,7 +1376,16 @@
     "pos": "noun",
     "meaningVi": "mức chi tiết của nhật ký",
     "example": "Drop the log level to warn in production.",
-    "exampleVi": "Hạ mức nhật ký xuống warn khi chạy thật."
+    "exampleVi": "Hạ mức nhật ký xuống warn khi chạy thật.",
+    "forms": [
+      {
+        "word": "log levels",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/lɒɡ ˈlev.əlz/"
+      }
+    ]
   },
   {
     "word": "materialized view",
@@ -805,7 +1393,16 @@
     "pos": "noun",
     "meaningVi": "khung nhìn đã tính sẵn và lưu lại",
     "example": "The report reads a materialized view.",
-    "exampleVi": "Báo cáo đọc từ một khung nhìn tính sẵn."
+    "exampleVi": "Báo cáo đọc từ một khung nhìn tính sẵn.",
+    "forms": [
+      {
+        "word": "materialized views",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/məˈtɪə.ri.ə.laɪzd vjuːz/"
+      }
+    ]
   },
   {
     "word": "memoization",
@@ -821,7 +1418,16 @@
     "pos": "noun",
     "meaningVi": "rò rỉ bộ nhớ, cấp mà không trả",
     "example": "A memory leak crashed the worker nightly.",
-    "exampleVi": "Rò rỉ bộ nhớ làm tiến trình sập mỗi đêm."
+    "exampleVi": "Rò rỉ bộ nhớ làm tiến trình sập mỗi đêm.",
+    "forms": [
+      {
+        "word": "memory leaks",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈmem.ər.i liːks/"
+      }
+    ]
   },
   {
     "word": "message broker",
@@ -829,7 +1435,16 @@
     "pos": "noun",
     "meaningVi": "bên trung chuyển tin nhắn",
     "example": "Kafka acts as the message broker.",
-    "exampleVi": "Kafka đóng vai bên trung chuyển tin nhắn."
+    "exampleVi": "Kafka đóng vai bên trung chuyển tin nhắn.",
+    "forms": [
+      {
+        "word": "message brokers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈmes.ɪdʒ ˈbrəʊ.kərz/"
+      }
+    ]
   },
   {
     "word": "microservice",
@@ -837,7 +1452,16 @@
     "pos": "noun",
     "meaningVi": "dịch vụ nhỏ tách riêng",
     "example": "Each microservice owns its database.",
-    "exampleVi": "Mỗi dịch vụ nhỏ sở hữu database riêng."
+    "exampleVi": "Mỗi dịch vụ nhỏ sở hữu database riêng.",
+    "forms": [
+      {
+        "word": "microservices",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈmaɪ.krəʊˌsɜː.vɪsɪz/"
+      }
+    ]
   },
   {
     "word": "monolith",
@@ -853,6 +1477,15 @@
         "example": "An ancient monolith stands beside the path.",
         "exampleVi": "Một khối đá cổ lớn đứng bên lối đi."
       }
+    ],
+    "forms": [
+      {
+        "word": "monoliths",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈmɒn.ə.lɪθs/"
+      }
     ]
   },
   {
@@ -861,7 +1494,16 @@
     "pos": "noun",
     "meaningVi": "khoá cho phép một luồng vào tại một thời điểm",
     "example": "Guard the map with a mutex.",
-    "exampleVi": "Bảo vệ cái map đó bằng một khoá loại trừ."
+    "exampleVi": "Bảo vệ cái map đó bằng một khoá loại trừ.",
+    "forms": [
+      {
+        "word": "mutexes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈmjuː.teksɪz/"
+      }
+    ]
   },
   {
     "word": "N+1 query",
@@ -869,7 +1511,16 @@
     "pos": "noun",
     "meaningVi": "lỗi truy vấn lặp cho từng dòng",
     "example": "That loop hides an N+1 query.",
-    "exampleVi": "Vòng lặp đó giấu một lỗi truy vấn lặp từng dòng."
+    "exampleVi": "Vòng lặp đó giấu một lỗi truy vấn lặp từng dòng.",
+    "forms": [
+      {
+        "word": "N+1 queries",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/en plʌs wʌn ˈkwɪə.riz/"
+      }
+    ]
   },
   {
     "word": "noisy neighbour",
@@ -877,7 +1528,16 @@
     "pos": "noun",
     "meaningVi": "tenant ngốn tài nguyên làm ảnh hưởng bên khác",
     "example": "A noisy neighbour slowed the whole host.",
-    "exampleVi": "Một tenant ngốn tài nguyên làm chậm cả máy chủ."
+    "exampleVi": "Một tenant ngốn tài nguyên làm chậm cả máy chủ.",
+    "forms": [
+      {
+        "word": "noisy neighbours",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈnɔɪ.zi ˈneɪ.bərz/"
+      }
+    ]
   },
   {
     "word": "nonce",
@@ -892,6 +1552,15 @@
         "meaningVi": "thời điểm hiện tại (trong cụm for the nonce, cách dùng trang trọng hoặc cũ)",
         "example": "For the nonce, we will keep the current arrangement.",
         "exampleVi": "Tạm thời, chúng ta sẽ giữ cách sắp xếp hiện tại."
+      }
+    ],
+    "forms": [
+      {
+        "word": "nonces",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/nɒnsɪz/"
       }
     ]
   },
@@ -925,7 +1594,16 @@
     "pos": "noun",
     "meaningVi": "máy chủ gốc phía sau CDN",
     "example": "Only misses reach the origin server.",
-    "exampleVi": "Chỉ những lần trượt cache mới chạm tới máy chủ gốc."
+    "exampleVi": "Chỉ những lần trượt cache mới chạm tới máy chủ gốc.",
+    "forms": [
+      {
+        "word": "origin servers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɒr.ɪ.dʒɪn ˈsɜː.vərz/"
+      }
+    ]
   },
   {
     "word": "paging",
@@ -957,6 +1635,15 @@
         "example": "A wooden partition divides the office into two rooms.",
         "exampleVi": "Một vách ngăn gỗ chia văn phòng thành hai phòng."
       }
+    ],
+    "forms": [
+      {
+        "word": "partitions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/pɑːˈtɪʃ.ənz/"
+      }
     ]
   },
   {
@@ -965,7 +1652,16 @@
     "pos": "noun",
     "meaningVi": "kiểm thử xâm nhập",
     "example": "The penetration test found two issues.",
-    "exampleVi": "Đợt kiểm thử xâm nhập tìm ra hai vấn đề."
+    "exampleVi": "Đợt kiểm thử xâm nhập tìm ra hai vấn đề.",
+    "forms": [
+      {
+        "word": "penetration tests",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌpen.ɪˈtreɪ.ʃən tests/"
+      }
+    ]
   },
   {
     "word": "pessimistic locking",
@@ -981,7 +1677,16 @@
     "pos": "noun",
     "meaningVi": "chặng trong quy trình build",
     "example": "The test pipeline stage failed.",
-    "exampleVi": "Chặng kiểm thử trong quy trình build thất bại."
+    "exampleVi": "Chặng kiểm thử trong quy trình build thất bại.",
+    "forms": [
+      {
+        "word": "pipeline stages",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpaɪp.laɪn steɪdʒɪz/"
+      }
+    ]
   },
   {
     "word": "polymorphism",
@@ -1005,7 +1710,16 @@
     "pos": "noun",
     "meaningVi": "leo thang chiếm quyền cao hơn",
     "example": "The bug allowed privilege escalation.",
-    "exampleVi": "Lỗi đó cho phép leo thang chiếm quyền cao hơn."
+    "exampleVi": "Lỗi đó cho phép leo thang chiếm quyền cao hơn.",
+    "forms": [
+      {
+        "word": "privilege escalations",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈprɪv.əl.ɪdʒ ˌes.kəˈleɪ.ʃənz/"
+      }
+    ]
   },
   {
     "word": "profiling session",
@@ -1013,7 +1727,16 @@
     "pos": "noun",
     "meaningVi": "phiên đo hiệu năng chi tiết",
     "example": "The profiling session blamed the JSON parser.",
-    "exampleVi": "Phiên đo hiệu năng chỉ đích danh bộ phân tích JSON."
+    "exampleVi": "Phiên đo hiệu năng chỉ đích danh bộ phân tích JSON.",
+    "forms": [
+      {
+        "word": "profiling sessions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈprəʊ.faɪ.lɪŋ ˈseʃ.ənz/"
+      }
+    ]
   },
   {
     "word": "property-based testing",
@@ -1037,7 +1760,16 @@
     "pos": "noun",
     "meaningVi": "hàm thuần, cùng đầu vào cho cùng đầu ra",
     "example": "A pure function is easy to test.",
-    "exampleVi": "Hàm thuần rất dễ kiểm thử."
+    "exampleVi": "Hàm thuần rất dễ kiểm thử.",
+    "forms": [
+      {
+        "word": "pure functions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/pjʊə ˈfʌŋk.ʃənz/"
+      }
+    ]
   },
   {
     "word": "purge",
@@ -1052,6 +1784,31 @@
         "meaningVi": "thanh trừng; loại bỏ người khỏi một tổ chức",
         "example": "The leader tried to purge his opponents from the party.",
         "exampleVi": "Người lãnh đạo tìm cách thanh trừng các đối thủ khỏi đảng."
+      }
+    ],
+    "forms": [
+      {
+        "word": "purges",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/pɜːdʒɪz/"
+      },
+      {
+        "word": "purging",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/pɜːdʒɪŋ/"
+      },
+      {
+        "word": "purged",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/pɜːdʒd/"
       }
     ]
   },
@@ -1069,6 +1826,15 @@
         "example": "The committee cannot vote without a quorum.",
         "exampleVi": "Ủy ban không thể biểu quyết nếu chưa đủ số thành viên tối thiểu."
       }
+    ],
+    "forms": [
+      {
+        "word": "quorums",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkwɔː.rəmz/"
+      }
     ]
   },
   {
@@ -1085,7 +1851,16 @@
     "pos": "noun",
     "meaningVi": "lỗi do hai luồng tranh nhau",
     "example": "A race condition corrupted the counter.",
-    "exampleVi": "Một lỗi tranh chấp luồng làm hỏng bộ đếm."
+    "exampleVi": "Một lỗi tranh chấp luồng làm hỏng bộ đếm.",
+    "forms": [
+      {
+        "word": "race conditions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/reɪs kənˈdɪʃ.ənz/"
+      }
+    ]
   },
   {
     "word": "read replica",
@@ -1093,7 +1868,16 @@
     "pos": "noun",
     "meaningVi": "bản sao chỉ để đọc",
     "example": "Point analytics at the read replica.",
-    "exampleVi": "Trỏ phần phân tích vào bản sao chỉ đọc."
+    "exampleVi": "Trỏ phần phân tích vào bản sao chỉ đọc.",
+    "forms": [
+      {
+        "word": "read replicas",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/riːd ˈrep.lɪ.kəz/"
+      }
+    ]
   },
   {
     "word": "readiness probe",
@@ -1101,7 +1885,16 @@
     "pos": "noun",
     "meaningVi": "phép thử xem đã sẵn sàng nhận tải chưa",
     "example": "Traffic waits for the readiness probe.",
-    "exampleVi": "Lưu lượng chờ phép thử sẵn sàng."
+    "exampleVi": "Lưu lượng chờ phép thử sẵn sàng.",
+    "forms": [
+      {
+        "word": "readiness probes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈred.i.nəs prəʊbz/"
+      }
+    ]
   },
   {
     "word": "reverse proxy",
@@ -1109,7 +1902,16 @@
     "pos": "noun",
     "meaningVi": "máy chủ trung gian đứng trước backend",
     "example": "Nginx runs as a reverse proxy here.",
-    "exampleVi": "Nginx ở đây đóng vai máy chủ trung gian."
+    "exampleVi": "Nginx ở đây đóng vai máy chủ trung gian.",
+    "forms": [
+      {
+        "word": "reverse proxies",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/rɪˈvɜːs ˈprɒk.siz/"
+      }
+    ]
   },
   {
     "word": "round robin",
@@ -1125,6 +1927,15 @@
         "example": "The teams will compete in a round robin before the final.",
         "exampleVi": "Các đội sẽ thi đấu vòng tròn trước trận chung kết."
       }
+    ],
+    "forms": [
+      {
+        "word": "round robins",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌraʊnd ˈrɒb.ɪnz/"
+      }
     ]
   },
   {
@@ -1133,7 +1944,16 @@
     "pos": "noun",
     "meaningVi": "mục hướng dẫn xử lý sự cố",
     "example": "Every alert needs a runbook entry.",
-    "exampleVi": "Mỗi cảnh báo cần một mục hướng dẫn xử lý."
+    "exampleVi": "Mỗi cảnh báo cần một mục hướng dẫn xử lý.",
+    "forms": [
+      {
+        "word": "runbook entries",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈrʌn.bʊk ˈen.triz/"
+      }
+    ]
   },
   {
     "word": "saga",
@@ -1148,6 +1968,15 @@
         "meaningVi": "câu chuyện dài về nhiều sự kiện hoặc thế hệ",
         "example": "The novel is a family saga spanning three generations.",
         "exampleVi": "Cuốn tiểu thuyết là câu chuyện gia đình kéo dài qua ba thế hệ."
+      }
+    ],
+    "forms": [
+      {
+        "word": "sagas",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsɑː.ɡəz/"
       }
     ]
   },
@@ -1164,6 +1993,15 @@
         "meaningVi": "muối",
         "example": "Add a pinch of salt.",
         "exampleVi": "Thêm một nhúm muối."
+      }
+    ],
+    "forms": [
+      {
+        "word": "salts",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/sɒlts/"
       }
     ]
   },
@@ -1205,6 +2043,15 @@
         "example": "The sailor sent a semaphore message using two flags.",
         "exampleVi": "Thủy thủ truyền một thông điệp bằng tín hiệu cờ với hai lá cờ."
       }
+    ],
+    "forms": [
+      {
+        "word": "semaphores",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsem.ə.fɔːrz/"
+      }
     ]
   },
   {
@@ -1213,7 +2060,16 @@
     "pos": "noun",
     "meaningVi": "mục tiêu chất lượng dịch vụ tự đặt",
     "example": "Our service level objective is 99.9 percent.",
-    "exampleVi": "Mục tiêu chất lượng dịch vụ của chúng tôi là 99,9 phần trăm."
+    "exampleVi": "Mục tiêu chất lượng dịch vụ của chúng tôi là 99,9 phần trăm.",
+    "forms": [
+      {
+        "word": "service level objectives",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsɜː.vɪs ˈlev.əl əbˈdʒek.tɪvz/"
+      }
+    ]
   },
   {
     "word": "service mesh",
@@ -1221,7 +2077,16 @@
     "pos": "noun",
     "meaningVi": "lớp mạng chung giữa các dịch vụ",
     "example": "The service mesh handles retries for us.",
-    "exampleVi": "Lớp mạng chung lo việc thử lại giúp chúng ta."
+    "exampleVi": "Lớp mạng chung lo việc thử lại giúp chúng ta.",
+    "forms": [
+      {
+        "word": "service meshes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsɜː.vɪs meʃɪz/"
+      }
+    ]
   },
   {
     "word": "shadow traffic",
@@ -1245,6 +2110,17 @@
         "example": "Drowsiness is a possible side effect of this medicine.",
         "exampleVi": "Buồn ngủ là một tác dụng phụ có thể xảy ra của thuốc này."
       }
+    ],
+    "forms": [
+      {
+        "word": "side effects",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsaɪd ɪˌfekts/",
+        "example": "Keep the function free of side effects.",
+        "exampleVi": "Giữ cho hàm không có tác dụng phụ."
+      }
     ]
   },
   {
@@ -1260,6 +2136,15 @@
         "meaningVi": "thùng xe gắn bên cạnh xe máy",
         "example": "The passenger sat in the motorcycle's sidecar.",
         "exampleVi": "Hành khách ngồi trong thùng xe bên cạnh xe máy."
+      }
+    ],
+    "forms": [
+      {
+        "word": "sidecars",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsaɪd.kɑːrz/"
       }
     ]
   },
@@ -1277,6 +2162,15 @@
         "example": "The project was completed over a span of six months.",
         "exampleVi": "Dự án được hoàn thành trong khoảng thời gian sáu tháng."
       }
+    ],
+    "forms": [
+      {
+        "word": "spans",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/spænz/"
+      }
     ]
   },
   {
@@ -1285,7 +2179,16 @@
     "pos": "noun",
     "meaningVi": "tình trạng cụm tách đôi, hai bên cùng nhận mình là chủ",
     "example": "A network glitch caused a split-brain.",
-    "exampleVi": "Một sự cố mạng gây ra tình trạng cụm tách đôi."
+    "exampleVi": "Một sự cố mạng gây ra tình trạng cụm tách đôi.",
+    "forms": [
+      {
+        "word": "split-brains",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌsplɪt ˈbreɪnz/"
+      }
+    ]
   },
   {
     "word": "stack overflow",
@@ -1293,7 +2196,16 @@
     "pos": "noun",
     "meaningVi": "tràn ngăn xếp do đệ quy quá sâu",
     "example": "Deep recursion caused a stack overflow.",
-    "exampleVi": "Đệ quy quá sâu gây tràn ngăn xếp."
+    "exampleVi": "Đệ quy quá sâu gây tràn ngăn xếp.",
+    "forms": [
+      {
+        "word": "stack overflows",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/stæk ˈəʊ.və.fləʊz/"
+      }
+    ]
   },
   {
     "word": "stale data",
@@ -1325,7 +2237,16 @@
     "pos": "noun",
     "meaningVi": "phân tích code mà không cần chạy",
     "example": "Static analysis caught the null path.",
-    "exampleVi": "Phân tích tĩnh bắt được nhánh null đó."
+    "exampleVi": "Phân tích tĩnh bắt được nhánh null đó.",
+    "forms": [
+      {
+        "word": "static analyses",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈstæt.ɪk əˈnæləsiːz/"
+      }
+    ]
   },
   {
     "word": "strong consistency",
@@ -1357,6 +2278,15 @@
         "example": "A delay at the port disrupted the food supply chain.",
         "exampleVi": "Sự chậm trễ ở cảng làm gián đoạn chuỗi cung ứng thực phẩm."
       }
+    ],
+    "forms": [
+      {
+        "word": "supply chains",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/səˈplaɪ tʃeɪnz/"
+      }
     ]
   },
   {
@@ -1365,7 +2295,16 @@
     "pos": "noun",
     "meaningVi": "độ trễ ở nhóm chậm nhất",
     "example": "Tail latency matters more than the average.",
-    "exampleVi": "Độ trễ nhóm chậm nhất quan trọng hơn giá trị trung bình."
+    "exampleVi": "Độ trễ nhóm chậm nhất quan trọng hơn giá trị trung bình.",
+    "forms": [
+      {
+        "word": "tail latencies",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/teɪl ˈleɪ.tən.siz/"
+      }
+    ]
   },
   {
     "word": "test double",
@@ -1373,7 +2312,16 @@
     "pos": "noun",
     "meaningVi": "vật thế thân trong kiểm thử",
     "example": "Use a test double for the payment API.",
-    "exampleVi": "Dùng vật thế thân cho API thanh toán."
+    "exampleVi": "Dùng vật thế thân cho API thanh toán.",
+    "forms": [
+      {
+        "word": "test doubles",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/test ˈdʌb.əlz/"
+      }
+    ]
   },
   {
     "word": "thread-safe",
@@ -1389,7 +2337,16 @@
     "pos": "noun",
     "meaningVi": "mô hình mối đe doạ",
     "example": "Write the threat model before coding.",
-    "exampleVi": "Viết mô hình mối đe doạ trước khi code."
+    "exampleVi": "Viết mô hình mối đe doạ trước khi code.",
+    "forms": [
+      {
+        "word": "threat models",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/θret ˈmɒd.əlz/"
+      }
+    ]
   },
   {
     "word": "throttling",
@@ -1421,7 +2378,16 @@
     "pos": "noun",
     "meaningVi": "cả đàn cùng ập vào một lúc",
     "example": "Cache expiry caused a thundering herd.",
-    "exampleVi": "Cache hết hạn cùng lúc gây ra cảnh cả đàn ập vào."
+    "exampleVi": "Cache hết hạn cùng lúc gây ra cảnh cả đàn ập vào.",
+    "forms": [
+      {
+        "word": "thundering herds",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈθʌn.dər.ɪŋ hɜːdz/"
+      }
+    ]
   },
   {
     "word": "time to live",
@@ -1445,6 +2411,31 @@
         "example": "They toil in the fields from dawn until sunset.",
         "exampleVi": "Họ làm việc vất vả ngoài đồng từ bình minh đến hoàng hôn."
       }
+    ],
+    "forms": [
+      {
+        "word": "toils",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/tɔɪlz/"
+      },
+      {
+        "word": "toiling",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/tɔɪlɪŋ/"
+      },
+      {
+        "word": "toiled",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/tɔɪld/"
+      }
     ]
   },
   {
@@ -1461,7 +2452,16 @@
     "pos": "noun",
     "meaningVi": "thư viện phụ thuộc gián tiếp",
     "example": "The flaw sits in a transitive dependency.",
-    "exampleVi": "Lỗ hổng nằm ở một thư viện phụ thuộc gián tiếp."
+    "exampleVi": "Lỗ hổng nằm ở một thư viện phụ thuộc gián tiếp.",
+    "forms": [
+      {
+        "word": "transitive dependencies",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtræn.sə.tɪv dɪˈpen.dən.siz/"
+      }
+    ]
   },
   {
     "word": "two-phase commit",
@@ -1469,7 +2469,16 @@
     "pos": "noun",
     "meaningVi": "cam kết hai pha giữa nhiều bên",
     "example": "Two-phase commit blocks if the coordinator dies.",
-    "exampleVi": "Cam kết hai pha sẽ treo nếu bên điều phối chết."
+    "exampleVi": "Cam kết hai pha sẽ treo nếu bên điều phối chết.",
+    "forms": [
+      {
+        "word": "two-phase commits",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌtuː feɪz kəˈmɪts/"
+      }
+    ]
   },
   {
     "word": "vector clock",
@@ -1477,7 +2486,18 @@
     "pos": "noun",
     "meaningVi": "đồng hồ vector để xếp thứ tự sự kiện",
     "example": "Vector clocks detect concurrent writes.",
-    "exampleVi": "Đồng hồ vector phát hiện các lần ghi song song."
+    "exampleVi": "Đồng hồ vector phát hiện các lần ghi song song.",
+    "forms": [
+      {
+        "word": "vector clocks",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈvek.tər klɒks/",
+        "example": "Vector clocks detect concurrent writes.",
+        "exampleVi": "Đồng hồ vector phát hiện các lần ghi song song."
+      }
+    ]
   },
   {
     "word": "warm-up",
@@ -1492,6 +2512,15 @@
         "meaningVi": "bài khởi động trước khi vận động hoặc thi đấu",
         "example": "The players completed a short warm-up before the match.",
         "exampleVi": "Các cầu thủ thực hiện bài khởi động ngắn trước trận đấu."
+      }
+    ],
+    "forms": [
+      {
+        "word": "warm-ups",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈwɔːm.ʌps/"
       }
     ]
   },
@@ -1509,7 +2538,16 @@
     "pos": "noun",
     "meaningVi": "nhật ký ghi trước khi áp dụng",
     "example": "Recovery replays the write-ahead log.",
-    "exampleVi": "Quá trình khôi phục chạy lại nhật ký ghi trước."
+    "exampleVi": "Quá trình khôi phục chạy lại nhật ký ghi trước.",
+    "forms": [
+      {
+        "word": "write-ahead logs",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/raɪt əˈhed lɒɡz/"
+      }
+    ]
   },
   {
     "word": "zero-day",
@@ -1517,6 +2555,15 @@
     "pos": "noun",
     "meaningVi": "lỗ hổng chưa có bản vá",
     "example": "A zero-day hit the library last night.",
-    "exampleVi": "Một lỗ hổng chưa có bản vá tấn công thư viện đó tối qua."
+    "exampleVi": "Một lỗ hổng chưa có bản vá tấn công thư viện đó tối qua.",
+    "forms": [
+      {
+        "word": "zero-days",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌzɪə.rəʊ ˈdeɪz/"
+      }
+    ]
   }
 ]

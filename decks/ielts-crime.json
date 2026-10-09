@@ -15,6 +15,15 @@
         "example": "I meant no offence by asking about your family.",
         "exampleVi": "Tôi không có ý làm bạn phật lòng khi hỏi về gia đình bạn."
       }
+    ],
+    "forms": [
+      {
+        "word": "offences",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/əˈfensɪz/"
+      }
     ]
   },
   {
@@ -25,7 +34,16 @@
     "example": "Burglary fell sharply once doors had better locks.",
     "exampleVi": "Trộm đột nhập giảm mạnh khi cửa có khoá tốt hơn.",
     "topic": "law",
-    "level": "C1"
+    "level": "C1",
+    "forms": [
+      {
+        "word": "burglaries",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈbɜː.ɡlər.iz/"
+      }
+    ]
   },
   {
     "word": "vandalism",
@@ -52,6 +70,15 @@
         "meaningVi": "người mạo danh hoặc lừa đảo",
         "example": "The supposed expert turned out to be a fraud with no qualifications.",
         "exampleVi": "Người được cho là chuyên gia hóa ra là một kẻ mạo danh không có bằng cấp nào."
+      }
+    ],
+    "forms": [
+      {
+        "word": "frauds",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/frɔːdz/"
       }
     ]
   },
@@ -92,6 +119,32 @@
         "exampleVi": "Nhà tù cung cấp chương trình giáo dục cho từng người bị kết án.",
         "ipa": "/ˈkɒn.vɪkt/"
       }
+    ],
+    "forms": [
+      {
+        "word": "convicts",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/kənˈvɪkts/, /ˈkɒn.vɪkts/"
+      },
+      {
+        "word": "convicting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/kənˈvɪktɪŋ/"
+      },
+      {
+        "word": "convicted",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/kənˈvɪktɪd/"
+      }
     ]
   },
   {
@@ -128,6 +181,31 @@
         "example": "The board may parole the prisoner if the legal conditions are met.",
         "exampleVi": "Hội đồng có thể trả tự do có điều kiện cho tù nhân nếu đáp ứng các điều kiện pháp luật."
       }
+    ],
+    "forms": [
+      {
+        "word": "paroles",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/pəˈrəʊlz/"
+      },
+      {
+        "word": "paroling",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/pəˈrəʊlɪŋ/"
+      },
+      {
+        "word": "paroled",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/pəˈrəʊld/"
+      }
     ]
   },
   {
@@ -156,6 +234,15 @@
         "example": "The court treats a juvenile differently from an adult defendant.",
         "exampleVi": "Tòa án đối xử với người chưa thành niên khác với bị cáo trưởng thành."
       }
+    ],
+    "forms": [
+      {
+        "word": "juveniles",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈdʒuː.və.naɪlz/"
+      }
     ]
   },
   {
@@ -173,6 +260,34 @@
         "meaningVi": "chứng kiến một sự kiện",
         "example": "Several passengers were able to witness the accident from the bus.",
         "exampleVi": "Một số hành khách đã chứng kiến vụ tai nạn từ trên xe buýt."
+      }
+    ],
+    "forms": [
+      {
+        "word": "witnesses",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈwɪt.nəsɪz/"
+      },
+      {
+        "word": "witnessing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈwɪt.nəsɪŋ/"
+      },
+      {
+        "word": "witnessed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈwɪt.nəst/",
+        "example": "She witnessed the whole thing.",
+        "exampleVi": "Cô ấy chứng kiến toàn bộ sự việc."
       }
     ]
   },
@@ -192,6 +307,15 @@
         "example": "The rebuilt bridge is testimony to the community's determination.",
         "exampleVi": "Cây cầu được xây lại là minh chứng cho quyết tâm của cộng đồng."
       }
+    ],
+    "forms": [
+      {
+        "word": "testimonies",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtes.tɪ.mə.niz/"
+      }
     ]
   },
   {
@@ -209,6 +333,33 @@
         "meaningVi": "thể hiện bản thân trong một tình huống khó",
         "example": "She managed to acquit herself well during a difficult interview.",
         "exampleVi": "Cô đã thể hiện tốt trong một cuộc phỏng vấn khó."
+      }
+    ],
+    "forms": [
+      {
+        "word": "acquits",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/əˈkwɪts/"
+      },
+      {
+        "word": "acquitting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/əˈkwɪtɪŋ/"
+      },
+      {
+        "word": "acquitted",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/əˈkwɪtɪd/",
+        "example": "The court acquitted him after new evidence appeared.",
+        "exampleVi": "Toà tuyên trắng án cho ông sau khi có bằng chứng mới."
       }
     ]
   },
@@ -267,6 +418,15 @@
     "level": "B2",
     "tags": [
       "collocation"
+    ],
+    "forms": [
+      {
+        "word": "crime rates",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkraɪm reɪts/"
+      }
     ]
   },
   {

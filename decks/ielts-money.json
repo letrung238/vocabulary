@@ -43,6 +43,32 @@
         "example": "You can bargain with the seller over the price of the bicycle.",
         "exampleVi": "Bạn có thể mặc cả với người bán về giá chiếc xe đạp."
       }
+    ],
+    "forms": [
+      {
+        "word": "bargains",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈbɑː.ɡɪnz/"
+      },
+      {
+        "word": "bargaining",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈbɑː.ɡɪnɪŋ/"
+      },
+      {
+        "word": "bargained",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈbɑː.ɡɪnd/"
+      }
     ]
   },
   {
@@ -60,6 +86,15 @@
         "meaningVi": "một tập trong bộ phim hoặc câu chuyện nhiều kỳ",
         "example": "The next instalment of the story will appear in Monday's newspaper.",
         "exampleVi": "Phần tiếp theo của câu chuyện nhiều kỳ sẽ xuất hiện trên báo thứ Hai."
+      }
+    ],
+    "forms": [
+      {
+        "word": "instalments",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɪnˈstɔːl.mənts/"
       }
     ]
   },
@@ -79,6 +114,32 @@
         "example": "They decided to mortgage their house to finance the new shop.",
         "exampleVi": "Họ quyết định thế chấp nhà để tài trợ cho cửa hàng mới."
       }
+    ],
+    "forms": [
+      {
+        "word": "mortgages",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈmɔː.ɡɪdʒɪz/"
+      },
+      {
+        "word": "mortgaging",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈmɔː.ɡɪdʒɪŋ/"
+      },
+      {
+        "word": "mortgaged",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈmɔː.ɡɪdʒd/"
+      }
     ]
   },
   {
@@ -97,6 +158,15 @@
         "example": "I owe a debt of gratitude to the teacher who encouraged me.",
         "exampleVi": "Tôi mang ơn người giáo viên đã khích lệ mình."
       }
+    ],
+    "forms": [
+      {
+        "word": "debts",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/dets/"
+      }
     ]
   },
   {
@@ -114,6 +184,15 @@
         "meaningVi": "việc tiêu tốn thời gian hoặc công sức",
         "example": "The repairs required a considerable expenditure of time and effort.",
         "exampleVi": "Việc sửa chữa đòi hỏi phải bỏ ra rất nhiều thời gian và công sức."
+      }
+    ],
+    "forms": [
+      {
+        "word": "expenditures",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ekˈspen.dɪ.tʃərz/"
       }
     ]
   },
@@ -150,6 +229,31 @@
         "meaningVi": "làm giả tiền hoặc hàng hóa",
         "example": "The criminals tried to counterfeit banknotes in a hidden workshop.",
         "exampleVi": "Bọn tội phạm cố làm giả tiền giấy trong một xưởng bí mật."
+      }
+    ],
+    "forms": [
+      {
+        "word": "counterfeits",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈkaʊn.tə.fɪts/"
+      },
+      {
+        "word": "counterfeiting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈkaʊn.tə.fɪtɪŋ/"
+      },
+      {
+        "word": "counterfeited",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈkaʊn.tə.fɪtɪd/"
       }
     ]
   },
@@ -244,6 +348,15 @@
     "level": "C1",
     "tags": [
       "collocation"
+    ],
+    "forms": [
+      {
+        "word": "brand loyalties",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈbrænd ˌlɔɪ.əl.tiz/"
+      }
     ]
   },
   {
@@ -270,6 +383,15 @@
     "level": "C1",
     "tags": [
       "collocation"
+    ],
+    "forms": [
+      {
+        "word": "income inequalities",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɪn.kʌm ˌɪn.ɪˈkwɒl.ə.tiz/"
+      }
     ]
   }
 ]

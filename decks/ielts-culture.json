@@ -33,6 +33,15 @@
         "example": "The priest wore special clothes for the ritual dance.",
         "exampleVi": "Vị tư tế mặc trang phục đặc biệt cho điệu múa nghi lễ."
       }
+    ],
+    "forms": [
+      {
+        "word": "rituals",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈrɪtʃ.u.əlz/"
+      }
     ]
   },
   {
@@ -70,6 +79,31 @@
         "meaningVi": "tiếp thu và hiểu một thông tin mới",
         "example": "It takes time to assimilate so much new information.",
         "exampleVi": "Cần có thời gian để tiếp thu lượng thông tin mới lớn như vậy."
+      }
+    ],
+    "forms": [
+      {
+        "word": "assimilates",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/əˈsɪm.ɪ.leɪts/"
+      },
+      {
+        "word": "assimilating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/əˈsɪm.ɪ.leɪtɪŋ/"
+      },
+      {
+        "word": "assimilated",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/əˈsɪm.ɪ.leɪtɪd/"
       }
     ]
   },
@@ -109,6 +143,15 @@
         "example": "The equation is an identity because it holds for every permitted value of x.",
         "exampleVi": "Phương trình là một đẳng thức đồng nhất vì nó đúng với mọi giá trị được phép của x."
       }
+    ],
+    "forms": [
+      {
+        "word": "identities",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/aɪˈden.tɪ.tiz/"
+      }
     ]
   },
   {
@@ -126,6 +169,15 @@
         "meaningVi": "biến thể của một ngôn ngữ lập trình",
         "example": "This database uses a dialect of SQL with several extra commands.",
         "exampleVi": "Cơ sở dữ liệu này dùng một biến thể của SQL với một số lệnh bổ sung."
+      }
+    ],
+    "forms": [
+      {
+        "word": "dialects",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈdaɪ.ə.lekts/"
       }
     ]
   },
@@ -145,6 +197,15 @@
         "example": "The host welcomed us without ceremony and invited us straight to dinner.",
         "exampleVi": "Chủ nhà đón chúng tôi không câu nệ lễ nghi và mời vào ăn tối ngay."
       }
+    ],
+    "forms": [
+      {
+        "word": "ceremonies",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈser.ɪ.mə.niz/"
+      }
     ]
   },
   {
@@ -155,7 +216,16 @@
     "example": "Superstition still decides which floors a building skips.",
     "exampleVi": "Điều mê tín vẫn quyết định toà nhà bỏ qua những tầng nào.",
     "topic": "culture",
-    "level": "C1"
+    "level": "C1",
+    "forms": [
+      {
+        "word": "superstitions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsuː.pəˈstɪʃ.ənz/"
+      }
+    ]
   },
   {
     "word": "monument",
@@ -172,6 +242,15 @@
         "meaningVi": "ví dụ nổi bật nhắc người ta nhớ đến một thành tựu",
         "example": "The restored library is a monument to the town's commitment to education.",
         "exampleVi": "Thư viện được phục hồi là một minh chứng nổi bật cho sự coi trọng giáo dục của thị trấn."
+      }
+    ],
+    "forms": [
+      {
+        "word": "monuments",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈmɒn.juː.mənts/"
       }
     ]
   },
@@ -190,6 +269,17 @@
         "meaningVi": "hiện tượng giả xuất hiện do quá trình xử lý ảnh hoặc tín hiệu",
         "example": "The bright line in the scan was an artefact caused by processing the image.",
         "exampleVi": "Vạch sáng trong ảnh quét là một hiện tượng giả do quá trình xử lý ảnh gây ra."
+      }
+    ],
+    "forms": [
+      {
+        "word": "artefacts",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɑː.tɪ.fækts/",
+        "example": "Most artefacts sit in storage, never displayed.",
+        "exampleVi": "Phần lớn hiện vật khảo cổ nằm trong kho, không bao giờ được trưng bày."
       }
     ]
   },
@@ -219,6 +309,15 @@
         "example": "The idea moved from a small activist group into the political mainstream.",
         "exampleVi": "Ý tưởng chuyển từ một nhóm vận động nhỏ sang dòng quan điểm chính trị chủ đạo."
       }
+    ],
+    "forms": [
+      {
+        "word": "mainstreams",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈmeɪn.striːmz/"
+      }
     ]
   },
   {
@@ -236,6 +335,32 @@
         "meaningVi": "gán đặc điểm rập khuôn cho một nhóm người",
         "example": "It is unfair to stereotype all teenagers as careless.",
         "exampleVi": "Thật không công bằng khi gán cho mọi thiếu niên đặc điểm rập khuôn là bất cẩn."
+      }
+    ],
+    "forms": [
+      {
+        "word": "stereotypes",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈster.i.əʊ.taɪps/"
+      },
+      {
+        "word": "stereotyping",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈster.i.əʊ.taɪpɪŋ/"
+      },
+      {
+        "word": "stereotyped",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈster.i.əʊ.taɪpt/"
       }
     ]
   },
@@ -255,6 +380,32 @@
         "example": "Public comments about the case could prejudice a fair trial.",
         "exampleVi": "Những bình luận công khai về vụ án có thể gây bất lợi cho việc xét xử công bằng."
       }
+    ],
+    "forms": [
+      {
+        "word": "prejudices",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈpredʒ.uː.dɪsɪz/"
+      },
+      {
+        "word": "prejudicing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈpredʒ.uː.dɪsɪŋ/"
+      },
+      {
+        "word": "prejudiced",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈpredʒ.uː.dɪst/"
+      }
     ]
   },
   {
@@ -272,6 +423,15 @@
         "meaningVi": "khả năng chịu được một loại thuốc hoặc chất",
         "example": "Repeated use can increase a person's tolerance to a drug.",
         "exampleVi": "Việc sử dụng lặp lại có thể làm tăng khả năng dung nạp của một người đối với một loại thuốc."
+      }
+    ],
+    "forms": [
+      {
+        "word": "tolerances",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtɒl.ə.rənsɪz/"
       }
     ]
   },
@@ -296,6 +456,15 @@
     "level": "B2",
     "tags": [
       "collocation"
+    ],
+    "forms": [
+      {
+        "word": "cultural exchanges",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌkʌl.tʃər.əl ɪksˈtʃeɪndʒɪz/"
+      }
     ]
   },
   {
@@ -309,6 +478,15 @@
     "level": "B2",
     "tags": [
       "collocation"
+    ],
+    "forms": [
+      {
+        "word": "ethnic minorities",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌeθ.nɪk maɪˈnɒr.ə.tiz/"
+      }
     ]
   }
 ]

@@ -33,6 +33,17 @@
         "example": "The critic found the novel's plot pedestrian and predictable.",
         "exampleVi": "Nhà phê bình cho rằng cốt truyện của cuốn tiểu thuyết tẻ nhạt và dễ đoán."
       }
+    ],
+    "forms": [
+      {
+        "word": "pedestrians",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/pəˈdes.tri.ənz/",
+        "example": "Pedestrians have the least space and the most risk.",
+        "exampleVi": "Người đi bộ có ít không gian nhất và chịu rủi ro cao nhất."
+      }
     ]
   },
   {
@@ -43,7 +54,16 @@
     "example": "Cyclist numbers tripled after the lanes were painted.",
     "exampleVi": "Số người đi xe đạp tăng gấp ba sau khi kẻ làn đường.",
     "topic": "transport",
-    "level": "B1"
+    "level": "B1",
+    "forms": [
+      {
+        "word": "cyclists",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsaɪ.klɪsts/"
+      }
+    ]
   },
   {
     "word": "carpool",
@@ -53,7 +73,32 @@
     "example": "Staff who carpool pay a third of the parking fee.",
     "exampleVi": "Nhân viên đi chung xe chỉ trả một phần ba phí gửi xe.",
     "topic": "transport",
-    "level": "C1"
+    "level": "C1",
+    "forms": [
+      {
+        "word": "carpools",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈkɑː.puːlz/"
+      },
+      {
+        "word": "carpooling",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈkɑː.puːlɪŋ/"
+      },
+      {
+        "word": "carpooled",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈkɑː.puːld/"
+      }
+    ]
   },
   {
     "word": "fare",
@@ -70,6 +115,32 @@
         "meaningVi": "xoay xở hoặc tiến triển trong một hoàn cảnh",
         "example": "How did your team fare in the final round?",
         "exampleVi": "Đội của bạn thi đấu ra sao ở vòng cuối?"
+      }
+    ],
+    "forms": [
+      {
+        "word": "fares",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/feərz/"
+      },
+      {
+        "word": "faring",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/feərɪŋ/"
+      },
+      {
+        "word": "fared",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/feərd/"
       }
     ]
   },
@@ -88,6 +159,32 @@
         "meaningVi": "đổ chuông chậm từng tiếng",
         "example": "The church bells toll slowly at the start of the memorial service.",
         "exampleVi": "Chuông nhà thờ ngân chậm từng tiếng khi buổi lễ tưởng niệm bắt đầu."
+      }
+    ],
+    "forms": [
+      {
+        "word": "tolls",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/təʊlz/"
+      },
+      {
+        "word": "tolling",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/təʊlɪŋ/"
+      },
+      {
+        "word": "tolled",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/təʊld/"
       }
     ]
   },
@@ -117,7 +214,34 @@
     "example": "The council pedestrianised the centre against fierce opposition.",
     "exampleVi": "Hội đồng biến trung tâm thành phố đi bộ bất chấp phản đối dữ dội.",
     "topic": "transport",
-    "level": "C1"
+    "level": "C1",
+    "forms": [
+      {
+        "word": "pedestrianises",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/pəˈdes.tri.ən.aɪzɪz/"
+      },
+      {
+        "word": "pedestrianising",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/pəˈdes.tri.ən.aɪzɪŋ/"
+      },
+      {
+        "word": "pedestrianised",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/pəˈdes.tri.ən.aɪzd/",
+        "example": "The council pedestrianised the centre against fierce opposition.",
+        "exampleVi": "Hội đồng biến trung tâm thành phố đi bộ bất chấp phản đối dữ dội."
+      }
+    ]
   },
   {
     "word": "commuter",
@@ -134,6 +258,17 @@
         "meaningVi": "phục vụ người đi làm hằng ngày như tàu hoặc tuyến đường",
         "example": "The new commuter train connects the suburbs to the city center.",
         "exampleVi": "Tuyến tàu mới phục vụ người đi làm kết nối vùng ngoại ô với trung tâm thành phố."
+      }
+    ],
+    "forms": [
+      {
+        "word": "commuters",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kəˈmjuː.tərz/",
+        "example": "Commuters spend a working month a year in transit.",
+        "exampleVi": "Người đi làm xa hằng ngày mất một tháng công mỗi năm trên đường."
       }
     ]
   },
@@ -161,6 +296,15 @@
     "level": "B1",
     "tags": [
       "collocation"
+    ],
+    "forms": [
+      {
+        "word": "rush hours",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈrʌʃ aʊərz/"
+      }
     ]
   },
   {
@@ -187,6 +331,15 @@
     "level": "B2",
     "tags": [
       "collocation"
+    ],
+    "forms": [
+      {
+        "word": "cycle lanes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsaɪ.kəl leɪnz/"
+      }
     ]
   },
   {

@@ -7,7 +7,16 @@
     "example": "Regional cuisine changes every hundred kilometres.",
     "exampleVi": "Nền ẩm thực từng vùng thay đổi sau mỗi trăm ki-lô-mét.",
     "topic": "food",
-    "level": "B2"
+    "level": "B2",
+    "forms": [
+      {
+        "word": "cuisines",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kwɪˈziːnz/"
+      }
+    ]
   },
   {
     "word": "staple",
@@ -24,6 +33,32 @@
         "meaningVi": "dập ghim để giữ các tờ giấy lại",
         "example": "Staple the three pages together in the top corner.",
         "exampleVi": "Hãy dập ghim ba trang lại với nhau ở góc trên."
+      }
+    ],
+    "forms": [
+      {
+        "word": "staples",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈsteɪ.pəlz/"
+      },
+      {
+        "word": "stapling",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈsteɪ.pəlɪŋ/"
+      },
+      {
+        "word": "stapled",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈsteɪ.pəld/"
       }
     ]
   },
@@ -42,6 +77,15 @@
         "meaningVi": "hợp chất hữu cơ",
         "example": "The chemist classified the compound as an organic because it belonged to the carbon-based group under study.",
         "exampleVi": "Nhà hóa học phân loại chất này là một hợp chất hữu cơ vì nó thuộc nhóm chất dựa trên cacbon đang được nghiên cứu."
+      }
+    ],
+    "forms": [
+      {
+        "word": "organics",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɔːˈɡæn.ɪks/"
       }
     ]
   },
@@ -79,6 +123,17 @@
         "example": "For an additive function, the value at a sum equals the sum of the values.",
         "exampleVi": "Với một hàm có tính cộng được, giá trị tại một tổng bằng tổng của các giá trị tương ứng."
       }
+    ],
+    "forms": [
+      {
+        "word": "additives",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈæd.ɪ.tɪvz/",
+        "example": "Some additives are banned in one country and legal next door.",
+        "exampleVi": "Có phụ gia thực phẩm bị cấm ở nước này lại hợp pháp ngay nước bên cạnh."
+      }
     ]
   },
   {
@@ -96,6 +151,17 @@
         "meaningVi": "giúp bảo quản một thứ khỏi hư hỏng",
         "example": "Salt has a preservative effect that helps food last longer.",
         "exampleVi": "Muối có tác dụng bảo quản giúp thức ăn giữ được lâu hơn."
+      }
+    ],
+    "forms": [
+      {
+        "word": "preservatives",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/prɪˈsɜː.və.tɪvz/",
+        "example": "Without preservatives the loaf lasts two days.",
+        "exampleVi": "Không có chất bảo quản thì ổ bánh chỉ để được hai ngày."
       }
     ]
   },
@@ -115,6 +181,17 @@
         "example": "The café offers a vegetarian soup made with beans and vegetables.",
         "exampleVi": "Quán cà phê phục vụ một món súp chay làm từ đậu và rau củ."
       }
+    ],
+    "forms": [
+      {
+        "word": "vegetarians",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌvedʒ.ɪˈteə.ri.ənz/",
+        "example": "Vegetarians make up a fifth of the student body.",
+        "exampleVi": "Người ăn chay chiếm một phần năm số sinh viên."
+      }
     ]
   },
   {
@@ -133,6 +210,17 @@
         "example": "The bakery makes a vegan cake without eggs, milk, or butter.",
         "exampleVi": "Tiệm bánh làm một chiếc bánh thuần chay không dùng trứng, sữa hay bơ."
       }
+    ],
+    "forms": [
+      {
+        "word": "vegans",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈviː.ɡənz/",
+        "example": "Vegans avoid dairy as well as meat.",
+        "exampleVi": "Người ăn thuần chay tránh cả sữa lẫn thịt."
+      }
     ]
   },
   {
@@ -143,7 +231,18 @@
     "example": "Labels list calories but rarely explain them.",
     "exampleVi": "Nhãn ghi số ca-lo nhưng hiếm khi giải thích chúng nghĩa là gì.",
     "topic": "food",
-    "level": "B1"
+    "level": "B1",
+    "forms": [
+      {
+        "word": "calories",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkæl.ɔː.riz/",
+        "example": "Labels list calories but rarely explain them.",
+        "exampleVi": "Nhãn ghi số ca-lo nhưng hiếm khi giải thích chúng nghĩa là gì."
+      }
+    ]
   },
   {
     "word": "cutlery",
@@ -171,6 +270,15 @@
         "example": "Careful planning and patient practice are a recipe for success.",
         "exampleVi": "Lập kế hoạch cẩn thận và luyện tập kiên nhẫn là công thức để thành công."
       }
+    ],
+    "forms": [
+      {
+        "word": "recipes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈres.ɪ.piːz/"
+      }
     ]
   },
   {
@@ -188,6 +296,32 @@
         "meaningVi": "nêm gia vị để tạo hương vị",
         "example": "Use fresh herbs to flavour the soup.",
         "exampleVi": "Hãy dùng rau thơm tươi để tạo hương vị cho món súp."
+      }
+    ],
+    "forms": [
+      {
+        "word": "flavours",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈfleɪ.vərz/"
+      },
+      {
+        "word": "flavouring",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈfleɪ.vərɪŋ/"
+      },
+      {
+        "word": "flavoured",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈfleɪ.vərd/"
       }
     ]
   },
@@ -207,6 +341,15 @@
         "example": "The audience showed a growing appetite for science documentaries.",
         "exampleVi": "Khán giả thể hiện sự quan tâm ngày càng mạnh mẽ đối với phim tài liệu khoa học."
       }
+    ],
+    "forms": [
+      {
+        "word": "appetites",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈæp.ɪ.taɪts/"
+      }
     ]
   },
   {
@@ -224,6 +367,32 @@
         "meaningVi": "chia thức ăn hoặc tài sản thành từng phần",
         "example": "Portion the soup into six bowls before adding the herbs.",
         "exampleVi": "Hãy chia súp vào sáu bát trước khi thêm rau thơm."
+      }
+    ],
+    "forms": [
+      {
+        "word": "portions",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈpɔː.ʃənz/"
+      },
+      {
+        "word": "portioning",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈpɔː.ʃənɪŋ/"
+      },
+      {
+        "word": "portioned",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈpɔː.ʃənd/"
       }
     ]
   },
@@ -261,6 +430,15 @@
         "example": "In the survival exercise, each edible had to be identified before anyone could eat it.",
         "exampleVi": "Trong bài tập sinh tồn, mỗi thứ có thể ăn được đều phải được nhận diện trước khi bất kỳ ai ăn nó."
       }
+    ],
+    "forms": [
+      {
+        "word": "edibles",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈed.ə.bəlz/"
+      }
     ]
   },
   {
@@ -278,6 +456,15 @@
         "meaningVi": "hàng hóa dễ hỏng nếu không được bảo quản",
         "example": "Milk is a perishable that needs proper refrigeration.",
         "exampleVi": "Sữa là một loại hàng dễ hỏng cần được giữ lạnh đúng cách."
+      }
+    ],
+    "forms": [
+      {
+        "word": "perishables",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈper.ɪ.ʃə.bəlz/"
       }
     ]
   },
@@ -297,6 +484,15 @@
         "example": "The main takeaway from the meeting was that we need a clearer schedule.",
         "exampleVi": "Điểm chính rút ra từ cuộc họp là chúng ta cần một lịch trình rõ ràng hơn."
       }
+    ],
+    "forms": [
+      {
+        "word": "takeaways",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈteɪ.kə.weɪz/"
+      }
     ]
   },
   {
@@ -310,6 +506,15 @@
     "level": "B2",
     "tags": [
       "collocation"
+    ],
+    "forms": [
+      {
+        "word": "balanced diets",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌbæl.ənst ˈdaɪ.əts/"
+      }
     ]
   },
   {

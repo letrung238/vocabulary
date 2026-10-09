@@ -15,6 +15,15 @@
         "example": "Solve the inequality to find all values of x greater than three.",
         "exampleVi": "Hãy giải bất phương trình để tìm mọi giá trị của x lớn hơn ba."
       }
+    ],
+    "forms": [
+      {
+        "word": "inequalities",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɪ.niːˈkwɒl.ɪ.tiz/"
+      }
     ]
   },
   {
@@ -75,6 +84,15 @@
         "example": "The minister met senior members of the bureaucracy to discuss the reforms.",
         "exampleVi": "Bộ trưởng gặp các quan chức cấp cao trong bộ máy hành chính để trao đổi về cải cách."
       }
+    ],
+    "forms": [
+      {
+        "word": "bureaucracies",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/bjɔːˈrɒk.rə.siz/"
+      }
     ]
   },
   {
@@ -95,6 +113,15 @@
         "meaningVi": "cách ra quyết định dựa trên ý kiến của mọi thành viên",
         "example": "The club practices democracy by letting every member vote on major decisions.",
         "exampleVi": "Câu lạc bộ áp dụng cách quyết định dân chủ bằng việc cho mọi thành viên bỏ phiếu về các quyết định lớn."
+      }
+    ],
+    "forms": [
+      {
+        "word": "democracies",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/dɪˈmɒk.rə.siz/"
       }
     ]
   },
@@ -131,6 +158,32 @@
         "exampleVi": "Cư dân dự định phản đối công khai đề xuất đóng đường.",
         "ipa": "/prəˈtest/"
       }
+    ],
+    "forms": [
+      {
+        "word": "protests",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/prəˈtests/, /ˈprəʊ.tests/"
+      },
+      {
+        "word": "protesting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/prəˈtestɪŋ/"
+      },
+      {
+        "word": "protested",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/prəˈtestɪd/"
+      }
     ]
   },
   {
@@ -148,6 +201,17 @@
         "meaningVi": "sự bùng nổ của màu sắc hoặc âm thanh",
         "example": "The garden was a riot of color in spring.",
         "exampleVi": "Khu vườn ngập tràn màu sắc rực rỡ vào mùa xuân."
+      }
+    ],
+    "forms": [
+      {
+        "word": "riots",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈraɪ.əts/",
+        "example": "A single arrest triggered three nights of riots.",
+        "exampleVi": "Một vụ bắt giữ duy nhất châm ngòi ba đêm bạo loạn."
       }
     ]
   },
@@ -170,6 +234,15 @@
         "example": "It would be a crime to waste such delicious food.",
         "exampleVi": "Lãng phí thức ăn ngon như vậy thì thật đáng tiếc."
       }
+    ],
+    "forms": [
+      {
+        "word": "crimes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kraɪmz/"
+      }
     ]
   },
   {
@@ -191,6 +264,15 @@
         "example": "The warning signs may have a deterrent effect on illegal dumping.",
         "exampleVi": "Các biển cảnh báo có thể có tác dụng răn đe đối với việc đổ rác trái phép."
       }
+    ],
+    "forms": [
+      {
+        "word": "deterrents",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/dɪˈtɜː.rənts/"
+      }
     ]
   },
   {
@@ -209,6 +291,31 @@
         "example": "The new evidence helped rehabilitate the scientist's reputation.",
         "exampleVi": "Bằng chứng mới giúp phục hồi danh tiếng của nhà khoa học."
       }
+    ],
+    "forms": [
+      {
+        "word": "rehabilitates",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/rɪ.həˈbɪl.ɪ.teɪts/"
+      },
+      {
+        "word": "rehabilitating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/rɪ.həˈbɪl.ɪ.teɪtɪŋ/"
+      },
+      {
+        "word": "rehabilitated",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/rɪ.həˈbɪl.ɪ.teɪtɪd/"
+      }
     ]
   },
   {
@@ -223,7 +330,18 @@
       "offend",
       "offence"
     ],
-    "topic": "society"
+    "topic": "society",
+    "forms": [
+      {
+        "word": "offenders",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/əˈfen.dərz/",
+        "example": "Most offenders are released within two years.",
+        "exampleVi": "Phần lớn người phạm tội được thả trong vòng hai năm."
+      }
+    ]
   },
   {
     "word": "custody",
@@ -259,6 +377,15 @@
         "example": "The public's verdict on the redesigned station was largely positive.",
         "exampleVi": "Đánh giá chung của công chúng về nhà ga được thiết kế lại phần lớn là tích cực."
       }
+    ],
+    "forms": [
+      {
+        "word": "verdicts",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈvɜː.dɪkts/"
+      }
     ]
   },
   {
@@ -276,6 +403,15 @@
         "meaningVi": "ban giám khảo của một cuộc thi",
         "example": "The competition jury selected three films for the final round.",
         "exampleVi": "Ban giám khảo cuộc thi chọn ba bộ phim vào vòng cuối."
+      }
+    ],
+    "forms": [
+      {
+        "word": "juries",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈdʒʊə.riz/"
       }
     ]
   },
@@ -299,6 +435,33 @@
         "example": "The researchers intend to prosecute their investigation despite the funding cuts.",
         "exampleVi": "Các nhà nghiên cứu dự định tiếp tục theo đuổi cuộc điều tra dù kinh phí bị cắt giảm."
       }
+    ],
+    "forms": [
+      {
+        "word": "prosecutes",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈprɒs.ɪ.kjuːts/"
+      },
+      {
+        "word": "prosecuting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈprɒs.ɪ.kjuːtɪŋ/"
+      },
+      {
+        "word": "prosecuted",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈprɒs.ɪ.kjuːtɪd/",
+        "example": "Few companies are ever prosecuted for pollution.",
+        "exampleVi": "Rất ít công ty từng bị truy tố ra toà vì gây ô nhiễm."
+      }
     ]
   },
   {
@@ -312,7 +475,16 @@
     "family": [
       "punish"
     ],
-    "topic": "society"
+    "topic": "society",
+    "forms": [
+      {
+        "word": "punishments",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpʌn.ɪʃ.mənts/"
+      }
+    ]
   },
   {
     "word": "immigration",
@@ -332,7 +504,18 @@
     "example": "The camp houses refugees from four separate conflicts.",
     "exampleVi": "Trại này chứa người tị nạn từ bốn cuộc xung đột riêng biệt.",
     "level": "B2",
-    "topic": "society"
+    "topic": "society",
+    "forms": [
+      {
+        "word": "refugees",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌref.juˈdʒiːz/",
+        "example": "The camp houses refugees from four separate conflicts.",
+        "exampleVi": "Trại này chứa người tị nạn từ bốn cuộc xung đột riêng biệt."
+      }
+    ]
   },
   {
     "word": "discrimination",
@@ -377,7 +560,18 @@
     "family": [
       "suburban"
     ],
-    "topic": "society"
+    "topic": "society",
+    "forms": [
+      {
+        "word": "suburbs",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsʌb.ɜːbz/",
+        "example": "Families move to the suburbs once children arrive.",
+        "exampleVi": "Các gia đình chuyển ra vùng ngoại ô khi có con."
+      }
+    ]
   },
   {
     "word": "overcrowding",
@@ -428,6 +622,15 @@
         "meaningVi": "lòng nhân ái đối với người khác",
         "example": "She showed charity toward the young employee who had made a mistake.",
         "exampleVi": "Cô thể hiện lòng nhân ái đối với nhân viên trẻ đã mắc lỗi."
+      }
+    ],
+    "forms": [
+      {
+        "word": "charities",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtʃær.ɪ.tiz/"
       }
     ]
   },

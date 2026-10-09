@@ -7,7 +7,16 @@
     "example": "An athlete peaks for perhaps four years.",
     "exampleVi": "Vận động viên đạt đỉnh phong độ có lẽ chỉ bốn năm.",
     "topic": "sport",
-    "level": "B1"
+    "level": "B1",
+    "forms": [
+      {
+        "word": "athletes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈæθ.liːts/"
+      }
+    ]
   },
   {
     "word": "endurance",
@@ -53,6 +62,32 @@
         "example": "The editor asked two specialists to referee the scientific paper.",
         "exampleVi": "Biên tập viên nhờ hai chuyên gia phản biện bài báo khoa học."
       }
+    ],
+    "forms": [
+      {
+        "word": "referees",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˌref.əˈriːz/"
+      },
+      {
+        "word": "refereeing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˌref.əˈriːɪŋ/"
+      },
+      {
+        "word": "refereed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˌref.əˈriːd/"
+      }
     ]
   },
   {
@@ -63,7 +98,18 @@
     "example": "Spectators now watch more matches at home than in stadiums.",
     "exampleVi": "Khán giả xem thi đấu nay theo dõi ở nhà nhiều hơn ở sân vận động.",
     "topic": "sport",
-    "level": "B2"
+    "level": "B2",
+    "forms": [
+      {
+        "word": "spectators",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/spekˈteɪ.tərz/",
+        "example": "Spectators now watch more matches at home than in stadiums.",
+        "exampleVi": "Khán giả xem thi đấu nay theo dõi ở nhà nhiều hơn ở sân vận động."
+      }
+    ]
   },
   {
     "word": "tournament",
@@ -81,6 +127,15 @@
         "example": "The medieval tournament brought knights together for contests with lances.",
         "exampleVi": "Cuộc đấu thương thời trung cổ quy tụ các hiệp sĩ thi đấu bằng giáo dài."
       }
+    ],
+    "forms": [
+      {
+        "word": "tournaments",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtɔː.nə.mənts/"
+      }
     ]
   },
   {
@@ -91,7 +146,16 @@
     "example": "No club has held the championship twice running.",
     "exampleVi": "Chưa câu lạc bộ nào giữ chức vô địch hai lần liên tiếp.",
     "topic": "sport",
-    "level": "B1"
+    "level": "B1",
+    "forms": [
+      {
+        "word": "championships",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtʃæm.pi.ən.ʃɪps/"
+      }
+    ]
   },
   {
     "word": "amateur",
@@ -108,6 +172,15 @@
         "meaningVi": "người tham gia một hoạt động vì yêu thích thay vì được trả tiền",
         "example": "As an amateur, she plays music for enjoyment rather than payment.",
         "exampleVi": "Là người chơi nghiệp dư, cô chơi nhạc vì yêu thích thay vì để được trả tiền."
+      }
+    ],
+    "forms": [
+      {
+        "word": "amateurs",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈæm.ə.tərz/"
       }
     ]
   },
@@ -155,6 +228,15 @@
         "example": "The recreation of the lost mosaic used photographs taken before its destruction.",
         "exampleVi": "Việc tái tạo bức tranh khảm đã mất sử dụng các ảnh chụp trước khi nó bị phá hủy."
       }
+    ],
+    "forms": [
+      {
+        "word": "recreations",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌrek.riˈeɪ.ʃənz/"
+      }
     ]
   },
   {
@@ -165,7 +247,16 @@
     "example": "A hobby survives only if it survives a busy month.",
     "exampleVi": "Sở thích riêng chỉ sống sót nếu nó qua nổi một tháng bận rộn.",
     "topic": "sport",
-    "level": "A2"
+    "level": "A2",
+    "forms": [
+      {
+        "word": "hobbies",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈhɒb.iz/"
+      }
+    ]
   },
   {
     "word": "competitive",
@@ -193,7 +284,16 @@
     "example": "The rivalry fills the stadium twice a year.",
     "exampleVi": "Sự kình địch lấp đầy sân vận động hai lần mỗi năm.",
     "topic": "sport",
-    "level": "C1"
+    "level": "C1",
+    "forms": [
+      {
+        "word": "rivalries",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈraɪ.vəl.riz/"
+      }
+    ]
   },
   {
     "word": "sportsmanship",
@@ -230,6 +330,15 @@
         "meaningVi": "địa điểm xét xử một vụ án",
         "example": "The lawyers asked the court to change the venue of the trial.",
         "exampleVi": "Các luật sư yêu cầu tòa thay đổi địa điểm xét xử."
+      }
+    ],
+    "forms": [
+      {
+        "word": "venues",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈven.juːz/"
       }
     ]
   },

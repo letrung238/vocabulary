@@ -7,7 +7,23 @@
     "example": "The national curriculum was rewritten twice in five years.",
     "exampleVi": "Chương trình giảng dạy quốc gia được viết lại hai lần trong năm năm.",
     "level": "B2",
-    "topic": "education"
+    "topic": "education",
+    "forms": [
+      {
+        "word": "curricula",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kɝˈɪkjəˌɫɑ/"
+      },
+      {
+        "word": "curriculums",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kʌˈrɪk.jʊ.ləmz/"
+      }
+    ]
   },
   {
     "word": "tuition",
@@ -43,6 +59,15 @@
         "example": "The historian's scholarship is evident in the carefully documented book.",
         "exampleVi": "Trình độ nghiên cứu của nhà sử học thể hiện rõ trong cuốn sách được dẫn chứng cẩn thận."
       }
+    ],
+    "forms": [
+      {
+        "word": "scholarships",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈskɒl.ə.ʃɪps/"
+      }
     ]
   },
   {
@@ -60,6 +85,17 @@
         "meaningVi": "thuộc bậc học trước khi tốt nghiệp đại học",
         "example": "The university offers several undergraduate courses in economics.",
         "exampleVi": "Trường đại học cung cấp một số khóa học kinh tế ở bậc đại học."
+      }
+    ],
+    "forms": [
+      {
+        "word": "undergraduates",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌʌn.dəˈɡræd.ju.əts/",
+        "example": "Undergraduates outnumber postgraduates four to one.",
+        "exampleVi": "Sinh viên bậc cử nhân đông gấp bốn lần học viên sau đại học."
       }
     ]
   },
@@ -79,6 +115,17 @@
         "example": "He is applying for a postgraduate program in engineering.",
         "exampleVi": "Anh đang đăng ký một chương trình sau đại học về kỹ thuật."
       }
+    ],
+    "forms": [
+      {
+        "word": "postgraduates",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌpəʊstˈɡrædʒ.u.əts/",
+        "example": "Most postgraduates fund their studies by teaching.",
+        "exampleVi": "Phần lớn học viên sau đại học tự trang trải việc học bằng đi dạy."
+      }
     ]
   },
   {
@@ -96,6 +143,15 @@
         "meaningVi": "bài luận dài trình bày một luận điểm",
         "example": "The philosopher published a dissertation on the meaning of justice.",
         "exampleVi": "Nhà triết học công bố một bài luận dài về ý nghĩa của công lý."
+      }
+    ],
+    "forms": [
+      {
+        "word": "dissertations",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/dɪ.səˈteɪ.ʃənz/"
       }
     ]
   },
@@ -128,6 +184,15 @@
         "example": "The tutorial sessions give students extra help with difficult topics.",
         "exampleVi": "Các buổi hướng dẫn học tập hỗ trợ thêm cho sinh viên về những chủ đề khó."
       }
+    ],
+    "forms": [
+      {
+        "word": "tutorials",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/tjuːˈtɔː.ri.əlz/"
+      }
     ]
   },
   {
@@ -146,6 +211,15 @@
         "example": "The semester-long seminar meets weekly to discuss recent research.",
         "exampleVi": "Khóa học thảo luận kéo dài cả học kỳ tổ chức gặp hàng tuần để trao đổi về nghiên cứu mới."
       }
+    ],
+    "forms": [
+      {
+        "word": "seminars",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsem.ɪ.nɑːrz/"
+      }
     ]
   },
   {
@@ -156,7 +230,23 @@
     "example": "The syllabus lists every text to be read.",
     "exampleVi": "Đề cương môn học liệt kê mọi tài liệu cần đọc.",
     "level": "B2",
-    "topic": "education"
+    "topic": "education",
+    "forms": [
+      {
+        "word": "syllabuses",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsɪl.æ.bəsɪz/"
+      },
+      {
+        "word": "syllabi",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsɪləbaɪ/"
+      }
+    ]
   },
   {
     "word": "literacy",
@@ -208,6 +298,15 @@
         "example": "Her main motivation for moving was to live closer to her family.",
         "exampleVi": "Lý do chính khiến cô chuyển nhà là muốn sống gần gia đình hơn."
       }
+    ],
+    "forms": [
+      {
+        "word": "motivations",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌməʊ.tɪˈveɪ.ʃənz/"
+      }
     ]
   },
   {
@@ -238,7 +337,16 @@
     "example": "An apprenticeship pays a wage while you train.",
     "exampleVi": "Chế độ học việc trả lương trong lúc bạn được đào tạo.",
     "level": "B2",
-    "topic": "education"
+    "topic": "education",
+    "forms": [
+      {
+        "word": "apprenticeships",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/əˈpren.tɪs.ʃɪps/"
+      }
+    ]
   },
   {
     "word": "truancy",
@@ -266,6 +374,33 @@
         "example": "The pump can expel air from the pipe before drawing in water.",
         "exampleVi": "Máy bơm có thể đẩy không khí ra khỏi ống trước khi hút nước vào."
       }
+    ],
+    "forms": [
+      {
+        "word": "expels",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ekˈspelz/"
+      },
+      {
+        "word": "expelling",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ekˈspelɪŋ/"
+      },
+      {
+        "word": "expelled",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ekˈspeld/",
+        "example": "The school expelled two pupils for repeated cheating.",
+        "exampleVi": "Nhà trường đuổi học hai học sinh vì gian lận nhiều lần."
+      }
     ]
   },
   {
@@ -279,7 +414,32 @@
     "family": [
       "enrolment"
     ],
-    "topic": "education"
+    "topic": "education",
+    "forms": [
+      {
+        "word": "enrols",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/enˈrəʊlz/"
+      },
+      {
+        "word": "enrolling",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/enˈrəʊlɪŋ/"
+      },
+      {
+        "word": "enrolled",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/enˈrəʊld/"
+      }
+    ]
   },
   {
     "word": "graduate",
@@ -300,6 +460,32 @@
         "example": "Each graduate received a certificate at the ceremony.",
         "exampleVi": "Mỗi người tốt nghiệp nhận một giấy chứng nhận tại buổi lễ.",
         "ipa": "/ˈɡrædʒ.u.ət/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "graduates",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈɡrædʒ.u.eɪts/, /ˈɡrædʒ.u.əts/"
+      },
+      {
+        "word": "graduating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈɡrædʒ.u.eɪtɪŋ/"
+      },
+      {
+        "word": "graduated",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈɡrædʒ.u.eɪtɪd/"
       }
     ]
   },
@@ -336,6 +522,15 @@
         "meaningVi": "số tiền được định để thu thuế hoặc phí",
         "example": "The property owner challenged the new tax assessment.",
         "exampleVi": "Chủ bất động sản phản đối khoản thuế mới được ấn định."
+      }
+    ],
+    "forms": [
+      {
+        "word": "assessments",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/əˈses.mənts/"
       }
     ]
   },

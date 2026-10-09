@@ -29,6 +29,15 @@
         "exampleVi": "Nhà tuyển dụng yêu cầu thư giới thiệu.",
         "ipa": "/ˈref.ər.əns/"
       }
+    ],
+    "forms": [
+      {
+        "word": "references",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈref.ər.ənsɪz/"
+      }
     ]
   },
   {
@@ -45,6 +54,15 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "conferences",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkɒn.fər.ənsɪz/"
+      }
     ]
   },
   {
@@ -61,6 +79,15 @@
       "daily-work",
       "daily-work-498",
       "money"
+    ],
+    "forms": [
+      {
+        "word": "payments",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpeɪ.mənts/"
+      }
     ]
   },
   {
@@ -109,6 +136,15 @@
         "exampleVi": "Chúng tôi đạt thỏa thuận không chính thức về giờ làm.",
         "ipa": "/ˌʌn.dəˈstæn.dɪŋ/"
       }
+    ],
+    "forms": [
+      {
+        "word": "understandings",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌʌn.dəˈstæn.dɪŋz/"
+      }
     ]
   },
   {
@@ -125,6 +161,15 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "employees",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɪmˈplɔɪ.iːz/"
+      }
     ]
   },
   {
@@ -141,6 +186,15 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "salaries",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsæl.ər.iz/"
+      }
     ]
   },
   {
@@ -157,6 +211,15 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "employers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɪmˈplɔɪ.əz/"
+      }
     ]
   },
   {
@@ -189,6 +252,15 @@
       "daily-work",
       "daily-work-498",
       "technology"
+    ],
+    "forms": [
+      {
+        "word": "users",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈjuː.zəz/"
+      }
     ]
   },
   {
@@ -255,6 +327,15 @@
         "exampleVi": "Một cảnh sát phó của hạt kiểm tra đường sau tai nạn.",
         "ipa": "/ˈdep.jə.ti/"
       }
+    ],
+    "forms": [
+      {
+        "word": "deputies",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈdep.jə.tiz/"
+      }
     ]
   },
   {
@@ -271,6 +352,15 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "contractors",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kənˈtræk.təz/"
+      }
     ]
   },
   {
@@ -287,6 +377,15 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "manufacturers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌmæn.jəˈfæk.tʃər.əz/"
+      }
     ]
   },
   {
@@ -303,6 +402,15 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "candidates",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkæn.dɪ.dəts/"
+      }
     ]
   },
   {
@@ -327,6 +435,15 @@
         "example": "Her manager wrote a recommendation for her.",
         "exampleVi": "Quản lý viết thư giới thiệu tốt cho cô ấy.",
         "ipa": "/ˌrek.ə.menˈdeɪ.ʃən/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "recommendations",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌrek.ə.menˈdeɪ.ʃənz/"
       }
     ]
   },
@@ -367,6 +484,32 @@
         "exampleVi": "Cô ấy hiểu tầm quan trọng của lời cảnh báo.",
         "ipa": "/ˈɪm.pɔːt/"
       }
+    ],
+    "forms": [
+      {
+        "word": "imports",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ɪmˈpɔːts/, /ˈɪm.pɔːts/"
+      },
+      {
+        "word": "importing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɪmˈpɔːtɪŋ/"
+      },
+      {
+        "word": "imported",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɪmˈpɔːtɪd/"
+      }
     ]
   },
   {
@@ -383,6 +526,15 @@
       "daily-work",
       "daily-work-498",
       "technology"
+    ],
+    "forms": [
+      {
+        "word": "complexities",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kəmˈplek.sə.tiz/"
+      }
     ]
   },
   {
@@ -399,6 +551,15 @@
       "daily-work",
       "daily-work-498",
       "money"
+    ],
+    "forms": [
+      {
+        "word": "purchasers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpɜː.tʃə.səz/"
+      }
     ]
   },
   {
@@ -415,6 +576,15 @@
       "daily-work",
       "daily-work-498",
       "money"
+    ],
+    "forms": [
+      {
+        "word": "sellers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsel.əz/"
+      }
     ]
   },
   {
@@ -440,6 +610,15 @@
         "exampleVi": "Vấn đề thuộc thẩm quyền của ủy ban.",
         "ipa": "/ˈkɒm.pɪ.təns/"
       }
+    ],
+    "forms": [
+      {
+        "word": "competences",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkɒm.pɪ.tənsɪz/"
+      }
     ]
   },
   {
@@ -464,6 +643,15 @@
         "example": "The supplier gave an undertaking to replace the goods.",
         "exampleVi": "Nhà cung cấp cam kết chính thức thay hàng.",
         "ipa": "/ˌʌn.dəˈteɪ.kɪŋ/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "undertakings",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌʌn.dəˈteɪ.kɪŋz/"
       }
     ]
   },
@@ -505,6 +693,15 @@
         "example": "He accepted the plan with one qualification.",
         "exampleVi": "Anh ấy chấp nhận kế hoạch với một điều giới hạn.",
         "ipa": "/ˌkwɒl.ɪ.fɪˈkeɪ.ʃən/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "qualifications",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌkwɒl.ɪ.fɪˈkeɪ.ʃənz/"
       }
     ]
   },
@@ -563,6 +760,15 @@
         "exampleVi": "Cô ấy đành chấp nhận chậm trễ mà không phản kháng.",
         "ipa": "/ˌrez.ɪɡˈneɪ.ʃən/"
       }
+    ],
+    "forms": [
+      {
+        "word": "resignations",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌrez.ɪɡˈneɪ.ʃənz/"
+      }
     ]
   },
   {
@@ -579,6 +785,15 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "distributors",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/dɪˈstrɪb.jə.təz/"
+      }
     ]
   },
   {
@@ -611,6 +826,15 @@
       "daily-work",
       "daily-work-498",
       "technology"
+    ],
+    "forms": [
+      {
+        "word": "validations",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌvæl.ɪˈdeɪ.ʃənz/"
+      }
     ]
   },
   {
@@ -643,6 +867,15 @@
       "daily-work",
       "daily-work-498",
       "communication"
+    ],
+    "forms": [
+      {
+        "word": "ambiguities",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌæm.bɪˈɡjuː.ə.tiz/"
+      }
     ]
   },
   {
@@ -667,6 +900,15 @@
         "example": "The transcription shows where the stress falls.",
         "exampleVi": "Bản phiên âm cho biết trọng âm nằm ở đâu.",
         "ipa": "/trænˈskrɪp.ʃən/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "transcriptions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/trænˈskrɪp.ʃənz/"
       }
     ]
   },
@@ -757,6 +999,32 @@
         "exampleVi": "Phóng viên gửi bản tin từ hội nghị.",
         "ipa": "/dɪˈspætʃ/"
       }
+    ],
+    "forms": [
+      {
+        "word": "dispatches",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/dɪˈspætʃɪz/"
+      },
+      {
+        "word": "dispatching",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/dɪˈspætʃɪŋ/"
+      },
+      {
+        "word": "dispatched",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/dɪˈspætʃt/"
+      }
     ]
   },
   {
@@ -798,6 +1066,15 @@
         "exampleVi": "Công thức dùng trứng làm chất kết dính.",
         "ipa": "/ˈbaɪn.də/"
       }
+    ],
+    "forms": [
+      {
+        "word": "binders",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈbaɪn.dəz/"
+      }
     ]
   },
   {
@@ -814,6 +1091,15 @@
       "daily-work",
       "daily-work-498",
       "money"
+    ],
+    "forms": [
+      {
+        "word": "retailers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈriː.teɪ.ləz/"
+      }
     ]
   },
   {
@@ -830,6 +1116,15 @@
       "daily-work",
       "daily-work-498",
       "communication"
+    ],
+    "forms": [
+      {
+        "word": "translators",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/trænzˈleɪ.təz/"
+      }
     ]
   },
   {
@@ -846,6 +1141,15 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "educators",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈed.jʊ.keɪ.təz/"
+      }
     ]
   },
   {
@@ -878,6 +1182,15 @@
       "daily-work",
       "daily-work-498",
       "technology"
+    ],
+    "forms": [
+      {
+        "word": "functionalities",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌfʌŋk.ʃənˈæl.ə.tiz/"
+      }
     ]
   },
   {
@@ -894,6 +1207,15 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "simplifications",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌsɪm.plɪ.fɪˈkeɪ.ʃənz/"
+      }
     ]
   },
   {
@@ -951,6 +1273,15 @@
         "exampleVi": "Hãy lưu lối tắt trên màn hình làm việc chính.",
         "ipa": "/ˈdesk.tɒp/"
       }
+    ],
+    "forms": [
+      {
+        "word": "desktops",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈdesk.tɒps/"
+      }
     ]
   },
   {
@@ -976,6 +1307,32 @@
         "exampleVi": "Ngân hàng sẽ trừ tiền trong tài khoản ngày mai.",
         "ipa": "/ˈdeb.ɪt/"
       }
+    ],
+    "forms": [
+      {
+        "word": "debits",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈdeb.ɪts/"
+      },
+      {
+        "word": "debiting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈdeb.ɪtɪŋ/"
+      },
+      {
+        "word": "debited",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈdeb.ɪtɪd/"
+      }
     ]
   },
   {
@@ -992,6 +1349,15 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "exporters",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɪkˈspɔː.təz/"
+      }
     ]
   },
   {
@@ -1008,6 +1374,15 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "assessors",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/əˈses.əz/"
+      }
     ]
   },
   {
@@ -1024,6 +1399,15 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "organizers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɔː.ɡən.aɪ.zəz/"
+      }
     ]
   },
   {
@@ -1048,6 +1432,15 @@
         "example": "He accepted responsibility for the mistake.",
         "exampleVi": "Anh ấy nhận trách nhiệm về lỗi đó.",
         "ipa": "/rɪˌspɒn.sɪˈbɪl.ə.ti/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "responsibilities",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/rɪˌspɒn.sɪˈbɪl.ə.tiz/"
       }
     ]
   },
@@ -1074,6 +1467,15 @@
         "exampleVi": "Bạn có thể phải trả thuế cho hàng nhập này.",
         "ipa": "/ˈdjuː.ti/"
       }
+    ],
+    "forms": [
+      {
+        "word": "duties",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈdjuː.tiz/"
+      }
     ]
   },
   {
@@ -1098,6 +1500,15 @@
         "example": "She needs an operation on her knee.",
         "exampleVi": "Cô ấy cần phẫu thuật đầu gối.",
         "ipa": "/ˌɒp.ərˈeɪ.ʃən/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "operations",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌɒp.ərˈeɪ.ʃənz/"
       }
     ]
   },
@@ -1131,6 +1542,15 @@
         "exampleVi": "Ban nhạc chơi bản phối mới của bài hát.",
         "ipa": "/əˈreɪndʒ.mənt/"
       }
+    ],
+    "forms": [
+      {
+        "word": "arrangements",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/əˈreɪndʒ.mənts/"
+      }
     ]
   },
   {
@@ -1147,6 +1567,15 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "departments",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/dɪˈpɑːt.mənts/"
+      }
     ]
   },
   {
@@ -1172,6 +1601,15 @@
         "exampleVi": "Thỏa thuận cho phép chuyển nhượng hợp đồng thuê.",
         "ipa": "/əˈsaɪn.mənt/"
       }
+    ],
+    "forms": [
+      {
+        "word": "assignments",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/əˈsaɪn.mənts/"
+      }
     ]
   },
   {
@@ -1188,6 +1626,15 @@
       "daily-work",
       "daily-work-498",
       "communication"
+    ],
+    "forms": [
+      {
+        "word": "announcements",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/əˈnaʊns.mənts/"
+      }
     ]
   },
   {
@@ -1227,6 +1674,32 @@
         "exampleVi": "Chúng tôi xây dựng đào tạo theo mẫu tình huống thực tế.",
         "ipa": "/ˈpæt.ən/"
       }
+    ],
+    "forms": [
+      {
+        "word": "patterns",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈpæt.ənz/"
+      },
+      {
+        "word": "patterning",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈpæt.ənɪŋ/"
+      },
+      {
+        "word": "patterned",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈpæt.ənd/"
+      }
     ]
   },
   {
@@ -1259,6 +1732,15 @@
         "exampleVi": "Gia đình dự lễ tưởng niệm.",
         "ipa": "/ˈsɜː.vɪs/"
       }
+    ],
+    "forms": [
+      {
+        "word": "services",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsɜː.vɪsɪz/"
+      }
     ]
   },
   {
@@ -1283,6 +1765,15 @@
         "example": "The absence of instructions caused confusion.",
         "exampleVi": "Việc thiếu hướng dẫn gây nhầm lẫn.",
         "ipa": "/ˈæb.səns/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "absences",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈæb.sənsɪz/"
       }
     ]
   },
@@ -1316,6 +1807,15 @@
         "exampleVi": "Sự chậm trễ khiến chúng tôi lỡ chuyến nối tiếp.",
         "ipa": "/kəˈnek.ʃən/"
       }
+    ],
+    "forms": [
+      {
+        "word": "connections",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kəˈnek.ʃənz/"
+      }
     ]
   },
   {
@@ -1332,6 +1832,15 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "instructors",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɪnˈstrʌk.təz/"
+      }
     ]
   },
   {
@@ -1356,6 +1865,15 @@
         "example": "She works on a part-time basis.",
         "exampleVi": "Cô ấy làm việc theo chế độ bán thời gian.",
         "ipa": "/ˈbeɪ.sɪs/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "bases",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈbeɪsiːz/"
       }
     ]
   },
@@ -1382,6 +1900,15 @@
         "exampleVi": "Sắp xếp công việc tốt hơn sẽ tiết kiệm thời gian.",
         "ipa": "/ˌɔː.ɡən.aɪˈzeɪ.ʃən/"
       }
+    ],
+    "forms": [
+      {
+        "word": "organizations",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌɔː.ɡən.aɪˈzeɪ.ʃənz/"
+      }
     ]
   },
   {
@@ -1406,6 +1933,17 @@
         "example": "The material has useful insulating properties.",
         "exampleVi": "Vật liệu có đặc tính cách nhiệt hữu ích.",
         "ipa": "/ˈprɒp.ə.ti/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "properties",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈprɒp.ə.tiz/",
+        "example": "The material has useful insulating properties.",
+        "exampleVi": "Vật liệu có đặc tính cách nhiệt hữu ích."
       }
     ]
   },
@@ -1438,6 +1976,17 @@
         "example": "Read the terms before accepting the offer.",
         "exampleVi": "Hãy đọc điều khoản trước khi nhận đề nghị.",
         "ipa": "/tɜːm/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "terms",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/tɜːmz/",
+        "example": "Read the terms before accepting the offer.",
+        "exampleVi": "Hãy đọc điều khoản trước khi nhận đề nghị."
       }
     ]
   },
@@ -1503,6 +2052,15 @@
         "exampleVi": "Màn giới thiệu ngắn giúp chúng tôi bắt đầu trò chuyện.",
         "ipa": "/ˌɪn.trəˈdʌk.ʃən/"
       }
+    ],
+    "forms": [
+      {
+        "word": "introductions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌɪn.trəˈdʌk.ʃənz/"
+      }
     ]
   },
   {
@@ -1527,6 +2085,15 @@
         "example": "Accurate location of the leak saved repair time.",
         "exampleVi": "Xác định chính xác vị trí rò rỉ tiết kiệm thời gian sửa.",
         "ipa": "/ləʊˈkeɪ.ʃən/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "locations",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ləʊˈkeɪ.ʃənz/"
       }
     ]
   },
@@ -1559,6 +2126,15 @@
         "example": "The final movement is fast and energetic.",
         "exampleVi": "Chương cuối của tác phẩm nhanh và đầy năng lượng.",
         "ipa": "/ˈmuːv.mənt/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "movements",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈmuːv.mənts/"
       }
     ]
   },
@@ -1601,6 +2177,15 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "comparisons",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kəmˈpær.ɪ.sənz/"
+      }
     ]
   },
   {
@@ -1632,6 +2217,15 @@
         "example": "The prize presentation took place after dinner.",
         "exampleVi": "Lễ trao giải diễn ra sau bữa tối.",
         "ipa": "/ˌprez.ənˈteɪ.ʃən/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "presentations",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌprez.ənˈteɪ.ʃənz/"
       }
     ]
   },
@@ -1674,6 +2268,15 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "advisors",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ədˈvaɪ.zəz/"
+      }
     ]
   },
   {
@@ -1698,6 +2301,15 @@
         "example": "Her industry helped the team finish early.",
         "exampleVi": "Sự chăm chỉ của cô ấy giúp nhóm hoàn thành sớm.",
         "ipa": "/ˈɪn.də.stri/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "industries",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɪn.də.striz/"
       }
     ]
   },
@@ -1724,6 +2336,15 @@
         "exampleVi": "Tôi còn một điều e ngại về đề xuất.",
         "ipa": "/ˌrez.əˈveɪ.ʃən/"
       }
+    ],
+    "forms": [
+      {
+        "word": "reservations",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌrez.əˈveɪ.ʃənz/"
+      }
     ]
   },
   {
@@ -1748,6 +2369,15 @@
         "example": "At the conclusion of the meeting, we agreed on dates.",
         "exampleVi": "Cuối cuộc họp, chúng tôi thống nhất ngày tháng.",
         "ipa": "/kənˈkluː.ʒən/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "conclusions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kənˈkluː.ʒənz/"
       }
     ]
   },
@@ -1813,6 +2443,32 @@
         "exampleVi": "Chuyến đi dài sẽ thử thách sự kiên nhẫn của chúng tôi.",
         "ipa": "/tæks/"
       }
+    ],
+    "forms": [
+      {
+        "word": "taxes",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/tæksɪz/"
+      },
+      {
+        "word": "taxing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/tæksɪŋ/"
+      },
+      {
+        "word": "taxed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/tækst/"
+      }
     ]
   },
   {
@@ -1837,6 +2493,15 @@
         "example": "The course provides practical instruction in first aid.",
         "exampleVi": "Khóa học đào tạo thực hành sơ cứu.",
         "ipa": "/ɪnˈstrʌk.ʃən/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "instructions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɪnˈstrʌk.ʃənz/"
       }
     ]
   },
@@ -1870,6 +2535,15 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "inspections",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɪnˈspek.ʃənz/"
+      }
     ]
   },
   {
@@ -1902,6 +2576,15 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "analyses",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/əˈnæləsiːz/"
+      }
     ]
   },
   {
@@ -1957,6 +2640,15 @@
         "exampleVi": "Cần sơn phủ thêm lần thứ hai.",
         "ipa": "/ˌæp.lɪˈkeɪ.ʃən/"
       }
+    ],
+    "forms": [
+      {
+        "word": "applications",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌæp.lɪˈkeɪ.ʃənz/"
+      }
     ]
   },
   {
@@ -1973,6 +2665,15 @@
       "daily-work",
       "daily-work-498",
       "communication"
+    ],
+    "forms": [
+      {
+        "word": "confirmations",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌkɒn.fəˈmeɪ.ʃənz/"
+      }
     ]
   },
   {
@@ -2005,6 +2706,15 @@
         "exampleVi": "Người phát biểu đứng trên bục cao.",
         "ipa": "/ˈplæt.fɔːm/"
       }
+    ],
+    "forms": [
+      {
+        "word": "platforms",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈplæt.fɔːmz/"
+      }
     ]
   },
   {
@@ -2029,6 +2739,32 @@
         "example": "We cannot risk losing the original files.",
         "exampleVi": "Chúng tôi không thể liều để mất tệp gốc.",
         "ipa": "/rɪsk/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "risks",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/rɪsks/"
+      },
+      {
+        "word": "risking",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/rɪskɪŋ/"
+      },
+      {
+        "word": "risked",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/rɪskt/"
       }
     ]
   },
@@ -2071,6 +2807,15 @@
         "exampleVi": "Chương trình thư điện tử lưu tin nhắn trên máy.",
         "ipa": "/ˈklaɪ.ənt/"
       }
+    ],
+    "forms": [
+      {
+        "word": "clients",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈklaɪ.ənts/"
+      }
     ]
   },
   {
@@ -2096,6 +2841,15 @@
         "exampleVi": "Cửa hàng bán quần áo thiết kế cao cấp.",
         "ipa": "/dɪˈzaɪ.nə/"
       }
+    ],
+    "forms": [
+      {
+        "word": "designers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/dɪˈzaɪ.nəz/"
+      }
     ]
   },
   {
@@ -2120,6 +2874,17 @@
         "example": "Wear comfortable trainers for the walk.",
         "exampleVi": "Hãy đi giày thể thao thoải mái cho buổi đi bộ.",
         "ipa": "/ˈtreɪ.nə/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "trainers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtreɪ.nəz/",
+        "example": "Wear comfortable trainers for the walk.",
+        "exampleVi": "Hãy đi giày thể thao thoải mái cho buổi đi bộ."
       }
     ]
   },
@@ -2153,6 +2918,32 @@
         "exampleVi": "Tạp chí sẽ viết bài giới thiệu giám đốc mới.",
         "ipa": "/ˈprəʊ.faɪl/"
       }
+    ],
+    "forms": [
+      {
+        "word": "profiles",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈprəʊ.faɪlz/"
+      },
+      {
+        "word": "profiling",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈprəʊ.faɪlɪŋ/"
+      },
+      {
+        "word": "profiled",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈprəʊ.faɪld/"
+      }
     ]
   },
   {
@@ -2169,6 +2960,15 @@
       "daily-work",
       "daily-work-498",
       "communication"
+    ],
+    "forms": [
+      {
+        "word": "translations",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/trænzˈleɪ.ʃənz/"
+      }
     ]
   },
   {
@@ -2210,6 +3010,15 @@
       "daily-work",
       "daily-work-498",
       "travel"
+    ],
+    "forms": [
+      {
+        "word": "intersections",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌɪn.təˈsek.ʃənz/"
+      }
     ]
   },
   {
@@ -2235,6 +3044,15 @@
         "exampleVi": "Ngân hàng đặt mức trần cho việc rút tiền.",
         "ipa": "/ˈsiː.lɪŋ/"
       }
+    ],
+    "forms": [
+      {
+        "word": "ceilings",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsiː.lɪŋz/"
+      }
     ]
   },
   {
@@ -2251,6 +3069,15 @@
       "daily-work",
       "daily-work-498",
       "travel"
+    ],
+    "forms": [
+      {
+        "word": "cottages",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkɒt.ɪdʒɪz/"
+      }
     ]
   },
   {
@@ -2275,6 +3102,15 @@
         "example": "The policy supports an infant industry.",
         "exampleVi": "Chính sách hỗ trợ một ngành mới hình thành.",
         "ipa": "/ˈɪn.fənt/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "infants",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɪn.fənts/"
       }
     ]
   },
@@ -2317,6 +3153,15 @@
         "exampleVi": "Cô ấy cảm thấy vừa nhẹ nhõm vừa hào hứng.",
         "ipa": "/ˈmɪks.tʃə/"
       }
+    ],
+    "forms": [
+      {
+        "word": "mixtures",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈmɪks.tʃəz/"
+      }
     ]
   },
   {
@@ -2349,6 +3194,15 @@
         "exampleVi": "Đề xuất thiếu giá trị thực.",
         "ipa": "/ˈsʌb.stəns/"
       }
+    ],
+    "forms": [
+      {
+        "word": "substances",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsʌb.stənsɪz/"
+      }
     ]
   },
   {
@@ -2365,6 +3219,15 @@
       "daily-work",
       "daily-work-498",
       "health"
+    ],
+    "forms": [
+      {
+        "word": "throats",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/θrəʊts/"
+      }
     ]
   },
   {
@@ -2396,6 +3259,15 @@
         "example": "A cactus spine caught in my sleeve.",
         "exampleVi": "Gai xương rồng mắc vào tay áo tôi.",
         "ipa": "/spaɪn/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "spines",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/spaɪnz/"
       }
     ]
   },
@@ -2486,6 +3358,15 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "vibrations",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/vaɪˈbreɪ.ʃənz/"
+      }
     ]
   },
   {
@@ -2511,6 +3392,32 @@
         "exampleVi": "Phần mềm sẽ cách ly tệp đáng ngờ.",
         "ipa": "/ˈkwɒr.ən.tiːn/"
       }
+    ],
+    "forms": [
+      {
+        "word": "quarantines",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈkwɒr.ən.tiːnz/"
+      },
+      {
+        "word": "quarantining",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈkwɒr.ən.tiːnɪŋ/"
+      },
+      {
+        "word": "quarantined",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈkwɒr.ən.tiːnd/"
+      }
     ]
   },
   {
@@ -2527,6 +3434,15 @@
       "daily-work",
       "daily-work-498",
       "health"
+    ],
+    "forms": [
+      {
+        "word": "outpatients",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈaʊt.peɪ.ʃənts/"
+      }
     ]
   },
   {
@@ -2543,6 +3459,15 @@
       "daily-work",
       "daily-work-498",
       "health"
+    ],
+    "forms": [
+      {
+        "word": "thermometers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/θəˈmɒm.ɪ.təz/"
+      }
     ]
   },
   {
@@ -2593,6 +3518,15 @@
         "exampleVi": "Chúng tôi đi xe điện qua thành phố.",
         "ipa": "/ˈtrɒl.i/"
       }
+    ],
+    "forms": [
+      {
+        "word": "trolleys",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtrɒl.iz/"
+      }
     ]
   },
   {
@@ -2609,6 +3543,15 @@
       "daily-work",
       "daily-work-498",
       "daily"
+    ],
+    "forms": [
+      {
+        "word": "rugs",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/rʌɡz/"
+      }
     ]
   },
   {
@@ -2633,6 +3576,15 @@
         "example": "She updated her wardrobe for the new job.",
         "exampleVi": "Cô ấy sắm thêm quần áo cho công việc mới.",
         "ipa": "/ˈwɔː.drəʊb/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "wardrobes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈwɔː.drəʊbz/"
       }
     ]
   },
@@ -2659,6 +3611,32 @@
         "exampleVi": "Bạn có thể gối đầu lên cánh tay.",
         "ipa": "/ˈpɪl.əʊ/"
       }
+    ],
+    "forms": [
+      {
+        "word": "pillows",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈpɪl.əʊz/"
+      },
+      {
+        "word": "pillowing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈpɪl.əʊɪŋ/"
+      },
+      {
+        "word": "pillowed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈpɪl.əʊd/"
+      }
     ]
   },
   {
@@ -2675,6 +3653,15 @@
       "daily-work",
       "daily-work-498",
       "daily"
+    ],
+    "forms": [
+      {
+        "word": "garments",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɡɑː.mənts/"
+      }
     ]
   },
   {
@@ -2691,6 +3678,15 @@
       "daily-work",
       "daily-work-498",
       "travel"
+    ],
+    "forms": [
+      {
+        "word": "sidewalks",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsaɪd.wɔːks/"
+      }
     ]
   },
   {
@@ -2714,6 +3710,15 @@
         "meaningVi": "thời điểm phải đưa ra lựa chọn quan trọng",
         "example": "The business is at a crossroads.",
         "exampleVi": "Doanh nghiệp đang ở thời điểm phải chọn hướng đi quan trọng.",
+        "ipa": "/ˈkrɒs.rəʊdz/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "crossroads",
+        "types": [
+          "plural"
+        ],
         "ipa": "/ˈkrɒs.rəʊdz/"
       }
     ]
@@ -2741,6 +3746,15 @@
         "exampleVi": "Chúng tôi tìm mọi hướng để huy động vốn.",
         "ipa": "/ˈæv.ə.njuː/"
       }
+    ],
+    "forms": [
+      {
+        "word": "avenues",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈæv.ə.njuːz/"
+      }
     ]
   },
   {
@@ -2765,6 +3779,15 @@
         "example": "The landlord welcomed us into the pub.",
         "exampleVi": "Chủ quán rượu đón chúng tôi vào quán.",
         "ipa": "/ˈlænd.lɔːd/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "landlords",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈlænd.lɔːdz/"
       }
     ]
   },
@@ -2791,6 +3814,15 @@
         "exampleVi": "Chi phí sửa chữa khoảng năm trăm đô la.",
         "ipa": "/ˈneɪ.bə.hʊd/"
       }
+    ],
+    "forms": [
+      {
+        "word": "neighborhoods",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈneɪ.bə.hʊdz/"
+      }
     ]
   },
   {
@@ -2816,6 +3848,15 @@
         "exampleVi": "Bằng cấp có thể là điều kiện mở đường tới việc làm tốt hơn.",
         "ipa": "/ˈpɑːs.pɔːt/"
       }
+    ],
+    "forms": [
+      {
+        "word": "passports",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpɑːs.pɔːts/"
+      }
     ]
   },
   {
@@ -2832,6 +3873,15 @@
       "daily-work",
       "daily-work-498",
       "travel"
+    ],
+    "forms": [
+      {
+        "word": "airlines",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈeə.laɪnz/"
+      }
     ]
   },
   {
@@ -2848,6 +3898,15 @@
       "daily-work",
       "daily-work-498",
       "travel"
+    ],
+    "forms": [
+      {
+        "word": "motorcycles",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈməʊ.təˌsaɪ.kəlz/"
+      }
     ]
   },
   {
@@ -2889,6 +3948,15 @@
         "exampleVi": "Nhân viên lễ tân chào từng người mới đến.",
         "ipa": "/əˈraɪ.vəl/"
       }
+    ],
+    "forms": [
+      {
+        "word": "arrivals",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/əˈraɪ.vəlz/"
+      }
     ]
   },
   {
@@ -2920,6 +3988,15 @@
         "example": "They stayed in a trailer during the renovation.",
         "exampleVi": "Họ ở trong nhà lưu động khi sửa nhà.",
         "ipa": "/ˈtreɪ.lə/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "trailers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtreɪ.ləz/"
       }
     ]
   },
@@ -2953,6 +4030,15 @@
         "exampleVi": "Đồng là chất dẫn điện tốt.",
         "ipa": "/kənˈdʌk.tə/"
       }
+    ],
+    "forms": [
+      {
+        "word": "conductors",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kənˈdʌk.təz/"
+      }
     ]
   },
   {
@@ -2977,6 +4063,15 @@
         "example": "The contract includes a rider about delivery.",
         "exampleVi": "Hợp đồng có điều khoản bổ sung về giao hàng.",
         "ipa": "/ˈraɪ.də/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "riders",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈraɪ.dəz/"
       }
     ]
   },
@@ -3003,6 +4098,15 @@
         "exampleVi": "Hãy mở tài liệu bằng phần mềm xem PDF.",
         "ipa": "/ˈvjuː.ə/"
       }
+    ],
+    "forms": [
+      {
+        "word": "viewers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈvjuː.əz/"
+      }
     ]
   },
   {
@@ -3019,6 +4123,15 @@
       "daily-work",
       "daily-work-498",
       "communication"
+    ],
+    "forms": [
+      {
+        "word": "listeners",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈlɪs.ən.əz/"
+      }
     ]
   },
   {
@@ -3035,6 +4148,15 @@
       "daily-work",
       "daily-work-498",
       "society"
+    ],
+    "forms": [
+      {
+        "word": "immigrants",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɪm.ɪ.ɡrənts/"
+      }
     ]
   },
   {
@@ -3060,6 +4182,15 @@
         "exampleVi": "Cô ấy trở thành người đại diện quảng bá tổ chức từ thiện.",
         "ipa": "/æmˈbæs.ə.də/"
       }
+    ],
+    "forms": [
+      {
+        "word": "ambassadors",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/æmˈbæs.ə.dəz/"
+      }
     ]
   },
   {
@@ -3076,6 +4207,15 @@
       "daily-work",
       "daily-work-498",
       "travel"
+    ],
+    "forms": [
+      {
+        "word": "embassies",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈem.bə.siz/"
+      }
     ]
   },
   {
@@ -3101,6 +4241,15 @@
         "exampleVi": "Công ty bước vào lĩnh vực hoạt động quốc tế.",
         "ipa": "/əˈriː.nə/"
       }
+    ],
+    "forms": [
+      {
+        "word": "arenas",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/əˈriː.nəz/"
+      }
     ]
   },
   {
@@ -3125,6 +4274,15 @@
         "example": "The children enjoyed rides at the carnival.",
         "exampleVi": "Trẻ em thích các trò chơi ở hội vui.",
         "ipa": "/ˈkɑː.nɪ.vəl/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "carnivals",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkɑː.nɪ.vəlz/"
       }
     ]
   },
@@ -3167,6 +4325,15 @@
         "exampleVi": "Triển lãm trưng bày trang phục truyền thống.",
         "ipa": "/ˈkɒs.tjuːm/"
       }
+    ],
+    "forms": [
+      {
+        "word": "costumes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkɒs.tjuːmz/"
+      }
     ]
   },
   {
@@ -3191,6 +4358,15 @@
         "example": "We studied the relationship between price and demand.",
         "exampleVi": "Chúng tôi nghiên cứu tương quan giữa giá và nhu cầu.",
         "ipa": "/rɪˈleɪ.ʃən.ʃɪp/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "relationships",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/rɪˈleɪ.ʃən.ʃɪps/"
       }
     ]
   },
@@ -3217,6 +4393,15 @@
         "exampleVi": "Thiết kế là sự kết hợp hài hòa giữa phong cách và tính thực dụng.",
         "ipa": "/ˈmær.ɪdʒ/"
       }
+    ],
+    "forms": [
+      {
+        "word": "marriages",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈmær.ɪdʒɪz/"
+      }
     ]
   },
   {
@@ -3242,6 +4427,15 @@
         "exampleVi": "Sách hướng dẫn này là tài liệu đi kèm khóa đào tạo.",
         "ipa": "/kəmˈpæn.jən/"
       }
+    ],
+    "forms": [
+      {
+        "word": "companions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kəmˈpæn.jənz/"
+      }
     ]
   },
   {
@@ -3258,6 +4452,15 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "intentions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɪnˈten.ʃənz/"
+      }
     ]
   },
   {
@@ -3290,6 +4493,15 @@
         "exampleVi": "Anh ấy bắt chước người dẫn chương trình rất hài hước.",
         "ipa": "/ɪmˈpreʃ.ən/"
       }
+    ],
+    "forms": [
+      {
+        "word": "impressions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɪmˈpreʃ.ənz/"
+      }
     ]
   },
   {
@@ -3314,6 +4526,15 @@
         "example": "An unlocked door is an invitation to theft.",
         "exampleVi": "Cửa không khóa dễ tạo cơ hội cho trộm cắp.",
         "ipa": "/ˌɪn.vɪˈteɪ.ʃən/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "invitations",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌɪn.vɪˈteɪ.ʃənz/"
       }
     ]
   },
@@ -3340,6 +4561,15 @@
         "exampleVi": "Làm việc tại nhà là một phương án có thể chọn.",
         "ipa": "/ˌpɒs.əˈbɪl.ə.ti/"
       }
+    ],
+    "forms": [
+      {
+        "word": "possibilities",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌpɒs.əˈbɪl.ə.tiz/"
+      }
     ]
   },
   {
@@ -3356,6 +4586,15 @@
       "daily-work",
       "daily-work-498",
       "communication"
+    ],
+    "forms": [
+      {
+        "word": "realities",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/riˈæl.ə.tiz/"
+      }
     ]
   },
   {
@@ -3380,6 +4619,15 @@
         "example": "The watch was her most valuable possession.",
         "exampleVi": "Chiếc đồng hồ là tài sản giá trị nhất của cô ấy.",
         "ipa": "/pəˈzeʃ.ən/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "possessions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/pəˈzeʃ.ənz/"
       }
     ]
   },
@@ -3413,6 +4661,32 @@
         "exampleVi": "Người chủ tiệc làm mọi khách đều thích thú.",
         "ipa": "/tʃɑːm/"
       }
+    ],
+    "forms": [
+      {
+        "word": "charms",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/tʃɑːmz/"
+      },
+      {
+        "word": "charming",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/tʃɑːmɪŋ/"
+      },
+      {
+        "word": "charmed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/tʃɑːmd/"
+      }
     ]
   },
   {
@@ -3429,6 +4703,15 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "loyalties",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈlɔɪ.əl.tiz/"
+      }
     ]
   },
   {
@@ -3454,6 +4737,15 @@
         "exampleVi": "Khí quyển bảo vệ hành tinh.",
         "ipa": "/ˈæt.mə.sfɪə/"
       }
+    ],
+    "forms": [
+      {
+        "word": "atmospheres",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈæt.mə.sfɪəz/"
+      }
     ]
   },
   {
@@ -3478,6 +4770,15 @@
         "example": "There was a strong attraction between them.",
         "exampleVi": "Giữa họ có sự hấp dẫn mạnh mẽ.",
         "ipa": "/əˈtræk.ʃən/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "attractions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/əˈtræk.ʃənz/"
       }
     ]
   },
@@ -3520,6 +4821,17 @@
         "exampleVi": "Chúng tôi tôn trọng các tín ngưỡng khác nhau.",
         "ipa": "/bɪˈliːf/"
       }
+    ],
+    "forms": [
+      {
+        "word": "beliefs",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/bɪˈliːfs/",
+        "example": "We respect different religious beliefs.",
+        "exampleVi": "Chúng tôi tôn trọng các tín ngưỡng khác nhau."
+      }
     ]
   },
   {
@@ -3536,6 +4848,15 @@
       "daily-work",
       "daily-work-498",
       "communication"
+    ],
+    "forms": [
+      {
+        "word": "emotions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɪˈməʊ.ʃənz/"
+      }
     ]
   },
   {
@@ -3577,6 +4898,15 @@
         "exampleVi": "Tôi sẽ nhớ hành động tử tế nhỏ đó.",
         "ipa": "/ˈkaɪnd.nəs/"
       }
+    ],
+    "forms": [
+      {
+        "word": "kindnesses",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkaɪnd.nəsɪz/"
+      }
     ]
   },
   {
@@ -3609,6 +4939,15 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "achievements",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/əˈtʃiːv.mənts/"
+      }
     ]
   },
   {
@@ -3625,6 +4964,15 @@
       "daily-work",
       "daily-work-498",
       "health"
+    ],
+    "forms": [
+      {
+        "word": "breaths",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/breθs/"
+      }
     ]
   },
   {
@@ -3657,6 +5005,32 @@
         "exampleVi": "Làm nhóm thất vọng sẽ khiến tôi đau lòng.",
         "ipa": "/peɪn/"
       }
+    ],
+    "forms": [
+      {
+        "word": "pains",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/peɪnz/"
+      },
+      {
+        "word": "paining",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/peɪnɪŋ/"
+      },
+      {
+        "word": "pained",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/peɪnd/"
+      }
     ]
   },
   {
@@ -3673,6 +5047,15 @@
       "daily-work",
       "daily-work-498",
       "health"
+    ],
+    "forms": [
+      {
+        "word": "injuries",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɪn.dʒər.iz/"
+      }
     ]
   },
   {
@@ -3689,6 +5072,15 @@
       "daily-work",
       "daily-work-498",
       "health"
+    ],
+    "forms": [
+      {
+        "word": "illnesses",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɪl.nəsɪz/"
+      }
     ]
   },
   {
@@ -3728,6 +5120,15 @@
         "exampleVi": "Bộ phim khai thác đề tài một cách sâu sắc.",
         "ipa": "/ˈtriːt.mənt/"
       }
+    ],
+    "forms": [
+      {
+        "word": "treatments",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtriːt.mənts/"
+      }
     ]
   },
   {
@@ -3752,6 +5153,15 @@
         "example": "The new singer became a sensation.",
         "exampleVi": "Ca sĩ mới trở thành hiện tượng gây chú ý.",
         "ipa": "/senˈseɪ.ʃən/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "sensations",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/senˈseɪ.ʃənz/"
       }
     ]
   },
@@ -3803,6 +5213,15 @@
         "exampleVi": "Cửa hàng báo cáo bị lỗ năm ngoái.",
         "ipa": "/lɒs/"
       }
+    ],
+    "forms": [
+      {
+        "word": "losses",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/lɒsɪz/"
+      }
     ]
   },
   {
@@ -3819,6 +5238,15 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "discoveries",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/dɪˈskʌv.ər.iz/"
+      }
     ]
   },
   {
@@ -3867,6 +5295,15 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "outsiders",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌaʊtˈsaɪ.dəz/"
+      }
     ]
   },
   {
@@ -3883,6 +5320,15 @@
       "daily-work",
       "daily-work-498",
       "daily"
+    ],
+    "forms": [
+      {
+        "word": "misfortunes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/mɪsˈfɔː.tʃuːnz/"
+      }
     ]
   },
   {
@@ -3915,6 +5361,15 @@
       "daily-work",
       "daily-work-498",
       "communication"
+    ],
+    "forms": [
+      {
+        "word": "recollections",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌrek.əˈlek.ʃənz/"
+      }
     ]
   },
   {
@@ -3931,6 +5386,15 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "aspirations",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌæs.pɪˈreɪ.ʃənz/"
+      }
     ]
   },
   {
@@ -3995,6 +5459,15 @@
       "daily-work",
       "daily-work-498",
       "communication"
+    ],
+    "forms": [
+      {
+        "word": "accusations",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌæk.jəˈzeɪ.ʃənz/"
+      }
     ]
   },
   {
@@ -4036,6 +5509,15 @@
         "exampleVi": "Giữ mọi biên lai trở thành điều khiến anh ấy ám ảnh.",
         "ipa": "/əbˈseʃ.ən/"
       }
+    ],
+    "forms": [
+      {
+        "word": "obsessions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/əbˈseʃ.ənz/"
+      }
     ]
   },
   {
@@ -4060,6 +5542,15 @@
         "example": "His admission of the error helped us fix it.",
         "exampleVi": "Việc anh ấy thừa nhận lỗi giúp chúng tôi sửa lỗi.",
         "ipa": "/ədˈmɪʃ.ən/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "admissions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ədˈmɪʃ.ənz/"
       }
     ]
   },
@@ -4093,6 +5584,15 @@
       "daily-work",
       "daily-work-498",
       "communication"
+    ],
+    "forms": [
+      {
+        "word": "greetings",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɡriː.tɪŋz/"
+      }
     ]
   },
   {
@@ -4117,6 +5617,15 @@
         "example": "Police responded to a disturbance outside the venue.",
         "exampleVi": "Cảnh sát xử lý vụ gây rối ngoài địa điểm tổ chức.",
         "ipa": "/dɪˈstɜː.bəns/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "disturbances",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/dɪˈstɜː.bənsɪz/"
       }
     ]
   },
@@ -4143,6 +5652,15 @@
         "exampleVi": "Cô ấy hoàn thành khóa học với kết quả xuất sắc.",
         "ipa": "/dɪˈstɪŋk.ʃən/"
       }
+    ],
+    "forms": [
+      {
+        "word": "distinctions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/dɪˈstɪŋk.ʃənz/"
+      }
     ]
   },
   {
@@ -4167,6 +5685,15 @@
         "example": "There was a suspicion of lemon in the sauce.",
         "exampleVi": "Nước xốt có một chút vị chanh.",
         "ipa": "/səˈspɪʃ.ən/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "suspicions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/səˈspɪʃ.ənz/"
       }
     ]
   },
@@ -4200,6 +5727,15 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "improvements",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɪmˈpruːv.mənts/"
+      }
     ]
   },
   {
@@ -4224,6 +5760,15 @@
         "example": "The old machine is now a museum curiosity.",
         "exampleVi": "Chiếc máy cũ giờ là vật lạ được trưng bày ở bảo tàng.",
         "ipa": "/ˌkjʊə.riˈɒs.ə.ti/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "curiosities",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌkjʊə.riˈɒs.ə.tiz/"
       }
     ]
   },
@@ -4266,6 +5811,15 @@
       "daily-work",
       "daily-work-498",
       "health"
+    ],
+    "forms": [
+      {
+        "word": "intensities",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɪnˈten.sə.tiz/"
+      }
     ]
   },
   {
@@ -4291,6 +5845,32 @@
         "exampleVi": "Chúng tôi quý trọng sự trung thực trong nhóm.",
         "ipa": "/praɪz/"
       }
+    ],
+    "forms": [
+      {
+        "word": "prizes",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/praɪzɪz/"
+      },
+      {
+        "word": "prizing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/praɪzɪŋ/"
+      },
+      {
+        "word": "prized",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/praɪzd/"
+      }
     ]
   },
   {
@@ -4307,6 +5887,15 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "victories",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈvɪk.tər.iz/"
+      }
     ]
   },
   {
@@ -4339,6 +5928,32 @@
         "exampleVi": "Cô ấy sẽ phát biểu trước hội nghị ngày mai.",
         "ipa": "/əˈdres/"
       }
+    ],
+    "forms": [
+      {
+        "word": "addresses",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/əˈdresɪz/"
+      },
+      {
+        "word": "addressing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/əˈdresɪŋ/"
+      },
+      {
+        "word": "addressed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/əˈdrest/"
+      }
     ]
   },
   {
@@ -4370,6 +5985,31 @@
         "example": "The explanation is clear to a lay reader.",
         "exampleVi": "Lời giải thích rõ ràng với người đọc không chuyên.",
         "ipa": "/leɪ/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "lays",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/leɪz/"
+      },
+      {
+        "word": "laying",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/leɪɪŋ/"
+      },
+      {
+        "word": "laid",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈɫeɪd/"
       }
     ]
   },
@@ -4410,6 +6050,32 @@
         "exampleVi": "Cô ấy có thể diễn hài và kịch chính kịch.",
         "ipa": "/ækt/"
       }
+    ],
+    "forms": [
+      {
+        "word": "acts",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ækts/"
+      },
+      {
+        "word": "acting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/æktɪŋ/"
+      },
+      {
+        "word": "acted",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/æktɪd/"
+      }
     ]
   },
   {
@@ -4449,6 +6115,32 @@
         "exampleVi": "Vui lòng chia bài.",
         "ipa": "/diːl/"
       }
+    ],
+    "forms": [
+      {
+        "word": "deals",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/diːlz/"
+      },
+      {
+        "word": "dealing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/diːlɪŋ/"
+      },
+      {
+        "word": "dealt",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈdɛɫt/"
+      }
     ]
   },
   {
@@ -4481,6 +6173,31 @@
         "exampleVi": "Bạn cần sự cho phép rõ ràng của chủ sở hữu.",
         "ipa": "/ɪkˈspres/"
       }
+    ],
+    "forms": [
+      {
+        "word": "expresses",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ɪkˈspresɪz/"
+      },
+      {
+        "word": "expressing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɪkˈspresɪŋ/"
+      },
+      {
+        "word": "expressed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɪkˈsprest/"
+      }
     ]
   },
   {
@@ -4505,6 +6222,31 @@
         "example": "I will attend to your request this afternoon.",
         "exampleVi": "Tôi sẽ xử lý yêu cầu của bạn chiều nay.",
         "ipa": "/əˈtend/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "attends",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/əˈtendz/"
+      },
+      {
+        "word": "attending",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/əˈtendɪŋ/"
+      },
+      {
+        "word": "attended",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/əˈtendɪd/"
       }
     ]
   },
@@ -4545,6 +6287,32 @@
         "exampleVi": "Công ty có văn phòng ở một bang khác.",
         "ipa": "/steɪt/"
       }
+    ],
+    "forms": [
+      {
+        "word": "states",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/steɪts/"
+      },
+      {
+        "word": "stating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/steɪtɪŋ/"
+      },
+      {
+        "word": "stated",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/steɪtɪd/"
+      }
     ]
   },
   {
@@ -4570,6 +6338,32 @@
         "exampleVi": "Thiết kế của cô ấy được ghi nhận bằng lời khen trong giải thưởng.",
         "ipa": "/ˈmen.ʃən/"
       }
+    ],
+    "forms": [
+      {
+        "word": "mentions",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈmen.ʃənz/"
+      },
+      {
+        "word": "mentioning",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈmen.ʃənɪŋ/"
+      },
+      {
+        "word": "mentioned",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈmen.ʃənd/"
+      }
     ]
   },
   {
@@ -4586,6 +6380,31 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "suffers",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈsʌf.əz/"
+      },
+      {
+        "word": "suffering",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈsʌf.əɪŋ/"
+      },
+      {
+        "word": "suffered",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈsʌf.əd/"
+      }
     ]
   },
   {
@@ -4618,6 +6437,31 @@
         "exampleVi": "Tôi có thể đồng cảm với sự bực bội của bạn.",
         "ipa": "/rɪˈleɪt/"
       }
+    ],
+    "forms": [
+      {
+        "word": "relates",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/rɪˈleɪts/"
+      },
+      {
+        "word": "relating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/rɪˈleɪtɪŋ/"
+      },
+      {
+        "word": "related",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/rɪˈleɪtɪd/"
+      }
     ]
   },
   {
@@ -4642,6 +6486,31 @@
         "example": "Please furnish us with the requested documents.",
         "exampleVi": "Vui lòng cung cấp tài liệu đã yêu cầu cho chúng tôi.",
         "ipa": "/ˈfɜː.nɪʃ/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "furnishes",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈfɜː.nɪʃɪz/"
+      },
+      {
+        "word": "furnishing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈfɜː.nɪʃɪŋ/"
+      },
+      {
+        "word": "furnished",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈfɜː.nɪʃt/"
       }
     ]
   },
@@ -4682,6 +6551,31 @@
         "exampleVi": "Chúng tôi cần liên hệ trực tiếp với nhà cung cấp.",
         "ipa": "/daɪˈrekt/"
       }
+    ],
+    "forms": [
+      {
+        "word": "directs",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/daɪˈrekts/"
+      },
+      {
+        "word": "directing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/daɪˈrektɪŋ/"
+      },
+      {
+        "word": "directed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/daɪˈrektɪd/"
+      }
     ]
   },
   {
@@ -4698,6 +6592,31 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "appoints",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/əˈpɔɪnts/"
+      },
+      {
+        "word": "appointing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/əˈpɔɪntɪŋ/"
+      },
+      {
+        "word": "appointed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/əˈpɔɪntɪd/"
+      }
     ]
   },
   {
@@ -4714,6 +6633,31 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "authorizes",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈɔː.θər.aɪzɪz/"
+      },
+      {
+        "word": "authorizing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈɔː.θər.aɪzɪŋ/"
+      },
+      {
+        "word": "authorized",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈɔː.θər.aɪzd/"
+      }
     ]
   },
   {
@@ -4745,6 +6689,32 @@
         "example": "Please report for duty at eight.",
         "exampleVi": "Vui lòng đến trình diện làm việc lúc tám giờ.",
         "ipa": "/rɪˈpɔːt/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "reports",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/rɪˈpɔːts/"
+      },
+      {
+        "word": "reporting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/rɪˈpɔːtɪŋ/"
+      },
+      {
+        "word": "reported",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/rɪˈpɔːtɪd/"
       }
     ]
   },
@@ -4792,6 +6762,32 @@
         "exampleVi": "Cô ấy phụ trách nhóm lễ tân.",
         "ipa": "/tʃɑːdʒ/"
       }
+    ],
+    "forms": [
+      {
+        "word": "charges",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/tʃɑːdʒɪz/"
+      },
+      {
+        "word": "charging",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/tʃɑːdʒɪŋ/"
+      },
+      {
+        "word": "charged",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/tʃɑːdʒd/"
+      }
     ]
   },
   {
@@ -4816,6 +6812,31 @@
         "example": "I should qualify my earlier statement.",
         "exampleVi": "Tôi nên bổ sung giới hạn cho phát biểu trước đó.",
         "ipa": "/ˈkwɒl.ɪ.faɪ/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "qualifies",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈkwɒl.ɪ.faɪz/"
+      },
+      {
+        "word": "qualifying",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈkwɒl.ɪ.faɪɪŋ/"
+      },
+      {
+        "word": "qualified",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈkwɒl.ɪ.faɪd/"
       }
     ]
   },
@@ -4842,6 +6863,32 @@
         "exampleVi": "Người chọn nhạc phát bài chúng tôi yêu cầu.",
         "ipa": "/rɪˈkwest/"
       }
+    ],
+    "forms": [
+      {
+        "word": "requests",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/rɪˈkwests/"
+      },
+      {
+        "word": "requesting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/rɪˈkwestɪŋ/"
+      },
+      {
+        "word": "requested",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/rɪˈkwestɪd/"
+      }
     ]
   },
   {
@@ -4858,6 +6905,31 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "flows",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/fləʊz/"
+      },
+      {
+        "word": "flowing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/fləʊɪŋ/"
+      },
+      {
+        "word": "flowed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/fləʊd/"
+      }
     ]
   },
   {
@@ -4890,6 +6962,32 @@
         "exampleVi": "Mục đích bài tập là tạo niềm tin.",
         "ipa": "/ˈɒb.dʒekt/"
       }
+    ],
+    "forms": [
+      {
+        "word": "objects",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/əbˈdʒekts/, /ˈɒb.dʒekts/"
+      },
+      {
+        "word": "objecting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/əbˈdʒektɪŋ/"
+      },
+      {
+        "word": "objected",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/əbˈdʒektɪd/"
+      }
     ]
   },
   {
@@ -4906,6 +7004,31 @@
       "daily-work",
       "daily-work-498",
       "technology"
+    ],
+    "forms": [
+      {
+        "word": "searches",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/sɜːtʃɪz/"
+      },
+      {
+        "word": "searching",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/sɜːtʃɪŋ/"
+      },
+      {
+        "word": "searched",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/sɜːtʃt/"
+      }
     ]
   },
   {
@@ -4945,6 +7068,32 @@
         "exampleVi": "Khách hàng có thể thúc chúng tôi phản hồi nhanh hơn.",
         "ipa": "/pres/"
       }
+    ],
+    "forms": [
+      {
+        "word": "presses",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/presɪz/"
+      },
+      {
+        "word": "pressing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/presɪŋ/"
+      },
+      {
+        "word": "pressed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/prest/"
+      }
     ]
   },
   {
@@ -4970,6 +7119,31 @@
         "exampleVi": "Hội đồng sẽ điều hành tổ chức.",
         "ipa": "/ˈɡʌv.ən/"
       }
+    ],
+    "forms": [
+      {
+        "word": "governs",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈɡʌv.ənz/"
+      },
+      {
+        "word": "governing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈɡʌv.ənɪŋ/"
+      },
+      {
+        "word": "governed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈɡʌv.ənd/"
+      }
     ]
   },
   {
@@ -4994,6 +7168,31 @@
         "example": "We hang out at the café after work.",
         "exampleVi": "Chúng tôi tụ tập ở quán cà phê sau giờ làm.",
         "ipa": "/hæŋ/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "hangs",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/hæŋz/"
+      },
+      {
+        "word": "hanging",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/hæŋɪŋ/"
+      },
+      {
+        "word": "hung",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈhəŋ/"
       }
     ]
   },
@@ -5034,6 +7233,32 @@
         "exampleVi": "Bạn có thể cho tôi đi nhờ đến nhà ga không?",
         "ipa": "/lɪft/"
       }
+    ],
+    "forms": [
+      {
+        "word": "lifts",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/lɪfts/"
+      },
+      {
+        "word": "lifting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/lɪftɪŋ/"
+      },
+      {
+        "word": "lifted",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/lɪftɪd/"
+      }
     ]
   },
   {
@@ -5066,6 +7291,32 @@
         "exampleVi": "Thông báo gây xôn xao.",
         "ipa": "/stɜː/"
       }
+    ],
+    "forms": [
+      {
+        "word": "stirs",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/stɜːz/"
+      },
+      {
+        "word": "stirring",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/stɜːɪŋ/"
+      },
+      {
+        "word": "stirred",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/stɜːd/"
+      }
     ]
   },
   {
@@ -5091,6 +7342,31 @@
         "exampleVi": "Chúng tôi có thể thuê xe tải nhỏ để chuyển đồ.",
         "ipa": "/haɪə/"
       }
+    ],
+    "forms": [
+      {
+        "word": "hires",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/haɪəz/"
+      },
+      {
+        "word": "hiring",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/haɪəɪŋ/"
+      },
+      {
+        "word": "hired",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/haɪəd/"
+      }
     ]
   },
   {
@@ -5107,6 +7383,31 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "discloses",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/dɪsˈkləʊzɪz/"
+      },
+      {
+        "word": "disclosing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/dɪsˈkləʊzɪŋ/"
+      },
+      {
+        "word": "disclosed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/dɪsˈkləʊzd/"
+      }
     ]
   },
   {
@@ -5131,6 +7432,31 @@
         "example": "A nurse will administer the medicine.",
         "exampleVi": "Y tá sẽ cho dùng thuốc.",
         "ipa": "/ədˈmɪn.ɪ.stə/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "administers",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ədˈmɪn.ɪ.stəz/"
+      },
+      {
+        "word": "administering",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ədˈmɪn.ɪ.stəɪŋ/"
+      },
+      {
+        "word": "administered",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ədˈmɪn.ɪ.stəd/"
       }
     ]
   },
@@ -5171,6 +7497,32 @@
         "exampleVi": "Chúng ta nên tuân thủ lịch đã thống nhất.",
         "ipa": "/stɪk/"
       }
+    ],
+    "forms": [
+      {
+        "word": "sticks",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/stɪks/"
+      },
+      {
+        "word": "sticking",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/stɪkɪŋ/"
+      },
+      {
+        "word": "stuck",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈstək/"
+      }
     ]
   },
   {
@@ -5203,6 +7555,32 @@
         "exampleVi": "Cô ấy bật cười vì câu đùa.",
         "ipa": "/bɜːst/"
       }
+    ],
+    "forms": [
+      {
+        "word": "bursts",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/bɜːsts/"
+      },
+      {
+        "word": "bursting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/bɜːstɪŋ/"
+      },
+      {
+        "word": "burst",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/bɜːst/"
+      }
     ]
   },
   {
@@ -5219,6 +7597,31 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "characterizes",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈkær.ək.tər.aɪzɪz/"
+      },
+      {
+        "word": "characterizing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈkær.ək.tər.aɪzɪŋ/"
+      },
+      {
+        "word": "characterized",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈkær.ək.tər.aɪzd/"
+      }
     ]
   },
   {
@@ -5244,6 +7647,31 @@
         "exampleVi": "Họ quyết định chấm dứt quan hệ hợp danh.",
         "ipa": "/dɪˈzɒlv/"
       }
+    ],
+    "forms": [
+      {
+        "word": "dissolves",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/dɪˈzɒlvz/"
+      },
+      {
+        "word": "dissolving",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/dɪˈzɒlvɪŋ/"
+      },
+      {
+        "word": "dissolved",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/dɪˈzɒlvd/"
+      }
     ]
   },
   {
@@ -5268,6 +7696,31 @@
         "example": "The committee will inquire into the complaint.",
         "exampleVi": "Ủy ban sẽ điều tra khiếu nại.",
         "ipa": "/ɪnˈkwaɪə/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "inquires",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ɪnˈkwaɪəz/"
+      },
+      {
+        "word": "inquiring",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɪnˈkwaɪəɪŋ/"
+      },
+      {
+        "word": "inquired",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɪnˈkwaɪəd/"
       }
     ]
   },
@@ -5301,6 +7754,31 @@
         "exampleVi": "Anh ấy cố chộp lấy sợi dây đang rơi.",
         "ipa": "/siːz/"
       }
+    ],
+    "forms": [
+      {
+        "word": "seizes",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/siːzɪz/"
+      },
+      {
+        "word": "seizing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/siːzɪŋ/"
+      },
+      {
+        "word": "seized",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/siːzd/"
+      }
     ]
   },
   {
@@ -5317,6 +7795,31 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "warns",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/wɔːnz/"
+      },
+      {
+        "word": "warning",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/wɔːnɪŋ/"
+      },
+      {
+        "word": "warned",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/wɔːnd/"
+      }
     ]
   },
   {
@@ -5333,6 +7836,31 @@
       "daily-work",
       "daily-work-498",
       "technology"
+    ],
+    "forms": [
+      {
+        "word": "educates",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈed.jʊ.keɪts/"
+      },
+      {
+        "word": "educating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈed.jʊ.keɪtɪŋ/"
+      },
+      {
+        "word": "educated",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈed.jʊ.keɪtɪd/"
+      }
     ]
   },
   {
@@ -5365,6 +7893,32 @@
         "exampleVi": "Tắt máy in trước khi vệ sinh.",
         "ipa": "/swɪtʃ/"
       }
+    ],
+    "forms": [
+      {
+        "word": "switches",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/swɪtʃɪz/"
+      },
+      {
+        "word": "switching",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/swɪtʃɪŋ/"
+      },
+      {
+        "word": "switched",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/swɪtʃt/"
+      }
     ]
   },
   {
@@ -5390,6 +7944,31 @@
         "exampleVi": "Chúng tôi hy vọng nối lại tình bạn.",
         "ipa": "/rɪˈnjuː/"
       }
+    ],
+    "forms": [
+      {
+        "word": "renews",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/rɪˈnjuːz/"
+      },
+      {
+        "word": "renewing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/rɪˈnjuːɪŋ/"
+      },
+      {
+        "word": "renewed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/rɪˈnjuːd/"
+      }
     ]
   },
   {
@@ -5406,6 +7985,31 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "surrenders",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/səˈren.dəz/"
+      },
+      {
+        "word": "surrendering",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/səˈren.dəɪŋ/"
+      },
+      {
+        "word": "surrendered",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/səˈren.dəd/"
+      }
     ]
   },
   {
@@ -5438,6 +8042,31 @@
         "exampleVi": "Thỉnh thoảng chúng tôi tiếp khách hàng tại văn phòng.",
         "ipa": "/ˌen.təˈteɪn/"
       }
+    ],
+    "forms": [
+      {
+        "word": "entertains",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˌen.təˈteɪnz/"
+      },
+      {
+        "word": "entertaining",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˌen.təˈteɪnɪŋ/"
+      },
+      {
+        "word": "entertained",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˌen.təˈteɪnd/"
+      }
     ]
   },
   {
@@ -5454,6 +8083,31 @@
       "daily-work",
       "daily-work-498",
       "daily"
+    ],
+    "forms": [
+      {
+        "word": "deprives",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/dɪˈpraɪvz/"
+      },
+      {
+        "word": "depriving",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/dɪˈpraɪvɪŋ/"
+      },
+      {
+        "word": "deprived",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/dɪˈpraɪvd/"
+      }
     ]
   },
   {
@@ -5493,6 +8147,32 @@
         "exampleVi": "Hãy tránh xa đường ray.",
         "ipa": "/træk/"
       }
+    ],
+    "forms": [
+      {
+        "word": "tracks",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/træks/"
+      },
+      {
+        "word": "tracking",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/trækɪŋ/"
+      },
+      {
+        "word": "tracked",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/trækt/"
+      }
     ]
   },
   {
@@ -5509,6 +8189,31 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "simplifies",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈsɪm.plɪ.faɪz/"
+      },
+      {
+        "word": "simplifying",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈsɪm.plɪ.faɪɪŋ/"
+      },
+      {
+        "word": "simplified",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈsɪm.plɪ.faɪd/"
+      }
     ]
   },
   {
@@ -5525,6 +8230,31 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "certifies",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈsɜː.tɪ.faɪz/"
+      },
+      {
+        "word": "certifying",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈsɜː.tɪ.faɪɪŋ/"
+      },
+      {
+        "word": "certified",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈsɜː.tɪ.faɪd/"
+      }
     ]
   },
   {
@@ -5541,6 +8271,31 @@
       "daily-work",
       "daily-work-498",
       "communication"
+    ],
+    "forms": [
+      {
+        "word": "replies",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/rɪˈplaɪz/"
+      },
+      {
+        "word": "replying",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/rɪˈplaɪɪŋ/"
+      },
+      {
+        "word": "replied",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/rɪˈplaɪd/"
+      }
     ]
   },
   {
@@ -5566,6 +8321,31 @@
         "exampleVi": "Tôi có thể đền đáp sự tử tế của bạn thế nào?",
         "ipa": "/rɪˈpeɪ/"
       }
+    ],
+    "forms": [
+      {
+        "word": "repays",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/rɪˈpeɪz/"
+      },
+      {
+        "word": "repaying",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/rɪˈpeɪɪŋ/"
+      },
+      {
+        "word": "repaid",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɹiˈpeɪd/"
+      }
     ]
   },
   {
@@ -5590,6 +8370,33 @@
         "example": "Our team originated the idea.",
         "exampleVi": "Nhóm chúng tôi khởi xướng ý tưởng.",
         "ipa": "/əˈrɪdʒ.ɪ.neɪt/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "originates",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/əˈrɪdʒ.ɪ.neɪts/"
+      },
+      {
+        "word": "originating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/əˈrɪdʒ.ɪ.neɪtɪŋ/"
+      },
+      {
+        "word": "originated",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/əˈrɪdʒ.ɪ.neɪtɪd/",
+        "example": "Our team originated the idea.",
+        "exampleVi": "Nhóm chúng tôi khởi xướng ý tưởng."
       }
     ]
   },
@@ -5623,6 +8430,31 @@
         "exampleVi": "Đừng chê kế hoạch trước khi thử.",
         "ipa": "/nɒk/"
       }
+    ],
+    "forms": [
+      {
+        "word": "knocks",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/nɒks/"
+      },
+      {
+        "word": "knocking",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/nɒkɪŋ/"
+      },
+      {
+        "word": "knocked",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/nɒkt/"
+      }
     ]
   },
   {
@@ -5648,6 +8480,31 @@
         "exampleVi": "Hãy tách rác thực phẩm khỏi giấy.",
         "ipa": "/weɪst/"
       }
+    ],
+    "forms": [
+      {
+        "word": "wastes",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/weɪsts/"
+      },
+      {
+        "word": "wasting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/weɪstɪŋ/"
+      },
+      {
+        "word": "wasted",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/weɪstɪd/"
+      }
     ]
   },
   {
@@ -5664,6 +8521,37 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "strives",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/straɪvz/"
+      },
+      {
+        "word": "striving",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/straɪvɪŋ/"
+      },
+      {
+        "word": "strove",
+        "types": [
+          "past_simple"
+        ],
+        "ipa": "/ˈstɹoʊv/"
+      },
+      {
+        "word": "striven",
+        "types": [
+          "past_participle"
+        ],
+        "ipa": "/ˈstɹɪvən/"
+      }
     ]
   },
   {
@@ -5680,6 +8568,31 @@
       "daily-work",
       "daily-work-498",
       "money"
+    ],
+    "forms": [
+      {
+        "word": "incurs",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ɪnˈkɜːz/"
+      },
+      {
+        "word": "incurring",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɪnˈkɜːɪŋ/"
+      },
+      {
+        "word": "incurred",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɪnˈkɜːd/"
+      }
     ]
   },
   {
@@ -5696,6 +8609,31 @@
       "daily-work",
       "daily-work-498",
       "communication"
+    ],
+    "forms": [
+      {
+        "word": "signifies",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈsɪɡ.nɪ.faɪz/"
+      },
+      {
+        "word": "signifying",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈsɪɡ.nɪ.faɪɪŋ/"
+      },
+      {
+        "word": "signified",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈsɪɡ.nɪ.faɪd/"
+      }
     ]
   },
   {
@@ -5720,6 +8658,31 @@
         "example": "He tried to redeem himself with a prompt apology.",
         "exampleVi": "Anh ấy cố lấy lại uy tín bằng lời xin lỗi kịp thời.",
         "ipa": "/rɪˈdiːm/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "redeems",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/rɪˈdiːmz/"
+      },
+      {
+        "word": "redeeming",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/rɪˈdiːmɪŋ/"
+      },
+      {
+        "word": "redeemed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/rɪˈdiːmd/"
       }
     ]
   },
@@ -5746,6 +8709,31 @@
         "exampleVi": "Chuông báo không đánh thức được anh ấy.",
         "ipa": "/əˈraʊz/"
       }
+    ],
+    "forms": [
+      {
+        "word": "arouses",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/əˈraʊzɪz/"
+      },
+      {
+        "word": "arousing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/əˈraʊzɪŋ/"
+      },
+      {
+        "word": "aroused",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/əˈraʊzd/"
+      }
     ]
   },
   {
@@ -5771,6 +8759,31 @@
         "exampleVi": "Công ty từ chối nhượng quyền kiểm soát.",
         "ipa": "/kənˈsiːd/"
       }
+    ],
+    "forms": [
+      {
+        "word": "concedes",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/kənˈsiːdz/"
+      },
+      {
+        "word": "conceding",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/kənˈsiːdɪŋ/"
+      },
+      {
+        "word": "conceded",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/kənˈsiːdɪd/"
+      }
     ]
   },
   {
@@ -5795,6 +8808,33 @@
         "example": "The ball glanced off the wall.",
         "exampleVi": "Quả bóng va sượt tường rồi bật sang hướng khác.",
         "ipa": "/ɡlɑːns/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "glances",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ɡlɑːnsɪz/"
+      },
+      {
+        "word": "glancing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɡlɑːnsɪŋ/"
+      },
+      {
+        "word": "glanced",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɡlɑːnst/",
+        "example": "The ball glanced off the wall.",
+        "exampleVi": "Quả bóng va sượt tường rồi bật sang hướng khác."
       }
     ]
   },
@@ -5828,6 +8868,32 @@
         "exampleVi": "Tôi có thể tình cờ gặp cô ấy ở hội nghị.",
         "ipa": "/bʌmp/"
       }
+    ],
+    "forms": [
+      {
+        "word": "bumps",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/bʌmps/"
+      },
+      {
+        "word": "bumping",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/bʌmpɪŋ/"
+      },
+      {
+        "word": "bumped",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/bʌmpt/"
+      }
     ]
   },
   {
@@ -5859,6 +8925,31 @@
         "example": "We can toss a coin to decide who starts.",
         "exampleVi": "Chúng ta có thể tung đồng xu để chọn người bắt đầu.",
         "ipa": "/tɒs/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "tosses",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/tɒsɪz/"
+      },
+      {
+        "word": "tossing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/tɒsɪŋ/"
+      },
+      {
+        "word": "tossed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/tɒst/"
       }
     ]
   },
@@ -5892,6 +8983,32 @@
         "exampleVi": "Doanh nghiệp có thể đóng cửa nếu không có vốn.",
         "ipa": "/fəʊld/"
       }
+    ],
+    "forms": [
+      {
+        "word": "folds",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/fəʊldz/"
+      },
+      {
+        "word": "folding",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/fəʊldɪŋ/"
+      },
+      {
+        "word": "folded",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/fəʊldɪd/"
+      }
     ]
   },
   {
@@ -5916,6 +9033,31 @@
         "example": "Aim the camera at the entrance.",
         "exampleVi": "Hãy hướng máy ảnh về phía lối vào.",
         "ipa": "/eɪm/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "aims",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/eɪmz/"
+      },
+      {
+        "word": "aiming",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/eɪmɪŋ/"
+      },
+      {
+        "word": "aimed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/eɪmd/"
       }
     ]
   },
@@ -5949,6 +9091,32 @@
         "exampleVi": "Sự từ chối có thể làm anh ấy mất hẳn tự tin.",
         "ipa": "/krʌʃ/"
       }
+    ],
+    "forms": [
+      {
+        "word": "crushes",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/krʌʃɪz/"
+      },
+      {
+        "word": "crushing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/krʌʃɪŋ/"
+      },
+      {
+        "word": "crushed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/krʌʃt/"
+      }
     ]
   },
   {
@@ -5981,6 +9149,48 @@
         "exampleVi": "Xoay núm để giảm âm lượng.",
         "ipa": "/daɪəl/"
       }
+    ],
+    "forms": [
+      {
+        "word": "dials",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/daɪəlz/"
+      },
+      {
+        "word": "dialing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/daɪəlɪŋ/"
+      },
+      {
+        "word": "dialling",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/daɪəlɪŋ/"
+      },
+      {
+        "word": "dialed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/daɪəld/"
+      },
+      {
+        "word": "dialled",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/daɪəld/"
+      }
     ]
   },
   {
@@ -6006,6 +9216,32 @@
         "exampleVi": "Hai đề xuất khác nhau ở phương diện này.",
         "ipa": "/rɪˈspekt/"
       }
+    ],
+    "forms": [
+      {
+        "word": "respects",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/rɪˈspekts/"
+      },
+      {
+        "word": "respecting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/rɪˈspektɪŋ/"
+      },
+      {
+        "word": "respected",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/rɪˈspektɪd/"
+      }
     ]
   },
   {
@@ -6030,6 +9266,32 @@
         "example": "The pump stopped working overnight.",
         "exampleVi": "Máy bơm ngừng hoạt động trong đêm.",
         "ipa": "/pʌmp/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "pumps",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/pʌmps/"
+      },
+      {
+        "word": "pumping",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/pʌmpɪŋ/"
+      },
+      {
+        "word": "pumped",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/pʌmpt/"
       }
     ]
   },
@@ -6063,6 +9325,32 @@
         "exampleVi": "Câu chuyện có diễn biến bất ngờ.",
         "ipa": "/twɪst/"
       }
+    ],
+    "forms": [
+      {
+        "word": "twists",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/twɪsts/"
+      },
+      {
+        "word": "twisting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/twɪstɪŋ/"
+      },
+      {
+        "word": "twisted",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/twɪstɪd/"
+      }
     ]
   },
   {
@@ -6095,6 +9383,32 @@
         "exampleVi": "Nhạc trưởng nghiên cứu bản tổng phổ.",
         "ipa": "/skɔː/"
       }
+    ],
+    "forms": [
+      {
+        "word": "scores",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/skɔːz/"
+      },
+      {
+        "word": "scoring",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/skɔːɪŋ/"
+      },
+      {
+        "word": "scored",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/skɔːd/"
+      }
     ]
   },
   {
@@ -6126,6 +9440,34 @@
         "example": "She sailed through the interview.",
         "exampleVi": "Cô ấy vượt qua cuộc phỏng vấn dễ dàng.",
         "ipa": "/seɪl/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "sails",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/seɪlz/"
+      },
+      {
+        "word": "sailing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/seɪlɪŋ/"
+      },
+      {
+        "word": "sailed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/seɪld/",
+        "example": "She sailed through the interview.",
+        "exampleVi": "Cô ấy vượt qua cuộc phỏng vấn dễ dàng."
       }
     ]
   },
@@ -6166,6 +9508,32 @@
         "exampleVi": "Hãy tránh mũi tàu khi thời tiết xấu.",
         "ipa": "/baʊ/"
       }
+    ],
+    "forms": [
+      {
+        "word": "bows",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/baʊz/, /bəʊz/"
+      },
+      {
+        "word": "bowing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/baʊɪŋ/"
+      },
+      {
+        "word": "bowed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/baʊd/"
+      }
     ]
   },
   {
@@ -6190,6 +9558,31 @@
         "example": "They will decorate the firefighter for bravery.",
         "exampleVi": "Họ sẽ trao huy chương cho lính cứu hỏa vì sự dũng cảm.",
         "ipa": "/ˈdek.ər.eɪt/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "decorates",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈdek.ər.eɪts/"
+      },
+      {
+        "word": "decorating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈdek.ər.eɪtɪŋ/"
+      },
+      {
+        "word": "decorated",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈdek.ər.eɪtɪd/"
       }
     ]
   },
@@ -6231,6 +9624,15 @@
         "example": "This product meets our quality standard.",
         "exampleVi": "Sản phẩm này đáp ứng tiêu chuẩn chất lượng của chúng tôi.",
         "ipa": "/ˈstæn.dəd/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "standards",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈstæn.dədz/"
       }
     ]
   },
@@ -6579,6 +9981,15 @@
         "exampleVi": "Họ thuê ô tô mui trần cho chuyến đi.",
         "ipa": "/kənˈvɜː.tə.bəl/"
       }
+    ],
+    "forms": [
+      {
+        "word": "convertibles",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kənˈvɜː.tə.bəlz/"
+      }
     ]
   },
   {
@@ -6806,6 +10217,15 @@
         "example": "The book's binding needs repair.",
         "exampleVi": "Phần đóng sách cần được sửa.",
         "ipa": "/ˈbaɪn.dɪŋ/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "bindings",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈbaɪn.dɪŋz/"
       }
     ]
   },
@@ -7067,6 +10487,15 @@
         "exampleVi": "Quảng cáo giới thiệu dịch vụ mới.",
         "ipa": "/kəˈmɜː.ʃəl/"
       }
+    ],
+    "forms": [
+      {
+        "word": "commercials",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kəˈmɜː.ʃəlz/"
+      }
     ]
   },
   {
@@ -7172,6 +10601,15 @@
         "exampleVi": "Thiết bị dùng dòng điện nhỏ.",
         "ipa": "/ˈkʌr.ənt/"
       }
+    ],
+    "forms": [
+      {
+        "word": "currents",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkʌr.ənts/"
+      }
     ]
   },
   {
@@ -7237,6 +10675,15 @@
         "example": "A relative will meet me at the station.",
         "exampleVi": "Một người thân sẽ đón tôi ở nhà ga.",
         "ipa": "/ˈrel.ə.tɪv/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "relatives",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈrel.ə.tɪvz/"
       }
     ]
   },
@@ -7334,6 +10781,15 @@
         "exampleVi": "Băng là chất rắn ở nhiệt độ thấp.",
         "ipa": "/ˈsɒl.ɪd/"
       }
+    ],
+    "forms": [
+      {
+        "word": "solids",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsɒl.ɪdz/"
+      }
     ]
   },
   {
@@ -7422,6 +10878,15 @@
         "example": "The newspaper published an exclusive about the company.",
         "exampleVi": "Tờ báo đăng bài độc quyền về công ty.",
         "ipa": "/ɪkˈskluː.sɪv/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "exclusives",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɪkˈskluː.sɪvz/"
       }
     ]
   },
@@ -7681,6 +11146,15 @@
         "exampleVi": "Các vũ công luyện tiết mục của mình.",
         "ipa": "/ruːˈtiːn/"
       }
+    ],
+    "forms": [
+      {
+        "word": "routines",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ruːˈtiːnz/"
+      }
     ]
   },
   {
@@ -7779,6 +11253,15 @@
         "exampleVi": "Trong thời gian chuyển tiếp, hãy dùng hệ thống cũ.",
         "ipa": "/ˈɪn.tər.ɪm/"
       }
+    ],
+    "forms": [
+      {
+        "word": "interims",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɪn.tər.ɪmz/"
+      }
     ]
   },
   {
@@ -7850,6 +11333,32 @@
         "exampleVi": "Máy sẽ nén rác lại.",
         "ipa": "/kəmˈpækt/"
       }
+    ],
+    "forms": [
+      {
+        "word": "compacts",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/kəmˈpækts/, /ˈkɒm.pækts/"
+      },
+      {
+        "word": "compacting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/kəmˈpæktɪŋ/"
+      },
+      {
+        "word": "compacted",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/kəmˈpæktɪd/"
+      }
     ]
   },
   {
@@ -7899,6 +11408,15 @@
         "example": "We practiced the conditional in class.",
         "exampleVi": "Chúng tôi luyện cấu trúc điều kiện trong lớp.",
         "ipa": "/kənˈdɪʃ.ən.əl/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "conditionals",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kənˈdɪʃ.ən.əlz/"
       }
     ]
   },
@@ -8150,6 +11668,15 @@
         "example": "The artists formed a collective.",
         "exampleVi": "Các nghệ sĩ lập một tập thể cùng làm việc.",
         "ipa": "/kəˈlek.tɪv/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "collectives",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kəˈlek.tɪvz/"
       }
     ]
   },
@@ -10009,6 +13536,15 @@
       "daily-work",
       "daily-work-498",
       "daily"
+    ],
+    "forms": [
+      {
+        "word": "booklets",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈbʊk.ləts/"
+      }
     ]
   },
   {
@@ -10033,6 +13569,15 @@
         "example": "The dispute became a footnote to the project.",
         "exampleVi": "Tranh chấp trở thành chi tiết ít quan trọng trong dự án.",
         "ipa": "/ˈfʊt.nəʊt/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "footnotes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈfʊt.nəʊts/"
       }
     ]
   },
@@ -10059,6 +13604,32 @@
         "exampleVi": "Chúng tôi lưu trữ dự án đã hoàn thành mỗi tháng.",
         "ipa": "/ˈɑː.kaɪv/"
       }
+    ],
+    "forms": [
+      {
+        "word": "archives",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈɑː.kaɪvz/"
+      },
+      {
+        "word": "archiving",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈɑː.kaɪvɪŋ/"
+      },
+      {
+        "word": "archived",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈɑː.kaɪvd/"
+      }
     ]
   },
   {
@@ -10075,6 +13646,15 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "competitors",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kəmˈpet.ɪ.təz/"
+      }
     ]
   },
   {
@@ -10100,6 +13680,32 @@
         "exampleVi": "Ban nhạc sẽ là nghệ sĩ chính của lễ hội.",
         "ipa": "/ˈhed.laɪn/"
       }
+    ],
+    "forms": [
+      {
+        "word": "headlines",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈhed.laɪnz/"
+      },
+      {
+        "word": "headlining",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈhed.laɪnɪŋ/"
+      },
+      {
+        "word": "headlined",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈhed.laɪnd/"
+      }
     ]
   },
   {
@@ -10124,6 +13730,15 @@
         "example": "The jacket needs a small alteration.",
         "exampleVi": "Áo khoác cần được chỉnh sửa một chút cho vừa.",
         "ipa": "/ˌɔːl.tərˈeɪ.ʃən/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "alterations",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌɔːl.tərˈeɪ.ʃənz/"
       }
     ]
   },
@@ -10166,6 +13781,15 @@
         "exampleVi": "Cô ấy chấp nhận quyết định mà không phản bác.",
         "ipa": "/ˌkɒn.trəˈdɪk.ʃən/"
       }
+    ],
+    "forms": [
+      {
+        "word": "contradictions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌkɒn.trəˈdɪk.ʃənz/"
+      }
     ]
   },
   {
@@ -10182,6 +13806,15 @@
       "daily-work",
       "daily-work-498",
       "daily"
+    ],
+    "forms": [
+      {
+        "word": "detectors",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/dɪˈtek.təz/"
+      }
     ]
   },
   {
@@ -10206,6 +13839,32 @@
         "example": "She will powder her face before the show.",
         "exampleVi": "Cô ấy sẽ phủ phấn lên mặt trước buổi diễn.",
         "ipa": "/ˈpaʊ.də/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "powders",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈpaʊ.dəz/"
+      },
+      {
+        "word": "powdering",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈpaʊ.dəɪŋ/"
+      },
+      {
+        "word": "powdered",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈpaʊ.dəd/"
       }
     ]
   },
@@ -10246,6 +13905,32 @@
         "exampleVi": "Đừng trêu anh ấy về lỗi đó.",
         "ipa": "/ˈniː.dəl/"
       }
+    ],
+    "forms": [
+      {
+        "word": "needles",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈniː.dəlz/"
+      },
+      {
+        "word": "needling",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈniː.dəlɪŋ/"
+      },
+      {
+        "word": "needled",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈniː.dəld/"
+      }
     ]
   },
   {
@@ -10277,6 +13962,32 @@
         "example": "She might collar me after the meeting.",
         "exampleVi": "Cô ấy có thể giữ tôi lại nói chuyện sau cuộc họp.",
         "ipa": "/ˈkɒl.ə/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "collars",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈkɒl.əz/"
+      },
+      {
+        "word": "collaring",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈkɒl.əɪŋ/"
+      },
+      {
+        "word": "collared",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈkɒl.əd/"
       }
     ]
   },
@@ -10310,6 +14021,47 @@
         "exampleVi": "Tin đồn có thể làm tăng thêm lo ngại.",
         "ipa": "/ˈfjuː.əl/"
       }
+    ],
+    "forms": [
+      {
+        "word": "fuels",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈfjuː.əlz/"
+      },
+      {
+        "word": "fueling",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈfjuː.əlɪŋ/"
+      },
+      {
+        "word": "fuelling",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈfjuː.əlɪŋ/"
+      },
+      {
+        "word": "fueled",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈfjuː.əld/"
+      },
+      {
+        "word": "fuelled",
+        "types": [
+          "past_simple"
+        ],
+        "ipa": "/ˈfjuː.əld/"
+      }
     ]
   },
   {
@@ -10341,6 +14093,32 @@
         "example": "The repair fixed only surface damage.",
         "exampleVi": "Việc sửa chỉ xử lý hư hại bề ngoài.",
         "ipa": "/ˈsɜː.fɪs/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "surfaces",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈsɜː.fɪsɪz/"
+      },
+      {
+        "word": "surfacing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈsɜː.fɪsɪŋ/"
+      },
+      {
+        "word": "surfaced",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈsɜː.fɪst/"
       }
     ]
   },
@@ -10374,6 +14152,15 @@
         "exampleVi": "Một lớp băng phủ lối đi.",
         "ipa": "/ʃiːt/"
       }
+    ],
+    "forms": [
+      {
+        "word": "sheets",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ʃiːts/"
+      }
     ]
   },
   {
@@ -10406,6 +14193,15 @@
         "exampleVi": "Có khoảng gián đoạn ngắn giữa các lịch hẹn.",
         "ipa": "/ɡæp/"
       }
+    ],
+    "forms": [
+      {
+        "word": "gaps",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɡæps/"
+      }
     ]
   },
   {
@@ -10430,6 +14226,15 @@
         "example": "This variety of rice grows quickly.",
         "exampleVi": "Giống lúa này phát triển nhanh.",
         "ipa": "/vəˈraɪ.ə.ti/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "varieties",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/vəˈraɪ.ə.tiz/"
       }
     ]
   },
@@ -10456,6 +14261,15 @@
         "exampleVi": "Cô ấy thuê căn hộ một phòng chính gần văn phòng.",
         "ipa": "/ˈstjuː.di.əʊ/"
       }
+    ],
+    "forms": [
+      {
+        "word": "studios",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈstjuː.di.əʊz/"
+      }
     ]
   },
   {
@@ -10481,6 +14295,15 @@
         "exampleVi": "Hãy hoàn thành tờ khai hải quan trước khi đến.",
         "ipa": "/ˌdek.ləˈreɪ.ʃən/"
       }
+    ],
+    "forms": [
+      {
+        "word": "declarations",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌdek.ləˈreɪ.ʃənz/"
+      }
     ]
   },
   {
@@ -10497,6 +14320,15 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "refusals",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/rɪˈfjuː.zəlz/"
+      }
     ]
   },
   {
@@ -10521,6 +14353,15 @@
         "example": "The long drive caused travel sickness.",
         "exampleVi": "Chuyến xe dài gây cảm giác say xe buồn nôn.",
         "ipa": "/ˈsɪk.nəs/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "sicknesses",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsɪk.nəsɪz/"
       }
     ]
   },
@@ -10553,6 +14394,32 @@
         "example": "We caution customers against sharing passwords.",
         "exampleVi": "Chúng tôi cảnh báo khách không chia sẻ mật khẩu.",
         "ipa": "/ˈkɔː.ʃən/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "cautions",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈkɔː.ʃənz/"
+      },
+      {
+        "word": "cautioning",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈkɔː.ʃənɪŋ/"
+      },
+      {
+        "word": "cautioned",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈkɔː.ʃənd/"
       }
     ]
   },
@@ -10611,6 +14478,15 @@
         "exampleVi": "Đài phát thanh tường thuật trực tiếp trận đấu.",
         "ipa": "/ˈkɒm.ən.tər.i/"
       }
+    ],
+    "forms": [
+      {
+        "word": "commentaries",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkɒm.ən.tər.iz/"
+      }
     ]
   },
   {
@@ -10627,6 +14503,15 @@
       "daily-work",
       "daily-work-498",
       "communication"
+    ],
+    "forms": [
+      {
+        "word": "spellings",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈspel.ɪŋz/"
+      }
     ]
   },
   {
@@ -10643,6 +14528,15 @@
       "daily-work",
       "daily-work-498",
       "daily"
+    ],
+    "forms": [
+      {
+        "word": "consciences",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkɒn.ʃənsɪz/"
+      }
     ]
   },
   {
@@ -10659,6 +14553,15 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "forms": [
+      {
+        "word": "attainments",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/əˈteɪn.mənts/"
+      }
     ]
   }
 ]

@@ -15,6 +15,15 @@
         "example": "The small theater became a laboratory for experimental performances.",
         "exampleVi": "Nhà hát nhỏ trở thành một nơi thử nghiệm các ý tưởng biểu diễn mới."
       }
+    ],
+    "forms": [
+      {
+        "word": "laboratories",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ləˈbɒr.ə.triz/"
+      }
     ]
   },
   {
@@ -32,6 +41,15 @@
         "meaningVi": "việc chọc thủng một rào cản vật lý",
         "example": "The troops achieved a breakthrough in the enemy's defensive line.",
         "exampleVi": "Quân đội chọc thủng được tuyến phòng thủ của đối phương."
+      }
+    ],
+    "forms": [
+      {
+        "word": "breakthroughs",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈbreɪk.θruːz/"
       }
     ]
   },
@@ -61,6 +79,31 @@
         "example": "The museum used a scanner to replicate the damaged sculpture.",
         "exampleVi": "Bảo tàng dùng máy quét để tạo bản sao của bức tượng bị hư hại."
       }
+    ],
+    "forms": [
+      {
+        "word": "replicates",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈrep.lɪ.keɪts/"
+      },
+      {
+        "word": "replicating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈrep.lɪ.keɪtɪŋ/"
+      },
+      {
+        "word": "replicated",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈrep.lɪ.keɪtɪd/"
+      }
     ]
   },
   {
@@ -79,6 +122,15 @@
         "example": "The route takes us through an area with highly variable weather.",
         "exampleVi": "Tuyến đường đưa chúng tôi qua một vùng có thời tiết thay đổi rất nhiều."
       }
+    ],
+    "forms": [
+      {
+        "word": "variables",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈveə.ri.ə.bəlz/"
+      }
     ]
   },
   {
@@ -96,6 +148,15 @@
         "meaningVi": "ví dụ tiêu biểu của một loại người hoặc vật",
         "example": "The restored car is a fine specimen of early automotive design.",
         "exampleVi": "Chiếc xe được phục hồi là một mẫu tiêu biểu đẹp của thiết kế ô tô thời kỳ đầu."
+      }
+    ],
+    "forms": [
+      {
+        "word": "specimens",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈspes.ɪ.mənz/"
       }
     ]
   },
@@ -120,6 +181,15 @@
     "level": "C1",
     "tags": [
       "collocation"
+    ],
+    "forms": [
+      {
+        "word": "clinical trials",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌklɪn.ɪ.kəl ˈtraɪ.əlz/"
+      }
     ]
   },
   {
@@ -141,6 +211,15 @@
         "example": "The employee's peer review included suggestions from colleagues who had worked with her.",
         "exampleVi": "Đánh giá đồng nghiệp dành cho nhân viên này bao gồm các góp ý từ những người từng làm việc cùng cô."
       }
+    ],
+    "forms": [
+      {
+        "word": "peer reviews",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌpɪə rɪˈvjuːz/"
+      }
     ]
   },
   {
@@ -154,6 +233,15 @@
     "level": "B2",
     "tags": [
       "collocation"
+    ],
+    "forms": [
+      {
+        "word": "scientific methods",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌsaɪ.ənˌtɪf.ɪk ˈmeθ.ədz/"
+      }
     ]
   },
   {
@@ -206,6 +294,17 @@
     "level": "C1",
     "tags": [
       "collocation"
+    ],
+    "forms": [
+      {
+        "word": "ethical concerns",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈeθ.ɪ.kəl kənˌsɜːnz/",
+        "example": "Ethical concerns are raised after the technology ships, not before.",
+        "exampleVi": "Quan ngại về đạo đức được nêu sau khi công nghệ ra mắt, không phải trước."
+      }
     ]
   }
 ]

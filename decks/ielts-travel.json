@@ -7,7 +7,16 @@
     "example": "The itinerary packed six cities into ten days.",
     "exampleVi": "Lịch trình chuyến đi nhồi sáu thành phố vào mười ngày.",
     "topic": "travel",
-    "level": "C1"
+    "level": "C1",
+    "forms": [
+      {
+        "word": "itineraries",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/aɪˈtɪn.ə.rə.riz/"
+      }
+    ]
   },
   {
     "word": "excursion",
@@ -24,6 +33,15 @@
         "meaningVi": "sự đi chệch khỏi chủ đề hoặc lộ trình thông thường",
         "example": "The lecture included a brief excursion into the history of the idea.",
         "exampleVi": "Bài giảng có một đoạn chuyển ngắn sang lịch sử của ý tưởng này."
+      }
+    ],
+    "forms": [
+      {
+        "word": "excursions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ekˈskɜː.ʃənz/"
       }
     ]
   },
@@ -62,6 +80,15 @@
         "meaningVi": "bước ngoặt quan trọng trong một quá trình",
         "example": "The discovery was a landmark in the development of modern medicine.",
         "exampleVi": "Khám phá này là một bước ngoặt trong sự phát triển của y học hiện đại."
+      }
+    ],
+    "forms": [
+      {
+        "word": "landmarks",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈlænd.mɑːks/"
       }
     ]
   },
@@ -117,6 +144,15 @@
         "example": "The charity opened a hostel for people who had lost their homes.",
         "exampleVi": "Tổ chức từ thiện mở một nơi ở tạm cho những người đã mất nhà."
       }
+    ],
+    "forms": [
+      {
+        "word": "hostels",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈhɒs.təlz/"
+      }
     ]
   },
   {
@@ -134,6 +170,32 @@
         "meaningVi": "buộc phải dùng đến một biện pháp",
         "example": "We may have to resort to a paper map if the phone battery dies.",
         "exampleVi": "Chúng tôi có thể phải dùng đến bản đồ giấy nếu điện thoại hết pin."
+      }
+    ],
+    "forms": [
+      {
+        "word": "resorts",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/riˈsɔːts/"
+      },
+      {
+        "word": "resorting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/riˈsɔːtɪŋ/"
+      },
+      {
+        "word": "resorted",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/riˈsɔːtɪd/"
       }
     ]
   },
@@ -153,6 +215,15 @@
         "example": "For this project, our final destination is a fully accessible library.",
         "exampleVi": "Đối với dự án này, mục tiêu cuối cùng của chúng tôi là một thư viện mà mọi người đều có thể tiếp cận."
       }
+    ],
+    "forms": [
+      {
+        "word": "destinations",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌdes.tɪˈneɪ.ʃənz/"
+      }
     ]
   },
   {
@@ -163,7 +234,18 @@
     "example": "Most souvenirs sold here are made abroad.",
     "exampleVi": "Phần lớn đồ lưu niệm bán ở đây lại được làm ở nước ngoài.",
     "topic": "travel",
-    "level": "B1"
+    "level": "B1",
+    "forms": [
+      {
+        "word": "souvenirs",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌsuː.vəˈni.ərz/",
+        "example": "Most souvenirs sold here are made abroad.",
+        "exampleVi": "Phần lớn đồ lưu niệm bán ở đây lại được làm ở nước ngoài."
+      }
+    ]
   },
   {
     "word": "visa",
@@ -180,6 +262,32 @@
         "meaningVi": "cấp thị thực vào hộ chiếu",
         "example": "The consulate will visa the passport once the application has been approved.",
         "exampleVi": "Lãnh sự quán sẽ cấp thị thực vào hộ chiếu khi hồ sơ đã được chấp thuận."
+      }
+    ],
+    "forms": [
+      {
+        "word": "visas",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ˈviː.zəz/"
+      },
+      {
+        "word": "visaing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈviː.zəɪŋ/"
+      },
+      {
+        "word": "visaed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈviː.zəd/"
       }
     ]
   },
@@ -217,6 +325,15 @@
         "example": "The new design is a bold departure from the company's usual style.",
         "exampleVi": "Thiết kế mới là một bước chuyển táo bạo khỏi phong cách thường lệ của công ty."
       }
+    ],
+    "forms": [
+      {
+        "word": "departures",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/dɪˈpɑː.tʃərz/"
+      }
     ]
   },
   {
@@ -227,7 +344,16 @@
     "example": "A nine-hour layover ruins any cheap ticket.",
     "exampleVi": "Chặng dừng nối chuyến chín tiếng phá hỏng mọi tấm vé rẻ.",
     "topic": "travel",
-    "level": "C1"
+    "level": "C1",
+    "forms": [
+      {
+        "word": "layovers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈleɪ.əʊ.vərz/"
+      }
+    ]
   },
   {
     "word": "jet lag",
@@ -267,7 +393,16 @@
     "example": "A homestay puts money straight into local hands.",
     "exampleVi": "Hình thức ở nhà dân đưa tiền thẳng vào tay người địa phương.",
     "topic": "travel",
-    "level": "B2"
+    "level": "B2",
+    "forms": [
+      {
+        "word": "homestays",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈhəʊm.steɪz/"
+      }
+    ]
   },
   {
     "word": "off the beaten track",
@@ -301,6 +436,15 @@
     "level": "B1",
     "tags": [
       "collocation"
+    ],
+    "forms": [
+      {
+        "word": "tourist attractions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtʊə.rɪst əˌtræk.ʃənz/"
+      }
     ]
   },
   {
@@ -314,6 +458,15 @@
     "level": "B2",
     "tags": [
       "collocation"
+    ],
+    "forms": [
+      {
+        "word": "package tours",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpæk.ɪdʒ tʊərz/"
+      }
     ]
   },
   {
@@ -366,6 +519,17 @@
     "level": "B2",
     "tags": [
       "collocation"
+    ],
+    "forms": [
+      {
+        "word": "budget airlines",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈbʌdʒ.ɪt ˈeə.laɪnz/",
+        "example": "Budget airlines charge separately for everything but the seat.",
+        "exampleVi": "Hãng bay giá rẻ tính tiền riêng cho mọi thứ trừ chỗ ngồi."
+      }
     ]
   },
   {
@@ -379,6 +543,15 @@
     "level": "B1",
     "tags": [
       "collocation"
+    ],
+    "forms": [
+      {
+        "word": "guided tours",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌɡaɪ.dɪd ˈtʊərz/"
+      }
     ]
   }
 ]

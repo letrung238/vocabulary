@@ -7,7 +7,16 @@
     "example": "His upbringing explains more than his schooling.",
     "exampleVi": "Cách nuôi dạy thời thơ ấu của anh giải thích nhiều hơn cả việc học hành.",
     "topic": "family",
-    "level": "C1"
+    "level": "C1",
+    "forms": [
+      {
+        "word": "upbringings",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ʌpˈbrɪŋ.ɪŋz/"
+      }
+    ]
   },
   {
     "word": "sibling",
@@ -24,6 +33,17 @@
         "meaningVi": "một nút có cùng nút cha trong cấu trúc cây",
         "example": "In this tree, each node has a sibling that shares the same parent.",
         "exampleVi": "Trong cây này, mỗi nút có một nút anh em cùng nút cha."
+      }
+    ],
+    "forms": [
+      {
+        "word": "siblings",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsɪb.lɪŋz/",
+        "example": "Siblings raised apart still share striking habits.",
+        "exampleVi": "Anh chị em ruột lớn lên xa nhau vẫn có những thói quen giống nhau đến lạ."
       }
     ]
   },
@@ -43,6 +63,15 @@
         "example": "The new journal was the offspring of several years of discussion among researchers.",
         "exampleVi": "Tạp chí mới là sản phẩm của nhiều năm trao đổi giữa các nhà nghiên cứu."
       }
+    ],
+    "forms": [
+      {
+        "word": "offspring",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɒf.sprɪŋ/"
+      }
     ]
   },
   {
@@ -61,6 +90,31 @@
         "example": "The researchers studied how nature and nurture shape a child's development.",
         "exampleVi": "Các nhà nghiên cứu tìm hiểu cách yếu tố bẩm sinh và môi trường nuôi dưỡng định hình sự phát triển của trẻ."
       }
+    ],
+    "forms": [
+      {
+        "word": "nurtures",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈnɜː.tʃərz/"
+      },
+      {
+        "word": "nurturing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈnɜː.tʃərɪŋ/"
+      },
+      {
+        "word": "nurtured",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈnɜː.tʃərd/"
+      }
     ]
   },
   {
@@ -71,7 +125,16 @@
     "example": "In a third of households the breadwinner is now a woman.",
     "exampleVi": "Ở một phần ba số hộ, người trụ cột kinh tế nay là phụ nữ.",
     "topic": "family",
-    "level": "C1"
+    "level": "C1",
+    "forms": [
+      {
+        "word": "breadwinners",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈbred.wɪn.ərz/"
+      }
+    ]
   },
   {
     "word": "caregiver",
@@ -81,7 +144,18 @@
     "example": "Unpaid caregivers save the state billions each year.",
     "exampleVi": "Người chăm sóc không lương tiết kiệm cho nhà nước hàng tỷ mỗi năm.",
     "topic": "family",
-    "level": "C1"
+    "level": "C1",
+    "forms": [
+      {
+        "word": "caregivers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkeə.ɡɪv.ərz/",
+        "example": "Unpaid caregivers save the state billions each year.",
+        "exampleVi": "Người chăm sóc không lương tiết kiệm cho nhà nước hàng tỷ mỗi năm."
+      }
+    ]
   },
   {
     "word": "parenting",
@@ -109,6 +183,17 @@
         "example": "The fossil may represent an ancestor of several living species.",
         "exampleVi": "Hóa thạch này có thể đại diện cho một loài tổ tiên của một số loài đang sống."
       }
+    ],
+    "forms": [
+      {
+        "word": "ancestors",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈæn.se.stərz/",
+        "example": "Their ancestors farmed the same valley for centuries.",
+        "exampleVi": "Tổ tiên họ canh tác cùng một thung lũng suốt nhiều thế kỷ."
+      }
     ]
   },
   {
@@ -127,6 +212,15 @@
         "example": "A descendant node lies below its ancestor in the tree structure.",
         "exampleVi": "Một nút hậu duệ nằm bên dưới nút tổ tiên của nó trong cấu trúc cây."
       }
+    ],
+    "forms": [
+      {
+        "word": "descendants",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/dɪˈsen.dənts/"
+      }
     ]
   },
   {
@@ -144,6 +238,33 @@
         "meaningVi": "thừa hưởng một đặc điểm từ cha mẹ qua di truyền",
         "example": "Children may inherit certain physical traits from their parents.",
         "exampleVi": "Trẻ có thể thừa hưởng một số đặc điểm thể chất từ cha mẹ qua di truyền."
+      }
+    ],
+    "forms": [
+      {
+        "word": "inherits",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ɪnˈher.ɪts/"
+      },
+      {
+        "word": "inheriting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɪnˈher.ɪtɪŋ/"
+      },
+      {
+        "word": "inherited",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɪnˈher.ɪtɪd/",
+        "example": "She inherited the house from her aunt.",
+        "exampleVi": "Cô ấy thừa kế ngôi nhà từ người dì."
       }
     ]
   },
@@ -181,6 +302,32 @@
         "example": "He decided to divorce his wife after years of separation.",
         "exampleVi": "Anh quyết định ly hôn với vợ sau nhiều năm ly thân."
       }
+    ],
+    "forms": [
+      {
+        "word": "divorces",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/dɪˈvɔːsɪz/"
+      },
+      {
+        "word": "divorcing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/dɪˈvɔːsɪŋ/"
+      },
+      {
+        "word": "divorced",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/dɪˈvɔːst/"
+      }
     ]
   },
   {
@@ -199,6 +346,15 @@
         "example": "The adoption of the new policy changed how applications were handled.",
         "exampleVi": "Việc áp dụng chính sách mới đã thay đổi cách xử lý hồ sơ."
       }
+    ],
+    "forms": [
+      {
+        "word": "adoptions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/əˈdɒp.ʃənz/"
+      }
     ]
   },
   {
@@ -216,6 +372,35 @@
         "meaningVi": "khuyến khích một ý tưởng hoặc mối quan hệ phát triển",
         "example": "The workshops aim to foster cooperation between local businesses.",
         "exampleVi": "Các buổi hội thảo nhằm khuyến khích sự hợp tác giữa các doanh nghiệp địa phương."
+      }
+    ],
+    "forms": [
+      {
+        "word": "fosters",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈfɒs.tərz/",
+        "example": "The programme fosters creativity.",
+        "exampleVi": "Chương trình nuôi dưỡng sự sáng tạo."
+      },
+      {
+        "word": "fostering",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈfɒs.tərɪŋ/"
+      },
+      {
+        "word": "fostered",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈfɒs.tərd/",
+        "example": "They fostered two children.",
+        "exampleVi": "Họ nhận nuôi hai đứa trẻ."
       }
     ]
   },
@@ -271,6 +456,39 @@
         "example": "Warm temperatures can spoil milk if it is left outside the refrigerator.",
         "exampleVi": "Nhiệt độ ấm có thể làm hỏng sữa nếu để bên ngoài tủ lạnh."
       }
+    ],
+    "forms": [
+      {
+        "word": "spoils",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/spɔɪlz/"
+      },
+      {
+        "word": "spoiling",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/spɔɪlɪŋ/"
+      },
+      {
+        "word": "spoiled",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/spɔɪld/"
+      },
+      {
+        "word": "spoilt",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/spɔɪlt/"
+      }
     ]
   },
   {
@@ -284,6 +502,15 @@
     "level": "B2",
     "tags": [
       "collocation"
+    ],
+    "forms": [
+      {
+        "word": "generation gaps",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌdʒen.əˈreɪ.ʃən ɡæps/"
+      }
     ]
   },
   {
@@ -297,6 +524,15 @@
     "level": "B2",
     "tags": [
       "collocation"
+    ],
+    "forms": [
+      {
+        "word": "extended families",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɪkˌsten.dɪd ˈfæm.əl.iz/"
+      }
     ]
   },
   {
@@ -310,6 +546,15 @@
     "level": "C1",
     "tags": [
       "collocation"
+    ],
+    "forms": [
+      {
+        "word": "nuclear families",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌnjuː.kli.ə ˈfæm.əl.iz/"
+      }
     ]
   },
   {
@@ -323,6 +568,17 @@
     "level": "B1",
     "tags": [
       "collocation"
+    ],
+    "forms": [
+      {
+        "word": "household chores",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈhaʊs.həʊld tʃɔːrz/",
+        "example": "Household chores are still divided unevenly by gender.",
+        "exampleVi": "Việc nhà vẫn được chia không đều theo giới."
+      }
     ]
   },
   {
@@ -336,6 +592,15 @@
     "level": "B2",
     "tags": [
       "collocation"
+    ],
+    "forms": [
+      {
+        "word": "role models",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈrəʊl ˌmɒd.əlz/"
+      }
     ]
   },
   {
@@ -349,6 +614,17 @@
     "level": "B2",
     "tags": [
       "collocation"
+    ],
+    "forms": [
+      {
+        "word": "nursing homes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈnɜː.sɪŋ həʊmz/",
+        "example": "Nursing homes fill up faster than they are built.",
+        "exampleVi": "Viện dưỡng lão đầy nhanh hơn tốc độ xây mới."
+      }
     ]
   }
 ]

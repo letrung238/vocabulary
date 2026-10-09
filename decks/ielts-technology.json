@@ -119,6 +119,15 @@
         "example": "The examiner considered whether the reported weakness was a simulation of a symptom.",
         "exampleVi": "Người kiểm tra xem xét liệu sự yếu cơ được báo cáo có phải là việc giả vờ một triệu chứng hay không."
       }
+    ],
+    "forms": [
+      {
+        "word": "simulations",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌsɪm.jʊˈleɪ.ʃənz/"
+      }
     ]
   },
   {
@@ -136,6 +145,15 @@
         "meaningVi": "máy thu thanh vô tuyến (cách gọi cũ)",
         "example": "My grandfather listened to the news on an old wireless.",
         "exampleVi": "Ông tôi nghe tin tức bằng một chiếc máy thu thanh vô tuyến cũ."
+      }
+    ],
+    "forms": [
+      {
+        "word": "wirelesses",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈwaɪ.ə.ləsɪz/"
       }
     ]
   },
@@ -155,6 +173,15 @@
         "example": "A fingerprint is a biometric that can be used to verify identity.",
         "exampleVi": "Dấu vân tay là một dữ liệu sinh trắc học có thể dùng để xác minh danh tính."
       }
+    ],
+    "forms": [
+      {
+        "word": "biometrics",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌbaɪ.əʊˈmet.rɪks/"
+      }
     ]
   },
   {
@@ -165,7 +192,34 @@
     "example": "The library digitised four centuries of manuscripts.",
     "exampleVi": "Thư viện số hoá tài liệu là các bản thảo suốt bốn thế kỷ.",
     "level": "C1",
-    "topic": "technology"
+    "topic": "technology",
+    "forms": [
+      {
+        "word": "digitises",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈdɪdʒ.ɪ.taɪzɪz/"
+      },
+      {
+        "word": "digitising",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈdɪdʒ.ɪ.taɪzɪŋ/"
+      },
+      {
+        "word": "digitised",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈdɪdʒ.ɪ.taɪzd/",
+        "example": "The library digitised four centuries of manuscripts.",
+        "exampleVi": "Thư viện số hoá tài liệu là các bản thảo suốt bốn thế kỷ."
+      }
+    ]
   },
   {
     "word": "gadget",
@@ -182,6 +236,15 @@
         "meaningVi": "chương trình nhỏ thực hiện một chức năng trên màn hình",
         "example": "The desktop gadget displays the current weather in a small panel.",
         "exampleVi": "Tiện ích nhỏ trên màn hình máy tính hiển thị thời tiết hiện tại trong một ô nhỏ."
+      }
+    ],
+    "forms": [
+      {
+        "word": "gadgets",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɡædʒ.ɪts/"
       }
     ]
   },
@@ -201,6 +264,15 @@
         "example": "The young hacker enjoyed exploring old computers and improving their software.",
         "exampleVi": "Người trẻ đam mê khám phá máy tính thích tìm hiểu những máy cũ và cải tiến phần mềm của chúng."
       }
+    ],
+    "forms": [
+      {
+        "word": "hackers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈhæk.ərz/"
+      }
     ]
   },
   {
@@ -211,7 +283,16 @@
     "example": "Innovation clusters where universities and firms sit close together.",
     "exampleVi": "Sự đổi mới sáng tạo tụ lại ở nơi trường đại học và doanh nghiệp ở gần nhau.",
     "level": "B2",
-    "topic": "technology"
+    "topic": "technology",
+    "forms": [
+      {
+        "word": "innovations",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌɪn.əˈveɪ.ʃənz/"
+      }
+    ]
   },
   {
     "word": "screen",
@@ -232,6 +313,32 @@
         "example": "The clinic will screen volunteers for signs of the disease.",
         "exampleVi": "Phòng khám sẽ sàng lọc tình nguyện viên để tìm dấu hiệu của căn bệnh."
       }
+    ],
+    "forms": [
+      {
+        "word": "screens",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/skriːnz/"
+      },
+      {
+        "word": "screening",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/skriːnɪŋ/"
+      },
+      {
+        "word": "screened",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/skriːnd/"
+      }
     ]
   },
   {
@@ -242,7 +349,16 @@
     "example": "A smartphone is the only computer many households own.",
     "exampleVi": "Điện thoại thông minh là máy tính duy nhất mà nhiều hộ gia đình có.",
     "level": "A2",
-    "topic": "technology"
+    "topic": "technology",
+    "forms": [
+      {
+        "word": "smartphones",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsmɑːt.fəʊnz/"
+      }
+    ]
   },
   {
     "word": "startup",
@@ -263,6 +379,17 @@
         "example": "The computer checks its memory during startup.",
         "exampleVi": "Máy tính kiểm tra bộ nhớ trong quá trình khởi động."
       }
+    ],
+    "forms": [
+      {
+        "word": "startups",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈstɑːt.ʌps/",
+        "example": "Most startups fail before their third year.",
+        "exampleVi": "Phần lớn công ty khởi nghiệp thất bại trước năm thứ ba."
+      }
     ]
   },
   {
@@ -281,6 +408,32 @@
         "example": "The airline offered us an upgrade to business class.",
         "exampleVi": "Hãng hàng không đề nghị nâng hạng ghế của chúng tôi lên hạng thương gia.",
         "ipa": "/ˈʌp.ɡreɪd/"
+      }
+    ],
+    "forms": [
+      {
+        "word": "upgrades",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ʌpˈɡreɪdz/, /ˈʌp.ɡreɪdz/"
+      },
+      {
+        "word": "upgrading",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ʌpˈɡreɪdɪŋ/"
+      },
+      {
+        "word": "upgraded",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ʌpˈɡreɪdɪd/"
       }
     ]
   },
@@ -359,6 +512,15 @@
         "meaningVi": "bề mặt tiếp xúc hoặc ranh giới giữa hai vật",
         "example": "Tiny bubbles formed at the interface between the oil and water.",
         "exampleVi": "Những bọt nhỏ hình thành tại bề mặt tiếp xúc giữa dầu và nước."
+      }
+    ],
+    "forms": [
+      {
+        "word": "interfaces",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɪn.tə.feɪsɪz/"
       }
     ]
   }

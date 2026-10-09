@@ -38,7 +38,16 @@
       "vaccinate",
       "vaccination"
     ],
-    "topic": "health"
+    "topic": "health",
+    "forms": [
+      {
+        "word": "vaccines",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/vækˈsiːnz/"
+      }
+    ]
   },
   {
     "word": "epidemic",
@@ -55,6 +64,15 @@
         "meaningVi": "lan rộng như một dịch bệnh",
         "example": "The report described epidemic levels of absenteeism across the schools.",
         "exampleVi": "Báo cáo mô tả tình trạng nghỉ học lan rộng như dịch bệnh ở các trường."
+      }
+    ],
+    "forms": [
+      {
+        "word": "epidemics",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌep.ɪˈdem.ɪks/"
       }
     ]
   },
@@ -73,6 +91,15 @@
         "meaningVi": "lan rộng trên nhiều quốc gia như một đại dịch",
         "example": "The response to pandemic influenza requires cooperation across national borders.",
         "exampleVi": "Việc ứng phó với cúm lan thành đại dịch đòi hỏi sự hợp tác xuyên biên giới quốc gia."
+      }
+    ],
+    "forms": [
+      {
+        "word": "pandemics",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/pænˈdem.ɪks/"
       }
     ]
   },
@@ -95,6 +122,15 @@
         "meaningVi": "việc xác định nguyên nhân của một trục trặc",
         "example": "The mechanic's diagnosis of the engine fault saved us an unnecessary replacement.",
         "exampleVi": "Việc thợ máy xác định nguyên nhân lỗi động cơ giúp chúng tôi tránh phải thay một bộ phận không cần thiết."
+      }
+    ],
+    "forms": [
+      {
+        "word": "diagnoses",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌdaɪəɡˈnəʊsiːz/"
       }
     ]
   },
@@ -175,6 +211,15 @@
         "example": "The frequent delays are a symptom of deeper problems in the organization.",
         "exampleVi": "Những lần chậm trễ thường xuyên là dấu hiệu của các vấn đề sâu xa hơn trong tổ chức."
       }
+    ],
+    "forms": [
+      {
+        "word": "symptoms",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsɪmp.təmz/"
+      }
     ]
   },
   {
@@ -225,7 +270,16 @@
       "therapist",
       "therapeutic"
     ],
-    "topic": "health"
+    "topic": "health",
+    "forms": [
+      {
+        "word": "therapies",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈθer.ə.piz/"
+      }
+    ]
   },
   {
     "word": "prescription",
@@ -245,6 +299,15 @@
         "meaningVi": "quy định yêu cầu phải làm một việc",
         "example": "The rules include a strict prescription that every expense must have a receipt.",
         "exampleVi": "Các quy tắc có một yêu cầu nghiêm ngặt là mọi khoản chi đều phải có biên lai."
+      }
+    ],
+    "forms": [
+      {
+        "word": "prescriptions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/prɪˈskrɪp.ʃənz/"
       }
     ]
   },
@@ -267,6 +330,15 @@
         "meaningVi": "phòng khám của bác sĩ (cách dùng Anh-Anh)",
         "example": "In Britain, you can call the doctor's surgery to book an appointment.",
         "exampleVi": "Ở Anh, bạn có thể gọi phòng khám của bác sĩ để đặt lịch hẹn."
+      }
+    ],
+    "forms": [
+      {
+        "word": "surgeries",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsɜː.dʒə.riz/"
       }
     ]
   },
@@ -292,7 +364,16 @@
       "addict",
       "addictive"
     ],
-    "topic": "health"
+    "topic": "health",
+    "forms": [
+      {
+        "word": "addictions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/əˈdɪk.ʃənz/"
+      }
+    ]
   },
   {
     "word": "sedentary",
@@ -327,6 +408,15 @@
         "meaningVi": "thời gian hoạt động của một sản phẩm hoặc thiết bị",
         "example": "Regular maintenance can extend the lifespan of the printer.",
         "exampleVi": "Việc bảo dưỡng thường xuyên có thể kéo dài thời gian sử dụng của máy in."
+      }
+    ],
+    "forms": [
+      {
+        "word": "lifespans",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈlaɪf.spænz/"
       }
     ]
   },
@@ -364,6 +454,15 @@
         "example": "An outbreak of violence forced the market to close.",
         "exampleVi": "Một đợt bạo lực bùng phát khiến chợ phải đóng cửa."
       }
+    ],
+    "forms": [
+      {
+        "word": "outbreaks",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈaʊt.breɪks/"
+      }
     ]
   },
   {
@@ -391,6 +490,15 @@
         "meaningVi": "biện pháp khắc phục theo pháp luật",
         "example": "The court considered whether damages were an adequate legal remedy.",
         "exampleVi": "Tòa án xem xét liệu tiền bồi thường có phải là một biện pháp khắc phục pháp lý đầy đủ hay không."
+      }
+    ],
+    "forms": [
+      {
+        "word": "remedies",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈrem.ə.diz/"
       }
     ]
   },
@@ -461,6 +569,22 @@
         "meaningVi": "đầu nhụy của hoa",
         "example": "Pollen lands on the stigma at the top of the flower's pistil.",
         "exampleVi": "Phấn hoa rơi lên đầu nhụy ở phần trên cùng của nhụy hoa."
+      }
+    ],
+    "forms": [
+      {
+        "word": "stigmas",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈstɪɡ.məz/"
+      },
+      {
+        "word": "stigmata",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/stɪɡˈmɑtə/"
       }
     ]
   }

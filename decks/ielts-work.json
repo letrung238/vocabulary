@@ -39,6 +39,15 @@
         "example": "The magazine hired a freelance to photograph the event.",
         "exampleVi": "Tạp chí thuê một người làm việc tự do để chụp ảnh sự kiện."
       }
+    ],
+    "forms": [
+      {
+        "word": "freelances",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈfriː.lɑːnsɪz/"
+      }
     ]
   },
   {
@@ -86,7 +95,16 @@
     "family": [
       "entrepreneurial"
     ],
-    "topic": "work"
+    "topic": "work",
+    "forms": [
+      {
+        "word": "entrepreneurs",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌɒn.trə.prəˈnɜːrz/"
+      }
+    ]
   },
   {
     "word": "commute",
@@ -107,6 +125,31 @@
         "example": "The governor agreed to commute the prison sentence to a shorter term.",
         "exampleVi": "Thống đốc đồng ý giảm nhẹ bản án tù xuống một thời hạn ngắn hơn."
       }
+    ],
+    "forms": [
+      {
+        "word": "commutes",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/kəˈmjuːts/"
+      },
+      {
+        "word": "commuting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/kəˈmjuːtɪŋ/"
+      },
+      {
+        "word": "commuted",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/kəˈmjuːtɪd/"
+      }
     ]
   },
   {
@@ -124,6 +167,32 @@
         "meaningVi": "tiến hành một cuộc chiến hoặc chiến dịch",
         "example": "The organization will wage a campaign against illegal dumping.",
         "exampleVi": "Tổ chức sẽ tiến hành một chiến dịch chống đổ rác trái phép."
+      }
+    ],
+    "forms": [
+      {
+        "word": "wages",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/weɪdʒɪz/"
+      },
+      {
+        "word": "waging",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/weɪdʒɪŋ/"
+      },
+      {
+        "word": "waged",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/weɪdʒd/"
       }
     ]
   },
@@ -143,6 +212,15 @@
         "example": "During our trip through Europe, we stayed in a small pension that served breakfast and dinner.",
         "exampleVi": "Trong chuyến đi qua châu Âu, chúng tôi ở một nhà trọ nhỏ phục vụ cả bữa sáng lẫn bữa tối."
       }
+    ],
+    "forms": [
+      {
+        "word": "pensions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpen.ʃənz/"
+      }
     ]
   },
   {
@@ -161,6 +239,15 @@
         "example": "The children played Monopoly and bought properties with paper money.",
         "exampleVi": "Bọn trẻ chơi cờ tỷ phú Monopoly và mua bất động sản bằng tiền giấy."
       }
+    ],
+    "forms": [
+      {
+        "word": "monopolies",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/məˈnɒp.ə.liz/"
+      }
     ]
   },
   {
@@ -178,6 +265,15 @@
         "meaningVi": "sự lùi dần của đường chân tóc",
         "example": "He noticed a gradual recession of his hairline over several years.",
         "exampleVi": "Anh nhận thấy đường chân tóc của mình lùi dần trong nhiều năm."
+      }
+    ],
+    "forms": [
+      {
+        "word": "recessions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/rɪˈseʃ.ənz/"
       }
     ]
   },
@@ -236,6 +332,31 @@
         "example": "The lawsuit could bankrupt the small company.",
         "exampleVi": "Vụ kiện có thể khiến công ty nhỏ phá sản."
       }
+    ],
+    "forms": [
+      {
+        "word": "bankrupts",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈbæŋ.krʌpts/"
+      },
+      {
+        "word": "bankrupting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈbæŋ.krʌptɪŋ/"
+      },
+      {
+        "word": "bankrupted",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈbæŋ.krʌptɪd/"
+      }
     ]
   },
   {
@@ -254,6 +375,15 @@
         "example": "Learning a language requires an investment of time and effort.",
         "exampleVi": "Học một ngôn ngữ đòi hỏi phải đầu tư thời gian và công sức."
       }
+    ],
+    "forms": [
+      {
+        "word": "investments",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɪnˈvest.mənts/"
+      }
     ]
   },
   {
@@ -264,7 +394,16 @@
     "example": "A quarter of the workforce will retire within a decade.",
     "exampleVi": "Một phần tư lực lượng lao động sẽ nghỉ hưu trong vòng một thập kỷ.",
     "level": "B2",
-    "topic": "work"
+    "topic": "work",
+    "forms": [
+      {
+        "word": "workforces",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈwɜːk.fɔːsɪz/"
+      }
+    ]
   },
   {
     "word": "unemployment",
@@ -287,6 +426,15 @@
     "example": "The trade union negotiated a shorter working week.",
     "exampleVi": "Công đoàn đã thương lượng được tuần làm việc ngắn hơn.",
     "level": "B2",
-    "topic": "work"
+    "topic": "work",
+    "forms": [
+      {
+        "word": "trade unions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtreɪd ˌjuː.ni.ənz/"
+      }
+    ]
   }
 ]

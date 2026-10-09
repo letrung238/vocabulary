@@ -57,6 +57,17 @@
         "example": "The instrument detects the emission of light from excited atoms.",
         "exampleVi": "Thiết bị phát hiện sự phát sáng từ các nguyên tử ở trạng thái kích thích."
       }
+    ],
+    "forms": [
+      {
+        "word": "emissions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɪˈmɪʃ.ənz/",
+        "example": "Emissions from transport have barely fallen since 2000.",
+        "exampleVi": "Khí thải phát ra từ giao thông hầu như không giảm kể từ năm 2000."
+      }
     ]
   },
   {
@@ -74,6 +85,15 @@
         "meaningVi": "giấy than; tờ giấy dùng để sao chép khi viết hoặc đánh máy",
         "example": "Put a carbon between the two sheets before typing.",
         "exampleVi": "Đặt một tờ giấy than giữa hai tờ giấy trước khi đánh máy."
+      }
+    ],
+    "forms": [
+      {
+        "word": "carbons",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkɑː.bənz/"
       }
     ]
   },
@@ -108,7 +128,16 @@
     "example": "A single introduced species can wreck an ecosystem.",
     "exampleVi": "Chỉ một loài ngoại lai du nhập cũng có thể phá hỏng một hệ sinh thái.",
     "level": "B2",
-    "topic": "environment"
+    "topic": "environment",
+    "forms": [
+      {
+        "word": "ecosystems",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈiː.kəʊ.sɪ.stəmz/"
+      }
+    ]
   },
   {
     "word": "habitat",
@@ -132,7 +161,18 @@
       "pollute",
       "pollution"
     ],
-    "topic": "environment"
+    "topic": "environment",
+    "forms": [
+      {
+        "word": "pollutants",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/pəˈluː.tənts/",
+        "example": "The river carries pollutants from three provinces.",
+        "exampleVi": "Con sông mang theo chất gây ô nhiễm từ ba tỉnh."
+      }
+    ]
   },
   {
     "word": "landfill",
@@ -149,6 +189,15 @@
         "meaningVi": "vật liệu được dùng để san lấp đất",
         "example": "The builders used landfill to raise the level of the site.",
         "exampleVi": "Thợ xây dùng vật liệu san lấp để nâng cao mặt bằng khu đất."
+      }
+    ],
+    "forms": [
+      {
+        "word": "landfills",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈlænd.fɪlz/"
       }
     ]
   },
@@ -171,6 +220,33 @@
         "meaningVi": "lặp lại một ý tưởng hoặc câu chuyện cũ",
         "example": "The columnist tends to recycle the same joke in every article.",
         "exampleVi": "Người viết chuyên mục thường dùng lại cùng một câu chuyện đùa trong mọi bài viết."
+      }
+    ],
+    "forms": [
+      {
+        "word": "recycles",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/rɪˈsaɪ.kəlz/"
+      },
+      {
+        "word": "recycling",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/rɪˈsaɪ.kəlɪŋ/"
+      },
+      {
+        "word": "recycled",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/rɪˈsaɪ.kəld/",
+        "example": "Only a quarter of household waste is actually recycled.",
+        "exampleVi": "Chỉ một phần tư rác sinh hoạt thực sự được tái chế."
       }
     ]
   },
@@ -234,7 +310,16 @@
     "example": "Pesticide runoff has killed the fish downstream.",
     "exampleVi": "Nước chảy tràn mang thuốc trừ sâu đã giết cá ở hạ lưu.",
     "level": "B2",
-    "topic": "environment"
+    "topic": "environment",
+    "forms": [
+      {
+        "word": "pesticides",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpes.tɪ.saɪdz/"
+      }
+    ]
   },
   {
     "word": "drought",
@@ -251,6 +336,15 @@
         "meaningVi": "thời kỳ thiếu trầm trọng một nguồn lực",
         "example": "The small publisher faced a drought of new manuscripts.",
         "exampleVi": "Nhà xuất bản nhỏ đối mặt với tình trạng thiếu trầm trọng bản thảo mới."
+      }
+    ],
+    "forms": [
+      {
+        "word": "droughts",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/draʊts/"
       }
     ]
   },
@@ -269,6 +363,15 @@
         "meaningVi": "sự thiếu hụt nghiêm trọng của một thứ cần thiết",
         "example": "Critics described the shortage of original ideas as a creative famine.",
         "exampleVi": "Các nhà phê bình mô tả tình trạng thiếu ý tưởng độc đáo là một sự khan hiếm nghiêm trọng trong sáng tạo."
+      }
+    ],
+    "forms": [
+      {
+        "word": "famines",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈfæm.ɪnz/"
       }
     ]
   },
@@ -301,7 +404,16 @@
     "example": "The glacier has retreated two kilometres since 1980.",
     "exampleVi": "Sông băng đã lùi hai ki-lô-mét kể từ năm 1980.",
     "level": "B2",
-    "topic": "environment"
+    "topic": "environment",
+    "forms": [
+      {
+        "word": "glaciers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɡleɪ.ʃərz/"
+      }
+    ]
   },
   {
     "word": "greenhouse",
@@ -318,6 +430,15 @@
         "meaningVi": "thuộc hiện tượng giữ nhiệt trong khí quyển, như khí nhà kính",
         "example": "Greenhouse gases trap some of the heat that would otherwise escape into space.",
         "exampleVi": "Khí nhà kính giữ lại một phần nhiệt vốn sẽ thoát ra không gian."
+      }
+    ],
+    "forms": [
+      {
+        "word": "greenhouses",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɡriːn.haʊzɪz/"
       }
     ]
   },
@@ -387,6 +508,15 @@
         "meaningVi": "nguồn dự trữ của một thứ có thể dùng dần",
         "example": "The volunteers brought a reservoir of experience to the project.",
         "exampleVi": "Các tình nguyện viên mang đến cho dự án một nguồn kinh nghiệm dồi dào."
+      }
+    ],
+    "forms": [
+      {
+        "word": "reservoirs",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈrez.ə.vwɑːrz/"
       }
     ]
   },
@@ -480,6 +610,33 @@
         "example": "Leading questions can contaminate a witness's account of events.",
         "exampleVi": "Những câu hỏi dẫn dắt có thể làm sai lệch lời kể của nhân chứng về sự kiện."
       }
+    ],
+    "forms": [
+      {
+        "word": "contaminates",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/kənˈtæm.ɪ.neɪts/"
+      },
+      {
+        "word": "contaminating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/kənˈtæm.ɪ.neɪtɪŋ/"
+      },
+      {
+        "word": "contaminated",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/kənˈtæm.ɪ.neɪtɪd/",
+        "example": "Mining contaminated the groundwater for decades.",
+        "exampleVi": "Khai khoáng làm nhiễm bẩn nước ngầm suốt nhiều thập kỷ."
+      }
     ]
   },
   {
@@ -501,6 +658,33 @@
         "example": "Bacteria can degrade some organic compounds into simpler substances.",
         "exampleVi": "Vi khuẩn có thể phân hủy một số hợp chất hữu cơ thành những chất đơn giản hơn."
       }
+    ],
+    "forms": [
+      {
+        "word": "degrades",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/dɪˈɡreɪdz/",
+        "example": "Intensive farming degrades the topsoil within a decade.",
+        "exampleVi": "Canh tác thâm canh làm suy thoái lớp đất mặt chỉ trong một thập kỷ."
+      },
+      {
+        "word": "degrading",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/dɪˈɡreɪdɪŋ/"
+      },
+      {
+        "word": "degraded",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/dɪˈɡreɪdɪd/"
+      }
     ]
   },
   {
@@ -514,6 +698,31 @@
     "family": [
       "depletion"
     ],
-    "topic": "environment"
+    "topic": "environment",
+    "forms": [
+      {
+        "word": "depletes",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/dɪˈpliːts/"
+      },
+      {
+        "word": "depleting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/dɪˈpliːtɪŋ/"
+      },
+      {
+        "word": "depleted",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/dɪˈpliːtɪd/"
+      }
+    ]
   }
 ]
