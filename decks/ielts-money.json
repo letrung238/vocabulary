@@ -15,7 +15,8 @@
         "example": "Consumerism has encouraged clearer labels and stronger protections for buyers.",
         "exampleVi": "Phong trào bảo vệ người tiêu dùng đã thúc đẩy việc ghi nhãn rõ ràng hơn và tăng cường bảo vệ người mua."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "affordable",
@@ -25,7 +26,10 @@
     "example": "Affordable housing disappeared faster than wages rose.",
     "exampleVi": "Nhà ở vừa túi tiền biến mất nhanh hơn tốc độ tăng lương.",
     "topic": "money",
-    "level": "B1"
+    "level": "B1",
+    "synonyms": [
+      "reasonably priced"
+    ]
   },
   {
     "word": "bargain",
@@ -69,6 +73,9 @@
         ],
         "ipa": "/ˈbɑː.ɡɪnd/"
       }
+    ],
+    "synonyms": [
+      "good deal"
     ]
   },
   {
@@ -96,6 +103,9 @@
         ],
         "ipa": "/ɪnˈstɔːl.mənts/"
       }
+    ],
+    "synonyms": [
+      "installment"
     ]
   },
   {
@@ -140,6 +150,9 @@
         ],
         "ipa": "/ˈmɔː.ɡɪdʒd/"
       }
+    ],
+    "synonyms": [
+      "home loan"
     ]
   },
   {
@@ -167,7 +180,8 @@
         ],
         "ipa": "/dets/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "expenditure",
@@ -194,6 +208,9 @@
         ],
         "ipa": "/ekˈspen.dɪ.tʃərz/"
       }
+    ],
+    "synonyms": [
+      "spending"
     ]
   },
   {
@@ -212,7 +229,8 @@
         "example": "Philosophical materialism regards matter as fundamental to reality.",
         "exampleVi": "Chủ nghĩa duy vật trong triết học coi vật chất là nền tảng của thực tại."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "counterfeit",
@@ -255,6 +273,9 @@
         ],
         "ipa": "/ˈkaʊn.tə.fɪtɪd/"
       }
+    ],
+    "synonyms": [
+      "fake"
     ]
   },
   {
@@ -265,7 +286,10 @@
     "example": "Her thrifty habits outlasted the years of hardship.",
     "exampleVi": "Thói quen tằn tiện khéo chi tiêu của bà còn lại lâu hơn những năm khó khăn.",
     "topic": "money",
-    "level": "C1"
+    "level": "C1",
+    "synonyms": [
+      "frugal"
+    ]
   },
   {
     "word": "extravagant",
@@ -283,6 +307,9 @@
         "example": "His extravagant claims about the product were unsupported by evidence.",
         "exampleVi": "Những lời khẳng định quá mức của anh về sản phẩm không có bằng chứng hỗ trợ."
       }
+    ],
+    "synonyms": [
+      "wasteful"
     ]
   },
   {
@@ -296,7 +323,8 @@
     "level": "C1",
     "tags": [
       "collocation"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cost of living",
@@ -309,7 +337,8 @@
     "level": "B2",
     "tags": [
       "collocation"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "purchasing power",
@@ -322,7 +351,8 @@
     "level": "C1",
     "tags": [
       "collocation"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "impulse buying",
@@ -335,7 +365,8 @@
     "level": "C1",
     "tags": [
       "collocation"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "brand loyalty",
@@ -357,7 +388,8 @@
         ],
         "ipa": "/ˈbrænd ˌlɔɪ.əl.tiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "financial literacy",
@@ -370,7 +402,8 @@
     "level": "C1",
     "tags": [
       "collocation"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "income inequality",
@@ -392,6 +425,7 @@
         ],
         "ipa": "/ˈɪn.kʌm ˌɪn.ɪˈkwɒl.ə.tiz/"
       }
-    ]
+    ],
+    "synonyms": []
   }
 ]

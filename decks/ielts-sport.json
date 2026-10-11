@@ -16,6 +16,9 @@
         ],
         "ipa": "/ˈæθ.liːts/"
       }
+    ],
+    "synonyms": [
+      "sportsperson"
     ]
   },
   {
@@ -34,6 +37,9 @@
         "example": "The endurance of this tradition over centuries surprised the historians.",
         "exampleVi": "Việc truyền thống này tiếp tục tồn tại qua nhiều thế kỷ khiến các nhà sử học ngạc nhiên."
       }
+    ],
+    "synonyms": [
+      "stamina"
     ]
   },
   {
@@ -44,7 +50,10 @@
     "example": "Stamina fades first when training stops.",
     "exampleVi": "Sức dẻo dai mất đầu tiên khi ngừng tập.",
     "topic": "sport",
-    "level": "C1"
+    "level": "C1",
+    "synonyms": [
+      "endurance"
+    ]
   },
   {
     "word": "referee",
@@ -88,6 +97,9 @@
         ],
         "ipa": "/ˌref.əˈriːd/"
       }
+    ],
+    "synonyms": [
+      "umpire"
     ]
   },
   {
@@ -109,6 +121,9 @@
         "example": "Spectators now watch more matches at home than in stadiums.",
         "exampleVi": "Khán giả xem thi đấu nay theo dõi ở nhà nhiều hơn ở sân vận động."
       }
+    ],
+    "synonyms": [
+      "onlooker"
     ]
   },
   {
@@ -136,6 +151,9 @@
         ],
         "ipa": "/ˈtɔː.nə.mənts/"
       }
+    ],
+    "synonyms": [
+      "competition"
     ]
   },
   {
@@ -155,7 +173,8 @@
         ],
         "ipa": "/ˈtʃæm.pi.ən.ʃɪps/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "amateur",
@@ -182,6 +201,9 @@
         ],
         "ipa": "/ˈæm.ə.tərz/"
       }
+    ],
+    "synonyms": [
+      "nonprofessional"
     ]
   },
   {
@@ -200,7 +222,8 @@
         "example": "Doping silicon with a small amount of another element changes its electrical properties.",
         "exampleVi": "Việc pha một lượng nhỏ nguyên tố khác vào silic làm thay đổi tính chất điện của nó."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "sponsorship",
@@ -210,7 +233,10 @@
     "example": "Sponsorship pays for everything the ticket price cannot.",
     "exampleVi": "Tiền tài trợ trả cho mọi thứ mà giá vé không kham nổi.",
     "topic": "sport",
-    "level": "B2"
+    "level": "B2",
+    "synonyms": [
+      "funding"
+    ]
   },
   {
     "word": "recreation",
@@ -237,6 +263,9 @@
         ],
         "ipa": "/ˌrek.riˈeɪ.ʃənz/"
       }
+    ],
+    "synonyms": [
+      "leisure activity"
     ]
   },
   {
@@ -256,6 +285,9 @@
         ],
         "ipa": "/ˈhɒb.iz/"
       }
+    ],
+    "synonyms": [
+      "pastime"
     ]
   },
   {
@@ -274,7 +306,8 @@
         "example": "The shop offers competitive prices on office supplies.",
         "exampleVi": "Cửa hàng đưa ra mức giá đủ sức cạnh tranh cho đồ dùng văn phòng."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "rivalry",
@@ -293,6 +326,9 @@
         ],
         "ipa": "/ˈraɪ.vəl.riz/"
       }
+    ],
+    "synonyms": [
+      "competition"
     ]
   },
   {
@@ -303,7 +339,10 @@
     "example": "Sportsmanship is praised far more often than it is rewarded.",
     "exampleVi": "Tinh thần thượng võ được ca ngợi nhiều hơn hẳn số lần được tưởng thưởng.",
     "topic": "sport",
-    "level": "C1"
+    "level": "C1",
+    "synonyms": [
+      "fair play"
+    ]
   },
   {
     "word": "coaching",
@@ -313,7 +352,10 @@
     "example": "Good coaching matters more than good facilities.",
     "exampleVi": "Công tác huấn luyện tốt quan trọng hơn cơ sở vật chất tốt.",
     "topic": "sport",
-    "level": "B2"
+    "level": "B2",
+    "synonyms": [
+      "training"
+    ]
   },
   {
     "word": "venue",
@@ -340,6 +382,9 @@
         ],
         "ipa": "/ˈven.juːz/"
       }
+    ],
+    "synonyms": [
+      "location"
     ]
   },
   {
@@ -353,6 +398,9 @@
     "level": "B1",
     "tags": [
       "collocation"
+    ],
+    "synonyms": [
+      "esprit de corps"
     ]
   },
   {
@@ -374,7 +422,8 @@
         "example": "Fair play means giving every applicant the same opportunity to explain their experience.",
         "exampleVi": "Cư xử công bằng có nghĩa là cho mọi ứng viên cơ hội như nhau để trình bày kinh nghiệm."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "physical fitness",
@@ -387,6 +436,9 @@
     "level": "B2",
     "tags": [
       "collocation"
+    ],
+    "synonyms": [
+      "fitness"
     ]
   },
   {
@@ -400,6 +452,9 @@
     "level": "B1",
     "tags": [
       "collocation"
+    ],
+    "synonyms": [
+      "free time"
     ]
   }
 ]

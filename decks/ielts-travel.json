@@ -16,6 +16,9 @@
         ],
         "ipa": "/aɪˈtɪn.ə.rə.riz/"
       }
+    ],
+    "synonyms": [
+      "travel schedule"
     ]
   },
   {
@@ -43,6 +46,9 @@
         ],
         "ipa": "/ekˈskɜː.ʃənz/"
       }
+    ],
+    "synonyms": [
+      "outing"
     ]
   },
   {
@@ -53,7 +59,8 @@
     "example": "Backpacking taught her more than any classroom did.",
     "exampleVi": "Du lịch bụi dạy cô nhiều hơn mọi lớp học.",
     "topic": "travel",
-    "level": "B2"
+    "level": "B2",
+    "synonyms": []
   },
   {
     "word": "sightseeing",
@@ -63,7 +70,8 @@
     "example": "Two days of sightseeing left everyone exhausted.",
     "exampleVi": "Hai ngày đi ngắm cảnh khiến ai cũng kiệt sức.",
     "topic": "travel",
-    "level": "B1"
+    "level": "B1",
+    "synonyms": []
   },
   {
     "word": "landmark",
@@ -90,7 +98,8 @@
         ],
         "ipa": "/ˈlænd.mɑːks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "hospitality",
@@ -108,7 +117,8 @@
         "example": "She works in hospitality, managing a small hotel and its restaurant.",
         "exampleVi": "Cô làm trong ngành dịch vụ lưu trú và ăn uống, quản lý một khách sạn nhỏ cùng nhà hàng của nó."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "accommodation",
@@ -126,6 +136,9 @@
         "example": "Accommodation allows the eye to focus on objects at different distances.",
         "exampleVi": "Sự điều tiết giúp mắt tập trung vào những vật ở các khoảng cách khác nhau."
       }
+    ],
+    "synonyms": [
+      "lodging"
     ]
   },
   {
@@ -153,7 +166,8 @@
         ],
         "ipa": "/ˈhɒs.təlz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "resort",
@@ -197,7 +211,8 @@
         ],
         "ipa": "/riˈsɔːtɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "destination",
@@ -224,7 +239,8 @@
         ],
         "ipa": "/ˌdes.tɪˈneɪ.ʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "souvenir",
@@ -245,6 +261,9 @@
         "example": "Most souvenirs sold here are made abroad.",
         "exampleVi": "Phần lớn đồ lưu niệm bán ở đây lại được làm ở nước ngoài."
       }
+    ],
+    "synonyms": [
+      "memento"
     ]
   },
   {
@@ -289,7 +308,8 @@
         ],
         "ipa": "/ˈviː.zəd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "customs",
@@ -307,7 +327,8 @@
         "example": "Visitors should learn about local customs before attending the festival.",
         "exampleVi": "Khách đến thăm nên tìm hiểu các tập quán địa phương trước khi tham dự lễ hội."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "departure",
@@ -334,7 +355,8 @@
         ],
         "ipa": "/dɪˈpɑː.tʃərz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "layover",
@@ -353,6 +375,9 @@
         ],
         "ipa": "/ˈleɪ.əʊ.vərz/"
       }
+    ],
+    "synonyms": [
+      "stopover"
     ]
   },
   {
@@ -363,7 +388,8 @@
     "example": "Jet lag costs the first two days of any long trip.",
     "exampleVi": "Mệt mỏi do lệch múi giờ lấy mất hai ngày đầu của mọi chuyến đi xa.",
     "topic": "travel",
-    "level": "B2"
+    "level": "B2",
+    "synonyms": []
   },
   {
     "word": "ecotourism",
@@ -373,7 +399,8 @@
     "example": "Ecotourism funds the reserve without cutting a tree.",
     "exampleVi": "Du lịch sinh thái nuôi khu bảo tồn mà không phải chặt cây nào.",
     "topic": "travel",
-    "level": "C1"
+    "level": "C1",
+    "synonyms": []
   },
   {
     "word": "overtourism",
@@ -383,7 +410,8 @@
     "example": "Overtourism has driven residents out of the centre.",
     "exampleVi": "Tình trạng quá tải du khách đã đẩy cư dân ra khỏi trung tâm.",
     "topic": "travel",
-    "level": "C1"
+    "level": "C1",
+    "synonyms": []
   },
   {
     "word": "homestay",
@@ -402,7 +430,8 @@
         ],
         "ipa": "/ˈhəʊm.steɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "off the beaten track",
@@ -423,7 +452,8 @@
         "example": "Her approach to teaching is off the beaten track, using music to explain mathematics.",
         "exampleVi": "Cách dạy của cô khác với phương pháp thông thường, dùng âm nhạc để giải thích toán học."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "tourist attraction",
@@ -445,7 +475,8 @@
         ],
         "ipa": "/ˈtʊə.rɪst əˌtræk.ʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "package tour",
@@ -467,6 +498,9 @@
         ],
         "ipa": "/ˈpæk.ɪdʒ tʊərz/"
       }
+    ],
+    "synonyms": [
+      "package holiday"
     ]
   },
   {
@@ -480,6 +514,9 @@
     "level": "B2",
     "tags": [
       "collocation"
+    ],
+    "synonyms": [
+      "high season"
     ]
   },
   {
@@ -493,7 +530,8 @@
     "level": "B2",
     "tags": [
       "collocation"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "travel insurance",
@@ -506,7 +544,8 @@
     "level": "B2",
     "tags": [
       "collocation"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "budget airline",
@@ -530,6 +569,9 @@
         "example": "Budget airlines charge separately for everything but the seat.",
         "exampleVi": "Hãng bay giá rẻ tính tiền riêng cho mọi thứ trừ chỗ ngồi."
       }
+    ],
+    "synonyms": [
+      "low-cost carrier"
     ]
   },
   {
@@ -552,6 +594,7 @@
         ],
         "ipa": "/ˌɡaɪ.dɪd ˈtʊərz/"
       }
-    ]
+    ],
+    "synonyms": []
   }
 ]

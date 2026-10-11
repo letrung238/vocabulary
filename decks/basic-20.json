@@ -1,0 +1,886 @@
+[
+  {
+    "word": "book",
+    "pos": "noun",
+    "ipa": "/bʊk/",
+    "meaningVi": "sách",
+    "example": "I borrowed two books from the library.",
+    "exampleVi": "Tôi mượn hai cuốn sách từ thư viện.",
+    "topic": "education",
+    "tags": [
+      "basic-20",
+      "education"
+    ],
+    "synonyms": [],
+    "senses": [
+      {
+        "pos": "verb",
+        "ipa": "/bʊk/",
+        "meaningVi": "đặt trước; đặt chỗ",
+        "example": "We booked a room for two nights.",
+        "exampleVi": "Chúng tôi đặt phòng cho hai đêm."
+      }
+    ],
+    "forms": [
+      {
+        "word": "books",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/bʊks/"
+      },
+      {
+        "word": "booking",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/bʊkɪŋ/"
+      },
+      {
+        "word": "booked",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/bʊkt/",
+        "example": "We booked a room for two nights.",
+        "exampleVi": "Chúng tôi đặt phòng cho hai đêm."
+      }
+    ]
+  },
+  {
+    "word": "pass",
+    "pos": "verb",
+    "ipa": "/pæs/",
+    "meaningVi": "đi qua",
+    "example": "We passed the station on our way home.",
+    "exampleVi": "Chúng tôi đi qua nhà ga trên đường về nhà.",
+    "topic": "travel",
+    "tags": [
+      "basic-20",
+      "travel"
+    ],
+    "synonyms": [
+      "go past"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "ipa": "/pæs/",
+        "meaningVi": "vượt qua; đạt yêu cầu",
+        "example": "She passed her driving test on the first attempt.",
+        "exampleVi": "Cô ấy đỗ kỳ thi lái xe ngay lần đầu."
+      },
+      {
+        "pos": "verb",
+        "ipa": "/pæs/",
+        "meaningVi": "đưa; chuyển cho người khác",
+        "example": "Please pass me the salt.",
+        "exampleVi": "Làm ơn đưa cho tôi lọ muối."
+      }
+    ],
+    "forms": [
+      {
+        "word": "passes",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/pæsɪz/"
+      },
+      {
+        "word": "passing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/pæsɪŋ/"
+      },
+      {
+        "word": "passed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/pæst/",
+        "example": "We passed the station on our way home.",
+        "exampleVi": "Chúng tôi đi qua nhà ga trên đường về nhà."
+      }
+    ]
+  },
+  {
+    "word": "get",
+    "pos": "verb",
+    "ipa": "/ɡet/",
+    "meaningVi": "nhận được",
+    "example": "I got your message this morning.",
+    "exampleVi": "Tôi nhận được tin nhắn của bạn sáng nay.",
+    "topic": "daily",
+    "tags": [
+      "basic-20",
+      "daily"
+    ],
+    "synonyms": [
+      "receive"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "ipa": "/ɡet/",
+        "meaningVi": "lấy; có được",
+        "example": "Can you get some bread on your way home?",
+        "exampleVi": "Bạn có thể mua ít bánh mì trên đường về nhà không?"
+      },
+      {
+        "pos": "verb",
+        "ipa": "/ɡet/",
+        "meaningVi": "trở nên",
+        "example": "It gets cold here after sunset.",
+        "exampleVi": "Ở đây trời trở lạnh sau khi mặt trời lặn."
+      }
+    ],
+    "forms": [
+      {
+        "word": "gets",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ɡets/",
+        "example": "It gets cold here after sunset.",
+        "exampleVi": "Ở đây trời trở lạnh sau khi mặt trời lặn."
+      },
+      {
+        "word": "getting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɡetɪŋ/"
+      },
+      {
+        "word": "got",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈɡɑt/",
+        "example": "I got your message this morning.",
+        "exampleVi": "Tôi nhận được tin nhắn của bạn sáng nay."
+      },
+      {
+        "word": "gotten",
+        "types": [
+          "past_participle"
+        ],
+        "ipa": "/ˈɡɑtən/, /ˈɡɔtən/"
+      }
+    ]
+  },
+  {
+    "word": "take",
+    "pos": "verb",
+    "ipa": "/teɪk/",
+    "meaningVi": "lấy",
+    "example": "She took a clean cup from the shelf.",
+    "exampleVi": "Cô ấy lấy một chiếc cốc sạch từ trên kệ.",
+    "topic": "daily",
+    "tags": [
+      "basic-20",
+      "daily"
+    ],
+    "synonyms": [],
+    "senses": [
+      {
+        "pos": "verb",
+        "ipa": "/teɪk/",
+        "meaningVi": "mang; đưa đến",
+        "example": "I will take these documents to the office.",
+        "exampleVi": "Tôi sẽ mang những tài liệu này đến văn phòng."
+      },
+      {
+        "pos": "verb",
+        "ipa": "/teɪk/",
+        "meaningVi": "mất một khoảng thời gian",
+        "example": "The journey takes about an hour.",
+        "exampleVi": "Chuyến đi mất khoảng một giờ."
+      }
+    ],
+    "forms": [
+      {
+        "word": "takes",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/teɪks/",
+        "example": "The journey takes about an hour.",
+        "exampleVi": "Chuyến đi mất khoảng một giờ."
+      },
+      {
+        "word": "taking",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/teɪkɪŋ/"
+      },
+      {
+        "word": "took",
+        "types": [
+          "past_simple"
+        ],
+        "ipa": "/ˈtʊk/",
+        "example": "She took a clean cup from the shelf.",
+        "exampleVi": "Cô ấy lấy một chiếc cốc sạch từ trên kệ."
+      },
+      {
+        "word": "taken",
+        "types": [
+          "past_participle"
+        ],
+        "ipa": "/ˈteɪkən/"
+      }
+    ]
+  },
+  {
+    "word": "make",
+    "pos": "verb",
+    "ipa": "/meɪk/",
+    "meaningVi": "làm; tạo ra",
+    "example": "He made a small table for the kitchen.",
+    "exampleVi": "Anh ấy làm một chiếc bàn nhỏ cho nhà bếp.",
+    "topic": "daily",
+    "tags": [
+      "basic-20",
+      "daily"
+    ],
+    "synonyms": [
+      "create"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "ipa": "/meɪk/",
+        "meaningVi": "khiến; làm cho",
+        "example": "That song always makes me smile.",
+        "exampleVi": "Bài hát đó luôn khiến tôi mỉm cười."
+      }
+    ],
+    "forms": [
+      {
+        "word": "makes",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/meɪks/",
+        "example": "That song always makes me smile.",
+        "exampleVi": "Bài hát đó luôn khiến tôi mỉm cười."
+      },
+      {
+        "word": "making",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/meɪkɪŋ/"
+      },
+      {
+        "word": "made",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈmeɪd/",
+        "example": "He made a small table for the kitchen.",
+        "exampleVi": "Anh ấy làm một chiếc bàn nhỏ cho nhà bếp."
+      }
+    ]
+  },
+  {
+    "word": "keep",
+    "pos": "verb",
+    "ipa": "/kiːp/",
+    "meaningVi": "giữ; giữ lại",
+    "example": "I kept the receipt in my wallet.",
+    "exampleVi": "Tôi giữ biên lai trong ví.",
+    "topic": "daily",
+    "tags": [
+      "basic-20",
+      "daily"
+    ],
+    "synonyms": [
+      "retain"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "ipa": "/kiːp/",
+        "meaningVi": "tiếp tục làm",
+        "example": "Keep practicing and your pronunciation will improve.",
+        "exampleVi": "Hãy tiếp tục luyện tập, phát âm của bạn sẽ cải thiện."
+      }
+    ],
+    "forms": [
+      {
+        "word": "keeps",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/kiːps/"
+      },
+      {
+        "word": "keeping",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/kiːpɪŋ/"
+      },
+      {
+        "word": "kept",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈkæpt/, /ˈkɛpt/",
+        "example": "I kept the receipt in my wallet.",
+        "exampleVi": "Tôi giữ biên lai trong ví."
+      }
+    ]
+  },
+  {
+    "word": "bring",
+    "pos": "verb",
+    "ipa": "/brɪŋ/",
+    "meaningVi": "mang đến",
+    "example": "She brought some fruit to the meeting.",
+    "exampleVi": "Cô ấy mang một ít trái cây đến cuộc họp.",
+    "topic": "daily",
+    "tags": [
+      "basic-20",
+      "daily"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "brings",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/brɪŋz/"
+      },
+      {
+        "word": "bringing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/brɪŋɪŋ/"
+      },
+      {
+        "word": "brought",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈbɹɔt/",
+        "example": "She brought some fruit to the meeting.",
+        "exampleVi": "Cô ấy mang một ít trái cây đến cuộc họp."
+      }
+    ]
+  },
+  {
+    "word": "choose",
+    "pos": "verb",
+    "ipa": "/tʃuːz/",
+    "meaningVi": "chọn",
+    "example": "We chose a quiet room for the interview.",
+    "exampleVi": "Chúng tôi chọn một phòng yên tĩnh để phỏng vấn.",
+    "topic": "daily",
+    "tags": [
+      "basic-20",
+      "daily"
+    ],
+    "synonyms": [
+      "select",
+      "pick"
+    ],
+    "forms": [
+      {
+        "word": "chooses",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/tʃuːzɪz/"
+      },
+      {
+        "word": "choosing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/tʃuːzɪŋ/"
+      },
+      {
+        "word": "chose",
+        "types": [
+          "past_simple"
+        ],
+        "ipa": "/ˈtʃoʊz/",
+        "example": "We chose a quiet room for the interview.",
+        "exampleVi": "Chúng tôi chọn một phòng yên tĩnh để phỏng vấn."
+      },
+      {
+        "word": "chosen",
+        "types": [
+          "past_participle"
+        ],
+        "ipa": "/ˈtʃoʊzən/"
+      }
+    ]
+  },
+  {
+    "word": "remember",
+    "pos": "verb",
+    "ipa": "/rɪˈmembər/",
+    "meaningVi": "nhớ; nhớ lại",
+    "example": "I remembered her name after a few minutes.",
+    "exampleVi": "Tôi nhớ ra tên cô ấy sau vài phút.",
+    "topic": "daily",
+    "tags": [
+      "basic-20",
+      "daily"
+    ],
+    "synonyms": [
+      "recall"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "ipa": "/rɪˈmembər/",
+        "meaningVi": "nhớ làm điều gì",
+        "example": "Remember to turn off the lights before you leave.",
+        "exampleVi": "Nhớ tắt đèn trước khi bạn rời đi."
+      }
+    ],
+    "forms": [
+      {
+        "word": "remembers",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/rɪˈmembərz/"
+      },
+      {
+        "word": "remembering",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/rɪˈmembərɪŋ/"
+      },
+      {
+        "word": "remembered",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/rɪˈmembərd/",
+        "example": "I remembered her name after a few minutes.",
+        "exampleVi": "Tôi nhớ ra tên cô ấy sau vài phút."
+      }
+    ]
+  },
+  {
+    "word": "forget",
+    "pos": "verb",
+    "ipa": "/fərˈɡet/",
+    "meaningVi": "quên",
+    "example": "He forgot his password and had to reset it.",
+    "exampleVi": "Anh ấy quên mật khẩu và phải đặt lại.",
+    "topic": "daily",
+    "tags": [
+      "basic-20",
+      "daily"
+    ],
+    "synonyms": [],
+    "senses": [
+      {
+        "pos": "verb",
+        "ipa": "/fərˈɡet/",
+        "meaningVi": "quên làm điều gì",
+        "example": "I forgot to send the attachment.",
+        "exampleVi": "Tôi quên gửi tệp đính kèm."
+      }
+    ],
+    "forms": [
+      {
+        "word": "forgets",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/fərˈɡets/"
+      },
+      {
+        "word": "forgetting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/fərˈɡetɪŋ/"
+      },
+      {
+        "word": "forgot",
+        "types": [
+          "past_simple"
+        ],
+        "ipa": "/fɝˈɡɑt/, /fɔɹˈɡɑt/",
+        "example": "He forgot his password and had to reset it.",
+        "exampleVi": "Anh ấy quên mật khẩu và phải đặt lại."
+      },
+      {
+        "word": "forgotten",
+        "types": [
+          "past_participle"
+        ],
+        "ipa": "/fɝˈɡɑtən/, /fɔɹˈɡɑtən/"
+      }
+    ]
+  },
+  {
+    "word": "wallet",
+    "pos": "noun",
+    "ipa": "/ˈwɑlɪt/",
+    "meaningVi": "ví",
+    "example": "I keep my cards in a small wallet.",
+    "exampleVi": "Tôi để các thẻ của mình trong một chiếc ví nhỏ.",
+    "topic": "shopping",
+    "tags": [
+      "basic-20",
+      "shopping"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "wallets",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈwɑlɪts/"
+      }
+    ]
+  },
+  {
+    "word": "receipt",
+    "pos": "noun",
+    "ipa": "/rɪˈsiːt/",
+    "meaningVi": "biên lai",
+    "example": "Please keep your receipt in case you need a refund.",
+    "exampleVi": "Hãy giữ biên lai phòng khi bạn cần hoàn tiền.",
+    "topic": "shopping",
+    "tags": [
+      "basic-20",
+      "shopping"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "receipts",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/rɪˈsiːts/"
+      }
+    ]
+  },
+  {
+    "word": "refund",
+    "pos": "noun",
+    "ipa": "/ˈriːfʌnd/",
+    "meaningVi": "khoản tiền được hoàn lại",
+    "example": "I received a full refund for the damaged charger.",
+    "exampleVi": "Tôi nhận được khoản hoàn tiền đầy đủ cho bộ sạc bị hỏng.",
+    "topic": "shopping",
+    "tags": [
+      "basic-20",
+      "shopping"
+    ],
+    "synonyms": [
+      "reimbursement"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "ipa": "/rɪˈfʌnd/",
+        "meaningVi": "hoàn tiền",
+        "example": "The shop refunded the delivery fee.",
+        "exampleVi": "Cửa hàng hoàn lại phí giao hàng."
+      }
+    ],
+    "forms": [
+      {
+        "word": "refunds",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/rɪˈfʌndz/, /ˈriːfʌndz/"
+      },
+      {
+        "word": "refunding",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/rɪˈfʌndɪŋ/"
+      },
+      {
+        "word": "refunded",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/rɪˈfʌndɪd/",
+        "example": "The shop refunded the delivery fee.",
+        "exampleVi": "Cửa hàng hoàn lại phí giao hàng."
+      }
+    ]
+  },
+  {
+    "word": "charger",
+    "pos": "noun",
+    "ipa": "/ˈtʃɑrdʒər/",
+    "meaningVi": "bộ sạc",
+    "example": "My phone charger is in the drawer.",
+    "exampleVi": "Bộ sạc điện thoại của tôi ở trong ngăn kéo.",
+    "topic": "daily",
+    "tags": [
+      "basic-20",
+      "daily"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "chargers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtʃɑrdʒərz/"
+      }
+    ]
+  },
+  {
+    "word": "luggage",
+    "pos": "noun",
+    "ipa": "/ˈlʌɡɪdʒ/",
+    "meaningVi": "hành lý",
+    "example": "We left our luggage at the hotel.",
+    "exampleVi": "Chúng tôi để hành lý ở khách sạn.",
+    "topic": "travel",
+    "tags": [
+      "basic-20",
+      "travel"
+    ],
+    "synonyms": [
+      "baggage"
+    ]
+  },
+  {
+    "word": "pharmacy",
+    "pos": "noun",
+    "ipa": "/ˈfɑrməsi/",
+    "meaningVi": "hiệu thuốc",
+    "example": "There is a pharmacy next to the supermarket.",
+    "exampleVi": "Có một hiệu thuốc cạnh siêu thị.",
+    "topic": "health",
+    "tags": [
+      "basic-20",
+      "health"
+    ],
+    "synonyms": [
+      "drugstore"
+    ],
+    "forms": [
+      {
+        "word": "pharmacies",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈfɑrməsiz/"
+      }
+    ]
+  },
+  {
+    "word": "follow up",
+    "pos": "verb",
+    "ipa": "/ˈfɑloʊ ʌp/",
+    "meaningVi": "theo dõi; xử lý tiếp",
+    "example": "I followed up on the request with an email.",
+    "exampleVi": "Tôi gửi một email để tiếp tục theo dõi yêu cầu.",
+    "topic": "work",
+    "tags": [
+      "basic-20",
+      "work"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "follows up",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈfɑloʊz ʌp/"
+      },
+      {
+        "word": "following up",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈfɑloʊɪŋ ʌp/"
+      },
+      {
+        "word": "followed up",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈfɑloʊd ʌp/",
+        "example": "I followed up on the request with an email.",
+        "exampleVi": "Tôi gửi một email để tiếp tục theo dõi yêu cầu."
+      }
+    ]
+  },
+  {
+    "word": "figure out",
+    "pos": "verb",
+    "ipa": "/ˈfɪɡjər aʊt/",
+    "meaningVi": "hiểu ra; tìm ra cách giải quyết",
+    "example": "We figured out how to fix the problem.",
+    "exampleVi": "Chúng tôi tìm ra cách khắc phục vấn đề.",
+    "topic": "work",
+    "tags": [
+      "basic-20",
+      "work"
+    ],
+    "synonyms": [
+      "work out"
+    ],
+    "forms": [
+      {
+        "word": "figures out",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈfɪɡjərz aʊt/"
+      },
+      {
+        "word": "figuring out",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈfɪɡjərɪŋ aʊt/"
+      },
+      {
+        "word": "figured out",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈfɪɡjərd aʊt/",
+        "example": "We figured out how to fix the problem.",
+        "exampleVi": "Chúng tôi tìm ra cách khắc phục vấn đề."
+      }
+    ]
+  },
+  {
+    "word": "put off",
+    "pos": "verb",
+    "ipa": "/pʊt ɔf/",
+    "meaningVi": "trì hoãn",
+    "example": "They put off the meeting until Friday.",
+    "exampleVi": "Họ hoãn cuộc họp đến thứ Sáu.",
+    "topic": "work",
+    "tags": [
+      "basic-20",
+      "work"
+    ],
+    "synonyms": [
+      "postpone",
+      "delay"
+    ],
+    "forms": [
+      {
+        "word": "puts off",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/pʊts ɔf/"
+      },
+      {
+        "word": "putting off",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/pʊtɪŋ ɔf/"
+      },
+      {
+        "word": "put off",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/pʊt ɔf/"
+      }
+    ]
+  },
+  {
+    "word": "run out of",
+    "pos": "verb",
+    "ipa": "/rʌn aʊt əv/",
+    "meaningVi": "dùng hết; không còn",
+    "example": "We ran out of milk this morning.",
+    "exampleVi": "Sáng nay chúng tôi hết sữa.",
+    "topic": "daily",
+    "tags": [
+      "basic-20",
+      "daily"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "runs out of",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/rʌnz aʊt əv/"
+      },
+      {
+        "word": "running out of",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/rʌnɪŋ aʊt əv/"
+      },
+      {
+        "word": "ran out of",
+        "types": [
+          "past_simple"
+        ],
+        "ipa": "/ˈɹæn aʊt əv/",
+        "example": "We ran out of milk this morning.",
+        "exampleVi": "Sáng nay chúng tôi hết sữa."
+      },
+      {
+        "word": "run out of",
+        "types": [
+          "past_participle"
+        ],
+        "ipa": "/rʌn aʊt əv/"
+      }
+    ]
+  }
+]

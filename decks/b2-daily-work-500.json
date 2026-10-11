@@ -21,6 +21,9 @@
         ],
         "ipa": "/ˈwɜːkpleɪsɪz/"
       }
+    ],
+    "synonyms": [
+      "worksite"
     ]
   },
   {
@@ -54,6 +57,9 @@
         ],
         "ipa": "/ˈwɜːkʃɒps/"
       }
+    ],
+    "synonyms": [
+      "practical seminar"
     ]
   },
   {
@@ -78,7 +84,8 @@
         ],
         "ipa": "/əˈkaʊntənts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "analyst",
@@ -102,7 +109,8 @@
         ],
         "ipa": "/ˈænəlɪsts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "consultant",
@@ -126,6 +134,9 @@
         ],
         "ipa": "/kənˈsʌltənts/"
       }
+    ],
+    "synonyms": [
+      "adviser"
     ]
   },
   {
@@ -166,7 +177,8 @@
         ],
         "ipa": "/ˈɒpəreɪtəz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "supervisor",
@@ -190,6 +202,9 @@
         ],
         "ipa": "/ˈsuːpəvaɪzəz/"
       }
+    ],
+    "synonyms": [
+      "overseer"
     ]
   },
   {
@@ -205,6 +220,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "oversight"
     ]
   },
   {
@@ -229,7 +247,8 @@
         "exampleVi": "Ban lãnh đạo đã phê duyệt đề xuất của chúng tôi hôm qua.",
         "ipa": "/ˈliːdəʃɪp/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "partnership",
@@ -262,6 +281,9 @@
         ],
         "ipa": "/ˈpɑːtnəʃɪps/"
       }
+    ],
+    "synonyms": [
+      "alliance"
     ]
   },
   {
@@ -277,6 +299,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "involvement"
     ]
   },
   {
@@ -301,6 +326,9 @@
         ],
         "ipa": "/pɑːˈtɪsɪpənts/"
       }
+    ],
+    "synonyms": [
+      "attendee"
     ]
   },
   {
@@ -325,6 +353,9 @@
         ],
         "ipa": "/ˈæplɪkənts/"
       }
+    ],
+    "synonyms": [
+      "candidate"
     ]
   },
   {
@@ -349,7 +380,8 @@
         ],
         "ipa": "/ɪnˈvestəz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "manufacture",
@@ -399,6 +431,9 @@
         ],
         "ipa": "/ˌmænjuˈfæktʃəd/"
       }
+    ],
+    "synonyms": [
+      "produce"
     ]
   },
   {
@@ -414,6 +449,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "production"
     ]
   },
   {
@@ -454,6 +492,9 @@
         ],
         "ipa": "/ˈentəpraɪzɪz/"
       }
+    ],
+    "synonyms": [
+      "business"
     ]
   },
   {
@@ -469,6 +510,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "trade"
     ]
   },
   {
@@ -493,6 +537,9 @@
         "exampleVi": "Chúng tôi cần bạn phối hợp giữ lối vào thông thoáng.",
         "ipa": "/kəʊˌɒp.əˈreɪ.ʃən/"
       }
+    ],
+    "synonyms": [
+      "collaboration"
     ]
   },
   {
@@ -517,6 +564,9 @@
         ],
         "ipa": "/ˌkeɪpəˈbɪlətiz/"
       }
+    ],
+    "synonyms": [
+      "ability"
     ]
   },
   {
@@ -541,6 +591,9 @@
         ],
         "ipa": "/ɪˌvæljuˈeɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "assessment"
     ]
   },
   {
@@ -565,6 +618,9 @@
         "exampleVi": "Công nghệ nhận diện khuôn mặt cho phép người dùng mở khóa điện thoại.",
         "ipa": "/ˌrekəɡˈnɪʃn/"
       }
+    ],
+    "synonyms": [
+      "acknowledgment"
     ]
   },
   {
@@ -589,6 +645,9 @@
         ],
         "ipa": "/kraɪˈtɪəriə/"
       }
+    ],
+    "synonyms": [
+      "standard"
     ]
   },
   {
@@ -613,6 +672,9 @@
         ],
         "ipa": "/ˌklæsɪfɪˈkeɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "categorization"
     ]
   },
   {
@@ -653,6 +715,9 @@
         ],
         "ipa": "/ˈklæsɪfaɪd/"
       }
+    ],
+    "synonyms": [
+      "categorize"
     ]
   },
   {
@@ -677,7 +742,8 @@
         "exampleVi": "Cô ấy học ngành thống kê trước khi trở thành chuyên viên phân tích dữ liệu.",
         "ipa": "/stəˈtɪstɪks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "registration",
@@ -710,7 +776,8 @@
         ],
         "ipa": "/ˌredʒɪˈstreɪʃnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "membership",
@@ -743,7 +810,8 @@
         ],
         "ipa": "/ˈmembəʃɪps/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "attendance",
@@ -767,6 +835,9 @@
         ],
         "ipa": "/əˈtendənsɪz/"
       }
+    ],
+    "synonyms": [
+      "presence"
     ]
   },
   {
@@ -800,6 +871,9 @@
         ],
         "ipa": "/ˌprepəˈreɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "readiness"
     ]
   },
   {
@@ -824,7 +898,8 @@
         "exampleVi": "Hãy mang giấy tờ cho hồ sơ đăng ký của bạn đến văn phòng.",
         "ipa": "/ˈpeɪpəwɜːk/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "reporting",
@@ -848,7 +923,8 @@
         "exampleVi": "Việc đưa tin chính xác giúp độc giả hiểu chuyện đã xảy ra.",
         "ipa": "/rɪˈpɔːtɪŋ/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "trading",
@@ -863,6 +939,9 @@
       "b2",
       "b2-daily-work",
       "money"
+    ],
+    "synonyms": [
+      "commerce"
     ]
   },
   {
@@ -912,7 +991,8 @@
         ],
         "ipa": "/ˈriːteɪld/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "loan",
@@ -962,7 +1042,8 @@
         ],
         "ipa": "/ləʊnd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "deposit",
@@ -1026,6 +1107,9 @@
         ],
         "ipa": "/dɪˈpɒzɪtɪd/"
       }
+    ],
+    "synonyms": [
+      "down payment"
     ]
   },
   {
@@ -1050,7 +1134,8 @@
         "exampleVi": "Hãy giữ thêm một bản sao để dự phòng trường hợp mất bản gốc.",
         "ipa": "/ɪnˈʃʊərəns/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "savings",
@@ -1074,7 +1159,8 @@
         "exampleVi": "Mua số lượng lớn giúp nhóm tiết kiệm được khoản chi phí đáng kể.",
         "ipa": "/ˈseɪvɪŋz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "wealth",
@@ -1098,6 +1184,9 @@
         "exampleVi": "Đồng nghiệp mới của chúng tôi mang đến rất nhiều kinh nghiệm.",
         "ipa": "/welθ/"
       }
+    ],
+    "synonyms": [
+      "riches"
     ]
   },
   {
@@ -1122,7 +1211,8 @@
         "exampleVi": "Cầu thủ thông báo việc rút khỏi bóng đá chuyên nghiệp.",
         "ipa": "/rɪˈtaɪəmənt/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "bankruptcy",
@@ -1155,6 +1245,9 @@
         ],
         "ipa": "/ˈbæŋkrʌptsiz/"
       }
+    ],
+    "synonyms": [
+      "insolvency"
     ]
   },
   {
@@ -1179,6 +1272,9 @@
         "exampleVi": "Chúng tôi có một cuộc thảo luận hữu ích về cách cải thiện dịch vụ.",
         "ipa": "/ˈprɒfɪtəbl/"
       }
+    ],
+    "synonyms": [
+      "lucrative"
     ]
   },
   {
@@ -1194,7 +1290,8 @@
       "b2",
       "b2-daily-work",
       "money"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "economics",
@@ -1218,7 +1315,8 @@
         "exampleVi": "Chúng ta cần xem xét chi phí và lợi ích của việc mở cửa hàng thứ hai.",
         "ipa": "/ˌiːkəˈnɒmɪks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "economist",
@@ -1242,7 +1340,8 @@
         ],
         "ipa": "/ɪˈkɒnəmɪsts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "penalty",
@@ -1275,6 +1374,9 @@
         ],
         "ipa": "/ˈpenəltiz/"
       }
+    ],
+    "synonyms": [
+      "punishment"
     ]
   },
   {
@@ -1325,7 +1427,8 @@
         ],
         "ipa": "/ˈɔːkʃnd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "courtesy",
@@ -1349,6 +1452,9 @@
         "exampleVi": "Xe buýt miễn phí đưa khách của khách sạn ra sân bay.",
         "ipa": "/ˈkɜːtəsi/"
       }
+    ],
+    "synonyms": [
+      "politeness"
     ]
   },
   {
@@ -1389,6 +1495,9 @@
         ],
         "ipa": "/ˈkɒnfɪdənsɪz/"
       }
+    ],
+    "synonyms": [
+      "self-assurance"
     ]
   },
   {
@@ -1404,6 +1513,9 @@
       "b2",
       "b2-daily-work",
       "communication"
+    ],
+    "synonyms": [
+      "help"
     ]
   },
   {
@@ -1437,7 +1549,8 @@
         ],
         "ipa": "/əˈpɒlədʒiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "enquiry",
@@ -1470,6 +1583,9 @@
         ],
         "ipa": "/ɪnˈkwaɪəriz/"
       }
+    ],
+    "synonyms": [
+      "inquiry"
     ]
   },
   {
@@ -1503,6 +1619,9 @@
         ],
         "ipa": "/ˈkrɪtɪsɪzəmz/"
       }
+    ],
+    "synonyms": [
+      "censure"
     ]
   },
   {
@@ -1536,6 +1655,9 @@
         ],
         "ipa": "/ˌɒbzəˈveɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "remark"
     ]
   },
   {
@@ -1569,6 +1691,9 @@
         ],
         "ipa": "/pəˈsepʃnz/"
       }
+    ],
+    "synonyms": [
+      "awareness"
     ]
   },
   {
@@ -1602,6 +1727,9 @@
         ],
         "ipa": "/stænsɪz/"
       }
+    ],
+    "synonyms": [
+      "position"
     ]
   },
   {
@@ -1626,6 +1754,9 @@
         ],
         "ipa": "/nɪˌɡəʊʃiˈeɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "bargaining"
     ]
   },
   {
@@ -1683,6 +1814,9 @@
         ],
         "ipa": "/ˈkɒmprəmaɪzd/"
       }
+    ],
+    "synonyms": [
+      "make concessions"
     ]
   },
   {
@@ -1707,7 +1841,8 @@
         ],
         "ipa": "/ˌkwestʃəˈneəz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "signature",
@@ -1740,7 +1875,8 @@
         ],
         "ipa": "/ˈsɪɡnətʃəz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "certificate",
@@ -1764,6 +1900,9 @@
         ],
         "ipa": "/səˈtɪfɪkəts/"
       }
+    ],
+    "synonyms": [
+      "credential"
     ]
   },
   {
@@ -1788,6 +1927,9 @@
         ],
         "ipa": "/dɪˈpləʊməz/"
       }
+    ],
+    "synonyms": [
+      "qualification certificate"
     ]
   },
   {
@@ -1821,6 +1963,9 @@
         ],
         "ipa": "/ˈliːfləts/"
       }
+    ],
+    "synonyms": [
+      "flyer"
     ]
   },
   {
@@ -1845,6 +1990,9 @@
         ],
         "ipa": "/ˈbrəʊʃəz/"
       }
+    ],
+    "synonyms": [
+      "pamphlet"
     ]
   },
   {
@@ -1876,7 +2024,8 @@
         ],
         "ipa": "/ˈspəʊkspɜːsnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "representative",
@@ -1909,7 +2058,8 @@
         ],
         "ipa": "/ˌreprɪˈzentətɪvz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "chairman",
@@ -1933,7 +2083,8 @@
         ],
         "ipa": "/ˈtʃɛɹmɪn/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "fellow",
@@ -1973,7 +2124,8 @@
         ],
         "ipa": "/ˈfeləʊz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "skilled",
@@ -1988,6 +2140,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "proficient"
     ]
   },
   {
@@ -2012,7 +2167,8 @@
         "exampleVi": "Câu chuyện nói về một người đàn ông độc thân có điều kiện đang tìm tình yêu.",
         "ipa": "/ˈelɪdʒəbl/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "compulsory",
@@ -2027,6 +2183,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "mandatory"
     ]
   },
   {
@@ -2042,6 +2201,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "advantageous"
     ]
   },
   {
@@ -2066,6 +2228,9 @@
         "exampleVi": "Thỏa thuận hạn chế việc sử dụng vũ khí thông thường.",
         "ipa": "/kənˈvenʃənl/"
       }
+    ],
+    "synonyms": [
+      "traditional"
     ]
   },
   {
@@ -2081,7 +2246,8 @@
       "b2",
       "b2-daily-work",
       "work"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "unacceptable",
@@ -2096,6 +2262,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "intolerable"
     ]
   },
   {
@@ -2120,6 +2289,9 @@
         "exampleVi": "Một khách hàng hay đòi hỏi gọi ba lần về cùng một đơn hàng.",
         "ipa": "/dɪˈmɑːndɪŋ/"
       }
+    ],
+    "synonyms": [
+      "exacting"
     ]
   },
   {
@@ -2135,6 +2307,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "driven"
     ]
   },
   {
@@ -2159,6 +2334,9 @@
         "exampleVi": "Cơn ho dai dẳng khiến anh ấy thức suốt đêm.",
         "ipa": "/pəˈsɪstənt/"
       }
+    ],
+    "synonyms": [
+      "persevering"
     ]
   },
   {
@@ -2174,7 +2352,8 @@
       "b2",
       "b2-daily-work",
       "work"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "prestigious",
@@ -2189,6 +2368,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "reputable"
     ]
   },
   {
@@ -2204,6 +2386,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "inadequate"
     ]
   },
   {
@@ -2228,6 +2413,9 @@
         "exampleVi": "Anh ấy đáp lại câu hỏi bằng một cái nhìn đờ đẫn.",
         "ipa": "/ˈveɪkənt/"
       }
+    ],
+    "synonyms": [
+      "unoccupied"
     ]
   },
   {
@@ -2243,6 +2431,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "unseasoned"
     ]
   },
   {
@@ -2258,6 +2449,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "acceptable"
     ]
   },
   {
@@ -2273,6 +2467,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "unaltered"
     ]
   },
   {
@@ -2288,7 +2485,8 @@
       "b2",
       "b2-daily-work",
       "work"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "remaining",
@@ -2303,6 +2501,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "leftover"
     ]
   },
   {
@@ -2318,6 +2519,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "planned"
     ]
   },
   {
@@ -2333,6 +2537,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "verified"
     ]
   },
   {
@@ -2348,7 +2555,8 @@
       "b2",
       "b2-daily-work",
       "work"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "short-term",
@@ -2363,7 +2571,8 @@
       "b2",
       "b2-daily-work",
       "work"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "full-time",
@@ -2387,7 +2596,8 @@
         "exampleVi": "Cô ấy làm việc toàn thời gian và học vào buổi tối.",
         "ipa": "/ˌfʊlˈtaɪm/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "part-time",
@@ -2411,7 +2621,8 @@
         "exampleVi": "Anh ấy làm việc bán thời gian trong khi hoàn thành chương trình đại học.",
         "ipa": "/ˌpɑːtˈtaɪm/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "growing",
@@ -2435,6 +2646,9 @@
         "exampleVi": "Một đứa trẻ đang lớn cần chế độ ăn cân bằng.",
         "ipa": "/ˈɡrəʊɪŋ/"
       }
+    ],
+    "synonyms": [
+      "increasing"
     ]
   },
   {
@@ -2459,6 +2673,9 @@
         ],
         "ipa": "/ˌmɒdɪfɪˈkeɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "alteration"
     ]
   },
   {
@@ -2492,6 +2709,9 @@
         ],
         "ipa": "/əˈdʒʌstmənts/"
       }
+    ],
+    "synonyms": [
+      "modification"
     ]
   },
   {
@@ -2532,6 +2752,9 @@
         ],
         "ipa": "/ˈsuːpəvaɪzd/"
       }
+    ],
+    "synonyms": [
+      "oversee"
     ]
   },
   {
@@ -2581,6 +2804,9 @@
         ],
         "ipa": "/ɪnˈfɔːmd/"
       }
+    ],
+    "synonyms": [
+      "notify"
     ]
   },
   {
@@ -2639,6 +2865,9 @@
         "example": "She observed that the new process saved time.",
         "exampleVi": "Cô ấy nhận xét rằng quy trình mới tiết kiệm thời gian."
       }
+    ],
+    "synonyms": [
+      "watch"
     ]
   },
   {
@@ -2688,6 +2917,9 @@
         ],
         "ipa": "/ɪnˈstɔːld/"
       }
+    ],
+    "synonyms": [
+      "set up"
     ]
   },
   {
@@ -2728,6 +2960,9 @@
         ],
         "ipa": "/dɪˈliːtɪd/"
       }
+    ],
+    "synonyms": [
+      "remove"
     ]
   },
   {
@@ -2752,6 +2987,9 @@
         "exampleVi": "Kênh truyền hình thay đổi lịch chương trình buổi tối.",
         "ipa": "/ˈprəʊɡræmɪŋ/"
       }
+    ],
+    "synonyms": [
+      "coding"
     ]
   },
   {
@@ -2776,7 +3014,8 @@
         ],
         "ipa": "/ˈdeɪtəbeɪsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "electronics",
@@ -2800,7 +3039,8 @@
         "exampleVi": "Cô ấy học ngành điện tử ở trường cao đẳng.",
         "ipa": "/ɪˌlekˈtrɒnɪks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "hardware",
@@ -2824,7 +3064,8 @@
         "exampleVi": "Cửa hàng bán sơn, dụng cụ và vật dụng kim khí.",
         "ipa": "/ˈhɑːdweə/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "graphics",
@@ -2839,6 +3080,9 @@
       "b2",
       "b2-daily-work",
       "technology"
+    ],
+    "synonyms": [
+      "imagery"
     ]
   },
   {
@@ -2863,7 +3107,8 @@
         ],
         "ipa": "/ˈpɑːswɜːdz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "configuration",
@@ -2896,6 +3141,9 @@
         ],
         "ipa": "/kənˌfɪɡəˈreɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "setup"
     ]
   },
   {
@@ -2911,7 +3159,8 @@
       "b2",
       "b2-daily-work",
       "technology"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "animation",
@@ -2944,7 +3193,8 @@
         ],
         "ipa": "/ˌænɪˈmeɪʃnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "logo",
@@ -2968,6 +3218,9 @@
         ],
         "ipa": "/ˈləʊɡəʊz/"
       }
+    ],
+    "synonyms": [
+      "emblem"
     ]
   },
   {
@@ -2992,6 +3245,9 @@
         ],
         "ipa": "/ˈmaɪkrəfəʊnz/"
       }
+    ],
+    "synonyms": [
+      "mic"
     ]
   },
   {
@@ -3025,7 +3281,8 @@
         ],
         "ipa": "/ˈsætəlaɪts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "solar",
@@ -3040,7 +3297,8 @@
       "b2",
       "b2-daily-work",
       "technology"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "grid",
@@ -3080,6 +3338,9 @@
         ],
         "ipa": "/ɡrɪdz/"
       }
+    ],
+    "synonyms": [
+      "lattice"
     ]
   },
   {
@@ -3095,6 +3356,10 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "extra",
+      "supplementary"
     ]
   },
   {
@@ -3128,7 +3393,8 @@
         ],
         "ipa": "/ˈæksiːz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "depth",
@@ -3161,7 +3427,8 @@
         ],
         "ipa": "/depθs/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "measurement",
@@ -3185,7 +3452,8 @@
         ],
         "ipa": "/ˈmeʒəmənts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "formation",
@@ -3218,6 +3486,9 @@
         ],
         "ipa": "/fɔːˈmeɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "establishment"
     ]
   },
   {
@@ -3251,6 +3522,9 @@
         ],
         "ipa": "/kriˈeɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "production"
     ]
   },
   {
@@ -3284,7 +3558,8 @@
         ],
         "ipa": "/ɪkˈsepʃnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "restriction",
@@ -3308,6 +3583,9 @@
         ],
         "ipa": "/rɪˈstrɪkʃnz/"
       }
+    ],
+    "synonyms": [
+      "constraint"
     ]
   },
   {
@@ -3341,6 +3619,9 @@
         ],
         "ipa": "/ˈjuːsɪdʒɪz/"
       }
+    ],
+    "synonyms": [
+      "use"
     ]
   },
   {
@@ -3374,7 +3655,8 @@
         ],
         "ipa": "/fəˈsɪlətiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "household",
@@ -3407,6 +3689,9 @@
         ],
         "ipa": "/ˈhaʊshəʊldz/"
       }
+    ],
+    "synonyms": [
+      "family unit"
     ]
   },
   {
@@ -3431,6 +3716,9 @@
         ],
         "ipa": "/ˈkɒrɪdɔːz/"
       }
+    ],
+    "synonyms": [
+      "hallway"
     ]
   },
   {
@@ -3455,6 +3743,9 @@
         ],
         "ipa": "/ˈbeɪsmənts/"
       }
+    ],
+    "synonyms": [
+      "cellar"
     ]
   },
   {
@@ -3479,7 +3770,8 @@
         "exampleVi": "Việc đốt lửa bị cấm trong khu vực này.",
         "ipa": "/ˈlaɪtɪŋ/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cable",
@@ -3536,7 +3828,8 @@
         ],
         "ipa": "/ˈkeɪbld/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "tunnel",
@@ -3602,7 +3895,8 @@
         ],
         "ipa": "/ˈtʌnld/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "highway",
@@ -3626,6 +3920,9 @@
         ],
         "ipa": "/ˈhaɪweɪz/"
       }
+    ],
+    "synonyms": [
+      "main road"
     ]
   },
   {
@@ -3659,7 +3956,8 @@
         ],
         "ipa": "/brɪks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cabinet",
@@ -3692,7 +3990,8 @@
         ],
         "ipa": "/ˈkæbɪnəts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "lid",
@@ -3716,6 +4015,9 @@
         ],
         "ipa": "/lɪdz/"
       }
+    ],
+    "synonyms": [
+      "cover"
     ]
   },
   {
@@ -3740,7 +4042,8 @@
         ],
         "ipa": "/treɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "lawn",
@@ -3764,7 +4067,8 @@
         ],
         "ipa": "/lɔːnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "backyard",
@@ -3788,6 +4092,9 @@
         ],
         "ipa": "/ˌbækˈjɑːdz/"
       }
+    ],
+    "synonyms": [
+      "back garden"
     ]
   },
   {
@@ -3812,6 +4119,9 @@
         ],
         "ipa": "/pɔːtʃɪz/"
       }
+    ],
+    "synonyms": [
+      "veranda"
     ]
   },
   {
@@ -3836,7 +4146,8 @@
         ],
         "ipa": "/ˈdɔːweɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "fireplace",
@@ -3860,7 +4171,8 @@
         ],
         "ipa": "/ˈfaɪə.pleɪsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "chimney",
@@ -3884,7 +4196,8 @@
         ],
         "ipa": "/ˈtʃɪmniz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "pavement",
@@ -3908,6 +4221,9 @@
         ],
         "ipa": "/ˈpeɪvmənts/"
       }
+    ],
+    "synonyms": [
+      "sidewalk"
     ]
   },
   {
@@ -3932,7 +4248,8 @@
         ],
         "ipa": "/ˈplʌməz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "electrician",
@@ -3956,7 +4273,8 @@
         ],
         "ipa": "/ɪˌlekˈtrɪʃnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "gardener",
@@ -3980,7 +4298,8 @@
         ],
         "ipa": "/ˈɡɑː.dən.əz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "envelope",
@@ -4004,7 +4323,8 @@
         ],
         "ipa": "/ˈenvələʊps/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "marker",
@@ -4037,6 +4357,9 @@
         ],
         "ipa": "/ˈmɑː.kəz/"
       }
+    ],
+    "synonyms": [
+      "felt-tip pen"
     ]
   },
   {
@@ -4070,7 +4393,8 @@
         ],
         "ipa": "/ˈbɑːskɪts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "fabric",
@@ -4103,6 +4427,9 @@
         ],
         "ipa": "/ˈfæbrɪks/"
       }
+    ],
+    "synonyms": [
+      "cloth"
     ]
   },
   {
@@ -4118,6 +4445,9 @@
       "b2",
       "b2-daily-work",
       "daily"
+    ],
+    "synonyms": [
+      "bent"
     ]
   },
   {
@@ -4142,6 +4472,9 @@
         "exampleVi": "Chúng ta ở trong tình huống khó xử vì cả hai khách hàng đều muốn thứ Sáu.",
         "ipa": "/ˈstɪki/"
       }
+    ],
+    "synonyms": [
+      "adhesive"
     ]
   },
   {
@@ -4175,6 +4508,9 @@
         ],
         "ipa": "/bents/"
       }
+    ],
+    "synonyms": [
+      "curved"
     ]
   },
   {
@@ -4239,7 +4575,8 @@
         ],
         "ipa": "/ʃeɪdɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "angle",
@@ -4296,6 +4633,9 @@
         ],
         "ipa": "/ˈæŋɡld/"
       }
+    ],
+    "synonyms": [
+      "viewpoint"
     ]
   },
   {
@@ -4353,7 +4693,8 @@
         ],
         "ipa": "/hʊkt/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "clip",
@@ -4417,7 +4758,8 @@
         ],
         "ipa": "/klɪpt/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "tag",
@@ -4474,6 +4816,9 @@
         ],
         "ipa": "/tæɡd/"
       }
+    ],
+    "synonyms": [
+      "label"
     ]
   },
   {
@@ -4498,6 +4843,9 @@
         ],
         "ipa": "/buːðz/"
       }
+    ],
+    "synonyms": [
+      "stall"
     ]
   },
   {
@@ -4538,7 +4886,8 @@
         ],
         "ipa": "/ˈtɜːmɪnlz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "shore",
@@ -4588,6 +4937,9 @@
         ],
         "ipa": "/ʃɔːd/"
       }
+    ],
+    "synonyms": [
+      "coast"
     ]
   },
   {
@@ -4621,7 +4973,8 @@
         ],
         "ipa": "/ˈlændɪŋz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "permit",
@@ -4671,6 +5024,9 @@
         ],
         "ipa": "/pəˈmɪtɪd/"
       }
+    ],
+    "synonyms": [
+      "allow"
     ]
   },
   {
@@ -4720,6 +5076,9 @@
         ],
         "ipa": "/dɪˈpɑːtɪd/"
       }
+    ],
+    "synonyms": [
+      "leave"
     ]
   },
   {
@@ -4753,6 +5112,9 @@
         ],
         "ipa": "/ˈrezɪdənsɪz/"
       }
+    ],
+    "synonyms": [
+      "home"
     ]
   },
   {
@@ -4768,6 +5130,9 @@
       "b2",
       "b2-daily-work",
       "travel"
+    ],
+    "synonyms": [
+      "possessions"
     ]
   },
   {
@@ -4792,6 +5157,9 @@
         ],
         "ipa": "/ˈaʊtɪŋz/"
       }
+    ],
+    "synonyms": [
+      "excursion"
     ]
   },
   {
@@ -4816,7 +5184,8 @@
         "exampleVi": "Ứng dụng nhỏ này không trở nên phổ biến chỉ sau một đêm.",
         "ipa": "/ˌəʊvəˈnaɪt/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "nearby",
@@ -4840,6 +5209,9 @@
         "exampleVi": "Bố mẹ tôi sống gần đây nên chúng tôi thường gặp họ.",
         "ipa": "/ˌnɪəˈbaɪ/"
       }
+    ],
+    "synonyms": [
+      "close by"
     ]
   },
   {
@@ -4855,7 +5227,8 @@
       "b2",
       "b2-daily-work",
       "daily"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "wherever",
@@ -4870,7 +5243,8 @@
       "b2",
       "b2-daily-work",
       "daily"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "alongside",
@@ -4894,6 +5268,9 @@
         "exampleVi": "Cô ấy làm việc cùng một nhà thiết kế giàu kinh nghiệm.",
         "ipa": "/əˌlɒŋˈsaɪd/"
       }
+    ],
+    "synonyms": [
+      "beside"
     ]
   },
   {
@@ -4934,6 +5311,9 @@
         ],
         "ipa": "/əˈsaɪdz/"
       }
+    ],
+    "synonyms": [
+      "apart"
     ]
   },
   {
@@ -4949,6 +5329,9 @@
       "b2",
       "b2-daily-work",
       "communication"
+    ],
+    "synonyms": [
+      "exactly"
     ]
   },
   {
@@ -4973,6 +5356,9 @@
         "exampleVi": "Hai người hàng xóm thảo luận vấn đề một cách có lý lẽ.",
         "ipa": "/ˈriːznəbli/"
       }
+    ],
+    "synonyms": [
+      "moderately"
     ]
   },
   {
@@ -4988,6 +5374,9 @@
       "b2",
       "b2-daily-work",
       "communication"
+    ],
+    "synonyms": [
+      "fundamentally"
     ]
   },
   {
@@ -5003,6 +5392,9 @@
       "b2",
       "b2-daily-work",
       "technology"
+    ],
+    "synonyms": [
+      "immediately"
     ]
   },
   {
@@ -5018,6 +5410,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "substantially"
     ]
   },
   {
@@ -5033,6 +5428,9 @@
       "b2",
       "b2-daily-work",
       "communication"
+    ],
+    "synonyms": [
+      "truly"
     ]
   },
   {
@@ -5048,7 +5446,8 @@
       "b2",
       "b2-daily-work",
       "work"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "additionally",
@@ -5063,6 +5462,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "furthermore"
     ]
   },
   {
@@ -5078,6 +5480,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "suitably"
     ]
   },
   {
@@ -5093,6 +5498,9 @@
       "b2",
       "b2-daily-work",
       "daily"
+    ],
+    "synonyms": [
+      "sufficiently"
     ]
   },
   {
@@ -5117,6 +5525,9 @@
         "exampleVi": "Cô ấy ra ngoài trong thời gian ngắn để nghe điện thoại.",
         "ipa": "/ˈbriːf.li/"
       }
+    ],
+    "synonyms": [
+      "concisely"
     ]
   },
   {
@@ -5132,6 +5543,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "mainly"
     ]
   },
   {
@@ -5156,6 +5570,9 @@
         "exampleVi": "Anh ấy trả lời cộc lốc rồi kết thúc cuộc gọi.",
         "ipa": "/ˈʃɔːt.li/"
       }
+    ],
+    "synonyms": [
+      "soon"
     ]
   },
   {
@@ -5171,6 +5588,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "comparatively"
     ]
   },
   {
@@ -5186,6 +5606,9 @@
       "b2",
       "b2-daily-work",
       "communication"
+    ],
+    "synonyms": [
+      "fundamentally"
     ]
   },
   {
@@ -5201,6 +5624,9 @@
       "b2",
       "b2-daily-work",
       "communication"
+    ],
+    "synonyms": [
+      "at first"
     ]
   },
   {
@@ -5216,6 +5642,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "sometimes"
     ]
   },
   {
@@ -5231,6 +5660,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "afterwards"
     ]
   },
   {
@@ -5246,7 +5678,8 @@
       "b2",
       "b2-daily-work",
       "work"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "fundamentally",
@@ -5261,6 +5694,9 @@
       "b2",
       "b2-daily-work",
       "communication"
+    ],
+    "synonyms": [
+      "basically"
     ]
   },
   {
@@ -5285,6 +5721,9 @@
         "exampleVi": "Cuộc họp bắt đầu đúng chín giờ.",
         "ipa": "/ˈprɒmpt.li/"
       }
+    ],
+    "synonyms": [
+      "swiftly"
     ]
   },
   {
@@ -5309,6 +5748,9 @@
         "exampleVi": "Nhu cầu đã giảm; vì vậy chúng tôi sẽ giảm sản lượng.",
         "ipa": "/əˈkɔː.dɪŋ.li/"
       }
+    ],
+    "synonyms": [
+      "correspondingly"
     ]
   },
   {
@@ -5324,6 +5766,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "individually"
     ]
   },
   {
@@ -5339,6 +5784,9 @@
       "b2",
       "b2-daily-work",
       "communication"
+    ],
+    "synonyms": [
+      "certainly"
     ]
   },
   {
@@ -5354,6 +5802,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "immediately"
     ]
   },
   {
@@ -5378,6 +5829,9 @@
         "exampleVi": "Như một ngoại lệ, văn phòng sẽ mở cửa vào Chủ nhật tuần này.",
         "ipa": "/ɪkˈsep.ʃən.əl.i/"
       }
+    ],
+    "synonyms": [
+      "unusually"
     ]
   },
   {
@@ -5393,6 +5847,9 @@
       "b2",
       "b2-daily-work",
       "communication"
+    ],
+    "synonyms": [
+      "probably"
     ]
   },
   {
@@ -5417,7 +5874,8 @@
         "exampleVi": "Cầu thủ mới có kỹ năng chuyên môn rất tốt.",
         "ipa": "/ˈtek.nɪ.kəl.i/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "relief",
@@ -5464,7 +5922,8 @@
         ],
         "ipa": "/rɪˈliːfs/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "anxiety",
@@ -5488,6 +5947,9 @@
         ],
         "ipa": "/æŋˈzaɪətiz/"
       }
+    ],
+    "synonyms": [
+      "worry"
     ]
   },
   {
@@ -5523,6 +5985,9 @@
         "example": "Gardening is one of her latest enthusiasms.",
         "exampleVi": "Làm vườn là một trong những sở thích mới khiến cô ấy rất hứng thú."
       }
+    ],
+    "synonyms": [
+      "eagerness"
     ]
   },
   {
@@ -5556,7 +6021,8 @@
         ],
         "ipa": "/ˌdɪsəˈpɔɪntmənts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "satisfaction",
@@ -5580,6 +6046,9 @@
         "exampleVi": "Cần thanh toán để hoàn thành nghĩa vụ trả nợ.",
         "ipa": "/ˌsætɪsˈfækʃn/"
       }
+    ],
+    "synonyms": [
+      "contentment"
     ]
   },
   {
@@ -5595,6 +6064,9 @@
       "b2",
       "b2-daily-work",
       "communication"
+    ],
+    "synonyms": [
+      "truthfulness"
     ]
   },
   {
@@ -5610,6 +6082,9 @@
       "b2",
       "b2-daily-work",
       "daily"
+    ],
+    "synonyms": [
+      "bravery"
     ]
   },
   {
@@ -5625,6 +6100,9 @@
       "b2",
       "b2-daily-work",
       "daily"
+    ],
+    "synonyms": [
+      "sagacity"
     ]
   },
   {
@@ -5640,6 +6118,9 @@
       "b2",
       "b2-daily-work",
       "daily"
+    ],
+    "synonyms": [
+      "liberality"
     ]
   },
   {
@@ -5655,6 +6136,9 @@
       "b2",
       "b2-daily-work",
       "communication"
+    ],
+    "synonyms": [
+      "sympathy"
     ]
   },
   {
@@ -5670,6 +6154,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "self-respect"
     ]
   },
   {
@@ -5694,6 +6181,9 @@
         "exampleVi": "Tiếng động lớn khiến anh ấy lại nhận thức được căn phòng xung quanh.",
         "ipa": "/əˈweənəs/"
       }
+    ],
+    "synonyms": [
+      "consciousness"
     ]
   },
   {
@@ -5718,6 +6208,9 @@
         "exampleVi": "Đất nước kỷ niệm nền độc lập của mình hằng năm.",
         "ipa": "/ˌɪndɪˈpendəns/"
       }
+    ],
+    "synonyms": [
+      "autonomy"
     ]
   },
   {
@@ -5751,6 +6244,9 @@
         ],
         "ipa": "/nəˈses.ə.tiz/"
       }
+    ],
+    "synonyms": [
+      "need"
     ]
   },
   {
@@ -5784,7 +6280,8 @@
         ],
         "ipa": "/ɪˌmædʒɪˈneɪʃnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "creativity",
@@ -5799,6 +6296,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "inventiveness"
     ]
   },
   {
@@ -5823,6 +6323,9 @@
         ],
         "ipa": "/treɪts/"
       }
+    ],
+    "synonyms": [
+      "characteristic"
     ]
   },
   {
@@ -5856,6 +6359,9 @@
         ],
         "ipa": "/ˈtendənsiz/"
       }
+    ],
+    "synonyms": [
+      "inclination"
     ]
   },
   {
@@ -5871,7 +6377,8 @@
       "b2",
       "b2-daily-work",
       "technology"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "fame",
@@ -5886,6 +6393,9 @@
       "b2",
       "b2-daily-work",
       "culture"
+    ],
+    "synonyms": [
+      "renown"
     ]
   },
   {
@@ -5919,7 +6429,8 @@
         ],
         "ipa": "/ˈdʒiːniəsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "legend",
@@ -5959,6 +6470,9 @@
         ],
         "ipa": "/ˈledʒəndz/"
       }
+    ],
+    "synonyms": [
+      "myth"
     ]
   },
   {
@@ -5992,6 +6506,9 @@
         ],
         "ipa": "/mɪθs/"
       }
+    ],
+    "synonyms": [
+      "misconception"
     ]
   },
   {
@@ -6016,6 +6533,9 @@
         ],
         "ipa": "/teɪlz/"
       }
+    ],
+    "synonyms": [
+      "story"
     ]
   },
   {
@@ -6049,6 +6569,9 @@
         ],
         "ipa": "/ˈnaɪtmeəz/"
       }
+    ],
+    "synonyms": [
+      "bad dream"
     ]
   },
   {
@@ -6082,6 +6605,9 @@
         ],
         "ipa": "/ɪˈluːʒnz/"
       }
+    ],
+    "synonyms": [
+      "mirage"
     ]
   },
   {
@@ -6097,6 +6623,9 @@
       "b2",
       "b2-daily-work",
       "communication"
+    ],
+    "synonyms": [
+      "hopeful"
     ]
   },
   {
@@ -6121,6 +6650,9 @@
         "exampleVi": "Cô ấy có một bài phát biểu đầy cảm xúc về việc bảo vệ công viên.",
         "ipa": "/ˈpæʃənət/"
       }
+    ],
+    "synonyms": [
+      "enthusiastic"
     ]
   },
   {
@@ -6136,6 +6668,9 @@
       "b2",
       "b2-daily-work",
       "communication"
+    ],
+    "synonyms": [
+      "admiring"
     ]
   },
   {
@@ -6151,6 +6686,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "eager"
     ]
   },
   {
@@ -6166,6 +6704,9 @@
       "b2",
       "b2-daily-work",
       "communication"
+    ],
+    "synonyms": [
+      "content"
     ]
   },
   {
@@ -6181,6 +6722,9 @@
       "b2",
       "b2-daily-work",
       "daily"
+    ],
+    "synonyms": [
+      "stunned"
     ]
   },
   {
@@ -6196,6 +6740,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "startling"
     ]
   },
   {
@@ -6220,6 +6767,9 @@
         "exampleVi": "Nhà máy nằm trong một khu vực kinh tế suy giảm.",
         "ipa": "/dɪˈprest/"
       }
+    ],
+    "synonyms": [
+      "despondent"
     ]
   },
   {
@@ -6244,6 +6794,9 @@
         "exampleVi": "Chi phí cao hơn đang có tác động làm giảm lợi nhuận.",
         "ipa": "/dɪˈpresɪŋ/"
       }
+    ],
+    "synonyms": [
+      "disheartening"
     ]
   },
   {
@@ -6268,6 +6821,9 @@
         "exampleVi": "Chúng tôi gặp thời tiết tồi tệ trong suốt kỳ nghỉ.",
         "ipa": "/ˈmɪzrəbl/"
       }
+    ],
+    "synonyms": [
+      "wretched"
     ]
   },
   {
@@ -6283,6 +6839,9 @@
       "b2",
       "b2-daily-work",
       "daily"
+    ],
+    "synonyms": [
+      "lonesomeness"
     ]
   },
   {
@@ -6298,6 +6857,9 @@
       "b2",
       "b2-daily-work",
       "daily"
+    ],
+    "synonyms": [
+      "captivated"
     ]
   },
   {
@@ -6313,6 +6875,9 @@
       "b2",
       "b2-daily-work",
       "communication"
+    ],
+    "synonyms": [
+      "unconscious"
     ]
   },
   {
@@ -6337,6 +6902,9 @@
         "exampleVi": "Vui lòng viết lại hướng dẫn bằng ngôn ngữ dễ hiểu.",
         "ipa": "/ˌʌndəˈstændəbl/"
       }
+    ],
+    "synonyms": [
+      "comprehensible"
     ]
   },
   {
@@ -6352,6 +6920,9 @@
       "b2",
       "b2-daily-work",
       "health"
+    ],
+    "synonyms": [
+      "damaging"
     ]
   },
   {
@@ -6367,6 +6938,9 @@
       "b2",
       "b2-daily-work",
       "health"
+    ],
+    "synonyms": [
+      "innocuous"
     ]
   },
   {
@@ -6382,6 +6956,9 @@
       "b2",
       "b2-daily-work",
       "communication"
+    ],
+    "synonyms": [
+      "funny"
     ]
   },
   {
@@ -6397,6 +6974,9 @@
       "b2",
       "b2-daily-work",
       "culture"
+    ],
+    "synonyms": [
+      "very funny"
     ]
   },
   {
@@ -6412,6 +6992,9 @@
       "b2",
       "b2-daily-work",
       "communication"
+    ],
+    "synonyms": [
+      "humorous"
     ]
   },
   {
@@ -6427,6 +7010,9 @@
       "b2",
       "b2-daily-work",
       "communication"
+    ],
+    "synonyms": [
+      "amusing"
     ]
   },
   {
@@ -6442,6 +7028,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "pleasant"
     ]
   },
   {
@@ -6457,6 +7046,9 @@
       "b2",
       "b2-daily-work",
       "daily"
+    ],
+    "synonyms": [
+      "unforgettable"
     ]
   },
   {
@@ -6472,6 +7064,9 @@
       "b2",
       "b2-daily-work",
       "travel"
+    ],
+    "synonyms": [
+      "beautiful"
     ]
   },
   {
@@ -6496,6 +7091,9 @@
         "exampleVi": "Kỹ sư tìm ra một giải pháp gọn và hiệu quả cho vấn đề.",
         "ipa": "/ˈelɪɡənt/"
       }
+    ],
+    "synonyms": [
+      "graceful"
     ]
   },
   {
@@ -6511,6 +7109,9 @@
       "b2",
       "b2-daily-work",
       "travel"
+    ],
+    "synonyms": [
+      "lavish"
     ]
   },
   {
@@ -6526,6 +7127,9 @@
       "b2",
       "b2-daily-work",
       "culture"
+    ],
+    "synonyms": [
+      "splendid"
     ]
   },
   {
@@ -6550,6 +7154,9 @@
         "exampleVi": "Hội đồng triệu tập một cuộc họp đặc biệt ngoài lịch thường kỳ.",
         "ipa": "/ɪkˈstrɔːdnri/"
       }
+    ],
+    "synonyms": [
+      "remarkable"
     ]
   },
   {
@@ -6565,6 +7172,9 @@
       "b2",
       "b2-daily-work",
       "daily"
+    ],
+    "synonyms": [
+      "excellent"
     ]
   },
   {
@@ -6589,7 +7199,8 @@
         "exampleVi": "Những bông hoa tạo thành một cách trưng bày đẹp mắt ở lối vào.",
         "ipa": "/ɑːˈtɪstɪk/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "decorative",
@@ -6604,6 +7215,9 @@
       "b2",
       "b2-daily-work",
       "daily"
+    ],
+    "synonyms": [
+      "ornamental"
     ]
   },
   {
@@ -6635,6 +7249,9 @@
         "exampleVi": "Tờ báo thường ủng hộ các chính sách bảo thủ.",
         "ipa": "/kənˈsɜːvətɪv/"
       }
+    ],
+    "synonyms": [
+      "traditional"
     ]
   },
   {
@@ -6659,6 +7276,9 @@
         "exampleVi": "Một bữa ăn cân đối gồm nhiều loại thực phẩm.",
         "ipa": "/ˈbælənst/"
       }
+    ],
+    "synonyms": [
+      "even-handed"
     ]
   },
   {
@@ -6674,6 +7294,9 @@
       "b2",
       "b2-daily-work",
       "communication"
+    ],
+    "synonyms": [
+      "thorough"
     ]
   },
   {
@@ -6689,6 +7312,9 @@
       "b2",
       "b2-daily-work",
       "communication"
+    ],
+    "synonyms": [
+      "persuasive"
     ]
   },
   {
@@ -6704,6 +7330,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "wrong"
     ]
   },
   {
@@ -6728,6 +7357,9 @@
         "exampleVi": "Hãy hỏi về các phí ẩn trước khi ký hợp đồng.",
         "ipa": "/ˈhɪdən/"
       }
+    ],
+    "synonyms": [
+      "concealed"
     ]
   },
   {
@@ -6743,6 +7375,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "unanticipated"
     ]
   },
   {
@@ -6767,6 +7402,9 @@
         "exampleVi": "Cô ấy đặt một câu hỏi sắc bén về việc lỡ hạn chót.",
         "ipa": "/ˈpɔɪntɪd/"
       }
+    ],
+    "synonyms": [
+      "sharp"
     ]
   },
   {
@@ -6798,6 +7436,9 @@
         "exampleVi": "Lời chào của anh ấy nghe cứng nhắc và không thân thiện.",
         "ipa": "/stɪf/"
       }
+    ],
+    "synonyms": [
+      "rigid"
     ]
   },
   {
@@ -6813,6 +7454,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "many"
     ]
   },
   {
@@ -6828,6 +7472,9 @@
       "b2",
       "b2-daily-work",
       "technology"
+    ],
+    "synonyms": [
+      "immense"
     ]
   },
   {
@@ -6899,6 +7546,9 @@
         ],
         "ipa": "/baʊndɪd/"
       }
+    ],
+    "synonyms": [
+      "certain"
     ]
   },
   {
@@ -6923,6 +7573,9 @@
         "exampleVi": "Tìm được tệp ấy hoàn toàn là do may mắn.",
         "ipa": "/pjʊə/"
       }
+    ],
+    "synonyms": [
+      "unadulterated"
     ]
   },
   {
@@ -6938,6 +7591,9 @@
       "b2",
       "b2-daily-work",
       "daily"
+    ],
+    "synonyms": [
+      "enigmatic"
     ]
   },
   {
@@ -6953,6 +7609,9 @@
       "b2",
       "b2-daily-work",
       "technology"
+    ],
+    "synonyms": [
+      "unseen"
     ]
   },
   {
@@ -6968,6 +7627,9 @@
       "b2",
       "b2-daily-work",
       "travel"
+    ],
+    "synonyms": [
+      "adjacent"
     ]
   },
   {
@@ -6992,7 +7654,8 @@
         ],
         "ipa": "/ˌænɪˈvɜːsəriz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "lifetime",
@@ -7025,7 +7688,8 @@
         ],
         "ipa": "/ˈlaɪftaɪmz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "era",
@@ -7049,6 +7713,9 @@
         ],
         "ipa": "/ˈɪərəz/"
       }
+    ],
+    "synonyms": [
+      "age"
     ]
   },
   {
@@ -7082,6 +7749,9 @@
         ],
         "ipa": "/ˈrɪðəmz/"
       }
+    ],
+    "synonyms": [
+      "beat"
     ]
   },
   {
@@ -7106,6 +7776,9 @@
         ],
         "ipa": "/ˈmelədiz/"
       }
+    ],
+    "synonyms": [
+      "tune"
     ]
   },
   {
@@ -7139,6 +7812,9 @@
         ],
         "ipa": "/ˈɑːtwɜːks/"
       }
+    ],
+    "synonyms": [
+      "work of art"
     ]
   },
   {
@@ -7163,7 +7839,8 @@
         ],
         "ipa": "/ˈmɑːstəpiːsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "novelty",
@@ -7196,7 +7873,8 @@
         ],
         "ipa": "/ˈnɒv.əl.tiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "gaming",
@@ -7220,7 +7898,8 @@
         "exampleVi": "Luật đặt ra quy định cho ngành kinh doanh cờ bạc.",
         "ipa": "/ˈɡeɪmɪŋ/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "publishing",
@@ -7244,7 +7923,8 @@
         "exampleVi": "Nhóm phụ trách việc đưa nội dung lên trang web của công ty.",
         "ipa": "/ˈpʌblɪʃɪŋ/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "edition",
@@ -7277,6 +7957,9 @@
         ],
         "ipa": "/ɪˈdɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "issue"
     ]
   },
   {
@@ -7310,6 +7993,9 @@
         ],
         "ipa": "/rɪˈvɪʒnz/"
       }
+    ],
+    "synonyms": [
+      "amendment"
     ]
   },
   {
@@ -7350,6 +8036,9 @@
         ],
         "ipa": "/ˌdemənˈstreɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "demo"
     ]
   },
   {
@@ -7383,6 +8072,9 @@
         ],
         "ipa": "/ɪnˌvestɪˈɡeɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "inquiry"
     ]
   },
   {
@@ -7407,6 +8099,9 @@
         ],
         "ipa": "/ɪnˈspektəz/"
       }
+    ],
+    "synonyms": [
+      "examiner"
     ]
   },
   {
@@ -7440,7 +8135,8 @@
         ],
         "ipa": "/kəˈlektəz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "specialist",
@@ -7473,6 +8169,9 @@
         ],
         "ipa": "/ˈspeʃəlɪsts/"
       }
+    ],
+    "synonyms": [
+      "expert"
     ]
   },
   {
@@ -7497,6 +8196,9 @@
         ],
         "ipa": "/ˈɒbstəklz/"
       }
+    ],
+    "synonyms": [
+      "barrier"
     ]
   },
   {
@@ -7530,6 +8232,9 @@
         ],
         "ipa": "/ˈsetbæks/"
       }
+    ],
+    "synonyms": [
+      "reversal"
     ]
   },
   {
@@ -7554,6 +8259,9 @@
         ],
         "ipa": "/ˌprɒb.əˈbɪl.ə.tiz/"
       }
+    ],
+    "synonyms": [
+      "likelihood"
     ]
   },
   {
@@ -7587,6 +8295,9 @@
         ],
         "ipa": "/əˈkʌrənsɪz/"
       }
+    ],
+    "synonyms": [
+      "event"
     ]
   },
   {
@@ -7611,6 +8322,9 @@
         "exampleVi": "Tôi không hiểu ý nghĩa cử chỉ của anh ấy.",
         "ipa": "/sɪɡˈnɪfɪkəns/"
       }
+    ],
+    "synonyms": [
+      "importance"
     ]
   },
   {
@@ -7635,7 +8349,8 @@
         ],
         "ipa": "/ˈnɒvəlɪsts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "composer",
@@ -7659,7 +8374,8 @@
         ],
         "ipa": "/kəmˈpəʊzəz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "critic",
@@ -7692,7 +8408,8 @@
         ],
         "ipa": "/ˈkrɪtɪks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "healthcare",
@@ -7707,6 +8424,9 @@
       "b2",
       "b2-daily-work",
       "health"
+    ],
+    "synonyms": [
+      "medical care"
     ]
   },
   {
@@ -7740,7 +8460,8 @@
         ],
         "ipa": "/ˈklɪnɪks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "medication",
@@ -7773,6 +8494,9 @@
         ],
         "ipa": "/ˌmedɪˈkeɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "medicine"
     ]
   },
   {
@@ -7806,6 +8530,9 @@
         ],
         "ipa": "/pɪlz/"
       }
+    ],
+    "synonyms": [
+      "tablet"
     ]
   },
   {
@@ -7856,7 +8583,8 @@
         ],
         "ipa": "/dəʊst/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "vitamin",
@@ -7880,7 +8608,8 @@
         ],
         "ipa": "/ˈvɪtəmɪnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "protein",
@@ -7904,7 +8633,8 @@
         ],
         "ipa": "/ˈprəʊtiːnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "mineral",
@@ -7937,7 +8667,8 @@
         ],
         "ipa": "/ˈmɪnərəlz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "infection",
@@ -7970,7 +8701,8 @@
         ],
         "ipa": "/ɪnˈfekʃnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "bacterium",
@@ -7996,7 +8728,8 @@
         "example": "Wash your hands to remove harmful bacteria.",
         "exampleVi": "Hãy rửa tay để loại bỏ vi khuẩn có hại."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "fever",
@@ -8029,7 +8762,8 @@
         ],
         "ipa": "/ˈfiːvəz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cough",
@@ -8079,7 +8813,8 @@
         ],
         "ipa": "/kɒft/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "disorder",
@@ -8112,6 +8847,9 @@
         ],
         "ipa": "/dɪsˈɔːdəz/"
       }
+    ],
+    "synonyms": [
+      "ailment"
     ]
   },
   {
@@ -8136,7 +8874,8 @@
         ],
         "ipa": "/ˈθerəpɪsts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "psychologist",
@@ -8160,7 +8899,8 @@
         ],
         "ipa": "/saɪˈkɒlədʒɪsts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "surgeon",
@@ -8184,7 +8924,8 @@
         ],
         "ipa": "/ˈsɜːdʒənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "physician",
@@ -8208,6 +8949,9 @@
         ],
         "ipa": "/fɪˈzɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "doctor"
     ]
   },
   {
@@ -8232,7 +8976,8 @@
         ],
         "ipa": "/ˈæmbjələnsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "disability",
@@ -8256,7 +9001,8 @@
         ],
         "ipa": "/ˌdɪsəˈbɪlətiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "disabled",
@@ -8280,7 +9026,8 @@
         "exampleVi": "Tài khoản vẫn bị vô hiệu hóa cho đến khi các bước kiểm tra hoàn tất.",
         "ipa": "/dɪsˈeɪbld/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "pregnant",
@@ -8304,7 +9051,8 @@
         "exampleVi": "Có một khoảng im lặng đầy hàm ý trước khi cô ấy trả lời.",
         "ipa": "/ˈpreɡnənt/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "breast",
@@ -8337,7 +9085,8 @@
         ],
         "ipa": "/brests/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "tissue",
@@ -8370,6 +9119,9 @@
         ],
         "ipa": "/ˈtɪʃ.uːz/"
       }
+    ],
+    "synonyms": [
+      "paper tissue"
     ]
   },
   {
@@ -8403,7 +9155,8 @@
         ],
         "ipa": "/ˈɔːɡənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "lung",
@@ -8427,7 +9180,8 @@
         ],
         "ipa": "/lʌŋz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "wrist",
@@ -8451,7 +9205,8 @@
         ],
         "ipa": "/rɪsts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "elbow",
@@ -8475,7 +9230,8 @@
         ],
         "ipa": "/ˈelbəʊz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "waist",
@@ -8499,7 +9255,8 @@
         ],
         "ipa": "/weɪsts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "thigh",
@@ -8523,7 +9280,8 @@
         ],
         "ipa": "/θaɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "hearing",
@@ -8556,7 +9314,8 @@
         ],
         "ipa": "/ˈhɪərɪŋz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "consciousness",
@@ -8580,6 +9339,9 @@
         "exampleVi": "Chiến dịch nâng cao nhận thức cộng đồng về lãng phí thực phẩm.",
         "ipa": "/ˈkɒnʃəsnəs/"
       }
+    ],
+    "synonyms": [
+      "awareness"
     ]
   },
   {
@@ -8604,7 +9366,8 @@
         "exampleVi": "Cô ấy có niềm khao khát học các kỹ năng mới.",
         "ipa": "/ˈhʌŋɡə/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "oxygen",
@@ -8619,7 +9382,8 @@
       "b2",
       "b2-daily-work",
       "health"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "donation",
@@ -8652,6 +9416,9 @@
         ],
         "ipa": "/dəʊˈneɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "contribution"
     ]
   },
   {
@@ -8692,7 +9459,8 @@
         ],
         "ipa": "/ˈdeəriz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "wheat",
@@ -8707,7 +9475,8 @@
       "b2",
       "b2-daily-work",
       "daily"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "olive",
@@ -8740,7 +9509,8 @@
         ],
         "ipa": "/ˈɒl.ɪvz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "berry",
@@ -8764,7 +9534,8 @@
         ],
         "ipa": "/ˈberiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "roast",
@@ -8828,6 +9599,9 @@
         ],
         "ipa": "/rəʊstɪd/"
       }
+    ],
+    "synonyms": [
+      "roasted"
     ]
   },
   {
@@ -8852,7 +9626,8 @@
         "exampleVi": "Anh ấy vẫn cay cú vì thua trò chơi.",
         "ipa": "/ˈsɒl.ti/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cocoa",
@@ -8867,7 +9642,8 @@
       "b2",
       "b2-daily-work",
       "daily"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cocktail",
@@ -8900,7 +9676,8 @@
         ],
         "ipa": "/ˈkɒkteɪlz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "aircraft",
@@ -8924,7 +9701,8 @@
         ],
         "ipa": "/ˈeəkrɑːft/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "helmet",
@@ -8948,7 +9726,8 @@
         ],
         "ipa": "/ˈhelmɪts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "zone",
@@ -8998,6 +9777,9 @@
         ],
         "ipa": "/zəʊnd/"
       }
+    ],
+    "synonyms": [
+      "area"
     ]
   },
   {
@@ -9013,7 +9795,8 @@
       "b2",
       "b2-daily-work",
       "travel"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "rural",
@@ -9028,6 +9811,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "country"
     ]
   },
   {
@@ -9052,6 +9838,9 @@
         ],
         "ipa": "/ˈkəʊstlaɪnz/"
       }
+    ],
+    "synonyms": [
+      "shoreline"
     ]
   },
   {
@@ -9076,7 +9865,8 @@
         ],
         "ipa": "/klɪfs/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "rocky",
@@ -9100,7 +9890,8 @@
         "exampleVi": "Công việc kinh doanh của họ có khởi đầu khó khăn nhưng sau đó cải thiện.",
         "ipa": "/ˈrɒk.i/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "tropical",
@@ -9115,7 +9906,8 @@
       "b2",
       "b2-daily-work",
       "travel"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "daytime",
@@ -9130,7 +9922,8 @@
       "b2",
       "b2-daily-work",
       "daily"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "darkness",
@@ -9145,6 +9938,9 @@
       "b2",
       "b2-daily-work",
       "daily"
+    ],
+    "synonyms": [
+      "dark"
     ]
   },
   {
@@ -9169,7 +9965,8 @@
         ],
         "ipa": "/ˈreɪn.bəʊz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "territory",
@@ -9202,7 +9999,8 @@
         ],
         "ipa": "/ˈterətriz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "nationwide",
@@ -9226,6 +10024,9 @@
         "exampleVi": "Công ty triển khai một chiến dịch trên toàn quốc.",
         "ipa": "/ˌneɪʃnˈwaɪd/"
       }
+    ],
+    "synonyms": [
+      "countrywide"
     ]
   },
   {
@@ -9250,7 +10051,8 @@
         ],
         "ipa": "/ˈkaʊn.tiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "citizen",
@@ -9274,7 +10076,8 @@
         ],
         "ipa": "/ˈsɪtɪznz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "freedom",
@@ -9307,6 +10110,9 @@
         ],
         "ipa": "/ˈfriːdəmz/"
       }
+    ],
+    "synonyms": [
+      "liberty"
     ]
   },
   {
@@ -9338,6 +10144,9 @@
         "exampleVi": "Huấn luyện viên nghiên cứu đối thủ trước trận đấu.",
         "ipa": "/ˌɒpəˈzɪʃn/"
       }
+    ],
+    "synonyms": [
+      "resistance"
     ]
   },
   {
@@ -9362,6 +10171,9 @@
         "exampleVi": "Chúng ta cần một giải pháp thực tế thay vì một cuộc thảo luận khác.",
         "ipa": "/əˈpəʊzd/"
       }
+    ],
+    "synonyms": [
+      "against"
     ]
   },
   {
@@ -9377,6 +10189,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "contentious"
     ]
   },
   {
@@ -9434,7 +10249,8 @@
         ],
         "ipa": "/rɪˈfɔːmd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "crisis",
@@ -9458,6 +10274,9 @@
         ],
         "ipa": "/ˈkraɪsiːz/"
       }
+    ],
+    "synonyms": [
+      "emergency"
     ]
   },
   {
@@ -9491,6 +10310,9 @@
         ],
         "ipa": "/ˈskændlz/"
       }
+    ],
+    "synonyms": [
+      "disgrace"
     ]
   },
   {
@@ -9515,6 +10337,9 @@
         ],
         "ipa": "/ˈlɔːsuːts/"
       }
+    ],
+    "synonyms": [
+      "civil action"
     ]
   },
   {
@@ -9539,6 +10364,9 @@
         "exampleVi": "Ủy ban chịu trách nhiệm về việc ban hành luật an toàn nơi làm việc.",
         "ipa": "/ˌledʒɪsˈleɪʃn/"
       }
+    ],
+    "synonyms": [
+      "laws"
     ]
   },
   {
@@ -9589,6 +10417,9 @@
         ],
         "ipa": "/ˈprɪvəlɪdʒd/"
       }
+    ],
+    "synonyms": [
+      "prerogative"
     ]
   },
   {
@@ -9613,7 +10444,8 @@
         "exampleVi": "Tiền thuê nhà của chúng tôi được trả mỗi tháng một lần.",
         "ipa": "/ˈmʌnθ.li/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "faith",
@@ -9648,6 +10480,9 @@
         "example": "People of different faiths work together here.",
         "exampleVi": "Những người có tín ngưỡng khác nhau cùng làm việc ở đây."
       }
+    ],
+    "synonyms": [
+      "belief"
     ]
   },
   {
@@ -9681,6 +10516,9 @@
         ],
         "ipa": "/ɪɡˈzɪstənsɪz/"
       }
+    ],
+    "synonyms": [
+      "being"
     ]
   },
   {
@@ -9705,6 +10543,9 @@
         "exampleVi": "Bảo tàng có triển lãm về quá trình tiến hóa của loài người.",
         "ipa": "/ˌiː.vəˈluː.ʃən/"
       }
+    ],
+    "synonyms": [
+      "development"
     ]
   },
   {
@@ -9720,6 +10561,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "farming"
     ]
   },
   {
@@ -9775,6 +10619,9 @@
         ],
         "ipa": "/ˈswɔɹn/"
       }
+    ],
+    "synonyms": [
+      "vow"
     ]
   },
   {
@@ -9808,7 +10655,8 @@
         ],
         "ipa": "/ˈmetəfəz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "tone",
@@ -9872,6 +10720,9 @@
         ],
         "ipa": "/təʊnd/"
       }
+    ],
+    "synonyms": [
+      "tenor"
     ]
   },
   {
@@ -9937,6 +10788,9 @@
         ],
         "ipa": "/kjuːd/"
       }
+    ],
+    "synonyms": [
+      "signal"
     ]
   },
   {
@@ -9961,6 +10815,9 @@
         ],
         "ipa": "/ˈsləʊɡənz/"
       }
+    ],
+    "synonyms": [
+      "catchphrase"
     ]
   },
   {
@@ -9994,6 +10851,9 @@
         ],
         "ipa": "/bædʒɪz/"
       }
+    ],
+    "synonyms": [
+      "identification badge"
     ]
   },
   {
@@ -10044,6 +10904,9 @@
         ],
         "ipa": "/ˈspɒnsəd/"
       }
+    ],
+    "synonyms": [
+      "fund"
     ]
   },
   {
@@ -10102,6 +10965,9 @@
         ],
         "ipa": "/ˈbrɔːdkɑːstɪd/"
       }
+    ],
+    "synonyms": [
+      "transmit"
     ]
   },
   {
@@ -10126,7 +10992,8 @@
         ],
         "ipa": "/ˈbrɔːdkɑːstəz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "journalism",
@@ -10141,7 +11008,8 @@
       "b2",
       "b2-daily-work",
       "communication"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "session",
@@ -10174,7 +11042,8 @@
         ],
         "ipa": "/ˈseʃnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "marathon",
@@ -10207,7 +11076,8 @@
         ],
         "ipa": "/ˈmærəθənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "gig",
@@ -10240,6 +11110,9 @@
         ],
         "ipa": "/ɡɪɡz/"
       }
+    ],
+    "synonyms": [
+      "performance"
     ]
   },
   {
@@ -10273,6 +11146,9 @@
         ],
         "ipa": "/ˈkwaɪəz/"
       }
+    ],
+    "synonyms": [
+      "chorus"
     ]
   },
   {
@@ -10297,7 +11173,8 @@
         ],
         "ipa": "/ˈɔː.kɪ.strəz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "ballet",
@@ -10321,7 +11198,8 @@
         ],
         "ipa": "/ˈbæleɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "opera",
@@ -10345,7 +11223,8 @@
         ],
         "ipa": "/ˈɒp.ər.əz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "fantasy",
@@ -10378,6 +11257,9 @@
         ],
         "ipa": "/ˈfæntəsiz/"
       }
+    ],
+    "synonyms": [
+      "daydream"
     ]
   },
   {
@@ -10418,7 +11300,8 @@
         ],
         "ipa": "/ˈlɒtəriz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "shock",
@@ -10482,6 +11365,9 @@
         ],
         "ipa": "/ʃɒkt/"
       }
+    ],
+    "synonyms": [
+      "surprise"
     ]
   },
   {
@@ -10539,6 +11425,9 @@
         ],
         "ipa": "/stɔːld/"
       }
+    ],
+    "synonyms": [
+      "booth"
     ]
   },
   {
@@ -10589,6 +11478,9 @@
         ],
         "ipa": "/bʌntʃt/"
       }
+    ],
+    "synonyms": [
+      "cluster"
     ]
   },
   {
@@ -10624,7 +11516,8 @@
         "example": "We received dozens of applications for the role.",
         "exampleVi": "Chúng tôi nhận được hàng chục đơn ứng tuyển cho vị trí."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "litre",
@@ -10648,6 +11541,9 @@
         ],
         "ipa": "/ˈliːtəz/"
       }
+    ],
+    "synonyms": [
+      "liter"
     ]
   },
   {
@@ -10681,7 +11577,8 @@
         ],
         "ipa": "/tʌnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "reckon",
@@ -10730,6 +11627,9 @@
         ],
         "ipa": "/ˈrekənd/"
       }
+    ],
+    "synonyms": [
+      "suppose"
     ]
   },
   {
@@ -10779,6 +11679,9 @@
         ],
         "ipa": "/kənˈfest/"
       }
+    ],
+    "synonyms": [
+      "admit"
     ]
   },
   {
@@ -10834,6 +11737,9 @@
         ],
         "ipa": "/fɝˈɡɪvən/, /fɔɹˈɡɪvən/"
       }
+    ],
+    "synonyms": [
+      "pardon"
     ]
   },
   {
@@ -10883,6 +11789,9 @@
         ],
         "ipa": "/əˈdɒptɪd/"
       }
+    ],
+    "synonyms": [
+      "take up"
     ]
   },
   {
@@ -10923,6 +11832,9 @@
         ],
         "ipa": "/juːˈnaɪtɪd/"
       }
+    ],
+    "synonyms": [
+      "join"
     ]
   },
   {
@@ -10972,6 +11884,9 @@
         ],
         "ipa": "/ɹiˈbɪɫt/"
       }
+    ],
+    "synonyms": [
+      "reconstruct"
     ]
   },
   {
@@ -11021,6 +11936,9 @@
         ],
         "ipa": "/ˈwɒndəd/"
       }
+    ],
+    "synonyms": [
+      "roam"
     ]
   },
   {
@@ -11070,6 +11988,9 @@
         ],
         "ipa": "/rəʊmd/"
       }
+    ],
+    "synonyms": [
+      "wander"
     ]
   },
   {
@@ -11110,6 +12031,9 @@
         ],
         "ipa": "/əˈweɪtɪd/"
       }
+    ],
+    "synonyms": [
+      "wait for"
     ]
   },
   {
@@ -11159,6 +12083,9 @@
         ],
         "ipa": "/rɪˈtriːvd/"
       }
+    ],
+    "synonyms": [
+      "recover"
     ]
   },
   {
@@ -11208,6 +12135,9 @@
         ],
         "ipa": "/rɪˈvaɪvd/"
       }
+    ],
+    "synonyms": [
+      "resuscitate"
     ]
   },
   {
@@ -11257,6 +12187,9 @@
         ],
         "ipa": "/kənˈsiːld/"
       }
+    ],
+    "synonyms": [
+      "hide"
     ]
   },
   {
@@ -11306,6 +12239,9 @@
         ],
         "ipa": "/dɪˈsendɪd/"
       }
+    ],
+    "synonyms": [
+      "go down"
     ]
   },
   {
@@ -11378,7 +12314,8 @@
         ],
         "ipa": "/ˈspɪɫt/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "stare",
@@ -11428,6 +12365,9 @@
         ],
         "ipa": "/steəd/"
       }
+    ],
+    "synonyms": [
+      "gaze"
     ]
   },
   {
@@ -11478,6 +12418,9 @@
         ],
         "ipa": "/ɡeɪzd/"
       }
+    ],
+    "synonyms": [
+      "stare"
     ]
   },
   {
@@ -11542,6 +12485,9 @@
         ],
         "ipa": "/pʌntʃt/"
       }
+    ],
+    "synonyms": [
+      "hit"
     ]
   },
   {
@@ -11613,6 +12559,9 @@
         ],
         "ipa": "/ˈspən/"
       }
+    ],
+    "synonyms": [
+      "rotate"
     ]
   },
   {
@@ -11663,6 +12612,9 @@
         ],
         "ipa": "/dɪˈzaɪəd/"
       }
+    ],
+    "synonyms": [
+      "wish"
     ]
   },
   {
@@ -11713,6 +12665,9 @@
         ],
         "ipa": "/ˈtjuːtəd/"
       }
+    ],
+    "synonyms": [
+      "private teacher"
     ]
   },
   {
@@ -11753,7 +12708,8 @@
         ],
         "ipa": "/juːˈtɪlətiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "gear",
@@ -11810,6 +12766,9 @@
         ],
         "ipa": "/ɡɪəd/"
       }
+    ],
+    "synonyms": [
+      "equipment"
     ]
   },
   {
@@ -11860,7 +12819,8 @@
         ],
         "ipa": "/daɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "scent",
@@ -11917,6 +12877,9 @@
         ],
         "ipa": "/sentɪd/"
       }
+    ],
+    "synonyms": [
+      "fragrance"
     ]
   },
   {
@@ -11957,7 +12920,8 @@
         ],
         "ipa": "/bleɪdz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "nursery",
@@ -11997,6 +12961,9 @@
         ],
         "ipa": "/ˈnɜːsəriz/"
       }
+    ],
+    "synonyms": [
+      "day nursery"
     ]
   },
   {
@@ -12030,7 +12997,8 @@
         ],
         "ipa": "/ɪnˈtɜːprɪtəz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "messenger",
@@ -12063,6 +13031,9 @@
         ],
         "ipa": "/ˈmesɪndʒəz/"
       }
+    ],
+    "synonyms": [
+      "courier"
     ]
   },
   {
@@ -12087,7 +13058,8 @@
         ],
         "ipa": "/ˈbæŋkəz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "trader",
@@ -12111,6 +13083,9 @@
         ],
         "ipa": "/ˈtreɪdəz/"
       }
+    ],
+    "synonyms": [
+      "merchant"
     ]
   },
   {
@@ -12144,7 +13119,8 @@
         ],
         "ipa": "/ˈrɔɪəltiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "specialty",
@@ -12177,6 +13153,9 @@
         ],
         "ipa": "/ˈspeʃ.əl.tiz/"
       }
+    ],
+    "synonyms": [
+      "speciality"
     ]
   },
   {
@@ -12210,6 +13189,9 @@
         ],
         "ipa": "/ˈɡeɪtweɪz/"
       }
+    ],
+    "synonyms": [
+      "entrance"
     ]
   },
   {
@@ -12267,7 +13249,8 @@
         ],
         "ipa": "/ˈʃəʊ.keɪst/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "dilemma",
@@ -12291,6 +13274,9 @@
         ],
         "ipa": "/dɪˈleməz/"
       }
+    ],
+    "synonyms": [
+      "predicament"
     ]
   },
   {
@@ -12315,6 +13301,9 @@
         "exampleVi": "Công ty bán ô tô cao cấp.",
         "ipa": "/presˈtiːʒ/"
       }
+    ],
+    "synonyms": [
+      "status"
     ]
   },
   {
@@ -12330,7 +13319,8 @@
       "b2",
       "b2-daily-work",
       "work"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "lengthy",
@@ -12345,6 +13335,9 @@
       "b2",
       "b2-daily-work",
       "communication"
+    ],
+    "synonyms": [
+      "long"
     ]
   },
   {
@@ -12369,6 +13362,9 @@
         "exampleVi": "Anh ấy mê kiểm tra tin nhắn đến mức khó dừng lại.",
         "ipa": "/əˈdɪktɪd/"
       }
+    ],
+    "synonyms": [
+      "dependent"
     ]
   },
   {
@@ -12384,6 +13380,9 @@
       "b2",
       "b2-daily-work",
       "daily"
+    ],
+    "synonyms": [
+      "drenched"
     ]
   },
   {
@@ -12408,6 +13407,10 @@
         "exampleVi": "Đề xuất từng bị từ bỏ sẽ được xem xét lại vào năm tới.",
         "ipa": "/əˈbændənd/"
       }
+    ],
+    "synonyms": [
+      "deserted",
+      "disused"
     ]
   },
   {
@@ -12423,6 +13426,9 @@
       "b2",
       "b2-daily-work",
       "communication"
+    ],
+    "synonyms": [
+      "strange"
     ]
   },
   {
@@ -12454,6 +13460,9 @@
         "exampleVi": "Gọi ai đó là chậm hiểu sẽ không giúp họ học được.",
         "ipa": "/dens/"
       }
+    ],
+    "synonyms": [
+      "thick"
     ]
   },
   {
@@ -12478,6 +13487,9 @@
         "exampleVi": "Cô ấy cảm thấy thôi thúc bật cười đến mức không thể cưỡng lại.",
         "ipa": "/ˌɪrɪˈzɪstəbl/"
       }
+    ],
+    "synonyms": [
+      "compelling"
     ]
   },
   {
@@ -12502,6 +13514,9 @@
         "exampleVi": "Thực đơn có những cách kết hợp hương vị mới lạ.",
         "ipa": "/ədˈventʃərəs/"
       }
+    ],
+    "synonyms": [
+      "venturesome"
     ]
   },
   {
@@ -12535,6 +13550,9 @@
         ],
         "ipa": "/ˈkriːtʃəz/"
       }
+    ],
+    "synonyms": [
+      "animal"
     ]
   },
   {
@@ -12568,7 +13586,8 @@
         ],
         "ipa": "/lenzɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "parallel",
@@ -12641,7 +13660,8 @@
         ],
         "ipa": "/ˈpærəleld/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "fake",
@@ -12705,6 +13725,9 @@
         ],
         "ipa": "/feɪkt/"
       }
+    ],
+    "synonyms": [
+      "counterfeit"
     ]
   },
   {
@@ -12769,6 +13792,9 @@
         ],
         "ipa": "/bʌɡd/"
       }
+    ],
+    "synonyms": [
+      "insect"
     ]
   },
   {
@@ -12826,6 +13852,9 @@
         ],
         "ipa": "/træpt/"
       }
+    ],
+    "synonyms": [
+      "ensnare"
     ]
   },
   {
@@ -12880,6 +13909,9 @@
         ],
         "ipa": "/ʃɒts/"
       }
+    ],
+    "synonyms": [
+      "photo"
     ]
   },
   {
@@ -12913,7 +13945,8 @@
         ],
         "ipa": "/ˈærəʊz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "acid",
@@ -12953,7 +13986,8 @@
         ],
         "ipa": "/ˈæsɪdz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "copper",
@@ -12986,7 +14020,8 @@
         ],
         "ipa": "/ˈkɒpəz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "reproduction",
@@ -13019,6 +14054,9 @@
         ],
         "ipa": "/ˌriːprəˈdʌkʃnz/"
       }
+    ],
+    "synonyms": [
+      "replica"
     ]
   },
   {
@@ -13034,6 +14072,9 @@
       "b2",
       "b2-daily-work",
       "communication"
+    ],
+    "synonyms": [
+      "genuineness"
     ]
   },
   {
@@ -13049,7 +14090,8 @@
       "b2",
       "b2-daily-work",
       "work"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "grief",
@@ -13073,6 +14115,9 @@
         "exampleVi": "Chiếc máy in cũ gây rắc rối cho chúng tôi mỗi sáng.",
         "ipa": "/ɡriːf/"
       }
+    ],
+    "synonyms": [
+      "sorrow"
     ]
   },
   {
@@ -13097,6 +14142,9 @@
         "exampleVi": "Họ cố hết sức tìm chùm chìa khóa bị mất.",
         "ipa": "/ˈdes.pər.ət.li/"
       }
+    ],
+    "synonyms": [
+      "frantically"
     ]
   },
   {
@@ -13112,6 +14160,9 @@
       "b2",
       "b2-daily-work",
       "technology"
+    ],
+    "synonyms": [
+      "strikingly"
     ]
   },
   {
@@ -13127,6 +14178,9 @@
       "b2",
       "b2-daily-work",
       "communication"
+    ],
+    "synonyms": [
+      "eventually"
     ]
   },
   {
@@ -13151,6 +14205,9 @@
         "exampleVi": "Chúng ta nên trao đổi thẳng thắn về những lo ngại.",
         "ipa": "/ˈəʊ.pən.li/"
       }
+    ],
+    "synonyms": [
+      "publicly"
     ]
   },
   {
@@ -13166,6 +14223,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "for the time being"
     ]
   },
   {
@@ -13181,6 +14241,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "adequately"
     ]
   },
   {
@@ -13205,6 +14268,9 @@
         "exampleVi": "Anh ấy dừng lại đầy kịch tính trước khi công bố người thắng.",
         "ipa": "/drəˈmæt.ɪ.kəl.i/"
       }
+    ],
+    "synonyms": [
+      "sharply"
     ]
   },
   {
@@ -13220,6 +14286,9 @@
       "b2",
       "b2-daily-work",
       "daily"
+    ],
+    "synonyms": [
+      "previously"
     ]
   },
   {
@@ -13251,6 +14320,9 @@
         "exampleVi": "Cô ấy nói với thái độ chê trách về dịch vụ khách hàng kém.",
         "ipa": "/ˈkrɪt.ɪ.kəl.i/"
       }
+    ],
+    "synonyms": [
+      "crucially"
     ]
   },
   {
@@ -13275,7 +14347,8 @@
         "exampleVi": "Đứa trẻ nhìn món quà chưa mở với vẻ hy vọng.",
         "ipa": "/ˈhəʊp.fəl.i/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "deeply",
@@ -13299,6 +14372,9 @@
         "exampleVi": "Hãy cắm cọc sâu vào đất.",
         "ipa": "/ˈdiːp.li/"
       }
+    ],
+    "synonyms": [
+      "profoundly"
     ]
   },
   {
@@ -13323,7 +14399,8 @@
         "exampleVi": "Cô ấy nói đầy xúc động về đồng nghiệp cũ.",
         "ipa": "/ɪˈməʊ.ʃən.əl.i/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "fully",
@@ -13347,6 +14424,9 @@
         "exampleVi": "Có đến một nửa nhóm làm tại nhà vào thứ Sáu.",
         "ipa": "/ˈfʊl.i/"
       }
+    ],
+    "synonyms": [
+      "completely"
     ]
   },
   {
@@ -13362,6 +14442,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "continually"
     ]
   },
   {
@@ -13377,6 +14460,9 @@
       "b2",
       "b2-daily-work",
       "daily"
+    ],
+    "synonyms": [
+      "recently"
     ]
   },
   {
@@ -13392,6 +14478,9 @@
       "b2",
       "b2-daily-work",
       "technology"
+    ],
+    "synonyms": [
+      "recently"
     ]
   },
   {
@@ -13407,7 +14496,8 @@
       "b2",
       "b2-daily-work",
       "work"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "commonly",
@@ -13422,6 +14512,9 @@
       "b2",
       "b2-daily-work",
       "communication"
+    ],
+    "synonyms": [
+      "frequently"
     ]
   },
   {
@@ -13437,6 +14530,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "quickly"
     ]
   },
   {
@@ -13452,6 +14548,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "considerably"
     ]
   },
   {
@@ -13467,6 +14566,9 @@
       "b2",
       "b2-daily-work",
       "communication"
+    ],
+    "synonyms": [
+      "partially"
     ]
   },
   {
@@ -13482,6 +14584,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "uniformly"
     ]
   },
   {
@@ -13497,6 +14602,9 @@
       "b2",
       "b2-daily-work",
       "communication"
+    ],
+    "synonyms": [
+      "unintentionally"
     ]
   },
   {
@@ -13512,6 +14620,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "yearly"
     ]
   },
   {
@@ -13527,6 +14638,9 @@
       "b2",
       "b2-daily-work",
       "communication"
+    ],
+    "synonyms": [
+      "solely"
     ]
   },
   {
@@ -13542,6 +14656,9 @@
       "b2",
       "b2-daily-work",
       "daily"
+    ],
+    "synonyms": [
+      "for good"
     ]
   },
   {
@@ -13566,6 +14683,9 @@
         "exampleVi": "Cô ấy hào phóng chia sẻ kiến thức với đồng nghiệp mới.",
         "ipa": "/ˈfriː.li/"
       }
+    ],
+    "synonyms": [
+      "without restriction"
     ]
   },
   {
@@ -13581,6 +14701,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "unavoidably"
     ]
   },
   {
@@ -13596,6 +14719,9 @@
       "b2",
       "b2-daily-work",
       "daily"
+    ],
+    "synonyms": [
+      "downward"
     ]
   },
   {
@@ -13620,6 +14746,9 @@
         "exampleVi": "Các nhóm sẽ họp trực tuyến qua cuộc gọi video.",
         "ipa": "/ˈvɜː.tʃu.əl.i/"
       }
+    ],
+    "synonyms": [
+      "almost"
     ]
   },
   {
@@ -13644,7 +14773,8 @@
         "exampleVi": "Phòng khám thuộc sở hữu tư nhân.",
         "ipa": "/ˈpraɪ.vət.li/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "exclusively",
@@ -13659,6 +14789,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "solely"
     ]
   },
   {
@@ -13683,6 +14816,9 @@
         "exampleVi": "Con đường lên dốc thoai thoải về phía ngôi làng.",
         "ipa": "/ˈdʒentli/"
       }
+    ],
+    "synonyms": [
+      "softly"
     ]
   },
   {
@@ -13698,6 +14834,9 @@
       "b2",
       "b2-daily-work",
       "daily"
+    ],
+    "synonyms": [
+      "completely"
     ]
   },
   {
@@ -13713,6 +14852,9 @@
       "b2",
       "b2-daily-work",
       "communication"
+    ],
+    "synonyms": [
+      "excessively"
     ]
   },
   {
@@ -13728,6 +14870,9 @@
       "b2",
       "b2-daily-work",
       "work"
+    ],
+    "synonyms": [
+      "rarely"
     ]
   },
   {
@@ -13752,6 +14897,9 @@
         "exampleVi": "Những người hàng xóm giải quyết bất đồng một cách hòa bình.",
         "ipa": "/ˈpiːs.fəl.i/"
       }
+    ],
+    "synonyms": [
+      "tranquilly"
     ]
   },
   {
@@ -13767,6 +14915,9 @@
       "b2",
       "b2-daily-work",
       "communication"
+    ],
+    "synonyms": [
+      "suddenly"
     ]
   },
   {
@@ -13791,6 +14942,9 @@
         "exampleVi": "Cô ấy bị đổ lỗi một cách không công bằng về tệp bị mất.",
         "ipa": "/ˈrɒŋ.li/"
       }
+    ],
+    "synonyms": [
+      "incorrectly"
     ]
   },
   {
@@ -13822,6 +14976,9 @@
         "exampleVi": "Con đường rẽ gấp ngay sau cây cầu.",
         "ipa": "/ˈʃɑːpli/"
       }
+    ],
+    "synonyms": [
+      "steeply"
     ]
   },
   {
@@ -13846,6 +15003,9 @@
         "exampleVi": "Thật may mắn vì không ai bị thương.",
         "ipa": "/ˈmɜːsi/"
       }
+    ],
+    "synonyms": [
+      "compassion"
     ]
   },
   {
@@ -13861,7 +15021,8 @@
       "b2",
       "b2-daily-work",
       "work"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "subtitle",
@@ -13918,7 +15079,8 @@
         ],
         "ipa": "/ˈsʌbtaɪtld/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "supplier",
@@ -13942,6 +15104,9 @@
         ],
         "ipa": "/səˈplaɪəz/"
       }
+    ],
+    "synonyms": [
+      "vendor"
     ]
   },
   {
@@ -13966,6 +15131,7 @@
         ],
         "ipa": "/ˌtreɪˈniːz/"
       }
-    ]
+    ],
+    "synonyms": []
   }
 ]

@@ -15,6 +15,9 @@
         "example": "In the old legal document, the family farm is described as the son's heritage.",
         "exampleVi": "Trong tài liệu pháp lý cũ, nông trại gia đình được mô tả là tài sản thừa kế của người con trai."
       }
+    ],
+    "synonyms": [
+      "legacy"
     ]
   },
   {
@@ -42,6 +45,9 @@
         ],
         "ipa": "/ˈrɪtʃ.u.əlz/"
       }
+    ],
+    "synonyms": [
+      "ceremony"
     ]
   },
   {
@@ -52,7 +58,8 @@
     "example": "Folklore records what official history leaves out.",
     "exampleVi": "Văn hoá dân gian ghi lại những gì chính sử bỏ sót.",
     "topic": "culture",
-    "level": "C1"
+    "level": "C1",
+    "synonyms": []
   },
   {
     "word": "indigenous",
@@ -62,7 +69,10 @@
     "example": "Indigenous languages disappear faster than species.",
     "exampleVi": "Ngôn ngữ thuộc về dân bản địa biến mất nhanh hơn cả các loài.",
     "topic": "culture",
-    "level": "C1"
+    "level": "C1",
+    "synonyms": [
+      "native"
+    ]
   },
   {
     "word": "assimilate",
@@ -105,7 +115,8 @@
         ],
         "ipa": "/əˈsɪm.ɪ.leɪtɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "multicultural",
@@ -115,7 +126,8 @@
     "example": "The school is multicultural in intake but not in staff.",
     "exampleVi": "Trường đa văn hoá về học sinh nhưng không đa văn hoá về giáo viên.",
     "topic": "culture",
-    "level": "B2"
+    "level": "B2",
+    "synonyms": []
   },
   {
     "word": "globalisation",
@@ -125,7 +137,10 @@
     "example": "Globalisation made the same shop appear in every airport.",
     "exampleVi": "Toàn cầu hoá khiến cùng một cửa hàng xuất hiện ở mọi sân bay.",
     "topic": "culture",
-    "level": "C1"
+    "level": "C1",
+    "synonyms": [
+      "globalization"
+    ]
   },
   {
     "word": "identity",
@@ -152,7 +167,8 @@
         ],
         "ipa": "/aɪˈden.tɪ.tiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "dialect",
@@ -179,7 +195,8 @@
         ],
         "ipa": "/ˈdaɪ.ə.lekts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "ceremony",
@@ -206,6 +223,9 @@
         ],
         "ipa": "/ˈser.ɪ.mə.niz/"
       }
+    ],
+    "synonyms": [
+      "ritual"
     ]
   },
   {
@@ -225,7 +245,8 @@
         ],
         "ipa": "/ˈsuː.pəˈstɪʃ.ənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "monument",
@@ -252,6 +273,9 @@
         ],
         "ipa": "/ˈmɒn.juː.mənts/"
       }
+    ],
+    "synonyms": [
+      "memorial"
     ]
   },
   {
@@ -281,6 +305,9 @@
         "example": "Most artefacts sit in storage, never displayed.",
         "exampleVi": "Phần lớn hiện vật khảo cổ nằm trong kho, không bao giờ được trưng bày."
       }
+    ],
+    "synonyms": [
+      "artifact"
     ]
   },
   {
@@ -291,7 +318,10 @@
     "example": "Craftsmanship takes years to learn and minutes to undercut.",
     "exampleVi": "Tay nghề thủ công mất nhiều năm để học và vài phút để bị phá giá.",
     "topic": "culture",
-    "level": "C1"
+    "level": "C1",
+    "synonyms": [
+      "workmanship"
+    ]
   },
   {
     "word": "mainstream",
@@ -318,7 +348,8 @@
         ],
         "ipa": "/ˈmeɪn.striːmz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "stereotype",
@@ -362,7 +393,8 @@
         ],
         "ipa": "/ˈster.i.əʊ.taɪpt/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "prejudice",
@@ -406,6 +438,9 @@
         ],
         "ipa": "/ˈpredʒ.uː.dɪst/"
       }
+    ],
+    "synonyms": [
+      "bias"
     ]
   },
   {
@@ -433,6 +468,9 @@
         ],
         "ipa": "/ˈtɒl.ə.rənsɪz/"
       }
+    ],
+    "synonyms": [
+      "forbearance"
     ]
   },
   {
@@ -443,7 +481,10 @@
     "example": "Diversity in the intake does not guarantee it in the boardroom.",
     "exampleVi": "Sự đa dạng ở đầu vào không bảo đảm có nó trong phòng họp lãnh đạo.",
     "topic": "culture",
-    "level": "B2"
+    "level": "B2",
+    "synonyms": [
+      "variety"
+    ]
   },
   {
     "word": "cultural exchange",
@@ -465,7 +506,8 @@
         ],
         "ipa": "/ˌkʌl.tʃər.əl ɪksˈtʃeɪndʒɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "ethnic minority",
@@ -487,6 +529,7 @@
         ],
         "ipa": "/ˌeθ.nɪk maɪˈnɒr.ə.tiz/"
       }
-    ]
+    ],
+    "synonyms": []
   }
 ]

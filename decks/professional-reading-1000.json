@@ -21,7 +21,8 @@
         ],
         "ipa": "/ˈsɔfˌwɛɹ ˈɑɹkəˌtɛktʃɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "design pattern",
@@ -45,7 +46,8 @@
         ],
         "ipa": "/dɪˈzaɪn ˈpætɝnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "dependency graph",
@@ -69,7 +71,8 @@
         ],
         "ipa": "/dɪˈpɛndənsi ˈɡɹæfs/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "control flow graph",
@@ -93,6 +96,9 @@
         ],
         "ipa": "/kənˈtɹoʊɫ ˈfɫoʊ ˈɡɹæfs/"
       }
+    ],
+    "synonyms": [
+      "CFG"
     ]
   },
   {
@@ -108,6 +114,9 @@
       "professional-reading",
       "technology",
       "software-design"
+    ],
+    "synonyms": [
+      "SoC"
     ]
   },
   {
@@ -132,6 +141,9 @@
         ],
         "ipa": "/ˈsɪŋɡəɫ ɹiˌspɑnsəˈbɪɫəti ˈpɹɪnsəpəɫz/"
       }
+    ],
+    "synonyms": [
+      "SRP"
     ]
   },
   {
@@ -156,6 +168,9 @@
         ],
         "ipa": "/ˈoʊpən ˈkɫoʊzd ˈpɹɪnsəpəɫz/"
       }
+    ],
+    "synonyms": [
+      "OCP"
     ]
   },
   {
@@ -171,7 +186,8 @@
       "professional-reading",
       "technology",
       "software-design"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "dependency inversion",
@@ -195,7 +211,8 @@
         ],
         "ipa": "/dɪˈpɛndənsi ˌɪnˈvɝʒənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "domain driven design",
@@ -219,6 +236,9 @@
         ],
         "ipa": "/doʊˈmeɪn ˈdɹɪvən dɪˈzaɪnz/"
       }
+    ],
+    "synonyms": [
+      "DDD"
     ]
   },
   {
@@ -243,7 +263,8 @@
         ],
         "ipa": "/ˈbaʊndəd ˈkɑntɛksts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "aggregate root",
@@ -267,7 +288,8 @@
         ],
         "ipa": "/ˈæɡɹəɡeɪt ˈɹuts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "value object",
@@ -291,7 +313,8 @@
         ],
         "ipa": "/ˈvæɫju ˈɑb.dʒɛkts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "entity relationship",
@@ -315,7 +338,8 @@
         ],
         "ipa": "/ˈɛntəti ɹiˈɫeɪʃənˌʃɪps/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "event sourcing",
@@ -330,7 +354,8 @@
       "professional-reading",
       "technology",
       "software-design"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "command query separation",
@@ -345,6 +370,9 @@
       "professional-reading",
       "technology",
       "software-design"
+    ],
+    "synonyms": [
+      "CQS"
     ]
   },
   {
@@ -369,6 +397,9 @@
         ],
         "ipa": "/hɛkˈsæɡənəɫ ˈɑɹkəˌtɛktʃɝz/"
       }
+    ],
+    "synonyms": [
+      "ports and adapters architecture"
     ]
   },
   {
@@ -393,7 +424,8 @@
         ],
         "ipa": "/ˈkɫin ˈɑɹkəˌtɛktʃɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "layered architecture",
@@ -417,7 +449,8 @@
         ],
         "ipa": "/ˈɫeɪɝd ˈɑɹkəˌtɛktʃɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "service oriented architecture",
@@ -441,6 +474,9 @@
         ],
         "ipa": "/ˈsɝvəs ˈɔɹiˌɛntəd ˈɑɹkəˌtɛktʃɝz/"
       }
+    ],
+    "synonyms": [
+      "SOA"
     ]
   },
   {
@@ -456,7 +492,8 @@
       "professional-reading",
       "technology",
       "software-design"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "functional cohesion",
@@ -471,7 +508,8 @@
       "professional-reading",
       "technology",
       "software-design"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "architectural decision record",
@@ -495,6 +533,9 @@
         ],
         "ipa": "/ˌɑɹkəˈtɛktʃɝəɫ dɪˈsɪʒən ˈrɛk.ɚdz/"
       }
+    ],
+    "synonyms": [
+      "ADR"
     ]
   },
   {
@@ -519,6 +560,9 @@
         ],
         "ipa": "/ˈænˌtaɪ kɝˈəpʃən ˈɫeɪɝz/"
       }
+    ],
+    "synonyms": [
+      "ACL"
     ]
   },
   {
@@ -543,7 +587,8 @@
         ],
         "ipa": "/ˌkɑmpəˈzɪʃən ˈɹuts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "type inference",
@@ -558,7 +603,8 @@
       "professional-reading",
       "technology",
       "programming"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "type safety",
@@ -573,7 +619,8 @@
       "professional-reading",
       "technology",
       "programming"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "generic programming",
@@ -588,7 +635,8 @@
       "professional-reading",
       "technology",
       "programming"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "pattern matching",
@@ -603,7 +651,8 @@
       "professional-reading",
       "technology",
       "programming"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "tail recursion",
@@ -618,7 +667,8 @@
       "professional-reading",
       "technology",
       "programming"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "lazy evaluation",
@@ -642,7 +692,8 @@
         ],
         "ipa": "/ˈɫeɪzi iˌvæɫjuˈeɪʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "compilation",
@@ -675,7 +726,8 @@
         ],
         "ipa": "/ˌkɑmpəˈɫeɪʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "immutable object",
@@ -699,7 +751,8 @@
         ],
         "ipa": "/ˌɪmˈjutəbəɫ ˈɑb.dʒɛkts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "serialization",
@@ -732,7 +785,8 @@
         ],
         "ipa": "/ˌsɪr.i.ə.ləˈzeɪ.ʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "entropy",
@@ -756,7 +810,8 @@
         "example": "The researchers calculated the entropy change when the gas expanded.",
         "exampleVi": "Các nhà nghiên cứu tính độ thay đổi entropy khi khí giãn nở."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "referential transparency",
@@ -771,7 +826,8 @@
       "professional-reading",
       "technology",
       "programming"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "function closure",
@@ -795,6 +851,9 @@
         ],
         "ipa": "/ˈfəŋkʃən ˈkɫoʊʒɝz/"
       }
+    ],
+    "synonyms": [
+      "closure"
     ]
   },
   {
@@ -819,7 +878,8 @@
         ],
         "ipa": "/ˈɫæmdə ɪksˈpɹɛʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "higher order function",
@@ -843,7 +903,8 @@
         ],
         "ipa": "/ˈhaɪɝ ˈɔɹdɝ ˈfəŋkʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "deserialization",
@@ -858,7 +919,8 @@
       "professional-reading",
       "technology",
       "programming"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "method overriding",
@@ -873,7 +935,8 @@
       "professional-reading",
       "technology",
       "programming"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "operator overloading",
@@ -888,7 +951,8 @@
       "professional-reading",
       "technology",
       "programming"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "dynamic dispatch",
@@ -903,7 +967,8 @@
       "professional-reading",
       "technology",
       "programming"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "static dispatch",
@@ -918,7 +983,8 @@
       "professional-reading",
       "technology",
       "programming"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "exception handling",
@@ -933,7 +999,8 @@
       "professional-reading",
       "technology",
       "programming"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "stack unwinding",
@@ -948,7 +1015,8 @@
       "professional-reading",
       "technology",
       "programming"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "reference counting",
@@ -963,7 +1031,8 @@
       "professional-reading",
       "technology",
       "programming"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "memory allocation",
@@ -978,7 +1047,8 @@
       "professional-reading",
       "technology",
       "programming"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "memory deallocation",
@@ -993,7 +1063,8 @@
       "professional-reading",
       "technology",
       "programming"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "null pointer",
@@ -1017,7 +1088,8 @@
         ],
         "ipa": "/ˈnəɫ ˈpɔɪntɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "thread pool",
@@ -1041,7 +1113,8 @@
         ],
         "ipa": "/ˈθɹɛd ˈpuɫz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "data race",
@@ -1065,7 +1138,8 @@
         ],
         "ipa": "/ˈdeɪ.tə ˈɹeɪsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "critical section",
@@ -1089,7 +1163,8 @@
         ],
         "ipa": "/ˈkɹɪtɪkəɫ ˈsɛkʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "mutual exclusion",
@@ -1104,7 +1179,8 @@
       "professional-reading",
       "technology",
       "concurrency"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "condition variable",
@@ -1128,7 +1204,8 @@
         ],
         "ipa": "/kənˈdɪʃən ˈvɛɹiəbəɫz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "counting semaphore",
@@ -1152,7 +1229,8 @@
         ],
         "ipa": "/ˈkaʊnɪŋ ˈsɛ.məˌfɔrz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "atomic operation",
@@ -1176,7 +1254,8 @@
         ],
         "ipa": "/əˈtɑmɪk ˌɑpɝˈeɪʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "compare and swap",
@@ -1200,6 +1279,9 @@
         ],
         "ipa": "/kəmˈpɛɹ ənd ˈswɑps/"
       }
+    ],
+    "synonyms": [
+      "CAS"
     ]
   },
   {
@@ -1224,6 +1306,9 @@
         ],
         "ipa": "/ˈmɛmɝi ˈbæɹiɝz/"
       }
+    ],
+    "synonyms": [
+      "memory fence"
     ]
   },
   {
@@ -1239,7 +1324,8 @@
       "professional-reading",
       "technology",
       "concurrency"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "lock contention",
@@ -1254,7 +1340,8 @@
       "professional-reading",
       "technology",
       "concurrency"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "lock granularity",
@@ -1269,7 +1356,8 @@
       "professional-reading",
       "technology",
       "concurrency"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "reader writer lock",
@@ -1293,7 +1381,8 @@
         ],
         "ipa": "/ˈɹidɝ ˈɹaɪtɝ ˈɫɑks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "thread starvation",
@@ -1308,7 +1397,8 @@
       "professional-reading",
       "technology",
       "concurrency"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "priority inversion",
@@ -1332,7 +1422,8 @@
         ],
         "ipa": "/pɹaɪˈɔɹəti ˌɪnˈvɝʒənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "busy waiting",
@@ -1347,6 +1438,9 @@
       "professional-reading",
       "technology",
       "concurrency"
+    ],
+    "synonyms": [
+      "spinning"
     ]
   },
   {
@@ -1362,7 +1456,8 @@
       "professional-reading",
       "technology",
       "concurrency"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "preemptive scheduling",
@@ -1377,7 +1472,8 @@
       "professional-reading",
       "technology",
       "concurrency"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "asynchronous execution",
@@ -1392,7 +1488,8 @@
       "professional-reading",
       "technology",
       "concurrency"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "parallel execution",
@@ -1407,7 +1504,8 @@
       "professional-reading",
       "technology",
       "concurrency"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "task cancellation",
@@ -1422,7 +1520,8 @@
       "professional-reading",
       "technology",
       "concurrency"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cancellation token",
@@ -1446,7 +1545,8 @@
         ],
         "ipa": "/ˌkænsəˈɫeɪʃən ˈtoʊkənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "structured concurrency",
@@ -1461,7 +1561,8 @@
       "professional-reading",
       "technology",
       "concurrency"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "work stealing",
@@ -1476,7 +1577,8 @@
       "professional-reading",
       "technology",
       "concurrency"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "message passing",
@@ -1491,7 +1593,8 @@
       "professional-reading",
       "technology",
       "concurrency"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "unit testing",
@@ -1506,7 +1609,8 @@
       "professional-reading",
       "technology",
       "testing"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "integration testing",
@@ -1521,7 +1625,8 @@
       "professional-reading",
       "technology",
       "testing"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "system testing",
@@ -1536,7 +1641,8 @@
       "professional-reading",
       "technology",
       "testing"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "acceptance testing",
@@ -1551,7 +1657,8 @@
       "professional-reading",
       "technology",
       "testing"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "regression testing",
@@ -1566,7 +1673,8 @@
       "professional-reading",
       "technology",
       "testing"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "smoke testing",
@@ -1581,7 +1689,8 @@
       "professional-reading",
       "technology",
       "testing"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "load testing",
@@ -1596,7 +1705,8 @@
       "professional-reading",
       "technology",
       "testing"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "stress testing",
@@ -1611,7 +1721,8 @@
       "professional-reading",
       "technology",
       "testing"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "soak testing",
@@ -1626,7 +1737,8 @@
       "professional-reading",
       "technology",
       "testing"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "fuzz testing",
@@ -1641,6 +1753,9 @@
       "professional-reading",
       "technology",
       "testing"
+    ],
+    "synonyms": [
+      "fuzzing"
     ]
   },
   {
@@ -1656,7 +1771,8 @@
       "professional-reading",
       "technology",
       "testing"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "mutation testing",
@@ -1671,7 +1787,8 @@
       "professional-reading",
       "technology",
       "testing"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "test fixture",
@@ -1704,7 +1821,8 @@
         ],
         "ipa": "/ˈtɛst ˈfɪkstʃɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "test harness",
@@ -1728,7 +1846,8 @@
         ],
         "ipa": "/ˈtɛst ˈhɑɹnəsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "test stub",
@@ -1752,6 +1871,9 @@
         ],
         "ipa": "/ˈtɛst ˈstəbz/"
       }
+    ],
+    "synonyms": [
+      "stub"
     ]
   },
   {
@@ -1776,7 +1898,8 @@
         ],
         "ipa": "/ˈmɑk ˈɑb.dʒɛkts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "code coverage",
@@ -1791,7 +1914,8 @@
       "professional-reading",
       "technology",
       "testing"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "branch coverage",
@@ -1806,7 +1930,8 @@
       "professional-reading",
       "technology",
       "testing"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "test isolation",
@@ -1821,7 +1946,8 @@
       "professional-reading",
       "technology",
       "testing"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "metamorphic testing",
@@ -1836,7 +1962,8 @@
       "professional-reading",
       "technology",
       "testing"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "test oracle",
@@ -1860,7 +1987,8 @@
         ],
         "ipa": "/ˈtɛst ˈɔɹəkəɫz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "snapshot testing",
@@ -1875,7 +2003,8 @@
       "professional-reading",
       "technology",
       "testing"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "contract testing",
@@ -1890,7 +2019,8 @@
       "professional-reading",
       "technology",
       "testing"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "boundary value analysis",
@@ -1914,7 +2044,8 @@
         ],
         "ipa": "/ˈbaʊndɝi ˈvæɫju əˈnæləsiːz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "equivalence partitioning",
@@ -1929,7 +2060,8 @@
       "professional-reading",
       "technology",
       "testing"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "source control",
@@ -1944,6 +2076,9 @@
       "professional-reading",
       "technology",
       "delivery"
+    ],
+    "synonyms": [
+      "version control"
     ]
   },
   {
@@ -1968,7 +2103,8 @@
         ],
         "ipa": "/ˈfitʃɝ ˈbɹæntʃɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "release branch",
@@ -1992,7 +2128,8 @@
         ],
         "ipa": "/ɹiˈɫis ˈbɹæntʃɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "trunk based development",
@@ -2007,7 +2144,8 @@
       "professional-reading",
       "technology",
       "delivery"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "merge conflict",
@@ -2031,7 +2169,8 @@
         ],
         "ipa": "/ˈmɝdʒ ˈkɑnfɫɪkts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "pull request",
@@ -2055,6 +2194,9 @@
         ],
         "ipa": "/ˈpʊɫ ɹiˈkwɛsts/"
       }
+    ],
+    "synonyms": [
+      "merge request"
     ]
   },
   {
@@ -2079,7 +2221,8 @@
         ],
         "ipa": "/ˈkoʊd ˌɹivˈjuz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "commit history",
@@ -2103,7 +2246,8 @@
         ],
         "ipa": "/kəˈmɪt ˈhɪstɝiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "build artifact",
@@ -2127,6 +2271,9 @@
         ],
         "ipa": "/ˈbɪɫd ˈɑɹtəˌfækts/"
       }
+    ],
+    "synonyms": [
+      "artifact"
     ]
   },
   {
@@ -2151,7 +2298,8 @@
         ],
         "ipa": "/ˈbɪɫd ˈpaɪˌpɫaɪnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "continuous integration",
@@ -2166,6 +2314,9 @@
       "professional-reading",
       "technology",
       "delivery"
+    ],
+    "synonyms": [
+      "CI"
     ]
   },
   {
@@ -2181,6 +2332,9 @@
       "professional-reading",
       "technology",
       "delivery"
+    ],
+    "synonyms": [
+      "CD"
     ]
   },
   {
@@ -2196,6 +2350,9 @@
       "professional-reading",
       "technology",
       "delivery"
+    ],
+    "synonyms": [
+      "CD"
     ]
   },
   {
@@ -2220,6 +2377,9 @@
         ],
         "ipa": "/ɹiˈɫis ˈkændədeɪts/"
       }
+    ],
+    "synonyms": [
+      "RC"
     ]
   },
   {
@@ -2244,7 +2404,8 @@
         ],
         "ipa": "/ˈfitʃɝ ˈɹoʊˌɫaʊts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "canary release",
@@ -2268,7 +2429,8 @@
         ],
         "ipa": "/kəˈnɛɹi ɹiˈɫisɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "deployment slot",
@@ -2292,7 +2454,8 @@
         ],
         "ipa": "/dɪˈpɫɔɪmənt ˈsɫɑts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "rolling update",
@@ -2316,7 +2479,8 @@
         ],
         "ipa": "/ˈɹoʊɫɪŋ ˈəpˌdeɪts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "deployment rollback",
@@ -2340,7 +2504,8 @@
         ],
         "ipa": "/dɪˈpɫɔɪmənt ˈɹoʊɫˌbæks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "release note",
@@ -2364,7 +2529,8 @@
         ],
         "ipa": "/ɹiˈɫis ˈnoʊts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "version compatibility",
@@ -2379,7 +2545,8 @@
       "professional-reading",
       "technology",
       "delivery"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "dependency resolution",
@@ -2403,7 +2570,8 @@
         ],
         "ipa": "/dɪˈpɛndənsi ˌɹɛzəˈɫuʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "package registry",
@@ -2427,7 +2595,8 @@
         ],
         "ipa": "/ˈpækədʒ ˈɹɛdʒɪstɹiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "software bill of materials",
@@ -2451,6 +2620,9 @@
         ],
         "ipa": "/ˈsɔfˌwɛɹ ˈbɪɫz əv məˈtɪɹiəɫz/"
       }
+    ],
+    "synonyms": [
+      "SBOM"
     ]
   },
   {
@@ -2475,7 +2647,8 @@
         ],
         "ipa": "/ˌriː.prəˈduː.sə.bəl ˈbɪɫdz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "relational database",
@@ -2499,7 +2672,8 @@
         ],
         "ipa": "/ɹiˈɫeɪʃənəɫ ˈdætəˌbeɪsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "document database",
@@ -2523,7 +2697,8 @@
         ],
         "ipa": "/ˈdɑkjəmɛnt ˈdætəˌbeɪsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "graph database",
@@ -2547,7 +2722,8 @@
         ],
         "ipa": "/ˈɡɹæf ˈdætəˌbeɪsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "columnar database",
@@ -2571,7 +2747,8 @@
         ],
         "ipa": "/kəˈlʌm.nɚ ˈdætəˌbeɪsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "time series database",
@@ -2595,7 +2772,8 @@
         ],
         "ipa": "/ˈtaɪm ˈsɪɹiz ˈdætəˌbeɪsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "primary key",
@@ -2619,7 +2797,8 @@
         ],
         "ipa": "/ˈpɹaɪˌmɛɹi ˈkiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "natural key",
@@ -2643,7 +2822,8 @@
         ],
         "ipa": "/ˈnætʃɝəɫ ˈkiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "composite key",
@@ -2667,6 +2847,9 @@
         ],
         "ipa": "/kɑmˈpɑzət ˈkiz/"
       }
+    ],
+    "synonyms": [
+      "compound key"
     ]
   },
   {
@@ -2691,7 +2874,8 @@
         ],
         "ipa": "/juˈnik kənˈstɹeɪnts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "referential integrity",
@@ -2706,7 +2890,8 @@
       "professional-reading",
       "technology",
       "databases"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "database schema",
@@ -2730,7 +2915,8 @@
         ],
         "ipa": "/ˈdætəˌbeɪs ˈskiməz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "schema migration",
@@ -2754,7 +2940,8 @@
         ],
         "ipa": "/ˈskimə maɪˈɡɹeɪʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "query optimizer",
@@ -2778,7 +2965,8 @@
         ],
         "ipa": "/ˈkwiɹi ˈɑp.təˌmaɪ.zɚz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "query plan",
@@ -2802,7 +2990,8 @@
         ],
         "ipa": "/ˈkwiɹi ˈpɫænz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "query cache",
@@ -2826,7 +3015,8 @@
         ],
         "ipa": "/ˈkwiɹi ˈkæʃɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "covering index",
@@ -2857,7 +3047,8 @@
         ],
         "ipa": "/ˈkəvɝɪŋ ˈɪndəsɪz/, /ˈkəvɝɪŋ ˈɪndɪˌsiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "composite index",
@@ -2888,6 +3079,9 @@
         ],
         "ipa": "/kɑmˈpɑzət ˈɪndəsɪz/, /kɑmˈpɑzət ˈɪndɪˌsiz/"
       }
+    ],
+    "synonyms": [
+      "multicolumn index"
     ]
   },
   {
@@ -2912,7 +3106,8 @@
         ],
         "ipa": "/ˈɪndɛks ˈskænz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "table scan",
@@ -2936,7 +3131,8 @@
         ],
         "ipa": "/ˈteɪbəɫ ˈskænz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "database view",
@@ -2960,7 +3156,8 @@
         ],
         "ipa": "/ˈdætəˌbeɪs ˈvjuz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "stored procedure",
@@ -2984,7 +3181,8 @@
         ],
         "ipa": "/ˈstɔɹd pɹəˈsidʒɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "database trigger",
@@ -3008,7 +3206,8 @@
         ],
         "ipa": "/ˈdætəˌbeɪs ˈtɹɪɡɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "transaction isolation",
@@ -3023,7 +3222,8 @@
       "professional-reading",
       "technology",
       "databases"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "snapshot isolation",
@@ -3038,7 +3238,8 @@
       "professional-reading",
       "technology",
       "databases"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "serializable transaction",
@@ -3062,7 +3263,8 @@
         ],
         "ipa": "/ˈsɪr.i.ə.laɪ.zə.bəl tɹænˈzækʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "data warehouse",
@@ -3086,7 +3288,8 @@
         ],
         "ipa": "/ˈdeɪ.tə ˈwɛɹˌhaʊzɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "data lake",
@@ -3110,7 +3313,8 @@
         ],
         "ipa": "/ˈdeɪ.tə ˈɫeɪks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "data lakehouse",
@@ -3134,7 +3338,8 @@
         ],
         "ipa": "/ˈdeɪ.tə ˈleɪkˌhaʊzɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "data mart",
@@ -3158,7 +3363,8 @@
         ],
         "ipa": "/ˈdeɪ.tə ˈmɑɹts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "data pipeline",
@@ -3182,7 +3388,8 @@
         ],
         "ipa": "/ˈdeɪ.tə ˈpaɪˌpɫaɪnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "data ingestion",
@@ -3197,7 +3404,8 @@
       "professional-reading",
       "technology",
       "data-engineering"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "data transformation",
@@ -3221,7 +3429,8 @@
         ],
         "ipa": "/ˈdeɪ.tə ˌtɹænsfɝˈmeɪʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "data lineage",
@@ -3236,7 +3445,8 @@
       "professional-reading",
       "technology",
       "data-engineering"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "data catalog",
@@ -3260,7 +3470,8 @@
         ],
         "ipa": "/ˈdeɪ.tə ˈkætəɫɔɡz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "data quality",
@@ -3284,7 +3495,8 @@
         ],
         "ipa": "/ˈdeɪ.tə ˈkwɑɫətiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "data cleansing",
@@ -3299,6 +3511,9 @@
       "professional-reading",
       "technology",
       "data-engineering"
+    ],
+    "synonyms": [
+      "data cleaning"
     ]
   },
   {
@@ -3314,7 +3529,8 @@
       "professional-reading",
       "technology",
       "data-engineering"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "data normalization",
@@ -3338,7 +3554,8 @@
         "example": "Data normalization put all sensor readings on a comparable scale.",
         "exampleVi": "Việc chuẩn hóa dữ liệu đưa các số đo cảm biến về thang đo có thể so sánh."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "schema evolution",
@@ -3353,7 +3570,8 @@
       "professional-reading",
       "technology",
       "data-engineering"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "batch processing",
@@ -3368,7 +3586,8 @@
       "professional-reading",
       "technology",
       "data-engineering"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "stream processing",
@@ -3383,7 +3602,8 @@
       "professional-reading",
       "technology",
       "data-engineering"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "change data capture",
@@ -3407,6 +3627,9 @@
         ],
         "ipa": "/ˈtʃeɪndʒ ˈdeɪ.tə ˈkæptʃɝz/"
       }
+    ],
+    "synonyms": [
+      "CDC"
     ]
   },
   {
@@ -3422,7 +3645,8 @@
       "professional-reading",
       "technology",
       "data-engineering"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "data sharding",
@@ -3437,7 +3661,8 @@
       "professional-reading",
       "technology",
       "data-engineering"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "data replication",
@@ -3461,7 +3686,8 @@
         ],
         "ipa": "/ˈdeɪ.tə ˌɹɛpɫəˈkeɪʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "data retention",
@@ -3476,7 +3702,8 @@
       "professional-reading",
       "technology",
       "data-engineering"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "data provenance",
@@ -3491,7 +3718,8 @@
       "professional-reading",
       "technology",
       "data-engineering"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "master data management",
@@ -3506,7 +3734,8 @@
       "professional-reading",
       "technology",
       "data-engineering"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "metadata management",
@@ -3521,7 +3750,8 @@
       "professional-reading",
       "technology",
       "data-engineering"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "data governance",
@@ -3536,7 +3766,8 @@
       "professional-reading",
       "technology",
       "data-engineering"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "network topology",
@@ -3560,7 +3791,8 @@
         ],
         "ipa": "/ˈnɛtˌwɝk təˈpɔɫədʒiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "network interface",
@@ -3584,7 +3816,8 @@
         ],
         "ipa": "/ˈnɛtˌwɝk ˈɪnɝˌfeɪsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "network segment",
@@ -3608,7 +3841,8 @@
         ],
         "ipa": "/ˈnɛtˌwɝk ˈsɛɡmənts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "network gateway",
@@ -3632,7 +3866,8 @@
         ],
         "ipa": "/ˈnɛtˌwɝk ˈɡeɪtˌweɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "packet switching",
@@ -3647,7 +3882,8 @@
       "professional-reading",
       "technology",
       "networking"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "packet loss",
@@ -3671,7 +3907,8 @@
         ],
         "ipa": "/ˈpækət ˈɫɔsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "packet capture",
@@ -3695,7 +3932,8 @@
         ],
         "ipa": "/ˈpækət ˈkæptʃɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "packet inspection",
@@ -3710,7 +3948,8 @@
       "professional-reading",
       "technology",
       "networking"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "traffic shaping",
@@ -3725,7 +3964,8 @@
       "professional-reading",
       "technology",
       "networking"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "bandwidth allocation",
@@ -3740,7 +3980,8 @@
       "professional-reading",
       "technology",
       "networking"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "network congestion",
@@ -3755,7 +3996,8 @@
       "professional-reading",
       "technology",
       "networking"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "routing table",
@@ -3779,7 +4021,8 @@
         ],
         "ipa": "/ˈɹaʊtɪŋ ˈteɪbəɫz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "static routing",
@@ -3794,7 +4037,8 @@
       "professional-reading",
       "technology",
       "networking"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "dynamic routing",
@@ -3809,7 +4053,8 @@
       "professional-reading",
       "technology",
       "networking"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "default route",
@@ -3833,7 +4078,8 @@
         ],
         "ipa": "/dɪˈfɔɫt ˈɹaʊts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "subnet mask",
@@ -3857,7 +4103,8 @@
         ],
         "ipa": "/ˈsʌbˌnɛt ˈmæsks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "address resolution",
@@ -3872,7 +4119,8 @@
       "professional-reading",
       "technology",
       "networking"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "name resolution",
@@ -3887,7 +4135,8 @@
       "professional-reading",
       "technology",
       "networking"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "domain name system",
@@ -3911,6 +4160,9 @@
         ],
         "ipa": "/doʊˈmeɪn ˈneɪm ˈsɪstəmz/"
       }
+    ],
+    "synonyms": [
+      "DNS"
     ]
   },
   {
@@ -3935,6 +4187,9 @@
         ],
         "ipa": "/ˈpɹɑksi ˈsɝvɝz/"
       }
+    ],
+    "synonyms": [
+      "proxy"
     ]
   },
   {
@@ -3959,7 +4214,8 @@
         ],
         "ipa": "/ˈfɔɹwɝd ˈpɹɑksiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "virtual private network",
@@ -3983,6 +4239,9 @@
         ],
         "ipa": "/ˈvɝtʃuəɫ ˈpɹaɪvət ˈnɛtˌwɝks/"
       }
+    ],
+    "synonyms": [
+      "VPN"
     ]
   },
   {
@@ -4007,7 +4266,8 @@
         ],
         "ipa": "/ˈtɹænspɔɹt ˈɫeɪɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "application layer",
@@ -4031,7 +4291,8 @@
         ],
         "ipa": "/ˌæpɫəˈkeɪʃən ˈɫeɪɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "network address translation",
@@ -4046,6 +4307,9 @@
       "professional-reading",
       "technology",
       "networking"
+    ],
+    "synonyms": [
+      "NAT"
     ]
   },
   {
@@ -4061,7 +4325,8 @@
       "professional-reading",
       "technology",
       "cloud"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "public cloud",
@@ -4085,7 +4350,8 @@
         ],
         "ipa": "/ˈpəbɫɪk ˈkɫaʊdz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "private cloud",
@@ -4109,7 +4375,8 @@
         ],
         "ipa": "/ˈpɹaɪvət ˈkɫaʊdz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "hybrid cloud",
@@ -4133,7 +4400,8 @@
         ],
         "ipa": "/ˈhaɪbɹəd ˈkɫaʊdz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "multi cloud",
@@ -4157,7 +4425,8 @@
         ],
         "ipa": "/ˈməɫti ˈkɫaʊdz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "infrastructure as a service",
@@ -4172,6 +4441,9 @@
       "professional-reading",
       "technology",
       "cloud"
+    ],
+    "synonyms": [
+      "IaaS"
     ]
   },
   {
@@ -4187,6 +4459,9 @@
       "professional-reading",
       "technology",
       "cloud"
+    ],
+    "synonyms": [
+      "PaaS"
     ]
   },
   {
@@ -4202,6 +4477,9 @@
       "professional-reading",
       "technology",
       "cloud"
+    ],
+    "synonyms": [
+      "SaaS"
     ]
   },
   {
@@ -4217,6 +4495,9 @@
       "professional-reading",
       "technology",
       "cloud"
+    ],
+    "synonyms": [
+      "FaaS"
     ]
   },
   {
@@ -4232,7 +4513,8 @@
       "professional-reading",
       "technology",
       "cloud"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "managed service",
@@ -4256,7 +4538,8 @@
         ],
         "ipa": "/ˈmænədʒd ˈsɝvəsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cloud region",
@@ -4280,7 +4563,8 @@
         ],
         "ipa": "/ˈkɫaʊd ˈɹidʒənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "availability zone",
@@ -4304,7 +4588,8 @@
         ],
         "ipa": "/əˌveɪɫəˈbɪɫəti ˈzoʊnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "resource group",
@@ -4328,7 +4613,8 @@
         ],
         "ipa": "/ˈɹisɔɹs ˈɡɹups/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "virtual machine",
@@ -4352,6 +4638,9 @@
         ],
         "ipa": "/ˈvɝtʃuəɫ məˈʃinz/"
       }
+    ],
+    "synonyms": [
+      "VM"
     ]
   },
   {
@@ -4376,7 +4665,8 @@
         ],
         "ipa": "/ˈvɝtʃuəɫ ˈnɛtˌwɝks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "object storage",
@@ -4391,7 +4681,8 @@
       "professional-reading",
       "technology",
       "cloud"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "block storage",
@@ -4406,7 +4697,8 @@
       "professional-reading",
       "technology",
       "cloud"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "ephemeral storage",
@@ -4421,6 +4713,9 @@
       "professional-reading",
       "technology",
       "cloud"
+    ],
+    "synonyms": [
+      "temporary storage"
     ]
   },
   {
@@ -4436,7 +4731,8 @@
       "professional-reading",
       "technology",
       "cloud"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "horizontal scaling",
@@ -4451,6 +4747,9 @@
       "professional-reading",
       "technology",
       "cloud"
+    ],
+    "synonyms": [
+      "scale-out"
     ]
   },
   {
@@ -4466,7 +4765,8 @@
       "professional-reading",
       "technology",
       "cloud"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "reserved instance",
@@ -4490,7 +4790,8 @@
         ],
         "ipa": "/ɹiˈzɝvd ˈɪnstənsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "spot instance",
@@ -4514,7 +4815,8 @@
         ],
         "ipa": "/ˈspɑt ˈɪnstənsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "hypervisor",
@@ -4538,6 +4840,9 @@
         ],
         "ipa": "/ˈhaɪ.pɚˌvaɪ.zɚz/"
       }
+    ],
+    "synonyms": [
+      "virtual machine monitor"
     ]
   },
   {
@@ -4562,7 +4867,8 @@
         ],
         "ipa": "/kənˈteɪnɝ ˈɪmədʒɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "container registry",
@@ -4586,7 +4892,8 @@
         ],
         "ipa": "/kənˈteɪnɝ ˈɹɛdʒɪstɹiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "container runtime",
@@ -4610,7 +4917,8 @@
         ],
         "ipa": "/kənˈteɪnɝ ˈrʌnˌtaɪmz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "container orchestration",
@@ -4625,7 +4933,8 @@
       "professional-reading",
       "technology",
       "containers"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "container cluster",
@@ -4649,7 +4958,8 @@
         ],
         "ipa": "/kənˈteɪnɝ ˈkɫəstɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "image layer",
@@ -4673,7 +4983,8 @@
         ],
         "ipa": "/ˈɪmədʒ ˈɫeɪɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "image digest",
@@ -4697,7 +5008,8 @@
         ],
         "ipa": "/ˈɪmədʒ ˈdaɪdʒɛsts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "image tag",
@@ -4721,7 +5033,8 @@
         ],
         "ipa": "/ˈɪmədʒ ˈtæɡz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "image signing",
@@ -4736,7 +5049,8 @@
       "professional-reading",
       "technology",
       "containers"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "image scanning",
@@ -4751,7 +5065,8 @@
       "professional-reading",
       "technology",
       "containers"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "deployment manifest",
@@ -4775,7 +5090,8 @@
         ],
         "ipa": "/dɪˈpɫɔɪmənt ˈmænəˌfɛsts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "service discovery",
@@ -4790,7 +5106,8 @@
       "professional-reading",
       "technology",
       "containers"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cluster autoscaler",
@@ -4814,7 +5131,8 @@
         ],
         "ipa": "/ˈkɫəstɝ ˈɔ.toʊˌskeɪ.lɚz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "sidecar container",
@@ -4838,7 +5156,8 @@
         ],
         "ipa": "/ˈsaɪdˌkɑr kənˈteɪnɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "init container",
@@ -4862,7 +5181,8 @@
         ],
         "ipa": "/ˈɪn.ɪt kənˈteɪnɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "container port",
@@ -4886,7 +5206,8 @@
         ],
         "ipa": "/kənˈteɪnɝ ˈpɔɹts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "persistent volume",
@@ -4910,7 +5231,8 @@
         ],
         "ipa": "/pɝˈsɪstənt ˈvɑɫjumz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "volume mount",
@@ -4934,7 +5256,8 @@
         ],
         "ipa": "/ˈvɑɫjum ˈmaʊnts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "health probe",
@@ -4958,6 +5281,9 @@
         ],
         "ipa": "/ˈhɛɫθ ˈpɹoʊbz/"
       }
+    ],
+    "synonyms": [
+      "health check"
     ]
   },
   {
@@ -4973,7 +5299,8 @@
       "professional-reading",
       "technology",
       "containers"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "pod affinity",
@@ -4988,7 +5315,8 @@
       "professional-reading",
       "technology",
       "containers"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "startup probe",
@@ -5012,7 +5340,8 @@
         ],
         "ipa": "/ˈstɑɹˌtəp ˈpɹoʊbz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "resource quota",
@@ -5036,7 +5365,8 @@
         ],
         "ipa": "/ˈɹisɔɹs ˈkwoʊtəz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "resource limit",
@@ -5060,7 +5390,8 @@
         ],
         "ipa": "/ˈɹisɔɹs ˈɫɪməts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "pod scheduling",
@@ -5075,7 +5406,8 @@
       "professional-reading",
       "technology",
       "containers"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "access control",
@@ -5090,7 +5422,8 @@
       "professional-reading",
       "technology",
       "security"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "role based access control",
@@ -5105,6 +5438,9 @@
       "professional-reading",
       "technology",
       "security"
+    ],
+    "synonyms": [
+      "RBAC"
     ]
   },
   {
@@ -5120,6 +5456,9 @@
       "professional-reading",
       "technology",
       "security"
+    ],
+    "synonyms": [
+      "ABAC"
     ]
   },
   {
@@ -5153,7 +5492,8 @@
         ],
         "ipa": "/ˈsaɪfɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "zero trust",
@@ -5168,7 +5508,8 @@
       "professional-reading",
       "technology",
       "security"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "defense in depth",
@@ -5183,7 +5524,8 @@
       "professional-reading",
       "technology",
       "security"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "security perimeter",
@@ -5207,7 +5549,8 @@
         ],
         "ipa": "/sɪkˈjʊɹəti pɝˈɪmətɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "attack vector",
@@ -5231,7 +5574,8 @@
         ],
         "ipa": "/əˈtæk ˈvɛktɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "side channel attack",
@@ -5255,7 +5599,8 @@
         ],
         "ipa": "/ˈsaɪd ˈtʃænəɫ əˈtæks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "threat actor",
@@ -5279,7 +5624,8 @@
         ],
         "ipa": "/ˈθɹɛt ˈæktɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "threat intelligence",
@@ -5294,7 +5640,8 @@
       "professional-reading",
       "technology",
       "security"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "vulnerability assessment",
@@ -5318,7 +5665,8 @@
         ],
         "ipa": "/ˌvəɫnɝəˈbɪɫɪti əˈsɛsmənts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "penetration testing",
@@ -5333,6 +5681,9 @@
       "professional-reading",
       "technology",
       "security"
+    ],
+    "synonyms": [
+      "pentesting"
     ]
   },
   {
@@ -5357,7 +5708,8 @@
         ],
         "ipa": "/sɪkˈjʊɹəti ˈpɑstʃɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "security baseline",
@@ -5381,7 +5733,8 @@
         ],
         "ipa": "/sɪkˈjʊɹəti ˈbeɪˌsɫaɪnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "security policy",
@@ -5405,7 +5758,8 @@
         ],
         "ipa": "/sɪkˈjʊɹəti ˈpɑɫəsiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "security control",
@@ -5420,7 +5774,8 @@
       "professional-reading",
       "technology",
       "security"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "security patch",
@@ -5444,7 +5799,8 @@
         ],
         "ipa": "/sɪkˈjʊɹəti ˈpætʃɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "security incident",
@@ -5468,7 +5824,8 @@
         ],
         "ipa": "/sɪkˈjʊɹəti ˈɪnsədənts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "incident response",
@@ -5492,7 +5849,8 @@
         ],
         "ipa": "/ˈɪnsədənt ɹiˈspɑnsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "digital forensics",
@@ -5507,7 +5865,8 @@
       "professional-reading",
       "technology",
       "security"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "audit trail",
@@ -5531,6 +5890,9 @@
         ],
         "ipa": "/ˈɔdɪt ˈtɹeɪɫz/"
       }
+    ],
+    "synonyms": [
+      "audit log"
     ]
   },
   {
@@ -5546,7 +5908,8 @@
       "professional-reading",
       "technology",
       "security"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "intrusion prevention",
@@ -5561,7 +5924,8 @@
       "professional-reading",
       "technology",
       "security"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "endpoint protection",
@@ -5576,7 +5940,8 @@
       "professional-reading",
       "technology",
       "security"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "symmetric encryption",
@@ -5591,7 +5956,8 @@
       "professional-reading",
       "technology",
       "cryptography"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "asymmetric encryption",
@@ -5606,6 +5972,9 @@
       "professional-reading",
       "technology",
       "cryptography"
+    ],
+    "synonyms": [
+      "public-key encryption"
     ]
   },
   {
@@ -5630,7 +5999,8 @@
         ],
         "ipa": "/ˈpəbɫɪk ˈkiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "private key",
@@ -5654,7 +6024,8 @@
         ],
         "ipa": "/ˈpɹaɪvət ˈkiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "session key",
@@ -5678,7 +6049,8 @@
         ],
         "ipa": "/ˈsɛʃən ˈkiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "key exchange",
@@ -5702,7 +6074,8 @@
         ],
         "ipa": "/ˈki ɪksˈtʃeɪndʒɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "key rotation",
@@ -5717,7 +6090,8 @@
       "professional-reading",
       "technology",
       "cryptography"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "key derivation",
@@ -5741,7 +6115,8 @@
         ],
         "ipa": "/ˈki ˌdɛɹəˈveɪʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "key management",
@@ -5756,7 +6131,8 @@
       "professional-reading",
       "technology",
       "cryptography"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "digital signature",
@@ -5780,7 +6156,8 @@
         ],
         "ipa": "/ˈdɪdʒətəɫ ˈsɪɡnətʃɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "certificate authority",
@@ -5804,6 +6181,9 @@
         ],
         "ipa": "/sɝˈtɪfɪkət əˈθɔɹətiz/"
       }
+    ],
+    "synonyms": [
+      "CA"
     ]
   },
   {
@@ -5828,7 +6208,8 @@
         ],
         "ipa": "/sɝˈtɪfɪkət ˈtʃeɪnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "certificate revocation",
@@ -5843,7 +6224,8 @@
       "professional-reading",
       "technology",
       "cryptography"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "certificate validation",
@@ -5858,7 +6240,8 @@
       "professional-reading",
       "technology",
       "cryptography"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cryptographic hash",
@@ -5882,7 +6265,8 @@
         ],
         "ipa": "/ˌkrɪp.təˈɡræ.fɪk ˈhæʃɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "hash collision",
@@ -5906,7 +6290,8 @@
         ],
         "ipa": "/ˈhæʃ kəˈɫɪʒənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "message authentication code",
@@ -5921,6 +6306,9 @@
       "professional-reading",
       "technology",
       "cryptography"
+    ],
+    "synonyms": [
+      "MAC"
     ]
   },
   {
@@ -5936,7 +6324,8 @@
       "professional-reading",
       "technology",
       "cryptography"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "end to end encryption",
@@ -5951,6 +6340,9 @@
       "professional-reading",
       "technology",
       "cryptography"
+    ],
+    "synonyms": [
+      "E2EE"
     ]
   },
   {
@@ -5966,7 +6358,8 @@
       "professional-reading",
       "technology",
       "cryptography"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "encryption in transit",
@@ -5981,7 +6374,8 @@
       "professional-reading",
       "technology",
       "cryptography"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "hardware security module",
@@ -6005,6 +6399,9 @@
         ],
         "ipa": "/ˈhɑɹdˌwɛɹ sɪkˈjʊɹəti ˈmɑdʒuɫz/"
       }
+    ],
+    "synonyms": [
+      "HSM"
     ]
   },
   {
@@ -6029,7 +6426,8 @@
         ],
         "ipa": "/sɪkˈjʊɹ ˈɑnˌkɫeɪvz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "password hashing",
@@ -6044,7 +6442,8 @@
       "professional-reading",
       "technology",
       "cryptography"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "salted hash",
@@ -6068,7 +6467,8 @@
         ],
         "ipa": "/ˈsɔɫtɪd ˈhæʃɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "machine learning",
@@ -6083,6 +6483,9 @@
       "professional-reading",
       "technology",
       "machine-learning"
+    ],
+    "synonyms": [
+      "ML"
     ]
   },
   {
@@ -6098,7 +6501,8 @@
       "professional-reading",
       "technology",
       "machine-learning"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "unsupervised learning",
@@ -6113,7 +6517,8 @@
       "professional-reading",
       "technology",
       "machine-learning"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "reinforcement learning",
@@ -6128,6 +6533,9 @@
       "professional-reading",
       "technology",
       "machine-learning"
+    ],
+    "synonyms": [
+      "RL"
     ]
   },
   {
@@ -6152,7 +6560,8 @@
         ],
         "ipa": "/ˈtɹeɪnɪŋ ˈdeɪtəˌsɛts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "validation dataset",
@@ -6176,7 +6585,8 @@
         ],
         "ipa": "/ˌvæɫəˈdeɪʃən ˈdeɪtəˌsɛts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "test dataset",
@@ -6200,7 +6610,8 @@
         ],
         "ipa": "/ˈtɛst ˈdeɪtəˌsɛts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "regularization",
@@ -6215,7 +6626,8 @@
       "professional-reading",
       "technology",
       "machine-learning"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "overfitting",
@@ -6230,7 +6642,8 @@
       "professional-reading",
       "technology",
       "machine-learning"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "underfitting",
@@ -6245,7 +6658,8 @@
       "professional-reading",
       "technology",
       "machine-learning"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "neural network",
@@ -6278,6 +6692,9 @@
         ],
         "ipa": "/ˈnjʊɹəɫ ˈnɛtˌwɝks/"
       }
+    ],
+    "synonyms": [
+      "artificial neural network"
     ]
   },
   {
@@ -6293,7 +6710,8 @@
       "professional-reading",
       "technology",
       "machine-learning"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "loss function",
@@ -6317,7 +6735,8 @@
         ],
         "ipa": "/ˈɫɔs ˈfəŋkʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "gradient descent",
@@ -6332,7 +6751,8 @@
       "professional-reading",
       "technology",
       "machine-learning"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "backpropagation",
@@ -6347,7 +6767,8 @@
       "professional-reading",
       "technology",
       "machine-learning"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "batch size",
@@ -6371,7 +6792,8 @@
         ],
         "ipa": "/ˈbætʃ ˈsaɪzɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "hyperparameter tuning",
@@ -6386,7 +6808,8 @@
       "professional-reading",
       "technology",
       "machine-learning"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cross validation",
@@ -6401,7 +6824,8 @@
       "professional-reading",
       "technology",
       "machine-learning"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "class imbalance",
@@ -6425,7 +6849,8 @@
         ],
         "ipa": "/ˈkɫæs ɪmˈbæɫənsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "confusion matrix",
@@ -6449,7 +6874,8 @@
         ],
         "ipa": "/kənˈfjuʒən ˈmeɪtɹɪsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "precision score",
@@ -6473,7 +6899,8 @@
         ],
         "ipa": "/pɹiˈsɪʒən ˈskɔɹz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "recall score",
@@ -6497,7 +6924,8 @@
         ],
         "ipa": "/ˈɹiˌkɔɫ ˈskɔɹz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "model drift",
@@ -6512,7 +6940,8 @@
       "professional-reading",
       "technology",
       "machine-learning"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "concept drift",
@@ -6527,7 +6956,8 @@
       "professional-reading",
       "technology",
       "machine-learning"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "transfer learning",
@@ -6542,7 +6972,8 @@
       "professional-reading",
       "technology",
       "machine-learning"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "large language model",
@@ -6566,6 +6997,9 @@
         ],
         "ipa": "/ˈɫɑɹdʒ ˈɫæŋɡwədʒ ˈmɑdəɫz/"
       }
+    ],
+    "synonyms": [
+      "LLM"
     ]
   },
   {
@@ -6590,7 +7024,8 @@
         ],
         "ipa": "/faʊnˈdeɪʃən ˈmɑdəɫz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "language modeling",
@@ -6605,7 +7040,8 @@
       "professional-reading",
       "technology",
       "ai-systems"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "prompt engineering",
@@ -6620,7 +7056,8 @@
       "professional-reading",
       "technology",
       "ai-systems"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "context window",
@@ -6644,7 +7081,8 @@
         ],
         "ipa": "/ˈkɑntɛkst ˈwɪndoʊz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "tokenizer",
@@ -6668,7 +7106,8 @@
         ],
         "ipa": "/ˈtoʊ.kə.naɪ.zɚz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "embedding",
@@ -6701,7 +7140,8 @@
         ],
         "ipa": "/ɛmˈbɛdɪŋz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "vector database",
@@ -6725,7 +7165,8 @@
         ],
         "ipa": "/ˈvɛktɝ ˈdætəˌbeɪsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "semantic search",
@@ -6749,7 +7190,8 @@
         ],
         "ipa": "/sɪˈmæntɪk ˈsɝtʃɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "retrieval augmented generation",
@@ -6764,6 +7206,9 @@
       "professional-reading",
       "technology",
       "ai-systems"
+    ],
+    "synonyms": [
+      "RAG"
     ]
   },
   {
@@ -6779,7 +7224,8 @@
       "professional-reading",
       "technology",
       "ai-systems"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "inference latency",
@@ -6803,7 +7249,8 @@
         ],
         "ipa": "/ˈɪnfɝəns ˈɫeɪtənsiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "inference endpoint",
@@ -6827,7 +7274,8 @@
         ],
         "ipa": "/ˈɪnfɝəns ˈɛndˌpɔɪnts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "quantization",
@@ -6842,7 +7290,8 @@
       "professional-reading",
       "technology",
       "ai-systems"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "distillation",
@@ -6866,6 +7315,9 @@
         "example": "Distillation separated the alcohol from the mixture.",
         "exampleVi": "Quá trình chưng cất tách cồn ra khỏi hỗn hợp."
       }
+    ],
+    "synonyms": [
+      "knowledge distillation"
     ]
   },
   {
@@ -6881,7 +7333,8 @@
       "professional-reading",
       "technology",
       "ai-systems"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "instruction tuning",
@@ -6896,7 +7349,8 @@
       "professional-reading",
       "technology",
       "ai-systems"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "preference optimization",
@@ -6911,7 +7365,8 @@
       "professional-reading",
       "technology",
       "ai-systems"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "prompt injection",
@@ -6935,7 +7390,8 @@
         ],
         "ipa": "/ˈpɹɑmpt ˌɪnˈdʒɛkʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "model hallucination",
@@ -6959,7 +7415,8 @@
         ],
         "ipa": "/ˈmɑdəɫ həˌɫusəˈneɪʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "grounded response",
@@ -6983,7 +7440,8 @@
         ],
         "ipa": "/ˈɡɹaʊndɪd ɹiˈspɑnsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "tool calling",
@@ -6998,7 +7456,8 @@
       "professional-reading",
       "technology",
       "ai-systems"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "agent workflow",
@@ -7022,7 +7481,8 @@
         ],
         "ipa": "/ˈeɪdʒənt ˈwɝkˌfɫoʊz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "human in the loop",
@@ -7037,6 +7497,9 @@
       "professional-reading",
       "technology",
       "ai-systems"
+    ],
+    "synonyms": [
+      "HITL"
     ]
   },
   {
@@ -7061,7 +7524,8 @@
         ],
         "ipa": "/ˈmɑdəɫ iˌvæɫjuˈeɪʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "service level indicator",
@@ -7085,6 +7549,9 @@
         ],
         "ipa": "/ˈsɝvəs ˈɫɛvəɫ ˈɪndəˌkeɪtɝz/"
       }
+    ],
+    "synonyms": [
+      "SLI"
     ]
   },
   {
@@ -7109,7 +7576,8 @@
         ],
         "ipa": "/ˈsɝvəs dɪˈpɛndənsiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "service level agreement",
@@ -7133,6 +7601,9 @@
         ],
         "ipa": "/ˈsɝvəs ˈɫɛvəɫ əˈɡɹimənts/"
       }
+    ],
+    "synonyms": [
+      "SLA"
     ]
   },
   {
@@ -7148,7 +7619,8 @@
       "professional-reading",
       "technology",
       "operations"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "uptime monitoring",
@@ -7163,7 +7635,8 @@
       "professional-reading",
       "technology",
       "operations"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "synthetic monitoring",
@@ -7178,7 +7651,8 @@
       "professional-reading",
       "technology",
       "operations"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "trace sampling",
@@ -7193,7 +7667,8 @@
       "professional-reading",
       "technology",
       "operations"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "log correlation",
@@ -7217,7 +7692,8 @@
         ],
         "ipa": "/ˈɫɔɡ ˌkɔɹəˈɫeɪʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "log aggregation",
@@ -7232,7 +7708,8 @@
       "professional-reading",
       "technology",
       "operations"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "metric collection",
@@ -7247,7 +7724,8 @@
       "professional-reading",
       "technology",
       "operations"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "alert threshold",
@@ -7271,7 +7749,8 @@
         ],
         "ipa": "/əˈɫɝt ˈθɹɛˌʃoʊɫdz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "alert suppression",
@@ -7286,7 +7765,8 @@
       "professional-reading",
       "technology",
       "operations"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "on call rotation",
@@ -7301,7 +7781,8 @@
       "professional-reading",
       "technology",
       "operations"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "incident commander",
@@ -7325,7 +7806,8 @@
         ],
         "ipa": "/ˈɪnsədənt kəˈmændɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "root cause analysis",
@@ -7349,6 +7831,9 @@
         ],
         "ipa": "/ˈɹut ˈkɑz əˈnæləsiːz/"
       }
+    ],
+    "synonyms": [
+      "RCA"
     ]
   },
   {
@@ -7373,7 +7858,8 @@
         ],
         "ipa": "/ˈpoʊst ˈɪnsədənt ˌɹivˈjuz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "capacity forecast",
@@ -7397,7 +7883,8 @@
         ],
         "ipa": "/kəˈpæsəti ˈfɔɹˌkæsts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "performance profiling",
@@ -7412,7 +7899,8 @@
       "professional-reading",
       "technology",
       "operations"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "resource utilization",
@@ -7427,7 +7915,8 @@
       "professional-reading",
       "technology",
       "operations"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "connection timeout",
@@ -7451,7 +7940,8 @@
         ],
         "ipa": "/kəˈnɛkʃən ˈtaɪˌmaʊts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "request timeout",
@@ -7475,7 +7965,8 @@
         ],
         "ipa": "/ɹiˈkwɛst ˈtaɪˌmaʊts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "retry policy",
@@ -7499,7 +7990,8 @@
         ],
         "ipa": "/ɹiˈtɹaɪ ˈpɑɫəsiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "retry interval",
@@ -7523,7 +8015,8 @@
         ],
         "ipa": "/ɹiˈtɹaɪ ˈɪntɝvəɫz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "shutdown hook",
@@ -7547,7 +8040,8 @@
         ],
         "ipa": "/ˈʃətˌdaʊn ˈhʊks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "fault injection",
@@ -7571,7 +8065,8 @@
         ],
         "ipa": "/ˈfɔɫt ˌɪnˈdʒɛkʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "chiplet",
@@ -7595,7 +8090,8 @@
         ],
         "ipa": "/ˈtʃɪp.ləts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "shader",
@@ -7619,7 +8115,8 @@
         ],
         "ipa": "/ˈʃeɪdɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "tensor processing unit",
@@ -7643,6 +8140,9 @@
         ],
         "ipa": "/ˈtɛnsɝ ˈpɹɑsɛsɪŋ ˈjunəts/"
       }
+    ],
+    "synonyms": [
+      "TPU"
     ]
   },
   {
@@ -7667,7 +8167,8 @@
         ],
         "ipa": "/ˌɪnˈstɹəkʃən ˈsɛts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "socket",
@@ -7707,7 +8208,8 @@
         ],
         "ipa": "/ˈsɑkəts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "die",
@@ -7764,7 +8266,8 @@
         ],
         "ipa": "/ˈdaɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cache line",
@@ -7788,7 +8291,8 @@
         ],
         "ipa": "/ˈkæʃ ˈɫaɪnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "bootloader",
@@ -7812,7 +8316,8 @@
         ],
         "ipa": "/ˈbuːtˌloʊ.dɚz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "memory bandwidth",
@@ -7827,7 +8332,8 @@
       "professional-reading",
       "technology",
       "hardware"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "memory channel",
@@ -7851,7 +8357,8 @@
         ],
         "ipa": "/ˈmɛmɝi ˈtʃænəɫz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "direct memory access",
@@ -7866,6 +8373,9 @@
       "professional-reading",
       "technology",
       "hardware"
+    ],
+    "synonyms": [
+      "DMA"
     ]
   },
   {
@@ -7890,6 +8400,9 @@
         ],
         "ipa": "/ˈsɑɫəd ˈsteɪt ˈdɹaɪvz/"
       }
+    ],
+    "synonyms": [
+      "SSD"
     ]
   },
   {
@@ -7914,6 +8427,9 @@
         ],
         "ipa": "/ˈhɑɹd ˈdɪsk ˈdɹaɪvz/"
       }
+    ],
+    "synonyms": [
+      "HDD"
     ]
   },
   {
@@ -7929,7 +8445,8 @@
       "professional-reading",
       "technology",
       "hardware"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "wafer",
@@ -7962,7 +8479,8 @@
         ],
         "ipa": "/ˈweɪfɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "foundry",
@@ -7995,7 +8513,8 @@
         ],
         "ipa": "/ˈfaʊndɹiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "overclocking",
@@ -8010,7 +8529,8 @@
       "professional-reading",
       "technology",
       "hardware"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "thermal throttling",
@@ -8025,7 +8545,8 @@
       "professional-reading",
       "technology",
       "hardware"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "undervolting",
@@ -8040,7 +8561,8 @@
       "professional-reading",
       "technology",
       "hardware"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cooling fan",
@@ -8064,7 +8586,8 @@
         ],
         "ipa": "/ˈkuɫɪŋ ˈfænz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "bus",
@@ -8097,7 +8620,8 @@
         ],
         "ipa": "/ˈbəsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "input device",
@@ -8121,7 +8645,8 @@
         ],
         "ipa": "/ˈɪnˌpʊt dɪˈvaɪsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "output device",
@@ -8145,7 +8670,8 @@
         ],
         "ipa": "/ˈaʊtˌpʊt dɪˈvaɪsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "embedded system",
@@ -8169,7 +8695,8 @@
         ],
         "ipa": "/ɛmˈbɛdɪd ˈsɪstəmz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "real time operating system",
@@ -8193,6 +8720,9 @@
         ],
         "ipa": "/ˈɹiɫ ˈtaɪm ˈɑpɝˌeɪtɪŋ ˈsɪstəmz/"
       }
+    ],
+    "synonyms": [
+      "RTOS"
     ]
   },
   {
@@ -8217,6 +8747,9 @@
         ],
         "ipa": "/ˈbæɫəns ˈʃits/"
       }
+    ],
+    "synonyms": [
+      "statement of financial position"
     ]
   },
   {
@@ -8241,6 +8774,9 @@
         ],
         "ipa": "/ˈɪnˌkəm ˈsteɪtmənts/"
       }
+    ],
+    "synonyms": [
+      "profit and loss statement"
     ]
   },
   {
@@ -8265,6 +8801,9 @@
         ],
         "ipa": "/ˈkæʃ ˈfɫoʊ ˈsteɪtmənts/"
       }
+    ],
+    "synonyms": [
+      "statement of cash flows"
     ]
   },
   {
@@ -8289,6 +8828,9 @@
         ],
         "ipa": "/ˈsteɪtmənts əv ˈɛkwəti/"
       }
+    ],
+    "synonyms": [
+      "statement of changes in equity"
     ]
   },
   {
@@ -8313,7 +8855,8 @@
         ],
         "ipa": "/ˈdʒɛnɝəɫ ˈɫɛdʒɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "subsidiary ledger",
@@ -8337,6 +8880,9 @@
         ],
         "ipa": "/səbˈsɪdiˌɛɹi ˈɫɛdʒɝz/"
       }
+    ],
+    "synonyms": [
+      "subledger"
     ]
   },
   {
@@ -8361,7 +8907,8 @@
         ],
         "ipa": "/ˈtɹaɪəɫ ˈbæɫənsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "journal entry",
@@ -8385,7 +8932,8 @@
         ],
         "ipa": "/ˈdʒɝnəɫ ˈɛntɹiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "double entry bookkeeping",
@@ -8400,6 +8948,9 @@
       "professional-reading",
       "finance",
       "accounting"
+    ],
+    "synonyms": [
+      "double-entry accounting"
     ]
   },
   {
@@ -8424,6 +8975,9 @@
         ],
         "ipa": "/əˈkaʊnɪŋ ˈpɪɹiədz/"
       }
+    ],
+    "synonyms": [
+      "financial period"
     ]
   },
   {
@@ -8448,6 +9002,9 @@
         ],
         "ipa": "/ˈfɪskəɫ ˈjɪɹz/"
       }
+    ],
+    "synonyms": [
+      "financial year"
     ]
   },
   {
@@ -8463,7 +9020,8 @@
       "professional-reading",
       "finance",
       "accounting"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cash basis accounting",
@@ -8478,7 +9036,8 @@
       "professional-reading",
       "finance",
       "accounting"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "revenue recognition",
@@ -8493,7 +9052,8 @@
       "professional-reading",
       "finance",
       "accounting"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "expense recognition",
@@ -8508,7 +9068,8 @@
       "professional-reading",
       "finance",
       "accounting"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "matching principle",
@@ -8532,7 +9093,8 @@
         ],
         "ipa": "/ˈmætʃɪŋ ˈpɹɪnsəpəɫz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "going concern",
@@ -8556,7 +9118,8 @@
         ],
         "ipa": "/ˈɡoʊɪn kənˈsɝnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "accounting estimate",
@@ -8580,7 +9143,8 @@
         ],
         "ipa": "/əˈkaʊnɪŋ ˈɛstəˌmeɪts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "accounting policy",
@@ -8604,7 +9168,8 @@
         ],
         "ipa": "/əˈkaʊnɪŋ ˈpɑɫəsiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "material misstatement",
@@ -8628,7 +9193,8 @@
         ],
         "ipa": "/məˈtɪɹiəɫ mɪˈsteɪtmənts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "adjusting entry",
@@ -8652,7 +9218,8 @@
         ],
         "ipa": "/əˈdʒəstɪŋ ˈɛntɹiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "closing entry",
@@ -8676,7 +9243,8 @@
         ],
         "ipa": "/ˈkɫoʊzɪŋ ˈɛntɹiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "opening balance",
@@ -8700,6 +9268,9 @@
         ],
         "ipa": "/ˈoʊpənɪŋ ˈbæɫənsɪz/"
       }
+    ],
+    "synonyms": [
+      "beginning balance"
     ]
   },
   {
@@ -8724,6 +9295,9 @@
         ],
         "ipa": "/ˈkɫoʊzɪŋ ˈbæɫənsɪz/"
       }
+    ],
+    "synonyms": [
+      "ending balance"
     ]
   },
   {
@@ -8739,7 +9313,8 @@
       "professional-reading",
       "finance",
       "accounting"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "gross profit",
@@ -8754,7 +9329,8 @@
       "professional-reading",
       "finance",
       "analysis"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "operating profit",
@@ -8769,6 +9345,9 @@
       "professional-reading",
       "finance",
       "analysis"
+    ],
+    "synonyms": [
+      "operating income"
     ]
   },
   {
@@ -8784,6 +9363,9 @@
       "professional-reading",
       "finance",
       "analysis"
+    ],
+    "synonyms": [
+      "net income"
     ]
   },
   {
@@ -8808,7 +9390,8 @@
         ],
         "ipa": "/ˈɡɹoʊs ˈmɑɹdʒənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "operating margin",
@@ -8832,7 +9415,8 @@
         ],
         "ipa": "/ˈɑpɝˌeɪtɪŋ ˈmɑɹdʒənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "net margin",
@@ -8856,6 +9440,9 @@
         ],
         "ipa": "/ˈnɛt ˈmɑɹdʒənz/"
       }
+    ],
+    "synonyms": [
+      "net profit margin"
     ]
   },
   {
@@ -8871,6 +9458,9 @@
       "professional-reading",
       "finance",
       "analysis"
+    ],
+    "synonyms": [
+      "ROA"
     ]
   },
   {
@@ -8886,6 +9476,9 @@
       "professional-reading",
       "finance",
       "analysis"
+    ],
+    "synonyms": [
+      "ROE"
     ]
   },
   {
@@ -8901,6 +9494,9 @@
       "professional-reading",
       "finance",
       "analysis"
+    ],
+    "synonyms": [
+      "ROI"
     ]
   },
   {
@@ -8916,6 +9512,9 @@
       "professional-reading",
       "finance",
       "analysis"
+    ],
+    "synonyms": [
+      "ROIC"
     ]
   },
   {
@@ -8940,7 +9539,8 @@
         ],
         "ipa": "/ˈkɑɹənt ˈɹeɪʃiˌoʊz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "quick ratio",
@@ -8964,6 +9564,9 @@
         ],
         "ipa": "/ˈkwɪk ˈɹeɪʃiˌoʊz/"
       }
+    ],
+    "synonyms": [
+      "acid-test ratio"
     ]
   },
   {
@@ -8988,7 +9591,8 @@
         ],
         "ipa": "/ˈkæʃ ˈɹeɪʃiˌoʊz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "debt to equity ratio",
@@ -9012,6 +9616,9 @@
         ],
         "ipa": "/ˈdɛt tə ˈɛkwəti ˈɹeɪʃiˌoʊz/"
       }
+    ],
+    "synonyms": [
+      "D/E ratio"
     ]
   },
   {
@@ -9036,7 +9643,8 @@
         ],
         "ipa": "/ˈɪntɝəst ˈkəvɝədʒ ˈɹeɪʃiˌoʊz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "asset turnover",
@@ -9051,7 +9659,8 @@
       "professional-reading",
       "finance",
       "analysis"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "inventory turnover",
@@ -9066,7 +9675,8 @@
       "professional-reading",
       "finance",
       "analysis"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "receivable turnover",
@@ -9081,7 +9691,8 @@
       "professional-reading",
       "finance",
       "analysis"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "payable turnover",
@@ -9096,7 +9707,8 @@
       "professional-reading",
       "finance",
       "analysis"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "working capital",
@@ -9111,7 +9723,8 @@
       "professional-reading",
       "finance",
       "analysis"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cash conversion cycle",
@@ -9135,7 +9748,8 @@
         ],
         "ipa": "/ˈkæʃ kənˈvɝʒən ˈsaɪkəɫz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "operating cash flow",
@@ -9150,7 +9764,8 @@
       "professional-reading",
       "finance",
       "analysis"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "free cash flow",
@@ -9165,6 +9780,9 @@
       "professional-reading",
       "finance",
       "analysis"
+    ],
+    "synonyms": [
+      "FCF"
     ]
   },
   {
@@ -9180,6 +9798,9 @@
       "professional-reading",
       "finance",
       "analysis"
+    ],
+    "synonyms": [
+      "EPS"
     ]
   },
   {
@@ -9204,7 +9825,8 @@
         ],
         "ipa": "/ˈdɪvɪˌdɛnd ˈpeɪˌaʊt ˈɹeɪʃiˌoʊz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "dividend",
@@ -9239,7 +9861,8 @@
         "example": "Investing in staff training paid dividends a year later.",
         "exampleVi": "Đầu tư đào tạo nhân viên mang lại lợi ích một năm sau."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "capitalization",
@@ -9279,6 +9902,9 @@
         ],
         "ipa": "/ˌkæpɪtəɫɪˈzeɪʃənz/"
       }
+    ],
+    "synonyms": [
+      "market capitalization"
     ]
   },
   {
@@ -9294,7 +9920,8 @@
       "professional-reading",
       "finance",
       "securities"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "underwriter",
@@ -9327,7 +9954,8 @@
         ],
         "ipa": "/ˈəndɝˌɹaɪtɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "syndication",
@@ -9351,7 +9979,8 @@
         "example": "Syndication made the column available to regional newspapers.",
         "exampleVi": "Việc phân phối nội dung đưa chuyên mục đến các báo địa phương."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "outstanding share",
@@ -9375,7 +10004,8 @@
         ],
         "ipa": "/ˌaʊtˈstændɪŋ ˈʃɛɹz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "share capital",
@@ -9390,7 +10020,8 @@
       "professional-reading",
       "finance",
       "securities"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "market capitalization",
@@ -9414,6 +10045,9 @@
         ],
         "ipa": "/ˈmɑɹkət ˌkæpɪtəɫɪˈzeɪʃənz/"
       }
+    ],
+    "synonyms": [
+      "market cap"
     ]
   },
   {
@@ -9438,7 +10072,8 @@
         ],
         "ipa": "/ˈstɑk ɪksˈtʃeɪndʒɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "stock index",
@@ -9469,7 +10104,8 @@
         ],
         "ipa": "/ˈstɑk ˈɪndəsɪz/, /ˈstɑk ˈɪndɪˌsiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "initial public offering",
@@ -9493,6 +10129,9 @@
         ],
         "ipa": "/ˌɪˈnɪʃəɫ ˈpəbɫɪk ˈɔfɝɪŋz/"
       }
+    ],
+    "synonyms": [
+      "IPO"
     ]
   },
   {
@@ -9517,7 +10156,8 @@
         ],
         "ipa": "/ˈsɛkənˌdɛɹi ˈɔfɝɪŋz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "dilution",
@@ -9541,7 +10181,8 @@
         "example": "Dilution reduced the concentration of the cleaning solution.",
         "exampleVi": "Việc pha loãng làm giảm nồng độ dung dịch tẩy rửa."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "private placement",
@@ -9565,7 +10206,8 @@
         ],
         "ipa": "/ˈpɹaɪvət ˈpɫeɪsmənts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "share buyback",
@@ -9589,6 +10231,9 @@
         ],
         "ipa": "/ˈʃɛɹ ˈbaɪˌbæks/"
       }
+    ],
+    "synonyms": [
+      "stock repurchase"
     ]
   },
   {
@@ -9613,7 +10258,8 @@
         ],
         "ipa": "/ˈstɑk ˈspɫɪts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "reverse stock split",
@@ -9637,6 +10283,9 @@
         ],
         "ipa": "/ɹiˈvɝs ˈstɑk ˈspɫɪts/"
       }
+    ],
+    "synonyms": [
+      "share consolidation"
     ]
   },
   {
@@ -9661,7 +10310,8 @@
         ],
         "ipa": "/ˈkæʃ ˈdɪvɪˌdɛndz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "stock dividend",
@@ -9685,7 +10335,8 @@
         ],
         "ipa": "/ˈstɑk ˈdɪvɪˌdɛndz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "ex dividend date",
@@ -9709,7 +10360,8 @@
         ],
         "ipa": "/ˈɛks ˈdɪvɪˌdɛnd ˈdeɪts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "record date",
@@ -9733,7 +10385,8 @@
         ],
         "ipa": "/ˈrɛk.ɚd ˈdeɪts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "dividend yield",
@@ -9757,7 +10410,8 @@
         ],
         "ipa": "/ˈdɪvɪˌdɛnd ˈjiɫdz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "price earnings ratio",
@@ -9781,6 +10435,9 @@
         ],
         "ipa": "/ˈpɹaɪs ˈɝnɪŋz ˈɹeɪʃiˌoʊz/"
       }
+    ],
+    "synonyms": [
+      "P/E ratio"
     ]
   },
   {
@@ -9814,6 +10471,9 @@
         ],
         "ipa": "/dɝˈɪvətɪvz/"
       }
+    ],
+    "synonyms": [
+      "derivative instrument"
     ]
   },
   {
@@ -9829,7 +10489,8 @@
       "professional-reading",
       "finance",
       "securities"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "asset allocation",
@@ -9844,7 +10505,8 @@
       "professional-reading",
       "finance",
       "investment"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "portfolio diversification",
@@ -9859,7 +10521,8 @@
       "professional-reading",
       "finance",
       "investment"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "portfolio rebalancing",
@@ -9874,7 +10537,8 @@
       "professional-reading",
       "finance",
       "investment"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "investment horizon",
@@ -9898,7 +10562,8 @@
         ],
         "ipa": "/ˌɪnˈvɛsmənt hɝˈaɪzənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "risk tolerance",
@@ -9913,7 +10578,8 @@
       "professional-reading",
       "finance",
       "investment"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "risk appetite",
@@ -9928,7 +10594,8 @@
       "professional-reading",
       "finance",
       "investment"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "risk adjusted return",
@@ -9943,7 +10610,8 @@
       "professional-reading",
       "finance",
       "investment"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "expected return",
@@ -9967,7 +10635,8 @@
         ],
         "ipa": "/ɪkˈspɛktəd ɹiˈtɝnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "total return",
@@ -9982,7 +10651,8 @@
       "professional-reading",
       "finance",
       "investment"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "liquidation",
@@ -9997,6 +10667,9 @@
       "professional-reading",
       "finance",
       "investment"
+    ],
+    "synonyms": [
+      "winding up"
     ]
   },
   {
@@ -10021,7 +10694,8 @@
         ],
         "ipa": "/ˌɹiˌkæpɪtəɫɪˈzeɪʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "amortization",
@@ -10045,7 +10719,8 @@
         "example": "The loan schedule shows the amortization of principal over ten years.",
         "exampleVi": "Lịch khoản vay thể hiện việc trả dần tiền gốc trong mười năm."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "depreciation",
@@ -10069,7 +10744,8 @@
         "example": "Currency depreciation made imported components more expensive.",
         "exampleVi": "Sự giảm giá đồng tiền khiến linh kiện nhập khẩu đắt hơn."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "securitization",
@@ -10084,7 +10760,8 @@
       "professional-reading",
       "finance",
       "investment"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "mutual fund",
@@ -10108,7 +10785,8 @@
         ],
         "ipa": "/ˈmjutʃuəɫ ˈfəndz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "exchange traded fund",
@@ -10132,6 +10810,9 @@
         ],
         "ipa": "/ɪksˈtʃeɪndʒ ˈtɹeɪdɪd ˈfəndz/"
       }
+    ],
+    "synonyms": [
+      "ETF"
     ]
   },
   {
@@ -10156,7 +10837,8 @@
         ],
         "ipa": "/ˈɪndɛks ˈfəndz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "hedge fund",
@@ -10180,7 +10862,8 @@
         ],
         "ipa": "/ˈhɛdʒ ˈfəndz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "private equity",
@@ -10195,7 +10878,8 @@
       "professional-reading",
       "finance",
       "investment"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "venture capital",
@@ -10210,6 +10894,9 @@
       "professional-reading",
       "finance",
       "investment"
+    ],
+    "synonyms": [
+      "VC"
     ]
   },
   {
@@ -10234,7 +10921,8 @@
         ],
         "ipa": "/ɪkˈspɛns ˈɹeɪʃiˌoʊz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "collateralization",
@@ -10249,7 +10937,8 @@
       "professional-reading",
       "finance",
       "investment"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "performance fee",
@@ -10273,7 +10962,8 @@
         ],
         "ipa": "/pɝˈfɔɹməns ˈfiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "benchmark index",
@@ -10304,7 +10994,8 @@
         ],
         "ipa": "/ˈbɛntʃˌmɑɹk ˈɪndəsɪz/, /ˈbɛntʃˌmɑɹk ˈɪndɪˌsiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "tracking error",
@@ -10328,7 +11019,8 @@
         ],
         "ipa": "/ˈtɹækɪŋ ˈɛɹɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cash management",
@@ -10343,7 +11035,8 @@
       "professional-reading",
       "finance",
       "treasury-tax"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cash pooling",
@@ -10358,7 +11051,8 @@
       "professional-reading",
       "finance",
       "treasury-tax"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cash forecast",
@@ -10382,7 +11076,8 @@
         ],
         "ipa": "/ˈkæʃ ˈfɔɹˌkæsts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "liquidity buffer",
@@ -10406,7 +11101,8 @@
         ],
         "ipa": "/ɫɪˈkwɪdəti ˈbəfɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "foreign exchange",
@@ -10421,6 +11117,10 @@
       "professional-reading",
       "finance",
       "treasury-tax"
+    ],
+    "synonyms": [
+      "forex",
+      "FX"
     ]
   },
   {
@@ -10445,7 +11145,8 @@
         ],
         "ipa": "/ɪksˈtʃeɪndʒ ˈɹeɪt ˈɹɪsks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "currency exposure",
@@ -10460,7 +11161,8 @@
       "professional-reading",
       "finance",
       "treasury-tax"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "transaction exposure",
@@ -10475,7 +11177,8 @@
       "professional-reading",
       "finance",
       "treasury-tax"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "translation exposure",
@@ -10490,7 +11193,8 @@
       "professional-reading",
       "finance",
       "treasury-tax"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "hedging strategy",
@@ -10514,7 +11218,8 @@
         ],
         "ipa": "/ˈhɛdʒɪŋ ˈstɹætədʒiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "taxable income",
@@ -10529,7 +11234,8 @@
       "professional-reading",
       "finance",
       "treasury-tax"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "tax deduction",
@@ -10553,7 +11259,8 @@
         ],
         "ipa": "/ˈtæks dɪˈdəkʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "tax credit",
@@ -10577,7 +11284,8 @@
         ],
         "ipa": "/ˈtæks ˈkɹɛdəts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "withholding tax",
@@ -10601,7 +11309,8 @@
         ],
         "ipa": "/wɪθˈhoʊɫdɪŋ ˈtæksɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "corporate income tax",
@@ -10625,6 +11334,9 @@
         ],
         "ipa": "/ˈkɔɹpɝət ˈɪnˌkəm ˈtæksɪz/"
       }
+    ],
+    "synonyms": [
+      "corporation tax"
     ]
   },
   {
@@ -10649,6 +11361,9 @@
         ],
         "ipa": "/ˈvæɫju ˈædəd ˈtæksɪz/"
       }
+    ],
+    "synonyms": [
+      "VAT"
     ]
   },
   {
@@ -10673,7 +11388,8 @@
         ],
         "ipa": "/ˈkæpətəɫ ˈɡeɪnz ˈtæksɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "tax base",
@@ -10697,7 +11413,8 @@
         ],
         "ipa": "/ˈtæks ˈbeɪsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "tax liability",
@@ -10721,7 +11438,8 @@
         ],
         "ipa": "/ˈtæks ˌɫaɪəˈbɪɫɪtiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "tax return",
@@ -10745,7 +11463,8 @@
         ],
         "ipa": "/ˈtæks ɹiˈtɝnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "tax residency",
@@ -10760,7 +11479,8 @@
       "professional-reading",
       "finance",
       "treasury-tax"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "transfer pricing",
@@ -10775,7 +11495,8 @@
       "professional-reading",
       "finance",
       "treasury-tax"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "double taxation",
@@ -10790,7 +11511,8 @@
       "professional-reading",
       "finance",
       "treasury-tax"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "tax treaty",
@@ -10814,7 +11536,8 @@
         ],
         "ipa": "/ˈtæks ˈtɹitiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "tax audit",
@@ -10838,7 +11561,8 @@
         ],
         "ipa": "/ˈtæks ˈɔdɪts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "market segmentation",
@@ -10853,7 +11577,8 @@
       "professional-reading",
       "business",
       "sales-marketing"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "target audience",
@@ -10877,7 +11602,8 @@
         ],
         "ipa": "/ˈtɑɹɡət ˈɑdiənsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "buyer persona",
@@ -10901,7 +11627,8 @@
         ],
         "ipa": "/ˈbaɪɝ pɝˈsoʊnəz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "brand positioning",
@@ -10916,7 +11643,8 @@
       "professional-reading",
       "business",
       "sales-marketing"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "brand awareness",
@@ -10931,7 +11659,8 @@
       "professional-reading",
       "business",
       "sales-marketing"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "brand equity",
@@ -10946,7 +11675,8 @@
       "professional-reading",
       "business",
       "sales-marketing"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "brand identity",
@@ -10970,7 +11700,8 @@
         ],
         "ipa": "/ˈbɹænd aɪˈdɛntɪˌtiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "value proposition",
@@ -10994,7 +11725,8 @@
         ],
         "ipa": "/ˈvæɫju ˌpɹɑpəˈzɪʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "unique selling proposition",
@@ -11018,6 +11750,9 @@
         ],
         "ipa": "/juˈnik ˈsɛɫɪŋ ˌpɹɑpəˈzɪʃənz/"
       }
+    ],
+    "synonyms": [
+      "USP"
     ]
   },
   {
@@ -11042,7 +11777,8 @@
         ],
         "ipa": "/kəmˈpɛtətɪv ædˈvæntɪdʒɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "market penetration",
@@ -11057,7 +11793,8 @@
       "professional-reading",
       "business",
       "sales-marketing"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "market share",
@@ -11081,7 +11818,8 @@
         ],
         "ipa": "/ˈmɑɹkət ˈʃɛɹz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "sales funnel",
@@ -11105,7 +11843,8 @@
         ],
         "ipa": "/ˈseɪɫz ˈfənəɫz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "sales pipeline",
@@ -11129,7 +11868,8 @@
         ],
         "ipa": "/ˈseɪɫz ˈpaɪˌpɫaɪnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "lead generation",
@@ -11144,7 +11884,8 @@
       "professional-reading",
       "business",
       "sales-marketing"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "lead qualification",
@@ -11159,7 +11900,8 @@
       "professional-reading",
       "business",
       "sales-marketing"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "lead scoring",
@@ -11174,7 +11916,8 @@
       "professional-reading",
       "business",
       "sales-marketing"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "conversion rate",
@@ -11198,7 +11941,8 @@
         ],
         "ipa": "/kənˈvɝʒən ˈɹeɪts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "customer acquisition cost",
@@ -11222,6 +11966,9 @@
         ],
         "ipa": "/ˈkəstəmɝ ˌækwəˈzɪʃən ˈkɑsts/"
       }
+    ],
+    "synonyms": [
+      "CAC"
     ]
   },
   {
@@ -11246,6 +11993,10 @@
         ],
         "ipa": "/ˈkəstəmɝ ˈɫaɪfˌtaɪm ˈvæɫjuz/"
       }
+    ],
+    "synonyms": [
+      "CLV",
+      "LTV"
     ]
   },
   {
@@ -11270,7 +12021,8 @@
         ],
         "ipa": "/ˈseɪɫz ˈfɔɹˌkæsts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "sales quota",
@@ -11294,7 +12046,8 @@
         ],
         "ipa": "/ˈseɪɫz ˈkwoʊtəz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cross selling",
@@ -11309,7 +12062,8 @@
       "professional-reading",
       "business",
       "sales-marketing"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "up selling",
@@ -11324,6 +12078,9 @@
       "professional-reading",
       "business",
       "sales-marketing"
+    ],
+    "synonyms": [
+      "upselling"
     ]
   },
   {
@@ -11348,7 +12105,8 @@
         ],
         "ipa": "/ˈtʃænəɫ ˈpɑɹtnɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "business process",
@@ -11372,6 +12130,9 @@
         ],
         "ipa": "/ˈbɪznəs ˈpɹɑˌsɛsɪz/"
       }
+    ],
+    "synonyms": [
+      "business workflow"
     ]
   },
   {
@@ -11387,7 +12148,8 @@
       "professional-reading",
       "business",
       "operations"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "process improvement",
@@ -11402,7 +12164,8 @@
       "professional-reading",
       "business",
       "operations"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "process automation",
@@ -11417,7 +12180,8 @@
       "professional-reading",
       "business",
       "operations"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "standard operating procedure",
@@ -11441,6 +12205,9 @@
         ],
         "ipa": "/ˈstændɝd ˈɑpɝˌeɪtɪŋ pɹəˈsidʒɝz/"
       }
+    ],
+    "synonyms": [
+      "SOP"
     ]
   },
   {
@@ -11465,7 +12232,8 @@
         ],
         "ipa": "/ˈwɝk ˌɪnˈstɹəkʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "quality assurance",
@@ -11480,6 +12248,9 @@
       "professional-reading",
       "business",
       "operations"
+    ],
+    "synonyms": [
+      "QA"
     ]
   },
   {
@@ -11495,6 +12266,9 @@
       "professional-reading",
       "business",
       "operations"
+    ],
+    "synonyms": [
+      "QC"
     ]
   },
   {
@@ -11519,6 +12293,9 @@
         ],
         "ipa": "/ˈkwɑɫəti ˈmænədʒmənt ˈsɪstəmz/"
       }
+    ],
+    "synonyms": [
+      "QMS"
     ]
   },
   {
@@ -11534,7 +12311,8 @@
       "professional-reading",
       "business",
       "operations"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "lean management",
@@ -11549,7 +12327,8 @@
       "professional-reading",
       "business",
       "operations"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "value stream mapping",
@@ -11564,7 +12343,8 @@
       "professional-reading",
       "business",
       "operations"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cycle time",
@@ -11588,7 +12368,8 @@
         ],
         "ipa": "/ˈsaɪkəɫ ˈtaɪmz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "takt time",
@@ -11612,7 +12393,8 @@
         ],
         "ipa": "/tækt ˈtaɪmz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "throughput rate",
@@ -11636,6 +12418,9 @@
         ],
         "ipa": "/ˈθɹuˌpʊt ˈɹeɪts/"
       }
+    ],
+    "synonyms": [
+      "throughput"
     ]
   },
   {
@@ -11660,7 +12445,8 @@
         ],
         "ipa": "/pɝˈdəkʃən kəˈpæsətiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "capacity utilization",
@@ -11675,7 +12461,8 @@
       "professional-reading",
       "business",
       "operations"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "resource planning",
@@ -11690,7 +12477,8 @@
       "professional-reading",
       "business",
       "operations"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "workforce scheduling",
@@ -11705,7 +12493,8 @@
       "professional-reading",
       "business",
       "operations"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "business continuity",
@@ -11720,7 +12509,8 @@
       "professional-reading",
       "business",
       "operations"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "disaster recovery",
@@ -11744,7 +12534,8 @@
         ],
         "ipa": "/dɪˈzæstɝ ɹɪˈkəvɝiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "contingency plan",
@@ -11768,6 +12559,9 @@
         ],
         "ipa": "/kənˈtɪndʒənsi ˈpɫænz/"
       }
+    ],
+    "synonyms": [
+      "emergency plan"
     ]
   },
   {
@@ -11792,7 +12586,8 @@
         ],
         "ipa": "/kɝˈɛktɪv ˈækʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "preventive action",
@@ -11816,7 +12611,8 @@
         ],
         "ipa": "/pɹiˈvɛnɪv ˈækʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "root cause investigation",
@@ -11840,7 +12636,8 @@
         ],
         "ipa": "/ˈɹut ˈkɑz ˌɪnˌvɛstəˈɡeɪʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "strategic planning",
@@ -11855,7 +12652,8 @@
       "professional-reading",
       "business",
       "strategy"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "business strategy",
@@ -11879,7 +12677,8 @@
         ],
         "ipa": "/ˈbɪznəs ˈstɹætədʒiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "corporate strategy",
@@ -11903,7 +12702,8 @@
         ],
         "ipa": "/ˈkɔɹpɝət ˈstɹætədʒiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "growth strategy",
@@ -11927,7 +12727,8 @@
         ],
         "ipa": "/ˈɡɹoʊθ ˈstɹætədʒiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "market entry strategy",
@@ -11951,7 +12752,8 @@
         ],
         "ipa": "/ˈmɑɹkət ˈɛntɹi ˈstɹætədʒiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "exit strategy",
@@ -11975,7 +12777,8 @@
         ],
         "ipa": "/ˈɛɡzɪt ˈstɹætədʒiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "product strategy",
@@ -11999,7 +12802,8 @@
         ],
         "ipa": "/ˈpɹɑdəkt ˈstɹætədʒiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "pricing strategy",
@@ -12023,7 +12827,8 @@
         ],
         "ipa": "/ˈpɹaɪsɪŋ ˈstɹætədʒiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "competitive analysis",
@@ -12047,7 +12852,8 @@
         ],
         "ipa": "/kəmˈpɛtətɪv əˈnæləsiːz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "industry analysis",
@@ -12071,7 +12877,8 @@
         ],
         "ipa": "/ˈɪndəstɹi əˈnæləsiːz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "scenario planning",
@@ -12086,7 +12893,8 @@
       "professional-reading",
       "business",
       "strategy"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "strategic alignment",
@@ -12101,7 +12909,8 @@
       "professional-reading",
       "business",
       "strategy"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "strategic initiative",
@@ -12125,7 +12934,8 @@
         ],
         "ipa": "/stɹəˈtidʒɪk ˌɪˈnɪʃətɪvz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "strategic objective",
@@ -12149,7 +12959,8 @@
         ],
         "ipa": "/stɹəˈtidʒɪk əbˈdʒɛktɪvz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "core competency",
@@ -12173,6 +12984,9 @@
         ],
         "ipa": "/ˈkɔɹ ˈkɑmpətɪnsiz/"
       }
+    ],
+    "synonyms": [
+      "core competence"
     ]
   },
   {
@@ -12197,7 +13011,8 @@
         ],
         "ipa": "/ˈbɪznəs ˈmɑdəɫz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "revenue model",
@@ -12221,7 +13036,8 @@
         ],
         "ipa": "/ˈɹɛvəˌnu ˈmɑdəɫz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "operating model",
@@ -12245,7 +13061,8 @@
         ],
         "ipa": "/ˈɑpɝˌeɪtɪŋ ˈmɑdəɫz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "business ecosystem",
@@ -12269,7 +13086,8 @@
         ],
         "ipa": "/ˈbɪznəs ˈikoʊˌsɪstəmz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "business transformation",
@@ -12293,7 +13111,8 @@
         ],
         "ipa": "/ˈbɪznəs ˌtɹænsfɝˈmeɪʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "digital transformation",
@@ -12317,7 +13136,8 @@
         ],
         "ipa": "/ˈdɪdʒətəɫ ˌtɹænsfɝˈmeɪʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "change management",
@@ -12332,7 +13152,8 @@
       "professional-reading",
       "business",
       "strategy"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "organizational change",
@@ -12356,7 +13177,8 @@
         ],
         "ipa": "/ˌɔɹɡənəˈzeɪʃənəɫ ˈtʃeɪndʒɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "change readiness",
@@ -12371,7 +13193,8 @@
       "professional-reading",
       "business",
       "strategy"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "strategic partnership",
@@ -12395,7 +13218,8 @@
         ],
         "ipa": "/stɹəˈtidʒɪk ˈpɑɹtnɝˌʃɪps/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "corporate governance",
@@ -12410,7 +13234,8 @@
       "professional-reading",
       "business",
       "governance"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "board of directors",
@@ -12434,6 +13259,9 @@
         ],
         "ipa": "/ˈbɔɹdz əv daɪˈɹɛktɝz/"
       }
+    ],
+    "synonyms": [
+      "directorate"
     ]
   },
   {
@@ -12458,7 +13286,8 @@
         ],
         "ipa": "/ˈbɔɹd kəˈmɪtiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "audit committee",
@@ -12482,7 +13311,8 @@
         ],
         "ipa": "/ˈɔdɪt kəˈmɪtiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "nomination committee",
@@ -12506,7 +13336,8 @@
         ],
         "ipa": "/ˌnɑməˈneɪʃən kəˈmɪtiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "remuneration committee",
@@ -12530,7 +13361,8 @@
         ],
         "ipa": "/ɹɪmˌjunɝˈeɪʃən kəˈmɪtiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "independent director",
@@ -12554,7 +13386,8 @@
         ],
         "ipa": "/ˌɪndɪˈpɛndənt daɪˈɹɛktɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "nonexecutive director",
@@ -12578,7 +13411,8 @@
         ],
         "ipa": "/ˈnɑnɪɡˈzɛkjətɪv daɪˈɹɛktɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "executive director",
@@ -12602,7 +13436,8 @@
         ],
         "ipa": "/ɪɡˈzɛkjətɪv daɪˈɹɛktɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "fiduciary duty",
@@ -12626,7 +13461,8 @@
         ],
         "ipa": "/fəˈduʃiˌɛɹi ˈdjutiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "conflict of interest",
@@ -12650,7 +13486,8 @@
         ],
         "ipa": "/ˈkɑnfɫɪkts əv ˈɪntɝəst/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "related party transaction",
@@ -12674,7 +13511,8 @@
         ],
         "ipa": "/ˌɹiˈɫeɪtɪd ˈpɑɹti tɹænˈzækʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "internal control",
@@ -12689,7 +13527,8 @@
       "professional-reading",
       "business",
       "governance"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "internal audit",
@@ -12713,7 +13552,8 @@
         ],
         "ipa": "/ˌɪnˈtɝnəɫ ˈɔdɪts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "external audit",
@@ -12737,7 +13577,8 @@
         ],
         "ipa": "/ɪkˈstɝnəɫ ˈɔdɪts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "regulatory compliance",
@@ -12752,7 +13593,8 @@
       "professional-reading",
       "business",
       "governance"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "compliance officer",
@@ -12776,7 +13618,8 @@
         ],
         "ipa": "/kəmˈpɫaɪəns ˈɔfəsɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "code of conduct",
@@ -12791,6 +13634,9 @@
       "professional-reading",
       "business",
       "governance"
+    ],
+    "synonyms": [
+      "code of behavior"
     ]
   },
   {
@@ -12806,7 +13652,8 @@
       "professional-reading",
       "business",
       "governance"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "corporate disclosure",
@@ -12821,7 +13668,8 @@
       "professional-reading",
       "business",
       "governance"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "annual report",
@@ -12845,7 +13693,8 @@
         ],
         "ipa": "/ˈænjuəɫ ɹiˈpɔɹts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "shareholder meeting",
@@ -12869,6 +13718,9 @@
         ],
         "ipa": "/ˈʃɛɹˌhoʊɫdɝ ˈmitɪŋz/"
       }
+    ],
+    "synonyms": [
+      "stockholders' meeting"
     ]
   },
   {
@@ -12893,7 +13745,8 @@
         ],
         "ipa": "/ˈvoʊtɪŋ ˈɹaɪts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "proxy vote",
@@ -12917,7 +13770,8 @@
         ],
         "ipa": "/ˈpɹɑksi ˈvoʊts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "board resolution",
@@ -12941,7 +13795,8 @@
         ],
         "ipa": "/ˈbɔɹd ˌɹɛzəˈɫuʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "business plan",
@@ -12965,7 +13820,8 @@
         ],
         "ipa": "/ˈbɪznəs ˈpɫænz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "business case",
@@ -12989,7 +13845,8 @@
         ],
         "ipa": "/ˈbɪznəs ˈkeɪsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "incumbent",
@@ -13022,7 +13879,8 @@
         ],
         "ipa": "/ˌɪnˈkəmbənts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "challenger",
@@ -13046,6 +13904,9 @@
         ],
         "ipa": "/ˈtʃæɫəndʒɝz/"
       }
+    ],
+    "synonyms": [
+      "challenger firm"
     ]
   },
   {
@@ -13061,6 +13922,9 @@
       "professional-reading",
       "business",
       "entrepreneurship"
+    ],
+    "synonyms": [
+      "PMF"
     ]
   },
   {
@@ -13076,6 +13940,9 @@
       "professional-reading",
       "business",
       "entrepreneurship"
+    ],
+    "synonyms": [
+      "seed capital"
     ]
   },
   {
@@ -13100,7 +13967,8 @@
         ],
         "ipa": "/ˈeɪndʒəɫ ˌɪnˈvɛstɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "funding round",
@@ -13124,7 +13992,8 @@
         ],
         "ipa": "/ˈfəndɪŋ ˈɹaʊndz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "term sheet",
@@ -13148,7 +14017,8 @@
         ],
         "ipa": "/ˈtɝm ˈʃits/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "equity dilution",
@@ -13163,7 +14033,8 @@
       "professional-reading",
       "business",
       "entrepreneurship"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "capital structure",
@@ -13187,7 +14058,8 @@
         ],
         "ipa": "/ˈkæpətəɫ ˈstɹəktʃɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "ownership structure",
@@ -13211,7 +14083,8 @@
         ],
         "ipa": "/ˈoʊnɝˌʃɪp ˈstɹəktʃɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "founder agreement",
@@ -13235,7 +14108,8 @@
         ],
         "ipa": "/ˈfaʊndɝ əˈɡɹimənts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "shareholder agreement",
@@ -13259,7 +14133,8 @@
         ],
         "ipa": "/ˈʃɛɹˌhoʊɫdɝ əˈɡɹimənts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "vesting schedule",
@@ -13283,7 +14158,8 @@
         ],
         "ipa": "/ˈvɛstɪŋ ˈskɛdʒuɫz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "option pool",
@@ -13307,7 +14183,8 @@
         ],
         "ipa": "/ˈɑpʃən ˈpuɫz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "pitch deck",
@@ -13331,7 +14208,8 @@
         ],
         "ipa": "/ˈpɪtʃ ˈdɛks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "elevator pitch",
@@ -13355,7 +14233,8 @@
         ],
         "ipa": "/ˈɛɫəˌveɪtɝ ˈpɪtʃɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "business incubator",
@@ -13379,7 +14258,8 @@
         ],
         "ipa": "/ˈbɪznəs ˈɪŋkjəˌbeɪtɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "startup accelerator",
@@ -13403,7 +14283,8 @@
         ],
         "ipa": "/ˈstɑɹˌtəp ækˈsɛɫɝˌeɪtɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "traction",
@@ -13427,7 +14308,8 @@
         "example": "The new tires improved traction on wet roads.",
         "exampleVi": "Bộ lốp mới cải thiện độ bám trên đường ướt."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cash runway",
@@ -13451,6 +14333,9 @@
         ],
         "ipa": "/ˈkæʃ ˈɹənˌweɪz/"
       }
+    ],
+    "synonyms": [
+      "runway"
     ]
   },
   {
@@ -13466,7 +14351,8 @@
       "professional-reading",
       "business",
       "entrepreneurship"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "break even point",
@@ -13490,6 +14376,9 @@
         ],
         "ipa": "/ˈbɹeɪk ˈivɪn ˈpɔɪnts/"
       }
+    ],
+    "synonyms": [
+      "breakeven point"
     ]
   },
   {
@@ -13505,7 +14394,8 @@
       "professional-reading",
       "business",
       "entrepreneurship"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "annual recurring revenue",
@@ -13529,6 +14419,9 @@
         ],
         "ipa": "/ˈænjuəɫ ɹiˈkɝɪŋ ˈɹɛvəˌnuz/"
       }
+    ],
+    "synonyms": [
+      "ARR"
     ]
   },
   {
@@ -13553,6 +14446,9 @@
         ],
         "ipa": "/ˈmənθɫi ɹiˈkɝɪŋ ˈɹɛvəˌnuz/"
       }
+    ],
+    "synonyms": [
+      "MRR"
     ]
   },
   {
@@ -13568,7 +14464,8 @@
       "professional-reading",
       "finance",
       "company-finance"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "revenue guidance",
@@ -13583,7 +14480,8 @@
       "professional-reading",
       "finance",
       "company-finance"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "earnings guidance",
@@ -13598,7 +14496,8 @@
       "professional-reading",
       "finance",
       "company-finance"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "earnings call",
@@ -13622,7 +14521,8 @@
         ],
         "ipa": "/ˈɝnɪŋz ˈkɔɫz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "earnings report",
@@ -13646,7 +14546,8 @@
         ],
         "ipa": "/ˈɝnɪŋz ɹiˈpɔɹts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "quarterly earnings",
@@ -13661,7 +14562,8 @@
       "professional-reading",
       "finance",
       "company-finance"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "profit warning",
@@ -13676,7 +14578,8 @@
       "professional-reading",
       "finance",
       "company-finance"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cash reserve",
@@ -13700,7 +14603,8 @@
         ],
         "ipa": "/ˈkæʃ ɹiˈzɝvz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cash balance",
@@ -13724,7 +14628,8 @@
         ],
         "ipa": "/ˈkæʃ ˈbæɫənsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "net debt",
@@ -13739,7 +14644,8 @@
       "professional-reading",
       "finance",
       "company-finance"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "buyout",
@@ -13763,6 +14669,9 @@
         ],
         "ipa": "/ˈbaɪˌaʊts/"
       }
+    ],
+    "synonyms": [
+      "takeover"
     ]
   },
   {
@@ -13787,7 +14696,8 @@
         ],
         "ipa": "/ˈfəndɪŋ ˈɡæps/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "escrow",
@@ -13802,7 +14712,8 @@
       "professional-reading",
       "finance",
       "company-finance"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "pre money valuation",
@@ -13826,7 +14737,8 @@
         ],
         "ipa": "/ˈpɹi ˈməni væɫjuˈeɪʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "post money valuation",
@@ -13850,7 +14762,8 @@
         ],
         "ipa": "/ˈpoʊst ˈməni væɫjuˈeɪʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "enterprise value",
@@ -13874,6 +14787,9 @@
         ],
         "ipa": "/ˈɛnɝˌpɹaɪz ˈvæɫjuz/"
       }
+    ],
+    "synonyms": [
+      "EV"
     ]
   },
   {
@@ -13898,6 +14814,9 @@
         ],
         "ipa": "/daɪˈvɛstɪtʃɝz/"
       }
+    ],
+    "synonyms": [
+      "divestment"
     ]
   },
   {
@@ -13922,7 +14841,8 @@
         ],
         "ipa": "/væɫjuˈeɪʃən ˈməɫtəpəɫz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "discounted cash flow",
@@ -13937,6 +14857,9 @@
       "professional-reading",
       "finance",
       "company-finance"
+    ],
+    "synonyms": [
+      "DCF"
     ]
   },
   {
@@ -13952,7 +14875,8 @@
       "professional-reading",
       "finance",
       "company-finance"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cost of equity",
@@ -13967,7 +14891,8 @@
       "professional-reading",
       "finance",
       "company-finance"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cost of debt",
@@ -13982,7 +14907,8 @@
       "professional-reading",
       "finance",
       "company-finance"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "weighted average cost of capital",
@@ -13997,6 +14923,9 @@
       "professional-reading",
       "finance",
       "company-finance"
+    ],
+    "synonyms": [
+      "WACC"
     ]
   },
   {
@@ -14021,7 +14950,8 @@
         ],
         "ipa": "/ˈmɝdʒɝ əˈɡɹimənts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "acquisition target",
@@ -14045,7 +14975,8 @@
         ],
         "ipa": "/ˌækwəˈzɪʃən ˈtɑɹɡəts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "takeover bid",
@@ -14069,7 +15000,8 @@
         ],
         "ipa": "/ˈteɪˌkoʊvɝ ˈbɪdz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "hostile takeover",
@@ -14093,7 +15025,8 @@
         ],
         "ipa": "/ˈhɑstəɫ ˈteɪˌkoʊvɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "friendly takeover",
@@ -14117,7 +15050,8 @@
         ],
         "ipa": "/ˈfɹɛndɫi ˈteɪˌkoʊvɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "management buyout",
@@ -14141,6 +15075,9 @@
         ],
         "ipa": "/ˈmænədʒmənt ˈbaɪˌaʊts/"
       }
+    ],
+    "synonyms": [
+      "MBO"
     ]
   },
   {
@@ -14165,6 +15102,9 @@
         ],
         "ipa": "/ˈɫɛvɝɪdʒd ˈbaɪˌaʊts/"
       }
+    ],
+    "synonyms": [
+      "LBO"
     ]
   },
   {
@@ -14189,6 +15129,9 @@
         ],
         "ipa": "/ˈbɪznəs daɪˈvɛstɪtʃɝz/"
       }
+    ],
+    "synonyms": [
+      "business divestment"
     ]
   },
   {
@@ -14213,7 +15156,8 @@
         ],
         "ipa": "/ˈkɔɹpɝət ˈspɪn ˈɔfs/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "joint venture",
@@ -14237,7 +15181,8 @@
         ],
         "ipa": "/ˈdʒɔɪnt ˈvɛntʃɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "antitrust investigation",
@@ -14261,6 +15206,9 @@
         ],
         "ipa": "/ˌæntaɪˈtɹəst ˌɪnˌvɛstəˈɡeɪʃənz/"
       }
+    ],
+    "synonyms": [
+      "competition investigation"
     ]
   },
   {
@@ -14285,6 +15233,9 @@
         ],
         "ipa": "/ˌæntaɪˈtɹəst ˈɫɔˌsuts/"
       }
+    ],
+    "synonyms": [
+      "competition lawsuit"
     ]
   },
   {
@@ -14318,7 +15269,8 @@
         ],
         "ipa": "/ɹiˈteɪnɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "regulatory scrutiny",
@@ -14333,7 +15285,8 @@
       "professional-reading",
       "business",
       "industry-news"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "uptake",
@@ -14357,6 +15310,9 @@
         "example": "The scan measured glucose uptake in the tissue.",
         "exampleVi": "Lần chụp đo mức hấp thu glucose trong mô."
       }
+    ],
+    "synonyms": [
+      "adoption"
     ]
   },
   {
@@ -14372,7 +15328,8 @@
       "professional-reading",
       "business",
       "industry-news"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "competition authority",
@@ -14396,6 +15353,9 @@
         ],
         "ipa": "/ˌkɑmpəˈtɪʃən əˈθɔɹətiz/"
       }
+    ],
+    "synonyms": [
+      "competition regulator"
     ]
   },
   {
@@ -14411,7 +15371,8 @@
       "professional-reading",
       "business",
       "industry-news"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "product liability",
@@ -14435,7 +15396,8 @@
         ],
         "ipa": "/ˈpɹɑdəkt ˌɫaɪəˈbɪɫɪtiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "class action",
@@ -14459,6 +15421,9 @@
         ],
         "ipa": "/ˈkɫæs ˈækʃənz/"
       }
+    ],
+    "synonyms": [
+      "class-action lawsuit"
     ]
   },
   {
@@ -14483,7 +15448,8 @@
         ],
         "ipa": "/ˈsɛtəɫmənt əˈɡɹimənts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "mass layoff",
@@ -14507,7 +15473,8 @@
         ],
         "ipa": "/ˈmæs ˈɫeɪˌɔfs/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "hiring freeze",
@@ -14531,7 +15498,8 @@
         ],
         "ipa": "/ˈhaɪɹɪŋ ˈfɹizɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "workforce reduction",
@@ -14555,6 +15523,9 @@
         ],
         "ipa": "/ˈwɝkˌfɔɹs ɹəˈdəkʃənz/"
       }
+    ],
+    "synonyms": [
+      "downsizing"
     ]
   },
   {
@@ -14570,7 +15541,8 @@
       "professional-reading",
       "business",
       "industry-news"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "semiconductor fabrication",
@@ -14585,7 +15557,8 @@
       "professional-reading",
       "technology",
       "chips"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "process node",
@@ -14609,7 +15582,8 @@
         ],
         "ipa": "/ˈpɹɑˌsɛs ˈnoʊdz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "transistor density",
@@ -14633,7 +15607,8 @@
         ],
         "ipa": "/tɹænˈzɪstɝ ˈdɛnsətiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "die size",
@@ -14657,7 +15632,8 @@
         ],
         "ipa": "/ˈdaɪ ˈsaɪzɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "silicon wafer",
@@ -14681,7 +15657,8 @@
         ],
         "ipa": "/ˈsɪɫəkən ˈweɪfɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "wafer yield",
@@ -14705,7 +15682,8 @@
         ],
         "ipa": "/ˈweɪfɝ ˈjiɫdz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "chip packaging",
@@ -14720,7 +15698,8 @@
       "professional-reading",
       "technology",
       "chips"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "chiplet design",
@@ -14744,7 +15723,8 @@
         ],
         "ipa": "/ˈtʃɪp.lət dɪˈzaɪnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "monolithic die",
@@ -14768,7 +15748,8 @@
         ],
         "ipa": "/ˌmɑnəˈɫɪθɪk ˈdaɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "multi chip module",
@@ -14792,6 +15773,9 @@
         ],
         "ipa": "/ˈməɫti ˈtʃɪp ˈmɑdʒuɫz/"
       }
+    ],
+    "synonyms": [
+      "MCM"
     ]
   },
   {
@@ -14816,6 +15800,9 @@
         ],
         "ipa": "/ˈsɪstəmz ɑn ə ˈtʃɪp/"
       }
+    ],
+    "synonyms": [
+      "SoC"
     ]
   },
   {
@@ -14840,6 +15827,9 @@
         ],
         "ipa": "/ˈsɪstəmz ɪn ˈpækədʒ/"
       }
+    ],
+    "synonyms": [
+      "SiP"
     ]
   },
   {
@@ -14855,7 +15845,8 @@
       "professional-reading",
       "technology",
       "chips"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "discrete graphics",
@@ -14870,6 +15861,9 @@
       "professional-reading",
       "technology",
       "chips"
+    ],
+    "synonyms": [
+      "dedicated graphics"
     ]
   },
   {
@@ -14894,7 +15888,8 @@
         ],
         "ipa": "/ˈmɛmɝi kənˈtɹoʊɫɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "input output die",
@@ -14918,7 +15913,8 @@
         ],
         "ipa": "/ˈɪnˌpʊt ˈaʊtˌpʊt ˈdaɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "interconnect fabric",
@@ -14933,7 +15929,8 @@
       "professional-reading",
       "technology",
       "chips"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "chip interconnect",
@@ -14957,7 +15954,8 @@
         ],
         "ipa": "/ˈtʃɪp ˌɪntɝkəˈnɛkts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "die stacking",
@@ -14972,7 +15970,8 @@
       "professional-reading",
       "technology",
       "chips"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "advanced packaging",
@@ -14987,7 +15986,8 @@
       "professional-reading",
       "technology",
       "chips"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "thermal design power",
@@ -15002,6 +16002,9 @@
       "professional-reading",
       "technology",
       "chips"
+    ],
+    "synonyms": [
+      "TDP"
     ]
   },
   {
@@ -15017,7 +16020,8 @@
       "professional-reading",
       "technology",
       "chips"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "maximum turbo power",
@@ -15032,7 +16036,8 @@
       "professional-reading",
       "technology",
       "chips"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "power delivery",
@@ -15047,7 +16052,8 @@
       "professional-reading",
       "technology",
       "chips"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "voltage regulator",
@@ -15071,7 +16077,8 @@
         ],
         "ipa": "/ˈvoʊɫtədʒ ˈɹɛɡjəˌɫeɪtɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "instruction pipeline",
@@ -15095,7 +16102,8 @@
         ],
         "ipa": "/ˌɪnˈstɹəkʃən ˈpaɪˌpɫaɪnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "branch prediction",
@@ -15119,7 +16127,8 @@
         ],
         "ipa": "/ˈbɹæntʃ pɹiˈdɪkʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "branch misprediction",
@@ -15143,7 +16152,8 @@
         ],
         "ipa": "/ˈbɹæntʃ ˌmɪs.prɪˈdɪk.ʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "speculative execution",
@@ -15158,7 +16168,8 @@
       "professional-reading",
       "technology",
       "cpu-design"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "out of order execution",
@@ -15173,7 +16184,8 @@
       "professional-reading",
       "technology",
       "cpu-design"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "instruction decoding",
@@ -15188,7 +16200,8 @@
       "professional-reading",
       "technology",
       "cpu-design"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "instruction retirement",
@@ -15203,7 +16216,8 @@
       "professional-reading",
       "technology",
       "cpu-design"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "instructions per cycle",
@@ -15218,6 +16232,9 @@
       "professional-reading",
       "technology",
       "cpu-design"
+    ],
+    "synonyms": [
+      "IPC"
     ]
   },
   {
@@ -15242,6 +16259,9 @@
         ],
         "ipa": "/ˈkɫɑk ˈspidz/"
       }
+    ],
+    "synonyms": [
+      "clock rate"
     ]
   },
   {
@@ -15266,7 +16286,8 @@
         ],
         "ipa": "/ˈbeɪs ˈkɫɑks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "boost clock",
@@ -15290,7 +16311,8 @@
         ],
         "ipa": "/ˈbust ˈkɫɑks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "turbo frequency",
@@ -15314,7 +16336,8 @@
         ],
         "ipa": "/ˈtɝboʊ ˈfɹikwənsiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "core count",
@@ -15329,7 +16352,8 @@
       "professional-reading",
       "technology",
       "cpu-design"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "thread count",
@@ -15344,7 +16368,8 @@
       "professional-reading",
       "technology",
       "cpu-design"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "simultaneous multithreading",
@@ -15359,6 +16384,9 @@
       "professional-reading",
       "technology",
       "cpu-design"
+    ],
+    "synonyms": [
+      "SMT"
     ]
   },
   {
@@ -15383,7 +16411,8 @@
         ],
         "ipa": "/pɝˈfɔɹməns ˈkɔɹz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "efficiency core",
@@ -15407,7 +16436,8 @@
         ],
         "ipa": "/ɪˈfɪʃənsi ˈkɔɹz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "heterogeneous computing",
@@ -15422,7 +16452,8 @@
       "professional-reading",
       "technology",
       "cpu-design"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "instruction cache",
@@ -15446,7 +16477,8 @@
         ],
         "ipa": "/ˌɪnˈstɹəkʃən ˈkæʃɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "data cache",
@@ -15470,7 +16502,8 @@
         ],
         "ipa": "/ˈdeɪ.tə ˈkæʃɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "shared cache",
@@ -15494,7 +16527,8 @@
         ],
         "ipa": "/ˈʃɛɹd ˈkæʃɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "last level cache",
@@ -15518,6 +16552,9 @@
         ],
         "ipa": "/ˈɫæs ˈɫɛvəɫ ˈkæʃɪz/"
       }
+    ],
+    "synonyms": [
+      "LLC"
     ]
   },
   {
@@ -15542,7 +16579,8 @@
         ],
         "ipa": "/ˈkæʃ ˈhɪts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cache miss",
@@ -15566,7 +16604,8 @@
         ],
         "ipa": "/ˈkæʃ ˈmɪsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "memory latency",
@@ -15590,7 +16629,8 @@
         ],
         "ipa": "/ˈmɛmɝi ˈɫeɪtənsiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "graphics pipeline",
@@ -15614,7 +16654,8 @@
         ],
         "ipa": "/ˈɡɹæfɪks ˈpaɪˌpɫaɪnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "rendering engine",
@@ -15638,7 +16679,8 @@
         ],
         "ipa": "/ˈɹɛndɝɪŋ ˈɛndʒənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "rendering resolution",
@@ -15662,7 +16704,8 @@
         ],
         "ipa": "/ˈɹɛndɝɪŋ ˌɹɛzəˈɫuʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "native resolution",
@@ -15686,7 +16729,8 @@
         ],
         "ipa": "/ˈneɪtɪv ˌɹɛzəˈɫuʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "resolution scaling",
@@ -15701,7 +16745,8 @@
       "professional-reading",
       "technology",
       "graphics"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "ray tracing",
@@ -15716,7 +16761,8 @@
       "professional-reading",
       "technology",
       "graphics"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "path tracing",
@@ -15731,7 +16777,8 @@
       "professional-reading",
       "technology",
       "graphics"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "rasterization pipeline",
@@ -15755,7 +16802,8 @@
         ],
         "ipa": "/ˌræs.tɚ.əˈzeɪ.ʃən ˈpaɪˌpɫaɪnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "shader core",
@@ -15779,7 +16827,8 @@
         ],
         "ipa": "/ˈʃeɪdɝ ˈkɔɹz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "compute shader",
@@ -15803,7 +16852,8 @@
         ],
         "ipa": "/kəmˈpjut ˈʃeɪdɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "vertex shader",
@@ -15827,7 +16877,8 @@
         ],
         "ipa": "/ˈvɝˌtɛks ˈʃeɪdɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "pixel shader",
@@ -15851,6 +16902,9 @@
         ],
         "ipa": "/ˈpɪksəɫ ˈʃeɪdɝz/"
       }
+    ],
+    "synonyms": [
+      "fragment shader"
     ]
   },
   {
@@ -15866,7 +16920,8 @@
       "professional-reading",
       "technology",
       "graphics"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "texture filtering",
@@ -15881,7 +16936,8 @@
       "professional-reading",
       "technology",
       "graphics"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "anisotropic filtering",
@@ -15896,7 +16952,8 @@
       "professional-reading",
       "technology",
       "graphics"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "ambient occlusion",
@@ -15911,7 +16968,8 @@
       "professional-reading",
       "technology",
       "graphics"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "global illumination",
@@ -15926,7 +16984,8 @@
       "professional-reading",
       "technology",
       "graphics"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "ray reconstruction",
@@ -15941,7 +17000,8 @@
       "professional-reading",
       "technology",
       "graphics"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "frame generation",
@@ -15956,7 +17016,8 @@
       "professional-reading",
       "technology",
       "graphics"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "temporal upscaling",
@@ -15971,7 +17032,8 @@
       "professional-reading",
       "technology",
       "graphics"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "spatial upscaling",
@@ -15986,7 +17048,8 @@
       "professional-reading",
       "technology",
       "graphics"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "video memory",
@@ -16001,6 +17064,9 @@
       "professional-reading",
       "technology",
       "graphics"
+    ],
+    "synonyms": [
+      "VRAM"
     ]
   },
   {
@@ -16025,7 +17091,8 @@
         ],
         "ipa": "/ˈmɛmɝi ˈbəsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "memory bus width",
@@ -16049,7 +17116,8 @@
         ],
         "ipa": "/ˈmɛmɝi ˈbəs ˈwɪdθs/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "graphics driver",
@@ -16073,7 +17141,8 @@
         ],
         "ipa": "/ˈɡɹæfɪks ˈdɹaɪvɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "benchmark suite",
@@ -16097,7 +17166,8 @@
         ],
         "ipa": "/ˈbɛntʃˌmɑɹk ˈswits/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "synthetic benchmark",
@@ -16121,7 +17191,8 @@
         ],
         "ipa": "/sɪnˈθɛtɪk ˈbɛntʃˌmɑɹks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "gaming benchmark",
@@ -16145,7 +17216,8 @@
         ],
         "ipa": "/ˈɡeɪmɪŋ ˈbɛntʃˌmɑɹks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "real world performance",
@@ -16160,7 +17232,8 @@
       "professional-reading",
       "technology",
       "benchmarks"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "performance uplift",
@@ -16184,7 +17257,8 @@
         ],
         "ipa": "/pɝˈfɔɹməns ˈəpɫɪfts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "performance per watt",
@@ -16199,7 +17273,8 @@
       "professional-reading",
       "technology",
       "benchmarks"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "test bench",
@@ -16223,7 +17298,8 @@
         ],
         "ipa": "/ˈtɛst ˈbɛntʃɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "single thread performance",
@@ -16238,7 +17314,8 @@
       "professional-reading",
       "technology",
       "benchmarks"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "multi thread performance",
@@ -16253,7 +17330,8 @@
       "professional-reading",
       "technology",
       "benchmarks"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "frame rate",
@@ -16277,6 +17355,9 @@
         ],
         "ipa": "/ˈfɹeɪm ˈɹeɪts/"
       }
+    ],
+    "synonyms": [
+      "frame frequency"
     ]
   },
   {
@@ -16301,7 +17382,8 @@
         ],
         "ipa": "/ˈfɹeɪm ˈtaɪmz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "average frame rate",
@@ -16325,7 +17407,8 @@
         ],
         "ipa": "/ˈævɝɪdʒ ˈfɹeɪm ˈɹeɪts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "frame pacing",
@@ -16340,7 +17423,8 @@
       "professional-reading",
       "technology",
       "benchmarks"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "input latency",
@@ -16364,7 +17448,8 @@
         ],
         "ipa": "/ˈɪnˌpʊt ˈɫeɪtənsiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "end to end latency",
@@ -16388,7 +17473,8 @@
         ],
         "ipa": "/ˈɛnd tə ˈɛnd ˈɫeɪtənsiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "power consumption",
@@ -16403,7 +17489,8 @@
       "professional-reading",
       "technology",
       "benchmarks"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "idle power",
@@ -16418,7 +17505,8 @@
       "professional-reading",
       "technology",
       "benchmarks"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "peak power",
@@ -16433,7 +17521,8 @@
       "professional-reading",
       "technology",
       "benchmarks"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "sustained performance",
@@ -16448,7 +17537,8 @@
       "professional-reading",
       "technology",
       "benchmarks"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "thermal headroom",
@@ -16463,7 +17553,8 @@
       "professional-reading",
       "technology",
       "benchmarks"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "power efficiency",
@@ -16478,7 +17569,8 @@
       "professional-reading",
       "technology",
       "benchmarks"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "performance scaling",
@@ -16493,7 +17585,8 @@
       "professional-reading",
       "technology",
       "benchmarks"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "performance bottleneck",
@@ -16517,7 +17610,8 @@
         ],
         "ipa": "/pɝˈfɔɹməns ˈbɑtəɫˌnɛks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "benchmark score",
@@ -16541,7 +17635,8 @@
         ],
         "ipa": "/ˈbɛntʃˌmɑɹk ˈskɔɹz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "measurement variance",
@@ -16565,7 +17660,8 @@
         ],
         "ipa": "/ˈmɛʒɝmənt ˈvɛɹiənsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "display panel",
@@ -16589,7 +17685,8 @@
         ],
         "ipa": "/dɪsˈpɫeɪ ˈpænəɫz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "display resolution",
@@ -16613,7 +17710,8 @@
         ],
         "ipa": "/dɪsˈpɫeɪ ˌɹɛzəˈɫuʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "pixel density",
@@ -16637,7 +17735,8 @@
         ],
         "ipa": "/ˈpɪksəɫ ˈdɛnsətiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "refresh rate",
@@ -16661,7 +17760,8 @@
         ],
         "ipa": "/ɹɪˈfɹɛʃ ˈɹeɪts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "variable refresh rate",
@@ -16685,6 +17785,9 @@
         ],
         "ipa": "/ˈvɛɹiəbəɫ ɹɪˈfɹɛʃ ˈɹeɪts/"
       }
+    ],
+    "synonyms": [
+      "VRR"
     ]
   },
   {
@@ -16700,7 +17803,8 @@
       "professional-reading",
       "technology",
       "displays"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "response time",
@@ -16740,7 +17844,8 @@
         ],
         "ipa": "/ɹiˈspɑns ˈtaɪmz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "contrast ratio",
@@ -16764,7 +17869,8 @@
         ],
         "ipa": "/ˈkɑntɹæst ˈɹeɪʃiˌoʊz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "peak brightness",
@@ -16779,7 +17885,8 @@
       "professional-reading",
       "technology",
       "displays"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "color gamut",
@@ -16803,7 +17910,8 @@
         ],
         "ipa": "/ˈkəɫɝ ˈɡæməts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "color accuracy",
@@ -16818,7 +17926,8 @@
       "professional-reading",
       "technology",
       "displays"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "color calibration",
@@ -16833,7 +17942,8 @@
       "professional-reading",
       "technology",
       "displays"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "color depth",
@@ -16857,7 +17967,8 @@
         ],
         "ipa": "/ˈkəɫɝ ˈdɛpθs/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "high dynamic range",
@@ -16872,6 +17983,9 @@
       "professional-reading",
       "technology",
       "displays"
+    ],
+    "synonyms": [
+      "HDR"
     ]
   },
   {
@@ -16887,7 +18001,8 @@
       "professional-reading",
       "technology",
       "displays"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "backlight bleed",
@@ -16902,7 +18017,8 @@
       "professional-reading",
       "technology",
       "displays"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "screen tearing",
@@ -16917,7 +18033,8 @@
       "professional-reading",
       "technology",
       "displays"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "image retention",
@@ -16932,7 +18049,8 @@
       "professional-reading",
       "technology",
       "displays"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "screen burn in",
@@ -16947,6 +18065,9 @@
       "professional-reading",
       "technology",
       "displays"
+    ],
+    "synonyms": [
+      "burn-in"
     ]
   },
   {
@@ -16971,7 +18092,8 @@
         ],
         "ipa": "/ˈvjuɪŋ ˈæŋɡəɫz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "matte finish",
@@ -16986,7 +18108,8 @@
       "professional-reading",
       "technology",
       "displays"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "glossy finish",
@@ -17001,7 +18124,8 @@
       "professional-reading",
       "technology",
       "displays"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "anti reflective coating",
@@ -17016,6 +18140,9 @@
       "professional-reading",
       "technology",
       "displays"
+    ],
+    "synonyms": [
+      "anti-reflection coating"
     ]
   },
   {
@@ -17040,6 +18167,9 @@
         ],
         "ipa": "/ˈæsˌpɛkt ˈɹeɪʃiˌoʊz/"
       }
+    ],
+    "synonyms": [
+      "width-to-height ratio"
     ]
   },
   {
@@ -17064,7 +18194,8 @@
         ],
         "ipa": "/dɪsˈpɫeɪ kəˈnɛktɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "random access memory",
@@ -17079,6 +18210,9 @@
       "professional-reading",
       "technology",
       "storage-memory"
+    ],
+    "synonyms": [
+      "RAM"
     ]
   },
   {
@@ -17094,6 +18228,9 @@
       "professional-reading",
       "technology",
       "storage-memory"
+    ],
+    "synonyms": [
+      "DRAM"
     ]
   },
   {
@@ -17109,6 +18246,9 @@
       "professional-reading",
       "technology",
       "storage-memory"
+    ],
+    "synonyms": [
+      "SRAM"
     ]
   },
   {
@@ -17124,6 +18264,9 @@
       "professional-reading",
       "technology",
       "storage-memory"
+    ],
+    "synonyms": [
+      "HBM"
     ]
   },
   {
@@ -17148,7 +18291,8 @@
         ],
         "ipa": "/ˈmɛmɝi kəˈpæsətiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "memory speed",
@@ -17163,7 +18307,8 @@
       "professional-reading",
       "technology",
       "storage-memory"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "memory timing",
@@ -17178,7 +18323,8 @@
       "professional-reading",
       "technology",
       "storage-memory"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "dual channel memory",
@@ -17193,7 +18339,8 @@
       "professional-reading",
       "technology",
       "storage-memory"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "error correcting memory",
@@ -17208,6 +18355,9 @@
       "professional-reading",
       "technology",
       "storage-memory"
+    ],
+    "synonyms": [
+      "ECC memory"
     ]
   },
   {
@@ -17232,7 +18382,8 @@
         ],
         "ipa": "/ˈmɛmɝi ˈmɑdʒuɫz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "storage capacity",
@@ -17256,7 +18407,8 @@
         ],
         "ipa": "/ˈstɔɹədʒ kəˈpæsətiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "sequential read",
@@ -17280,7 +18432,8 @@
         ],
         "ipa": "/səˈkwɛnʃəɫ riːdz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "sequential write",
@@ -17304,7 +18457,8 @@
         ],
         "ipa": "/səˈkwɛnʃəɫ ˈɹaɪts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "random read",
@@ -17328,7 +18482,8 @@
         ],
         "ipa": "/ˈɹændəm riːdz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "random write",
@@ -17352,7 +18507,8 @@
         ],
         "ipa": "/ˈɹændəm ˈɹaɪts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "input output operations per second",
@@ -17367,6 +18523,9 @@
       "professional-reading",
       "technology",
       "storage-memory"
+    ],
+    "synonyms": [
+      "IOPS"
     ]
   },
   {
@@ -17391,7 +18550,8 @@
         ],
         "ipa": "/ˈkju ˈdɛpθs/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "storage controller",
@@ -17415,7 +18575,8 @@
         ],
         "ipa": "/ˈstɔɹədʒ kənˈtɹoʊɫɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "flash controller",
@@ -17439,7 +18600,8 @@
         ],
         "ipa": "/ˈfɫæʃ kənˈtɹoʊɫɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "wear leveling",
@@ -17454,7 +18616,8 @@
       "professional-reading",
       "technology",
       "storage-memory"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "write endurance",
@@ -17469,7 +18632,8 @@
       "professional-reading",
       "technology",
       "storage-memory"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "write amplification factor",
@@ -17493,7 +18657,8 @@
         ],
         "ipa": "/ˈɹaɪt ˌæmpɫəfəˈkeɪʃən ˈfæktɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "over provisioning",
@@ -17508,7 +18673,8 @@
       "professional-reading",
       "technology",
       "storage-memory"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "storage interface",
@@ -17532,7 +18698,8 @@
         ],
         "ipa": "/ˈstɔɹədʒ ˈɪnɝˌfeɪsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "storage firmware",
@@ -17547,7 +18714,8 @@
       "professional-reading",
       "technology",
       "storage-memory"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "mobile chipset",
@@ -17571,7 +18739,8 @@
         ],
         "ipa": "/ˈmoʊbəɫ ˈtʃɪpˌsɛts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "mobile operating system",
@@ -17595,7 +18764,8 @@
         ],
         "ipa": "/ˈmoʊbəɫ ˈɑpɝˌeɪtɪŋ ˈsɪstəmz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "foldable display",
@@ -17619,7 +18789,8 @@
         ],
         "ipa": "/ˈfoʊl.də.bəl dɪsˈpɫeɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "hinge mechanism",
@@ -17643,7 +18814,8 @@
         ],
         "ipa": "/ˈhɪndʒ ˈmɛkəˌnɪzəmz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "camera sensor",
@@ -17667,7 +18839,8 @@
         ],
         "ipa": "/ˈkæmɝə ˈsɛnsɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "sensor size",
@@ -17691,7 +18864,8 @@
         ],
         "ipa": "/ˈsɛnsɝ ˈsaɪzɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "optical zoom",
@@ -17706,7 +18880,8 @@
       "professional-reading",
       "technology",
       "mobile"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "digital zoom",
@@ -17721,7 +18896,8 @@
       "professional-reading",
       "technology",
       "mobile"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "optical image stabilization",
@@ -17736,6 +18912,9 @@
       "professional-reading",
       "technology",
       "mobile"
+    ],
+    "synonyms": [
+      "OIS"
     ]
   },
   {
@@ -17751,6 +18930,9 @@
       "professional-reading",
       "technology",
       "mobile"
+    ],
+    "synonyms": [
+      "EIS"
     ]
   },
   {
@@ -17766,7 +18948,8 @@
       "professional-reading",
       "technology",
       "mobile"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "image signal processor",
@@ -17790,6 +18973,9 @@
         ],
         "ipa": "/ˈɪmədʒ ˈsɪɡnəɫ ˈpɹɑˌsɛsɝz/"
       }
+    ],
+    "synonyms": [
+      "ISP"
     ]
   },
   {
@@ -17814,6 +19000,9 @@
         ],
         "ipa": "/ˈnjʊɹəɫ ˈpɹɑsɛsɪŋ ˈjunəts/"
       }
+    ],
+    "synonyms": [
+      "NPU"
     ]
   },
   {
@@ -17838,7 +19027,8 @@
         ],
         "ipa": "/ˈbætɝi kəˈpæsətiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "battery endurance",
@@ -17853,7 +19043,8 @@
       "professional-reading",
       "technology",
       "mobile"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "battery degradation",
@@ -17868,7 +19059,8 @@
       "professional-reading",
       "technology",
       "mobile"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "charging cycle",
@@ -17892,7 +19084,8 @@
         ],
         "ipa": "/ˈtʃɑɹdʒɪŋ ˈsaɪkəɫz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "fast charging",
@@ -17907,7 +19100,8 @@
       "professional-reading",
       "technology",
       "mobile"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "wireless charging",
@@ -17922,7 +19116,8 @@
       "professional-reading",
       "technology",
       "mobile"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "reverse charging",
@@ -17937,7 +19132,8 @@
       "professional-reading",
       "technology",
       "mobile"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "charging wattage",
@@ -17952,7 +19148,8 @@
       "professional-reading",
       "technology",
       "mobile"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "software update policy",
@@ -17976,7 +19173,8 @@
         ],
         "ipa": "/ˈsɔfˌwɛɹ ˈəpˌdeɪt ˈpɑɫəsiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "security update",
@@ -18000,7 +19198,8 @@
         ],
         "ipa": "/sɪkˈjʊɹəti ˈəpˌdeɪts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "water resistance rating",
@@ -18015,7 +19214,8 @@
       "professional-reading",
       "technology",
       "mobile"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "repairability score",
@@ -18039,7 +19239,8 @@
         ],
         "ipa": "/rɪˌpɛr.əˈbɪ.lə.ti ˈskɔɹz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "wireless network",
@@ -18063,7 +19264,8 @@
         ],
         "ipa": "/ˈwaɪɹɫɪs ˈnɛtˌwɝks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "wireless access point",
@@ -18087,6 +19289,9 @@
         ],
         "ipa": "/ˈwaɪɹɫɪs ˈækˌsɛs ˈpɔɪnts/"
       }
+    ],
+    "synonyms": [
+      "WAP"
     ]
   },
   {
@@ -18111,7 +19316,8 @@
         ],
         "ipa": "/ˈwaɪɹɫɪs ˈstændɝdz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "frequency band",
@@ -18135,7 +19341,8 @@
         ],
         "ipa": "/ˈfɹikwənsi ˈbændz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "channel width",
@@ -18159,7 +19366,8 @@
         ],
         "ipa": "/ˈtʃænəɫ ˈwɪdθs/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "signal strength",
@@ -18174,7 +19382,8 @@
       "professional-reading",
       "technology",
       "connectivity"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "signal interference",
@@ -18189,7 +19398,8 @@
       "professional-reading",
       "technology",
       "connectivity"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "signal attenuation",
@@ -18204,7 +19414,8 @@
       "professional-reading",
       "technology",
       "connectivity"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "signal to noise ratio",
@@ -18228,6 +19439,9 @@
         ],
         "ipa": "/ˈsɪɡnəɫ tə ˈnɔɪz ˈɹeɪʃiˌoʊz/"
       }
+    ],
+    "synonyms": [
+      "SNR"
     ]
   },
   {
@@ -18243,7 +19457,8 @@
       "professional-reading",
       "technology",
       "connectivity"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "network latency",
@@ -18267,7 +19482,8 @@
         ],
         "ipa": "/ˈnɛtˌwɝk ˈɫeɪtənsiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "wireless range",
@@ -18291,7 +19507,8 @@
         ],
         "ipa": "/ˈwaɪɹɫɪs ˈɹeɪndʒɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "mesh network",
@@ -18315,7 +19532,8 @@
         ],
         "ipa": "/ˈmɛʃ ˈnɛtˌwɝks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "beamforming technology",
@@ -18339,7 +19557,8 @@
         ],
         "ipa": "/ˈbiːmˌfɔr.mɪŋ tɛkˈnɑɫədʒiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "antenna array",
@@ -18363,6 +19582,9 @@
         ],
         "ipa": "/ænˈtɛnə ɝˈeɪz/"
       }
+    ],
+    "synonyms": [
+      "aerial array"
     ]
   },
   {
@@ -18387,7 +19609,8 @@
         ],
         "ipa": "/ˈsɛɫjəɫɝ ˈmoʊdəmz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "mobile broadband",
@@ -18402,7 +19625,8 @@
       "professional-reading",
       "technology",
       "connectivity"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "satellite connectivity",
@@ -18417,7 +19641,8 @@
       "professional-reading",
       "technology",
       "connectivity"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "near field communication",
@@ -18432,6 +19657,9 @@
       "professional-reading",
       "technology",
       "connectivity"
+    ],
+    "synonyms": [
+      "NFC"
     ]
   },
   {
@@ -18447,6 +19675,9 @@
       "professional-reading",
       "technology",
       "connectivity"
+    ],
+    "synonyms": [
+      "UWB"
     ]
   },
   {
@@ -18471,7 +19702,8 @@
         ],
         "ipa": "/ˈbɫuˌtuθ ˈkoʊ.dɛks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "audio compression",
@@ -18486,7 +19718,8 @@
       "professional-reading",
       "technology",
       "connectivity"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "lossless audio",
@@ -18510,7 +19743,8 @@
         ],
         "ipa": "/ˈlɔs.ləs ˈɑdiˌoʊz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "lossy compression",
@@ -18525,7 +19759,8 @@
       "professional-reading",
       "technology",
       "connectivity"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "active noise cancellation",
@@ -18540,6 +19775,9 @@
       "professional-reading",
       "technology",
       "connectivity"
+    ],
+    "synonyms": [
+      "ANC"
     ]
   },
   {
@@ -18564,7 +19802,8 @@
         ],
         "ipa": "/əˈtɛnʃən ˈmɛkəˌnɪzəmz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "self attention",
@@ -18579,7 +19818,8 @@
       "professional-reading",
       "technology",
       "ai-architecture"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cross attention",
@@ -18594,7 +19834,8 @@
       "professional-reading",
       "technology",
       "ai-architecture"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "multi head attention",
@@ -18609,6 +19850,9 @@
       "professional-reading",
       "technology",
       "ai-architecture"
+    ],
+    "synonyms": [
+      "MHA"
     ]
   },
   {
@@ -18633,7 +19877,8 @@
         ],
         "ipa": "/tɹænsˈfɔɹmɝ ˈɑɹkəˌtɛktʃɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "positional encoding",
@@ -18648,7 +19893,8 @@
       "professional-reading",
       "technology",
       "ai-architecture"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "rotary position embedding",
@@ -18672,6 +19918,9 @@
         ],
         "ipa": "/ˈɹoʊtɝi pəˈzɪʃən ɛmˈbɛdɪŋz/"
       }
+    ],
+    "synonyms": [
+      "RoPE"
     ]
   },
   {
@@ -18696,6 +19945,9 @@
         ],
         "ipa": "/ˈmɪkstʃɝz əv ˈɛkspɝts/"
       }
+    ],
+    "synonyms": [
+      "MoE"
     ]
   },
   {
@@ -18711,7 +19963,8 @@
       "professional-reading",
       "technology",
       "ai-architecture"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "sparse activation",
@@ -18735,7 +19988,8 @@
         ],
         "ipa": "/ˈspɑɹs ˌæktəˈveɪʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "dense model",
@@ -18759,7 +20013,8 @@
         ],
         "ipa": "/ˈdɛns ˈmɑdəɫz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "model parameter",
@@ -18783,7 +20038,8 @@
         ],
         "ipa": "/ˈmɑdəɫ pɝˈæmətɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "parameter count",
@@ -18798,7 +20054,8 @@
       "professional-reading",
       "technology",
       "ai-architecture"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "activation function",
@@ -18822,7 +20079,8 @@
         ],
         "ipa": "/ˌæktəˈveɪʃən ˈfəŋkʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "perceptron",
@@ -18846,7 +20104,8 @@
         ],
         "ipa": "/pɚˈsɛp.trɑnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "residual connection",
@@ -18870,7 +20129,8 @@
         ],
         "ipa": "/ɹɪˈzɪdʒuəɫ kəˈnɛkʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "feed forward network",
@@ -18894,7 +20154,8 @@
         ],
         "ipa": "/ˈfid ˈfɔɹwɝd ˈnɛtˌwɝks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "encoder decoder",
@@ -18918,7 +20179,8 @@
         ],
         "ipa": "/ɪnˈkoʊ.dɚ dɪˈkoʊdɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "autoregressive model",
@@ -18942,7 +20204,8 @@
         ],
         "ipa": "/ˌɔ.toʊ.rɪˈɡrɛ.sɪv ˈmɑdəɫz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "diffusion model",
@@ -18966,7 +20229,8 @@
         ],
         "ipa": "/dɪfˈjuʒən ˈmɑdəɫz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "multimodal model",
@@ -18990,7 +20254,8 @@
         ],
         "ipa": "/ˌmʌl.tiˈmoʊ.dəl ˈmɑdəɫz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "vision language model",
@@ -19014,6 +20279,9 @@
         ],
         "ipa": "/ˈvɪʒən ˈɫæŋɡwədʒ ˈmɑdəɫz/"
       }
+    ],
+    "synonyms": [
+      "VLM"
     ]
   },
   {
@@ -19029,7 +20297,8 @@
       "professional-reading",
       "technology",
       "ai-architecture"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "speech recognition",
@@ -19044,6 +20313,9 @@
       "professional-reading",
       "technology",
       "ai-architecture"
+    ],
+    "synonyms": [
+      "ASR"
     ]
   },
   {
@@ -19059,7 +20331,8 @@
       "professional-reading",
       "technology",
       "ai-architecture"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "reasoning capability",
@@ -19083,7 +20356,8 @@
         ],
         "ipa": "/ˈɹizənɪŋ ˌkeɪpəˈbɪɫətiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "reasoning trace",
@@ -19107,7 +20381,8 @@
         ],
         "ipa": "/ˈɹizənɪŋ ˈtɹeɪsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "chain of thought",
@@ -19131,6 +20406,9 @@
         ],
         "ipa": "/ˈtʃeɪnz əv ˈθɔt/"
       }
+    ],
+    "synonyms": [
+      "CoT"
     ]
   },
   {
@@ -19146,7 +20424,8 @@
       "professional-reading",
       "technology",
       "ai-evaluation"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "inference scaling",
@@ -19161,7 +20440,8 @@
       "professional-reading",
       "technology",
       "ai-evaluation"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "context length",
@@ -19185,7 +20465,8 @@
         ],
         "ipa": "/ˈkɑntɛkst ˈɫɛŋkθs/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "long context performance",
@@ -19200,7 +20481,8 @@
       "professional-reading",
       "technology",
       "ai-evaluation"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "needle in a haystack",
@@ -19224,7 +20506,8 @@
         ],
         "ipa": "/ˈnidəɫz ɪn ə ˈheɪˌstæk/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "benchmark contamination",
@@ -19239,7 +20522,8 @@
       "professional-reading",
       "technology",
       "ai-evaluation"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "data leakage",
@@ -19263,7 +20547,8 @@
         "example": "The security team investigated data leakage from the customer database.",
         "exampleVi": "Nhóm bảo mật điều tra việc dữ liệu bị lộ từ cơ sở dữ liệu khách hàng."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "evaluation dataset",
@@ -19287,7 +20572,8 @@
         ],
         "ipa": "/iˌvæɫjuˈeɪʃən ˈdeɪtəˌsɛts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "evaluation harness",
@@ -19311,7 +20597,8 @@
         ],
         "ipa": "/iˌvæɫjuˈeɪʃən ˈhɑɹnəsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "human evaluation",
@@ -19335,7 +20622,8 @@
         ],
         "ipa": "/ˈhjumən iˌvæɫjuˈeɪʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "automated evaluation",
@@ -19359,7 +20647,8 @@
         ],
         "ipa": "/ˈɔtəˌmeɪtɪd iˌvæɫjuˈeɪʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "blind evaluation",
@@ -19383,7 +20672,8 @@
         ],
         "ipa": "/ˈbɫaɪnd iˌvæɫjuˈeɪʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "pairwise comparison",
@@ -19407,7 +20697,8 @@
         ],
         "ipa": "/ˈpɛrˌwaɪz kəmˈpɛɹəsənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "win rate",
@@ -19431,7 +20722,8 @@
         ],
         "ipa": "/ˈwɪn ˈɹeɪts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "pass rate",
@@ -19455,7 +20747,8 @@
         ],
         "ipa": "/ˈpæs ˈɹeɪts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "coding benchmark",
@@ -19479,7 +20772,8 @@
         ],
         "ipa": "/ˈkoʊdɪŋ ˈbɛntʃˌmɑɹks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "mathematical reasoning",
@@ -19494,6 +20788,9 @@
       "professional-reading",
       "technology",
       "ai-evaluation"
+    ],
+    "synonyms": [
+      "mathematical inference"
     ]
   },
   {
@@ -19509,7 +20806,8 @@
       "professional-reading",
       "technology",
       "ai-evaluation"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "instruction following",
@@ -19524,7 +20822,8 @@
       "professional-reading",
       "technology",
       "ai-evaluation"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "tool use accuracy",
@@ -19539,7 +20838,8 @@
       "professional-reading",
       "technology",
       "ai-evaluation"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "out of distribution",
@@ -19554,6 +20854,9 @@
       "professional-reading",
       "technology",
       "ai-evaluation"
+    ],
+    "synonyms": [
+      "OOD"
     ]
   },
   {
@@ -19569,7 +20872,8 @@
       "professional-reading",
       "technology",
       "ai-evaluation"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "model alignment",
@@ -19584,7 +20888,8 @@
       "professional-reading",
       "technology",
       "ai-safety"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "safety evaluation",
@@ -19608,7 +20913,8 @@
         ],
         "ipa": "/ˈseɪfti iˌvæɫjuˈeɪʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "adversarial testing",
@@ -19623,7 +20929,8 @@
       "professional-reading",
       "technology",
       "ai-safety"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "red teaming",
@@ -19638,7 +20945,8 @@
       "professional-reading",
       "technology",
       "ai-safety"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "jailbreak attempt",
@@ -19662,7 +20970,8 @@
         ],
         "ipa": "/ˈdʒeɪɫˌbɹeɪk əˈtɛmpts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "safety guardrail",
@@ -19686,7 +20995,8 @@
         ],
         "ipa": "/ˈseɪfti ˈɡɑɹˌdɹeɪɫz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "content moderation",
@@ -19701,7 +21011,8 @@
       "professional-reading",
       "technology",
       "ai-safety"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "refusal behavior",
@@ -19725,7 +21036,8 @@
         ],
         "ipa": "/ɹəfˈjuzəɫ bɪˈheɪvjɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "false refusal",
@@ -19749,7 +21061,8 @@
         ],
         "ipa": "/ˈfɔɫs ɹəfˈjuzəɫz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "harmful output",
@@ -19773,7 +21086,8 @@
         ],
         "ipa": "/ˈhɑɹmfəɫ ˈaʊtˌpʊts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "training data privacy",
@@ -19788,7 +21102,8 @@
       "professional-reading",
       "technology",
       "ai-safety"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "data consent",
@@ -19803,7 +21118,8 @@
       "professional-reading",
       "technology",
       "ai-safety"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "copyright infringement",
@@ -19827,7 +21143,8 @@
         ],
         "ipa": "/ˈkɑpiˌɹaɪt ˌɪnˈfɹɪndʒmənts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "model transparency",
@@ -19842,7 +21159,8 @@
       "professional-reading",
       "technology",
       "ai-safety"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "model interpretability",
@@ -19857,7 +21175,8 @@
       "professional-reading",
       "technology",
       "ai-safety"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "mechanistic interpretability",
@@ -19872,7 +21191,8 @@
       "professional-reading",
       "technology",
       "ai-safety"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "model card",
@@ -19896,7 +21216,8 @@
         ],
         "ipa": "/ˈmɑdəɫ ˈkɑɹdz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "system card",
@@ -19920,7 +21241,8 @@
         ],
         "ipa": "/ˈsɪstəm ˈkɑɹdz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "responsible deployment",
@@ -19944,7 +21266,8 @@
         ],
         "ipa": "/ɹiˈspɑnsəbəɫ dɪˈpɫɔɪmənts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "misuse prevention",
@@ -19959,7 +21282,8 @@
       "professional-reading",
       "technology",
       "ai-safety"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "abuse monitoring",
@@ -19974,7 +21298,8 @@
       "professional-reading",
       "technology",
       "ai-safety"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "human oversight",
@@ -19989,7 +21314,8 @@
       "professional-reading",
       "technology",
       "ai-safety"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "provenance tracking",
@@ -20004,7 +21330,8 @@
       "professional-reading",
       "technology",
       "ai-safety"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "synthetic content",
@@ -20019,7 +21346,8 @@
       "professional-reading",
       "technology",
       "ai-safety"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "text watermarking",
@@ -20034,7 +21362,8 @@
       "professional-reading",
       "technology",
       "ai-safety"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "product launch",
@@ -20058,7 +21387,8 @@
         ],
         "ipa": "/ˈpɹɑdəkt ˈɫɔntʃɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "launch event",
@@ -20082,7 +21412,8 @@
         ],
         "ipa": "/ˈɫɔntʃ iˈvɛnts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "early access",
@@ -20097,7 +21428,8 @@
       "professional-reading",
       "technology",
       "product-news"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "general availability",
@@ -20112,6 +21444,9 @@
       "professional-reading",
       "technology",
       "product-news"
+    ],
+    "synonyms": [
+      "GA"
     ]
   },
   {
@@ -20136,7 +21471,8 @@
         ],
         "ipa": "/ˈbeɪtə ɹiˈɫisɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "public preview",
@@ -20160,7 +21496,8 @@
         ],
         "ipa": "/ˈpəbɫɪk ˈpɹivˌjuz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "developer preview",
@@ -20184,7 +21521,8 @@
         ],
         "ipa": "/dɪˈvɛɫəpɝ ˈpɹivˌjuz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "flagship device",
@@ -20208,7 +21546,8 @@
         ],
         "ipa": "/ˈfɫæɡˌʃɪp dɪˈvaɪsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "entry level model",
@@ -20232,7 +21571,8 @@
         ],
         "ipa": "/ˈɛntɹi ˈɫɛvəɫ ˈmɑdəɫz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "midrange device",
@@ -20256,7 +21596,8 @@
         ],
         "ipa": "/ˈmɪˌdɹeɪndʒ dɪˈvaɪsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "premium tier",
@@ -20280,7 +21621,8 @@
         ],
         "ipa": "/ˈpɹimiəm ˈtiɹz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "subscription tier",
@@ -20304,7 +21646,8 @@
         ],
         "ipa": "/səbsˈkɹɪpʃən ˈtiɹz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "subscription fee",
@@ -20328,7 +21671,8 @@
         ],
         "ipa": "/səbsˈkɹɪpʃən ˈfiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "price hike",
@@ -20352,6 +21696,9 @@
         ],
         "ipa": "/ˈpɹaɪs ˈhaɪks/"
       }
+    ],
+    "synonyms": [
+      "price increase"
     ]
   },
   {
@@ -20376,6 +21723,9 @@
         ],
         "ipa": "/ˈpɹaɪs ˈkəts/"
       }
+    ],
+    "synonyms": [
+      "price reduction"
     ]
   },
   {
@@ -20400,7 +21750,8 @@
         ],
         "ipa": "/ˈpɹɑdəkt ɹɪˈfɹɛʃɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "hardware revision",
@@ -20424,7 +21775,8 @@
         ],
         "ipa": "/ˈhɑɹdˌwɛɹ ɹiˈvɪʒənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "software feature",
@@ -20448,7 +21800,8 @@
         ],
         "ipa": "/ˈsɔfˌwɛɹ ˈfitʃɝz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "feature parity",
@@ -20463,7 +21816,8 @@
       "professional-reading",
       "technology",
       "product-news"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "forward compatibility",
@@ -20478,7 +21832,8 @@
       "professional-reading",
       "technology",
       "product-news"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cross platform support",
@@ -20493,7 +21848,8 @@
       "professional-reading",
       "technology",
       "product-news"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "ecosystem lock in",
@@ -20517,7 +21873,8 @@
         ],
         "ipa": "/ˈikoʊˌsɪstəm ˈɫɑk ɪnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "repair program",
@@ -20541,7 +21898,8 @@
         ],
         "ipa": "/ɹɪˈpɛɹ ˈpɹoʊˌɡɹæmz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "product recall",
@@ -20565,7 +21923,8 @@
         ],
         "ipa": "/ˈpɹɑdəkt ˈɹiˌkɔɫz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "end of support",
@@ -20580,6 +21939,9 @@
       "professional-reading",
       "technology",
       "product-news"
+    ],
+    "synonyms": [
+      "EOS"
     ]
   }
 ]

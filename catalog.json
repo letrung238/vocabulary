@@ -9,6 +9,18 @@
       "count": 1002
     },
     {
+      "title": "Thông dụng · 20 từ bổ sung",
+      "description": "20 mục thông dụng: book, pass, get, take… Gồm 19 từ mới và cách dùng động từ follow up, gộp vào follow-up nếu đã có. Có 12 nghĩa phụ, ví dụ Anh–Việt, dạng chia và đồng nghĩa phù hợp. Có sẵn offline trên Windows/Android.",
+      "url": "decks/basic-20.json",
+      "count": 20
+    },
+    {
+      "title": "Thông dụng · 120 từ bổ sung",
+      "count": 120,
+      "url": "decks/basic-120.json",
+      "description": "120 từ/cụm mới trong 6 nhóm: động từ, đồ dùng, thực phẩm, quần áo, cơ thể và đi lại. IPA, ví dụ Anh–Việt, dạng chia và đồng nghĩa phù hợp; có sẵn offline trên Windows/Android."
+    },
+    {
       "title": "IT chuyên sâu — 151 từ",
       "description": "Hệ phân tán, database, bảo mật, đồng thời, DevOps, observability. Không trùng bộ chính.",
       "url": "it_advanced.json",

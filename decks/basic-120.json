@@ -1,0 +1,3393 @@
+[
+  {
+    "word": "know",
+    "pos": "verb",
+    "ipa": "/noʊ/",
+    "meaningVi": "biết",
+    "example": "I knew the answer to the question.",
+    "exampleVi": "Tôi biết câu trả lời cho câu hỏi đó.",
+    "topic": "daily",
+    "tags": [
+      "basic-120",
+      "daily"
+    ],
+    "synonyms": [],
+    "senses": [
+      {
+        "pos": "verb",
+        "ipa": "/noʊ/",
+        "meaningVi": "quen biết",
+        "example": "I have known her since we were children.",
+        "exampleVi": "Tôi quen cô ấy từ khi chúng tôi còn nhỏ."
+      }
+    ],
+    "forms": [
+      {
+        "word": "knows",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/noʊz/"
+      },
+      {
+        "word": "knowing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/noʊɪŋ/"
+      },
+      {
+        "word": "knew",
+        "types": [
+          "past_simple"
+        ],
+        "ipa": "/ˈnju/, /ˈnu/",
+        "example": "I knew the answer to the question.",
+        "exampleVi": "Tôi biết câu trả lời cho câu hỏi đó."
+      },
+      {
+        "word": "known",
+        "types": [
+          "past_participle"
+        ],
+        "ipa": "/ˈnoʊn/",
+        "example": "I have known her since we were children.",
+        "exampleVi": "Tôi quen cô ấy từ khi chúng tôi còn nhỏ."
+      }
+    ]
+  },
+  {
+    "word": "think",
+    "pos": "verb",
+    "ipa": "/θɪŋk/",
+    "meaningVi": "nghĩ; suy nghĩ",
+    "example": "We thought carefully before making a decision.",
+    "exampleVi": "Chúng tôi suy nghĩ kỹ trước khi quyết định.",
+    "topic": "daily",
+    "tags": [
+      "basic-120",
+      "daily"
+    ],
+    "synonyms": [
+      "consider"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "ipa": "/θɪŋk/",
+        "meaningVi": "cho rằng",
+        "example": "I think this jacket is too small.",
+        "exampleVi": "Tôi cho rằng chiếc áo khoác này quá nhỏ."
+      }
+    ],
+    "forms": [
+      {
+        "word": "thinks",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/θɪŋks/"
+      },
+      {
+        "word": "thinking",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/θɪŋkɪŋ/"
+      },
+      {
+        "word": "thought",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈθɔt/",
+        "example": "We thought carefully before making a decision.",
+        "exampleVi": "Chúng tôi suy nghĩ kỹ trước khi quyết định."
+      }
+    ]
+  },
+  {
+    "word": "ask",
+    "pos": "verb",
+    "ipa": "/æsk/",
+    "meaningVi": "hỏi",
+    "example": "She asked me a question about the timetable.",
+    "exampleVi": "Cô ấy hỏi tôi một câu về bảng giờ chạy.",
+    "topic": "daily",
+    "tags": [
+      "basic-120",
+      "daily"
+    ],
+    "synonyms": [
+      "inquire"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "ipa": "/æsk/",
+        "meaningVi": "yêu cầu; đề nghị",
+        "example": "He asked me to close the window.",
+        "exampleVi": "Anh ấy nhờ tôi đóng cửa sổ."
+      }
+    ],
+    "forms": [
+      {
+        "word": "asks",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/æsks/"
+      },
+      {
+        "word": "asking",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/æskɪŋ/"
+      },
+      {
+        "word": "asked",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/æskt/",
+        "example": "She asked me a question about the timetable.",
+        "exampleVi": "Cô ấy hỏi tôi một câu về bảng giờ chạy."
+      }
+    ]
+  },
+  {
+    "word": "tell",
+    "pos": "verb",
+    "ipa": "/tel/",
+    "meaningVi": "nói cho biết",
+    "example": "He told me the new password.",
+    "exampleVi": "Anh ấy cho tôi biết mật khẩu mới.",
+    "topic": "daily",
+    "tags": [
+      "basic-120",
+      "daily"
+    ],
+    "synonyms": [
+      "inform"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "ipa": "/tel/",
+        "meaningVi": "kể",
+        "example": "She told the children a story.",
+        "exampleVi": "Cô ấy kể cho bọn trẻ một câu chuyện."
+      }
+    ],
+    "forms": [
+      {
+        "word": "tells",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/telz/"
+      },
+      {
+        "word": "telling",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/telɪŋ/"
+      },
+      {
+        "word": "told",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈtoʊɫd/",
+        "example": "He told me the new password.",
+        "exampleVi": "Anh ấy cho tôi biết mật khẩu mới."
+      }
+    ]
+  },
+  {
+    "word": "find",
+    "pos": "verb",
+    "ipa": "/faɪnd/",
+    "meaningVi": "tìm thấy",
+    "example": "I found my keys under the sofa.",
+    "exampleVi": "Tôi tìm thấy chìa khóa dưới ghế sofa.",
+    "topic": "daily",
+    "tags": [
+      "basic-120",
+      "daily"
+    ],
+    "synonyms": [
+      "locate"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "ipa": "/faɪnd/",
+        "meaningVi": "nhận thấy",
+        "example": "I find this book useful for learning English.",
+        "exampleVi": "Tôi thấy cuốn sách này hữu ích cho việc học tiếng Anh."
+      }
+    ],
+    "forms": [
+      {
+        "word": "finds",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/faɪndz/"
+      },
+      {
+        "word": "finding",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/faɪndɪŋ/"
+      },
+      {
+        "word": "found",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈfaʊnd/",
+        "example": "I found my keys under the sofa.",
+        "exampleVi": "Tôi tìm thấy chìa khóa dưới ghế sofa."
+      }
+    ]
+  },
+  {
+    "word": "give",
+    "pos": "verb",
+    "ipa": "/ɡɪv/",
+    "meaningVi": "cho; đưa",
+    "example": "She gave me a clean towel.",
+    "exampleVi": "Cô ấy đưa cho tôi một chiếc khăn sạch.",
+    "topic": "daily",
+    "tags": [
+      "basic-120",
+      "daily"
+    ],
+    "synonyms": [],
+    "senses": [
+      {
+        "pos": "verb",
+        "ipa": "/ɡɪv/",
+        "meaningVi": "tặng",
+        "example": "We gave him a scarf for his birthday.",
+        "exampleVi": "Chúng tôi tặng anh ấy một chiếc khăn quàng vào dịp sinh nhật."
+      }
+    ],
+    "forms": [
+      {
+        "word": "gives",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ɡɪvz/"
+      },
+      {
+        "word": "giving",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɡɪvɪŋ/"
+      },
+      {
+        "word": "gave",
+        "types": [
+          "past_simple"
+        ],
+        "ipa": "/ˈɡeɪv/",
+        "example": "She gave me a clean towel.",
+        "exampleVi": "Cô ấy đưa cho tôi một chiếc khăn sạch."
+      },
+      {
+        "word": "given",
+        "types": [
+          "past_participle"
+        ],
+        "ipa": "/ˈɡɪvən/, /ˈɡɪvɪn/"
+      }
+    ]
+  },
+  {
+    "word": "want",
+    "pos": "verb",
+    "ipa": "/wɑnt/",
+    "meaningVi": "muốn",
+    "example": "I want a glass of water.",
+    "exampleVi": "Tôi muốn một cốc nước.",
+    "topic": "daily",
+    "tags": [
+      "basic-120",
+      "daily"
+    ],
+    "synonyms": [
+      "desire"
+    ],
+    "forms": [
+      {
+        "word": "wants",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/wɑnts/"
+      },
+      {
+        "word": "wanting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/wɑntɪŋ/"
+      },
+      {
+        "word": "wanted",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/wɑntɪd/"
+      }
+    ]
+  },
+  {
+    "word": "need",
+    "pos": "verb",
+    "ipa": "/niːd/",
+    "meaningVi": "cần",
+    "example": "We need more time to finish the work.",
+    "exampleVi": "Chúng tôi cần thêm thời gian để hoàn thành công việc.",
+    "topic": "daily",
+    "tags": [
+      "basic-120",
+      "daily"
+    ],
+    "synonyms": [
+      "require"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "ipa": "/niːd/",
+        "meaningVi": "nhu cầu",
+        "example": "The survey identified a need for better transport.",
+        "exampleVi": "Khảo sát xác định nhu cầu cải thiện giao thông."
+      }
+    ],
+    "forms": [
+      {
+        "word": "needs",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/niːdz/"
+      },
+      {
+        "word": "needing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/niːdɪŋ/"
+      },
+      {
+        "word": "needed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/niːdɪd/"
+      }
+    ]
+  },
+  {
+    "word": "use",
+    "pos": "verb",
+    "ipa": "/juːz/",
+    "meaningVi": "sử dụng",
+    "example": "She used a map to find the station.",
+    "exampleVi": "Cô ấy dùng bản đồ để tìm nhà ga.",
+    "topic": "daily",
+    "tags": [
+      "basic-120",
+      "daily"
+    ],
+    "synonyms": [
+      "utilize"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "ipa": "/juːs/",
+        "meaningVi": "công dụng",
+        "example": "This tool has several useful uses.",
+        "exampleVi": "Dụng cụ này có vài công dụng hữu ích."
+      }
+    ],
+    "forms": [
+      {
+        "word": "uses",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/juːzɪz/, /juːsɪz/"
+      },
+      {
+        "word": "using",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/juːzɪŋ/"
+      },
+      {
+        "word": "used",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/juːzd/",
+        "example": "She used a map to find the station.",
+        "exampleVi": "Cô ấy dùng bản đồ để tìm nhà ga."
+      }
+    ]
+  },
+  {
+    "word": "try",
+    "pos": "verb",
+    "ipa": "/traɪ/",
+    "meaningVi": "thử; cố gắng",
+    "example": "We tried to fix the broken shelf.",
+    "exampleVi": "Chúng tôi cố sửa chiếc kệ bị hỏng.",
+    "topic": "daily",
+    "tags": [
+      "basic-120",
+      "daily"
+    ],
+    "synonyms": [
+      "attempt"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "ipa": "/traɪ/",
+        "meaningVi": "lần thử",
+        "example": "It took three tries to open the jar.",
+        "exampleVi": "Phải thử ba lần mới mở được chiếc lọ."
+      }
+    ],
+    "forms": [
+      {
+        "word": "tries",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/traɪz/"
+      },
+      {
+        "word": "trying",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/traɪɪŋ/"
+      },
+      {
+        "word": "tried",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/traɪd/",
+        "example": "We tried to fix the broken shelf.",
+        "exampleVi": "Chúng tôi cố sửa chiếc kệ bị hỏng."
+      }
+    ]
+  },
+  {
+    "word": "leave",
+    "pos": "verb",
+    "ipa": "/liːv/",
+    "meaningVi": "rời đi",
+    "example": "They left the office at six.",
+    "exampleVi": "Họ rời văn phòng lúc sáu giờ.",
+    "topic": "daily",
+    "tags": [
+      "basic-120",
+      "daily"
+    ],
+    "synonyms": [
+      "depart"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "ipa": "/liːv/",
+        "meaningVi": "để lại",
+        "example": "I left my umbrella on the bus.",
+        "exampleVi": "Tôi để quên ô trên xe buýt."
+      },
+      {
+        "pos": "noun",
+        "ipa": "/liːv/",
+        "meaningVi": "thời gian nghỉ phép",
+        "example": "She is on annual leave this week.",
+        "exampleVi": "Tuần này cô ấy đang nghỉ phép năm."
+      }
+    ],
+    "forms": [
+      {
+        "word": "leaves",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/liːvz/"
+      },
+      {
+        "word": "leaving",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/liːvɪŋ/"
+      },
+      {
+        "word": "left",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈɫɛft/",
+        "example": "They left the office at six.",
+        "exampleVi": "Họ rời văn phòng lúc sáu giờ."
+      }
+    ]
+  },
+  {
+    "word": "buy",
+    "pos": "verb",
+    "ipa": "/baɪ/",
+    "meaningVi": "mua",
+    "example": "I bought a new toothbrush yesterday.",
+    "exampleVi": "Hôm qua tôi mua một chiếc bàn chải đánh răng mới.",
+    "topic": "shopping",
+    "tags": [
+      "basic-120",
+      "shopping"
+    ],
+    "synonyms": [
+      "purchase"
+    ],
+    "forms": [
+      {
+        "word": "buys",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/baɪz/"
+      },
+      {
+        "word": "buying",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/baɪɪŋ/"
+      },
+      {
+        "word": "bought",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈbɑt/, /ˈbɔt/",
+        "example": "I bought a new toothbrush yesterday.",
+        "exampleVi": "Hôm qua tôi mua một chiếc bàn chải đánh răng mới."
+      }
+    ]
+  },
+  {
+    "word": "sell",
+    "pos": "verb",
+    "ipa": "/sel/",
+    "meaningVi": "bán",
+    "example": "They sold their old washing machine.",
+    "exampleVi": "Họ bán chiếc máy giặt cũ.",
+    "topic": "shopping",
+    "tags": [
+      "basic-120",
+      "shopping"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "sells",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/selz/"
+      },
+      {
+        "word": "selling",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/selɪŋ/"
+      },
+      {
+        "word": "sold",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈsoʊɫd/",
+        "example": "They sold their old washing machine.",
+        "exampleVi": "Họ bán chiếc máy giặt cũ."
+      }
+    ]
+  },
+  {
+    "word": "pay",
+    "pos": "verb",
+    "ipa": "/peɪ/",
+    "meaningVi": "trả tiền",
+    "example": "I paid for the groceries with a card.",
+    "exampleVi": "Tôi thanh toán tiền thực phẩm bằng thẻ.",
+    "topic": "shopping",
+    "tags": [
+      "basic-120",
+      "shopping"
+    ],
+    "synonyms": [],
+    "senses": [
+      {
+        "pos": "noun",
+        "ipa": "/peɪ/",
+        "meaningVi": "tiền công; tiền lương",
+        "example": "The new job offers better pay.",
+        "exampleVi": "Công việc mới có mức lương tốt hơn."
+      }
+    ],
+    "forms": [
+      {
+        "word": "pays",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/peɪz/"
+      },
+      {
+        "word": "paying",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/peɪɪŋ/"
+      },
+      {
+        "word": "paid",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈpeɪd/",
+        "example": "I paid for the groceries with a card.",
+        "exampleVi": "Tôi thanh toán tiền thực phẩm bằng thẻ."
+      }
+    ]
+  },
+  {
+    "word": "read",
+    "pos": "verb",
+    "ipa": "/riːd/",
+    "meaningVi": "đọc",
+    "example": "She read the instructions before using the kettle.",
+    "exampleVi": "Cô ấy đọc hướng dẫn trước khi dùng ấm đun nước.",
+    "topic": "education",
+    "tags": [
+      "basic-120",
+      "education"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "reads",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/riːdz/"
+      },
+      {
+        "word": "reading",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/riːdɪŋ/"
+      },
+      {
+        "word": "read",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/red/"
+      }
+    ]
+  },
+  {
+    "word": "write",
+    "pos": "verb",
+    "ipa": "/raɪt/",
+    "meaningVi": "viết",
+    "example": "He wrote a short message to his teacher.",
+    "exampleVi": "Anh ấy viết một tin nhắn ngắn cho giáo viên.",
+    "topic": "education",
+    "tags": [
+      "basic-120",
+      "education"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "writes",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/raɪts/"
+      },
+      {
+        "word": "writing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/raɪtɪŋ/"
+      },
+      {
+        "word": "wrote",
+        "types": [
+          "past_simple"
+        ],
+        "ipa": "/ˈɹoʊt/",
+        "example": "He wrote a short message to his teacher.",
+        "exampleVi": "Anh ấy viết một tin nhắn ngắn cho giáo viên."
+      },
+      {
+        "word": "written",
+        "types": [
+          "past_participle"
+        ],
+        "ipa": "/ˈɹɪtən/"
+      }
+    ]
+  },
+  {
+    "word": "speak",
+    "pos": "verb",
+    "ipa": "/spiːk/",
+    "meaningVi": "nói",
+    "example": "She spoke clearly during the meeting.",
+    "exampleVi": "Cô ấy nói rõ ràng trong cuộc họp.",
+    "topic": "daily",
+    "tags": [
+      "basic-120",
+      "daily"
+    ],
+    "synonyms": [
+      "talk"
+    ],
+    "senses": [
+      {
+        "pos": "verb",
+        "ipa": "/spiːk/",
+        "meaningVi": "nói một ngôn ngữ",
+        "example": "He speaks English and Vietnamese.",
+        "exampleVi": "Anh ấy nói tiếng Anh và tiếng Việt."
+      }
+    ],
+    "forms": [
+      {
+        "word": "speaks",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/spiːks/",
+        "example": "He speaks English and Vietnamese.",
+        "exampleVi": "Anh ấy nói tiếng Anh và tiếng Việt."
+      },
+      {
+        "word": "speaking",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/spiːkɪŋ/"
+      },
+      {
+        "word": "spoke",
+        "types": [
+          "past_simple"
+        ],
+        "ipa": "/ˈspoʊk/",
+        "example": "She spoke clearly during the meeting.",
+        "exampleVi": "Cô ấy nói rõ ràng trong cuộc họp."
+      },
+      {
+        "word": "spoken",
+        "types": [
+          "past_participle"
+        ],
+        "ipa": "/ˈspoʊkən/"
+      }
+    ]
+  },
+  {
+    "word": "listen",
+    "pos": "verb",
+    "ipa": "/ˈlɪsən/",
+    "meaningVi": "lắng nghe",
+    "example": "We listened to the weather report.",
+    "exampleVi": "Chúng tôi nghe bản tin thời tiết.",
+    "topic": "daily",
+    "tags": [
+      "basic-120",
+      "daily"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "listens",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈlɪsənz/"
+      },
+      {
+        "word": "listening",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈlɪsənɪŋ/"
+      },
+      {
+        "word": "listened",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈlɪsənd/",
+        "example": "We listened to the weather report.",
+        "exampleVi": "Chúng tôi nghe bản tin thời tiết."
+      }
+    ]
+  },
+  {
+    "word": "help",
+    "pos": "verb",
+    "ipa": "/help/",
+    "meaningVi": "giúp đỡ",
+    "example": "He helped me carry the suitcase.",
+    "exampleVi": "Anh ấy giúp tôi mang va li.",
+    "topic": "daily",
+    "tags": [
+      "basic-120",
+      "daily"
+    ],
+    "synonyms": [
+      "assist"
+    ],
+    "senses": [
+      {
+        "pos": "noun",
+        "ipa": "/help/",
+        "meaningVi": "sự giúp đỡ",
+        "example": "Thank you for your help with the move.",
+        "exampleVi": "Cảm ơn bạn đã giúp đỡ việc chuyển nhà."
+      }
+    ],
+    "forms": [
+      {
+        "word": "helps",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/helps/"
+      },
+      {
+        "word": "helping",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/helpɪŋ/"
+      },
+      {
+        "word": "helped",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/helpt/",
+        "example": "He helped me carry the suitcase.",
+        "exampleVi": "Anh ấy giúp tôi mang va li."
+      }
+    ]
+  },
+  {
+    "word": "work",
+    "pos": "verb",
+    "ipa": "/wɜrk/",
+    "meaningVi": "làm việc",
+    "example": "She worked from home yesterday.",
+    "exampleVi": "Hôm qua cô ấy làm việc ở nhà.",
+    "topic": "work",
+    "tags": [
+      "basic-120",
+      "work"
+    ],
+    "synonyms": [],
+    "senses": [
+      {
+        "pos": "noun",
+        "ipa": "/wɜrk/",
+        "meaningVi": "công việc; việc phải làm",
+        "example": "I have a lot of work to finish today.",
+        "exampleVi": "Hôm nay tôi có nhiều công việc cần hoàn thành."
+      },
+      {
+        "pos": "verb",
+        "ipa": "/wɜrk/",
+        "meaningVi": "hoạt động; có tác dụng",
+        "example": "The charger works well with my phone.",
+        "exampleVi": "Bộ sạc hoạt động tốt với điện thoại của tôi."
+      }
+    ],
+    "forms": [
+      {
+        "word": "works",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/wɜrks/",
+        "example": "The charger works well with my phone.",
+        "exampleVi": "Bộ sạc hoạt động tốt với điện thoại của tôi."
+      },
+      {
+        "word": "working",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/wɜrkɪŋ/"
+      },
+      {
+        "word": "worked",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/wɜrkt/",
+        "example": "She worked from home yesterday.",
+        "exampleVi": "Hôm qua cô ấy làm việc ở nhà."
+      }
+    ]
+  },
+  {
+    "word": "kettle",
+    "pos": "noun",
+    "ipa": "/ˈketəl/",
+    "meaningVi": "ấm đun nước",
+    "example": "Fill the kettle with fresh water.",
+    "exampleVi": "Hãy đổ nước sạch vào ấm đun nước.",
+    "topic": "home",
+    "tags": [
+      "basic-120",
+      "home"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "kettles",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈketəlz/"
+      }
+    ]
+  },
+  {
+    "word": "saucepan",
+    "pos": "noun",
+    "ipa": "/ˈsɔspæn/",
+    "meaningVi": "nồi có cán",
+    "example": "Heat the soup in a small saucepan.",
+    "exampleVi": "Hãy hâm súp trong một chiếc nồi nhỏ có cán.",
+    "topic": "home",
+    "tags": [
+      "basic-120",
+      "home"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "saucepans",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsɔspænz/"
+      }
+    ]
+  },
+  {
+    "word": "drawer",
+    "pos": "noun",
+    "ipa": "/drɔr/",
+    "meaningVi": "ngăn kéo",
+    "example": "The scissors are in the top drawer.",
+    "exampleVi": "Kéo ở trong ngăn kéo trên cùng.",
+    "topic": "home",
+    "tags": [
+      "basic-120",
+      "home"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "drawers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/drɔrz/"
+      }
+    ]
+  },
+  {
+    "word": "toothpaste",
+    "pos": "noun",
+    "ipa": "/ˈtuːθpeɪst/",
+    "meaningVi": "kem đánh răng",
+    "example": "We need to buy more toothpaste.",
+    "exampleVi": "Chúng ta cần mua thêm kem đánh răng.",
+    "topic": "home",
+    "tags": [
+      "basic-120",
+      "home"
+    ],
+    "synonyms": []
+  },
+  {
+    "word": "toothbrush",
+    "pos": "noun",
+    "ipa": "/ˈtuːθbrʌʃ/",
+    "meaningVi": "bàn chải đánh răng",
+    "example": "Keep your toothbrush clean and dry.",
+    "exampleVi": "Hãy giữ bàn chải đánh răng sạch và khô.",
+    "topic": "home",
+    "tags": [
+      "basic-120",
+      "home"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "toothbrushes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtuːθbrʌʃɪz/"
+      }
+    ]
+  },
+  {
+    "word": "shampoo",
+    "pos": "noun",
+    "ipa": "/ʃæmˈpuː/",
+    "meaningVi": "dầu gội",
+    "example": "This shampoo has a mild scent.",
+    "exampleVi": "Loại dầu gội này có mùi thơm nhẹ.",
+    "topic": "home",
+    "tags": [
+      "basic-120",
+      "home"
+    ],
+    "synonyms": []
+  },
+  {
+    "word": "soap",
+    "pos": "noun",
+    "ipa": "/soʊp/",
+    "meaningVi": "xà phòng",
+    "example": "Wash your hands with soap and water.",
+    "exampleVi": "Hãy rửa tay bằng xà phòng và nước.",
+    "topic": "home",
+    "tags": [
+      "basic-120",
+      "home"
+    ],
+    "synonyms": []
+  },
+  {
+    "word": "towel",
+    "pos": "noun",
+    "ipa": "/ˈtaʊəl/",
+    "meaningVi": "khăn",
+    "example": "Please bring a dry towel to the pool.",
+    "exampleVi": "Hãy mang một chiếc khăn khô đến bể bơi.",
+    "topic": "home",
+    "tags": [
+      "basic-120",
+      "home"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "towels",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtaʊəlz/"
+      }
+    ]
+  },
+  {
+    "word": "sink",
+    "pos": "noun",
+    "ipa": "/sɪŋk/",
+    "meaningVi": "bồn rửa",
+    "example": "Leave the dirty cups in the sink.",
+    "exampleVi": "Hãy để những chiếc cốc bẩn trong bồn rửa.",
+    "topic": "home",
+    "tags": [
+      "basic-120",
+      "home"
+    ],
+    "synonyms": [
+      "washbasin"
+    ],
+    "forms": [
+      {
+        "word": "sinks",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/sɪŋks/"
+      }
+    ]
+  },
+  {
+    "word": "sponge",
+    "pos": "noun",
+    "ipa": "/spʌndʒ/",
+    "meaningVi": "miếng bọt biển",
+    "example": "Use a soft sponge to clean the pan.",
+    "exampleVi": "Hãy dùng miếng bọt biển mềm để rửa chảo.",
+    "topic": "home",
+    "tags": [
+      "basic-120",
+      "home"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "sponges",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/spʌndʒɪz/"
+      }
+    ]
+  },
+  {
+    "word": "detergent",
+    "pos": "noun",
+    "ipa": "/dɪˈtɜrdʒənt/",
+    "meaningVi": "chất giặt; chất tẩy rửa",
+    "example": "Add a little detergent to the washing machine.",
+    "exampleVi": "Hãy cho một ít chất giặt vào máy giặt.",
+    "topic": "home",
+    "tags": [
+      "basic-120",
+      "home"
+    ],
+    "synonyms": []
+  },
+  {
+    "word": "dishwasher",
+    "pos": "noun",
+    "ipa": "/ˈdɪʃwɑʃər/",
+    "meaningVi": "máy rửa bát",
+    "example": "The dishwasher is full of clean plates.",
+    "exampleVi": "Máy rửa bát chứa đầy đĩa sạch.",
+    "topic": "home",
+    "tags": [
+      "basic-120",
+      "home"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "dishwashers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈdɪʃwɑʃərz/"
+      }
+    ]
+  },
+  {
+    "word": "washing machine",
+    "pos": "noun",
+    "ipa": "/ˈwɑʃɪŋ məˌʃiːn/",
+    "meaningVi": "máy giặt",
+    "example": "Our washing machine is making a strange noise.",
+    "exampleVi": "Máy giặt của chúng tôi phát ra tiếng lạ.",
+    "topic": "home",
+    "tags": [
+      "basic-120",
+      "home"
+    ],
+    "synonyms": [
+      "washer"
+    ],
+    "forms": [
+      {
+        "word": "washing machines",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈwɑʃɪŋ məˌʃiːnz/"
+      }
+    ]
+  },
+  {
+    "word": "freezer",
+    "pos": "noun",
+    "ipa": "/ˈfriːzər/",
+    "meaningVi": "tủ đông",
+    "example": "Put the ice cream in the freezer.",
+    "exampleVi": "Hãy cho kem vào tủ đông.",
+    "topic": "home",
+    "tags": [
+      "basic-120",
+      "home"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "freezers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈfriːzərz/"
+      }
+    ]
+  },
+  {
+    "word": "vacuum cleaner",
+    "pos": "noun",
+    "ipa": "/ˈvækjuəm ˌkliːnər/",
+    "meaningVi": "máy hút bụi",
+    "example": "I use a vacuum cleaner to clean the carpet.",
+    "exampleVi": "Tôi dùng máy hút bụi để làm sạch thảm.",
+    "topic": "home",
+    "tags": [
+      "basic-120",
+      "home"
+    ],
+    "synonyms": [
+      "vacuum"
+    ],
+    "forms": [
+      {
+        "word": "vacuum cleaners",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈvækjuəm ˌkliːnərz/"
+      }
+    ]
+  },
+  {
+    "word": "broom",
+    "pos": "noun",
+    "ipa": "/bruːm/",
+    "meaningVi": "chổi",
+    "example": "Use a broom to sweep the kitchen floor.",
+    "exampleVi": "Hãy dùng chổi để quét sàn bếp.",
+    "topic": "home",
+    "tags": [
+      "basic-120",
+      "home"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "brooms",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/bruːmz/"
+      }
+    ]
+  },
+  {
+    "word": "mop",
+    "pos": "noun",
+    "ipa": "/mɑp/",
+    "meaningVi": "cây lau nhà",
+    "example": "Rinse the mop after cleaning the floor.",
+    "exampleVi": "Hãy giặt cây lau nhà sau khi lau sàn.",
+    "topic": "home",
+    "tags": [
+      "basic-120",
+      "home"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "mops",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/mɑps/"
+      }
+    ]
+  },
+  {
+    "word": "shelf",
+    "pos": "noun",
+    "ipa": "/ʃelf/",
+    "meaningVi": "kệ",
+    "example": "Put the books on the top shelf.",
+    "exampleVi": "Hãy đặt sách lên kệ trên cùng.",
+    "topic": "home",
+    "tags": [
+      "basic-120",
+      "home"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "shelves",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈʃɛɫvz/"
+      }
+    ]
+  },
+  {
+    "word": "cupboard",
+    "pos": "noun",
+    "ipa": "/ˈkʌbərd/",
+    "meaningVi": "tủ đựng đồ",
+    "example": "The cups are in the kitchen cupboard.",
+    "exampleVi": "Cốc ở trong tủ bếp.",
+    "topic": "home",
+    "tags": [
+      "basic-120",
+      "home"
+    ],
+    "synonyms": [
+      "cabinet"
+    ],
+    "forms": [
+      {
+        "word": "cupboards",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkʌbərdz/"
+      }
+    ]
+  },
+  {
+    "word": "curtain",
+    "pos": "noun",
+    "ipa": "/ˈkɜrtən/",
+    "meaningVi": "rèm cửa",
+    "example": "Close the curtain before going to bed.",
+    "exampleVi": "Hãy kéo rèm trước khi đi ngủ.",
+    "topic": "home",
+    "tags": [
+      "basic-120",
+      "home"
+    ],
+    "synonyms": [
+      "drape"
+    ],
+    "forms": [
+      {
+        "word": "curtains",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkɜrtənz/"
+      }
+    ]
+  },
+  {
+    "word": "bread",
+    "pos": "noun",
+    "ipa": "/bred/",
+    "meaningVi": "bánh mì",
+    "example": "I bought some fresh bread for breakfast.",
+    "exampleVi": "Tôi mua ít bánh mì mới làm cho bữa sáng.",
+    "topic": "food",
+    "tags": [
+      "basic-120",
+      "food"
+    ],
+    "synonyms": []
+  },
+  {
+    "word": "rice",
+    "pos": "noun",
+    "ipa": "/raɪs/",
+    "meaningVi": "gạo",
+    "example": "Store the rice in a dry container.",
+    "exampleVi": "Hãy bảo quản gạo trong hộp khô.",
+    "topic": "food",
+    "tags": [
+      "basic-120",
+      "food"
+    ],
+    "synonyms": [],
+    "senses": [
+      {
+        "pos": "noun",
+        "ipa": "/raɪs/",
+        "meaningVi": "cơm",
+        "example": "We had rice and chicken for lunch.",
+        "exampleVi": "Chúng tôi ăn cơm với thịt gà vào bữa trưa."
+      }
+    ]
+  },
+  {
+    "word": "pasta",
+    "pos": "noun",
+    "ipa": "/ˈpɑstə/",
+    "meaningVi": "mì kiểu Ý",
+    "example": "Cook the pasta in boiling water.",
+    "exampleVi": "Hãy nấu mì Ý trong nước sôi.",
+    "topic": "food",
+    "tags": [
+      "basic-120",
+      "food"
+    ],
+    "synonyms": []
+  },
+  {
+    "word": "potato",
+    "pos": "noun",
+    "ipa": "/pəˈteɪtoʊ/",
+    "meaningVi": "khoai tây",
+    "example": "She peeled the potatoes before cooking them.",
+    "exampleVi": "Cô ấy gọt khoai tây trước khi nấu.",
+    "topic": "food",
+    "tags": [
+      "basic-120",
+      "food"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "potatoes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/pəˈteɪtoʊz/",
+        "example": "She peeled the potatoes before cooking them.",
+        "exampleVi": "Cô ấy gọt khoai tây trước khi nấu."
+      }
+    ]
+  },
+  {
+    "word": "tomato",
+    "pos": "noun",
+    "ipa": "/təˈmeɪtoʊ/",
+    "meaningVi": "cà chua",
+    "example": "Slice a tomato for the sandwich.",
+    "exampleVi": "Hãy thái một quả cà chua để làm bánh mì kẹp.",
+    "topic": "food",
+    "tags": [
+      "basic-120",
+      "food"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "tomatoes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/təˈmeɪtoʊz/"
+      }
+    ]
+  },
+  {
+    "word": "onion",
+    "pos": "noun",
+    "ipa": "/ˈʌnjən/",
+    "meaningVi": "hành tây",
+    "example": "Chop the onion into small pieces.",
+    "exampleVi": "Hãy thái hành tây thành những miếng nhỏ.",
+    "topic": "food",
+    "tags": [
+      "basic-120",
+      "food"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "onions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈʌnjənz/"
+      }
+    ]
+  },
+  {
+    "word": "garlic",
+    "pos": "noun",
+    "ipa": "/ˈɡɑrlɪk/",
+    "meaningVi": "tỏi",
+    "example": "Add a little garlic to the sauce.",
+    "exampleVi": "Hãy cho một ít tỏi vào nước sốt.",
+    "topic": "food",
+    "tags": [
+      "basic-120",
+      "food"
+    ],
+    "synonyms": []
+  },
+  {
+    "word": "carrot",
+    "pos": "noun",
+    "ipa": "/ˈkærət/",
+    "meaningVi": "cà rốt",
+    "example": "Wash the carrots before making the soup.",
+    "exampleVi": "Hãy rửa cà rốt trước khi nấu súp.",
+    "topic": "food",
+    "tags": [
+      "basic-120",
+      "food"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "carrots",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkærəts/",
+        "example": "Wash the carrots before making the soup.",
+        "exampleVi": "Hãy rửa cà rốt trước khi nấu súp."
+      }
+    ]
+  },
+  {
+    "word": "lettuce",
+    "pos": "noun",
+    "ipa": "/ˈletɪs/",
+    "meaningVi": "rau xà lách",
+    "example": "Put some lettuce in the sandwich.",
+    "exampleVi": "Hãy cho một ít rau xà lách vào bánh mì kẹp.",
+    "topic": "food",
+    "tags": [
+      "basic-120",
+      "food"
+    ],
+    "synonyms": []
+  },
+  {
+    "word": "cucumber",
+    "pos": "noun",
+    "ipa": "/ˈkjuːkʌmbər/",
+    "meaningVi": "dưa chuột",
+    "example": "Cut the cucumber into thin slices.",
+    "exampleVi": "Hãy thái dưa chuột thành những lát mỏng.",
+    "topic": "food",
+    "tags": [
+      "basic-120",
+      "food"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "cucumbers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkjuːkʌmbərz/"
+      }
+    ]
+  },
+  {
+    "word": "beef",
+    "pos": "noun",
+    "ipa": "/biːf/",
+    "meaningVi": "thịt bò",
+    "example": "We cooked beef with onions for dinner.",
+    "exampleVi": "Chúng tôi nấu thịt bò với hành tây cho bữa tối.",
+    "topic": "food",
+    "tags": [
+      "basic-120",
+      "food"
+    ],
+    "synonyms": []
+  },
+  {
+    "word": "pork",
+    "pos": "noun",
+    "ipa": "/pɔrk/",
+    "meaningVi": "thịt lợn",
+    "example": "The restaurant serves pork with steamed rice.",
+    "exampleVi": "Nhà hàng phục vụ thịt lợn với cơm.",
+    "topic": "food",
+    "tags": [
+      "basic-120",
+      "food"
+    ],
+    "synonyms": []
+  },
+  {
+    "word": "chicken",
+    "pos": "noun",
+    "ipa": "/ˈtʃɪkən/",
+    "meaningVi": "gà",
+    "example": "The farmer keeps chickens behind the house.",
+    "exampleVi": "Người nông dân nuôi gà phía sau nhà.",
+    "topic": "food",
+    "tags": [
+      "basic-120",
+      "food"
+    ],
+    "synonyms": [],
+    "senses": [
+      {
+        "pos": "noun",
+        "ipa": "/ˈtʃɪkən/",
+        "meaningVi": "thịt gà",
+        "example": "Cook the chicken thoroughly before serving it.",
+        "exampleVi": "Hãy nấu thịt gà chín kỹ trước khi phục vụ."
+      }
+    ],
+    "forms": [
+      {
+        "word": "chickens",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtʃɪkənz/",
+        "example": "The farmer keeps chickens behind the house.",
+        "exampleVi": "Người nông dân nuôi gà phía sau nhà."
+      }
+    ]
+  },
+  {
+    "word": "fish",
+    "pos": "noun",
+    "ipa": "/fɪʃ/",
+    "meaningVi": "cá",
+    "example": "We saw several fish in the clear water.",
+    "exampleVi": "Chúng tôi nhìn thấy vài con cá trong làn nước trong.",
+    "topic": "food",
+    "tags": [
+      "basic-120",
+      "food"
+    ],
+    "synonyms": [],
+    "senses": [
+      {
+        "pos": "noun",
+        "ipa": "/fɪʃ/",
+        "meaningVi": "thịt cá dùng làm thực phẩm",
+        "example": "We had grilled fish for dinner.",
+        "exampleVi": "Chúng tôi ăn cá nướng vào bữa tối."
+      },
+      {
+        "pos": "verb",
+        "ipa": "/fɪʃ/",
+        "meaningVi": "câu cá; đánh bắt cá",
+        "example": "They fished in the river all morning.",
+        "exampleVi": "Họ câu cá ở sông suốt buổi sáng."
+      }
+    ],
+    "forms": [
+      {
+        "word": "fishes",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/fɪʃɪz/"
+      },
+      {
+        "word": "fishing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/fɪʃɪŋ/"
+      },
+      {
+        "word": "fished",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/fɪʃt/",
+        "example": "They fished in the river all morning.",
+        "exampleVi": "Họ câu cá ở sông suốt buổi sáng."
+      },
+      {
+        "word": "fish",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/fɪʃ/"
+      }
+    ]
+  },
+  {
+    "word": "egg",
+    "pos": "noun",
+    "ipa": "/eɡ/",
+    "meaningVi": "trứng",
+    "example": "She fried an egg for breakfast.",
+    "exampleVi": "Cô ấy chiên một quả trứng cho bữa sáng.",
+    "topic": "food",
+    "tags": [
+      "basic-120",
+      "food"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "eggs",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/eɡz/"
+      }
+    ]
+  },
+  {
+    "word": "cheese",
+    "pos": "noun",
+    "ipa": "/tʃiːz/",
+    "meaningVi": "phô mai",
+    "example": "Add some cheese to the pasta.",
+    "exampleVi": "Hãy cho một ít phô mai vào mì Ý.",
+    "topic": "food",
+    "tags": [
+      "basic-120",
+      "food"
+    ],
+    "synonyms": []
+  },
+  {
+    "word": "butter",
+    "pos": "noun",
+    "ipa": "/ˈbʌtər/",
+    "meaningVi": "bơ từ sữa",
+    "example": "Spread a little butter on the bread.",
+    "exampleVi": "Hãy phết một ít bơ lên bánh mì.",
+    "topic": "food",
+    "tags": [
+      "basic-120",
+      "food"
+    ],
+    "synonyms": []
+  },
+  {
+    "word": "yogurt",
+    "pos": "noun",
+    "ipa": "/ˈjoʊɡərt/",
+    "meaningVi": "sữa chua",
+    "example": "I eat plain yogurt with fruit.",
+    "exampleVi": "Tôi ăn sữa chua không thêm vị cùng trái cây.",
+    "topic": "food",
+    "tags": [
+      "basic-120",
+      "food"
+    ],
+    "synonyms": [
+      "yoghurt"
+    ]
+  },
+  {
+    "word": "milk",
+    "pos": "noun",
+    "ipa": "/mɪlk/",
+    "meaningVi": "sữa",
+    "example": "Keep the milk in the refrigerator.",
+    "exampleVi": "Hãy để sữa trong tủ lạnh.",
+    "topic": "food",
+    "tags": [
+      "basic-120",
+      "food"
+    ],
+    "synonyms": []
+  },
+  {
+    "word": "flour",
+    "pos": "noun",
+    "ipa": "/ˈflaʊər/",
+    "meaningVi": "bột mì",
+    "example": "Mix the flour with a little water.",
+    "exampleVi": "Hãy trộn bột mì với một ít nước.",
+    "topic": "food",
+    "tags": [
+      "basic-120",
+      "food"
+    ],
+    "synonyms": []
+  },
+  {
+    "word": "shirt",
+    "pos": "noun",
+    "ipa": "/ʃɜrt/",
+    "meaningVi": "áo sơ mi",
+    "example": "He wore a clean shirt to the interview.",
+    "exampleVi": "Anh ấy mặc áo sơ mi sạch đến buổi phỏng vấn.",
+    "topic": "clothing",
+    "tags": [
+      "basic-120",
+      "clothing"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "shirts",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ʃɜrts/"
+      }
+    ]
+  },
+  {
+    "word": "sweater",
+    "pos": "noun",
+    "ipa": "/ˈswetər/",
+    "meaningVi": "áo len",
+    "example": "Bring a sweater because it gets cold at night.",
+    "exampleVi": "Hãy mang áo len vì ban đêm trời trở lạnh.",
+    "topic": "clothing",
+    "tags": [
+      "basic-120",
+      "clothing"
+    ],
+    "synonyms": [
+      "jumper"
+    ],
+    "forms": [
+      {
+        "word": "sweaters",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈswetərz/"
+      }
+    ]
+  },
+  {
+    "word": "jacket",
+    "pos": "noun",
+    "ipa": "/ˈdʒækɪt/",
+    "meaningVi": "áo khoác ngắn",
+    "example": "She put on a jacket before going outside.",
+    "exampleVi": "Cô ấy mặc áo khoác trước khi ra ngoài.",
+    "topic": "clothing",
+    "tags": [
+      "basic-120",
+      "clothing"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "jackets",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈdʒækɪts/"
+      }
+    ]
+  },
+  {
+    "word": "coat",
+    "pos": "noun",
+    "ipa": "/koʊt/",
+    "meaningVi": "áo khoác ngoài",
+    "example": "Hang your coat by the door.",
+    "exampleVi": "Hãy treo áo khoác của bạn cạnh cửa.",
+    "topic": "clothing",
+    "tags": [
+      "basic-120",
+      "clothing"
+    ],
+    "synonyms": [],
+    "senses": [
+      {
+        "pos": "noun",
+        "ipa": "/koʊt/",
+        "meaningVi": "lớp phủ",
+        "example": "The wall needs another coat of paint.",
+        "exampleVi": "Bức tường cần thêm một lớp sơn."
+      }
+    ],
+    "forms": [
+      {
+        "word": "coats",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/koʊts/"
+      }
+    ]
+  },
+  {
+    "word": "jeans",
+    "pos": "noun",
+    "ipa": "/dʒiːnz/",
+    "meaningVi": "quần bò",
+    "example": "These jeans are comfortable and easy to wash.",
+    "exampleVi": "Chiếc quần bò này thoải mái và dễ giặt.",
+    "topic": "clothing",
+    "tags": [
+      "basic-120",
+      "clothing"
+    ],
+    "synonyms": [
+      "denims"
+    ]
+  },
+  {
+    "word": "shorts",
+    "pos": "noun",
+    "ipa": "/ʃɔrts/",
+    "meaningVi": "quần đùi",
+    "example": "He wore shorts on the hot afternoon.",
+    "exampleVi": "Anh ấy mặc quần đùi vào buổi chiều nóng nực.",
+    "topic": "clothing",
+    "tags": [
+      "basic-120",
+      "clothing"
+    ],
+    "synonyms": []
+  },
+  {
+    "word": "skirt",
+    "pos": "noun",
+    "ipa": "/skɜrt/",
+    "meaningVi": "chân váy",
+    "example": "She chose a blue skirt for the party.",
+    "exampleVi": "Cô ấy chọn một chiếc chân váy màu xanh cho bữa tiệc.",
+    "topic": "clothing",
+    "tags": [
+      "basic-120",
+      "clothing"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "skirts",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/skɜrts/"
+      }
+    ]
+  },
+  {
+    "word": "dress",
+    "pos": "noun",
+    "ipa": "/dres/",
+    "meaningVi": "váy liền",
+    "example": "She bought a simple dress for the wedding.",
+    "exampleVi": "Cô ấy mua một chiếc váy liền đơn giản để dự đám cưới.",
+    "topic": "clothing",
+    "tags": [
+      "basic-120",
+      "clothing"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "dresses",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/dresɪz/"
+      }
+    ]
+  },
+  {
+    "word": "sock",
+    "pos": "noun",
+    "ipa": "/sɑk/",
+    "meaningVi": "tất",
+    "example": "I found one sock under the bed.",
+    "exampleVi": "Tôi tìm thấy một chiếc tất dưới giường.",
+    "topic": "clothing",
+    "tags": [
+      "basic-120",
+      "clothing"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "socks",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/sɑks/"
+      }
+    ]
+  },
+  {
+    "word": "shoe",
+    "pos": "noun",
+    "ipa": "/ʃuː/",
+    "meaningVi": "giày",
+    "example": "There is a small stone in my shoe.",
+    "exampleVi": "Có một viên đá nhỏ trong giày của tôi.",
+    "topic": "clothing",
+    "tags": [
+      "basic-120",
+      "clothing"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "shoes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ʃuːz/"
+      }
+    ]
+  },
+  {
+    "word": "boot",
+    "pos": "noun",
+    "ipa": "/buːt/",
+    "meaningVi": "giày bốt",
+    "example": "These boots keep my feet dry in the rain.",
+    "exampleVi": "Đôi bốt này giữ chân tôi khô khi trời mưa.",
+    "topic": "clothing",
+    "tags": [
+      "basic-120",
+      "clothing"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "boots",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/buːts/",
+        "example": "These boots keep my feet dry in the rain.",
+        "exampleVi": "Đôi bốt này giữ chân tôi khô khi trời mưa."
+      }
+    ]
+  },
+  {
+    "word": "hat",
+    "pos": "noun",
+    "ipa": "/hæt/",
+    "meaningVi": "mũ",
+    "example": "Wear a hat when you go out in the sun.",
+    "exampleVi": "Hãy đội mũ khi ra ngoài trời nắng.",
+    "topic": "clothing",
+    "tags": [
+      "basic-120",
+      "clothing"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "hats",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/hæts/"
+      }
+    ]
+  },
+  {
+    "word": "scarf",
+    "pos": "noun",
+    "ipa": "/skɑrf/",
+    "meaningVi": "khăn quàng",
+    "example": "She wrapped a scarf around her neck.",
+    "exampleVi": "Cô ấy quàng một chiếc khăn quanh cổ.",
+    "topic": "clothing",
+    "tags": [
+      "basic-120",
+      "clothing"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "scarves",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈskɑɹvz/"
+      },
+      {
+        "word": "scarfs",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/skɑrfs/"
+      }
+    ]
+  },
+  {
+    "word": "glove",
+    "pos": "noun",
+    "ipa": "/ɡlʌv/",
+    "meaningVi": "găng tay",
+    "example": "Wear a glove to protect your hand.",
+    "exampleVi": "Hãy đeo găng tay để bảo vệ bàn tay.",
+    "topic": "clothing",
+    "tags": [
+      "basic-120",
+      "clothing"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "gloves",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɡlʌvz/"
+      }
+    ]
+  },
+  {
+    "word": "belt",
+    "pos": "noun",
+    "ipa": "/belt/",
+    "meaningVi": "thắt lưng",
+    "example": "This belt is too long for me.",
+    "exampleVi": "Chiếc thắt lưng này quá dài với tôi.",
+    "topic": "clothing",
+    "tags": [
+      "basic-120",
+      "clothing"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "belts",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/belts/"
+      }
+    ]
+  },
+  {
+    "word": "underwear",
+    "pos": "noun",
+    "ipa": "/ˈʌndərwer/",
+    "meaningVi": "đồ lót",
+    "example": "I packed clean underwear for the trip.",
+    "exampleVi": "Tôi chuẩn bị đồ lót sạch cho chuyến đi.",
+    "topic": "clothing",
+    "tags": [
+      "basic-120",
+      "clothing"
+    ],
+    "synonyms": []
+  },
+  {
+    "word": "pajamas",
+    "pos": "noun",
+    "ipa": "/pəˈdʒɑməz/",
+    "meaningVi": "đồ ngủ",
+    "example": "He changed into his pajamas before bed.",
+    "exampleVi": "Anh ấy thay đồ ngủ trước khi đi ngủ.",
+    "topic": "clothing",
+    "tags": [
+      "basic-120",
+      "clothing"
+    ],
+    "synonyms": [
+      "pyjamas"
+    ]
+  },
+  {
+    "word": "swimsuit",
+    "pos": "noun",
+    "ipa": "/ˈswɪmsuːt/",
+    "meaningVi": "đồ bơi",
+    "example": "Bring a swimsuit if you want to use the pool.",
+    "exampleVi": "Hãy mang đồ bơi nếu bạn muốn dùng bể bơi.",
+    "topic": "clothing",
+    "tags": [
+      "basic-120",
+      "clothing"
+    ],
+    "synonyms": [
+      "bathing suit"
+    ],
+    "forms": [
+      {
+        "word": "swimsuits",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈswɪmsuːts/"
+      }
+    ]
+  },
+  {
+    "word": "zipper",
+    "pos": "noun",
+    "ipa": "/ˈzɪpər/",
+    "meaningVi": "khóa kéo",
+    "example": "The zipper on my backpack is broken.",
+    "exampleVi": "Khóa kéo trên ba lô của tôi bị hỏng.",
+    "topic": "clothing",
+    "tags": [
+      "basic-120",
+      "clothing"
+    ],
+    "synonyms": [
+      "zip"
+    ],
+    "forms": [
+      {
+        "word": "zippers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈzɪpərz/"
+      }
+    ]
+  },
+  {
+    "word": "pocket",
+    "pos": "noun",
+    "ipa": "/ˈpɑkɪt/",
+    "meaningVi": "túi áo; túi quần",
+    "example": "He put the receipt in his pocket.",
+    "exampleVi": "Anh ấy bỏ biên lai vào túi.",
+    "topic": "clothing",
+    "tags": [
+      "basic-120",
+      "clothing"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "pockets",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpɑkɪts/"
+      }
+    ]
+  },
+  {
+    "word": "head",
+    "pos": "noun",
+    "ipa": "/hed/",
+    "meaningVi": "đầu",
+    "example": "Wear a helmet to protect your head.",
+    "exampleVi": "Hãy đội mũ bảo hiểm để bảo vệ đầu.",
+    "topic": "health",
+    "tags": [
+      "basic-120",
+      "health"
+    ],
+    "synonyms": [],
+    "senses": [
+      {
+        "pos": "noun",
+        "ipa": "/hed/",
+        "meaningVi": "người đứng đầu",
+        "example": "The head of the team welcomed the new members.",
+        "exampleVi": "Người đứng đầu nhóm chào đón các thành viên mới."
+      },
+      {
+        "pos": "verb",
+        "ipa": "/hed/",
+        "meaningVi": "đứng đầu; lãnh đạo",
+        "example": "She heads a team of five designers.",
+        "exampleVi": "Cô ấy đứng đầu một nhóm gồm năm nhà thiết kế."
+      }
+    ],
+    "forms": [
+      {
+        "word": "heads",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/hedz/",
+        "example": "She heads a team of five designers.",
+        "exampleVi": "Cô ấy đứng đầu một nhóm gồm năm nhà thiết kế."
+      },
+      {
+        "word": "heading",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/hedɪŋ/"
+      },
+      {
+        "word": "headed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/hedɪd/"
+      }
+    ]
+  },
+  {
+    "word": "face",
+    "pos": "noun",
+    "ipa": "/feɪs/",
+    "meaningVi": "khuôn mặt",
+    "example": "She washed her face with cool water.",
+    "exampleVi": "Cô ấy rửa mặt bằng nước mát.",
+    "topic": "health",
+    "tags": [
+      "basic-120",
+      "health"
+    ],
+    "synonyms": [],
+    "senses": [
+      {
+        "pos": "verb",
+        "ipa": "/feɪs/",
+        "meaningVi": "đối mặt",
+        "example": "We faced several problems during the move.",
+        "exampleVi": "Chúng tôi đối mặt với vài vấn đề trong lúc chuyển nhà."
+      }
+    ],
+    "forms": [
+      {
+        "word": "faces",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/feɪsɪz/"
+      },
+      {
+        "word": "facing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/feɪsɪŋ/"
+      },
+      {
+        "word": "faced",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/feɪst/",
+        "example": "We faced several problems during the move.",
+        "exampleVi": "Chúng tôi đối mặt với vài vấn đề trong lúc chuyển nhà."
+      }
+    ]
+  },
+  {
+    "word": "eye",
+    "pos": "noun",
+    "ipa": "/aɪ/",
+    "meaningVi": "mắt",
+    "example": "A little dust got into my eye.",
+    "exampleVi": "Một ít bụi bay vào mắt tôi.",
+    "topic": "health",
+    "tags": [
+      "basic-120",
+      "health"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "eyes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/aɪz/"
+      }
+    ]
+  },
+  {
+    "word": "ear",
+    "pos": "noun",
+    "ipa": "/ɪr/",
+    "meaningVi": "tai",
+    "example": "The doctor examined my ear.",
+    "exampleVi": "Bác sĩ kiểm tra tai của tôi.",
+    "topic": "health",
+    "tags": [
+      "basic-120",
+      "health"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "ears",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɪrz/"
+      }
+    ]
+  },
+  {
+    "word": "nose",
+    "pos": "noun",
+    "ipa": "/noʊz/",
+    "meaningVi": "mũi",
+    "example": "Cover your nose and mouth when you sneeze.",
+    "exampleVi": "Hãy che mũi và miệng khi hắt hơi.",
+    "topic": "health",
+    "tags": [
+      "basic-120",
+      "health"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "noses",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/noʊzɪz/"
+      }
+    ]
+  },
+  {
+    "word": "mouth",
+    "pos": "noun",
+    "ipa": "/maʊθ/",
+    "meaningVi": "miệng",
+    "example": "Open your mouth so the dentist can check your teeth.",
+    "exampleVi": "Hãy mở miệng để nha sĩ kiểm tra răng.",
+    "topic": "health",
+    "tags": [
+      "basic-120",
+      "health"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "mouths",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/maʊðz/"
+      }
+    ]
+  },
+  {
+    "word": "tooth",
+    "pos": "noun",
+    "ipa": "/tuːθ/",
+    "meaningVi": "răng",
+    "example": "I brush each tooth carefully.",
+    "exampleVi": "Tôi chải từng chiếc răng cẩn thận.",
+    "topic": "health",
+    "tags": [
+      "basic-120",
+      "health"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "teeth",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtiθ/"
+      }
+    ]
+  },
+  {
+    "word": "neck",
+    "pos": "noun",
+    "ipa": "/nek/",
+    "meaningVi": "cổ",
+    "example": "My neck hurts after sitting at the computer all day.",
+    "exampleVi": "Cổ tôi đau sau khi ngồi máy tính cả ngày.",
+    "topic": "health",
+    "tags": [
+      "basic-120",
+      "health"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "necks",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/neks/"
+      }
+    ]
+  },
+  {
+    "word": "shoulder",
+    "pos": "noun",
+    "ipa": "/ˈʃoʊldər/",
+    "meaningVi": "vai",
+    "example": "She carried the bag on her shoulder.",
+    "exampleVi": "Cô ấy đeo túi trên vai.",
+    "topic": "health",
+    "tags": [
+      "basic-120",
+      "health"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "shoulders",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈʃoʊldərz/"
+      }
+    ]
+  },
+  {
+    "word": "arm",
+    "pos": "noun",
+    "ipa": "/ɑrm/",
+    "meaningVi": "cánh tay",
+    "example": "He raised his arm to ask a question.",
+    "exampleVi": "Anh ấy giơ tay để hỏi.",
+    "topic": "health",
+    "tags": [
+      "basic-120",
+      "health"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "arms",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɑrmz/"
+      }
+    ]
+  },
+  {
+    "word": "hand",
+    "pos": "noun",
+    "ipa": "/hænd/",
+    "meaningVi": "bàn tay",
+    "example": "Wash each hand thoroughly before eating.",
+    "exampleVi": "Hãy rửa kỹ từng bàn tay trước khi ăn.",
+    "topic": "health",
+    "tags": [
+      "basic-120",
+      "health"
+    ],
+    "synonyms": [],
+    "senses": [
+      {
+        "pos": "verb",
+        "ipa": "/hænd/",
+        "meaningVi": "đưa; trao",
+        "example": "She handed me the boarding pass.",
+        "exampleVi": "Cô ấy đưa cho tôi thẻ lên máy bay."
+      }
+    ],
+    "forms": [
+      {
+        "word": "hands",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/hændz/"
+      },
+      {
+        "word": "handing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/hændɪŋ/"
+      },
+      {
+        "word": "handed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/hændɪd/",
+        "example": "She handed me the boarding pass.",
+        "exampleVi": "Cô ấy đưa cho tôi thẻ lên máy bay."
+      }
+    ]
+  },
+  {
+    "word": "finger",
+    "pos": "noun",
+    "ipa": "/ˈfɪŋɡər/",
+    "meaningVi": "ngón tay",
+    "example": "She pointed at the map with her finger.",
+    "exampleVi": "Cô ấy dùng ngón tay chỉ vào bản đồ.",
+    "topic": "health",
+    "tags": [
+      "basic-120",
+      "health"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "fingers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈfɪŋɡərz/"
+      }
+    ]
+  },
+  {
+    "word": "stomach",
+    "pos": "noun",
+    "ipa": "/ˈstʌmək/",
+    "meaningVi": "dạ dày",
+    "example": "My stomach feels uncomfortable after a large meal.",
+    "exampleVi": "Dạ dày tôi khó chịu sau một bữa ăn lớn.",
+    "topic": "health",
+    "tags": [
+      "basic-120",
+      "health"
+    ],
+    "synonyms": [],
+    "senses": [
+      {
+        "pos": "noun",
+        "ipa": "/ˈstʌmək/",
+        "meaningVi": "bụng",
+        "example": "The baby was lying on her stomach.",
+        "exampleVi": "Em bé đang nằm sấp."
+      }
+    ],
+    "forms": [
+      {
+        "word": "stomaches",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈstʌməks/"
+      }
+    ]
+  },
+  {
+    "word": "leg",
+    "pos": "noun",
+    "ipa": "/leɡ/",
+    "meaningVi": "chân",
+    "example": "He injured his leg while playing football.",
+    "exampleVi": "Anh ấy bị thương ở chân khi chơi bóng đá.",
+    "topic": "health",
+    "tags": [
+      "basic-120",
+      "health"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "legs",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/leɡz/"
+      }
+    ]
+  },
+  {
+    "word": "knee",
+    "pos": "noun",
+    "ipa": "/niː/",
+    "meaningVi": "đầu gối",
+    "example": "She bent her knee slowly.",
+    "exampleVi": "Cô ấy gập đầu gối từ từ.",
+    "topic": "health",
+    "tags": [
+      "basic-120",
+      "health"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "knees",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/niːz/"
+      }
+    ]
+  },
+  {
+    "word": "foot",
+    "pos": "noun",
+    "ipa": "/fʊt/",
+    "meaningVi": "bàn chân",
+    "example": "There is a blister on my left foot.",
+    "exampleVi": "Có một vết phồng rộp ở bàn chân trái của tôi.",
+    "topic": "health",
+    "tags": [
+      "basic-120",
+      "health"
+    ],
+    "synonyms": [],
+    "senses": [
+      {
+        "pos": "noun",
+        "ipa": "/fʊt/",
+        "meaningVi": "đơn vị chiều dài foot",
+        "example": "The shelf is three feet long.",
+        "exampleVi": "Chiếc kệ dài ba foot."
+      }
+    ],
+    "forms": [
+      {
+        "word": "feet",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈfit/",
+        "example": "The shelf is three feet long.",
+        "exampleVi": "Chiếc kệ dài ba foot."
+      }
+    ]
+  },
+  {
+    "word": "brain",
+    "pos": "noun",
+    "ipa": "/breɪn/",
+    "meaningVi": "não",
+    "example": "Sleep helps the brain recover after a busy day.",
+    "exampleVi": "Giấc ngủ giúp não phục hồi sau một ngày bận rộn.",
+    "topic": "health",
+    "tags": [
+      "basic-120",
+      "health"
+    ],
+    "synonyms": [],
+    "senses": [
+      {
+        "pos": "noun",
+        "ipa": "/breɪn/",
+        "meaningVi": "trí óc; khả năng suy nghĩ",
+        "example": "Use your brain to solve the puzzle.",
+        "exampleVi": "Hãy dùng trí óc để giải câu đố."
+      }
+    ],
+    "forms": [
+      {
+        "word": "brains",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/breɪnz/"
+      }
+    ]
+  },
+  {
+    "word": "headache",
+    "pos": "noun",
+    "ipa": "/ˈhedeɪk/",
+    "meaningVi": "đau đầu",
+    "example": "I have a headache and need some rest.",
+    "exampleVi": "Tôi bị đau đầu và cần nghỉ ngơi.",
+    "topic": "health",
+    "tags": [
+      "basic-120",
+      "health"
+    ],
+    "synonyms": [],
+    "senses": [
+      {
+        "pos": "noun",
+        "ipa": "/ˈhedeɪk/",
+        "meaningVi": "vấn đề gây phiền toái",
+        "example": "The repeated delays are a headache for the team.",
+        "exampleVi": "Việc chậm trễ lặp lại gây phiền toái cho cả nhóm."
+      }
+    ],
+    "forms": [
+      {
+        "word": "headaches",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈhedeɪks/"
+      }
+    ]
+  },
+  {
+    "word": "bandage",
+    "pos": "noun",
+    "ipa": "/ˈbændɪdʒ/",
+    "meaningVi": "băng dùng băng bó",
+    "example": "The nurse put a bandage around his wrist.",
+    "exampleVi": "Y tá quấn băng quanh cổ tay anh ấy.",
+    "topic": "health",
+    "tags": [
+      "basic-120",
+      "health"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "bandages",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈbændɪdʒɪz/"
+      }
+    ]
+  },
+  {
+    "word": "painkiller",
+    "pos": "noun",
+    "ipa": "/ˈpeɪnˌkɪlər/",
+    "meaningVi": "thuốc giảm đau",
+    "example": "The pharmacist explained how to use the painkiller.",
+    "exampleVi": "Dược sĩ giải thích cách dùng thuốc giảm đau.",
+    "topic": "health",
+    "tags": [
+      "basic-120",
+      "health"
+    ],
+    "synonyms": [
+      "analgesic"
+    ],
+    "forms": [
+      {
+        "word": "painkillers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpeɪnˌkɪlərz/"
+      }
+    ]
+  },
+  {
+    "word": "bus stop",
+    "pos": "noun",
+    "ipa": "/ˈbʌs stɑp/",
+    "meaningVi": "điểm dừng xe buýt",
+    "example": "The bus stop is across the street.",
+    "exampleVi": "Điểm dừng xe buýt ở bên kia đường.",
+    "topic": "travel",
+    "tags": [
+      "basic-120",
+      "travel"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "bus stops",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈbʌs stɑps/"
+      }
+    ]
+  },
+  {
+    "word": "train station",
+    "pos": "noun",
+    "ipa": "/ˈtreɪn ˌsteɪʃən/",
+    "meaningVi": "ga tàu",
+    "example": "We met outside the train station.",
+    "exampleVi": "Chúng tôi gặp nhau bên ngoài ga tàu.",
+    "topic": "travel",
+    "tags": [
+      "basic-120",
+      "travel"
+    ],
+    "synonyms": [
+      "railway station"
+    ],
+    "forms": [
+      {
+        "word": "train stations",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtreɪn ˌsteɪʃənz/"
+      }
+    ]
+  },
+  {
+    "word": "timetable",
+    "pos": "noun",
+    "ipa": "/ˈtaɪmˌteɪbəl/",
+    "meaningVi": "bảng giờ chạy; thời gian biểu",
+    "example": "Check the timetable before leaving home.",
+    "exampleVi": "Hãy kiểm tra bảng giờ chạy trước khi rời nhà.",
+    "topic": "travel",
+    "tags": [
+      "basic-120",
+      "travel"
+    ],
+    "synonyms": [
+      "schedule"
+    ],
+    "forms": [
+      {
+        "word": "timetables",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtaɪmˌteɪbəlz/"
+      }
+    ]
+  },
+  {
+    "word": "boarding pass",
+    "pos": "noun",
+    "ipa": "/ˈbɔrdɪŋ pæs/",
+    "meaningVi": "thẻ lên máy bay",
+    "example": "Keep your boarding pass ready at the gate.",
+    "exampleVi": "Hãy chuẩn bị sẵn thẻ lên máy bay khi đến cửa ra máy bay.",
+    "topic": "travel",
+    "tags": [
+      "basic-120",
+      "travel"
+    ],
+    "synonyms": [
+      "boarding card"
+    ],
+    "forms": [
+      {
+        "word": "boarding passes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈbɔrdɪŋ pæsɪz/"
+      }
+    ]
+  },
+  {
+    "word": "departure gate",
+    "pos": "noun",
+    "ipa": "/dɪˈpɑrtʃər ɡeɪt/",
+    "meaningVi": "cửa ra máy bay",
+    "example": "Our departure gate has changed.",
+    "exampleVi": "Cửa ra máy bay của chúng tôi đã thay đổi.",
+    "topic": "travel",
+    "tags": [
+      "basic-120",
+      "travel"
+    ],
+    "synonyms": [
+      "boarding gate"
+    ],
+    "forms": [
+      {
+        "word": "departure gates",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/dɪˈpɑrtʃər ɡeɪts/"
+      }
+    ]
+  },
+  {
+    "word": "baggage claim",
+    "pos": "noun",
+    "ipa": "/ˈbæɡɪdʒ kleɪm/",
+    "meaningVi": "khu nhận hành lý",
+    "example": "Follow the signs to baggage claim.",
+    "exampleVi": "Hãy đi theo biển chỉ dẫn đến khu nhận hành lý.",
+    "topic": "travel",
+    "tags": [
+      "basic-120",
+      "travel"
+    ],
+    "synonyms": [
+      "baggage reclaim"
+    ]
+  },
+  {
+    "word": "seat belt",
+    "pos": "noun",
+    "ipa": "/ˈsiːt belt/",
+    "meaningVi": "dây an toàn",
+    "example": "Fasten your seat belt before the car moves.",
+    "exampleVi": "Hãy thắt dây an toàn trước khi xe chạy.",
+    "topic": "travel",
+    "tags": [
+      "basic-120",
+      "travel"
+    ],
+    "synonyms": [
+      "safety belt"
+    ],
+    "forms": [
+      {
+        "word": "seat belts",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsiːt belts/"
+      }
+    ]
+  },
+  {
+    "word": "traffic light",
+    "pos": "noun",
+    "ipa": "/ˈtræfɪk laɪt/",
+    "meaningVi": "đèn giao thông",
+    "example": "Stop when the traffic light turns red.",
+    "exampleVi": "Hãy dừng lại khi đèn giao thông chuyển đỏ.",
+    "topic": "travel",
+    "tags": [
+      "basic-120",
+      "travel"
+    ],
+    "synonyms": [
+      "traffic signal"
+    ],
+    "forms": [
+      {
+        "word": "traffic lights",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtræfɪk laɪts/"
+      }
+    ]
+  },
+  {
+    "word": "crosswalk",
+    "pos": "noun",
+    "ipa": "/ˈkrɔsˌwɔk/",
+    "meaningVi": "vạch sang đường",
+    "example": "Use the crosswalk to cross the road safely.",
+    "exampleVi": "Hãy dùng vạch sang đường để qua đường an toàn.",
+    "topic": "travel",
+    "tags": [
+      "basic-120",
+      "travel"
+    ],
+    "synonyms": [
+      "pedestrian crossing"
+    ],
+    "forms": [
+      {
+        "word": "crosswalks",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkrɔsˌwɔks/"
+      }
+    ]
+  },
+  {
+    "word": "roundabout",
+    "pos": "noun",
+    "ipa": "/ˈraʊndəˌbaʊt/",
+    "meaningVi": "vòng xuyến",
+    "example": "Take the second exit at the roundabout.",
+    "exampleVi": "Hãy đi theo lối ra thứ hai tại vòng xuyến.",
+    "topic": "travel",
+    "tags": [
+      "basic-120",
+      "travel"
+    ],
+    "synonyms": [
+      "traffic circle"
+    ],
+    "forms": [
+      {
+        "word": "roundabouts",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈraʊndəˌbaʊts/"
+      }
+    ]
+  },
+  {
+    "word": "parking lot",
+    "pos": "noun",
+    "ipa": "/ˈpɑrkɪŋ lɑt/",
+    "meaningVi": "bãi đỗ xe",
+    "example": "We left the car in the parking lot.",
+    "exampleVi": "Chúng tôi để xe trong bãi đỗ xe.",
+    "topic": "travel",
+    "tags": [
+      "basic-120",
+      "travel"
+    ],
+    "synonyms": [
+      "car park"
+    ],
+    "forms": [
+      {
+        "word": "parking lots",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpɑrkɪŋ lɑts/"
+      }
+    ]
+  },
+  {
+    "word": "parking meter",
+    "pos": "noun",
+    "ipa": "/ˈpɑrkɪŋ ˌmiːtər/",
+    "meaningVi": "máy tính phí đỗ xe",
+    "example": "Pay at the parking meter before leaving your car.",
+    "exampleVi": "Hãy trả phí ở máy tính phí đỗ xe trước khi rời xe.",
+    "topic": "travel",
+    "tags": [
+      "basic-120",
+      "travel"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "parking meters",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpɑrkɪŋ ˌmiːtərz/"
+      }
+    ]
+  },
+  {
+    "word": "speed limit",
+    "pos": "noun",
+    "ipa": "/ˈspiːd ˌlɪmɪt/",
+    "meaningVi": "giới hạn tốc độ",
+    "example": "The speed limit on this road is fifty kilometers per hour.",
+    "exampleVi": "Giới hạn tốc độ trên đường này là năm mươi ki lô mét mỗi giờ.",
+    "topic": "travel",
+    "tags": [
+      "basic-120",
+      "travel"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "speed limits",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈspiːd ˌlɪmɪts/"
+      }
+    ]
+  },
+  {
+    "word": "traffic jam",
+    "pos": "noun",
+    "ipa": "/ˈtræfɪk dʒæm/",
+    "meaningVi": "ùn tắc giao thông",
+    "example": "We were late because of a traffic jam.",
+    "exampleVi": "Chúng tôi đến muộn vì ùn tắc giao thông.",
+    "topic": "travel",
+    "tags": [
+      "basic-120",
+      "travel"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "traffic jams",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtræfɪk dʒæmz/"
+      }
+    ]
+  },
+  {
+    "word": "detour",
+    "pos": "noun",
+    "ipa": "/ˈdiːtʊr/",
+    "meaningVi": "đường vòng",
+    "example": "We took a detour because the bridge was closed.",
+    "exampleVi": "Chúng tôi đi đường vòng vì cầu bị đóng.",
+    "topic": "travel",
+    "tags": [
+      "basic-120",
+      "travel"
+    ],
+    "synonyms": [
+      "diversion"
+    ],
+    "forms": [
+      {
+        "word": "detours",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈdiːtʊrz/"
+      }
+    ]
+  },
+  {
+    "word": "shortcut",
+    "pos": "noun",
+    "ipa": "/ˈʃɔrtˌkʌt/",
+    "meaningVi": "đường tắt",
+    "example": "This path is a shortcut to the station.",
+    "exampleVi": "Lối này là đường tắt đến nhà ga.",
+    "topic": "travel",
+    "tags": [
+      "basic-120",
+      "travel"
+    ],
+    "synonyms": [],
+    "senses": [
+      {
+        "pos": "noun",
+        "ipa": "/ˈʃɔrtˌkʌt/",
+        "meaningVi": "phím tắt",
+        "example": "Use this keyboard shortcut to save the file.",
+        "exampleVi": "Hãy dùng phím tắt này để lưu tệp."
+      }
+    ],
+    "forms": [
+      {
+        "word": "shortcuts",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈʃɔrtˌkʌts/"
+      }
+    ]
+  },
+  {
+    "word": "suitcase",
+    "pos": "noun",
+    "ipa": "/ˈsuːtˌkeɪs/",
+    "meaningVi": "va li",
+    "example": "My suitcase is too heavy to carry upstairs.",
+    "exampleVi": "Va li của tôi quá nặng để mang lên cầu thang.",
+    "topic": "travel",
+    "tags": [
+      "basic-120",
+      "travel"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "suitcases",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsuːtˌkeɪsɪz/"
+      }
+    ]
+  },
+  {
+    "word": "backpack",
+    "pos": "noun",
+    "ipa": "/ˈbækˌpæk/",
+    "meaningVi": "ba lô",
+    "example": "I put a bottle of water in my backpack.",
+    "exampleVi": "Tôi bỏ một chai nước vào ba lô.",
+    "topic": "travel",
+    "tags": [
+      "basic-120",
+      "travel"
+    ],
+    "synonyms": [
+      "rucksack"
+    ],
+    "forms": [
+      {
+        "word": "backpacks",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈbækˌpæks/"
+      }
+    ]
+  },
+  {
+    "word": "umbrella",
+    "pos": "noun",
+    "ipa": "/ʌmˈbrelə/",
+    "meaningVi": "ô; dù",
+    "example": "Take an umbrella because it may rain.",
+    "exampleVi": "Hãy mang ô vì trời có thể mưa.",
+    "topic": "travel",
+    "tags": [
+      "basic-120",
+      "travel"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "umbrellas",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ʌmˈbreləz/"
+      }
+    ]
+  },
+  {
+    "word": "travel adapter",
+    "pos": "noun",
+    "ipa": "/ˈtrævəl əˌdæptər/",
+    "meaningVi": "đầu chuyển ổ cắm khi đi du lịch",
+    "example": "Bring a travel adapter to charge your phone abroad.",
+    "exampleVi": "Hãy mang đầu chuyển ổ cắm để sạc điện thoại khi ở nước ngoài.",
+    "topic": "travel",
+    "tags": [
+      "basic-120",
+      "travel"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "travel adapters",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtrævəl əˌdæptərz/"
+      }
+    ]
+  }
+]

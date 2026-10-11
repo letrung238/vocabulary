@@ -17,6 +17,10 @@
         "example": "The king exercised absolute power over the kingdom.",
         "exampleVi": "Nhà vua nắm quyền chuyên chế trên toàn vương quốc."
       }
+    ],
+    "synonyms": [
+      "complete",
+      "total"
     ]
   },
   {
@@ -37,6 +41,10 @@
         "example": "Her surreal plays explore the absurd in everyday life.",
         "exampleVi": "Những vở kịch của cô khám phá những điều vô lý trong cuộc sống hàng ngày."
       }
+    ],
+    "synonyms": [
+      "ridiculous",
+      "preposterous"
     ]
   },
   {
@@ -72,6 +80,9 @@
         ],
         "ipa": "/əˈbjuːsɪz/"
       }
+    ],
+    "synonyms": [
+      "mistreatment"
     ]
   },
   {
@@ -124,7 +135,8 @@
         ],
         "ipa": "/əkˈsentɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "acceptable",
@@ -137,7 +149,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "satisfactory"
+    ]
   },
   {
     "word": "accomplish",
@@ -175,6 +190,10 @@
         ],
         "ipa": "/əˈkʌmplɪʃt/"
       }
+    ],
+    "synonyms": [
+      "complete",
+      "achieve"
     ]
   },
   {
@@ -188,7 +207,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "correctness"
+    ]
   },
   {
     "word": "accurately",
@@ -201,7 +223,11 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "precisely",
+      "correctly"
+    ]
   },
   {
     "word": "ache",
@@ -249,6 +275,9 @@
         ],
         "ipa": "/eɪkt/"
       }
+    ],
+    "synonyms": [
+      "hurt"
     ]
   },
   {
@@ -300,6 +329,9 @@
         ],
         "ipa": "/ˈæktɪveɪtɪd/"
       }
+    ],
+    "synonyms": [
+      "enable"
     ]
   },
   {
@@ -313,7 +345,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "real"
+    ]
   },
   {
     "word": "acute",
@@ -339,7 +374,8 @@
         "example": "The owl has acute hearing that helps it hunt at night.",
         "exampleVi": "Cú có thính giác nhạy bén giúp chúng săn mồi ban đêm."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "addict",
@@ -386,7 +422,8 @@
         ],
         "ipa": "/əˈdɪktɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "administration",
@@ -421,6 +458,9 @@
         ],
         "ipa": "/ədˌmɪnɪˈstreɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "management"
     ]
   },
   {
@@ -473,6 +513,9 @@
         ],
         "ipa": "/ədˈvɑːnst/"
       }
+    ],
+    "synonyms": [
+      "progress"
     ]
   },
   {
@@ -508,6 +551,9 @@
         ],
         "ipa": "/ədˈvɑːnsmənts/"
       }
+    ],
+    "synonyms": [
+      "promotion"
     ]
   },
   {
@@ -534,6 +580,9 @@
         "example": "The sermon discussed the second advent of Christ.",
         "exampleVi": "Bài giảng bàn về sự tái lâm của Chúa Giêsu."
       }
+    ],
+    "synonyms": [
+      "arrival"
     ]
   },
   {
@@ -554,6 +603,9 @@
         "example": "Adverse winds forced the sailing boat back to shore.",
         "exampleVi": "Gió ngược chiều buộc thuyền buồm phải quay về bờ."
       }
+    ],
+    "synonyms": [
+      "unfavorable"
     ]
   },
   {
@@ -589,6 +641,9 @@
         ],
         "ipa": "/əˈfeə(r)z/"
       }
+    ],
+    "synonyms": [
+      "romance"
     ]
   },
   {
@@ -624,7 +679,8 @@
         ],
         "ipa": "/ˈeɪdʒənsiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "agony",
@@ -653,6 +709,9 @@
         ],
         "ipa": "/ˈæɡəniz/"
       }
+    ],
+    "synonyms": [
+      "anguish"
     ]
   },
   {
@@ -700,6 +759,9 @@
         "example": "The police alerted residents to the approaching storm.",
         "exampleVi": "Cảnh sát cảnh báo người dân về cơn bão đang đến gần."
       }
+    ],
+    "synonyms": [
+      "warn"
     ]
   },
   {
@@ -729,6 +791,9 @@
         ],
         "ipa": "/ˈeɪliənz/"
       }
+    ],
+    "synonyms": [
+      "foreign national"
     ]
   },
   {
@@ -776,7 +841,8 @@
         ],
         "ipa": "/əˈlaɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "alternate",
@@ -830,6 +896,9 @@
         ],
         "ipa": "/ˈɔːl.tə.neɪtɪd/"
       }
+    ],
+    "synonyms": [
+      "take turns"
     ]
   },
   {
@@ -865,6 +934,9 @@
         ],
         "ipa": "/ˈæltɪtjuːdz/"
       }
+    ],
+    "synonyms": [
+      "elevation"
     ]
   },
   {
@@ -891,6 +963,9 @@
         "example": "Altogether, the holiday was enjoyable despite the rain.",
         "exampleVi": "Nhìn chung, dù có mưa, nhưng kỳ nghỉ vẫn rất thú vị."
       }
+    ],
+    "synonyms": [
+      "entirely"
     ]
   },
   {
@@ -917,6 +992,9 @@
         "example": "The room provides ample space for a large dining table.",
         "exampleVi": "Căn phòng có không gian rộng rãi, đủ để đặt một bàn ăn lớn."
       }
+    ],
+    "synonyms": [
+      "plentiful"
     ]
   },
   {
@@ -939,6 +1017,9 @@
         ],
         "ipa": "/ˈæmplɪfaɪə(r)z/"
       }
+    ],
+    "synonyms": [
+      "amp"
     ]
   },
   {
@@ -959,6 +1040,9 @@
         "example": "His amusing imitation of the teacher made us laugh.",
         "exampleVi": "Cách anh ấy bắt chước giáo viên một cách hài hước khiến chúng tôi cười không ngớt."
       }
+    ],
+    "synonyms": [
+      "entertaining"
     ]
   },
   {
@@ -988,7 +1072,8 @@
         ],
         "ipa": "/ˈæŋkə(r)z/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "anchorage",
@@ -1017,6 +1102,9 @@
         ],
         "ipa": "/ˈæŋkərɪdʒɪz/"
       }
+    ],
+    "synonyms": [
+      "mooring"
     ]
   },
   {
@@ -1062,6 +1150,10 @@
         ],
         "ipa": "/ˈæŋɡə(r)d/"
       }
+    ],
+    "synonyms": [
+      "wrath",
+      "rage"
     ]
   },
   {
@@ -1088,6 +1180,9 @@
         "example": "In anticipation of flooding, residents moved their belongings upstairs.",
         "exampleVi": "Để đề phòng tình trạng lũ lụt, người dân đã chuyển những đồ đạc của mình lên tầng trên."
       }
+    ],
+    "synonyms": [
+      "expectation"
     ]
   },
   {
@@ -1114,6 +1209,9 @@
         "example": "The museum displays antique coins from the Roman Empire.",
         "exampleVi": "Bảo tàng trưng bày các đồng tiền cổ từ thời Đế chế La Mã."
       }
+    ],
+    "synonyms": [
+      "vintage"
     ]
   },
   {
@@ -1134,6 +1232,9 @@
         "example": "Her apparently effortless performance impressed the audience.",
         "exampleVi": "Màn trình diễn có vẻ nhẹ nhàng của cô ấy gây ấn tượng với khán giả."
       }
+    ],
+    "synonyms": [
+      "seemingly"
     ]
   },
   {
@@ -1169,6 +1270,9 @@
         ],
         "ipa": "/əˈpiːlz/"
       }
+    ],
+    "synonyms": [
+      "attractiveness"
     ]
   },
   {
@@ -1195,6 +1299,9 @@
         "example": "The project cannot begin without written approval from the owner.",
         "exampleVi": "Dự án này không thể bắt đầu nếu không có sự chấp thuận bằng văn bản từ chủ sở hữu."
       }
+    ],
+    "synonyms": [
+      "consent"
     ]
   },
   {
@@ -1215,7 +1322,8 @@
         "example": "An arctic wind blew through the open doorway.",
         "exampleVi": "Một luồng gió lạnh buốt thổi qua cửa đang mở."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "arise",
@@ -1266,6 +1374,9 @@
         ],
         "ipa": "/ɝˈɪzən/"
       }
+    ],
+    "synonyms": [
+      "emerge"
     ]
   },
   {
@@ -1292,7 +1403,8 @@
         "example": "The botanist described the thorny shrub as an armed plant.",
         "exampleVi": "Nhà thực vật học mô tả cây bụi có gai là một loài cây được trang bị gai."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "arms",
@@ -1312,6 +1424,9 @@
         "example": "The family's coat of arms appeared above the entrance.",
         "exampleVi": "Huy hiệu của gia đình được treo phía trên lối vào."
       }
+    ],
+    "synonyms": [
+      "weapons"
     ]
   },
   {
@@ -1341,6 +1456,9 @@
         ],
         "ipa": "/əˈsɔːlts/"
       }
+    ],
+    "synonyms": [
+      "attack"
     ]
   },
   {
@@ -1370,6 +1488,9 @@
         ],
         "ipa": "/əˈsɛmbliz/"
       }
+    ],
+    "synonyms": [
+      "convention"
     ]
   },
   {
@@ -1421,6 +1542,9 @@
         ],
         "ipa": "/əˈsɜːtɪd/"
       }
+    ],
+    "synonyms": [
+      "affirm"
     ]
   },
   {
@@ -1456,6 +1580,9 @@
         ],
         "ipa": "/əˌsoʊsiˈeɪʃənz/"
       }
+    ],
+    "synonyms": [
+      "society"
     ]
   },
   {
@@ -1491,6 +1618,9 @@
         ],
         "ipa": "/əˈʃʊərənsɪz/"
       }
+    ],
+    "synonyms": [
+      "confidence"
     ]
   },
   {
@@ -1504,7 +1634,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "amazing"
+    ]
   },
   {
     "word": "athletics",
@@ -1530,6 +1663,9 @@
         "example": "The school encourages students to participate in athletics after class.",
         "exampleVi": "Trường học khuyến khích học sinh tham gia các hoạt động thể thao sau giờ học."
       }
+    ],
+    "synonyms": [
+      "track and field"
     ]
   },
   {
@@ -1556,6 +1692,9 @@
         "example": "She is already attached and has no interest in dating anyone else.",
         "exampleVi": "Cô ấy đã có người yêu rồi, và không còn hứng thú với việc hẹn hò với ai khác nữa."
       }
+    ],
+    "synonyms": [
+      "affixed"
     ]
   },
   {
@@ -1591,6 +1730,9 @@
         ],
         "ipa": "/ˈɔːdiəʊz/"
       }
+    ],
+    "synonyms": [
+      "sound"
     ]
   },
   {
@@ -1620,6 +1762,9 @@
         ],
         "ipa": "/ɔːˈdɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "tryout"
     ]
   },
   {
@@ -1646,6 +1791,9 @@
         "example": "The court issued an authoritative ruling on the dispute.",
         "exampleVi": "Tòa án đã đưa ra phán quyết có tính ràng buộc đối với vụ tranh chấp này."
       }
+    ],
+    "synonyms": [
+      "commanding"
     ]
   },
   {
@@ -1666,6 +1814,9 @@
         "example": "His automatic reaction was to catch the falling glass.",
         "exampleVi": "Phản ứng theo bản năng của anh ấy là đỡ chiếc cốc đang rơi."
       }
+    ],
+    "synonyms": [
+      "self-acting"
     ]
   },
   {
@@ -1686,6 +1837,9 @@
         "example": "The machine automatically sorts the packages by weight.",
         "exampleVi": "Máy tự động sắp xếp các gói hàng theo trọng lượng của chúng."
       }
+    ],
+    "synonyms": [
+      "mechanically"
     ]
   },
   {
@@ -1706,6 +1860,9 @@
         "example": "The children looked at the ancient temple with awe.",
         "exampleVi": "Bọn trẻ nhìn ngôi đền cổ với lòng kính sợ."
       }
+    ],
+    "synonyms": [
+      "wonder"
     ]
   },
   {
@@ -1726,6 +1883,9 @@
         "example": "A backward step brought him closer to the edge.",
         "exampleVi": "Một bước lùi khiến anh ta tiến gần hơn đến mép vực."
       }
+    ],
+    "synonyms": [
+      "backwards"
     ]
   },
   {
@@ -1755,7 +1915,8 @@
         ],
         "ipa": "/bəˈluːnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "ballot",
@@ -1801,6 +1962,9 @@
         ],
         "ipa": "/ˈbælətɪd/"
       }
+    ],
+    "synonyms": [
+      "voting paper"
     ]
   },
   {
@@ -1846,6 +2010,9 @@
         ],
         "ipa": "/beə(r)d/"
       }
+    ],
+    "synonyms": [
+      "expose"
     ]
   },
   {
@@ -1891,6 +2058,9 @@
         ],
         "ipa": "/bɑːkt/"
       }
+    ],
+    "synonyms": [
+      "woof"
     ]
   },
   {
@@ -1911,6 +2081,9 @@
         "example": "The breeder discovered that the cow was barren.",
         "exampleVi": "Người chăn nuôi phát hiện ra rằng con bò này không thể sinh con được."
       }
+    ],
+    "synonyms": [
+      "unproductive"
     ]
   },
   {
@@ -1940,7 +2113,8 @@
         ],
         "ipa": "/bæts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "beam",
@@ -1986,6 +2160,9 @@
         ],
         "ipa": "/biːmd/"
       }
+    ],
+    "synonyms": [
+      "ray"
     ]
   },
   {
@@ -2015,7 +2192,8 @@
         ],
         "ipa": "/ˈbeərɪŋz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "being",
@@ -2044,6 +2222,9 @@
         ],
         "ipa": "/ˈbiːɪŋz/"
       }
+    ],
+    "synonyms": [
+      "existence"
     ]
   },
   {
@@ -2064,6 +2245,9 @@
         "example": "Besides her brother, three cousins joined the trip.",
         "exampleVi": "Ngoài anh trai của cô ấy, còn có ba người anh em họ cũng tham gia chuyến đi này."
       }
+    ],
+    "synonyms": [
+      "furthermore"
     ]
   },
   {
@@ -2110,6 +2294,9 @@
         ],
         "ipa": "/bet/"
       }
+    ],
+    "synonyms": [
+      "wager"
     ]
   },
   {
@@ -2136,7 +2323,8 @@
         "example": "The exhibition traces the artist's work from childhood and beyond.",
         "exampleVi": "Triển lãm giới thiệu quá trình sáng tác của nghệ sĩ từ thời thơ ấu và về sau."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "bid",
@@ -2182,6 +2370,9 @@
         ],
         "ipa": "/bɪd/"
       }
+    ],
+    "synonyms": [
+      "offer"
     ]
   },
   {
@@ -2202,7 +2393,8 @@
         "example": "The servant left the room at his master's bidding.",
         "exampleVi": "Người hầu rời khỏi phòng theo lệnh của chủ nhân."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "billion",
@@ -2231,7 +2423,8 @@
         ],
         "ipa": "/ˈbɪljənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "bind",
@@ -2282,6 +2475,9 @@
         ],
         "ipa": "/ˈbaʊnd/"
       }
+    ],
+    "synonyms": [
+      "tie"
     ]
   },
   {
@@ -2302,7 +2498,8 @@
         "example": "She finally met her biological father last year.",
         "exampleVi": "Cuối cùng, cô ấy cũng gặp được cha ruột của mình vào năm ngoái."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "blanket",
@@ -2348,6 +2545,9 @@
         ],
         "ipa": "/ˈblæŋkɪtɪd/"
       }
+    ],
+    "synonyms": [
+      "coverlet"
     ]
   },
   {
@@ -2400,6 +2600,9 @@
         ],
         "ipa": "/blɑːstɪd/"
       }
+    ],
+    "synonyms": [
+      "explosion"
     ]
   },
   {
@@ -2446,6 +2649,9 @@
         ],
         "ipa": "/bleɪzd/"
       }
+    ],
+    "synonyms": [
+      "inferno"
     ]
   },
   {
@@ -2475,6 +2681,9 @@
         ],
         "ipa": "/blendz/"
       }
+    ],
+    "synonyms": [
+      "mixture"
     ]
   },
   {
@@ -2495,6 +2704,9 @@
         "example": "The blind need accessible signs and safe street crossings.",
         "exampleVi": "Người mù cần có những biển chỉ dẫn dễ hiểu và những nơi để vượt đường an toàn."
       }
+    ],
+    "synonyms": [
+      "sightless"
     ]
   },
   {
@@ -2541,6 +2753,9 @@
         ],
         "ipa": "/blɪŋkt/"
       }
+    ],
+    "synonyms": [
+      "flash"
     ]
   },
   {
@@ -2561,6 +2776,9 @@
         "example": "It is bloody cold outside tonight.",
         "exampleVi": "Tối nay trời lạnh quá."
       }
+    ],
+    "synonyms": [
+      "bloodstained"
     ]
   },
   {
@@ -2581,6 +2799,9 @@
         "example": "The company is enjoying blooming prosperity after years of difficulty.",
         "exampleVi": "Sau nhiều năm gặp khó khăn, công ty hiện đang có dấu hiệu phát triển mạnh mẽ."
       }
+    ],
+    "synonyms": [
+      "flowering"
     ]
   },
   {
@@ -2627,6 +2848,9 @@
         ],
         "ipa": "/blɜː(r)d/"
       }
+    ],
+    "synonyms": [
+      "smudge"
     ]
   },
   {
@@ -2647,7 +2871,8 @@
         "example": "The bus was boiling inside with all the windows closed.",
         "exampleVi": "Chiếc xe buýt bên trong nóng bức, vì tất cả cửa sổ đều được đóng kín."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "bold",
@@ -2667,6 +2892,9 @@
         "example": "Put the title in bold so readers notice it.",
         "exampleVi": "Hãy in tiêu đề bằng kiểu chữ in đậm để người đọc có thể nhận ra nó."
       }
+    ],
+    "synonyms": [
+      "brave"
     ]
   },
   {
@@ -2713,7 +2941,8 @@
         ],
         "ipa": "/bəʊltɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "booking",
@@ -2742,6 +2971,9 @@
         ],
         "ipa": "/ˈbʊkɪŋz/"
       }
+    ],
+    "synonyms": [
+      "reservation"
     ]
   },
   {
@@ -2771,7 +3003,8 @@
         ],
         "ipa": "/ˈbɜːbənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "boxer",
@@ -2806,7 +3039,8 @@
         ],
         "ipa": "/ˈbɒksə(r)z/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "brag",
@@ -2852,6 +3086,9 @@
         ],
         "ipa": "/bræɡd/"
       }
+    ],
+    "synonyms": [
+      "boast"
     ]
   },
   {
@@ -2881,6 +3118,9 @@
         ],
         "ipa": "/ˈbreɪkˌəps/"
       }
+    ],
+    "synonyms": [
+      "separation"
     ]
   },
   {
@@ -2927,6 +3167,9 @@
         ],
         "ipa": "/ˈbɹɛd/"
       }
+    ],
+    "synonyms": [
+      "variety"
     ]
   },
   {
@@ -2947,6 +3190,9 @@
         "example": "The pianist played brilliantly throughout the competition.",
         "exampleVi": "Nghệ sĩ piano chơi xuất sắc trong suốt cuộc thi."
       }
+    ],
+    "synonyms": [
+      "radiantly"
     ]
   },
   {
@@ -2967,6 +3213,9 @@
         "example": "The new technology is broadly used across the industry.",
         "exampleVi": "Công nghệ mới được sử dụng rộng rãi trong toàn ngành công nghiệp."
       }
+    ],
+    "synonyms": [
+      "generally"
     ]
   },
   {
@@ -3012,6 +3261,9 @@
         ],
         "ipa": "/braʊzd/"
       }
+    ],
+    "synonyms": [
+      "skim"
     ]
   },
   {
@@ -3041,7 +3293,8 @@
         ],
         "ipa": "/ˈbraʊzə(r)z/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "bud",
@@ -3087,7 +3340,8 @@
         ],
         "ipa": "/bʌdɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "bully",
@@ -3132,6 +3386,9 @@
         ],
         "ipa": "/ˈbʊlid/"
       }
+    ],
+    "synonyms": [
+      "intimidate"
     ]
   },
   {
@@ -3161,6 +3418,9 @@
         ],
         "ipa": "/bʌmz/"
       }
+    ],
+    "synonyms": [
+      "vagrant"
     ]
   },
   {
@@ -3190,6 +3450,9 @@
         ],
         "ipa": "/bʊʃɪz/"
       }
+    ],
+    "synonyms": [
+      "shrub"
     ]
   },
   {
@@ -3236,6 +3499,9 @@
         ],
         "ipa": "/ˈbʊtʃə(r)d/"
       }
+    ],
+    "synonyms": [
+      "slaughter"
     ]
   },
   {
@@ -3282,6 +3548,9 @@
         ],
         "ipa": "/ˈbəzd/"
       }
+    ],
+    "synonyms": [
+      "hum"
     ]
   },
   {
@@ -3328,6 +3597,9 @@
         ],
         "ipa": "/ˈkæbɪnd/"
       }
+    ],
+    "synonyms": [
+      "compartment"
     ]
   },
   {
@@ -3390,7 +3662,8 @@
         ],
         "ipa": "/kəˈnæld/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cancer",
@@ -3425,7 +3698,8 @@
         ],
         "ipa": "/ˈkænsə(r)z/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "candle",
@@ -3471,7 +3745,8 @@
         ],
         "ipa": "/ˈkændld/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cane",
@@ -3506,6 +3781,9 @@
         ],
         "ipa": "/keɪnz/"
       }
+    ],
+    "synonyms": [
+      "walking stick"
     ]
   },
   {
@@ -3541,6 +3819,9 @@
         ],
         "ipa": "/ˈkænənz/"
       }
+    ],
+    "synonyms": [
+      "rule"
     ]
   },
   {
@@ -3576,6 +3857,9 @@
         ],
         "ipa": "/ˈkæpʃnz/"
       }
+    ],
+    "synonyms": [
+      "legend"
     ]
   },
   {
@@ -3605,6 +3889,9 @@
         ],
         "ipa": "/ˈkæptɪvz/"
       }
+    ],
+    "synonyms": [
+      "prisoner"
     ]
   },
   {
@@ -3652,6 +3939,9 @@
         "example": "The police captured the suspect.",
         "exampleVi": "Cảnh sát đã bắt được nghi phạm."
       }
+    ],
+    "synonyms": [
+      "seize"
     ]
   },
   {
@@ -3714,6 +4004,9 @@
         ],
         "ipa": "/ˈkærəvænd/"
       }
+    ],
+    "synonyms": [
+      "caravan train"
     ]
   },
   {
@@ -3734,6 +4027,9 @@
         "example": "The film's cardboard characters had no believable emotions.",
         "exampleVi": "Các nhân vật vô hồn của bộ phim không có cảm xúc thuyết phục."
       }
+    ],
+    "synonyms": [
+      "paperboard"
     ]
   },
   {
@@ -3754,6 +4050,9 @@
         "example": "Her caring for the injured dog continued long after it recovered.",
         "exampleVi": "Cô ấy vẫn chăm sóc con chó bị thương rất lâu sau khi nó hồi phục."
       }
+    ],
+    "synonyms": [
+      "compassionate"
     ]
   },
   {
@@ -3799,6 +4098,9 @@
         ],
         "ipa": "/kɑːvd/"
       }
+    ],
+    "synonyms": [
+      "engrave"
     ]
   },
   {
@@ -3845,6 +4147,9 @@
         ],
         "ipa": "/kæˈskeɪdɪd/"
       }
+    ],
+    "synonyms": [
+      "waterfall"
     ]
   },
   {
@@ -3880,7 +4185,8 @@
         ],
         "ipa": "/kɑːsts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "casually",
@@ -3900,6 +4206,9 @@
         "example": "He casually dismissed our concerns without listening.",
         "exampleVi": "Anh ta lảng tránh những lo lắng của chúng tôi mà không hề chịu lắng nghe."
       }
+    ],
+    "synonyms": [
+      "by chance"
     ]
   },
   {
@@ -3946,6 +4255,9 @@
         ],
         "ipa": "/ˈkætəlɒɡd/"
       }
+    ],
+    "synonyms": [
+      "catalog"
     ]
   },
   {
@@ -3959,7 +4271,8 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": []
   },
   {
     "word": "cathedral",
@@ -3988,7 +4301,8 @@
         ],
         "ipa": "/kəˈθiːdrəlz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cave",
@@ -4034,6 +4348,9 @@
         ],
         "ipa": "/keɪvd/"
       }
+    ],
+    "synonyms": [
+      "cavern"
     ]
   },
   {
@@ -4069,7 +4386,8 @@
         ],
         "ipa": "/selz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "certainty",
@@ -4098,6 +4416,9 @@
         ],
         "ipa": "/ˈsɜːtəntiz/"
       }
+    ],
+    "synonyms": [
+      "assurance"
     ]
   },
   {
@@ -4133,7 +4454,8 @@
         ],
         "ipa": "/ˌsɜːtɪfɪˈkeɪʃnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "challenging",
@@ -4159,6 +4481,9 @@
         "example": "He gave his rival a challenging look before the match.",
         "exampleVi": "Trước trận đấu, anh ta nhìn đối thủ của mình với ánh mắt thách thức."
       }
+    ],
+    "synonyms": [
+      "demanding"
     ]
   },
   {
@@ -4172,7 +4497,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "disorderly"
+    ]
   },
   {
     "word": "characteristic",
@@ -4201,6 +4529,9 @@
         ],
         "ipa": "/ˌkærəktəˈrɪstɪks/"
       }
+    ],
+    "synonyms": [
+      "feature"
     ]
   },
   {
@@ -4221,6 +4552,9 @@
         "example": "The story describes a charming spell that makes strangers fall in love.",
         "exampleVi": "Câu chuyện kể về một phép thuật quyến rũ khiến những người lạ có thể yêu nhau."
       }
+    ],
+    "synonyms": [
+      "enchanting"
     ]
   },
   {
@@ -4267,6 +4601,9 @@
         ],
         "ipa": "/tʃeɪst/"
       }
+    ],
+    "synonyms": [
+      "pursue"
     ]
   },
   {
@@ -4296,7 +4633,8 @@
         ],
         "ipa": "/tʃiːks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cheer",
@@ -4342,6 +4680,9 @@
         ],
         "ipa": "/tʃɪə(r)d/"
       }
+    ],
+    "synonyms": [
+      "applaud"
     ]
   },
   {
@@ -4371,7 +4712,8 @@
         ],
         "ipa": "/ˈtʃɛriz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "chew",
@@ -4417,6 +4759,9 @@
         ],
         "ipa": "/tʃuːd/"
       }
+    ],
+    "synonyms": [
+      "masticate"
     ]
   },
   {
@@ -4446,6 +4791,9 @@
         ],
         "ipa": "/tʃiːfs/"
       }
+    ],
+    "synonyms": [
+      "main"
     ]
   },
   {
@@ -4492,6 +4840,9 @@
         ],
         "ipa": "/tʃɒpt/"
       }
+    ],
+    "synonyms": [
+      "hack"
     ]
   },
   {
@@ -4538,6 +4889,9 @@
         ],
         "ipa": "/tʃʌŋkt/"
       }
+    ],
+    "synonyms": [
+      "piece"
     ]
   },
   {
@@ -4573,7 +4927,8 @@
         ],
         "ipa": "/ˈsɜːkɪts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "clap",
@@ -4624,6 +4979,9 @@
         ],
         "ipa": "/klæpt/"
       }
+    ],
+    "synonyms": [
+      "applaud"
     ]
   },
   {
@@ -4670,6 +5028,9 @@
         ],
         "ipa": "/klɑːkt/"
       }
+    ],
+    "synonyms": [
+      "office worker"
     ]
   },
   {
@@ -4690,6 +5051,9 @@
         "example": "The detective closely examined every photograph.",
         "exampleVi": "Nhân viên điều tra đã xem xét kỹ lưỡng từng bức ảnh."
       }
+    ],
+    "synonyms": [
+      "carefully"
     ]
   },
   {
@@ -4716,6 +5080,9 @@
         "example": "The blanket was made from coarse, low-quality wool.",
         "exampleVi": "Tấm chăn được làm từ loại len thô, chất lượng kém."
       }
+    ],
+    "synonyms": [
+      "rough"
     ]
   },
   {
@@ -4751,7 +5118,8 @@
         ],
         "ipa": "/ˈkoʊkənʌts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "coincidence",
@@ -4786,7 +5154,8 @@
         ],
         "ipa": "/kəʊˈɪnsɪdənsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "colon",
@@ -4815,7 +5184,8 @@
         ],
         "ipa": "/ˈkəʊlənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "colonial",
@@ -4844,7 +5214,8 @@
         ],
         "ipa": "/kəˈləʊniəlz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "colony",
@@ -4873,7 +5244,8 @@
         ],
         "ipa": "/ˈkɒləniz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "colourful",
@@ -4893,6 +5265,9 @@
         "example": "Her colourful stories kept the children entertained.",
         "exampleVi": "Những câu chuyện đầy màu sắc của cô bé đã khiến các đứa trẻ vui vẻ."
       }
+    ],
+    "synonyms": [
+      "colorful"
     ]
   },
   {
@@ -4939,7 +5314,8 @@
         ],
         "ipa": "/kəʊmd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "combination",
@@ -4974,6 +5350,9 @@
         ],
         "ipa": "/ˌkɒmbɪˈneɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "mixture"
     ]
   },
   {
@@ -5000,6 +5379,9 @@
         "example": "His pension allows him to live comfortably without working.",
         "exampleVi": "Quỹ hưu trí của ông giúp ông có thể sống thoải mái mà không cần phải làm việc."
       }
+    ],
+    "synonyms": [
+      "at ease"
     ]
   },
   {
@@ -5020,6 +5402,9 @@
         "example": "The actor is best known for his comic roles.",
         "exampleVi": "Nam diễn viên này nổi tiếng nhất với những vai diễn hài hước của mình."
       }
+    ],
+    "synonyms": [
+      "funny"
     ]
   },
   {
@@ -5066,6 +5451,9 @@
         ],
         "ipa": "/kəˈmɑːndɪd/"
       }
+    ],
+    "synonyms": [
+      "order"
     ]
   },
   {
@@ -5101,6 +5489,9 @@
         ],
         "ipa": "/kəˈmɪtmənts/"
       }
+    ],
+    "synonyms": [
+      "dedication"
     ]
   },
   {
@@ -5123,6 +5514,9 @@
         ],
         "ipa": "/kəˈmɪtiz/"
       }
+    ],
+    "synonyms": [
+      "panel"
     ]
   },
   {
@@ -5143,6 +5537,9 @@
         "example": "The two phones offer comparable performance at similar prices.",
         "exampleVi": "Hai chiếc điện thoại này đều có hiệu suất tương đương nhau, và giá cả cũng tương đương nhau."
       }
+    ],
+    "synonyms": [
+      "similar"
     ]
   },
   {
@@ -5156,7 +5553,8 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": []
   },
   {
     "word": "compassionate",
@@ -5169,7 +5567,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "sympathetic"
+    ]
   },
   {
     "word": "compensation",
@@ -5198,6 +5599,9 @@
         ],
         "ipa": "/ˌkɒmpenˈseɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "reparation"
     ]
   },
   {
@@ -5224,6 +5628,9 @@
         "example": "Only a competent court can issue this order.",
         "exampleVi": "Chỉ có tòa án có thẩm quyền mới có thể ban hành lệnh này."
       }
+    ],
+    "synonyms": [
+      "capable"
     ]
   },
   {
@@ -5253,6 +5660,9 @@
         ],
         "ipa": "/kəmˈpliːʃnz/"
       }
+    ],
+    "synonyms": [
+      "fulfillment"
     ]
   },
   {
@@ -5298,6 +5708,9 @@
         ],
         "ipa": "/kəmˈpəʊzd/"
       }
+    ],
+    "synonyms": [
+      "write"
     ]
   },
   {
@@ -5318,6 +5731,9 @@
         "example": "A daisy has a composite flower head made of many small flowers.",
         "exampleVi": "Cúc có cụm hoa thuộc họ Cúc, gồm nhiều hoa nhỏ hợp lại."
       }
+    ],
+    "synonyms": [
+      "combined"
     ]
   },
   {
@@ -5371,7 +5787,8 @@
         ],
         "ipa": "/kəmˈpaʊndɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "compression",
@@ -5391,7 +5808,8 @@
         "example": "File compression reduces the space needed to store the video.",
         "exampleVi": "Việc nén tệp giúp giảm không gian cần thiết để lưu trữ video."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "concentration",
@@ -5426,7 +5844,8 @@
         ],
         "ipa": "/ˌkɒnsnˈtreɪʃnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "concerned",
@@ -5452,6 +5871,9 @@
         "example": "Police questioned everyone concerned in the robbery.",
         "exampleVi": "Cảnh sát đã thẩm vấn tất cả những người liên quan đến vụ cướp này."
       }
+    ],
+    "synonyms": [
+      "worried"
     ]
   },
   {
@@ -5487,7 +5909,8 @@
         ],
         "ipa": "/kənˈseʃnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "concrete",
@@ -5507,6 +5930,9 @@
         "example": "The cooling mixture formed a concrete mass at the bottom of the bowl.",
         "exampleVi": "Hỗn hợp nguội dần và kết thành một khối rắn ở đáy bát."
       }
+    ],
+    "synonyms": [
+      "tangible"
     ]
   },
   {
@@ -5558,6 +5984,9 @@
         ],
         "ipa": "/kənˈdemd/"
       }
+    ],
+    "synonyms": [
+      "denounce"
     ]
   },
   {
@@ -5609,6 +6038,9 @@
         ],
         "ipa": "/kənˈfrʌntɪd/"
       }
+    ],
+    "synonyms": [
+      "face"
     ]
   },
   {
@@ -5622,7 +6054,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "puzzling"
+    ]
   },
   {
     "word": "confusion",
@@ -5648,6 +6083,9 @@
         "example": "He blushed in confusion when everyone noticed his mistake.",
         "exampleVi": "Anh ấy đỏ mặt vì bối rối khi mọi người nhận ra sai lầm của mình."
       }
+    ],
+    "synonyms": [
+      "bewilderment"
     ]
   },
   {
@@ -5661,7 +6099,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "therefore"
+    ]
   },
   {
     "word": "consideration",
@@ -5696,6 +6137,9 @@
         ],
         "ipa": "/kənˌsɪdəˈreɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "deliberation"
     ]
   },
   {
@@ -5718,6 +6162,9 @@
         ],
         "ipa": "/ˌkɒnsəˈleɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "comfort"
     ]
   },
   {
@@ -5765,6 +6212,9 @@
         ],
         "ipa": "/kənˈsəʊld/"
       }
+    ],
+    "synonyms": [
+      "comfort"
     ]
   },
   {
@@ -5800,6 +6250,9 @@
         ],
         "ipa": "/kənˈstrʌkʃnz/"
       }
+    ],
+    "synonyms": [
+      "building"
     ]
   },
   {
@@ -5851,6 +6304,9 @@
         ],
         "ipa": "/kənˈsʌltɪd/"
       }
+    ],
+    "synonyms": [
+      "seek advice from"
     ]
   },
   {
@@ -5877,6 +6333,9 @@
         "example": "The old medical record states that he died of consumption.",
         "exampleVi": "Hồ sơ y tế cũ ghi rằng ông qua đời vì bệnh lao."
       }
+    ],
+    "synonyms": [
+      "use"
     ]
   },
   {
@@ -5903,6 +6362,9 @@
         "example": "Ignoring the judge's order may be contempt of court.",
         "exampleVi": "Việc phớt lờ lệnh của thẩm phán có thể được coi là hành vi xúc phạm tòa án."
       }
+    ],
+    "synonyms": [
+      "scorn"
     ]
   },
   {
@@ -5924,6 +6386,9 @@
         "exampleVi": "Nội dung trong hộp được ghi rõ trên nhãn của nó một cách cẩn thận.",
         "ipa": "/ˈkɒn.tent/"
       }
+    ],
+    "synonyms": [
+      "satisfied"
     ]
   },
   {
@@ -5953,6 +6418,9 @@
         ],
         "ipa": "/ˈkɒntests/"
       }
+    ],
+    "synonyms": [
+      "competition"
     ]
   },
   {
@@ -5966,7 +6434,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "inconsistent"
+    ]
   },
   {
     "word": "contribution",
@@ -5995,6 +6466,9 @@
         ],
         "ipa": "/ˌkɒntrɪˈbjuːʃnz/"
       }
+    ],
+    "synonyms": [
+      "donation"
     ]
   },
   {
@@ -6030,7 +6504,8 @@
         ],
         "ipa": "/kənˈviːniənsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "convinced",
@@ -6043,7 +6518,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "certain"
+    ]
   },
   {
     "word": "cooperative",
@@ -6072,6 +6550,9 @@
         ],
         "ipa": "/koʊˈɑːpərətɪvz/"
       }
+    ],
+    "synonyms": [
+      "collaborative"
     ]
   },
   {
@@ -6085,7 +6566,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "bodily"
+    ]
   },
   {
     "word": "corporation",
@@ -6114,6 +6598,9 @@
         ],
         "ipa": "/ˌkɔːpəˈreɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "company"
     ]
   },
   {
@@ -6149,6 +6636,9 @@
         ],
         "ipa": "/ˌkɒrəˈspɒndənsɪz/"
       }
+    ],
+    "synonyms": [
+      "communication by letter"
     ]
   },
   {
@@ -6178,6 +6668,9 @@
         ],
         "ipa": "/ˌkɒrəˈspɒndənts/"
       }
+    ],
+    "synonyms": [
+      "reporter"
     ]
   },
   {
@@ -6191,7 +6684,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "equivalent"
+    ]
   },
   {
     "word": "corrupt",
@@ -6236,6 +6732,9 @@
         ],
         "ipa": "/kəˈrʌptɪd/"
       }
+    ],
+    "synonyms": [
+      "dishonest"
     ]
   },
   {
@@ -6256,6 +6755,9 @@
         "example": "The goalkeeper's mistake proved costly when the other team scored.",
         "exampleVi": "Sai lầm tai hại của thủ môn khiến đội đối phương ghi bàn."
       }
+    ],
+    "synonyms": [
+      "expensive"
     ]
   },
   {
@@ -6291,6 +6793,9 @@
         ],
         "ipa": "/ˈkaʊnslz/"
       }
+    ],
+    "synonyms": [
+      "assembly"
     ]
   },
   {
@@ -6320,7 +6825,8 @@
         ],
         "ipa": "/ˈkaʊntə(r)z/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cozy",
@@ -6346,6 +6852,9 @@
         "example": "The investigation exposed a cozy relationship between officials and contractors.",
         "exampleVi": "Cuộc điều tra phanh phui quan hệ thân thiết mờ ám giữa quan chức và nhà thầu."
       }
+    ],
+    "synonyms": [
+      "cosy"
     ]
   },
   {
@@ -6391,6 +6900,9 @@
         ],
         "ipa": "/krækt/"
       }
+    ],
+    "synonyms": [
+      "fracture"
     ]
   },
   {
@@ -6426,6 +6938,9 @@
         ],
         "ipa": "/krɑːfts/"
       }
+    ],
+    "synonyms": [
+      "handicraft"
     ]
   },
   {
@@ -6455,7 +6970,8 @@
         ],
         "ipa": "/ˈkreɪtə(r)z/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "crawl",
@@ -6500,6 +7016,9 @@
         ],
         "ipa": "/krɔːld/"
       }
+    ],
+    "synonyms": [
+      "creep"
     ]
   },
   {
@@ -6513,7 +7032,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "eerie"
+    ]
   },
   {
     "word": "crew",
@@ -6542,6 +7064,9 @@
         ],
         "ipa": "/kruːz/"
       }
+    ],
+    "synonyms": [
+      "team"
     ]
   },
   {
@@ -6568,6 +7093,9 @@
         "example": "The patient remains in critical condition after the accident.",
         "exampleVi": "Bệnh nhân vẫn ở trong tình trạng nguy kịch sau vụ tai nạn."
       }
+    ],
+    "synonyms": [
+      "crucial"
     ]
   },
   {
@@ -6614,6 +7142,9 @@
         ],
         "ipa": "/krɒpt/"
       }
+    ],
+    "synonyms": [
+      "harvest"
     ]
   },
   {
@@ -6660,7 +7191,8 @@
         ],
         "ipa": "/kruːzd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cuff",
@@ -6689,7 +7221,8 @@
         ],
         "ipa": "/kʌfs/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "curl",
@@ -6724,7 +7257,8 @@
         ],
         "ipa": "/kɜːlz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "curve",
@@ -6753,6 +7287,9 @@
         ],
         "ipa": "/ˈkɜːvz/"
       }
+    ],
+    "synonyms": [
+      "bend"
     ]
   },
   {
@@ -6800,6 +7337,9 @@
         "example": "The critics damned the film for its weak story.",
         "exampleVi": "Các nhà phê bình chỉ trích gay gắt bộ phim vì cốt truyện yếu."
       }
+    ],
+    "synonyms": [
+      "curse"
     ]
   },
   {
@@ -6845,7 +7385,8 @@
         ],
         "ipa": "/deə(r)d/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "darling",
@@ -6874,6 +7415,9 @@
         ],
         "ipa": "/ˈdɑːlɪŋz/"
       }
+    ],
+    "synonyms": [
+      "dear"
     ]
   },
   {
@@ -6920,7 +7464,8 @@
         ],
         "ipa": "/dæʃt/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "dawn",
@@ -6966,6 +7511,9 @@
         ],
         "ipa": "/dɔːnd/"
       }
+    ],
+    "synonyms": [
+      "daybreak"
     ]
   },
   {
@@ -6986,6 +7534,9 @@
         "example": "The teacher was deadly serious about the safety rules.",
         "exampleVi": "Giáo viên rất nghiêm túc với các quy tắc an toàn."
       }
+    ],
+    "synonyms": [
+      "lethal"
     ]
   },
   {
@@ -7021,6 +7572,9 @@
         ],
         "ipa": "/ˈdiːlə(r)z/"
       }
+    ],
+    "synonyms": [
+      "trader"
     ]
   },
   {
@@ -7072,6 +7626,9 @@
         ],
         "ipa": "/dɪˈkeɪd/"
       }
+    ],
+    "synonyms": [
+      "rot"
     ]
   },
   {
@@ -7092,6 +7649,9 @@
         "example": "A decent person would return a lost wallet.",
         "exampleVi": "Một người tử tế sẽ trả lại chiếc ví bị mất."
       }
+    ],
+    "synonyms": [
+      "respectable"
     ]
   },
   {
@@ -7118,6 +7678,9 @@
         "example": "She is a decisive manager who makes difficult choices quickly.",
         "exampleVi": "Cô ấy là một nhà quản lý quyết đoán, có khả năng đưa ra những quyết định khó khăn một cách nhanh chóng."
       }
+    ],
+    "synonyms": [
+      "conclusive"
     ]
   },
   {
@@ -7164,6 +7727,9 @@
         ],
         "ipa": "/ˈdɛkt/"
       }
+    ],
+    "synonyms": [
+      "pack of cards"
     ]
   },
   {
@@ -7199,6 +7765,9 @@
         ],
         "ipa": "/ˌdekəˈreɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "ornament"
     ]
   },
   {
@@ -7234,6 +7803,9 @@
         ],
         "ipa": "/ˌdedɪˈkeɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "devotion"
     ]
   },
   {
@@ -7269,6 +7841,9 @@
         ],
         "ipa": "/dɪˈdʌkʃnz/"
       }
+    ],
+    "synonyms": [
+      "tax deduction"
     ]
   },
   {
@@ -7318,6 +7893,9 @@
         "example": "Two soldiers defected to the other side.",
         "exampleVi": "Hai binh sĩ đã chuyển sang phe đối lập."
       }
+    ],
+    "synonyms": [
+      "desert"
     ]
   },
   {
@@ -7353,6 +7931,9 @@
         ],
         "ipa": "/dɪˈfensɪz/"
       }
+    ],
+    "synonyms": [
+      "defense"
     ]
   },
   {
@@ -7382,6 +7963,9 @@
         ],
         "ipa": "/dɪˈfendə(r)z/"
       }
+    ],
+    "synonyms": [
+      "protector"
     ]
   },
   {
@@ -7433,6 +8017,9 @@
         ],
         "ipa": "/dɪˈfaɪd/"
       }
+    ],
+    "synonyms": [
+      "resist"
     ]
   },
   {
@@ -7453,6 +8040,9 @@
         "example": "He spoke deliberately, leaving a long pause between each sentence.",
         "exampleVi": "Anh ấy nói chậm rãi, dừng lâu giữa mỗi câu."
       }
+    ],
+    "synonyms": [
+      "intentionally"
     ]
   },
   {
@@ -7506,6 +8096,9 @@
         "example": "The small gift delighted the child.",
         "exampleVi": "Món quà nhỏ đó khiến đứa trẻ rất vui mừng."
       }
+    ],
+    "synonyms": [
+      "please"
     ]
   },
   {
@@ -7519,7 +8112,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "pleased"
+    ]
   },
   {
     "word": "delivery",
@@ -7554,6 +8150,9 @@
         ],
         "ipa": "/dɪˈlɪvəriz/"
       }
+    ],
+    "synonyms": [
+      "dispatch"
     ]
   },
   {
@@ -7567,7 +8166,8 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": []
   },
   {
     "word": "densely",
@@ -7587,6 +8187,9 @@
         "example": "In older writing, densely can mean stupidly rather than thickly.",
         "exampleVi": "Trong văn bản cũ, densely có thể mang nghĩa ngu ngốc thay vì dày đặc."
       }
+    ],
+    "synonyms": [
+      "thickly"
     ]
   },
   {
@@ -7600,7 +8203,8 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": []
   },
   {
     "word": "dependent",
@@ -7629,6 +8233,9 @@
         ],
         "ipa": "/dɪˈpendənts/"
       }
+    ],
+    "synonyms": [
+      "reliant"
     ]
   },
   {
@@ -7664,7 +8271,8 @@
         ],
         "ipa": "/dɪˈpreʃnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "descriptive",
@@ -7684,7 +8292,8 @@
         "example": "A descriptive grammar records how people actually use a language.",
         "exampleVi": "Ngữ pháp mô tả cụ thể ghi lại cách con người thực sự sử dụng ngôn ngữ."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "desirable",
@@ -7704,6 +8313,9 @@
         "example": "His kindness made him a desirable partner.",
         "exampleVi": "Lòng tốt khiến anh ấy trở thành người bạn đời đáng mơ ước."
       }
+    ],
+    "synonyms": [
+      "wanted"
     ]
   },
   {
@@ -7726,6 +8338,9 @@
         ],
         "ipa": "/ˈdestəniz/"
       }
+    ],
+    "synonyms": [
+      "fate"
     ]
   },
   {
@@ -7739,7 +8354,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "devastation"
+    ]
   },
   {
     "word": "detachment",
@@ -7765,6 +8383,9 @@
         "example": "Her emotional detachment made personal conversations difficult.",
         "exampleVi": "Sự thờ ơ của cô ấy khiến việc trò chuyện cá nhân trở nên khó khăn."
       }
+    ],
+    "synonyms": [
+      "aloofness"
     ]
   },
   {
@@ -7800,6 +8421,9 @@
         ],
         "ipa": "/dɪˌtɜːmɪˈneɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "ascertainment"
     ]
   },
   {
@@ -7820,7 +8444,8 @@
         "example": "The photographer does all the developing in a darkroom.",
         "exampleVi": "Người chụp ảnh sẽ thực hiện toàn bộ quy trình xử lý ảnh trong phòng tối."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "devil",
@@ -7882,6 +8507,9 @@
         ],
         "ipa": "/ˈdevld/"
       }
+    ],
+    "synonyms": [
+      "demon"
     ]
   },
   {
@@ -7895,7 +8523,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "dedicated"
+    ]
   },
   {
     "word": "dig",
@@ -7941,6 +8572,9 @@
         ],
         "ipa": "/ˈdəɡ/"
       }
+    ],
+    "synonyms": [
+      "excavate"
     ]
   },
   {
@@ -7988,6 +8622,9 @@
         ],
         "ipa": "/daɪˈdʒestɪd/"
       }
+    ],
+    "synonyms": [
+      "summary"
     ]
   },
   {
@@ -8033,6 +8670,9 @@
         ],
         "ipa": "/dɪmd/"
       }
+    ],
+    "synonyms": [
+      "faint"
     ]
   },
   {
@@ -8062,7 +8702,8 @@
         ],
         "ipa": "/daɪmz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "disagreement",
@@ -8084,6 +8725,9 @@
         ],
         "ipa": "/ˌdɪsəˈɡriːmənts/"
       }
+    ],
+    "synonyms": [
+      "dispute"
     ]
   },
   {
@@ -8106,7 +8750,8 @@
         ],
         "ipa": "/ˌdɪsəˈpɪərənsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "disc",
@@ -8141,6 +8786,9 @@
         ],
         "ipa": "/dɪsks/"
       }
+    ],
+    "synonyms": [
+      "disk"
     ]
   },
   {
@@ -8176,6 +8824,9 @@
         ],
         "ipa": "/dɪsˈtʃɑːdʒɪz/"
       }
+    ],
+    "synonyms": [
+      "release"
     ]
   },
   {
@@ -8222,6 +8873,9 @@
         ],
         "ipa": "/ˌdɪskəˈnektɪd/"
       }
+    ],
+    "synonyms": [
+      "unplug"
     ]
   },
   {
@@ -8273,6 +8927,9 @@
         ],
         "ipa": "/dɪsˈkʌrɪdʒd/"
       }
+    ],
+    "synonyms": [
+      "dishearten"
     ]
   },
   {
@@ -8318,6 +8975,9 @@
         ],
         "ipa": "/dɪsˈɡreɪst/"
       }
+    ],
+    "synonyms": [
+      "shame"
     ]
   },
   {
@@ -8353,7 +9013,8 @@
         ],
         "ipa": "/dɪsˈɡaɪzɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "dishonest",
@@ -8373,6 +9034,9 @@
         "example": "A dishonest official accepted money to ignore the rules.",
         "exampleVi": "Một viên chức gian dối đã nhận tiền để vi phạm các quy định."
       }
+    ],
+    "synonyms": [
+      "deceitful"
     ]
   },
   {
@@ -8408,6 +9072,9 @@
         ],
         "ipa": "/ˌdɪspəˈzɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "temperament"
     ]
   },
   {
@@ -8428,6 +9095,9 @@
         "example": "His disregard for safety put everyone at risk.",
         "exampleVi": "Việc anh ấy bất chấp an toàn khiến mọi người gặp nguy hiểm."
       }
+    ],
+    "synonyms": [
+      "neglect"
     ]
   },
   {
@@ -8454,6 +9124,9 @@
         "example": "He seemed distant and refused to discuss his feelings.",
         "exampleVi": "Anh ấy có vẻ lạnh lùng và từ chối nói về cảm xúc của mình."
       }
+    ],
+    "synonyms": [
+      "remote"
     ]
   },
   {
@@ -8474,6 +9147,9 @@
         "example": "Her silver hair gave her a distinguished appearance.",
         "exampleVi": "Mái tóc bạc của cô khiến cô trông trở nên quý phái và đặc biệt."
       }
+    ],
+    "synonyms": [
+      "eminent"
     ]
   },
   {
@@ -8496,6 +9172,9 @@
         ],
         "ipa": "/dɪˈstɔːʃnz/"
       }
+    ],
+    "synonyms": [
+      "deformation"
     ]
   },
   {
@@ -8543,6 +9222,9 @@
         ],
         "ipa": "/dɪˈstræktɪd/"
       }
+    ],
+    "synonyms": [
+      "divert"
     ]
   },
   {
@@ -8578,6 +9260,9 @@
         ],
         "ipa": "/dɪˈstrækʃnz/"
       }
+    ],
+    "synonyms": [
+      "diversion"
     ]
   },
   {
@@ -8613,7 +9298,8 @@
         ],
         "ipa": "/ˌdɪstrɪˈbjuːʃnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "district",
@@ -8659,6 +9345,9 @@
         ],
         "ipa": "/ˈdɪstrɪktɪd/"
       }
+    ],
+    "synonyms": [
+      "area"
     ]
   },
   {
@@ -8705,7 +9394,8 @@
         ],
         "ipa": "/daɪvd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "diversion",
@@ -8740,6 +9430,9 @@
         ],
         "ipa": "/daɪˈvɜːʃnz/"
       }
+    ],
+    "synonyms": [
+      "pastime"
     ]
   },
   {
@@ -8791,6 +9484,9 @@
         ],
         "ipa": "/daɪˈvɜːtɪd/"
       }
+    ],
+    "synonyms": [
+      "redirect"
     ]
   },
   {
@@ -8817,6 +9513,9 @@
         "example": "The divided inheritance gave each child an equal share.",
         "exampleVi": "Sự phân chia tài sản khiến mỗi đứa trẻ đều nhận được phần bình đẳng."
       }
+    ],
+    "synonyms": [
+      "split"
     ]
   },
   {
@@ -8846,7 +9545,8 @@
         ],
         "ipa": "/dɪˈvɪʒnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "dock",
@@ -8898,6 +9598,9 @@
         ],
         "ipa": "/dɒkt/"
       }
+    ],
+    "synonyms": [
+      "wharf"
     ]
   },
   {
@@ -8924,6 +9627,9 @@
         "example": "Rice is the dominant crop in this region.",
         "exampleVi": "Lúa là cây trồng chủ yếu trong vùng này."
       }
+    ],
+    "synonyms": [
+      "prevailing"
     ]
   },
   {
@@ -8953,6 +9659,9 @@
         ],
         "ipa": "/ˈdəʊnə(r)z/"
       }
+    ],
+    "synonyms": [
+      "benefactor"
     ]
   },
   {
@@ -8998,6 +9707,9 @@
         ],
         "ipa": "/duːmd/"
       }
+    ],
+    "synonyms": [
+      "ruin"
     ]
   },
   {
@@ -9033,6 +9745,9 @@
         ],
         "ipa": "/dɒts/"
       }
+    ],
+    "synonyms": [
+      "point"
     ]
   },
   {
@@ -9059,6 +9774,9 @@
         "example": "He stood at the doorway with a doubtful expression, unsure whether to enter.",
         "exampleVi": "Anh ấy đứng ở cửa với vẻ phân vân, không biết có nên vào hay không."
       }
+    ],
+    "synonyms": [
+      "dubious"
     ]
   },
   {
@@ -9094,6 +9812,9 @@
         ],
         "ipa": "/ˈdaʊnfɔːlz/"
       }
+    ],
+    "synonyms": [
+      "collapse"
     ]
   },
   {
@@ -9123,6 +9844,9 @@
         ],
         "ipa": "/ˌdaʊnˈtaʊnz/"
       }
+    ],
+    "synonyms": [
+      "city center"
     ]
   },
   {
@@ -9169,6 +9893,9 @@
         ],
         "ipa": "/dræɡd/"
       }
+    ],
+    "synonyms": [
+      "pull"
     ]
   },
   {
@@ -9216,6 +9943,9 @@
         "example": "She dreaded the long wait at the clinic.",
         "exampleVi": "Cô ấy rất sợ phải chờ đợi lâu tại phòng khám."
       }
+    ],
+    "synonyms": [
+      "fear"
     ]
   },
   {
@@ -9242,6 +9972,9 @@
         "example": "I have a dreadful headache after the long journey.",
         "exampleVi": "Sau chuyến đi dài, tôi bị đau đầu dữ dội."
       }
+    ],
+    "synonyms": [
+      "terrible"
     ]
   },
   {
@@ -9262,6 +9995,9 @@
         "example": "The lecture was dull and difficult to stay awake through.",
         "exampleVi": "Buổi giảng thật nhàm chán, và khó có thể giữ được sự tỉnh táo trong suốt buổi học."
       }
+    ],
+    "synonyms": [
+      "blunt"
     ]
   },
   {
@@ -9288,6 +10024,9 @@
         "example": "Older books used dumb to describe people unable to speak.",
         "exampleVi": "Sách cũ dùng từ dumb để chỉ người không thể nói."
       }
+    ],
+    "synonyms": [
+      "stupid"
     ]
   },
   {
@@ -9334,6 +10073,9 @@
         ],
         "ipa": "/dʌmpt/"
       }
+    ],
+    "synonyms": [
+      "discard"
     ]
   },
   {
@@ -9363,6 +10105,9 @@
         ],
         "ipa": "/ˈdʒuː.plɪ.kəts/"
       }
+    ],
+    "synonyms": [
+      "copy"
     ]
   },
   {
@@ -9392,7 +10137,8 @@
         ],
         "ipa": "/dwɔːfs/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "eagle",
@@ -9438,7 +10184,8 @@
         ],
         "ipa": "/ˈiːɡld/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "earnings",
@@ -9458,6 +10205,9 @@
         "example": "The company's quarterly earnings exceeded expectations.",
         "exampleVi": "Lợi nhuận quý của công ty vượt quá dự đoán."
       }
+    ],
+    "synonyms": [
+      "income"
     ]
   },
   {
@@ -9484,6 +10234,9 @@
         "example": "She sighed with ease when the results arrived.",
         "exampleVi": "Cô thở phào nhẹ nhõm khi kết quả được công bố."
       }
+    ],
+    "synonyms": [
+      "comfort"
     ]
   },
   {
@@ -9497,7 +10250,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "frugal"
+    ]
   },
   {
     "word": "editorial",
@@ -9517,7 +10273,8 @@
         "example": "The newspaper adopted a new editorial policy.",
         "exampleVi": "Tờ báo áp dụng chính sách biên tập mới."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "effectiveness",
@@ -9530,7 +10287,8 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": []
   },
   {
     "word": "elect",
@@ -9575,6 +10333,9 @@
         ],
         "ipa": "/ɪˈlektɪd/"
       }
+    ],
+    "synonyms": [
+      "vote in"
     ]
   },
   {
@@ -9595,6 +10356,9 @@
         "example": "The elegance of the solution lies in its simplicity.",
         "exampleVi": "Sự tinh tế của giải pháp nằm ở tính đơn giản."
       }
+    ],
+    "synonyms": [
+      "grace"
     ]
   },
   {
@@ -9621,6 +10385,9 @@
         "example": "An elementary knowledge of numbers is needed for this course.",
         "exampleVi": "Để tham gia khóa học này, bạn cần có kiến thức cơ bản về số học."
       }
+    ],
+    "synonyms": [
+      "basic"
     ]
   },
   {
@@ -9650,7 +10417,8 @@
         ],
         "ipa": "/eɪˈliːts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "emergence",
@@ -9676,6 +10444,9 @@
         "example": "We watched the emergence of a butterfly from its chrysalis.",
         "exampleVi": "Chúng tôi quan sát con bướm chui ra khỏi nhộng."
       }
+    ],
+    "synonyms": [
+      "appearance"
     ]
   },
   {
@@ -9696,6 +10467,9 @@
         "example": "He becomes emotional whenever he talks about his childhood.",
         "exampleVi": "Anh ấy trở nên xúc động mỗi khi kể về tuổi thơ của mình."
       }
+    ],
+    "synonyms": [
+      "sensitive"
     ]
   },
   {
@@ -9718,6 +10492,9 @@
         ],
         "ipa": "/ɪnˈdevə(r)z/"
       }
+    ],
+    "synonyms": [
+      "effort"
     ]
   },
   {
@@ -9731,7 +10508,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "unceasingly"
+    ]
   },
   {
     "word": "endorse",
@@ -9776,6 +10556,9 @@
         ],
         "ipa": "/ɪnˈdɔːst/"
       }
+    ],
+    "synonyms": [
+      "support"
     ]
   },
   {
@@ -9796,6 +10579,9 @@
         "example": "Her enduring patience helped her care for the difficult patient.",
         "exampleVi": "Sự kiên nhẫn bền bỉ của cô đã giúp cô có thể chăm sóc được những bệnh nhân khó chịu này."
       }
+    ],
+    "synonyms": [
+      "lasting"
     ]
   },
   {
@@ -9847,6 +10633,9 @@
         ],
         "ipa": "/ɪnˈɡeɪdʒd/"
       }
+    ],
+    "synonyms": [
+      "participate"
     ]
   },
   {
@@ -9867,6 +10656,9 @@
         "example": "The credit for the discovery belongs entirely to her.",
         "exampleVi": "Công lao của phát hiện hoàn toàn thuộc về cô ấy."
       }
+    ],
+    "synonyms": [
+      "completely"
     ]
   },
   {
@@ -9887,6 +10679,9 @@
         "example": "The medical diagram shows an erect penis.",
         "exampleVi": "Sơ đồ y khoa cho thấy một dương vật cương cứng."
       }
+    ],
+    "synonyms": [
+      "upright"
     ]
   },
   {
@@ -9938,6 +10733,9 @@
         ],
         "ipa": "/ɪˈrʌptɪd/"
       }
+    ],
+    "synonyms": [
+      "break out"
     ]
   },
   {
@@ -9973,7 +10771,8 @@
         ],
         "ipa": "/ɪˈrʌpʃnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "ethical",
@@ -9993,6 +10792,9 @@
         "example": "The philosophy course introduces several ethical theories.",
         "exampleVi": "Môn triết học giới thiệu một số lý thuyết đạo đức."
       }
+    ],
+    "synonyms": [
+      "moral"
     ]
   },
   {
@@ -10006,7 +10808,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "eternal"
+    ]
   },
   {
     "word": "examination",
@@ -10035,6 +10840,9 @@
         ],
         "ipa": "/ɪɡˌzæmɪˈneɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "inspection"
     ]
   },
   {
@@ -10048,7 +10856,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "inordinate"
+    ]
   },
   {
     "word": "exclusion",
@@ -10083,6 +10894,9 @@
         ],
         "ipa": "/ɪkˈskluːʒnz/"
       }
+    ],
+    "synonyms": [
+      "omission"
     ]
   },
   {
@@ -10130,6 +10944,9 @@
         ],
         "ipa": "/ɪkˈskjuːzd/"
       }
+    ],
+    "synonyms": [
+      "pretext"
     ]
   },
   {
@@ -10175,6 +10992,9 @@
         ],
         "ipa": "/ˈeksɪkjuːtɪd/"
       }
+    ],
+    "synonyms": [
+      "carry out"
     ]
   },
   {
@@ -10204,6 +11024,9 @@
         ],
         "ipa": "/ɪɡˈzekjətɪvz/"
       }
+    ],
+    "synonyms": [
+      "manager"
     ]
   },
   {
@@ -10250,6 +11073,9 @@
         ],
         "ipa": "/ɪɡˈzɔːstɪd/"
       }
+    ],
+    "synonyms": [
+      "exhaust fumes"
     ]
   },
   {
@@ -10270,6 +11096,9 @@
         "example": "The exhaustion of the fuel supply forced the ship to stop.",
         "exampleVi": "Sự cạn kiệt nhiên liệu buộc con tàu phải dừng hoạt động."
       }
+    ],
+    "synonyms": [
+      "fatigue"
     ]
   },
   {
@@ -10315,7 +11144,8 @@
         ],
         "ipa": "/ˈeksaɪld/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "existing",
@@ -10328,7 +11158,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "current"
+    ]
   },
   {
     "word": "exit",
@@ -10374,6 +11207,9 @@
         ],
         "ipa": "/ˈeksɪtɪd/"
       }
+    ],
+    "synonyms": [
+      "way out"
     ]
   },
   {
@@ -10394,7 +11230,8 @@
         "example": "The exotic plant cannot survive the local winter.",
         "exampleVi": "Loài cây ngoại lai không chịu được mùa đông ở đây."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "expansion",
@@ -10429,6 +11266,9 @@
         ],
         "ipa": "/ɪkˈspænʃnz/"
       }
+    ],
+    "synonyms": [
+      "enlargement"
     ]
   },
   {
@@ -10458,6 +11298,9 @@
         ],
         "ipa": "/ˌekspekˈteɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "anticipation"
     ]
   },
   {
@@ -10493,6 +11336,9 @@
         ],
         "ipa": "/ˌekspləˈreɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "discovery"
     ]
   },
   {
@@ -10522,7 +11368,8 @@
         ],
         "ipa": "/ɪkˈsplɔːrə(r)z/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "explosive",
@@ -10548,7 +11395,8 @@
         "example": "An explosive laugh interrupted the quiet meeting.",
         "exampleVi": "Một tiếng cười lớn làm gián đoạn cuộc họp yên lặng này."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "exposure",
@@ -10574,7 +11422,8 @@
         "example": "The exposure of the fraud led to several arrests.",
         "exampleVi": "Việc phơi bày hành vi lừa đảo này đã dẫn đến việc bắt giữ nhiều người."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "extension",
@@ -10609,6 +11458,9 @@
         ],
         "ipa": "/ɪkˈstenʃnz/"
       }
+    ],
+    "synonyms": [
+      "enlargement"
     ]
   },
   {
@@ -10635,6 +11487,9 @@
         "example": "Extensive farming uses large areas of land with relatively few inputs.",
         "exampleVi": "Nông nghiệp quảng canh dùng diện tích đất lớn với tương đối ít nguồn lực đầu vào."
       }
+    ],
+    "synonyms": [
+      "vast"
     ]
   },
   {
@@ -10655,6 +11510,9 @@
         "example": "The castle was extensively damaged during the storm.",
         "exampleVi": "Lâu đài bị hư hại nặng trong bão."
       }
+    ],
+    "synonyms": [
+      "widely"
     ]
   },
   {
@@ -10684,6 +11542,9 @@
         ],
         "ipa": "/ɪkˈstents/"
       }
+    ],
+    "synonyms": [
+      "scope"
     ]
   },
   {
@@ -10710,6 +11571,9 @@
         "example": "The palace was said to contain fabulous riches.",
         "exampleVi": "Người ta nói rằng cung điện này chứa đựng vô số của cải quý giá."
       }
+    ],
+    "synonyms": [
+      "wonderful"
     ]
   },
   {
@@ -10739,6 +11603,9 @@
         ],
         "ipa": "/ˈfækəltiz/"
       }
+    ],
+    "synonyms": [
+      "ability"
     ]
   },
   {
@@ -10786,6 +11653,9 @@
         "example": "She fainted during the hot afternoon.",
         "exampleVi": "Cô ấy ngất xỉu vào buổi chiều hè nóng bức đó."
       }
+    ],
+    "synonyms": [
+      "pass out"
     ]
   },
   {
@@ -10799,7 +11669,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "captivation"
+    ]
   },
   {
     "word": "fatal",
@@ -10819,6 +11692,9 @@
         "example": "A single fatal error ruined their chance of winning.",
         "exampleVi": "Một lỗi nghiêm trọng đã phá hỏng cơ hội chiến thắng của họ."
       }
+    ],
+    "synonyms": [
+      "lethal"
     ]
   },
   {
@@ -10839,6 +11715,9 @@
         "example": "His conclusion rests on faulty reasoning.",
         "exampleVi": "Kết luận của anh ta dựa trên những suy luận sai lầm."
       }
+    ],
+    "synonyms": [
+      "defective"
     ]
   },
   {
@@ -10885,7 +11764,8 @@
         ],
         "ipa": "/ˈfeðə(r)d/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "fiber",
@@ -10920,6 +11800,9 @@
         ],
         "ipa": "/ˈfaɪbə(r)z/"
       }
+    ],
+    "synonyms": [
+      "fibre"
     ]
   },
   {
@@ -10933,7 +11816,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "imaginary"
+    ]
   },
   {
     "word": "fierce",
@@ -10959,6 +11845,9 @@
         "example": "Small shops face fierce competition from larger chains.",
         "exampleVi": "Các cửa hàng nhỏ phải đối mặt với sự cạnh tranh khốc liệt từ các chuỗi cửa hàng lớn."
       }
+    ],
+    "synonyms": [
+      "ferocious"
     ]
   },
   {
@@ -10994,6 +11883,9 @@
         ],
         "ipa": "/ˈfaɪndɪŋz/"
       }
+    ],
+    "synonyms": [
+      "discovery"
     ]
   },
   {
@@ -11020,7 +11912,8 @@
         "example": "The violin is finely crafted from carefully selected wood.",
         "exampleVi": "Đàn violin được chế tác tinh xảo từ gỗ chọn kỹ."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "firm",
@@ -11046,6 +11939,9 @@
         "example": "The shelves need a firm attachment to the wall.",
         "exampleVi": "Các kệ cần được cố định chắc chắn vào tường."
       }
+    ],
+    "synonyms": [
+      "resolute"
     ]
   },
   {
@@ -11066,6 +11962,9 @@
         "example": "Fasten the lid firmly before shaking the container.",
         "exampleVi": "Hãy cố định nắp chai cẩn thận trước khi lắc chai."
       }
+    ],
+    "synonyms": [
+      "resolutely"
     ]
   },
   {
@@ -11112,7 +12011,8 @@
         ],
         "ipa": "/fleɪmd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "flap",
@@ -11163,7 +12063,8 @@
         ],
         "ipa": "/flæpt/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "flash",
@@ -11198,7 +12099,8 @@
         ],
         "ipa": "/flæʃɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "flaw",
@@ -11233,6 +12135,9 @@
         ],
         "ipa": "/flɔːz/"
       }
+    ],
+    "synonyms": [
+      "defect"
     ]
   },
   {
@@ -11279,7 +12184,8 @@
         ],
         "ipa": "/fliːtɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "flesh",
@@ -11305,7 +12211,8 @@
         "example": "The flesh of a ripe peach is soft and juicy.",
         "exampleVi": "Thịt của quả đào chín có độ mềm và ngon."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "flexibility",
@@ -11318,7 +12225,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "adaptability"
+    ]
   },
   {
     "word": "flip",
@@ -11370,6 +12280,9 @@
         ],
         "ipa": "/flɪpt/"
       }
+    ],
+    "synonyms": [
+      "turn over"
     ]
   },
   {
@@ -11415,7 +12328,8 @@
         ],
         "ipa": "/fləʊtɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "fluid",
@@ -11441,6 +12355,9 @@
         "example": "Her fluid movements made the dance look effortless.",
         "exampleVi": "Những động tác linh hoạt của cô khiến cho điệu nhảy trở nên dễ dàng và tự nhiên."
       }
+    ],
+    "synonyms": [
+      "flexible"
     ]
   },
   {
@@ -11461,6 +12378,9 @@
         "example": "Careful folding keeps the map small enough for a pocket.",
         "exampleVi": "Việc gấp tờ bản đồ một cách cẩn thận sẽ giúp nó có kích thước vừa phải để có thể cất vào túi."
       }
+    ],
+    "synonyms": [
+      "foldable"
     ]
   },
   {
@@ -11490,6 +12410,9 @@
         ],
         "ipa": "/ˈfɒləʊə(r)z/"
       }
+    ],
+    "synonyms": [
+      "adherent"
     ]
   },
   {
@@ -11516,6 +12439,9 @@
         "example": "He is fond of gardening and spends every weekend outside.",
         "exampleVi": "Anh ấy rất thích làm vườn, và dành mỗi cuối tuần để ở bên ngoài."
       }
+    ],
+    "synonyms": [
+      "affectionate"
     ]
   },
   {
@@ -11562,6 +12488,9 @@
         ],
         "ipa": "/fuːld/"
       }
+    ],
+    "synonyms": [
+      "idiot"
     ]
   },
   {
@@ -11591,6 +12520,9 @@
         ],
         "ipa": "/ˈfɔɹmən/"
       }
+    ],
+    "synonyms": [
+      "supervisor"
     ]
   },
   {
@@ -11611,7 +12543,8 @@
         "example": "The former president returned to speak at the university.",
         "exampleVi": "Cựu tổng thống lại có mặt tại trường đại học để phát biểu."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "formidable",
@@ -11631,6 +12564,9 @@
         "example": "Her formidable knowledge of languages impressed the interviewers.",
         "exampleVi": "Kiến thức rộng rãi của cô về các ngôn ngữ đã gây ấn tượng mạnh với những người phỏng vấn."
       }
+    ],
+    "synonyms": [
+      "intimidating"
     ]
   },
   {
@@ -11660,6 +12596,9 @@
         ],
         "ipa": "/ˈfɔːtʃuːnz/"
       }
+    ],
+    "synonyms": [
+      "luck"
     ]
   },
   {
@@ -11695,7 +12634,8 @@
         ],
         "ipa": "/ˈfɔːrəmz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "foul",
@@ -11721,6 +12661,9 @@
         "example": "The referee stopped play after a foul tackle.",
         "exampleVi": "Trọng tài dừng trận đấu sau một pha xoạc bóng phạm luật."
       }
+    ],
+    "synonyms": [
+      "unpleasant"
     ]
   },
   {
@@ -11774,6 +12717,9 @@
         "example": "They founded the company in 2003.",
         "exampleVi": "Họ thành lập công ty vào năm 2003."
       }
+    ],
+    "synonyms": [
+      "establish"
     ]
   },
   {
@@ -11820,6 +12766,9 @@
         ],
         "ipa": "/ˈfaʊndə(r)d/"
       }
+    ],
+    "synonyms": [
+      "originator"
     ]
   },
   {
@@ -11866,7 +12815,8 @@
         ],
         "ipa": "/fɒkst/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "fragment",
@@ -11913,6 +12863,9 @@
         ],
         "ipa": "/fræɡˈmentɪd/"
       }
+    ],
+    "synonyms": [
+      "piece"
     ]
   },
   {
@@ -11961,6 +12914,9 @@
         "example": "The artist freaked the cloth with bright spots.",
         "exampleVi": "Nhà nghệ sĩ đã tạo ra những vết đốm sáng trên tấm vải."
       }
+    ],
+    "synonyms": [
+      "panic"
     ]
   },
   {
@@ -11990,7 +12946,8 @@
         ],
         "ipa": "/ˈfriːkwənsiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "frontier",
@@ -12025,6 +12982,9 @@
         ],
         "ipa": "/ˈfrʌntɪə(r)z/"
       }
+    ],
+    "synonyms": [
+      "border"
     ]
   },
   {
@@ -12070,6 +13030,9 @@
         ],
         "ipa": "/fʊlˈfɪld/"
       }
+    ],
+    "synonyms": [
+      "satisfy"
     ]
   },
   {
@@ -12090,7 +13053,8 @@
         "example": "The furniture is functional, with simple shapes and useful storage.",
         "exampleVi": "Những món đồ nội thất này có tính năng sử dụng cao, với hình dạng đơn giản và khả năng chứa đồ hiệu quả."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "funding",
@@ -12103,7 +13067,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "financing"
+    ]
   },
   {
     "word": "funk",
@@ -12132,6 +13099,9 @@
         ],
         "ipa": "/fʌŋks/"
       }
+    ],
+    "synonyms": [
+      "panic"
     ]
   },
   {
@@ -12158,6 +13128,9 @@
         "example": "A furious storm swept across the coast.",
         "exampleVi": "Một cơn bão dữ dội ập vào bờ biển."
       }
+    ],
+    "synonyms": [
+      "enraged"
     ]
   },
   {
@@ -12187,6 +13160,9 @@
         ],
         "ipa": "/ɡæŋz/"
       }
+    ],
+    "synonyms": [
+      "group"
     ]
   },
   {
@@ -12233,7 +13209,8 @@
         ],
         "ipa": "/ɡɑːspt/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "gauge",
@@ -12268,6 +13245,9 @@
         ],
         "ipa": "/ɡeɪdʒɪz/"
       }
+    ],
+    "synonyms": [
+      "meter"
     ]
   },
   {
@@ -12294,6 +13274,9 @@
         "example": "The old poem describes gay ribbons decorating the room.",
         "exampleVi": "Bài thơ cũ miêu tả những dải ruy băng sặc sỡ trang trí căn phòng."
       }
+    ],
+    "synonyms": [
+      "homosexual"
     ]
   },
   {
@@ -12316,6 +13299,9 @@
         ],
         "ipa": "/ˈʒɒrəz/"
       }
+    ],
+    "synonyms": [
+      "category"
     ]
   },
   {
@@ -12345,6 +13331,9 @@
         ],
         "ipa": "/dʒɜːmz/"
       }
+    ],
+    "synonyms": [
+      "microbe"
     ]
   },
   {
@@ -12391,7 +13380,8 @@
         ],
         "ipa": "/ˈdʒestʃə(r)d/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "getaway",
@@ -12420,6 +13410,9 @@
         ],
         "ipa": "/ˈɡetəweɪz/"
       }
+    ],
+    "synonyms": [
+      "escape"
     ]
   },
   {
@@ -12455,7 +13448,8 @@
         ],
         "ipa": "/ˈɡetəʊz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "glee",
@@ -12475,6 +13469,9 @@
         "example": "He watched his rival's defeat with obvious glee.",
         "exampleVi": "Anh ấy nhìn đối thủ thất bại với vẻ hả hê rõ rệt."
       }
+    ],
+    "synonyms": [
+      "delight"
     ]
   },
   {
@@ -12495,6 +13492,9 @@
         "example": "Considered globally, the plan is stronger than its individual parts suggest.",
         "exampleVi": "Xét trên tổng thể, kế hoạch vững hơn những gì các phần riêng lẻ cho thấy."
       }
+    ],
+    "synonyms": [
+      "worldwide"
     ]
   },
   {
@@ -12530,7 +13530,8 @@
         ],
         "ipa": "/ɡləʊz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "golden",
@@ -12556,7 +13557,8 @@
         "example": "The town enjoyed a golden age of trade and prosperity.",
         "exampleVi": "Thị trấn này đã trải qua một kỷ nguyên hoàng kim với sự phát triển và thịnh vượng trong hoạt động thương mại."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "goodwill",
@@ -12576,6 +13578,9 @@
         "example": "The purchase price includes goodwill associated with the brand.",
         "exampleVi": "Giá mua gồm lợi thế thương mại gắn với thương hiệu."
       }
+    ],
+    "synonyms": [
+      "benevolence"
     ]
   },
   {
@@ -12622,6 +13627,9 @@
         ],
         "ipa": "/ɡɔːdʒd/"
       }
+    ],
+    "synonyms": [
+      "ravine"
     ]
   },
   {
@@ -12684,6 +13692,9 @@
         ],
         "ipa": "/ˈɡɒsɪpt/"
       }
+    ],
+    "synonyms": [
+      "chat"
     ]
   },
   {
@@ -12730,6 +13741,9 @@
         ],
         "ipa": "/ɡræbd/"
       }
+    ],
+    "synonyms": [
+      "seize"
     ]
   },
   {
@@ -12756,6 +13770,9 @@
         "example": "He made a grand gesture by offering to pay everyone's expenses.",
         "exampleVi": "Anh ấy đã thể hiện sự hào phóng của mình bằng cách sẵn lòng chi trả toàn bộ chi phí cho mọi người."
       }
+    ],
+    "synonyms": [
+      "magnificent"
     ]
   },
   {
@@ -12785,6 +13802,9 @@
         ],
         "ipa": "/ˈɡræfɪks/"
       }
+    ],
+    "synonyms": [
+      "illustration"
     ]
   },
   {
@@ -12811,6 +13831,9 @@
         "example": "The cartoonist used grim humour to describe the political crisis.",
         "exampleVi": "Họa sĩ biếm họa dùng giọng hài hước đen tối để mô tả khủng hoảng chính trị."
       }
+    ],
+    "synonyms": [
+      "resolute"
     ]
   },
   {
@@ -12857,7 +13880,8 @@
         ],
         "ipa": "/ɡrɪnd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "grip",
@@ -12892,6 +13916,9 @@
         ],
         "ipa": "/ɡrɪps/"
       }
+    ],
+    "synonyms": [
+      "hold"
     ]
   },
   {
@@ -12921,7 +13948,8 @@
         ],
         "ipa": "/ˈɡrəʊsəriz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "gross",
@@ -12947,6 +13975,9 @@
         "example": "The old portrait shows a gross figure squeezed into a narrow chair.",
         "exampleVi": "Bức chân dung cũ cho thấy một dáng người phì nộn chen trong chiếc ghế hẹp."
       }
+    ],
+    "synonyms": [
+      "total"
     ]
   },
   {
@@ -12993,6 +14024,9 @@
         ],
         "ipa": "/ɡʌmd/"
       }
+    ],
+    "synonyms": [
+      "gingiva"
     ]
   },
   {
@@ -13040,6 +14074,9 @@
         "example": "They hailed for the bus to stop.",
         "exampleVi": "Họ báo cho xe buýt dừng lại."
       }
+    ],
+    "synonyms": [
+      "call"
     ]
   },
   {
@@ -13060,6 +14097,9 @@
         "example": "Driving down that steep road in the fog was a hairy experience.",
         "exampleVi": "Lái xe xuống con đường dốc trong sương mù là một trải nghiệm nguy hiểm."
       }
+    ],
+    "synonyms": [
+      "hirsute"
     ]
   },
   {
@@ -13105,7 +14145,8 @@
         ],
         "ipa": "/ˈhæmə(r)d/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "handicap",
@@ -13140,6 +14181,9 @@
         ],
         "ipa": "/ˈhændikæps/"
       }
+    ],
+    "synonyms": [
+      "disability"
     ]
   },
   {
@@ -13169,6 +14213,9 @@
         ],
         "ipa": "/ˈhɑːbəz/"
       }
+    ],
+    "synonyms": [
+      "harbor"
     ]
   },
   {
@@ -13220,7 +14267,8 @@
         ],
         "ipa": "/hɔːntɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "hay",
@@ -13265,7 +14313,8 @@
         ],
         "ipa": "/heɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "heal",
@@ -13310,6 +14359,9 @@
         ],
         "ipa": "/hiːld/"
       }
+    ],
+    "synonyms": [
+      "cure"
     ]
   },
   {
@@ -13356,6 +14408,9 @@
         ],
         "ipa": "/hiːpt/"
       }
+    ],
+    "synonyms": [
+      "pile"
     ]
   },
   {
@@ -13385,6 +14440,9 @@
         ],
         "ipa": "/ˈhevnz/"
       }
+    ],
+    "synonyms": [
+      "sky"
     ]
   },
   {
@@ -13420,7 +14478,8 @@
         ],
         "ipa": "/hedʒɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "heel",
@@ -13449,7 +14508,8 @@
         ],
         "ipa": "/hiːlz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "herb",
@@ -13471,7 +14531,8 @@
         ],
         "ipa": "/hɜːbz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "hesitation",
@@ -13493,6 +14554,9 @@
         ],
         "ipa": "/ˌhezɪˈteɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "indecision"
     ]
   },
   {
@@ -13528,6 +14592,9 @@
         ],
         "ipa": "/hɪnts/"
       }
+    ],
+    "synonyms": [
+      "clue"
     ]
   },
   {
@@ -13557,7 +14624,8 @@
         ],
         "ipa": "/hɪps/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "holder",
@@ -13592,7 +14660,8 @@
         ],
         "ipa": "/ˈhəʊldə(r)z/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "hollow",
@@ -13621,6 +14690,9 @@
         ],
         "ipa": "/ˈhɒləʊz/"
       }
+    ],
+    "synonyms": [
+      "empty"
     ]
   },
   {
@@ -13650,6 +14722,9 @@
         ],
         "ipa": "/ˈhɒləkɔːsts/"
       }
+    ],
+    "synonyms": [
+      "massacre"
     ]
   },
   {
@@ -13670,6 +14745,9 @@
         "example": "Holy smoke, that was a close escape!",
         "exampleVi": "Chúa ơi, thật là may mắn khi thoát khỏi tình huống nguy hiểm đó!"
       }
+    ],
+    "synonyms": [
+      "sacred"
     ]
   },
   {
@@ -13721,6 +14799,9 @@
         ],
         "ipa": "/ˈɑːnɜːd/"
       }
+    ],
+    "synonyms": [
+      "honour"
     ]
   },
   {
@@ -13741,6 +14822,9 @@
         "example": "She made the honourable choice to admit her mistake.",
         "exampleVi": "Cô ấy đã đưa ra quyết định đáng trân trọng, chấp nhận lỗi lầm của mình."
       }
+    ],
+    "synonyms": [
+      "honorable"
     ]
   },
   {
@@ -13787,6 +14871,9 @@
         ],
         "ipa": "/hʊdɪd/"
       }
+    ],
+    "synonyms": [
+      "bonnet"
     ]
   },
   {
@@ -13807,7 +14894,8 @@
         "example": "The contract specifies an hourly rate of pay.",
         "exampleVi": "Hợp đồng quy định mức lương theo giờ."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "housing",
@@ -13842,6 +14930,9 @@
         ],
         "ipa": "/ˈhaʊzɪŋz/"
       }
+    ],
+    "synonyms": [
+      "accommodation"
     ]
   },
   {
@@ -13855,7 +14946,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "compassionate"
+    ]
   },
   {
     "word": "humble",
@@ -13900,6 +14994,9 @@
         ],
         "ipa": "/ˈhʌmbld/"
       }
+    ],
+    "synonyms": [
+      "modest"
     ]
   },
   {
@@ -13945,6 +15042,9 @@
         ],
         "ipa": "/ˈhjuːmə(r)d/"
       }
+    ],
+    "synonyms": [
+      "humor"
     ]
   },
   {
@@ -13971,7 +15071,8 @@
         "example": "The family relied on hunting for food during the winter.",
         "exampleVi": "Vào mùa đông, gia đình phải dựa vào việc săn bắn để kiếm thức ăn."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "hush",
@@ -14016,6 +15117,9 @@
         ],
         "ipa": "/hʌʃt/"
       }
+    ],
+    "synonyms": [
+      "silence"
     ]
   },
   {
@@ -14051,6 +15155,9 @@
         ],
         "ipa": "/ˈaɪkɒnz/"
       }
+    ],
+    "synonyms": [
+      "symbol"
     ]
   },
   {
@@ -14077,6 +15184,9 @@
         "example": "She gave him an icy stare and walked away.",
         "exampleVi": "Cô ấy nhìn anh ta với ánh mắt lạnh lùng rồi bước đi."
       }
+    ],
+    "synonyms": [
+      "frozen"
     ]
   },
   {
@@ -14103,6 +15213,9 @@
         "example": "Positive identification of the missing person brought relief to the family.",
         "exampleVi": "Việc nhận dạng chắc chắn người mất tích khiến gia đình nhẹ nhõm."
       }
+    ],
+    "synonyms": [
+      "ID"
     ]
   },
   {
@@ -14132,6 +15245,9 @@
         ],
         "ipa": "/ˌɪləˈstreɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "drawing"
     ]
   },
   {
@@ -14154,6 +15270,9 @@
         ],
         "ipa": "/ˌɪmɪˈteɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "copy"
     ]
   },
   {
@@ -14174,6 +15293,9 @@
         "example": "The poet's immortal lines are still quoted today.",
         "exampleVi": "Những câu thơ bất hủ của nhà thơ vẫn được trích dẫn đến ngày nay."
       }
+    ],
+    "synonyms": [
+      "undying"
     ]
   },
   {
@@ -14187,7 +15309,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "restless"
+    ]
   },
   {
     "word": "imperative",
@@ -14216,6 +15341,9 @@
         ],
         "ipa": "/ɪmˈperətɪvz/"
       }
+    ],
+    "synonyms": [
+      "necessity"
     ]
   },
   {
@@ -14245,7 +15373,8 @@
         ],
         "ipa": "/ˌɪmplɪˈkeɪʃnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "improved",
@@ -14271,6 +15400,9 @@
         "example": "The improved land can now support crops throughout the year.",
         "exampleVi": "Mảnh đất đã cải tạo giờ có thể trồng trọt quanh năm."
       }
+    ],
+    "synonyms": [
+      "enhanced"
     ]
   },
   {
@@ -14306,6 +15438,9 @@
         ],
         "ipa": "/ˈɪmpʌlsɪz/"
       }
+    ],
+    "synonyms": [
+      "urge"
     ]
   },
   {
@@ -14326,6 +15461,9 @@
         "example": "The food supplies are inadequate for so many people.",
         "exampleVi": "Lượng thực phẩm không đủ cho nhiều người như vậy."
       }
+    ],
+    "synonyms": [
+      "insufficient"
     ]
   },
   {
@@ -14372,7 +15510,8 @@
         ],
         "ipa": "/ɪntʃt/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "independently",
@@ -14392,6 +15531,9 @@
         "example": "The two teams reached the same conclusion independently.",
         "exampleVi": "Hai đội đã đi đến cùng một kết luận một cách độc lập."
       }
+    ],
+    "synonyms": [
+      "autonomously"
     ]
   },
   {
@@ -14427,6 +15569,9 @@
         ],
         "ipa": "/ˌɪndɪˈkeɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "sign"
     ]
   },
   {
@@ -14462,7 +15607,8 @@
         ],
         "ipa": "/ˈɪndɪkeɪtə(r)z/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "indifferent",
@@ -14475,7 +15621,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "apathetic"
+    ]
   },
   {
     "word": "indulge",
@@ -14526,6 +15675,9 @@
         ],
         "ipa": "/ɪnˈdʌldʒd/"
       }
+    ],
+    "synonyms": [
+      "pamper"
     ]
   },
   {
@@ -14539,7 +15691,8 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": []
   },
   {
     "word": "ineffective",
@@ -14565,6 +15718,9 @@
         "example": "An ineffective manager can leave an entire team confused.",
         "exampleVi": "Một nhà quản lý kém hiệu quả có thể khiến cả một đội ngũ trở nên rối loạn."
       }
+    ],
+    "synonyms": [
+      "ineffectual"
     ]
   },
   {
@@ -14585,7 +15741,8 @@
         "example": "His inflammatory speech increased tension between the groups.",
         "exampleVi": "Bài phát biểu kích động của anh ấy làm căng thẳng giữa các nhóm tăng lên."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "infringement",
@@ -14614,6 +15771,9 @@
         ],
         "ipa": "/ɪnˈfrɪndʒmənts/"
       }
+    ],
+    "synonyms": [
+      "violation"
     ]
   },
   {
@@ -14659,7 +15819,8 @@
         ],
         "ipa": "/ɪŋkt/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "inner",
@@ -14685,6 +15846,9 @@
         "example": "She wrote about her inner fears in a private diary.",
         "exampleVi": "Cô ấy ghi lại những nỗi sợ hãi trong lòng mình trong một cuốn nhật ký riêng."
       }
+    ],
+    "synonyms": [
+      "interior"
     ]
   },
   {
@@ -14698,7 +15862,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "inventive"
+    ]
   },
   {
     "word": "installation",
@@ -14733,7 +15900,8 @@
         ],
         "ipa": "/ˌɪnstəˈleɪʃnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "instinct",
@@ -14762,7 +15930,8 @@
         ],
         "ipa": "/ˈɪnstɪŋkts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "institution",
@@ -14791,7 +15960,8 @@
         ],
         "ipa": "/ˌɪnstɪˈtjuːʃnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "insult",
@@ -14838,6 +16008,9 @@
         ],
         "ipa": "/ɪnˈsʌltɪd/"
       }
+    ],
+    "synonyms": [
+      "slur"
     ]
   },
   {
@@ -14858,7 +16031,8 @@
         "example": "Chess provides intellectual stimulation as well as entertainment.",
         "exampleVi": "Cờ vua không chỉ mang lại niềm thú vui, mà còn là hoạt động góp phần kích thích trí tuệ của con người."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "intended",
@@ -14878,6 +16052,9 @@
         "example": "The bride introduced her intended husband to the guests.",
         "exampleVi": "Cô dâu giới thiệu người chồng tương lai của mình với các vị khách."
       }
+    ],
+    "synonyms": [
+      "deliberate"
     ]
   },
   {
@@ -14907,6 +16084,9 @@
         ],
         "ipa": "/ɪnˈtents/"
       }
+    ],
+    "synonyms": [
+      "absorbed"
     ]
   },
   {
@@ -14929,7 +16109,8 @@
         ],
         "ipa": "/ˌɪntərˈækʃnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "interactive",
@@ -14942,7 +16123,8 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": []
   },
   {
     "word": "interfere",
@@ -14987,6 +16169,9 @@
         ],
         "ipa": "/ˌɪntəˈfɪə(r)d/"
       }
+    ],
+    "synonyms": [
+      "meddle"
     ]
   },
   {
@@ -15016,7 +16201,8 @@
         ],
         "ipa": "/ɪnˈtɪəriə(r)z/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "interpretation",
@@ -15051,6 +16237,9 @@
         ],
         "ipa": "/ɪnˌtɜːprɪˈteɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "explanation"
     ]
   },
   {
@@ -15073,6 +16262,9 @@
         ],
         "ipa": "/ˌɪntəˈrʌpʃnz/"
       }
+    ],
+    "synonyms": [
+      "disruption"
     ]
   },
   {
@@ -15099,6 +16291,9 @@
         "example": "The small restaurant has an intimate atmosphere.",
         "exampleVi": "Quán ăn nhỏ này có không gian ấm cúng và dễ chịu."
       }
+    ],
+    "synonyms": [
+      "close"
     ]
   },
   {
@@ -15121,6 +16316,9 @@
         ],
         "ipa": "/ɪnˈtruːʒnz/"
       }
+    ],
+    "synonyms": [
+      "incursion"
     ]
   },
   {
@@ -15147,6 +16345,9 @@
         "example": "Her involvement in local politics grew after the election.",
         "exampleVi": "Sự tham gia của cô vào chính trị địa phương ngày càng gia tăng sau cuộc bầu cử."
       }
+    ],
+    "synonyms": [
+      "participation"
     ]
   },
   {
@@ -15167,6 +16368,9 @@
         "example": "The square root of two is an irrational number.",
         "exampleVi": "Căn bậc hai của hai là một số vô tỉ."
       }
+    ],
+    "synonyms": [
+      "unreasonable"
     ]
   },
   {
@@ -15202,6 +16406,9 @@
         ],
         "ipa": "/ˌɪrɪˈteɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "annoyance"
     ]
   },
   {
@@ -15228,6 +16435,9 @@
         "example": "The isolated patient stayed in a separate hospital room.",
         "exampleVi": "Bệnh nhân bị cách ly được chăm sóc trong một phòng bệnh riêng biệt."
       }
+    ],
+    "synonyms": [
+      "secluded"
     ]
   },
   {
@@ -15274,6 +16484,9 @@
         ],
         "ipa": "/dʒeɪld/"
       }
+    ],
+    "synonyms": [
+      "prison"
     ]
   },
   {
@@ -15320,7 +16533,8 @@
         ],
         "ipa": "/dʒɔːd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "jet",
@@ -15366,6 +16580,9 @@
         ],
         "ipa": "/dʒetɪd/"
       }
+    ],
+    "synonyms": [
+      "jet aircraft"
     ]
   },
   {
@@ -15392,6 +16609,9 @@
         "example": "The president addressed a joint session of both houses of parliament.",
         "exampleVi": "Tổng thống đã có bài phát biểu tại phiên họp chung của cả hai viện quốc hội."
       }
+    ],
+    "synonyms": [
+      "shared"
     ]
   },
   {
@@ -15421,6 +16641,9 @@
         ],
         "ipa": "/dʒɔɪz/"
       }
+    ],
+    "synonyms": [
+      "delight"
     ]
   },
   {
@@ -15456,6 +16679,9 @@
         ],
         "ipa": "/ˈdʒʌdʒmənts/"
       }
+    ],
+    "synonyms": [
+      "judgment"
     ]
   },
   {
@@ -15482,7 +16708,8 @@
         "example": "The sports centre offers a junior swimming programme.",
         "exampleVi": "Trung tâm thể thao cung cấp chương trình bơi lội dành cho trẻ em."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "justice",
@@ -15517,6 +16744,9 @@
         ],
         "ipa": "/ˈdʒʌstɪsɪz/"
       }
+    ],
+    "synonyms": [
+      "fairness"
     ]
   },
   {
@@ -15546,6 +16776,9 @@
         ],
         "ipa": "/ˈkiːpə(r)z/"
       }
+    ],
+    "synonyms": [
+      "custodian"
     ]
   },
   {
@@ -15581,6 +16814,9 @@
         ],
         "ipa": "/kɪts/"
       }
+    ],
+    "synonyms": [
+      "set"
     ]
   },
   {
@@ -15627,7 +16863,8 @@
         ],
         "ipa": "/nɒtɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "ladder",
@@ -15673,7 +16910,8 @@
         ],
         "ipa": "/ˈlædɜːd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "lame",
@@ -15693,6 +16931,9 @@
         "example": "The lame horse moved slowly across the field.",
         "exampleVi": "Con ngựa què di chuyển chậm trên đồng."
       }
+    ],
+    "synonyms": [
+      "weak"
     ]
   },
   {
@@ -15728,6 +16969,9 @@
         ],
         "ipa": "/lɑːnsɪz/"
       }
+    ],
+    "synonyms": [
+      "spear"
     ]
   },
   {
@@ -15763,6 +17007,9 @@
         ],
         "ipa": "/leɪnz/"
       }
+    ],
+    "synonyms": [
+      "alley"
     ]
   },
   {
@@ -15798,7 +17045,8 @@
         ],
         "ipa": "/læps/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "largely",
@@ -15818,6 +17066,9 @@
         "example": "The charity invested largely in local education.",
         "exampleVi": "Tổ chức từ thiện đầu tư quy mô lớn vào giáo dục địa phương."
       }
+    ],
+    "synonyms": [
+      "mainly"
     ]
   },
   {
@@ -15838,7 +17089,8 @@
         "example": "In his latter years, he spent more time painting.",
         "exampleVi": "Trong những năm cuối đời, ông dành nhiều thời gian hơn cho hội họa."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "laundry",
@@ -15873,7 +17125,8 @@
         ],
         "ipa": "/ˈlɔːndriz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "league",
@@ -15908,7 +17161,8 @@
         ],
         "ipa": "/liːɡz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "lean",
@@ -15967,6 +17221,9 @@
         ],
         "ipa": "/ˈɫiənt/"
       }
+    ],
+    "synonyms": [
+      "tilt"
     ]
   },
   {
@@ -16002,7 +17259,8 @@
         ],
         "ipa": "/liːsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "leash",
@@ -16037,6 +17295,9 @@
         ],
         "ipa": "/liːʃɪz/"
       }
+    ],
+    "synonyms": [
+      "lead"
     ]
   },
   {
@@ -16057,7 +17318,8 @@
         "example": "His legendary generosity is remembered throughout the town.",
         "exampleVi": "Sự hào phóng nổi tiếng của ông được cả thị trấn ghi nhớ."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "legislative",
@@ -16077,7 +17339,8 @@
         "example": "The agency must work within its legislative authority.",
         "exampleVi": "Cơ quan này phải hoạt động trong phạm vi quyền hạn được quy định bởi luật pháp."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "limb",
@@ -16106,7 +17369,8 @@
         ],
         "ipa": "/lɪmz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "limitation",
@@ -16135,6 +17399,9 @@
         ],
         "ipa": "/ˌlɪmɪˈteɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "restriction"
     ]
   },
   {
@@ -16155,6 +17422,9 @@
         "example": "The business is registered as a limited company.",
         "exampleVi": "Doanh nghiệp này được đăng ký dưới dạng công ty trách nhiệm hữu hạn."
       }
+    ],
+    "synonyms": [
+      "restricted"
     ]
   },
   {
@@ -16190,7 +17460,8 @@
         ],
         "ipa": "/ˈlaɪnə(r)z/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "ling",
@@ -16225,6 +17496,9 @@
         ],
         "ipa": "/lɪŋ/"
       }
+    ],
+    "synonyms": [
+      "heather"
     ]
   },
   {
@@ -16254,6 +17528,9 @@
         ],
         "ipa": "/ˈlɪtərəlz/"
       }
+    ],
+    "synonyms": [
+      "word-for-word"
     ]
   },
   {
@@ -16274,6 +17551,9 @@
         "example": "I literally had no money left after paying the rent.",
         "exampleVi": "Tôi thực sự không còn tiền sau khi trả tiền thuê nhà."
       }
+    ],
+    "synonyms": [
+      "word for word"
     ]
   },
   {
@@ -16294,7 +17574,8 @@
         "example": "Her literary style made even an ordinary letter sound poetic.",
         "exampleVi": "Phong cách viết văn của cô khiến ngay cả những bức thư bình thường cũng trở nên có vẻ thơ mộng."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "litter",
@@ -16329,7 +17610,8 @@
         ],
         "ipa": "/ˈlɪtə(r)z/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "lively",
@@ -16355,6 +17637,9 @@
         "example": "The lively puppy ran around the garden all afternoon.",
         "exampleVi": "Chú chó con hoạt bát chạy quanh vườn suốt chiều."
       }
+    ],
+    "synonyms": [
+      "animated"
     ]
   },
   {
@@ -16401,6 +17686,9 @@
         ],
         "ipa": "/ˈloʊdɪd/"
       }
+    ],
+    "synonyms": [
+      "burden"
     ]
   },
   {
@@ -16447,6 +17735,9 @@
         ],
         "ipa": "/ˈlɒbid/"
       }
+    ],
+    "synonyms": [
+      "foyer"
     ]
   },
   {
@@ -16460,7 +17751,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "rational"
+    ]
   },
   {
     "word": "long-distance",
@@ -16480,7 +17774,8 @@
         "example": "The hotel charges extra for a long-distance call.",
         "exampleVi": "Khách sạn tính phí thêm cho các cuộc gọi đi xa."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "loose",
@@ -16525,7 +17820,8 @@
         ],
         "ipa": "/luːst/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "lord",
@@ -16560,7 +17856,8 @@
         ],
         "ipa": "/lɔːdz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "lower",
@@ -16605,6 +17902,9 @@
         ],
         "ipa": "/ˈləʊə(r)d/"
       }
+    ],
+    "synonyms": [
+      "drop"
     ]
   },
   {
@@ -16631,6 +17931,9 @@
         "example": "The film has a lush visual style with rich colours and elaborate sets.",
         "exampleVi": "Bộ phim có hình ảnh xa hoa với màu sắc phong phú và bối cảnh cầu kỳ."
       }
+    ],
+    "synonyms": [
+      "luxuriant"
     ]
   },
   {
@@ -16660,6 +17963,9 @@
         ],
         "ipa": "/ˈlɪrɪks/"
       }
+    ],
+    "synonyms": [
+      "song text"
     ]
   },
   {
@@ -16680,6 +17986,9 @@
         "example": "In a moment of madness, he smashed the chair against the wall.",
         "exampleVi": "Trong cơn điên loạn, anh ta đập chiếc ghế vào tường."
       }
+    ],
+    "synonyms": [
+      "insanity"
     ]
   },
   {
@@ -16715,6 +18024,9 @@
         ],
         "ipa": "/ˈmeɪkˈəps/"
       }
+    ],
+    "synonyms": [
+      "cosmetics"
     ]
   },
   {
@@ -16741,6 +18053,9 @@
         "example": "The cupboard contains the makings for a simple meal.",
         "exampleVi": "Tủ có nguyên liệu đủ cho một bữa ăn đơn giản."
       }
+    ],
+    "synonyms": [
+      "production"
     ]
   },
   {
@@ -16770,6 +18085,9 @@
         ],
         "ipa": "/ˈmɑməz/"
       }
+    ],
+    "synonyms": [
+      "mom"
     ]
   },
   {
@@ -16790,6 +18108,9 @@
         "example": "His martial spirit made him eager to fight.",
         "exampleVi": "Tinh thần hiếu chiến khiến anh ấy háo hức chiến đấu."
       }
+    ],
+    "synonyms": [
+      "military"
     ]
   },
   {
@@ -16836,7 +18157,8 @@
         ],
         "ipa": "/mɑːskt/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "mass",
@@ -16865,7 +18187,8 @@
         ],
         "ipa": "/mæsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "massage",
@@ -16911,7 +18234,8 @@
         ],
         "ipa": "/məˈsɑː(d)ʒd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "massive",
@@ -16924,7 +18248,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "huge"
+    ]
   },
   {
     "word": "master",
@@ -16959,6 +18286,9 @@
         ],
         "ipa": "/ˈmɑːstə(r)z/"
       }
+    ],
+    "synonyms": [
+      "expert"
     ]
   },
   {
@@ -16985,6 +18315,9 @@
         "example": "She gradually gained mastery over her fear of public speaking.",
         "exampleVi": "Cô ấy dần chế ngự nỗi sợ nói trước công chúng."
       }
+    ],
+    "synonyms": [
+      "proficiency"
     ]
   },
   {
@@ -16998,7 +18331,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "corresponding"
+    ]
   },
   {
     "word": "mate",
@@ -17033,6 +18369,9 @@
         ],
         "ipa": "/meɪts/"
       }
+    ],
+    "synonyms": [
+      "deck officer"
     ]
   },
   {
@@ -17059,7 +18398,8 @@
         "example": "The proof establishes the result with mathematical certainty.",
         "exampleVi": "Bằng chứng này xác nhận kết quả một cách chắc chắn về mặt toán học."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "maximum",
@@ -17072,7 +18412,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "highest"
+    ]
   },
   {
     "word": "means",
@@ -17101,6 +18444,9 @@
         ],
         "ipa": "/miːnz/"
       }
+    ],
+    "synonyms": [
+      "method"
     ]
   },
   {
@@ -17123,7 +18469,8 @@
         ],
         "ipa": "/məˈkænɪks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "mechanical",
@@ -17149,7 +18496,8 @@
         "example": "The lesson explains the mechanical forces acting on the bridge.",
         "exampleVi": "Bài học này giải thích về các lực cơ học tác động lên cây cầu."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "melt",
@@ -17194,6 +18542,9 @@
         ],
         "ipa": "/meltɪd/"
       }
+    ],
+    "synonyms": [
+      "liquefy"
     ]
   },
   {
@@ -17229,6 +18580,9 @@
         ],
         "ipa": "/məˈmɔːriəlz/"
       }
+    ],
+    "synonyms": [
+      "monument"
     ]
   },
   {
@@ -17275,6 +18629,9 @@
         ],
         "ipa": "/ˈmɜː.tʃən.daɪzd/"
       }
+    ],
+    "synonyms": [
+      "goods"
     ]
   },
   {
@@ -17321,7 +18678,8 @@
         ],
         "ipa": "/ˈmaɪkrəʊˌweɪvd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "mighty",
@@ -17341,6 +18699,9 @@
         "example": "That was mighty kind of you to help.",
         "exampleVi": "Bạn thật tử tế khi đã giúp đỡ tôi."
       }
+    ],
+    "synonyms": [
+      "powerful"
     ]
   },
   {
@@ -17387,7 +18748,8 @@
         ],
         "ipa": "/mɪld/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "mimic",
@@ -17416,7 +18778,8 @@
         ],
         "ipa": "/ˈmɪmɪks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "miniature",
@@ -17445,6 +18808,9 @@
         ],
         "ipa": "/ˈmɪnətʃə(r)z/"
       }
+    ],
+    "synonyms": [
+      "tiny"
     ]
   },
   {
@@ -17480,7 +18846,8 @@
         ],
         "ipa": "/ˈmɪnɪstə(r)z/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "mint",
@@ -17509,7 +18876,8 @@
         ],
         "ipa": "/mɪnts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "mission",
@@ -17544,6 +18912,9 @@
         ],
         "ipa": "/ˈmɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "assignment"
     ]
   },
   {
@@ -17590,6 +18961,9 @@
         ],
         "ipa": "/mɪstɪd/"
       }
+    ],
+    "synonyms": [
+      "haze"
     ]
   },
   {
@@ -17610,6 +18984,9 @@
         "example": "The city has a mixed population with many cultural backgrounds.",
         "exampleVi": "Thành phố này có dân cư đa dạng, với nhiều nền văn hóa khác nhau."
       }
+    ],
+    "synonyms": [
+      "blended"
     ]
   },
   {
@@ -17656,6 +19033,9 @@
         ],
         "ipa": "/məʊldɪd/"
       }
+    ],
+    "synonyms": [
+      "mould"
     ]
   },
   {
@@ -17676,6 +19056,9 @@
         "example": "He was moody all evening and barely spoke to anyone.",
         "exampleVi": "Cả buổi tối hắn đều có tâm trạng không ổn, gần như không nói chuyện với ai cả."
       }
+    ],
+    "synonyms": [
+      "temperamental"
     ]
   },
   {
@@ -17721,7 +19104,8 @@
         ],
         "ipa": "/ˈmuːnlaɪtɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "moral",
@@ -17741,6 +19125,9 @@
         "example": "His friends offered moral support during the difficult trial.",
         "exampleVi": "Bạn bè của anh ấy đã cung cấp sự hỗ trợ tinh thần trong những giai đoạn khó khăn của quá trình xét xử."
       }
+    ],
+    "synonyms": [
+      "ethical"
     ]
   },
   {
@@ -17754,7 +19141,8 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": []
   },
   {
     "word": "mortal",
@@ -17783,7 +19171,8 @@
         ],
         "ipa": "/ˈmɔːtlz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "motion",
@@ -17829,6 +19218,9 @@
         ],
         "ipa": "/ˈməʊʃnd/"
       }
+    ],
+    "synonyms": [
+      "movement"
     ]
   },
   {
@@ -17875,6 +19267,9 @@
         ],
         "ipa": "/ˈməʊtə(r)d/"
       }
+    ],
+    "synonyms": [
+      "engine"
     ]
   },
   {
@@ -17926,6 +19321,9 @@
         ],
         "ipa": "/maʊntɪd/"
       }
+    ],
+    "synonyms": [
+      "install"
     ]
   },
   {
@@ -17952,7 +19350,8 @@
         "example": "The museum shows early experiments with moving pictures.",
         "exampleVi": "Bảo tàng trưng bày những thí nghiệm sơ khai liên quan đến hình ảnh chuyển động."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "muddy",
@@ -17997,7 +19396,8 @@
         ],
         "ipa": "/ˈmʌdid/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "multiple",
@@ -18026,6 +19426,9 @@
         ],
         "ipa": "/ˈmʌltɪplz/"
       }
+    ],
+    "synonyms": [
+      "numerous"
     ]
   },
   {
@@ -18072,7 +19475,8 @@
         ],
         "ipa": "/ˈmʌl.tɪ.plaɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "muse",
@@ -18118,6 +19522,9 @@
         ],
         "ipa": "/mjuːzd/"
       }
+    ],
+    "synonyms": [
+      "ponder"
     ]
   },
   {
@@ -18144,6 +19551,9 @@
         "example": "He was told to stop making nasty jokes at work.",
         "exampleVi": "Anh ta được yêu cầu không được còn đùa cợt tục trong nơi làm việc nữa."
       }
+    ],
+    "synonyms": [
+      "unpleasant"
     ]
   },
   {
@@ -18164,7 +19574,8 @@
         "example": "The museum displays naval equipment from nineteenth-century ships.",
         "exampleVi": "Bảo tàng trưng bày các trang thiết bị hải quân từ các con tàu của thế kỷ 19."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "navigate",
@@ -18215,7 +19626,8 @@
         ],
         "ipa": "/ˈnævɪɡeɪtɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "navigation",
@@ -18235,7 +19647,8 @@
         "example": "The old sailor taught navigation to younger members of the crew.",
         "exampleVi": "Người thủy thủ già dạy cách lái tàu cho các thành viên trẻ trong đoàn thủy thủ."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "neat",
@@ -18255,6 +19668,9 @@
         "example": "She found a neat solution that required no extra equipment.",
         "exampleVi": "Cô ấy đã tìm ra một giải pháp đơn giản, không cần bất kỳ thiết bị phụ nào."
       }
+    ],
+    "synonyms": [
+      "tidy"
     ]
   },
   {
@@ -18275,6 +19691,9 @@
         "example": "The needy child demanded constant reassurance from his parents.",
         "exampleVi": "Đứa trẻ đòi hỏi cha mẹ phải liên tục trấn an mình."
       }
+    ],
+    "synonyms": [
+      "impoverished"
     ]
   },
   {
@@ -18321,7 +19740,8 @@
         ],
         "ipa": "/nɜːvd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "nerves",
@@ -18341,6 +19761,9 @@
         "example": "The pilot kept his nerves steady throughout the emergency landing.",
         "exampleVi": "Phi công đã giữ bình tĩnh trong suốt quá trình hạ cánh khẩn cấp."
       }
+    ],
+    "synonyms": [
+      "anxiety"
     ]
   },
   {
@@ -18370,6 +19793,9 @@
         ],
         "ipa": "/ˈnəʊblz/"
       }
+    ],
+    "synonyms": [
+      "honorable"
     ]
   },
   {
@@ -18416,7 +19842,8 @@
         ],
         "ipa": "/nɒdɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "nomination",
@@ -18445,7 +19872,8 @@
         ],
         "ipa": "/ˌnɒmɪˈneɪʃnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "notebook",
@@ -18474,6 +19902,9 @@
         ],
         "ipa": "/ˈnoʊtˌbʊks/"
       }
+    ],
+    "synonyms": [
+      "exercise book"
     ]
   },
   {
@@ -18487,7 +19918,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "these days"
+    ]
   },
   {
     "word": "nuisance",
@@ -18516,6 +19950,9 @@
         ],
         "ipa": "/ˈnjuːsnsɪz/"
       }
+    ],
+    "synonyms": [
+      "pest"
     ]
   },
   {
@@ -18529,7 +19966,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "numeric"
+    ]
   },
   {
     "word": "nursing",
@@ -18555,7 +19995,8 @@
         "example": "The mother found a quiet place for nursing her baby.",
         "exampleVi": "Người mẹ tìm được một nơi yên tĩnh để cho con bú."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "obey",
@@ -18600,6 +20041,9 @@
         ],
         "ipa": "/əˈbeɪd/"
       }
+    ],
+    "synonyms": [
+      "comply with"
     ]
   },
   {
@@ -18629,6 +20073,9 @@
         ],
         "ipa": "/əbˈzɜːvə(r)z/"
       }
+    ],
+    "synonyms": [
+      "watcher"
     ]
   },
   {
@@ -18658,7 +20105,8 @@
         ],
         "ipa": "/əbˈsesɪvz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "occupation",
@@ -18687,6 +20135,9 @@
         ],
         "ipa": "/ˌɒkjuˈpeɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "profession"
     ]
   },
   {
@@ -18716,6 +20167,9 @@
         ],
         "ipa": "/əˈfensɪvz/"
       }
+    ],
+    "synonyms": [
+      "insulting"
     ]
   },
   {
@@ -18736,7 +20190,8 @@
         "example": "An offshore wind farm supplies electricity to the coastal town.",
         "exampleVi": "Một trang trại điện gió ngoài khơi cung cấp điện cho thị trấn ven biển này."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "opening",
@@ -18771,6 +20226,9 @@
         ],
         "ipa": "/ˈəʊpnɪŋz/"
       }
+    ],
+    "synonyms": [
+      "gap"
     ]
   },
   {
@@ -18800,6 +20258,9 @@
         ],
         "ipa": "/əˈpəʊnənts/"
       }
+    ],
+    "synonyms": [
+      "adversary"
     ]
   },
   {
@@ -18838,6 +20299,9 @@
         ],
         "ipa": "/əˈpəʊzd/"
       }
+    ],
+    "synonyms": [
+      "resist"
     ]
   },
   {
@@ -18858,6 +20322,9 @@
         "example": "The dentist checked her oral health.",
         "exampleVi": "Nha sĩ đã kiểm tra tình trạng sức khỏe răng miệng của cô ấy."
       }
+    ],
+    "synonyms": [
+      "spoken"
     ]
   },
   {
@@ -18893,7 +20360,8 @@
         ],
         "ipa": "/ˌɔːriənˈteɪʃnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "otherwise",
@@ -18913,7 +20381,8 @@
         "example": "He assumed we would agree, but she thought otherwise.",
         "exampleVi": "Anh nghĩ rằng chúng ta sẽ đồng ý, nhưng cô ấy lại không nghĩ như vậy."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "outer",
@@ -18933,6 +20402,9 @@
         "example": "The skin forms the body's outer layer of protection.",
         "exampleVi": "Da là lớp bảo vệ bên ngoài của cơ thể."
       }
+    ],
+    "synonyms": [
+      "external"
     ]
   },
   {
@@ -18968,6 +20440,9 @@
         ],
         "ipa": "/ˈaʊtfɪts/"
       }
+    ],
+    "synonyms": [
+      "ensemble"
     ]
   },
   {
@@ -19003,6 +20478,9 @@
         ],
         "ipa": "/ˈaʊtlets/"
       }
+    ],
+    "synonyms": [
+      "retail store"
     ]
   },
   {
@@ -19055,6 +20533,9 @@
         ],
         "ipa": "/ˈaʊtlaɪnd/"
       }
+    ],
+    "synonyms": [
+      "contour"
     ]
   },
   {
@@ -19090,6 +20571,9 @@
         ],
         "ipa": "/ˈaʊtlʊks/"
       }
+    ],
+    "synonyms": [
+      "perspective"
     ]
   },
   {
@@ -19136,6 +20620,9 @@
         ],
         "ipa": "/ˈaʊtreɪdʒd/"
       }
+    ],
+    "synonyms": [
+      "indignation"
     ]
   },
   {
@@ -19149,7 +20636,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "shocking"
+    ]
   },
   {
     "word": "outstanding",
@@ -19175,6 +20665,9 @@
         "example": "Please settle the outstanding balance by Friday.",
         "exampleVi": "Xin hãy thanh toán số dư còn lại trước ngày thứ Sáu."
       }
+    ],
+    "synonyms": [
+      "exceptional"
     ]
   },
   {
@@ -19204,6 +20697,9 @@
         ],
         "ipa": "/ˈəʊvlz/"
       }
+    ],
+    "synonyms": [
+      "elliptical"
     ]
   },
   {
@@ -19224,7 +20720,8 @@
         "example": "Do not go overboard with the decorations for this small party.",
         "exampleVi": "Đừng quá lạm dụng các loại trang trí trong bữa tiệc nhỏ này."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "overturn",
@@ -19271,6 +20768,9 @@
         "example": "The strong wind overturned the small boat.",
         "exampleVi": "Gió mạnh đã làm lật chiếc thuyền nhỏ."
       }
+    ],
+    "synonyms": [
+      "topple"
     ]
   },
   {
@@ -19291,6 +20791,9 @@
         "example": "Each team member should take ownership of the assigned task.",
         "exampleVi": "Mỗi thành viên trong đội ngũ nên tự chịu trách nhiệm về nhiệm vụ được giao."
       }
+    ],
+    "synonyms": [
+      "possession"
     ]
   },
   {
@@ -19326,6 +20829,9 @@
         ],
         "ipa": "/peɪsɪz/"
       }
+    ],
+    "synonyms": [
+      "tempo"
     ]
   },
   {
@@ -19346,6 +20852,9 @@
         "example": "The tightly packed soil made planting difficult.",
         "exampleVi": "Đất nén chặt khiến việc trồng cây khó khăn."
       }
+    ],
+    "synonyms": [
+      "crowded"
     ]
   },
   {
@@ -19381,6 +20890,9 @@
         ],
         "ipa": "/pædz/"
       }
+    ],
+    "synonyms": [
+      "notepad"
     ]
   },
   {
@@ -19427,7 +20939,8 @@
         ],
         "ipa": "/ˈpɑːmd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "panic",
@@ -19473,6 +20986,9 @@
         ],
         "ipa": "/ˈpænɪkt/"
       }
+    ],
+    "synonyms": [
+      "terror"
     ]
   },
   {
@@ -19502,6 +21018,9 @@
         ],
         "ipa": "/pəˈreɪdz/"
       }
+    ],
+    "synonyms": [
+      "procession"
     ]
   },
   {
@@ -19531,7 +21050,8 @@
         ],
         "ipa": "/ˈpɑːtɪklz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "partisan",
@@ -19566,6 +21086,9 @@
         ],
         "ipa": "/ˌpɑːtɪˈzænz/"
       }
+    ],
+    "synonyms": [
+      "adherent"
     ]
   },
   {
@@ -19601,6 +21124,9 @@
         ],
         "ipa": "/ˈpæsɪdʒɪz/"
       }
+    ],
+    "synonyms": [
+      "corridor"
     ]
   },
   {
@@ -19623,6 +21149,9 @@
         ],
         "ipa": "/ˈpɑːstə(r)z/"
       }
+    ],
+    "synonyms": [
+      "minister"
     ]
   },
   {
@@ -19643,7 +21172,8 @@
         "example": "The priest received training in pastoral care.",
         "exampleVi": "Linh mục được đào tạo về chăm sóc mục vụ."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "patience",
@@ -19663,6 +21193,9 @@
         "example": "She played patience with a pack of cards while waiting.",
         "exampleVi": "Cô ấy chơi bài xếp một người trong lúc chờ."
       }
+    ],
+    "synonyms": [
+      "forbearance"
     ]
   },
   {
@@ -19698,6 +21231,9 @@
         ],
         "ipa": "/ˈpeɪtrənz/"
       }
+    ],
+    "synonyms": [
+      "regular customer"
     ]
   },
   {
@@ -19744,6 +21280,9 @@
         ],
         "ipa": "/ˈpɔzd/"
       }
+    ],
+    "synonyms": [
+      "stop briefly"
     ]
   },
   {
@@ -19790,7 +21329,8 @@
         ],
         "ipa": "/pɔːd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "peach",
@@ -19836,7 +21376,8 @@
         ],
         "ipa": "/piːtʃt/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "pearl",
@@ -19882,7 +21423,8 @@
         ],
         "ipa": "/pɜːld/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "pedal",
@@ -19911,7 +21453,8 @@
         ],
         "ipa": "/ˈpedlz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "peel",
@@ -19957,6 +21500,9 @@
         ],
         "ipa": "/piːld/"
       }
+    ],
+    "synonyms": [
+      "rind"
     ]
   },
   {
@@ -19994,7 +21540,8 @@
         "example": "The old sailor jokingly called his tired legs his pegs.",
         "exampleVi": "Thủy thủ già đùa gọi đôi chân mỏi của mình là pegs."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "penetrate",
@@ -20045,6 +21592,9 @@
         ],
         "ipa": "/ˈpenətreɪtɪd/"
       }
+    ],
+    "synonyms": [
+      "pierce"
     ]
   },
   {
@@ -20065,6 +21615,9 @@
         "example": "Please send your completed form to personnel.",
         "exampleVi": "Xin vui lòng gửi biểu mẫu đã điền đầy đủ cho bộ phận nhân sự."
       }
+    ],
+    "synonyms": [
+      "staff"
     ]
   },
   {
@@ -20094,7 +21647,8 @@
         ],
         "ipa": "/pəˈsweɪʒnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "petty",
@@ -20120,6 +21674,9 @@
         "example": "His petty jealousy damaged their friendship.",
         "exampleVi": "Sự ghen tuông ích kỷ của anh ta đã phá hủy mối quan hệ bạn bè giữa họ."
       }
+    ],
+    "synonyms": [
+      "low-ranking"
     ]
   },
   {
@@ -20142,6 +21699,9 @@
         ],
         "ipa": "/ˈfɑːməsɪsts/"
       }
+    ],
+    "synonyms": [
+      "chemist"
     ]
   },
   {
@@ -20162,7 +21722,8 @@
         "example": "She remained philosophical about the delay and read a book.",
         "exampleVi": "Cô ấy tỏ ra bình tĩnh trước sự chậm trễ này và đọc sách."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "pi",
@@ -20191,7 +21752,8 @@
         ],
         "ipa": "/paɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "pile",
@@ -20226,6 +21788,9 @@
         ],
         "ipa": "/paɪlz/"
       }
+    ],
+    "synonyms": [
+      "heap"
     ]
   },
   {
@@ -20272,7 +21837,8 @@
         ],
         "ipa": "/ˈpɑɪnd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "pint",
@@ -20301,7 +21867,8 @@
         ],
         "ipa": "/paɪnts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "piracy",
@@ -20321,7 +21888,8 @@
         "example": "Software piracy deprives creators of payment for their work.",
         "exampleVi": "Vi phạm bản quyền khiến các nhà sáng tạo không được nhận tiền công cho công sức của mình."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "pirate",
@@ -20367,6 +21935,9 @@
         ],
         "ipa": "/ˈpaɪrətɪd/"
       }
+    ],
+    "synonyms": [
+      "buccaneer"
     ]
   },
   {
@@ -20393,6 +21964,9 @@
         "example": "She felt pity for the frightened animal.",
         "exampleVi": "Cô cảm thấy thương hại cho con vật hoảng sợ đó."
       }
+    ],
+    "synonyms": [
+      "compassion"
     ]
   },
   {
@@ -20428,6 +22002,9 @@
         ],
         "ipa": "/ˈpleɪsmənts/"
       }
+    ],
+    "synonyms": [
+      "positioning"
     ]
   },
   {
@@ -20457,7 +22034,8 @@
         ],
         "ipa": "/pleɪɡz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "plain",
@@ -20483,6 +22061,9 @@
         "example": "She chose a plain blue shirt without a pattern.",
         "exampleVi": "Cô ấy chọn một chiếc áo sơ mi màu xanh đơn giản, không có họa tiết gì cả."
       }
+    ],
+    "synonyms": [
+      "clear"
     ]
   },
   {
@@ -20528,6 +22109,9 @@
         ],
         "ipa": "/pliːdɪd/"
       }
+    ],
+    "synonyms": [
+      "argue a case"
     ]
   },
   {
@@ -20579,6 +22163,9 @@
         ],
         "ipa": "/plʌɡd/"
       }
+    ],
+    "synonyms": [
+      "stop up"
     ]
   },
   {
@@ -20614,7 +22201,8 @@
         ],
         "ipa": "/plʌmz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "plus",
@@ -20643,6 +22231,9 @@
         ],
         "ipa": "/pluːz/"
       }
+    ],
+    "synonyms": [
+      "advantage"
     ]
   },
   {
@@ -20669,6 +22260,9 @@
         "example": "The blunt tool has a pointless tip that cannot pierce the fabric.",
         "exampleVi": "Dụng cụ cùn có đầu không nhọn nên không xuyên được vải."
       }
+    ],
+    "synonyms": [
+      "blunt"
     ]
   },
   {
@@ -20695,7 +22289,8 @@
         "example": "Their opinions on the proposal are polar opposites.",
         "exampleVi": "Quan điểm của họ về đề xuất này hoàn toàn trái ngược nhau."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "polish",
@@ -20721,6 +22316,9 @@
         "example": "Apply a small amount of polish to the leather shoes.",
         "exampleVi": "Bôi một ít xi lên đôi giày da."
       }
+    ],
+    "synonyms": [
+      "luster"
     ]
   },
   {
@@ -20734,7 +22332,8 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": []
   },
   {
     "word": "possessed",
@@ -20754,7 +22353,8 @@
         "example": "He worked like a man possessed until the painting was finished.",
         "exampleVi": "Anh ấy làm việc không ngừng cho đến khi bức tranh được hoàn thành."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "potent",
@@ -20774,6 +22374,9 @@
         "example": "The doctor prescribed a potent painkiller after the operation.",
         "exampleVi": "Sau ca phẫu thuật, bác sĩ đã kê đơn một loại thuốc giảm đau mạnh."
       }
+    ],
+    "synonyms": [
+      "powerful"
     ]
   },
   {
@@ -20794,6 +22397,9 @@
         "example": "We need to think practically about how to transport the equipment.",
         "exampleVi": "Chúng ta cần suy nghĩ một cách thực tế về cách vận chuyển các thiết bị đó."
       }
+    ],
+    "synonyms": [
+      "almost"
     ]
   },
   {
@@ -20814,6 +22420,9 @@
         "example": "There is precious little time left before the train leaves.",
         "exampleVi": "Còn cực kỳ ít thời gian trước khi tàu rời ga."
       }
+    ],
+    "synonyms": [
+      "valuable"
     ]
   },
   {
@@ -20849,7 +22458,8 @@
         ],
         "ipa": "/ˈprefrənsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "prescribe",
@@ -20894,7 +22504,8 @@
         ],
         "ipa": "/prɪˈskraɪbd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "presence",
@@ -20929,6 +22540,9 @@
         ],
         "ipa": "/ˈpreznsɪz/"
       }
+    ],
+    "synonyms": [
+      "attendance"
     ]
   },
   {
@@ -20964,6 +22578,9 @@
         ],
         "ipa": "/prɪˈzentə(r)z/"
       }
+    ],
+    "synonyms": [
+      "speaker"
     ]
   },
   {
@@ -20993,7 +22610,8 @@
         ],
         "ipa": "/ˈprezɪdənsiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "presidential",
@@ -21013,7 +22631,8 @@
         "example": "His calm and dignified manner seemed presidential.",
         "exampleVi": "Thái độ bình tĩnh và đầy uy nghi của anh ta khiến người ta cảm thấy anh ta giống như một vị tổng thống."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "preventive",
@@ -21042,6 +22661,9 @@
         ],
         "ipa": "/prɪˈvɛntɪvz/"
       }
+    ],
+    "synonyms": [
+      "preventative"
     ]
   },
   {
@@ -21088,6 +22710,9 @@
         ],
         "ipa": "/prɪkt/"
       }
+    ],
+    "synonyms": [
+      "pierce"
     ]
   },
   {
@@ -21108,6 +22733,9 @@
         "example": "His pride prevented him from asking for help.",
         "exampleVi": "Sự kiêu hãnh của anh ấy khiến anh ấy không dám xin sự giúp đỡ."
       }
+    ],
+    "synonyms": [
+      "self-respect"
     ]
   },
   {
@@ -21137,6 +22765,9 @@
         ],
         "ipa": "/ˈprɒbəblz/"
       }
+    ],
+    "synonyms": [
+      "likely"
     ]
   },
   {
@@ -21166,6 +22797,9 @@
         ],
         "ipa": "/prəˈsiːdʒə(r)z/"
       }
+    ],
+    "synonyms": [
+      "method"
     ]
   },
   {
@@ -21186,6 +22820,9 @@
         "example": "A progressive tax takes a higher percentage from larger incomes.",
         "exampleVi": "Thuế lũy tiến áp dụng tỷ lệ cao hơn đối với thu nhập lớn hơn."
       }
+    ],
+    "synonyms": [
+      "forward-looking"
     ]
   },
   {
@@ -21221,6 +22858,9 @@
         ],
         "ipa": "/prəˈdʒekʃnz/"
       }
+    ],
+    "synonyms": [
+      "forecast"
     ]
   },
   {
@@ -21256,6 +22896,9 @@
         ],
         "ipa": "/ˈprɒmɪnənsɪz/"
       }
+    ],
+    "synonyms": [
+      "notability"
     ]
   },
   {
@@ -21276,6 +22919,9 @@
         "example": "He is promising to return the borrowed money next week.",
         "exampleVi": "Anh ấy hứa sẽ trả lại số tiền vay vào tuần sau."
       }
+    ],
+    "synonyms": [
+      "encouraging"
     ]
   },
   {
@@ -21322,6 +22968,9 @@
         ],
         "ipa": "/pruːft/"
       }
+    ],
+    "synonyms": [
+      "evidence"
     ]
   },
   {
@@ -21367,6 +23016,9 @@
         ],
         "ipa": "/prəˈpəʊzd/"
       }
+    ],
+    "synonyms": [
+      "suggest"
     ]
   },
   {
@@ -21396,6 +23048,9 @@
         ],
         "ipa": "/ˌprɒpəˈzɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "proposal"
     ]
   },
   {
@@ -21422,6 +23077,9 @@
         "example": "The policy provides protection against the financial cost of theft.",
         "exampleVi": "Hợp đồng bảo hiểm bảo vệ trước thiệt hại tài chính do trộm cắp."
       }
+    ],
+    "synonyms": [
+      "defense"
     ]
   },
   {
@@ -21451,7 +23109,8 @@
         ],
         "ipa": "/ˈprɒvɪnsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "proximity",
@@ -21464,7 +23123,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "nearness"
+    ]
   },
   {
     "word": "psychological",
@@ -21477,7 +23139,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "mental"
+    ]
   },
   {
     "word": "publicity",
@@ -21497,6 +23162,9 @@
         "example": "The trial attracted considerable publicity in the national press.",
         "exampleVi": "Phiên tòa được báo chí cả nước chú ý nhiều."
       }
+    ],
+    "synonyms": [
+      "promotion"
     ]
   },
   {
@@ -21532,7 +23200,8 @@
         ],
         "ipa": "/ˈpʊdɪŋz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "pulse",
@@ -21578,6 +23247,9 @@
         ],
         "ipa": "/pʌlst/"
       }
+    ],
+    "synonyms": [
+      "heartbeat"
     ]
   },
   {
@@ -21613,6 +23285,9 @@
         ],
         "ipa": "/ˈpəŋks/"
       }
+    ],
+    "synonyms": [
+      "hoodlum"
     ]
   },
   {
@@ -21642,6 +23317,9 @@
         ],
         "ipa": "/ˈpjuːplz/"
       }
+    ],
+    "synonyms": [
+      "student"
     ]
   },
   {
@@ -21688,6 +23366,9 @@
         ],
         "ipa": "/ˈpʌzld/"
       }
+    ],
+    "synonyms": [
+      "enigma"
     ]
   },
   {
@@ -21708,6 +23389,9 @@
         "example": "There was a queer noise coming from the empty attic.",
         "exampleVi": "Có một âm thanh kỳ lạ phát ra từ tầng áp mái trống rỗng đó."
       }
+    ],
+    "synonyms": [
+      "gay"
     ]
   },
   {
@@ -21754,7 +23438,8 @@
         ],
         "ipa": "/rækt/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "rag",
@@ -21800,7 +23485,8 @@
         ],
         "ipa": "/ræɡd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "rail",
@@ -21835,7 +23521,8 @@
         ],
         "ipa": "/reɪlz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "ram",
@@ -21881,7 +23568,8 @@
         ],
         "ipa": "/ræmd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "ramp",
@@ -21916,7 +23604,8 @@
         ],
         "ipa": "/ræmps/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "ranger",
@@ -21951,7 +23640,8 @@
         ],
         "ipa": "/ˈreɪndʒə(r)z/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "rank",
@@ -21986,6 +23676,9 @@
         ],
         "ipa": "/ræŋks/"
       }
+    ],
+    "synonyms": [
+      "row"
     ]
   },
   {
@@ -22015,6 +23708,9 @@
         ],
         "ipa": "/ræʃɪz/"
       }
+    ],
+    "synonyms": [
+      "reckless"
     ]
   },
   {
@@ -22061,7 +23757,8 @@
         ],
         "ipa": "/rætɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "rating",
@@ -22090,6 +23787,9 @@
         ],
         "ipa": "/ˈreɪtɪŋz/"
       }
+    ],
+    "synonyms": [
+      "assessment"
     ]
   },
   {
@@ -22110,6 +23810,9 @@
         "example": "The factory processes raw materials into finished goods.",
         "exampleVi": "Nhà máy chuyển đổi nguyên liệu thô thành sản phẩm hoàn chỉnh."
       }
+    ],
+    "synonyms": [
+      "uncooked"
     ]
   },
   {
@@ -22130,6 +23833,9 @@
         "example": "She readily agreed to help us move the furniture.",
         "exampleVi": "Cô ấy sẵn lòng giúp chúng tôi chuyển đồ đạc."
       }
+    ],
+    "synonyms": [
+      "easily"
     ]
   },
   {
@@ -22156,6 +23862,9 @@
         "example": "A realistic account of knowledge treats the external world as independent of the mind.",
         "exampleVi": "Cách giải thích tri thức theo thuyết hiện thực xem thế giới bên ngoài tồn tại độc lập với tâm trí."
       }
+    ],
+    "synonyms": [
+      "practical"
     ]
   },
   {
@@ -22191,6 +23900,9 @@
         ],
         "ipa": "/ˌriələˈzeɪʃənz/"
       }
+    ],
+    "synonyms": [
+      "awareness"
     ]
   },
   {
@@ -22220,6 +23932,9 @@
         ],
         "ipa": "/rɪəz/"
       }
+    ],
+    "synonyms": [
+      "back"
     ]
   },
   {
@@ -22267,6 +23982,9 @@
         ],
         "ipa": "/rɪˈbeld/"
       }
+    ],
+    "synonyms": [
+      "insurgent"
     ]
   },
   {
@@ -22302,6 +24020,9 @@
         ],
         "ipa": "/rɪˈsiːvə(r)z/"
       }
+    ],
+    "synonyms": [
+      "recipient"
     ]
   },
   {
@@ -22347,6 +24068,9 @@
         ],
         "ipa": "/ˌriːkənˈsɪdə(r)d/"
       }
+    ],
+    "synonyms": [
+      "rethink"
     ]
   },
   {
@@ -22382,6 +24106,9 @@
         ],
         "ipa": "/rəˈkʌvriz/"
       }
+    ],
+    "synonyms": [
+      "recuperation"
     ]
   },
   {
@@ -22428,6 +24155,9 @@
         ],
         "ipa": "/rɪˈkruːtɪd/"
       }
+    ],
+    "synonyms": [
+      "hire"
     ]
   },
   {
@@ -22441,7 +24171,8 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": []
   },
   {
     "word": "reduction",
@@ -22476,6 +24207,9 @@
         ],
         "ipa": "/rɪˈdʌkʃnz/"
       }
+    ],
+    "synonyms": [
+      "decrease"
     ]
   },
   {
@@ -22502,6 +24236,9 @@
         "example": "He spent a reflective evening thinking about his future.",
         "exampleVi": "Anh dành một buổi tối để suy ngẫm về tương lai của mình."
       }
+    ],
+    "synonyms": [
+      "thoughtful"
     ]
   },
   {
@@ -22548,6 +24285,9 @@
         ],
         "ipa": "/rɪˈfreɪnd/"
       }
+    ],
+    "synonyms": [
+      "chorus"
     ]
   },
   {
@@ -22577,6 +24317,9 @@
         ],
         "ipa": "/ˈrefjuːdʒɪz/"
       }
+    ],
+    "synonyms": [
+      "shelter"
     ]
   },
   {
@@ -22628,6 +24371,9 @@
         ],
         "ipa": "/rɪˈɡɑːdɪd/"
       }
+    ],
+    "synonyms": [
+      "consider"
     ]
   },
   {
@@ -22641,7 +24387,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "anyway"
+    ]
   },
   {
     "word": "regional",
@@ -22654,7 +24403,8 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": []
   },
   {
     "word": "regulation",
@@ -22683,6 +24433,9 @@
         ],
         "ipa": "/ˌreɡjuˈleɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "rule"
     ]
   },
   {
@@ -22712,6 +24465,9 @@
         ],
         "ipa": "/rɪˈhɜːslz/"
       }
+    ],
+    "synonyms": [
+      "practice"
     ]
   },
   {
@@ -22738,6 +24494,9 @@
         "example": "Praise can serve as positive reinforcement for helpful behaviour.",
         "exampleVi": "Lời khen có thể là sự củng cố tích cực cho hành vi có ích."
       }
+    ],
+    "synonyms": [
+      "backup"
     ]
   },
   {
@@ -22767,6 +24526,9 @@
         ],
         "ipa": "/rɪˈdʒekʃnz/"
       }
+    ],
+    "synonyms": [
+      "refusal"
     ]
   },
   {
@@ -22793,6 +24555,9 @@
         "example": "The physicist measured the relaxation of the system towards equilibrium.",
         "exampleVi": "Nhà vật lý đã đo lường quá trình hệ thống trở về trạng thái cân bằng."
       }
+    ],
+    "synonyms": [
+      "rest"
     ]
   },
   {
@@ -22840,7 +24605,8 @@
         ],
         "ipa": "/ˌrɪˈleɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "relieve",
@@ -22891,6 +24657,9 @@
         ],
         "ipa": "/rɪˈliːvd/"
       }
+    ],
+    "synonyms": [
+      "alleviate"
     ]
   },
   {
@@ -22911,6 +24680,9 @@
         "example": "The archaeologists found human remains beneath the old chapel.",
         "exampleVi": "Các nhà khảo cổ học đã tìm thấy di hài của con người dưới nền nhà thờ cổ."
       }
+    ],
+    "synonyms": [
+      "relics"
     ]
   },
   {
@@ -22933,6 +24705,9 @@
         ],
         "ipa": "/rɪˈmɑːks/"
       }
+    ],
+    "synonyms": [
+      "comment"
     ]
   },
   {
@@ -22946,7 +24721,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "notable"
+    ]
   },
   {
     "word": "reminder",
@@ -22968,7 +24746,8 @@
         ],
         "ipa": "/rɪˈmaɪndə(r)z/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "rental",
@@ -22997,7 +24776,8 @@
         ],
         "ipa": "/ˈrentlz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "repertoire",
@@ -23026,6 +24806,9 @@
         ],
         "ipa": "/ˈrepətwɑː(r)z/"
       }
+    ],
+    "synonyms": [
+      "stock"
     ]
   },
   {
@@ -23055,6 +24838,9 @@
         ],
         "ipa": "/ˌrepəˈtɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "recurrence"
     ]
   },
   {
@@ -23084,6 +24870,9 @@
         ],
         "ipa": "/rɪˈpleɪsmənts/"
       }
+    ],
+    "synonyms": [
+      "substitute"
     ]
   },
   {
@@ -23113,7 +24902,8 @@
         ],
         "ipa": "/ˌriːˈprɪnts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "reserve",
@@ -23148,6 +24938,9 @@
         ],
         "ipa": "/rɪˈzɜːvz/"
       }
+    ],
+    "synonyms": [
+      "stockpile"
     ]
   },
   {
@@ -23177,6 +24970,9 @@
         ],
         "ipa": "/ˈrezɪdənts/"
       }
+    ],
+    "synonyms": [
+      "inhabitant"
     ]
   },
   {
@@ -23197,6 +24993,9 @@
         "example": "The wide tyres increase resistance when the bicycle moves.",
         "exampleVi": "Lốp rộng làm tăng lực cản khi xe đạp di chuyển."
       }
+    ],
+    "synonyms": [
+      "opposition"
     ]
   },
   {
@@ -23226,7 +25025,8 @@
         ],
         "ipa": "/ˌrezəˈluːʃnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "resume",
@@ -23273,6 +25073,9 @@
         ],
         "ipa": "/rɪˈzjuːmd/"
       }
+    ],
+    "synonyms": [
+      "continue"
     ]
   },
   {
@@ -23302,6 +25105,9 @@
         ],
         "ipa": "/rɪˈtriːts/"
       }
+    ],
+    "synonyms": [
+      "withdrawal"
     ]
   },
   {
@@ -23337,6 +25143,9 @@
         ],
         "ipa": "/ˌrevəˈleɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "disclosure"
     ]
   },
   {
@@ -23382,6 +25191,9 @@
         ],
         "ipa": "/rɪˈvendʒd/"
       }
+    ],
+    "synonyms": [
+      "vengeance"
     ]
   },
   {
@@ -23411,6 +25223,9 @@
         ],
         "ipa": "/rɪˈvaɪvlz/"
       }
+    ],
+    "synonyms": [
+      "resurgence"
     ]
   },
   {
@@ -23437,6 +25252,9 @@
         "example": "The engineer measured the wheel's revolutionary motion around its axis.",
         "exampleVi": "Kỹ sư đã đo chuyển động quay của bánh xe quanh trục của nó."
       }
+    ],
+    "synonyms": [
+      "groundbreaking"
     ]
   },
   {
@@ -23482,7 +25300,8 @@
         ],
         "ipa": "/raɪmd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "rib",
@@ -23528,7 +25347,8 @@
         ],
         "ipa": "/rɪbd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "riddle",
@@ -23574,6 +25394,9 @@
         ],
         "ipa": "/ˈrɪdld/"
       }
+    ],
+    "synonyms": [
+      "puzzle"
     ]
   },
   {
@@ -23609,7 +25432,8 @@
         ],
         "ipa": "/rɪdʒɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "ridiculous",
@@ -23635,6 +25459,9 @@
         "example": "The ridiculous costume made everyone laugh.",
         "exampleVi": "Bộ trang phục kỳ quặc đó khiến mọi người cười không ngớt."
       }
+    ],
+    "synonyms": [
+      "absurd"
     ]
   },
   {
@@ -23670,7 +25497,8 @@
         ],
         "ipa": "/rɪmz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "risky",
@@ -23683,7 +25511,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "hazardous"
+    ]
   },
   {
     "word": "rival",
@@ -23745,6 +25576,9 @@
         ],
         "ipa": "/ˈraɪvld/"
       }
+    ],
+    "synonyms": [
+      "competitor"
     ]
   },
   {
@@ -23791,6 +25625,9 @@
         ],
         "ipa": "/rəʊˈmænst/"
       }
+    ],
+    "synonyms": [
+      "love affair"
     ]
   },
   {
@@ -23826,7 +25663,8 @@
         ],
         "ipa": "/ruːts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "rose",
@@ -23855,7 +25693,8 @@
         ],
         "ipa": "/ɹoʊzɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "rub",
@@ -23900,7 +25739,8 @@
         ],
         "ipa": "/rʌbd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "rubber",
@@ -23920,7 +25760,8 @@
         "example": "The bank returned the rubber cheque because there were insufficient funds.",
         "exampleVi": "Ngân hàng trả lại tấm séc không đủ tiền bảo chứng vì tài khoản thiếu tiền."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "rush",
@@ -23971,6 +25812,9 @@
         ],
         "ipa": "/rʌʃt/"
       }
+    ],
+    "synonyms": [
+      "hurry"
     ]
   },
   {
@@ -24023,6 +25867,9 @@
         ],
         "ipa": "/sækt/"
       }
+    ],
+    "synonyms": [
+      "plunder"
     ]
   },
   {
@@ -24068,6 +25915,9 @@
         ],
         "ipa": "/ˈseɪfɡɑːdɪd/"
       }
+    ],
+    "synonyms": [
+      "protect"
     ]
   },
   {
@@ -24097,6 +25947,9 @@
         ],
         "ipa": "/seɪdʒɪz/"
       }
+    ],
+    "synonyms": [
+      "wise person"
     ]
   },
   {
@@ -24132,7 +25985,8 @@
         ],
         "ipa": "/ˈsælɒnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "saving",
@@ -24158,6 +26012,9 @@
         "example": "The saving of these old manuscripts protects an important cultural heritage.",
         "exampleVi": "Việc bảo tồn những bản thảo cổ này giúp gìn giữ một di sản văn hóa quý giá."
       }
+    ],
+    "synonyms": [
+      "economizing"
     ]
   },
   {
@@ -24187,7 +26044,8 @@
         ],
         "ipa": "/skeɪlz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "scar",
@@ -24233,7 +26091,8 @@
         ],
         "ipa": "/skɑː(r)d/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "scare",
@@ -24278,6 +26137,9 @@
         ],
         "ipa": "/skeə(r)d/"
       }
+    ],
+    "synonyms": [
+      "frighten"
     ]
   },
   {
@@ -24324,7 +26186,8 @@
         ],
         "ipa": "/ˈskræmbld/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "scratch",
@@ -24370,7 +26233,8 @@
         ],
         "ipa": "/skrætʃt/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "scream",
@@ -24417,6 +26281,9 @@
         "example": "She screamed when she saw the spider.",
         "exampleVi": "Cô ấy hét lên khi nhìn thấy con nhện."
       }
+    ],
+    "synonyms": [
+      "shriek"
     ]
   },
   {
@@ -24452,7 +26319,8 @@
         ],
         "ipa": "/ˈskriːnɪŋz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "screw",
@@ -24503,6 +26371,9 @@
         ],
         "ipa": "/skruːd/"
       }
+    ],
+    "synonyms": [
+      "twist"
     ]
   },
   {
@@ -24538,7 +26409,8 @@
         ],
         "ipa": "/siːlz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "seasonal",
@@ -24567,7 +26439,8 @@
         ],
         "ipa": "/ˈsiːzənlz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "seeker",
@@ -24596,7 +26469,8 @@
         ],
         "ipa": "/ˈsiːkə(r)z/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "selection",
@@ -24631,6 +26505,9 @@
         ],
         "ipa": "/sɪˈlekʃnz/"
       }
+    ],
+    "synonyms": [
+      "choice"
     ]
   },
   {
@@ -24651,7 +26528,8 @@
         "example": "He is selective about which books he buys.",
         "exampleVi": "Anh ấy rất cẩn trọng trong việc lựa chọn những cuốn sách mình mua."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "self",
@@ -24680,6 +26558,9 @@
         ],
         "ipa": "/ˈsɛɫvz/"
       }
+    ],
+    "synonyms": [
+      "ego"
     ]
   },
   {
@@ -24700,6 +26581,9 @@
         "example": "He is a senior at university and will graduate this year.",
         "exampleVi": "Anh ấy là sinh viên năm cuối tại trường đại học và sẽ tốt nghiệp vào năm nay."
       }
+    ],
+    "synonyms": [
+      "older"
     ]
   },
   {
@@ -24729,7 +26613,8 @@
         ],
         "ipa": "/ˈsensətɪvz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "serial",
@@ -24749,6 +26634,9 @@
         "example": "The composer used serial techniques to arrange the twelve notes.",
         "exampleVi": "Nhà soạn nhạc dùng kỹ thuật âm nhạc nối tiếp để sắp xếp mười hai nốt."
       }
+    ],
+    "synonyms": [
+      "sequential"
     ]
   },
   {
@@ -24794,6 +26682,9 @@
         ],
         "ipa": "/ˈsetld/"
       }
+    ],
+    "synonyms": [
+      "subside"
     ]
   },
   {
@@ -24829,7 +26720,8 @@
         ],
         "ipa": "/ˈsetlə(r)z/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "severely",
@@ -24849,6 +26741,9 @@
         "example": "The teacher spoke severely to the pupils who had cheated.",
         "exampleVi": "Giáo viên đã trách mắng gay gắt những học sinh đã gian lận."
       }
+    ],
+    "synonyms": [
+      "seriously"
     ]
   },
   {
@@ -24862,7 +26757,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "seductive"
+    ]
   },
   {
     "word": "shadow",
@@ -24908,7 +26806,8 @@
         ],
         "ipa": "/ˈʃædəʊd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "shaky",
@@ -24934,6 +26833,9 @@
         "example": "The company is in a shaky financial position.",
         "exampleVi": "Công ty đang ở trong tình trạng tài chính không ổn định."
       }
+    ],
+    "synonyms": [
+      "unsteady"
     ]
   },
   {
@@ -24960,6 +26862,9 @@
         "example": "The scandal brought shame on the entire organisation.",
         "exampleVi": "Vụ bê bối này đã mang lại sự ô nhục cho toàn bộ tổ chức đó."
       }
+    ],
+    "synonyms": [
+      "embarrassment"
     ]
   },
   {
@@ -25006,6 +26911,9 @@
         ],
         "ipa": "/ʃed/"
       }
+    ],
+    "synonyms": [
+      "hut"
     ]
   },
   {
@@ -25052,6 +26960,9 @@
         ],
         "ipa": "/ˈʃeltə(r)d/"
       }
+    ],
+    "synonyms": [
+      "refuge"
     ]
   },
   {
@@ -25098,7 +27009,8 @@
         ],
         "ipa": "/ʃiːldɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "shipping",
@@ -25118,6 +27030,9 @@
         "example": "Enemy submarines threatened the nation's merchant shipping.",
         "exampleVi": "Tàu ngầm địch đe dọa đội tàu buôn của quốc gia."
       }
+    ],
+    "synonyms": [
+      "freight transport"
     ]
   },
   {
@@ -25147,7 +27062,8 @@
         ],
         "ipa": "/ˈʃuːtɪŋz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "shrink",
@@ -25199,6 +27115,9 @@
         ],
         "ipa": "/ˈʃɹəŋk/"
       }
+    ],
+    "synonyms": [
+      "contract"
     ]
   },
   {
@@ -25219,6 +27138,9 @@
         "example": "The treatment group performed significantly better in the statistical analysis.",
         "exampleVi": "Nhóm điều trị có kết quả tốt hơn với mức khác biệt có ý nghĩa thống kê."
       }
+    ],
+    "synonyms": [
+      "considerably"
     ]
   },
   {
@@ -25264,6 +27186,9 @@
         ],
         "ipa": "/ˈsaɪlənst/"
       }
+    ],
+    "synonyms": [
+      "quiet"
     ]
   },
   {
@@ -25284,7 +27209,8 @@
         "example": "The spider produced a fine thread of silk.",
         "exampleVi": "Con nhện đã tạo ra một sợi tơ rất mịn."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "sketch",
@@ -25330,6 +27256,9 @@
         ],
         "ipa": "/sketʃt/"
       }
+    ],
+    "synonyms": [
+      "outline"
     ]
   },
   {
@@ -25381,6 +27310,9 @@
         ],
         "ipa": "/skɪpt/"
       }
+    ],
+    "synonyms": [
+      "omit"
     ]
   },
   {
@@ -25432,7 +27364,8 @@
         ],
         "ipa": "/slæmd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "slang",
@@ -25477,6 +27410,9 @@
         ],
         "ipa": "/slæŋd/"
       }
+    ],
+    "synonyms": [
+      "argot"
     ]
   },
   {
@@ -25525,7 +27461,8 @@
         "example": "She slapped him across the face.",
         "exampleVi": "Cô ấy tát vào mặt anh ta."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "slash",
@@ -25571,6 +27508,9 @@
         ],
         "ipa": "/slæʃt/"
       }
+    ],
+    "synonyms": [
+      "solidus"
     ]
   },
   {
@@ -25597,6 +27537,9 @@
         "example": "The match was a slaughter, with the visitors losing by ten goals.",
         "exampleVi": "Trận đấu là một trận thua thảm hại, đội khách thua mười bàn."
       }
+    ],
+    "synonyms": [
+      "massacre"
     ]
   },
   {
@@ -25648,6 +27591,9 @@
         ],
         "ipa": "/ˈsɫɪd/"
       }
+    ],
+    "synonyms": [
+      "glide"
     ]
   },
   {
@@ -25694,6 +27640,9 @@
         ],
         "ipa": "/slɪpt/"
       }
+    ],
+    "synonyms": [
+      "slide"
     ]
   },
   {
@@ -25723,6 +27672,9 @@
         ],
         "ipa": "/sləʊps/"
       }
+    ],
+    "synonyms": [
+      "incline"
     ]
   },
   {
@@ -25749,6 +27701,9 @@
         "example": "Heavy rain left the field sloppy and difficult to walk across.",
         "exampleVi": "Mưa lớn khiến mặt đất trở nên lầy lội và khó đi qua."
       }
+    ],
+    "synonyms": [
+      "careless"
     ]
   },
   {
@@ -25802,6 +27757,9 @@
         "example": "He smashed the ball across the court.",
         "exampleVi": "Anh ấy đánh bóng ra khỏi sân."
       }
+    ],
+    "synonyms": [
+      "strike"
     ]
   },
   {
@@ -25853,6 +27811,9 @@
         ],
         "ipa": "/snæpt/"
       }
+    ],
+    "synonyms": [
+      "break"
     ]
   },
   {
@@ -25882,7 +27843,8 @@
         ],
         "ipa": "/səʊks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "soaking",
@@ -25917,7 +27879,8 @@
         ],
         "ipa": "/ˈsoʊkinz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "solo",
@@ -25946,6 +27909,9 @@
         ],
         "ipa": "/ˈsəʊləʊz/"
       }
+    ],
+    "synonyms": [
+      "unaccompanied"
     ]
   },
   {
@@ -25975,7 +27941,8 @@
         ],
         "ipa": "/ˈsɒlvənts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "somehow",
@@ -25995,7 +27962,8 @@
         "example": "Somehow, he always arrives just as we finish cleaning.",
         "exampleVi": "Vì lý do nào đó, anh ấy luôn đến đúng lúc chúng tôi vừa dọn xong."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "sometime",
@@ -26015,7 +27983,8 @@
         "example": "The article was written by a sometime editor of the newspaper.",
         "exampleVi": "Bài viết này được viết bởi một cựu biên tập viên của tờ báo."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "spa",
@@ -26044,7 +28013,8 @@
         ],
         "ipa": "/spɑːz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "spare",
@@ -26070,6 +28040,9 @@
         "example": "She reads novels in her spare time.",
         "exampleVi": "Cô ấy đọc tiểu thuyết trong thời gian rảnh rỗi."
       }
+    ],
+    "synonyms": [
+      "slender"
     ]
   },
   {
@@ -26116,7 +28089,8 @@
         ],
         "ipa": "/spɑːkt/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "sparkling",
@@ -26136,6 +28110,9 @@
         "example": "Would you prefer still or sparkling water?",
         "exampleVi": "Bạn thích nước không ga hay nước có ga?"
       }
+    ],
+    "synonyms": [
+      "glittering"
     ]
   },
   {
@@ -26187,7 +28164,8 @@
         ],
         "ipa": "/ˈspɛʃəˌlɑɪzd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "spectacle",
@@ -26222,6 +28200,9 @@
         ],
         "ipa": "/ˈspektəklz/"
       }
+    ],
+    "synonyms": [
+      "sight"
     ]
   },
   {
@@ -26251,6 +28232,9 @@
         ],
         "ipa": "/spekˈtækjələ(r)z/"
       }
+    ],
+    "synonyms": [
+      "magnificent"
     ]
   },
   {
@@ -26286,6 +28270,9 @@
         ],
         "ipa": "/ˌspekjuˈleɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "conjecture"
     ]
   },
   {
@@ -26332,7 +28319,8 @@
         ],
         "ipa": "/spaɪst/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "spiritual",
@@ -26358,7 +28346,8 @@
         "example": "The philosopher distinguished spiritual reality from material objects.",
         "exampleVi": "Vị triết gia đã phân biệt rõ ràng giữa thực tại tâm linh và các vật thể vật chất."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "spite",
@@ -26403,6 +28392,9 @@
         ],
         "ipa": "/spaɪtɪd/"
       }
+    ],
+    "synonyms": [
+      "malice"
     ]
   },
   {
@@ -26449,7 +28441,8 @@
         ],
         "ipa": "/splæʃt/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "split",
@@ -26494,6 +28487,9 @@
         ],
         "ipa": "/splɪt/"
       }
+    ],
+    "synonyms": [
+      "cleave"
     ]
   },
   {
@@ -26520,6 +28516,9 @@
         "example": "She took a sporting chance on an untested idea.",
         "exampleVi": "Cô ấy đã dám thử một ý tưởng chưa được thử nghiệm trước đây."
       }
+    ],
+    "synonyms": [
+      "sportsmanlike"
     ]
   },
   {
@@ -26566,7 +28565,8 @@
         ],
         "ipa": "/spreɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "spur",
@@ -26595,7 +28595,8 @@
         ],
         "ipa": "/spɜː(r)z/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "squad",
@@ -26630,7 +28631,8 @@
         ],
         "ipa": "/skwɒdz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "squash",
@@ -26675,7 +28677,8 @@
         ],
         "ipa": "/ˈskwɑːʃt/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "squeeze",
@@ -26721,6 +28724,9 @@
         ],
         "ipa": "/skwiːzd/"
       }
+    ],
+    "synonyms": [
+      "compress"
     ]
   },
   {
@@ -26767,6 +28773,9 @@
         ],
         "ipa": "/steɪnd/"
       }
+    ],
+    "synonyms": [
+      "blemish"
     ]
   },
   {
@@ -26813,7 +28822,8 @@
         ],
         "ipa": "/steɪkt/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "standby",
@@ -26842,6 +28852,9 @@
         ],
         "ipa": "/ˈstændbaɪz/"
       }
+    ],
+    "synonyms": [
+      "reserve"
     ]
   },
   {
@@ -26887,7 +28900,8 @@
         ],
         "ipa": "/stɑːvd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "steadily",
@@ -26900,7 +28914,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "consistently"
+    ]
   },
   {
     "word": "steam",
@@ -26945,7 +28962,8 @@
         ],
         "ipa": "/stiːmd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "steel",
@@ -26990,7 +29008,8 @@
         ],
         "ipa": "/stiːld/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "steer",
@@ -27035,6 +29054,9 @@
         ],
         "ipa": "/stɪə(r)d/"
       }
+    ],
+    "synonyms": [
+      "guide"
     ]
   },
   {
@@ -27055,6 +29077,9 @@
         "example": "The judge maintained a stern refusal to excuse the misconduct.",
         "exampleVi": "Vị thẩm phán kiên quyết từ chối bác bỏ những hành vi sai trái đó."
       }
+    ],
+    "synonyms": [
+      "strict"
     ]
   },
   {
@@ -27084,7 +29109,8 @@
         ],
         "ipa": "/stʃuːz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "stimulation",
@@ -27097,7 +29123,8 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": []
   },
   {
     "word": "stink",
@@ -27149,6 +29176,9 @@
         ],
         "ipa": "/ˈstəŋk/"
       }
+    ],
+    "synonyms": [
+      "reek"
     ]
   },
   {
@@ -27195,7 +29225,8 @@
         ],
         "ipa": "/stɪtʃt/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "stock",
@@ -27230,6 +29261,9 @@
         ],
         "ipa": "/stɒks/"
       }
+    ],
+    "synonyms": [
+      "shares"
     ]
   },
   {
@@ -27276,7 +29310,8 @@
         ],
         "ipa": "/stuːld/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "strain",
@@ -27327,6 +29362,9 @@
         ],
         "ipa": "/streɪnd/"
       }
+    ],
+    "synonyms": [
+      "strive"
     ]
   },
   {
@@ -27356,7 +29394,8 @@
         ],
         "ipa": "/streɪts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "strand",
@@ -27391,6 +29430,9 @@
         ],
         "ipa": "/strændz/"
       }
+    ],
+    "synonyms": [
+      "thread"
     ]
   },
   {
@@ -27437,6 +29479,9 @@
         ],
         "ipa": "/striːmd/"
       }
+    ],
+    "synonyms": [
+      "brook"
     ]
   },
   {
@@ -27482,6 +29527,9 @@
         ],
         "ipa": "/ˈstreŋθnd/"
       }
+    ],
+    "synonyms": [
+      "reinforce"
     ]
   },
   {
@@ -27528,6 +29576,9 @@
         ],
         "ipa": "/stretʃt/"
       }
+    ],
+    "synonyms": [
+      "extend"
     ]
   },
   {
@@ -27554,6 +29605,9 @@
         "example": "Strictly speaking, a tomato is a fruit.",
         "exampleVi": "Nói một cách chính xác, cà chua là một loại quả."
       }
+    ],
+    "synonyms": [
+      "absolutely"
     ]
   },
   {
@@ -27605,7 +29659,8 @@
         ],
         "ipa": "/ˈstrɪd.ən/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "strike",
@@ -27650,6 +29705,9 @@
         ],
         "ipa": "/ˈstɹək/"
       }
+    ],
+    "synonyms": [
+      "hit"
     ]
   },
   {
@@ -27670,6 +29728,9 @@
         "example": "The striking employees gathered outside the factory gates.",
         "exampleVi": "Các nhân viên đang đình công tụ tập ngoài cổng nhà máy."
       }
+    ],
+    "synonyms": [
+      "remarkable"
     ]
   },
   {
@@ -27716,7 +29777,8 @@
         ],
         "ipa": "/strɪpt/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "stroke",
@@ -27745,7 +29807,8 @@
         ],
         "ipa": "/strəʊks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "stunning",
@@ -27771,6 +29834,9 @@
         "example": "The boxer delivered a stunning blow that knocked his opponent down.",
         "exampleVi": "Võ sĩ quyền anh tung cú đánh gây choáng khiến đối thủ ngã."
       }
+    ],
+    "synonyms": [
+      "gorgeous"
     ]
   },
   {
@@ -27800,6 +29866,9 @@
         ],
         "ipa": "/ˈstaɪlɪsts/"
       }
+    ],
+    "synonyms": [
+      "hairdresser"
     ]
   },
   {
@@ -27835,7 +29904,8 @@
         ],
         "ipa": "/ˌsʌbdɪˈvɪʒnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "sue",
@@ -27880,6 +29950,9 @@
         ],
         "ipa": "/suːd/"
       }
+    ],
+    "synonyms": [
+      "bring an action against"
     ]
   },
   {
@@ -27909,6 +29982,9 @@
         ],
         "ipa": "/ˈsʌfərɪŋz/"
       }
+    ],
+    "synonyms": [
+      "distress"
     ]
   },
   {
@@ -27935,6 +30011,9 @@
         "example": "The proposal would create a super state uniting several smaller countries.",
         "exampleVi": "Đề xuất này sẽ tạo ra một “nhà nước siêu lớn” bao gồm nhiều quốc gia nhỏ hơn."
       }
+    ],
+    "synonyms": [
+      "excellent"
     ]
   },
   {
@@ -27964,6 +30043,9 @@
         ],
         "ipa": "/ˌsuːpərɪnˈtendənts/"
       }
+    ],
+    "synonyms": [
+      "manager"
     ]
   },
   {
@@ -28015,6 +30097,9 @@
         ],
         "ipa": "/səˈprest/"
       }
+    ],
+    "synonyms": [
+      "quell"
     ]
   },
   {
@@ -28044,6 +30129,9 @@
         ],
         "ipa": "/ˈsɜːpləsɪz/"
       }
+    ],
+    "synonyms": [
+      "excess"
     ]
   },
   {
@@ -28057,7 +30145,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "environment"
+    ]
   },
   {
     "word": "survival",
@@ -28086,7 +30177,8 @@
         ],
         "ipa": "/səˈvaɪvlz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "suspicious",
@@ -28106,6 +30198,9 @@
         "example": "The abandoned suitcase looked suspicious to the security guard.",
         "exampleVi": "Chiếc vali bị bỏ hoang trông rất đáng ngờ đối với nhân viên an ninh."
       }
+    ],
+    "synonyms": [
+      "distrustful"
     ]
   },
   {
@@ -28152,7 +30247,8 @@
         ],
         "ipa": "/ˈswɒləʊd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "swan",
@@ -28198,7 +30294,8 @@
         ],
         "ipa": "/swɒnd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "sweep",
@@ -28244,7 +30341,8 @@
         ],
         "ipa": "/ˈswɛpt/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "swift",
@@ -28273,6 +30371,9 @@
         ],
         "ipa": "/swɪfts/"
       }
+    ],
+    "synonyms": [
+      "fast"
     ]
   },
   {
@@ -28319,7 +30420,8 @@
         ],
         "ipa": "/ˈswəŋ/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "symbolic",
@@ -28332,7 +30434,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "emblematic"
+    ]
   },
   {
     "word": "sympathetic",
@@ -28352,6 +30457,9 @@
         "example": "The sympathetic nervous system prepares the body for rapid action.",
         "exampleVi": "Hệ thần kinh giao cảm giúp cơ thể sẵn sàng cho các phản ứng nhanh chóng."
       }
+    ],
+    "synonyms": [
+      "understanding"
     ]
   },
   {
@@ -28365,7 +30473,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "compassion"
+    ]
   },
   {
     "word": "tame",
@@ -28385,6 +30496,9 @@
         "example": "The sequel seemed tame compared with the exciting original.",
         "exampleVi": "Phiên bản tiếp theo có vẻ không hấp dẫn bằng phiên bản gốc đầy kịch tính."
       }
+    ],
+    "synonyms": [
+      "domesticated"
     ]
   },
   {
@@ -28405,7 +30519,8 @@
         "example": "He wore a tan jacket with dark trousers.",
         "exampleVi": "Anh mặc một chiếc áo khoác màu nâu, cùng với quần màu tối."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "tap",
@@ -28456,6 +30571,9 @@
         ],
         "ipa": "/tæpt/"
       }
+    ],
+    "synonyms": [
+      "pat"
     ]
   },
   {
@@ -28502,6 +30620,9 @@
         ],
         "ipa": "/tiːzd/"
       }
+    ],
+    "synonyms": [
+      "taunt"
     ]
   },
   {
@@ -28522,7 +30643,8 @@
         "example": "The temperature will remain in the teens this afternoon.",
         "exampleVi": "Chiều nay nhiệt độ sẽ giữ trong khoảng mười ba đến mười chín độ."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "telescope",
@@ -28568,7 +30690,8 @@
         ],
         "ipa": "/ˈtelɪskəʊpt/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "temple",
@@ -28597,7 +30720,8 @@
         ],
         "ipa": "/ˈtemplz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "temptation",
@@ -28619,6 +30743,9 @@
         ],
         "ipa": "/tempˈteɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "enticement"
     ]
   },
   {
@@ -28645,6 +30772,9 @@
         "example": "She began learning the violin at the tender age of four.",
         "exampleVi": "Cô bé bắt đầu học chơi đàn violin khi mới 4 tuổi."
       }
+    ],
+    "synonyms": [
+      "gentle"
     ]
   },
   {
@@ -28665,6 +30795,9 @@
         "example": "The doctor checked for tenderness around the injured ankle.",
         "exampleVi": "Bác sĩ đã kiểm tra xem vùng mắt cá chân bị tổn thương có dấu hiệu đau không."
       }
+    ],
+    "synonyms": [
+      "gentleness"
     ]
   },
   {
@@ -28685,7 +30818,8 @@
         "example": "The neighbours are on friendly terms with each other.",
         "exampleVi": "Các hàng xóm sống hòa thuận với nhau."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "terrace",
@@ -28731,7 +30865,8 @@
         ],
         "ipa": "/ˈterəst/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "terribly",
@@ -28751,6 +30886,9 @@
         "example": "The actors performed terribly and forgot several lines.",
         "exampleVi": "Diễn viên diễn tồi và quên vài câu thoại."
       }
+    ],
+    "synonyms": [
+      "extremely"
     ]
   },
   {
@@ -28796,6 +30934,9 @@
         ],
         "ipa": "/ˈtestɪfaɪd/"
       }
+    ],
+    "synonyms": [
+      "bear witness"
     ]
   },
   {
@@ -28816,6 +30957,9 @@
         "example": "Routine testing can detect the infection before symptoms appear.",
         "exampleVi": "Các xét nghiệm định kỳ có thể phát hiện được nhiễm trùng trước khi các triệu chứng xuất hiện."
       }
+    ],
+    "synonyms": [
+      "experimentation"
     ]
   },
   {
@@ -28845,6 +30989,9 @@
         ],
         "ipa": "/ˈtekstbʊks/"
       }
+    ],
+    "synonyms": [
+      "coursebook"
     ]
   },
   {
@@ -28865,6 +31012,9 @@
         "example": "We thoroughly enjoyed our visit to the village.",
         "exampleVi": "Chúng tôi thực sự rất thích chuyến thăm ngôi làng này."
       }
+    ],
+    "synonyms": [
+      "meticulously"
     ]
   },
   {
@@ -28891,6 +31041,9 @@
         "example": "It was thoughtful of you to bring an extra umbrella.",
         "exampleVi": "Bạn thật chu đáo khi mang theo một chiếc ô thêm."
       }
+    ],
+    "synonyms": [
+      "considerate"
     ]
   },
   {
@@ -28920,7 +31073,8 @@
         ],
         "ipa": "/θrets/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "thrill",
@@ -28949,6 +31103,9 @@
         ],
         "ipa": "/θrɪlz/"
       }
+    ],
+    "synonyms": [
+      "excitement"
     ]
   },
   {
@@ -28962,7 +31119,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "exciting"
+    ]
   },
   {
     "word": "thumb",
@@ -29008,7 +31168,8 @@
         ],
         "ipa": "/θʌmd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "thus",
@@ -29028,6 +31189,9 @@
         "example": "Fold the paper thus, with both corners meeting in the middle.",
         "exampleVi": "Gấp giấy theo cách này, sao cho cả hai góc của giấy đều chạm vào nhau ở giữa."
       }
+    ],
+    "synonyms": [
+      "therefore"
     ]
   },
   {
@@ -29048,7 +31212,8 @@
         "example": "The museum explores life in ancient times.",
         "exampleVi": "Bảo tàng này khám phá cuộc sống trong thời cổ đại."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "timing",
@@ -29077,7 +31242,8 @@
         ],
         "ipa": "/ˈtaɪmɪŋz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "tolerant",
@@ -29097,6 +31263,9 @@
         "example": "This variety of rice is tolerant of salty soil.",
         "exampleVi": "Giống lúa này chịu được đất mặn."
       }
+    ],
+    "synonyms": [
+      "forbearing"
     ]
   },
   {
@@ -29143,7 +31312,8 @@
         ],
         "ipa": "/tɔːtʃt/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "tough",
@@ -29169,6 +31339,9 @@
         "example": "These tough boots can withstand years of heavy use.",
         "exampleVi": "Những đôi ủng chắc chắn này có thể chịu được hàng năm trời sử dụng trong điều kiện khó khăn."
       }
+    ],
+    "synonyms": [
+      "difficult"
     ]
   },
   {
@@ -29189,6 +31362,9 @@
         "example": "The actress prepared carefully for the tragic role.",
         "exampleVi": "Nữ diễn viên đã chuẩn bị kỹ lưỡng cho vai diễn bi thảm này."
       }
+    ],
+    "synonyms": [
+      "catastrophic"
     ]
   },
   {
@@ -29240,6 +31416,9 @@
         ],
         "ipa": "/treɪld/"
       }
+    ],
+    "synonyms": [
+      "track"
     ]
   },
   {
@@ -29269,7 +31448,8 @@
         ],
         "ipa": "/ˈtrænskrɪpts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "transition",
@@ -29291,6 +31471,9 @@
         ],
         "ipa": "/trænˈzɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "changeover"
     ]
   },
   {
@@ -29326,6 +31509,9 @@
         ],
         "ipa": "/trænsˈmɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "communication"
     ]
   },
   {
@@ -29352,6 +31538,9 @@
         "example": "The employer pays for transportation to and from work.",
         "exampleVi": "Nhà tuyển dụng sẽ chi trả chi phí đi lại cho người lao động."
       }
+    ],
+    "synonyms": [
+      "transport"
     ]
   },
   {
@@ -29381,6 +31570,9 @@
         ],
         "ipa": "/trəˈvɜːsɪz/"
       }
+    ],
+    "synonyms": [
+      "crossbeam"
     ]
   },
   {
@@ -29433,6 +31625,9 @@
         ],
         "ipa": "/ˈtɹɑdən/"
       }
+    ],
+    "synonyms": [
+      "step on"
     ]
   },
   {
@@ -29462,7 +31657,8 @@
         ],
         "ipa": "/ˈtreʒə(r)z/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "trek",
@@ -29491,7 +31687,8 @@
         ],
         "ipa": "/treks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "trial",
@@ -29520,6 +31717,9 @@
         ],
         "ipa": "/ˈtraɪəlz/"
       }
+    ],
+    "synonyms": [
+      "experiment"
     ]
   },
   {
@@ -29549,7 +31749,8 @@
         ],
         "ipa": "/ˈtraɪæŋɡlz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "tricky",
@@ -29575,6 +31776,9 @@
         "example": "The tricky little fox escaped from every trap.",
         "exampleVi": "Con cáo nhỏ xảo quyệt này đã trốn thoát khỏi mọi cái bẫy."
       }
+    ],
+    "synonyms": [
+      "difficult"
     ]
   },
   {
@@ -29610,6 +31814,9 @@
         ],
         "ipa": "/ˈtriːəʊz/"
       }
+    ],
+    "synonyms": [
+      "threesome"
     ]
   },
   {
@@ -29645,6 +31852,9 @@
         ],
         "ipa": "/truːps/"
       }
+    ],
+    "synonyms": [
+      "soldiers"
     ]
   },
   {
@@ -29671,6 +31881,9 @@
         "example": "I am truly grateful for all your help.",
         "exampleVi": "Tôi thực sự biết ơn vì tất cả sự giúp đỡ của bạn."
       }
+    ],
+    "synonyms": [
+      "really"
     ]
   },
   {
@@ -29706,7 +31919,8 @@
         ],
         "ipa": "/trʌŋks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "tub",
@@ -29741,6 +31955,9 @@
         ],
         "ipa": "/tʌbz/"
       }
+    ],
+    "synonyms": [
+      "bathtub"
     ]
   },
   {
@@ -29770,6 +31987,9 @@
         ],
         "ipa": "/ˈtəɡz/"
       }
+    ],
+    "synonyms": [
+      "jerk"
     ]
   },
   {
@@ -29816,6 +32036,9 @@
         ],
         "ipa": "/tjuːnd/"
       }
+    ],
+    "synonyms": [
+      "melody"
     ]
   },
   {
@@ -29836,6 +32059,9 @@
         "example": "The boat struggled through the turbulent water.",
         "exampleVi": "Chiếc thuyền cố gắng vượt qua những con sóng dữ dội trong dòng nước."
       }
+    ],
+    "synonyms": [
+      "chaotic"
     ]
   },
   {
@@ -29865,6 +32091,9 @@
         ],
         "ipa": "/ʌnˈsɜːtəntiz/"
       }
+    ],
+    "synonyms": [
+      "doubt"
     ]
   },
   {
@@ -29885,6 +32114,9 @@
         "example": "She showed uncommon courage during the rescue.",
         "exampleVi": "Cô ấy đã thể hiện lòng dũng cảm phi thường trong quá trình cứu hộ."
       }
+    ],
+    "synonyms": [
+      "rare"
     ]
   },
   {
@@ -29911,6 +32143,9 @@
         "example": "She was unconscious of the danger behind her.",
         "exampleVi": "Cô ấy không hề nhận ra mối nguy hiểm đang ẩn sau lưng mình."
       }
+    ],
+    "synonyms": [
+      "insensible"
     ]
   },
   {
@@ -29956,7 +32191,8 @@
         ],
         "ipa": "/ˌəndɜːˈɛstəˌmeɪtɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "underneath",
@@ -29985,6 +32221,9 @@
         ],
         "ipa": "/ˌʌndəˈniːθs/"
       }
+    ],
+    "synonyms": [
+      "below"
     ]
   },
   {
@@ -30011,6 +32250,9 @@
         "example": "The old textbook uses uneven to describe an odd number.",
         "exampleVi": "Sách giáo khoa cũ dùng uneven để chỉ số lẻ."
       }
+    ],
+    "synonyms": [
+      "irregular"
     ]
   },
   {
@@ -30062,6 +32304,9 @@
         ],
         "ipa": "/ʌnˈfəʊldɪd/"
       }
+    ],
+    "synonyms": [
+      "open out"
     ]
   },
   {
@@ -30091,6 +32336,9 @@
         ],
         "ipa": "/ʌnˈfɔːtʃənəts/"
       }
+    ],
+    "synonyms": [
+      "regrettable"
     ]
   },
   {
@@ -30117,6 +32365,9 @@
         "example": "In mathematics, unity denotes the number one.",
         "exampleVi": "Trong toán học, unity chỉ số một."
       }
+    ],
+    "synonyms": [
+      "solidarity"
     ]
   },
   {
@@ -30143,6 +32394,9 @@
         "example": "The universal adaptor works with several different types of plug.",
         "exampleVi": "Bộ chuyển đổi đa năng dùng được với nhiều loại phích cắm."
       }
+    ],
+    "synonyms": [
+      "worldwide"
     ]
   },
   {
@@ -30172,7 +32426,8 @@
         ],
         "ipa": "/ˌʌnˈnəʊnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "unlimited",
@@ -30198,6 +32453,9 @@
         "example": "The children seemed to have an unlimited supply of energy.",
         "exampleVi": "Các đứa trẻ dường như có nguồn năng lượng vô hạn."
       }
+    ],
+    "synonyms": [
+      "limitless"
     ]
   },
   {
@@ -30224,6 +32482,9 @@
         "example": "An unnatural silence filled the normally busy street.",
         "exampleVi": "Một sự câm lặng kỳ lạ bao trùm khắp con phố vốn thường xuyên nhộn nhịp này."
       }
+    ],
+    "synonyms": [
+      "artificial"
     ]
   },
   {
@@ -30237,7 +32498,8 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": []
   },
   {
     "word": "unreasonable",
@@ -30257,6 +32519,9 @@
         "example": "The landlord demanded an unreasonable increase in rent.",
         "exampleVi": "Chủ nhà yêu cầu tăng giá thuê nhà một mức không hợp lý."
       }
+    ],
+    "synonyms": [
+      "irrational"
     ]
   },
   {
@@ -30283,6 +32548,9 @@
         "example": "The unreliable ladder could collapse at any moment.",
         "exampleVi": "Cái thang không đáng tin cậy này có thể sụp đổ bất cứ lúc nào."
       }
+    ],
+    "synonyms": [
+      "undependable"
     ]
   },
   {
@@ -30303,6 +32571,9 @@
         "example": "He felt a growing unrest and could no longer sit still.",
         "exampleVi": "Anh cảm thấy bất an ngày càng tăng, và không thể ngồi yên được nữa."
       }
+    ],
+    "synonyms": [
+      "disturbance"
     ]
   },
   {
@@ -30329,6 +32600,9 @@
         "example": "The unlocked room is unsafe from intruders.",
         "exampleVi": "Căn phòng không khóa dễ bị kẻ đột nhập xâm nhập."
       }
+    ],
+    "synonyms": [
+      "dangerous"
     ]
   },
   {
@@ -30355,6 +32629,9 @@
         "example": "The sudden changes left her feeling emotionally unstable.",
         "exampleVi": "Những thay đổi đột ngột này khiến cô ấy cảm thấy không ổn về mặt tâm lý."
       }
+    ],
+    "synonyms": [
+      "unsteady"
     ]
   },
   {
@@ -30368,7 +32645,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "uncertain"
+    ]
   },
   {
     "word": "unwilling",
@@ -30381,7 +32661,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "reluctant"
+    ]
   },
   {
     "word": "upper",
@@ -30401,7 +32684,8 @@
         "example": "The upper ranks of the organisation make the final decisions.",
         "exampleVi": "Các cấp quản lý cao nhất trong tổ chức là những người đưa ra quyết định cuối cùng."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "upright",
@@ -30421,6 +32705,9 @@
         "example": "An upright official refused to accept the bribe.",
         "exampleVi": "Một viên chức chính trực từ chối nhận hối lộ."
       }
+    ],
+    "synonyms": [
+      "vertical"
     ]
   },
   {
@@ -30441,6 +32728,9 @@
         "example": "The tickets cost twenty pounds upwards.",
         "exampleVi": "Giá vé dao động từ hai mươi bảng trở lên."
       }
+    ],
+    "synonyms": [
+      "upward"
     ]
   },
   {
@@ -30487,6 +32777,9 @@
         ],
         "ipa": "/ɜːdʒd/"
       }
+    ],
+    "synonyms": [
+      "encourage"
     ]
   },
   {
@@ -30533,6 +32826,9 @@
         ],
         "ipa": "/ˈʌʃə(r)d/"
       }
+    ],
+    "synonyms": [
+      "guide"
     ]
   },
   {
@@ -30578,6 +32874,9 @@
         ],
         "ipa": "/ˈʌtə(r)d/"
       }
+    ],
+    "synonyms": [
+      "say"
     ]
   },
   {
@@ -30607,6 +32906,9 @@
         ],
         "ipa": "/ˈvælənˌtɑɪnz/"
       }
+    ],
+    "synonyms": [
+      "sweetheart"
     ]
   },
   {
@@ -30658,6 +32960,9 @@
         ],
         "ipa": "/ˈvænɪʃt/"
       }
+    ],
+    "synonyms": [
+      "disappear"
     ]
   },
   {
@@ -30687,6 +32992,9 @@
         ],
         "ipa": "/ˌveəriˈeɪʃnz/"
       }
+    ],
+    "synonyms": [
+      "change"
     ]
   },
   {
@@ -30700,7 +33008,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "diverse"
+    ]
   },
   {
     "word": "venture",
@@ -30735,6 +33046,9 @@
         ],
         "ipa": "/ˈventʃə(r)z/"
       }
+    ],
+    "synonyms": [
+      "enterprise"
     ]
   },
   {
@@ -30761,6 +33075,9 @@
         "example": "The teacher explained the verbal forms used in the sentence.",
         "exampleVi": "Giáo viên giải thích các dạng động từ trong câu."
       }
+    ],
+    "synonyms": [
+      "oral"
     ]
   },
   {
@@ -30796,6 +33113,9 @@
         ],
         "ipa": "/vɜːsɪz/"
       }
+    ],
+    "synonyms": [
+      "poetry"
     ]
   },
   {
@@ -30816,6 +33136,9 @@
         "example": "The company pursued vertical integration by buying its suppliers.",
         "exampleVi": "Công ty thực hiện việc tích hợp dọc bằng cách mua lại các nhà cung cấp của mình."
       }
+    ],
+    "synonyms": [
+      "upright"
     ]
   },
   {
@@ -30845,7 +33168,8 @@
         ],
         "ipa": "/ˈvetərənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "viewpoint",
@@ -30874,6 +33198,9 @@
         ],
         "ipa": "/ˈvjuːpɔɪnts/"
       }
+    ],
+    "synonyms": [
+      "perspective"
     ]
   },
   {
@@ -30894,6 +33221,9 @@
         "example": "The proposal met vigorous opposition from local residents.",
         "exampleVi": "Đề xuất này đã gặp phải sự phản đối mạnh mẽ từ phía người dân địa phương."
       }
+    ],
+    "synonyms": [
+      "energetic"
     ]
   },
   {
@@ -30907,7 +33237,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "noticeably"
+    ]
   },
   {
     "word": "vital",
@@ -30927,6 +33260,9 @@
         "example": "The heart and lungs are vital organs.",
         "exampleVi": "Tim và phổi là những cơ quan cần thiết cho sự sống."
       }
+    ],
+    "synonyms": [
+      "essential"
     ]
   },
   {
@@ -30973,6 +33309,9 @@
         ],
         "ipa": "/vaʊd/"
       }
+    ],
+    "synonyms": [
+      "oath"
     ]
   },
   {
@@ -31002,6 +33341,9 @@
         ],
         "ipa": "/ˈwɔkɜːz/"
       }
+    ],
+    "synonyms": [
+      "pedestrian"
     ]
   },
   {
@@ -31015,7 +33357,8 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": []
   },
   {
     "word": "waterproof",
@@ -31035,6 +33378,9 @@
         "example": "The tailor chose a durable waterproof for the raincoat.",
         "exampleVi": "Thợ may chọn vải chống nước bền để may áo mưa."
       }
+    ],
+    "synonyms": [
+      "watertight"
     ]
   },
   {
@@ -31080,6 +33426,9 @@
         ],
         "ipa": "/ˈwiːkənd/"
       }
+    ],
+    "synonyms": [
+      "enfeeble"
     ]
   },
   {
@@ -31115,6 +33464,9 @@
         ],
         "ipa": "/ˈwiːknəsɪz/"
       }
+    ],
+    "synonyms": [
+      "shortcoming"
     ]
   },
   {
@@ -31167,7 +33519,8 @@
         ],
         "ipa": "/ˈwoʊvən/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "weed",
@@ -31213,7 +33566,8 @@
         ],
         "ipa": "/wiːdɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "weekly",
@@ -31242,7 +33596,8 @@
         ],
         "ipa": "/ˈwikliz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "weird",
@@ -31255,7 +33610,10 @@
     "tags": [
       "b2"
     ],
-    "senses": []
+    "senses": [],
+    "synonyms": [
+      "bizarre"
+    ]
   },
   {
     "word": "well-balanced",
@@ -31275,7 +33633,8 @@
         "example": "She is a well-balanced person who handles stress calmly.",
         "exampleVi": "Cô ấy là người có tính cách cân bằng, có khả năng đối phó với căng thẳng một cách bình tĩnh."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "whip",
@@ -31326,6 +33685,9 @@
         ],
         "ipa": "/wɪpt/"
       }
+    ],
+    "synonyms": [
+      "lash"
     ]
   },
   {
@@ -31372,6 +33734,9 @@
         ],
         "ipa": "/ˈwɪspɜːd/"
       }
+    ],
+    "synonyms": [
+      "murmur"
     ]
   },
   {
@@ -31418,7 +33783,8 @@
         ],
         "ipa": "/ˈwɪsld/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "widely",
@@ -31444,6 +33810,9 @@
         "example": "The two villages are widely separated by mountains.",
         "exampleVi": "Hai ngôi làng này cách xa nhau rất nhiều, và giữa chúng là những dãy núi."
       }
+    ],
+    "synonyms": [
+      "extensively"
     ]
   },
   {
@@ -31490,7 +33859,8 @@
         ],
         "ipa": "/ˈwɪdəʊd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "wilderness",
@@ -31525,7 +33895,8 @@
         ],
         "ipa": "/ˈwɪldənəsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "wind",
@@ -31572,6 +33943,9 @@
         ],
         "ipa": "/waʊnd/"
       }
+    ],
+    "synonyms": [
+      "meander"
     ]
   },
   {
@@ -31592,6 +33966,9 @@
         "example": "The winding of the cable took several minutes.",
         "exampleVi": "Việc quấn dây cáp mất vài phút."
       }
+    ],
+    "synonyms": [
+      "meandering"
     ]
   },
   {
@@ -31627,6 +34004,9 @@
         ],
         "ipa": "/wɪŋks/"
       }
+    ],
+    "synonyms": [
+      "instant"
     ]
   },
   {
@@ -31672,6 +34052,9 @@
         ],
         "ipa": "/waɪpt/"
       }
+    ],
+    "synonyms": [
+      "clean"
     ]
   },
   {
@@ -31718,7 +34101,8 @@
         ],
         "ipa": "/ˈwaɪə(r)d/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "wise",
@@ -31738,6 +34122,9 @@
         "example": "The old expression \"in no wise\" means \"in no way\".",
         "exampleVi": "Cụm cổ in no wise có nghĩa là không bằng cách nào."
       }
+    ],
+    "synonyms": [
+      "sensible"
     ]
   },
   {
@@ -31773,6 +34160,9 @@
         ],
         "ipa": "/wɪts/"
       }
+    ],
+    "synonyms": [
+      "intelligence"
     ]
   },
   {
@@ -31808,6 +34198,9 @@
         ],
         "ipa": "/wɪðˈdrɔːəlz/"
       }
+    ],
+    "synonyms": [
+      "retreat"
     ]
   },
   {
@@ -31860,7 +34253,8 @@
         ],
         "ipa": "/ˈwʊɫvz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "worm",
@@ -31906,7 +34300,8 @@
         ],
         "ipa": "/wɜːmd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "worn-out",
@@ -31926,6 +34321,9 @@
         "example": "She felt worn-out after working all night.",
         "exampleVi": "Cô cảm thấy mệt mỏi sau khi làm việc suốt đêm."
       }
+    ],
+    "synonyms": [
+      "exhausted"
     ]
   },
   {
@@ -31946,6 +34344,9 @@
         "example": "He is worrying about the interview scheduled for tomorrow.",
         "exampleVi": "Anh ấy đang lo lắng về buổi phỏng vấn được tổ chức vào ngày mai."
       }
+    ],
+    "synonyms": [
+      "troubling"
     ]
   },
   {
@@ -32007,6 +34408,9 @@
         ],
         "ipa": "/ˈwɜːʃɪpt/"
       }
+    ],
+    "synonyms": [
+      "adoration"
     ]
   },
   {
@@ -32053,6 +34457,9 @@
         ],
         "ipa": "/wuːndɪd/"
       }
+    ],
+    "synonyms": [
+      "injury"
     ]
   },
   {
@@ -32099,6 +34506,9 @@
         ],
         "ipa": "/ræpt/"
       }
+    ],
+    "synonyms": [
+      "envelop"
     ]
   },
   {
@@ -32134,6 +34544,9 @@
         ],
         "ipa": "/reks/"
       }
+    ],
+    "synonyms": [
+      "crash"
     ]
   },
   {
@@ -32163,6 +34576,9 @@
         ],
         "ipa": "/ˈeˌksreɪz/"
       }
+    ],
+    "synonyms": [
+      "Roentgen ray"
     ]
   },
   {
@@ -32208,6 +34624,7 @@
         ],
         "ipa": "/zɪpt/"
       }
-    ]
+    ],
+    "synonyms": []
   }
 ]

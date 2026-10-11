@@ -23,6 +23,9 @@
         ],
         "ipa": "/kʌˈrɪk.jʊ.ləmz/"
       }
+    ],
+    "synonyms": [
+      "syllabus"
     ]
   },
   {
@@ -41,6 +44,9 @@
         "example": "She receives private tuition in mathematics twice a week.",
         "exampleVi": "Cô được dạy kèm toán riêng hai lần mỗi tuần."
       }
+    ],
+    "synonyms": [
+      "tuition fees"
     ]
   },
   {
@@ -68,7 +74,8 @@
         ],
         "ipa": "/ˈskɒl.ə.ʃɪps/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "undergraduate",
@@ -97,6 +104,9 @@
         "example": "Undergraduates outnumber postgraduates four to one.",
         "exampleVi": "Sinh viên bậc cử nhân đông gấp bốn lần học viên sau đại học."
       }
+    ],
+    "synonyms": [
+      "bachelor's student"
     ]
   },
   {
@@ -126,7 +136,8 @@
         "example": "Most postgraduates fund their studies by teaching.",
         "exampleVi": "Phần lớn học viên sau đại học tự trang trải việc học bằng đi dạy."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "dissertation",
@@ -153,6 +164,9 @@
         ],
         "ipa": "/dɪ.səˈteɪ.ʃənz/"
       }
+    ],
+    "synonyms": [
+      "thesis"
     ]
   },
   {
@@ -166,7 +180,8 @@
     "family": [
       "plagiarise"
     ],
-    "topic": "education"
+    "topic": "education",
+    "synonyms": []
   },
   {
     "word": "tutorial",
@@ -193,7 +208,8 @@
         ],
         "ipa": "/tjuːˈtɔː.ri.əlz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "seminar",
@@ -220,7 +236,8 @@
         ],
         "ipa": "/ˈsem.ɪ.nɑːrz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "syllabus",
@@ -246,7 +263,8 @@
         ],
         "ipa": "/ˈsɪləbaɪ/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "literacy",
@@ -267,7 +285,8 @@
         "example": "Digital literacy helps people recognize online scams and use technology safely.",
         "exampleVi": "Năng lực số giúp mọi người nhận diện lừa đảo trên mạng và sử dụng công nghệ an toàn."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "numeracy",
@@ -277,7 +296,8 @@
     "example": "Poor numeracy limits which jobs school leavers can take.",
     "exampleVi": "Khả năng tính toán kém hạn chế những công việc mà học sinh tốt nghiệp có thể làm.",
     "level": "C1",
-    "topic": "education"
+    "topic": "education",
+    "synonyms": []
   },
   {
     "word": "motivation",
@@ -307,6 +327,9 @@
         ],
         "ipa": "/ˌməʊ.tɪˈveɪ.ʃənz/"
       }
+    ],
+    "synonyms": [
+      "incentive"
     ]
   },
   {
@@ -317,7 +340,8 @@
     "example": "Learning by rote produces marks but not understanding.",
     "exampleVi": "Lối học vẹt tạo ra điểm số nhưng không tạo ra hiểu biết.",
     "level": "C1",
-    "topic": "education"
+    "topic": "education",
+    "synonyms": []
   },
   {
     "word": "vocational",
@@ -327,7 +351,8 @@
     "example": "Vocational courses lead to work faster than degrees.",
     "exampleVi": "Các khoá thuộc đào tạo nghề dẫn tới việc làm nhanh hơn bằng đại học.",
     "level": "B2",
-    "topic": "education"
+    "topic": "education",
+    "synonyms": []
   },
   {
     "word": "apprenticeship",
@@ -346,7 +371,8 @@
         ],
         "ipa": "/əˈpren.tɪs.ʃɪps/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "truancy",
@@ -356,7 +382,8 @@
     "example": "Truancy rose sharply after the bus routes were cut.",
     "exampleVi": "Việc trốn học tăng mạnh sau khi các tuyến xe buýt bị cắt.",
     "level": "C1",
-    "topic": "education"
+    "topic": "education",
+    "synonyms": []
   },
   {
     "word": "expel",
@@ -401,7 +428,8 @@
         "example": "The school expelled two pupils for repeated cheating.",
         "exampleVi": "Nhà trường đuổi học hai học sinh vì gian lận nhiều lần."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "enrol",
@@ -439,6 +467,9 @@
         ],
         "ipa": "/enˈrəʊld/"
       }
+    ],
+    "synonyms": [
+      "enroll"
     ]
   },
   {
@@ -487,7 +518,8 @@
         ],
         "ipa": "/ˈɡrædʒ.u.eɪtɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "feedback",
@@ -505,6 +537,9 @@
         "example": "A loud squeal of feedback came from the speakers when the microphone was moved too close.",
         "exampleVi": "Một tiếng rít lớn do hồi tiếp vang lên từ loa khi micro bị đưa đến quá gần."
       }
+    ],
+    "synonyms": [
+      "comments"
     ]
   },
   {
@@ -532,6 +567,9 @@
         ],
         "ipa": "/əˈses.mənts/"
       }
+    ],
+    "synonyms": [
+      "evaluation"
     ]
   },
   {
@@ -550,7 +588,8 @@
         "example": "The department's extracurricular charity work takes place outside its normal duties.",
         "exampleVi": "Hoạt động từ thiện ngoài nhiệm vụ chính của phòng ban diễn ra bên ngoài công việc thường lệ."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "boarding",
@@ -568,7 +607,8 @@
         "example": "Boarding will begin twenty minutes before the flight departs.",
         "exampleVi": "Việc lên máy bay sẽ bắt đầu hai mươi phút trước giờ cất cánh."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "coeducation",
@@ -578,7 +618,10 @@
     "example": "Coeducation became standard in the nineteen seventies.",
     "exampleVi": "Giáo dục nam nữ chung lớp trở thành chuẩn mực vào những năm bảy mươi.",
     "level": "C1",
-    "topic": "education"
+    "topic": "education",
+    "synonyms": [
+      "mixed education"
+    ]
   },
   {
     "word": "tertiary",
@@ -596,6 +639,9 @@
         "example": "The tertiary stage follows the primary and secondary stages in this process.",
         "exampleVi": "Giai đoạn thứ ba theo sau giai đoạn thứ nhất và thứ hai trong quy trình này."
       }
+    ],
+    "synonyms": [
+      "postsecondary"
     ]
   },
   {
@@ -606,6 +652,9 @@
     "example": "New pedagogy reached the textbooks long before the classrooms.",
     "exampleVi": "Phương pháp sư phạm mới đến với sách giáo khoa từ lâu trước khi tới lớp học.",
     "level": "C1",
-    "topic": "education"
+    "topic": "education",
+    "synonyms": [
+      "teaching method"
+    ]
   }
 ]

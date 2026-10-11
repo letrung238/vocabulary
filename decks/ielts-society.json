@@ -24,7 +24,8 @@
         ],
         "ipa": "/ɪ.niːˈkwɒl.ɪ.tiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "poverty",
@@ -42,6 +43,9 @@
         "example": "The essay revealed a poverty of imagination despite its many pages.",
         "exampleVi": "Bài luận cho thấy sự nghèo nàn về trí tưởng tượng dù có nhiều trang."
       }
+    ],
+    "synonyms": [
+      "destitution"
     ]
   },
   {
@@ -63,7 +67,8 @@
         "example": "A power failure caused corruption of the file during saving.",
         "exampleVi": "Sự cố mất điện khiến tệp bị hỏng trong khi lưu."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "bureaucracy",
@@ -93,7 +98,8 @@
         ],
         "ipa": "/bjɔːˈrɒk.rə.siz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "democracy",
@@ -123,7 +129,8 @@
         ],
         "ipa": "/dɪˈmɒk.rə.siz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "censorship",
@@ -139,7 +146,8 @@
     "family": [
       "censor"
     ],
-    "topic": "society"
+    "topic": "society",
+    "synonyms": []
   },
   {
     "word": "protest",
@@ -184,6 +192,9 @@
         ],
         "ipa": "/prəˈtestɪd/"
       }
+    ],
+    "synonyms": [
+      "demonstration"
     ]
   },
   {
@@ -213,6 +224,9 @@
         "example": "A single arrest triggered three nights of riots.",
         "exampleVi": "Một vụ bắt giữ duy nhất châm ngòi ba đêm bạo loạn."
       }
+    ],
+    "synonyms": [
+      "uprising"
     ]
   },
   {
@@ -243,6 +257,9 @@
         ],
         "ipa": "/kraɪmz/"
       }
+    ],
+    "synonyms": [
+      "offense"
     ]
   },
   {
@@ -273,7 +290,8 @@
         ],
         "ipa": "/dɪˈtɜː.rənts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "rehabilitate",
@@ -316,7 +334,8 @@
         ],
         "ipa": "/rɪ.həˈbɪl.ɪ.teɪtɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "offender",
@@ -341,6 +360,9 @@
         "example": "Most offenders are released within two years.",
         "exampleVi": "Phần lớn người phạm tội được thả trong vòng hai năm."
       }
+    ],
+    "synonyms": [
+      "criminal"
     ]
   },
   {
@@ -359,6 +381,9 @@
         "example": "The court granted joint custody of the children to both parents.",
         "exampleVi": "Tòa án trao quyền cùng chăm sóc các con cho cả cha lẫn mẹ."
       }
+    ],
+    "synonyms": [
+      "detention"
     ]
   },
   {
@@ -386,6 +411,9 @@
         ],
         "ipa": "/ˈvɜː.dɪkts/"
       }
+    ],
+    "synonyms": [
+      "judgment"
     ]
   },
   {
@@ -413,7 +441,8 @@
         ],
         "ipa": "/ˈdʒʊə.riz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "prosecute",
@@ -462,7 +491,8 @@
         "example": "Few companies are ever prosecuted for pollution.",
         "exampleVi": "Rất ít công ty từng bị truy tố ra toà vì gây ô nhiễm."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "punishment",
@@ -484,6 +514,9 @@
         ],
         "ipa": "/ˈpʌn.ɪʃ.mənts/"
       }
+    ],
+    "synonyms": [
+      "penalty"
     ]
   },
   {
@@ -494,7 +527,8 @@
     "example": "Immigration filled shortages the training system could not.",
     "exampleVi": "Vấn đề nhập cư lấp được những thiếu hụt mà hệ thống đào tạo không lấp nổi.",
     "level": "B2",
-    "topic": "society"
+    "topic": "society",
+    "synonyms": []
   },
   {
     "word": "refugee",
@@ -515,7 +549,8 @@
         "example": "The camp houses refugees from four separate conflicts.",
         "exampleVi": "Trại này chứa người tị nạn từ bốn cuộc xung đột riêng biệt."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "discrimination",
@@ -533,7 +568,8 @@
         "example": "The expert's discrimination between genuine and fake gems is remarkable.",
         "exampleVi": "Khả năng phân biệt đá quý thật và giả của chuyên gia thật đáng chú ý."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "urbanisation",
@@ -547,7 +583,10 @@
       "urban",
       "urbanise"
     ],
-    "topic": "society"
+    "topic": "society",
+    "synonyms": [
+      "urbanization"
+    ]
   },
   {
     "word": "suburb",
@@ -571,7 +610,8 @@
         "example": "Families move to the suburbs once children arrive.",
         "exampleVi": "Các gia đình chuyển ra vùng ngoại ô khi có con."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "overcrowding",
@@ -581,7 +621,8 @@
     "example": "Overcrowding on trains has worsened every year.",
     "exampleVi": "Tình trạng chen chúc quá tải trên tàu tệ đi mỗi năm.",
     "level": "C1",
-    "topic": "society"
+    "topic": "society",
+    "synonyms": []
   },
   {
     "word": "homeless",
@@ -602,7 +643,8 @@
         "example": "The shelter provides warm meals for the homeless.",
         "exampleVi": "Nơi trú tạm cung cấp những bữa ăn nóng cho người không có nhà ở."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "charity",
@@ -632,7 +674,8 @@
         ],
         "ipa": "/ˈtʃær.ɪ.tiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "volunteerism",
@@ -642,6 +685,7 @@
     "example": "Volunteerism cannot substitute for properly funded services.",
     "exampleVi": "Tinh thần tình nguyện không thể thay thế dịch vụ được cấp kinh phí đầy đủ.",
     "level": "C1",
-    "topic": "society"
+    "topic": "society",
+    "synonyms": []
   }
 ]

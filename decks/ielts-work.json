@@ -18,6 +18,9 @@
         "example": "The army began a recruitment campaign for new soldiers.",
         "exampleVi": "Quân đội bắt đầu một chiến dịch tuyển mộ binh sĩ mới."
       }
+    ],
+    "synonyms": [
+      "recruiting"
     ]
   },
   {
@@ -48,6 +51,9 @@
         ],
         "ipa": "/ˈfriː.lɑːnsɪz/"
       }
+    ],
+    "synonyms": [
+      "self-employed"
     ]
   },
   {
@@ -61,7 +67,8 @@
     "family": [
       "outsource"
     ],
-    "topic": "work"
+    "topic": "work",
+    "synonyms": []
   },
   {
     "word": "productivity",
@@ -82,7 +89,8 @@
         "example": "The farmer used compost to improve the productivity of the soil.",
         "exampleVi": "Người nông dân dùng phân ủ để tăng năng suất của đất."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "entrepreneur",
@@ -104,7 +112,8 @@
         ],
         "ipa": "/ˌɒn.trə.prəˈnɜːrz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "commute",
@@ -150,7 +159,8 @@
         ],
         "ipa": "/kəˈmjuːtɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "wage",
@@ -194,7 +204,8 @@
         ],
         "ipa": "/weɪdʒd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "pension",
@@ -221,7 +232,8 @@
         ],
         "ipa": "/ˈpen.ʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "monopoly",
@@ -248,7 +260,8 @@
         ],
         "ipa": "/məˈnɒp.ə.liz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "recession",
@@ -275,6 +288,9 @@
         ],
         "ipa": "/rɪˈseʃ.ənz/"
       }
+    ],
+    "synonyms": [
+      "economic downturn"
     ]
   },
   {
@@ -293,7 +309,8 @@
         "example": "Inflation of the balloon took only a few breaths.",
         "exampleVi": "Chỉ cần thổi vài hơi là quả bóng bay đã căng lên."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "austerity",
@@ -311,6 +328,9 @@
         "example": "The monk chose a life of austerity with few possessions and simple meals.",
         "exampleVi": "Vị tu sĩ chọn một cuộc sống khắc khổ với ít đồ đạc và những bữa ăn giản dị."
       }
+    ],
+    "synonyms": [
+      "belt-tightening"
     ]
   },
   {
@@ -357,6 +377,9 @@
         ],
         "ipa": "/ˈbæŋ.krʌptɪd/"
       }
+    ],
+    "synonyms": [
+      "insolvent"
     ]
   },
   {
@@ -384,7 +407,8 @@
         ],
         "ipa": "/ɪnˈvest.mənts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "workforce",
@@ -403,6 +427,9 @@
         ],
         "ipa": "/ˈwɜːk.fɔːsɪz/"
       }
+    ],
+    "synonyms": [
+      "staff"
     ]
   },
   {
@@ -416,7 +443,8 @@
     "family": [
       "unemployed"
     ],
-    "topic": "work"
+    "topic": "work",
+    "synonyms": []
   },
   {
     "word": "trade union",
@@ -435,6 +463,9 @@
         ],
         "ipa": "/ˈtreɪd ˌjuː.ni.ənz/"
       }
+    ],
+    "synonyms": [
+      "labor union"
     ]
   }
 ]

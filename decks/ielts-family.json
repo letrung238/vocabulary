@@ -16,6 +16,9 @@
         ],
         "ipa": "/ʌpˈbrɪŋ.ɪŋz/"
       }
+    ],
+    "synonyms": [
+      "childrearing"
     ]
   },
   {
@@ -45,7 +48,8 @@
         "example": "Siblings raised apart still share striking habits.",
         "exampleVi": "Anh chị em ruột lớn lên xa nhau vẫn có những thói quen giống nhau đến lạ."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "offspring",
@@ -72,6 +76,9 @@
         ],
         "ipa": "/ˈɒf.sprɪŋ/"
       }
+    ],
+    "synonyms": [
+      "descendants"
     ]
   },
   {
@@ -115,6 +122,9 @@
         ],
         "ipa": "/ˈnɜː.tʃərd/"
       }
+    ],
+    "synonyms": [
+      "foster"
     ]
   },
   {
@@ -134,7 +144,8 @@
         ],
         "ipa": "/ˈbred.wɪn.ərz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "caregiver",
@@ -155,6 +166,9 @@
         "example": "Unpaid caregivers save the state billions each year.",
         "exampleVi": "Người chăm sóc không lương tiết kiệm cho nhà nước hàng tỷ mỗi năm."
       }
+    ],
+    "synonyms": [
+      "carer"
     ]
   },
   {
@@ -165,7 +179,8 @@
     "example": "Parenting advice contradicts itself every decade.",
     "exampleVi": "Lời khuyên về việc làm cha mẹ tự mâu thuẫn sau mỗi thập kỷ.",
     "topic": "family",
-    "level": "B2"
+    "level": "B2",
+    "synonyms": []
   },
   {
     "word": "ancestor",
@@ -194,6 +209,9 @@
         "example": "Their ancestors farmed the same valley for centuries.",
         "exampleVi": "Tổ tiên họ canh tác cùng một thung lũng suốt nhiều thế kỷ."
       }
+    ],
+    "synonyms": [
+      "forebear"
     ]
   },
   {
@@ -221,6 +239,9 @@
         ],
         "ipa": "/dɪˈsen.dənts/"
       }
+    ],
+    "synonyms": [
+      "offspring"
     ]
   },
   {
@@ -266,7 +287,8 @@
         "example": "She inherited the house from her aunt.",
         "exampleVi": "Cô ấy thừa kế ngôi nhà từ người dì."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "kinship",
@@ -284,6 +306,9 @@
         "example": "She felt an immediate kinship with people who shared her love of music.",
         "exampleVi": "Cô lập tức cảm thấy gần gũi với những người cùng yêu âm nhạc."
       }
+    ],
+    "synonyms": [
+      "family relationship"
     ]
   },
   {
@@ -328,7 +353,8 @@
         ],
         "ipa": "/dɪˈvɔːst/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "adoption",
@@ -355,7 +381,8 @@
         ],
         "ipa": "/əˈdɒp.ʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "foster",
@@ -402,7 +429,8 @@
         "example": "They fostered two children.",
         "exampleVi": "Họ nhận nuôi hai đứa trẻ."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "elderly",
@@ -420,6 +448,9 @@
         "example": "The center offers free transport for the elderly.",
         "exampleVi": "Trung tâm cung cấp dịch vụ đưa đón miễn phí cho người cao tuổi."
       }
+    ],
+    "synonyms": [
+      "aged"
     ]
   },
   {
@@ -438,6 +469,9 @@
         "example": "The couple discussed their expectations about sexual intimacy.",
         "exampleVi": "Cặp đôi trao đổi về những mong muốn của họ trong quan hệ thân mật tình dục."
       }
+    ],
+    "synonyms": [
+      "closeness"
     ]
   },
   {
@@ -489,6 +523,9 @@
         ],
         "ipa": "/spɔɪlt/"
       }
+    ],
+    "synonyms": [
+      "pamper"
     ]
   },
   {
@@ -511,7 +548,8 @@
         ],
         "ipa": "/ˌdʒen.əˈreɪ.ʃən ɡæps/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "extended family",
@@ -533,7 +571,8 @@
         ],
         "ipa": "/ɪkˌsten.dɪd ˈfæm.əl.iz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "nuclear family",
@@ -555,7 +594,8 @@
         ],
         "ipa": "/ˌnjuː.kli.ə ˈfæm.əl.iz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "household chore",
@@ -579,7 +619,8 @@
         "example": "Household chores are still divided unevenly by gender.",
         "exampleVi": "Việc nhà vẫn được chia không đều theo giới."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "role model",
@@ -601,7 +642,8 @@
         ],
         "ipa": "/ˈrəʊl ˌmɒd.əlz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "nursing home",
@@ -625,6 +667,7 @@
         "example": "Nursing homes fill up faster than they are built.",
         "exampleVi": "Viện dưỡng lão đầy nhanh hơn tốc độ xây mới."
       }
-    ]
+    ],
+    "synonyms": []
   }
 ]

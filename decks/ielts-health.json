@@ -10,7 +10,8 @@
     "family": [
       "obese"
     ],
-    "topic": "health"
+    "topic": "health",
+    "synonyms": []
   },
   {
     "word": "nutrition",
@@ -24,7 +25,8 @@
       "nutritious",
       "nutritional"
     ],
-    "topic": "health"
+    "topic": "health",
+    "synonyms": []
   },
   {
     "word": "vaccine",
@@ -47,7 +49,8 @@
         ],
         "ipa": "/vækˈsiːnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "epidemic",
@@ -74,6 +77,9 @@
         ],
         "ipa": "/ˌep.ɪˈdem.ɪks/"
       }
+    ],
+    "synonyms": [
+      "outbreak"
     ]
   },
   {
@@ -101,7 +107,8 @@
         ],
         "ipa": "/pænˈdem.ɪks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "diagnosis",
@@ -132,7 +139,8 @@
         ],
         "ipa": "/ˌdaɪəɡˈnəʊsiːz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "chronic",
@@ -150,6 +158,9 @@
         "example": "His chronic lateness frustrated the rest of the team.",
         "exampleVi": "Thói quen đến muộn lặp đi lặp lại của anh khiến cả đội bực bội."
       }
+    ],
+    "synonyms": [
+      "persistent"
     ]
   },
   {
@@ -172,6 +183,9 @@
         "example": "Her infectious laugh soon had everyone smiling.",
         "exampleVi": "Tiếng cười dễ lan sang người khác của cô chẳng mấy chốc khiến mọi người đều mỉm cười."
       }
+    ],
+    "synonyms": [
+      "contagious"
     ]
   },
   {
@@ -193,7 +207,8 @@
         "example": "She seems immune to criticism and continues with her plan.",
         "exampleVi": "Cô dường như không bị ảnh hưởng bởi những lời phê bình và tiếp tục kế hoạch của mình."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "symptom",
@@ -220,7 +235,8 @@
         ],
         "ipa": "/ˈsɪmp.təmz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "hygiene",
@@ -238,7 +254,8 @@
         "example": "Good password hygiene includes avoiding the reuse of the same password.",
         "exampleVi": "Thói quen giữ an toàn mật khẩu tốt bao gồm việc tránh dùng lại cùng một mật khẩu."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "sanitation",
@@ -256,7 +273,8 @@
         "example": "The town invested in sanitation to collect and treat wastewater safely.",
         "exampleVi": "Thị trấn đầu tư vào hệ thống vệ sinh để thu gom và xử lý nước thải an toàn."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "therapy",
@@ -279,6 +297,9 @@
         ],
         "ipa": "/ˈθer.ə.piz/"
       }
+    ],
+    "synonyms": [
+      "treatment"
     ]
   },
   {
@@ -309,7 +330,8 @@
         ],
         "ipa": "/prɪˈskrɪp.ʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "surgery",
@@ -340,6 +362,9 @@
         ],
         "ipa": "/ˈsɜː.dʒə.riz/"
       }
+    ],
+    "synonyms": [
+      "operation"
     ]
   },
   {
@@ -350,7 +375,10 @@
     "example": "Shift work is a common cause of insomnia.",
     "exampleVi": "Làm việc theo ca là nguyên nhân phổ biến của chứng mất ngủ.",
     "level": "C1",
-    "topic": "health"
+    "topic": "health",
+    "synonyms": [
+      "sleeplessness"
+    ]
   },
   {
     "word": "addiction",
@@ -373,6 +401,9 @@
         ],
         "ipa": "/əˈdɪk.ʃənz/"
       }
+    ],
+    "synonyms": [
+      "dependence"
     ]
   },
   {
@@ -391,7 +422,8 @@
         "example": "The barnacle is a sedentary animal that remains attached to a surface.",
         "exampleVi": "Hà biển là một loài động vật sống cố định, luôn bám vào một bề mặt."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "lifespan",
@@ -418,6 +450,9 @@
         ],
         "ipa": "/ˈlaɪf.spænz/"
       }
+    ],
+    "synonyms": [
+      "life expectancy"
     ]
   },
   {
@@ -436,6 +471,9 @@
         "example": "The poem reflects on human mortality and the passing of time.",
         "exampleVi": "Bài thơ suy ngẫm về thân phận hữu hạn của con người và dòng thời gian trôi qua."
       }
+    ],
+    "synonyms": [
+      "death rate"
     ]
   },
   {
@@ -463,7 +501,8 @@
         ],
         "ipa": "/ˈaʊt.breɪks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "malnutrition",
@@ -473,7 +512,8 @@
     "example": "Malnutrition stunts growth long before it kills.",
     "exampleVi": "Tình trạng suy dinh dưỡng làm còi cọc từ rất lâu trước khi gây tử vong.",
     "level": "C1",
-    "topic": "health"
+    "topic": "health",
+    "synonyms": []
   },
   {
     "word": "remedy",
@@ -500,6 +540,9 @@
         ],
         "ipa": "/ˈrem.ə.diz/"
       }
+    ],
+    "synonyms": [
+      "cure"
     ]
   },
   {
@@ -521,7 +564,8 @@
         "example": "The rehabilitation of the abandoned warehouse created space for new apartments.",
         "exampleVi": "Việc cải tạo nhà kho bị bỏ hoang tạo ra không gian cho các căn hộ mới."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "wellbeing",
@@ -531,7 +575,10 @@
     "example": "Green space in cities measurably improves wellbeing.",
     "exampleVi": "Không gian xanh trong đô thị cải thiện rõ rệt sự an vui khoẻ mạnh.",
     "level": "C1",
-    "topic": "health"
+    "topic": "health",
+    "synonyms": [
+      "well-being"
+    ]
   },
   {
     "word": "longevity",
@@ -549,7 +596,8 @@
         "example": "The manufacturer tested the battery's longevity under normal use.",
         "exampleVi": "Nhà sản xuất kiểm tra tuổi thọ sử dụng của pin trong điều kiện thông thường."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "stigma",
@@ -586,6 +634,7 @@
         ],
         "ipa": "/stɪɡˈmɑtə/"
       }
-    ]
+    ],
+    "synonyms": []
   }
 ]

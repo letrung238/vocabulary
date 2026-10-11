@@ -36,7 +36,8 @@
         "example": "The company signed a renewable one-year lease.",
         "exampleVi": "Công ty ký một hợp đồng thuê một năm có thể gia hạn."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "emission",
@@ -68,7 +69,8 @@
         "example": "Emissions from transport have barely fallen since 2000.",
         "exampleVi": "Khí thải phát ra từ giao thông hầu như không giảm kể từ năm 2000."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "carbon",
@@ -95,7 +97,8 @@
         ],
         "ipa": "/ˈkɑː.bənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "deforestation",
@@ -108,7 +111,10 @@
     "family": [
       "deforest"
     ],
-    "topic": "environment"
+    "topic": "environment",
+    "synonyms": [
+      "forest clearance"
+    ]
   },
   {
     "word": "biodiversity",
@@ -118,7 +124,8 @@
     "example": "Wetlands hold more biodiversity than any farmland.",
     "exampleVi": "Đất ngập nước chứa đựng đa dạng sinh học nhiều hơn bất kỳ vùng canh tác nào.",
     "level": "C1",
-    "topic": "environment"
+    "topic": "environment",
+    "synonyms": []
   },
   {
     "word": "ecosystem",
@@ -137,7 +144,8 @@
         ],
         "ipa": "/ˈiː.kəʊ.sɪ.stəmz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "habitat",
@@ -147,7 +155,8 @@
     "example": "Road building has fragmented the tiger's habitat.",
     "exampleVi": "Việc làm đường đã chia cắt nơi cư trú của loài hổ.",
     "level": "B2",
-    "topic": "environment"
+    "topic": "environment",
+    "synonyms": []
   },
   {
     "word": "pollutant",
@@ -172,6 +181,9 @@
         "example": "The river carries pollutants from three provinces.",
         "exampleVi": "Con sông mang theo chất gây ô nhiễm từ ba tỉnh."
       }
+    ],
+    "synonyms": [
+      "contaminant"
     ]
   },
   {
@@ -199,6 +211,9 @@
         ],
         "ipa": "/ˈlænd.fɪlz/"
       }
+    ],
+    "synonyms": [
+      "rubbish dump"
     ]
   },
   {
@@ -248,7 +263,8 @@
         "example": "Only a quarter of household waste is actually recycled.",
         "exampleVi": "Chỉ một phần tư rác sinh hoạt thực sự được tái chế."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "conservation",
@@ -269,6 +285,9 @@
         "example": "The calculation relies on the conservation of energy.",
         "exampleVi": "Phép tính dựa trên nguyên lý bảo toàn năng lượng."
       }
+    ],
+    "synonyms": [
+      "preservation"
     ]
   },
   {
@@ -290,7 +309,8 @@
         "example": "The geologist classified the volcano as extinct, with no expected future eruptions.",
         "exampleVi": "Nhà địa chất xếp núi lửa này vào loại đã tắt, không được dự đoán sẽ phun trào trở lại."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "endangered",
@@ -300,7 +320,10 @@
     "example": "The park shelters twelve endangered mammals.",
     "exampleVi": "Công viên che chở mười hai loài thú đang bị đe doạ tuyệt chủng.",
     "level": "B2",
-    "topic": "environment"
+    "topic": "environment",
+    "synonyms": [
+      "threatened"
+    ]
   },
   {
     "word": "pesticide",
@@ -319,7 +342,8 @@
         ],
         "ipa": "/ˈpes.tɪ.saɪdz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "drought",
@@ -346,7 +370,8 @@
         ],
         "ipa": "/draʊts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "famine",
@@ -373,6 +398,9 @@
         ],
         "ipa": "/ˈfæm.ɪnz/"
       }
+    ],
+    "synonyms": [
+      "starvation"
     ]
   },
   {
@@ -394,7 +422,8 @@
         "example": "The scandal caused a gradual erosion of public trust.",
         "exampleVi": "Vụ bê bối khiến lòng tin của công chúng suy giảm dần."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "glacier",
@@ -413,7 +442,8 @@
         ],
         "ipa": "/ˈɡleɪ.ʃərz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "greenhouse",
@@ -440,6 +470,9 @@
         ],
         "ipa": "/ˈɡriːn.haʊzɪz/"
       }
+    ],
+    "synonyms": [
+      "hothouse"
     ]
   },
   {
@@ -450,7 +483,8 @@
     "example": "Ozone in the upper atmosphere absorbs ultraviolet radiation.",
     "exampleVi": "Khí ô-dôn ở tầng khí quyển trên hấp thụ bức xạ cực tím.",
     "level": "B2",
-    "topic": "environment"
+    "topic": "environment",
+    "synonyms": []
   },
   {
     "word": "sewage",
@@ -460,7 +494,10 @@
     "example": "Untreated sewage flows straight into the bay.",
     "exampleVi": "Nước thải sinh hoạt chưa xử lý chảy thẳng ra vịnh.",
     "level": "C1",
-    "topic": "environment"
+    "topic": "environment",
+    "synonyms": [
+      "wastewater"
+    ]
   },
   {
     "word": "toxic",
@@ -481,6 +518,9 @@
         "example": "She left the toxic workplace after months of bullying.",
         "exampleVi": "Cô rời môi trường làm việc độc hại sau nhiều tháng bị bắt nạt."
       }
+    ],
+    "synonyms": [
+      "poisonous"
     ]
   },
   {
@@ -491,7 +531,8 @@
     "example": "Fences cut wildlife off from seasonal water.",
     "exampleVi": "Hàng rào cắt đứt động vật hoang dã khỏi nguồn nước theo mùa.",
     "level": "B1",
-    "topic": "environment"
+    "topic": "environment",
+    "synonyms": []
   },
   {
     "word": "reservoir",
@@ -518,7 +559,8 @@
         ],
         "ipa": "/ˈrez.ə.vwɑːrz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "irrigation",
@@ -539,7 +581,8 @@
         "example": "The nurse prepared sterile fluid for wound irrigation.",
         "exampleVi": "Y tá chuẩn bị dung dịch vô trùng để rửa vết thương."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "desertification",
@@ -549,7 +592,8 @@
     "example": "Overgrazing is the main driver of desertification here.",
     "exampleVi": "Chăn thả quá mức là động lực chính của tình trạng sa mạc hoá ở đây.",
     "level": "C1",
-    "topic": "environment"
+    "topic": "environment",
+    "synonyms": []
   },
   {
     "word": "overfishing",
@@ -559,7 +603,8 @@
     "example": "Overfishing has emptied grounds that fed villages for centuries.",
     "exampleVi": "Đánh bắt cá quá mức đã vét sạch những ngư trường nuôi sống các làng suốt hàng thế kỷ.",
     "level": "C1",
-    "topic": "environment"
+    "topic": "environment",
+    "synonyms": []
   },
   {
     "word": "reforestation",
@@ -569,7 +614,8 @@
     "example": "Reforestation projects rarely survive their first dry season.",
     "exampleVi": "Các dự án trồng lại rừng hiếm khi sống sót qua mùa khô đầu tiên.",
     "level": "C1",
-    "topic": "environment"
+    "topic": "environment",
+    "synonyms": []
   },
   {
     "word": "composting",
@@ -579,7 +625,8 @@
     "example": "Composting removes a third of the weight from household bins.",
     "exampleVi": "Việc ủ rác hữu cơ lấy đi một phần ba trọng lượng thùng rác gia đình.",
     "level": "C1",
-    "topic": "environment"
+    "topic": "environment",
+    "synonyms": []
   },
   {
     "word": "sustainability",
@@ -589,7 +636,8 @@
     "example": "Sustainability is now written into every planning decision.",
     "exampleVi": "Tính bền vững nay được ghi vào mọi quyết định quy hoạch.",
     "level": "C1",
-    "topic": "environment"
+    "topic": "environment",
+    "synonyms": []
   },
   {
     "word": "contaminate",
@@ -637,6 +685,9 @@
         "example": "Mining contaminated the groundwater for decades.",
         "exampleVi": "Khai khoáng làm nhiễm bẩn nước ngầm suốt nhiều thập kỷ."
       }
+    ],
+    "synonyms": [
+      "pollute"
     ]
   },
   {
@@ -685,6 +736,9 @@
         ],
         "ipa": "/dɪˈɡreɪdɪd/"
       }
+    ],
+    "synonyms": [
+      "deteriorate"
     ]
   },
   {
@@ -723,6 +777,9 @@
         ],
         "ipa": "/dɪˈpliːtɪd/"
       }
+    ],
+    "synonyms": [
+      "exhaust"
     ]
   }
 ]

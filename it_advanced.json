@@ -14,7 +14,8 @@
         ],
         "ipa": "/æbˈstræk.ʃən ˈleɪ.ərz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "alert fatigue",
@@ -22,7 +23,8 @@
     "pos": "noun",
     "meaningVi": "chai lì vì cảnh báo quá nhiều",
     "example": "Noisy alerts cause alert fatigue.",
-    "exampleVi": "Cảnh báo ồn ào gây ra tình trạng chai lì."
+    "exampleVi": "Cảnh báo ồn ào gây ra tình trạng chai lì.",
+    "synonyms": []
   },
   {
     "word": "API gateway",
@@ -39,7 +41,8 @@
         ],
         "ipa": "/ˌeɪ.piːˈaɪ ˈɡeɪt.weɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "artifact registry",
@@ -56,6 +59,9 @@
         ],
         "ipa": "/ˈɑː.tɪ.fækt ˈredʒ.ɪ.striz/"
       }
+    ],
+    "synonyms": [
+      "artifact repository"
     ]
   },
   {
@@ -64,7 +70,8 @@
     "pos": "adjective",
     "meaningVi": "đảm bảo giao ít nhất một lần, có thể lặp",
     "example": "Delivery is at-least-once, so handle duplicates.",
-    "exampleVi": "Tin được giao ít nhất một lần, nên phải xử lý trùng."
+    "exampleVi": "Tin được giao ít nhất một lần, nên phải xử lý trùng.",
+    "synonyms": []
   },
   {
     "word": "atomic",
@@ -80,6 +87,9 @@
         "example": "Atomic energy can generate electricity.",
         "exampleVi": "Năng lượng nguyên tử có thể tạo ra điện."
       }
+    ],
+    "synonyms": [
+      "indivisible"
     ]
   },
   {
@@ -97,7 +107,8 @@
         ],
         "ipa": "/əˈtæk ˈsɜː.fɪsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "autoscaling",
@@ -105,7 +116,8 @@
     "pos": "noun",
     "meaningVi": "tự co giãn số máy theo tải",
     "example": "Autoscaling added four nodes at noon.",
-    "exampleVi": "Cơ chế tự co giãn thêm bốn node lúc trưa."
+    "exampleVi": "Cơ chế tự co giãn thêm bốn node lúc trưa.",
+    "synonyms": []
   },
   {
     "word": "backpressure",
@@ -113,7 +125,8 @@
     "pos": "noun",
     "meaningVi": "cơ chế ép bên gửi chậm lại",
     "example": "The queue applies backpressure when full.",
-    "exampleVi": "Hàng đợi ép bên gửi chậm lại khi đầy."
+    "exampleVi": "Hàng đợi ép bên gửi chậm lại khi đầy.",
+    "synonyms": []
   },
   {
     "word": "backward compatibility",
@@ -121,7 +134,8 @@
     "pos": "noun",
     "meaningVi": "tương thích ngược với bản cũ",
     "example": "Keep backward compatibility for one release.",
-    "exampleVi": "Giữ tương thích ngược thêm một bản phát hành."
+    "exampleVi": "Giữ tương thích ngược thêm một bản phát hành.",
+    "synonyms": []
   },
   {
     "word": "blast radius",
@@ -145,7 +159,8 @@
         ],
         "ipa": "/blɑːst ˈreɪ.di.əsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "blue-green deployment",
@@ -162,7 +177,8 @@
         ],
         "ipa": "/ˌbluː ɡriːn dɪˈplɔɪ.mənts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "boilerplate code",
@@ -170,7 +186,10 @@
     "pos": "noun",
     "meaningVi": "code lặp khuôn mẫu",
     "example": "The generator removes the boilerplate code.",
-    "exampleVi": "Bộ sinh code loại bỏ phần code lặp khuôn mẫu."
+    "exampleVi": "Bộ sinh code loại bỏ phần code lặp khuôn mẫu.",
+    "synonyms": [
+      "boilerplate"
+    ]
   },
   {
     "word": "buffer overflow",
@@ -187,7 +206,8 @@
         ],
         "ipa": "/ˈbʌf.ər ˈəʊ.və.fləʊz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "build reproducibility",
@@ -195,7 +215,8 @@
     "pos": "noun",
     "meaningVi": "khả năng build ra kết quả giống hệt",
     "example": "Pinned versions give build reproducibility.",
-    "exampleVi": "Ghim phiên bản giúp build ra kết quả giống hệt."
+    "exampleVi": "Ghim phiên bản giúp build ra kết quả giống hệt.",
+    "synonyms": []
   },
   {
     "word": "bulkhead",
@@ -222,7 +243,8 @@
         "example": "Bulkheads keep one slow call from sinking the service.",
         "exampleVi": "Vách ngăn giữ cho một lời gọi chậm không kéo sập cả dịch vụ."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cache hit ratio",
@@ -239,7 +261,8 @@
         ],
         "ipa": "/kæʃ hɪt ˈreɪ.ʃi.əʊz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cache invalidation",
@@ -247,7 +270,8 @@
     "pos": "noun",
     "meaningVi": "xoá cache cũ khi dữ liệu đổi",
     "example": "Cache invalidation is the hard part.",
-    "exampleVi": "Xoá cache cũ mới là phần khó."
+    "exampleVi": "Xoá cache cũ mới là phần khó.",
+    "synonyms": []
   },
   {
     "word": "capacity headroom",
@@ -255,7 +279,8 @@
     "pos": "noun",
     "meaningVi": "phần dư năng lực còn lại",
     "example": "Keep thirty percent capacity headroom.",
-    "exampleVi": "Giữ lại ba mươi phần trăm năng lực dư."
+    "exampleVi": "Giữ lại ba mươi phần trăm năng lực dư.",
+    "synonyms": []
   },
   {
     "word": "cardinality",
@@ -272,7 +297,8 @@
         ],
         "ipa": "/ˌkɑː.dɪˈnæl.ə.tiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "certificate pinning",
@@ -280,7 +306,8 @@
     "pos": "noun",
     "meaningVi": "ghim chứng chỉ để chống giả mạo",
     "example": "Certificate pinning broke after the renewal.",
-    "exampleVi": "Việc ghim chứng chỉ hỏng sau khi gia hạn."
+    "exampleVi": "Việc ghim chứng chỉ hỏng sau khi gia hạn.",
+    "synonyms": []
   },
   {
     "word": "changelog entry",
@@ -297,7 +324,8 @@
         ],
         "ipa": "/ˈtʃeɪndʒ.lɒɡ ˈen.triz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "chaos engineering",
@@ -305,7 +333,8 @@
     "pos": "noun",
     "meaningVi": "chủ động gây lỗi để thử sức chịu đựng",
     "example": "Chaos engineering exposed the missing retry.",
-    "exampleVi": "Việc chủ động gây lỗi phơi ra chỗ thiếu cơ chế thử lại."
+    "exampleVi": "Việc chủ động gây lỗi phơi ra chỗ thiếu cơ chế thử lại.",
+    "synonyms": []
   },
   {
     "word": "checkpointing",
@@ -313,7 +342,8 @@
     "pos": "noun",
     "meaningVi": "lưu mốc để khôi phục nhanh",
     "example": "Checkpointing every minute keeps recovery short.",
-    "exampleVi": "Lưu mốc mỗi phút giúp khôi phục nhanh."
+    "exampleVi": "Lưu mốc mỗi phút giúp khôi phục nhanh.",
+    "synonyms": []
   },
   {
     "word": "circuit breaker",
@@ -338,7 +368,8 @@
         ],
         "ipa": "/ˈsɜː.kɪt ˈbreɪ.kərz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "closure",
@@ -363,7 +394,8 @@
         ],
         "ipa": "/ˈkləʊ.ʒərz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "code smell",
@@ -380,7 +412,8 @@
         ],
         "ipa": "/kəʊd smelz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cohesion",
@@ -396,7 +429,8 @@
         "example": "Shared goals strengthened cohesion within the team.",
         "exampleVi": "Mục tiêu chung củng cố sự đoàn kết trong đội."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cold start",
@@ -421,7 +455,8 @@
         ],
         "ipa": "/kəʊld stɑːts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "columnar storage",
@@ -429,7 +464,10 @@
     "pos": "noun",
     "meaningVi": "lưu theo cột, hợp cho phân tích",
     "example": "Columnar storage sped the aggregation up.",
-    "exampleVi": "Lưu theo cột giúp phép tổng hợp nhanh hẳn."
+    "exampleVi": "Lưu theo cột giúp phép tổng hợp nhanh hẳn.",
+    "synonyms": [
+      "column-oriented storage"
+    ]
   },
   {
     "word": "connection pool",
@@ -446,7 +484,8 @@
         ],
         "ipa": "/kəˈnek.ʃən puːlz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "consensus",
@@ -471,6 +510,9 @@
         ],
         "ipa": "/kənˈsen.səsɪz/"
       }
+    ],
+    "synonyms": [
+      "agreement"
     ]
   },
   {
@@ -479,7 +521,8 @@
     "pos": "noun",
     "meaningVi": "băm nhất quán để chia lại ít dữ liệu",
     "example": "Consistent hashing limits the reshuffle.",
-    "exampleVi": "Băm nhất quán hạn chế lượng dữ liệu phải chia lại."
+    "exampleVi": "Băm nhất quán hạn chế lượng dữ liệu phải chia lại.",
+    "synonyms": []
   },
   {
     "word": "correlation id",
@@ -496,7 +539,8 @@
         ],
         "ipa": "/ˌkɒr.əˈleɪ.ʃən ˌaɪˈdiːz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "coupling",
@@ -521,7 +565,8 @@
         ],
         "ipa": "/ˈkʌp.lɪŋz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "coverage gap",
@@ -538,7 +583,8 @@
         ],
         "ipa": "/ˈkʌv.ər.ɪdʒ ɡæps/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cross-site scripting",
@@ -546,7 +592,10 @@
     "pos": "noun",
     "meaningVi": "chèn mã độc vào trang web",
     "example": "Escape output to stop cross-site scripting.",
-    "exampleVi": "Thoát ký tự đầu ra để chặn chèn mã độc."
+    "exampleVi": "Thoát ký tự đầu ra để chặn chèn mã độc.",
+    "synonyms": [
+      "XSS"
+    ]
   },
   {
     "word": "cyclomatic complexity",
@@ -563,7 +612,8 @@
         ],
         "ipa": "/ˌsaɪ.kləˈmæt.ɪk kəmˈplek.sə.tiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "dangling pointer",
@@ -580,7 +630,8 @@
         ],
         "ipa": "/ˈdæŋ.ɡlɪŋ ˈpɔɪn.tərz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "dark launch",
@@ -597,7 +648,8 @@
         ],
         "ipa": "/dɑːk lɔːntʃɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "dead letter queue",
@@ -614,6 +666,9 @@
         ],
         "ipa": "/ded ˈlet.ər kjuːz/"
       }
+    ],
+    "synonyms": [
+      "DLQ"
     ]
   },
   {
@@ -647,7 +702,8 @@
         ],
         "ipa": "/dɪˈbaʊnst/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "denormalize",
@@ -682,7 +738,8 @@
         "example": "We denormalized the table to skip the join.",
         "exampleVi": "Chúng tôi gộp bảng lại để bỏ được phép join."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "dependency injection",
@@ -699,6 +756,9 @@
         ],
         "ipa": "/dɪˈpen.dən.si ɪnˈdʒek.ʃənz/"
       }
+    ],
+    "synonyms": [
+      "DI"
     ]
   },
   {
@@ -707,7 +767,8 @@
     "pos": "noun",
     "meaningVi": "ghim phiên bản thư viện",
     "example": "Dependency pinning stopped the surprise upgrade.",
-    "exampleVi": "Ghim phiên bản chặn được cú nâng cấp bất ngờ."
+    "exampleVi": "Ghim phiên bản chặn được cú nâng cấp bất ngờ.",
+    "synonyms": []
   },
   {
     "word": "deprecation notice",
@@ -724,7 +785,8 @@
         ],
         "ipa": "/ˌdep.rəˈkeɪ.ʃən ˈnəʊ.tɪsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "dirty read",
@@ -741,7 +803,8 @@
         ],
         "ipa": "/ˈdɜː.ti riːdz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "distributed tracing",
@@ -749,7 +812,8 @@
     "pos": "noun",
     "meaningVi": "truy vết một yêu cầu qua nhiều dịch vụ",
     "example": "Distributed tracing showed the slow hop.",
-    "exampleVi": "Truy vết xuyên dịch vụ chỉ ra chặng chậm."
+    "exampleVi": "Truy vết xuyên dịch vụ chỉ ra chặng chậm.",
+    "synonyms": []
   },
   {
     "word": "drain",
@@ -790,7 +854,8 @@
         ],
         "ipa": "/dreɪnd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "drift",
@@ -831,7 +896,8 @@
         ],
         "ipa": "/drɪftɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "eager loading",
@@ -839,7 +905,8 @@
     "pos": "noun",
     "meaningVi": "nạp sẵn trước khi dùng",
     "example": "Eager loading fixed the N+1 query.",
-    "exampleVi": "Nạp sẵn trước đã sửa được lỗi truy vấn lặp."
+    "exampleVi": "Nạp sẵn trước đã sửa được lỗi truy vấn lặp.",
+    "synonyms": []
   },
   {
     "word": "edge",
@@ -864,7 +931,8 @@
         ],
         "ipa": "/edʒɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "encapsulation",
@@ -880,7 +948,8 @@
         "example": "Encapsulation protects the ingredient inside a thin coating.",
         "exampleVi": "Việc bao bọc bảo vệ thành phần bên trong một lớp phủ mỏng."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "error budget",
@@ -897,7 +966,8 @@
         ],
         "ipa": "/ˈer.ər ˈbʌdʒ.ɪts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "eventual consistency",
@@ -905,7 +975,8 @@
     "pos": "noun",
     "meaningVi": "nhất quán sau một khoảng trễ",
     "example": "The read replica offers eventual consistency.",
-    "exampleVi": "Bản sao đọc chỉ nhất quán sau một khoảng trễ."
+    "exampleVi": "Bản sao đọc chỉ nhất quán sau một khoảng trễ.",
+    "synonyms": []
   },
   {
     "word": "exactly-once",
@@ -913,7 +984,8 @@
     "pos": "adjective",
     "meaningVi": "đảm bảo xử lý đúng một lần",
     "example": "Exactly-once processing costs more.",
-    "exampleVi": "Xử lý đúng một lần tốn kém hơn."
+    "exampleVi": "Xử lý đúng một lần tốn kém hơn.",
+    "synonyms": []
   },
   {
     "word": "exponential backoff",
@@ -921,7 +993,8 @@
     "pos": "noun",
     "meaningVi": "thử lại với khoảng chờ tăng dần",
     "example": "Retry with exponential backoff and jitter.",
-    "exampleVi": "Thử lại với khoảng chờ tăng dần và có xê dịch ngẫu nhiên."
+    "exampleVi": "Thử lại với khoảng chờ tăng dần và có xê dịch ngẫu nhiên.",
+    "synonyms": []
   },
   {
     "word": "feature toggle",
@@ -938,6 +1011,9 @@
         ],
         "ipa": "/ˈfiː.tʃər ˈtɒɡ.əlz/"
       }
+    ],
+    "synonyms": [
+      "feature flag"
     ]
   },
   {
@@ -963,7 +1039,8 @@
         ],
         "ipa": "/ˈfɪks.tʃərz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "flaky test",
@@ -980,7 +1057,8 @@
         ],
         "ipa": "/ˈfleɪ.ki tests/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "foreign key",
@@ -997,7 +1075,8 @@
         ],
         "ipa": "/ˈfɒr.ən kiːz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "full table scan",
@@ -1014,7 +1093,8 @@
         ],
         "ipa": "/fʊl ˈteɪ.bəl skænz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "gossip protocol",
@@ -1031,7 +1111,8 @@
         ],
         "ipa": "/ˈɡɒs.ɪp ˈprəʊ.tə.kɒlz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "graceful shutdown",
@@ -1048,7 +1129,8 @@
         ],
         "ipa": "/ˈɡreɪs.fəl ˈʃʌt.daʊnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "handshake",
@@ -1073,7 +1155,8 @@
         ],
         "ipa": "/ˈhænd.ʃeɪks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "hashing",
@@ -1081,7 +1164,8 @@
     "pos": "noun",
     "meaningVi": "băm dữ liệu thành chuỗi cố định",
     "example": "Password hashing must be slow on purpose.",
-    "exampleVi": "Việc băm mật khẩu phải cố ý chậm."
+    "exampleVi": "Việc băm mật khẩu phải cố ý chậm.",
+    "synonyms": []
   },
   {
     "word": "heartbeat",
@@ -1108,7 +1192,8 @@
         "example": "Miss three heartbeats and the node is dropped.",
         "exampleVi": "Trượt ba tín hiệu báo sống là node bị loại."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "hot partition",
@@ -1125,7 +1210,8 @@
         ],
         "ipa": "/hɒt pɑːˈtɪʃ.ənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "hotpath",
@@ -1142,6 +1228,9 @@
         ],
         "ipa": "/ˈhɒt.pɑːθs/"
       }
+    ],
+    "synonyms": [
+      "hot path"
     ]
   },
   {
@@ -1159,7 +1248,8 @@
         ],
         "ipa": "/ˌaɪ.demˈpəʊ.tən.si kiːz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "infrastructure as code",
@@ -1167,7 +1257,10 @@
     "pos": "noun",
     "meaningVi": "khai báo hạ tầng bằng file code",
     "example": "Infrastructure as code made the rebuild repeatable.",
-    "exampleVi": "Khai báo hạ tầng bằng code giúp dựng lại y hệt."
+    "exampleVi": "Khai báo hạ tầng bằng code giúp dựng lại y hệt.",
+    "synonyms": [
+      "IaC"
+    ]
   },
   {
     "word": "injection",
@@ -1192,7 +1285,8 @@
         ],
         "ipa": "/ɪnˈdʒek.ʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "inversion of control",
@@ -1200,7 +1294,10 @@
     "pos": "noun",
     "meaningVi": "đảo ngược quyền điều khiển",
     "example": "The framework applies inversion of control.",
-    "exampleVi": "Framework đó áp dụng nguyên tắc đảo quyền điều khiển."
+    "exampleVi": "Framework đó áp dụng nguyên tắc đảo quyền điều khiển.",
+    "synonyms": [
+      "IoC"
+    ]
   },
   {
     "word": "isolation level",
@@ -1217,7 +1314,8 @@
         ],
         "ipa": "/ˌaɪ.səˈleɪ.ʃən ˈlev.əlz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "jitter",
@@ -1259,7 +1357,8 @@
         ],
         "ipa": "/ˈdʒɪt.ərd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "lag",
@@ -1301,6 +1400,9 @@
         ],
         "ipa": "/læɡd/"
       }
+    ],
+    "synonyms": [
+      "delay"
     ]
   },
   {
@@ -1309,7 +1411,8 @@
     "pos": "noun",
     "meaningVi": "chỉ nạp khi thật sự cần",
     "example": "Lazy loading trimmed the startup cost.",
-    "exampleVi": "Việc chỉ nạp khi cần giảm chi phí khởi động."
+    "exampleVi": "Việc chỉ nạp khi cần giảm chi phí khởi động.",
+    "synonyms": []
   },
   {
     "word": "leader election",
@@ -1326,7 +1429,8 @@
         ],
         "ipa": "/ˈliː.dər ɪˈlek.ʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "linting",
@@ -1334,7 +1438,8 @@
     "pos": "noun",
     "meaningVi": "soát lỗi và phong cách code tự động",
     "example": "Linting runs before every commit.",
-    "exampleVi": "Việc soát code tự động chạy trước mỗi lần commit."
+    "exampleVi": "Việc soát code tự động chạy trước mỗi lần commit.",
+    "synonyms": []
   },
   {
     "word": "liveness probe",
@@ -1351,7 +1456,8 @@
         ],
         "ipa": "/ˈlaɪv.nəs prəʊbz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "load balancer",
@@ -1368,7 +1474,8 @@
         ],
         "ipa": "/ləʊd ˈbæl.ən.sərz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "log level",
@@ -1385,7 +1492,8 @@
         ],
         "ipa": "/lɒɡ ˈlev.əlz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "materialized view",
@@ -1402,7 +1510,8 @@
         ],
         "ipa": "/məˈtɪə.ri.ə.laɪzd vjuːz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "memoization",
@@ -1410,7 +1519,8 @@
     "pos": "noun",
     "meaningVi": "nhớ kết quả cũ để khỏi tính lại",
     "example": "Memoization cut the render time in half.",
-    "exampleVi": "Việc nhớ kết quả cũ giảm một nửa thời gian dựng hình."
+    "exampleVi": "Việc nhớ kết quả cũ giảm một nửa thời gian dựng hình.",
+    "synonyms": []
   },
   {
     "word": "memory leak",
@@ -1427,7 +1537,8 @@
         ],
         "ipa": "/ˈmem.ər.i liːks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "message broker",
@@ -1444,7 +1555,8 @@
         ],
         "ipa": "/ˈmes.ɪdʒ ˈbrəʊ.kərz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "microservice",
@@ -1461,7 +1573,8 @@
         ],
         "ipa": "/ˈmaɪ.krəʊˌsɜː.vɪsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "monolith",
@@ -1486,6 +1599,9 @@
         ],
         "ipa": "/ˈmɒn.ə.lɪθs/"
       }
+    ],
+    "synonyms": [
+      "monolithic application"
     ]
   },
   {
@@ -1503,6 +1619,9 @@
         ],
         "ipa": "/ˈmjuː.teksɪz/"
       }
+    ],
+    "synonyms": [
+      "mutual exclusion lock"
     ]
   },
   {
@@ -1520,7 +1639,8 @@
         ],
         "ipa": "/en plʌs wʌn ˈkwɪə.riz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "noisy neighbour",
@@ -1537,6 +1657,9 @@
         ],
         "ipa": "/ˈnɔɪ.zi ˈneɪ.bərz/"
       }
+    ],
+    "synonyms": [
+      "noisy neighbor"
     ]
   },
   {
@@ -1562,7 +1685,8 @@
         ],
         "ipa": "/nɒnsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "normalization",
@@ -1578,7 +1702,8 @@
         "example": "The talks led to the normalization of relations between the countries.",
         "exampleVi": "Các cuộc đàm phán dẫn tới việc bình thường hóa quan hệ giữa các nước."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "optimistic locking",
@@ -1586,7 +1711,8 @@
     "pos": "noun",
     "meaningVi": "khoá lạc quan, kiểm tra xung đột lúc ghi",
     "example": "Optimistic locking uses a version column.",
-    "exampleVi": "Khoá lạc quan dùng một cột phiên bản."
+    "exampleVi": "Khoá lạc quan dùng một cột phiên bản.",
+    "synonyms": []
   },
   {
     "word": "origin server",
@@ -1603,7 +1729,8 @@
         ],
         "ipa": "/ˈɒr.ɪ.dʒɪn ˈsɜː.vərz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "paging",
@@ -1619,7 +1746,8 @@
         "example": "Paging moves memory pages between RAM and disk.",
         "exampleVi": "Phân trang chuyển các trang bộ nhớ giữa RAM và đĩa."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "partition",
@@ -1644,7 +1772,8 @@
         ],
         "ipa": "/pɑːˈtɪʃ.ənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "penetration test",
@@ -1661,6 +1790,9 @@
         ],
         "ipa": "/ˌpen.ɪˈtreɪ.ʃən tests/"
       }
+    ],
+    "synonyms": [
+      "pentest"
     ]
   },
   {
@@ -1669,7 +1801,8 @@
     "pos": "noun",
     "meaningVi": "khoá bi quan, giữ khoá suốt giao dịch",
     "example": "Pessimistic locking hurts throughput here.",
-    "exampleVi": "Khoá bi quan làm giảm thông lượng ở đây."
+    "exampleVi": "Khoá bi quan làm giảm thông lượng ở đây.",
+    "synonyms": []
   },
   {
     "word": "pipeline stage",
@@ -1686,7 +1819,8 @@
         ],
         "ipa": "/ˈpaɪp.laɪn steɪdʒɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "polymorphism",
@@ -1702,7 +1836,8 @@
         "example": "The different shell colours illustrate polymorphism in this snail species.",
         "exampleVi": "Các màu vỏ khác nhau minh họa tính đa hình ở loài ốc này."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "privilege escalation",
@@ -1719,7 +1854,8 @@
         ],
         "ipa": "/ˈprɪv.əl.ɪdʒ ˌes.kəˈleɪ.ʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "profiling session",
@@ -1736,7 +1872,8 @@
         ],
         "ipa": "/ˈprəʊ.faɪ.lɪŋ ˈseʃ.ənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "property-based testing",
@@ -1744,7 +1881,8 @@
     "pos": "noun",
     "meaningVi": "kiểm thử theo tính chất, sinh dữ liệu ngẫu nhiên",
     "example": "Property-based testing found the edge case.",
-    "exampleVi": "Kiểm thử theo tính chất tìm ra ca biên đó."
+    "exampleVi": "Kiểm thử theo tính chất tìm ra ca biên đó.",
+    "synonyms": []
   },
   {
     "word": "publish-subscribe",
@@ -1752,7 +1890,10 @@
     "pos": "noun",
     "meaningVi": "mô hình phát và đăng ký nhận",
     "example": "Notifications use publish-subscribe.",
-    "exampleVi": "Thông báo dùng mô hình phát và đăng ký nhận."
+    "exampleVi": "Thông báo dùng mô hình phát và đăng ký nhận.",
+    "synonyms": [
+      "pub-sub"
+    ]
   },
   {
     "word": "pure function",
@@ -1769,7 +1910,8 @@
         ],
         "ipa": "/pjʊə ˈfʌŋk.ʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "purge",
@@ -1810,6 +1952,9 @@
         ],
         "ipa": "/pɜːdʒd/"
       }
+    ],
+    "synonyms": [
+      "clear"
     ]
   },
   {
@@ -1835,7 +1980,8 @@
         ],
         "ipa": "/ˈkwɔː.rəmz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "quota exhaustion",
@@ -1843,7 +1989,8 @@
     "pos": "noun",
     "meaningVi": "cạn hạn mức được cấp",
     "example": "Quota exhaustion blocked the nightly job.",
-    "exampleVi": "Việc cạn hạn mức chặn tác vụ chạy đêm."
+    "exampleVi": "Việc cạn hạn mức chặn tác vụ chạy đêm.",
+    "synonyms": []
   },
   {
     "word": "race condition",
@@ -1860,7 +2007,8 @@
         ],
         "ipa": "/reɪs kənˈdɪʃ.ənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "read replica",
@@ -1877,7 +2025,8 @@
         ],
         "ipa": "/riːd ˈrep.lɪ.kəz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "readiness probe",
@@ -1894,7 +2043,8 @@
         ],
         "ipa": "/ˈred.i.nəs prəʊbz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "reverse proxy",
@@ -1911,7 +2061,8 @@
         ],
         "ipa": "/rɪˈvɜːs ˈprɒk.siz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "round robin",
@@ -1936,7 +2087,8 @@
         ],
         "ipa": "/ˌraʊnd ˈrɒb.ɪnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "runbook entry",
@@ -1953,7 +2105,8 @@
         ],
         "ipa": "/ˈrʌn.bʊk ˈen.triz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "saga",
@@ -1978,7 +2131,8 @@
         ],
         "ipa": "/ˈsɑː.ɡəz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "salt",
@@ -2003,7 +2157,8 @@
         ],
         "ipa": "/sɒlts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "sanitization",
@@ -2019,7 +2174,8 @@
         "example": "The kitchen closed briefly for sanitization.",
         "exampleVi": "Nhà bếp đóng cửa trong thời gian ngắn để làm sạch và khử khuẩn."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "semantic versioning",
@@ -2027,7 +2183,10 @@
     "pos": "noun",
     "meaningVi": "đánh số phiên bản theo ý nghĩa thay đổi",
     "example": "Semantic versioning signals breaking changes.",
-    "exampleVi": "Đánh số phiên bản theo ý nghĩa báo hiệu thay đổi gây vỡ."
+    "exampleVi": "Đánh số phiên bản theo ý nghĩa báo hiệu thay đổi gây vỡ.",
+    "synonyms": [
+      "SemVer"
+    ]
   },
   {
     "word": "semaphore",
@@ -2052,7 +2211,8 @@
         ],
         "ipa": "/ˈsem.ə.fɔːrz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "service level objective",
@@ -2069,6 +2229,9 @@
         ],
         "ipa": "/ˈsɜː.vɪs ˈlev.əl əbˈdʒek.tɪvz/"
       }
+    ],
+    "synonyms": [
+      "SLO"
     ]
   },
   {
@@ -2086,7 +2249,8 @@
         ],
         "ipa": "/ˈsɜː.vɪs meʃɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "shadow traffic",
@@ -2094,7 +2258,8 @@
     "pos": "noun",
     "meaningVi": "nhân bản lưu lượng thật để thử",
     "example": "Shadow traffic exposed the memory issue.",
-    "exampleVi": "Lưu lượng nhân bản phơi ra vấn đề bộ nhớ."
+    "exampleVi": "Lưu lượng nhân bản phơi ra vấn đề bộ nhớ.",
+    "synonyms": []
   },
   {
     "word": "side effect",
@@ -2121,7 +2286,8 @@
         "example": "Keep the function free of side effects.",
         "exampleVi": "Giữ cho hàm không có tác dụng phụ."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "sidecar",
@@ -2146,7 +2312,8 @@
         ],
         "ipa": "/ˈsaɪd.kɑːrz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "span",
@@ -2171,7 +2338,8 @@
         ],
         "ipa": "/spænz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "split-brain",
@@ -2188,7 +2356,8 @@
         ],
         "ipa": "/ˌsplɪt ˈbreɪnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "stack overflow",
@@ -2205,7 +2374,8 @@
         ],
         "ipa": "/stæk ˈəʊ.və.fləʊz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "stale data",
@@ -2213,7 +2383,8 @@
     "pos": "noun",
     "meaningVi": "dữ liệu cũ chưa được làm mới",
     "example": "Users saw stale data for an hour.",
-    "exampleVi": "Người dùng thấy dữ liệu cũ suốt một giờ."
+    "exampleVi": "Người dùng thấy dữ liệu cũ suốt một giờ.",
+    "synonyms": []
   },
   {
     "word": "starvation",
@@ -2229,7 +2400,8 @@
         "example": "Food deliveries helped prevent starvation during the drought.",
         "exampleVi": "Các chuyến giao thực phẩm giúp ngăn nạn đói trong đợt hạn hán."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "static analysis",
@@ -2246,7 +2418,8 @@
         ],
         "ipa": "/ˈstæt.ɪk əˈnæləsiːz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "strong consistency",
@@ -2254,7 +2427,8 @@
     "pos": "noun",
     "meaningVi": "nhất quán tức thì",
     "example": "Payments require strong consistency.",
-    "exampleVi": "Thanh toán đòi hỏi nhất quán tức thì."
+    "exampleVi": "Thanh toán đòi hỏi nhất quán tức thì.",
+    "synonyms": []
   },
   {
     "word": "structured logging",
@@ -2262,7 +2436,8 @@
     "pos": "noun",
     "meaningVi": "ghi nhật ký có cấu trúc, dễ truy vấn",
     "example": "Structured logging made the search trivial.",
-    "exampleVi": "Ghi nhật ký có cấu trúc làm việc tìm kiếm dễ hẳn."
+    "exampleVi": "Ghi nhật ký có cấu trúc làm việc tìm kiếm dễ hẳn.",
+    "synonyms": []
   },
   {
     "word": "supply chain",
@@ -2287,7 +2462,8 @@
         ],
         "ipa": "/səˈplaɪ tʃeɪnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "tail latency",
@@ -2304,7 +2480,8 @@
         ],
         "ipa": "/teɪl ˈleɪ.tən.siz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "test double",
@@ -2321,7 +2498,8 @@
         ],
         "ipa": "/test ˈdʌb.əlz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "thread-safe",
@@ -2329,7 +2507,8 @@
     "pos": "adjective",
     "meaningVi": "an toàn khi nhiều luồng dùng chung",
     "example": "This class is not thread-safe.",
-    "exampleVi": "Lớp này không an toàn khi nhiều luồng dùng chung."
+    "exampleVi": "Lớp này không an toàn khi nhiều luồng dùng chung.",
+    "synonyms": []
   },
   {
     "word": "threat model",
@@ -2346,7 +2525,8 @@
         ],
         "ipa": "/θret ˈmɒd.əlz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "throttling",
@@ -2362,7 +2542,8 @@
         "example": "The detective investigated an attempted throttling.",
         "exampleVi": "Thám tử điều tra một vụ mưu toan bóp cổ."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "throughput ceiling",
@@ -2370,7 +2551,8 @@
     "pos": "noun",
     "meaningVi": "trần thông lượng",
     "example": "We hit the throughput ceiling at noon.",
-    "exampleVi": "Chúng tôi chạm trần thông lượng lúc trưa."
+    "exampleVi": "Chúng tôi chạm trần thông lượng lúc trưa.",
+    "synonyms": []
   },
   {
     "word": "thundering herd",
@@ -2387,7 +2569,8 @@
         ],
         "ipa": "/ˈθʌn.dər.ɪŋ hɜːdz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "time to live",
@@ -2395,7 +2578,10 @@
     "pos": "noun",
     "meaningVi": "thời gian sống của một bản ghi cache",
     "example": "Set the time to live to five minutes.",
-    "exampleVi": "Đặt thời gian sống là năm phút."
+    "exampleVi": "Đặt thời gian sống là năm phút.",
+    "synonyms": [
+      "TTL"
+    ]
   },
   {
     "word": "toil",
@@ -2436,7 +2622,8 @@
         ],
         "ipa": "/tɔɪld/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "token rotation",
@@ -2444,7 +2631,8 @@
     "pos": "noun",
     "meaningVi": "xoay vòng đổi token định kỳ",
     "example": "Token rotation runs every thirty days.",
-    "exampleVi": "Việc xoay token chạy mỗi ba mươi ngày."
+    "exampleVi": "Việc xoay token chạy mỗi ba mươi ngày.",
+    "synonyms": []
   },
   {
     "word": "transitive dependency",
@@ -2461,6 +2649,9 @@
         ],
         "ipa": "/ˈtræn.sə.tɪv dɪˈpen.dən.siz/"
       }
+    ],
+    "synonyms": [
+      "indirect dependency"
     ]
   },
   {
@@ -2478,6 +2669,9 @@
         ],
         "ipa": "/ˌtuː feɪz kəˈmɪts/"
       }
+    ],
+    "synonyms": [
+      "2PC"
     ]
   },
   {
@@ -2497,7 +2691,8 @@
         "example": "Vector clocks detect concurrent writes.",
         "exampleVi": "Đồng hồ vector phát hiện các lần ghi song song."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "warm-up",
@@ -2522,7 +2717,8 @@
         ],
         "ipa": "/ˈwɔːm.ʌps/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "write amplification",
@@ -2530,7 +2726,8 @@
     "pos": "noun",
     "meaningVi": "một lần ghi logic kéo theo nhiều lần ghi vật lý",
     "example": "Write amplification wore the disks out early.",
-    "exampleVi": "Hiện tượng ghi nhân lên làm ổ đĩa hỏng sớm."
+    "exampleVi": "Hiện tượng ghi nhân lên làm ổ đĩa hỏng sớm.",
+    "synonyms": []
   },
   {
     "word": "write-ahead log",
@@ -2547,6 +2744,9 @@
         ],
         "ipa": "/raɪt əˈhed lɒɡz/"
       }
+    ],
+    "synonyms": [
+      "WAL"
     ]
   },
   {
@@ -2564,6 +2764,7 @@
         ],
         "ipa": "/ˌzɪə.rəʊ ˈdeɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   }
 ]

@@ -31,7 +31,8 @@
         ],
         "ipa": "/əˈkæd.ə.miz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "access",
@@ -81,6 +82,9 @@
         ],
         "ipa": "/ˈæk.sest/"
       }
+    ],
+    "synonyms": [
+      "entry"
     ]
   },
   {
@@ -217,6 +221,9 @@
         ],
         "ipa": "/ədˈmɪn.ɪ.streɪtɪd/"
       }
+    ],
+    "synonyms": [
+      "administer"
     ]
   },
   {
@@ -252,6 +259,9 @@
         "example": "The course is designed for adults returning to education.",
         "exampleVi": "Khoá học được thiết kế cho người trưởng thành quay lại việc học."
       }
+    ],
+    "synonyms": [
+      "grown-up"
     ]
   },
   {
@@ -458,6 +468,9 @@
         "example": "Parliament amended the law to close the loophole.",
         "exampleVi": "Quốc hội sửa đổi văn bản luật để bịt kẽ hở."
       }
+    ],
+    "synonyms": [
+      "revise"
     ]
   },
   {
@@ -491,6 +504,9 @@
         ],
         "ipa": "/əˈnæl.ə.dʒiz/"
       }
+    ],
+    "synonyms": [
+      "parallel"
     ]
   },
   {
@@ -524,6 +540,9 @@
         ],
         "ipa": "/ˈæn.ju.əlz/"
       }
+    ],
+    "synonyms": [
+      "yearly"
     ]
   },
   {
@@ -567,6 +586,9 @@
         "example": "The author appended a full list of sources to the essay.",
         "exampleVi": "Tác giả gắn thêm vào cuối bài luận một danh mục nguồn đầy đủ."
       }
+    ],
+    "synonyms": [
+      "add on"
     ]
   },
   {
@@ -618,6 +640,9 @@
         ],
         "ipa": "/əˈprɒk.sɪ.meɪtɪd/"
       }
+    ],
+    "synonyms": [
+      "rough"
     ]
   },
   {
@@ -780,6 +805,9 @@
         ],
         "ipa": "/əˈsest/"
       }
+    ],
+    "synonyms": [
+      "evaluate"
     ]
   },
   {
@@ -831,6 +859,9 @@
         "example": "Each student is assigned a supervisor in the first week.",
         "exampleVi": "Mỗi sinh viên được phân một người hướng dẫn trong tuần đầu."
       }
+    ],
+    "synonyms": [
+      "allocate"
     ]
   },
   {
@@ -882,6 +913,9 @@
         ],
         "ipa": "/əˈtrɪb.juːtɪd/"
       }
+    ],
+    "synonyms": [
+      "ascribe"
     ]
   },
   {
@@ -932,6 +966,9 @@
         ],
         "ipa": "/ˈɔː.θərd/"
       }
+    ],
+    "synonyms": [
+      "writer"
     ]
   },
   {
@@ -976,7 +1013,8 @@
         "example": "Banks have automated most routine transactions.",
         "exampleVi": "Các ngân hàng đã tự động hoá phần lớn giao dịch thường nhật."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "available",
@@ -999,6 +1037,9 @@
         "example": "I am available for a meeting on Friday.",
         "exampleVi": "Tôi rảnh để họp vào thứ Sáu."
       }
+    ],
+    "synonyms": [
+      "accessible"
     ]
   },
   {
@@ -1020,7 +1061,8 @@
         "example": "The charity works in behalf of homeless families.",
         "exampleVi": "Tổ chức từ thiện hoạt động vì lợi ích của các gia đình vô gia cư."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "bond",
@@ -1075,6 +1117,9 @@
         "example": "The bulk of the sofa made it hard to move.",
         "exampleVi": "Kích thước cồng kềnh của chiếc ghế sofa khiến nó khó di chuyển."
       }
+    ],
+    "synonyms": [
+      "majority"
     ]
   },
   {
@@ -1103,6 +1148,9 @@
         "example": "Responses fell into three broad categories.",
         "exampleVi": "Các câu trả lời rơi vào ba hạng mục phân loại lớn."
       }
+    ],
+    "synonyms": [
+      "class"
     ]
   },
   {
@@ -1166,6 +1214,9 @@
         ],
         "ipa": "/ˈtʃæn.əld/"
       }
+    ],
+    "synonyms": [
+      "conduit"
     ]
   },
   {
@@ -1196,7 +1247,8 @@
         ],
         "ipa": "/ˈtʃæp.tərz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "chart",
@@ -1283,7 +1335,8 @@
         "example": "Farmers use fewer chemicals than they did a decade ago.",
         "exampleVi": "Nông dân dùng ít hoá chất hơn so với một thập kỷ trước."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "classic",
@@ -1316,6 +1369,9 @@
         ],
         "ipa": "/ˈklæs.ɪks/"
       }
+    ],
+    "synonyms": [
+      "exemplary"
     ]
   },
   {
@@ -1337,6 +1393,9 @@
         "example": "The spies used a code to send secret messages.",
         "exampleVi": "Các điệp viên dùng một hệ thống mật mã để gửi thông điệp bí mật."
       }
+    ],
+    "synonyms": [
+      "set of rules"
     ]
   },
   {
@@ -1414,6 +1473,9 @@
         ],
         "ipa": "/kəˈmɪʃ.ənz/"
       }
+    ],
+    "synonyms": [
+      "committee"
     ]
   },
   {
@@ -1463,6 +1525,9 @@
         ],
         "ipa": "/kəˈmjuː.nɪ.keɪtɪd/"
       }
+    ],
+    "synonyms": [
+      "convey"
     ]
   },
   {
@@ -1487,7 +1552,8 @@
         "example": "Their compatible personalities made living together easy.",
         "exampleVi": "Tính cách hợp nhau giúp họ dễ dàng sống chung."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "complement",
@@ -1538,6 +1604,9 @@
         ],
         "ipa": "/ˈkɒm.plɪ.mentɪd/"
       }
+    ],
+    "synonyms": [
+      "supplement"
     ]
   },
   {
@@ -1607,6 +1676,9 @@
         ],
         "ipa": "/kəmˈpjuːtɪd/"
       }
+    ],
+    "synonyms": [
+      "calculate"
     ]
   },
   {
@@ -1632,6 +1704,9 @@
         ],
         "ipa": "/ˈkɒn.septs/"
       }
+    ],
+    "synonyms": [
+      "notion"
     ]
   },
   {
@@ -1647,6 +1722,9 @@
     "level": "C1",
     "family": [
       "concurrently"
+    ],
+    "synonyms": [
+      "simultaneous"
     ]
   },
   {
@@ -1695,6 +1773,9 @@
         "example": "The team conducted interviews in twelve villages.",
         "exampleVi": "Nhóm tiến hành một hoạt động phỏng vấn tại mười hai ngôi làng."
       }
+    ],
+    "synonyms": [
+      "carry out"
     ]
   },
   {
@@ -1743,6 +1824,9 @@
         ],
         "ipa": "/kənˈfɜːrd/"
       }
+    ],
+    "synonyms": [
+      "bestow"
     ]
   },
   {
@@ -1760,7 +1844,10 @@
       "consequence",
       "consequently"
     ],
-    "topic": "environment"
+    "topic": "environment",
+    "synonyms": [
+      "resulting"
+    ]
   },
   {
     "word": "constrain",
@@ -1802,6 +1889,9 @@
         ],
         "ipa": "/kənˈstreɪnd/"
       }
+    ],
+    "synonyms": [
+      "restrict"
     ]
   },
   {
@@ -1855,6 +1945,9 @@
         ],
         "ipa": "/kənˈstrʌktɪd/"
       }
+    ],
+    "synonyms": [
+      "build"
     ]
   },
   {
@@ -1888,6 +1981,9 @@
         ],
         "ipa": "/ˈkɒn.teksts/"
       }
+    ],
+    "synonyms": [
+      "setting"
     ]
   },
   {
@@ -1930,6 +2026,9 @@
         ],
         "ipa": "/ˌkɒn.trəˈdɪktɪd/"
       }
+    ],
+    "synonyms": [
+      "conflict with"
     ]
   },
   {
@@ -1951,6 +2050,9 @@
         "example": "The contrary child refused to follow any instructions.",
         "exampleVi": "Đứa trẻ bướng bỉnh không chịu làm theo bất kỳ chỉ dẫn nào."
       }
+    ],
+    "synonyms": [
+      "opposite"
     ]
   },
   {
@@ -1999,6 +2101,9 @@
         ],
         "ipa": "/kənˈviːnd/"
       }
+    ],
+    "synonyms": [
+      "assemble"
     ]
   },
   {
@@ -2050,6 +2155,9 @@
         ],
         "ipa": "/kənˈvɜːst/"
       }
+    ],
+    "synonyms": [
+      "reverse"
     ]
   },
   {
@@ -2102,6 +2210,9 @@
         "example": "The mill was converted into student accommodation.",
         "exampleVi": "Nhà máy được chuyển đổi sang dạng khác là ký túc xá sinh viên."
       }
+    ],
+    "synonyms": [
+      "transform"
     ]
   },
   {
@@ -2144,6 +2255,9 @@
         ],
         "ipa": "/kəʊˈɒp.ə.reɪtɪd/"
       }
+    ],
+    "synonyms": [
+      "collaborate"
     ]
   },
   {
@@ -2197,7 +2311,8 @@
         ],
         "ipa": "/kəʊˈɔː.də.neɪtɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "core",
@@ -2227,6 +2342,9 @@
         ],
         "ipa": "/kɔːrz/"
       }
+    ],
+    "synonyms": [
+      "heart"
     ]
   },
   {
@@ -2251,7 +2369,8 @@
         "example": "The team accepted corporate responsibility for the mistake.",
         "exampleVi": "Cả nhóm nhận trách nhiệm chung về sai sót."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "couple",
@@ -2300,6 +2419,9 @@
         "example": "Poor housing coupled with low pay drives migration.",
         "exampleVi": "Nhà ở tồi tàn đi kèm với lương thấp thúc đẩy di cư."
       }
+    ],
+    "synonyms": [
+      "link"
     ]
   },
   {
@@ -2351,6 +2473,9 @@
         "example": "The scheme created six thousand jobs in two years.",
         "exampleVi": "Đề án tạo ra sáu nghìn việc làm trong hai năm."
       }
+    ],
+    "synonyms": [
+      "produce"
     ]
   },
   {
@@ -2398,7 +2523,8 @@
         ],
         "ipa": "/ˈkred.ɪtɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "criteria",
@@ -2414,7 +2540,10 @@
     "family": [
       "criterion"
     ],
-    "topic": "education"
+    "topic": "education",
+    "synonyms": [
+      "standards"
+    ]
   },
   {
     "word": "culture",
@@ -2448,7 +2577,8 @@
         ],
         "ipa": "/ˈkʌl.tʃərz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "currency",
@@ -2478,7 +2608,8 @@
         ],
         "ipa": "/ˈkʌr.ən.siz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cycle",
@@ -2528,7 +2659,8 @@
         ],
         "ipa": "/ˈsaɪ.kəld/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "data",
@@ -2541,7 +2673,10 @@
       "awl",
       "task1"
     ],
-    "level": "B1"
+    "level": "B1",
+    "synonyms": [
+      "information"
+    ]
   },
   {
     "word": "decade",
@@ -2571,7 +2706,8 @@
         ],
         "ipa": "/ˈdek.eɪdz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "deduce",
@@ -2612,6 +2748,9 @@
         ],
         "ipa": "/dɪˈdjuːst/"
       }
+    ],
+    "synonyms": [
+      "infer"
     ]
   },
   {
@@ -2663,7 +2802,8 @@
         ],
         "ipa": "/dɪˈfaɪnd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "depress",
@@ -2714,6 +2854,9 @@
         "example": "Cheap imports depressed local wages for years.",
         "exampleVi": "Hàng nhập khẩu giá rẻ làm suy giảm xuống mức lương địa phương trong nhiều năm."
       }
+    ],
+    "synonyms": [
+      "lower"
     ]
   },
   {
@@ -2760,6 +2903,9 @@
         ],
         "ipa": "/dɪˈzaɪnd/"
       }
+    ],
+    "synonyms": [
+      "plan"
     ]
   },
   {
@@ -2792,6 +2938,9 @@
         "example": "Most students own at least two connected devices.",
         "exampleVi": "Phần lớn sinh viên sở hữu ít nhất hai thiết bị có kết nối."
       }
+    ],
+    "synonyms": [
+      "apparatus"
     ]
   },
   {
@@ -2838,6 +2987,9 @@
         ],
         "ipa": "/ˌdɪf.əˈren.ʃi.eɪtɪd/"
       }
+    ],
+    "synonyms": [
+      "distinguish"
     ]
   },
   {
@@ -2868,6 +3020,9 @@
         ],
         "ipa": "/daɪˈmen.ʃənz/"
       }
+    ],
+    "synonyms": [
+      "aspect"
     ]
   },
   {
@@ -2880,7 +3035,10 @@
     "tags": [
       "awl"
     ],
-    "level": "C1"
+    "level": "C1",
+    "synonyms": [
+      "separate"
+    ]
   },
   {
     "word": "discriminate",
@@ -2929,7 +3087,8 @@
         ],
         "ipa": "/dɪˈskrɪm.ɪ.neɪtɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "displace",
@@ -2980,6 +3139,9 @@
         "example": "The dam displaced forty villages along the valley.",
         "exampleVi": "Con đập đẩy ra khỏi chỗ cũ bốn mươi ngôi làng dọc thung lũng."
       }
+    ],
+    "synonyms": [
+      "oust"
     ]
   },
   {
@@ -3029,6 +3191,9 @@
         ],
         "ipa": "/dɪˈspəʊzd/"
       }
+    ],
+    "synonyms": [
+      "discard"
     ]
   },
   {
@@ -3053,6 +3218,9 @@
         "example": "We heard a distinct knocking sound at the door.",
         "exampleVi": "Chúng tôi nghe thấy tiếng gõ cửa rõ ràng."
       }
+    ],
+    "synonyms": [
+      "different"
     ]
   },
   {
@@ -3102,6 +3270,9 @@
         ],
         "ipa": "/dɪˈstɔːtɪd/"
       }
+    ],
+    "synonyms": [
+      "misrepresent"
     ]
   },
   {
@@ -3155,6 +3326,9 @@
         "example": "The team documented every stage of the excavation.",
         "exampleVi": "Nhóm ghi chép lại có chứng cứ từng giai đoạn khai quật."
       }
+    ],
+    "synonyms": [
+      "record"
     ]
   },
   {
@@ -3184,7 +3358,8 @@
         ],
         "ipa": "/dəˈmeɪnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "domestic",
@@ -3205,6 +3380,9 @@
         "example": "They share the domestic chores equally.",
         "exampleVi": "Họ chia đều các công việc trong nhà."
       }
+    ],
+    "synonyms": [
+      "internal"
     ]
   },
   {
@@ -3238,7 +3416,8 @@
         ],
         "ipa": "/ˈdrɑː.məz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "duration",
@@ -3260,6 +3439,9 @@
         ],
         "ipa": "/djɔːˈreɪ.ʃənz/"
       }
+    ],
+    "synonyms": [
+      "timespan"
     ]
   },
   {
@@ -3290,6 +3472,9 @@
         ],
         "ipa": "/daɪˈnæm.ɪks/"
       }
+    ],
+    "synonyms": [
+      "changing"
     ]
   },
   {
@@ -3324,7 +3509,8 @@
         ],
         "ipa": "/ɪˈkɒn.ə.miz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "edit",
@@ -3368,6 +3554,9 @@
         "example": "She edited the volume with two colleagues.",
         "exampleVi": "Bà biên tập tuyển tập này cùng hai đồng nghiệp."
       }
+    ],
+    "synonyms": [
+      "revise"
     ]
   },
   {
@@ -3397,6 +3586,9 @@
         ],
         "ipa": "/ˈel.ɪ.mənts/"
       }
+    ],
+    "synonyms": [
+      "component"
     ]
   },
   {
@@ -3431,6 +3623,9 @@
         ],
         "ipa": "/ˈemfəsiːz/"
       }
+    ],
+    "synonyms": [
+      "stress"
     ]
   },
   {
@@ -3452,7 +3647,8 @@
         "example": "She had enough energy to run after work.",
         "exampleVi": "Cô ấy có đủ sức để chạy bộ sau giờ làm."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "enforce",
@@ -3495,6 +3691,9 @@
         "example": "The rules exist but are rarely enforced.",
         "exampleVi": "Quy định thì có nhưng hiếm khi được thi hành."
       }
+    ],
+    "synonyms": [
+      "implement"
     ]
   },
   {
@@ -3517,7 +3716,8 @@
         ],
         "ipa": "/ˈen.tɪ.tiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "environment",
@@ -3550,6 +3750,9 @@
         ],
         "ipa": "/enˈvaɪ.rən.mənts/"
       }
+    ],
+    "synonyms": [
+      "surroundings"
     ]
   },
   {
@@ -3596,7 +3799,8 @@
         ],
         "ipa": "/ɪˈkweɪtɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "equipment",
@@ -3609,7 +3813,10 @@
       "awl"
     ],
     "level": "B1",
-    "topic": "education"
+    "topic": "education",
+    "synonyms": [
+      "apparatus"
+    ]
   },
   {
     "word": "error",
@@ -3638,6 +3845,9 @@
         ],
         "ipa": "/ˈer.ərz/"
       }
+    ],
+    "synonyms": [
+      "mistake"
     ]
   },
   {
@@ -3668,7 +3878,8 @@
         ],
         "ipa": "/ɪˈsteɪts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "ethic",
@@ -3702,7 +3913,8 @@
         ],
         "ipa": "/ˈeθ.ɪks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "ethnic",
@@ -3718,7 +3930,8 @@
     "family": [
       "ethnicity"
     ],
-    "topic": "society"
+    "topic": "society",
+    "synonyms": []
   },
   {
     "word": "eventual",
@@ -3734,7 +3947,8 @@
     "level": "C1",
     "family": [
       "eventually"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "evident",
@@ -3751,6 +3965,9 @@
     "family": [
       "evidently",
       "evidence"
+    ],
+    "synonyms": [
+      "obvious"
     ]
   },
   {
@@ -3802,6 +4019,9 @@
         "example": "The festival evolved from a small village fair.",
         "exampleVi": "Lễ hội tiến hoá dần dần từ một hội chợ làng nhỏ."
       }
+    ],
+    "synonyms": [
+      "develop"
     ]
   },
   {
@@ -3836,6 +4056,9 @@
         "example": "Experts disagree about how fast the ice is melting.",
         "exampleVi": "Các chuyên gia bất đồng về tốc độ tan chảy của băng."
       }
+    ],
+    "synonyms": [
+      "specialist"
     ]
   },
   {
@@ -3884,7 +4107,8 @@
         ],
         "ipa": "/ɪkˈspɔːtɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "expose",
@@ -3935,6 +4159,9 @@
         "example": "Children exposed to lead show slower development.",
         "exampleVi": "Trẻ em bị phơi bày ra trước chì có tốc độ phát triển chậm hơn."
       }
+    ],
+    "synonyms": [
+      "reveal"
     ]
   },
   {
@@ -3970,6 +4197,9 @@
         "example": "The building's externals hide a surprisingly modern interior.",
         "exampleVi": "Vẻ ngoài của tòa nhà che giấu một nội thất hiện đại đến bất ngờ."
       }
+    ],
+    "synonyms": [
+      "outside"
     ]
   },
   {
@@ -4017,6 +4247,9 @@
         ],
         "ipa": "/ˈfæk.tərd/"
       }
+    ],
+    "synonyms": [
+      "element"
     ]
   },
   {
@@ -4064,6 +4297,9 @@
         ],
         "ipa": "/ˈfiː.tʃərd/"
       }
+    ],
+    "synonyms": [
+      "characteristic"
     ]
   },
   {
@@ -4077,7 +4313,8 @@
       "awl"
     ],
     "level": "B2",
-    "topic": "society"
+    "topic": "society",
+    "synonyms": []
   },
   {
     "word": "fee",
@@ -4101,6 +4338,9 @@
         "example": "Tuition fees have tripled since the reform.",
         "exampleVi": "Khoản phí phải trả cho học phí đã tăng gấp ba kể từ cuộc cải cách."
       }
+    ],
+    "synonyms": [
+      "charge"
     ]
   },
   {
@@ -4148,7 +4388,8 @@
         ],
         "ipa": "/faɪld/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "final",
@@ -4182,6 +4423,9 @@
         ],
         "ipa": "/ˈfaɪ.nəlz/"
       }
+    ],
+    "synonyms": [
+      "last"
     ]
   },
   {
@@ -4231,7 +4475,8 @@
         ],
         "ipa": "/ˈfaɪ.nænst/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "finite",
@@ -4252,6 +4497,9 @@
         "example": "A finite verb changes to show tense or agreement.",
         "exampleVi": "Động từ hữu hạn biến đổi để thể hiện thì hoặc sự hòa hợp ngữ pháp."
       }
+    ],
+    "synonyms": [
+      "limited"
     ]
   },
   {
@@ -4300,6 +4548,9 @@
         ],
         "ipa": "/ˈfəʊ.kəst/"
       }
+    ],
+    "synonyms": [
+      "concentrate"
     ]
   },
   {
@@ -4347,6 +4598,9 @@
         ],
         "ipa": "/ˈfɔː.mætɪd/"
       }
+    ],
+    "synonyms": [
+      "layout"
     ]
   },
   {
@@ -4360,7 +4614,10 @@
       "awl",
       "writing"
     ],
-    "level": "C1"
+    "level": "C1",
+    "synonyms": [
+      "upcoming"
+    ]
   },
   {
     "word": "foundation",
@@ -4390,6 +4647,9 @@
         ],
         "ipa": "/faʊnˈdeɪ.ʃənz/"
       }
+    ],
+    "synonyms": [
+      "basis"
     ]
   },
   {
@@ -4403,7 +4663,10 @@
       "awl",
       "writing"
     ],
-    "level": "B2"
+    "level": "B2",
+    "synonyms": [
+      "based"
+    ]
   },
   {
     "word": "function",
@@ -4452,6 +4715,9 @@
         ],
         "ipa": "/ˈfʌŋk.ʃənd/"
       }
+    ],
+    "synonyms": [
+      "purpose"
     ]
   },
   {
@@ -4504,6 +4770,9 @@
         ],
         "ipa": "/fʌndɪd/"
       }
+    ],
+    "synonyms": [
+      "finance"
     ]
   },
   {
@@ -4553,7 +4822,8 @@
         "example": "The pay gap between genders narrowed only slightly.",
         "exampleVi": "Khoảng cách lương giữa các giới tính xã hội chỉ thu hẹp chút ít."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "generation",
@@ -4583,7 +4853,8 @@
         ],
         "ipa": "/ˌdʒen.əˈreɪ.ʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "globe",
@@ -4617,6 +4888,9 @@
         ],
         "ipa": "/ɡləʊbz/"
       }
+    ],
+    "synonyms": [
+      "world"
     ]
   },
   {
@@ -4647,6 +4921,9 @@
         ],
         "ipa": "/ɡəʊlz/"
       }
+    ],
+    "synonyms": [
+      "objective"
     ]
   },
   {
@@ -4694,6 +4971,9 @@
         ],
         "ipa": "/ɡreɪdɪd/"
       }
+    ],
+    "synonyms": [
+      "mark"
     ]
   },
   {
@@ -4741,7 +5021,8 @@
         ],
         "ipa": "/ɡrɑːntɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "hence",
@@ -4815,6 +5096,9 @@
         ],
         "ipa": "/ˈhaɪ.laɪtɪd/"
       }
+    ],
+    "synonyms": [
+      "emphasize"
     ]
   },
   {
@@ -4828,7 +5112,10 @@
       "awl",
       "task1"
     ],
-    "level": "B2"
+    "level": "B2",
+    "synonyms": [
+      "exactly alike"
+    ]
   },
   {
     "word": "ideology",
@@ -4853,7 +5140,8 @@
         ],
         "ipa": "/ˌaɪ.diˈɒl.ə.dʒiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "ignorant",
@@ -4877,6 +5165,9 @@
         "example": "He was ignorant and rude to the shop assistant.",
         "exampleVi": "Anh ấy cư xử thô lỗ và thiếu ý tứ với nhân viên bán hàng."
       }
+    ],
+    "synonyms": [
+      "uninformed"
     ]
   },
   {
@@ -4924,6 +5215,9 @@
         ],
         "ipa": "/ˈɪm.ɪdʒd/"
       }
+    ],
+    "synonyms": [
+      "picture"
     ]
   },
   {
@@ -4968,7 +5262,8 @@
         "example": "Her grandparents immigrated in the nineteen fifties.",
         "exampleVi": "Ông bà của cô ấy nhập cư vào những năm 1950."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "implicate",
@@ -5016,6 +5311,9 @@
         ],
         "ipa": "/ˈɪm.plɪ.keɪtɪd/"
       }
+    ],
+    "synonyms": [
+      "incriminate"
     ]
   },
   {
@@ -5040,6 +5338,9 @@
         "example": "She has implicit trust in her closest friend.",
         "exampleVi": "Cô ấy tin tưởng tuyệt đối vào người bạn thân nhất."
       }
+    ],
+    "synonyms": [
+      "unstated"
     ]
   },
   {
@@ -5070,7 +5371,8 @@
         ],
         "ipa": "/ˈɪn.sɪ.dənsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "incline",
@@ -5122,6 +5424,9 @@
         ],
         "ipa": "/ɪnˈklaɪnd/"
       }
+    ],
+    "synonyms": [
+      "lean"
     ]
   },
   {
@@ -5135,7 +5440,10 @@
       "awl"
     ],
     "level": "B1",
-    "topic": "economy"
+    "topic": "economy",
+    "synonyms": [
+      "earnings"
+    ]
   },
   {
     "word": "individual",
@@ -5168,6 +5476,9 @@
         ],
         "ipa": "/ˌɪn.dɪˈvɪdʒ.u.əlz/"
       }
+    ],
+    "synonyms": [
+      "person"
     ]
   },
   {
@@ -5209,6 +5520,9 @@
         ],
         "ipa": "/ɪnˈfɜːrd/"
       }
+    ],
+    "synonyms": [
+      "deduce"
     ]
   },
   {
@@ -5222,7 +5536,8 @@
       "awl"
     ],
     "level": "B2",
-    "topic": "society"
+    "topic": "society",
+    "synonyms": []
   },
   {
     "word": "initiate",
@@ -5274,6 +5589,9 @@
         "example": "The council initiated a review of all school closures.",
         "exampleVi": "Hội đồng khởi xướng một việc rà soát toàn bộ các trường bị đóng cửa."
       }
+    ],
+    "synonyms": [
+      "start"
     ]
   },
   {
@@ -5316,7 +5634,8 @@
         ],
         "ipa": "/ˈɪn.ə.veɪtɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "input",
@@ -5363,6 +5682,9 @@
         ],
         "ipa": "/ˈɪn.pʊt/"
       }
+    ],
+    "synonyms": [
+      "contribution"
     ]
   },
   {
@@ -5413,6 +5735,9 @@
         "example": "A clause was inserted to protect existing tenants.",
         "exampleVi": "Một điều khoản được chèn vào giữa để bảo vệ người thuê hiện hữu."
       }
+    ],
+    "synonyms": [
+      "put in"
     ]
   },
   {
@@ -5455,6 +5780,9 @@
         ],
         "ipa": "/ɪnˈspektɪd/"
       }
+    ],
+    "synonyms": [
+      "examine"
     ]
   },
   {
@@ -5506,7 +5834,8 @@
         ],
         "ipa": "/ˈɪn.stɪ.tjuːtɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "instruct",
@@ -5558,6 +5887,9 @@
         "example": "Staff were instructed to record every complaint.",
         "exampleVi": "Nhân viên được chỉ dẫn ghi lại mọi khiếu nại."
       }
+    ],
+    "synonyms": [
+      "direct"
     ]
   },
   {
@@ -5579,6 +5911,9 @@
         "example": "Cracks threatened the structural integrity of the bridge.",
         "exampleVi": "Các vết nứt đe dọa sự toàn vẹn kết cấu của cây cầu."
       }
+    ],
+    "synonyms": [
+      "honesty"
     ]
   },
   {
@@ -5595,7 +5930,10 @@
     "family": [
       "intelligence"
     ],
-    "topic": "technology"
+    "topic": "technology",
+    "synonyms": [
+      "smart"
+    ]
   },
   {
     "word": "interact",
@@ -5636,7 +5974,8 @@
         ],
         "ipa": "/ˌɪn.təˈræktɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "intermediate",
@@ -5666,7 +6005,8 @@
         ],
         "ipa": "/ˌɪn.təˈmiː.di.əts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "internal",
@@ -5690,6 +6030,9 @@
         "example": "The minister discussed the country's internal affairs.",
         "exampleVi": "Bộ trưởng bàn về các vấn đề nội bộ của đất nước."
       }
+    ],
+    "synonyms": [
+      "inner"
     ]
   },
   {
@@ -5740,7 +6083,8 @@
         ],
         "ipa": "/ɪnˈvestɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "investigate",
@@ -5783,6 +6127,9 @@
         "example": "Journalists investigated the contract for eighteen months.",
         "exampleVi": "Nhà báo điều tra làm rõ hợp đồng này suốt mười tám tháng."
       }
+    ],
+    "synonyms": [
+      "inquire into"
     ]
   },
   {
@@ -5830,6 +6177,9 @@
         ],
         "ipa": "/ˈɪʃ.uːd/"
       }
+    ],
+    "synonyms": [
+      "question"
     ]
   },
   {
@@ -5859,7 +6209,8 @@
         ],
         "ipa": "/ˈaɪ.təmz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "job",
@@ -5906,6 +6257,9 @@
         ],
         "ipa": "/dʒɒbd/"
       }
+    ],
+    "synonyms": [
+      "employment"
     ]
   },
   {
@@ -5936,6 +6290,9 @@
         ],
         "ipa": "/ˈdʒɜː.nəlz/"
       }
+    ],
+    "synonyms": [
+      "periodical"
     ]
   },
   {
@@ -6001,6 +6358,9 @@
         "example": "Foods must be labelled with their country of origin.",
         "exampleVi": "Thực phẩm phải được dán nhãn ghi rõ nước xuất xứ."
       }
+    ],
+    "synonyms": [
+      "tag"
     ]
   },
   {
@@ -6047,6 +6407,9 @@
         ],
         "ipa": "/ˈleɪ.bərd/"
       }
+    ],
+    "synonyms": [
+      "labor"
     ]
   },
   {
@@ -6094,7 +6457,8 @@
         ],
         "ipa": "/ˈleɪ.ərd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "lecture",
@@ -6144,7 +6508,8 @@
         ],
         "ipa": "/ˈlek.tʃərd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "legislate",
@@ -6186,7 +6551,8 @@
         ],
         "ipa": "/ˈledʒ.ɪ.sleɪtɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "levy",
@@ -6233,6 +6599,9 @@
         ],
         "ipa": "/ˈlev.id/"
       }
+    ],
+    "synonyms": [
+      "tax"
     ]
   },
   {
@@ -6263,6 +6632,9 @@
         ],
         "ipa": "/ˈlɪb.ə.rəlz/"
       }
+    ],
+    "synonyms": [
+      "open-minded"
     ]
   },
   {
@@ -6293,6 +6665,9 @@
         ],
         "ipa": "/ˈlaɪ.sənsɪz/"
       }
+    ],
+    "synonyms": [
+      "license"
     ]
   },
   {
@@ -6306,7 +6681,10 @@
       "awl",
       "writing"
     ],
-    "level": "C1"
+    "level": "C1",
+    "synonyms": [
+      "similarly"
+    ]
   },
   {
     "word": "link",
@@ -6336,6 +6714,9 @@
         ],
         "ipa": "/lɪŋks/"
       }
+    ],
+    "synonyms": [
+      "connection"
     ]
   },
   {
@@ -6386,6 +6767,9 @@
         "example": "The plant was located far from any residential area.",
         "exampleVi": "Nhà máy được đặt cách xa mọi khu dân cư."
       }
+    ],
+    "synonyms": [
+      "situate"
     ]
   },
   {
@@ -6420,7 +6804,8 @@
         ],
         "ipa": "/ˈlɒdʒ.ɪks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "major",
@@ -6452,6 +6837,9 @@
         ],
         "ipa": "/ˈmeɪ.dʒərz/"
       }
+    ],
+    "synonyms": [
+      "principal"
     ]
   },
   {
@@ -6482,7 +6870,8 @@
         ],
         "ipa": "/ˈmæn.ju.əlz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "maximise",
@@ -6523,6 +6912,9 @@
         ],
         "ipa": "/ˈmæk.sɪ.maɪzd/"
       }
+    ],
+    "synonyms": [
+      "maximize"
     ]
   },
   {
@@ -6552,7 +6944,8 @@
         ],
         "ipa": "/ˈmek.ə.nɪ.zəmz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "media",
@@ -6573,6 +6966,9 @@
         "example": "The artist works in several media, including clay and ink.",
         "exampleVi": "Nghệ sĩ sử dụng nhiều chất liệu, trong đó có đất sét và mực."
       }
+    ],
+    "synonyms": [
+      "press"
     ]
   },
   {
@@ -6603,7 +6999,8 @@
         ],
         "ipa": "/ˈmed.ɪ.kəlz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "medium",
@@ -6640,6 +7037,9 @@
         ],
         "ipa": "/ˈmiː.di.əmz/"
       }
+    ],
+    "synonyms": [
+      "channel"
     ]
   },
   {
@@ -6656,7 +7056,10 @@
     "family": [
       "mentally"
     ],
-    "topic": "health"
+    "topic": "health",
+    "synonyms": [
+      "psychological"
+    ]
   },
   {
     "word": "method",
@@ -6681,6 +7084,9 @@
         ],
         "ipa": "/ˈmeθ.ədz/"
       }
+    ],
+    "synonyms": [
+      "procedure"
     ]
   },
   {
@@ -6731,7 +7137,8 @@
         ],
         "ipa": "/maɪˈɡreɪtɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "military",
@@ -6761,7 +7168,8 @@
         ],
         "ipa": "/ˈmɪl.ɪ.tə.riz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "minimise",
@@ -6809,6 +7217,9 @@
         ],
         "ipa": "/ˈmɪn.ɪ.maɪzd/"
       }
+    ],
+    "synonyms": [
+      "minimize"
     ]
   },
   {
@@ -6839,7 +7250,8 @@
         ],
         "ipa": "/ˈmɪn.ɪ.məmz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "ministry",
@@ -6864,7 +7276,8 @@
         ],
         "ipa": "/ˈmɪn.ɪ.striz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "minor",
@@ -6893,6 +7306,9 @@
         ],
         "ipa": "/ˈmaɪ.nərz/"
       }
+    ],
+    "synonyms": [
+      "lesser"
     ]
   },
   {
@@ -6923,6 +7339,9 @@
         ],
         "ipa": "/məʊdz/"
       }
+    ],
+    "synonyms": [
+      "method"
     ]
   },
   {
@@ -6973,6 +7392,9 @@
         "example": "The design was modified after the first trial.",
         "exampleVi": "Thiết kế được điều chỉnh lại cho phù hợp sau lần thử đầu tiên."
       }
+    ],
+    "synonyms": [
+      "adjust"
     ]
   },
   {
@@ -7007,6 +7429,9 @@
         ],
         "ipa": "/ˈməʊ.tɪvz/"
       }
+    ],
+    "synonyms": [
+      "reason"
     ]
   },
   {
@@ -7053,6 +7478,9 @@
         ],
         "ipa": "/nɪˈɡeɪtɪd/"
       }
+    ],
+    "synonyms": [
+      "nullify"
     ]
   },
   {
@@ -7100,7 +7528,8 @@
         ],
         "ipa": "/ˈnet.wɜːkt/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "normal",
@@ -7133,6 +7562,9 @@
         ],
         "ipa": "/ˈnɔː.məlz/"
       }
+    ],
+    "synonyms": [
+      "usual"
     ]
   },
   {
@@ -7154,6 +7586,9 @@
         "example": "The plan has weaknesses; we support it notwithstanding.",
         "exampleVi": "Kế hoạch có điểm yếu; dù vậy chúng tôi vẫn ủng hộ nó."
       }
+    ],
+    "synonyms": [
+      "despite"
     ]
   },
   {
@@ -7175,7 +7610,8 @@
         "example": "The stain makes the nuclear membrane visible.",
         "exampleVi": "Thuốc nhuộm làm màng nhân tế bào hiện rõ."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "obvious",
@@ -7191,6 +7627,9 @@
     "level": "B1",
     "family": [
       "obviously"
+    ],
+    "synonyms": [
+      "evident"
     ]
   },
   {
@@ -7242,6 +7681,9 @@
         ],
         "ipa": "/ˈɒk.jʊ.paɪd/"
       }
+    ],
+    "synonyms": [
+      "take up"
     ]
   },
   {
@@ -7263,6 +7705,9 @@
         "example": "Seven is an odd number.",
         "exampleVi": "Bảy là một số lẻ."
       }
+    ],
+    "synonyms": [
+      "strange"
     ]
   },
   {
@@ -7295,6 +7740,9 @@
         ],
         "ipa": "/ˈɒp.ʃənz/"
       }
+    ],
+    "synonyms": [
+      "choice"
     ]
   },
   {
@@ -7346,7 +7794,8 @@
         "example": "The syllabus is oriented towards practical skills.",
         "exampleVi": "Chương trình học được định hướng theo kỹ năng thực hành."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "output",
@@ -7393,6 +7842,9 @@
         ],
         "ipa": "/ˈaʊt.pʊt/"
       }
+    ],
+    "synonyms": [
+      "production"
     ]
   },
   {
@@ -7441,7 +7893,8 @@
         ],
         "ipa": "/ˌəʊ.vəˈlæpt/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "overseas",
@@ -7462,6 +7915,9 @@
         "example": "She travelled overseas to continue her studies.",
         "exampleVi": "Cô ấy ra nước ngoài để tiếp tục học."
       }
+    ],
+    "synonyms": [
+      "abroad"
     ]
   },
   {
@@ -7492,6 +7948,9 @@
         ],
         "ipa": "/ˈpæn.əlz/"
       }
+    ],
+    "synonyms": [
+      "committee"
     ]
   },
   {
@@ -7522,6 +7981,9 @@
         ],
         "ipa": "/ˈpær.ə.daɪmz/"
       }
+    ],
+    "synonyms": [
+      "model"
     ]
   },
   {
@@ -7569,7 +8031,8 @@
         ],
         "ipa": "/ˈpær.ə.ɡræft/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "parameter",
@@ -7600,6 +8063,9 @@
         "example": "The committee set narrow parameters for the inquiry.",
         "exampleVi": "Ban chuyên trách đặt giới hạn hẹp cho cuộc điều tra."
       }
+    ],
+    "synonyms": [
+      "boundary"
     ]
   },
   {
@@ -7650,6 +8116,9 @@
         ],
         "ipa": "/ˈpɑːt.nərd/"
       }
+    ],
+    "synonyms": [
+      "associate"
     ]
   },
   {
@@ -7680,6 +8149,9 @@
         ],
         "ipa": "/ˈpæs.ɪvz/"
       }
+    ],
+    "synonyms": [
+      "inactive"
     ]
   },
   {
@@ -7702,6 +8174,9 @@
         ],
         "ipa": "/pəˈsents/"
       }
+    ],
+    "synonyms": [
+      "per cent"
     ]
   },
   {
@@ -7732,6 +8207,9 @@
         ],
         "ipa": "/ˈpɪə.ri.ədz/"
       }
+    ],
+    "synonyms": [
+      "interval"
     ]
   },
   {
@@ -7762,6 +8240,9 @@
         ],
         "ipa": "/pəˈspek.tɪvz/"
       }
+    ],
+    "synonyms": [
+      "viewpoint"
     ]
   },
   {
@@ -7792,7 +8273,8 @@
         ],
         "ipa": "/fəˈnɑmənə/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "philosophy",
@@ -7825,6 +8307,9 @@
         ],
         "ipa": "/fɪˈlɒs.ə.fiz/"
       }
+    ],
+    "synonyms": [
+      "creed"
     ]
   },
   {
@@ -7849,6 +8334,9 @@
         "example": "The experiment demonstrates a physical law about motion.",
         "exampleVi": "Thí nghiệm minh họa một định luật vật lý về chuyển động."
       }
+    ],
+    "synonyms": [
+      "bodily"
     ]
   },
   {
@@ -7879,7 +8367,8 @@
         ],
         "ipa": "/ˈpɒl.ɪ.siz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "pose",
@@ -7928,6 +8417,9 @@
         ],
         "ipa": "/pəʊzd/"
       }
+    ],
+    "synonyms": [
+      "present"
     ]
   },
   {
@@ -7960,6 +8452,9 @@
         ],
         "ipa": "/ˈpɒz.ɪ.tɪvz/"
       }
+    ],
+    "synonyms": [
+      "favorable"
     ]
   },
   {
@@ -7984,7 +8479,8 @@
         "example": "General practitioners handle most first consultations.",
         "exampleVi": "Người hành nghề y đa khoa xử lý phần lớn các lần khám đầu tiên."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "predominant",
@@ -8000,6 +8496,9 @@
     "level": "C1",
     "family": [
       "predominantly"
+    ],
+    "synonyms": [
+      "dominant"
     ]
   },
   {
@@ -8033,6 +8532,9 @@
         ],
         "ipa": "/ˈpraɪ.mə.riz/"
       }
+    ],
+    "synonyms": [
+      "main"
     ]
   },
   {
@@ -8062,6 +8564,9 @@
         ],
         "ipa": "/praɪmz/"
       }
+    ],
+    "synonyms": [
+      "chief"
     ]
   },
   {
@@ -8092,6 +8597,9 @@
         ],
         "ipa": "/ˈprɪn.sɪ.pəlz/"
       }
+    ],
+    "synonyms": [
+      "main"
     ]
   },
   {
@@ -8114,6 +8622,9 @@
         ],
         "ipa": "/ˈprɪn.sɪ.pəlz/"
       }
+    ],
+    "synonyms": [
+      "rule"
     ]
   },
   {
@@ -8147,6 +8658,9 @@
         ],
         "ipa": "/ˈpraɪ.ərz/"
       }
+    ],
+    "synonyms": [
+      "previous"
     ]
   },
   {
@@ -8194,6 +8708,9 @@
         ],
         "ipa": "/ˈprəʊ.sest/"
       }
+    ],
+    "synonyms": [
+      "procedure"
     ]
   },
   {
@@ -8227,7 +8744,8 @@
         ],
         "ipa": "/prəˈfeʃ.ə.nəlz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "project",
@@ -8276,6 +8794,9 @@
         ],
         "ipa": "/prəˈdʒektɪd/"
       }
+    ],
+    "synonyms": [
+      "forecast"
     ]
   },
   {
@@ -8292,7 +8813,8 @@
     "family": [
       "psychological"
     ],
-    "topic": "education"
+    "topic": "education",
+    "synonyms": []
   },
   {
     "word": "publication",
@@ -8324,7 +8846,8 @@
         "example": "Her publications are cited across three disciplines.",
         "exampleVi": "Các ấn phẩm công bố của bà được trích dẫn ở ba ngành."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "publish",
@@ -8375,6 +8898,9 @@
         ],
         "ipa": "/ˈpʌb.lɪʃt/"
       }
+    ],
+    "synonyms": [
+      "release"
     ]
   },
   {
@@ -8388,7 +8914,8 @@
       "awl",
       "writing"
     ],
-    "level": "C1"
+    "level": "C1",
+    "synonyms": []
   },
   {
     "word": "quote",
@@ -8440,6 +8967,9 @@
         ],
         "ipa": "/kwəʊtɪd/"
       }
+    ],
+    "synonyms": [
+      "cite"
     ]
   },
   {
@@ -8463,7 +8993,8 @@
         "example": "That was a random thing to say during a serious meeting.",
         "exampleVi": "Đó là một câu nói chẳng ăn nhập gì trong một cuộc họp nghiêm túc."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "range",
@@ -8510,7 +9041,8 @@
         ],
         "ipa": "/reɪndʒd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "react",
@@ -8561,6 +9093,9 @@
         "example": "Markets reacted badly to the announcement.",
         "exampleVi": "Thị trường phản ứng lại tiêu cực trước thông báo."
       }
+    ],
+    "synonyms": [
+      "respond"
     ]
   },
   {
@@ -8591,6 +9126,9 @@
         ],
         "ipa": "/reɪˈʒiːmz/"
       }
+    ],
+    "synonyms": [
+      "government"
     ]
   },
   {
@@ -8624,6 +9162,9 @@
         ],
         "ipa": "/ˈriː.dʒənz/"
       }
+    ],
+    "synonyms": [
+      "area"
     ]
   },
   {
@@ -8676,6 +9217,9 @@
         "example": "Only half of eligible voters registered in time.",
         "exampleVi": "Chỉ một nửa cử tri đủ điều kiện đăng ký ghi danh kịp thời hạn."
       }
+    ],
+    "synonyms": [
+      "enroll"
     ]
   },
   {
@@ -8726,7 +9270,8 @@
         ],
         "ipa": "/ˈreɡ.juː.leɪtɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "relax",
@@ -8774,6 +9319,9 @@
         "example": "The authorities relaxed the rules on student visas.",
         "exampleVi": "Nhà chức trách nới lỏng quy định về thị thực sinh viên."
       }
+    ],
+    "synonyms": [
+      "ease"
     ]
   },
   {
@@ -8822,6 +9370,9 @@
         "example": "The figures were released without any commentary.",
         "exampleVi": "Các con số được phát hành ra công chúng mà không kèm bình luận."
       }
+    ],
+    "synonyms": [
+      "publish"
     ]
   },
   {
@@ -8846,6 +9397,9 @@
         "example": "An air gap increases the magnetic circuit's reluctance.",
         "exampleVi": "Khe hở không khí làm tăng từ trở của mạch từ."
       }
+    ],
+    "synonyms": [
+      "unwillingness"
     ]
   },
   {
@@ -8888,6 +9442,9 @@
         ],
         "ipa": "/rɪˈlaɪd/"
       }
+    ],
+    "synonyms": [
+      "depend"
     ]
   },
   {
@@ -8937,6 +9494,9 @@
         ],
         "ipa": "/rɪˈsɜːtʃt/"
       }
+    ],
+    "synonyms": [
+      "study"
     ]
   },
   {
@@ -8979,6 +9539,9 @@
         ],
         "ipa": "/riˈzaɪdɪd/"
       }
+    ],
+    "synonyms": [
+      "live"
     ]
   },
   {
@@ -9030,6 +9593,9 @@
         "example": "Higher interest rates restrained consumer spending.",
         "exampleVi": "Lãi suất cao hơn kiềm chế lại chi tiêu tiêu dùng."
       }
+    ],
+    "synonyms": [
+      "curb"
     ]
   },
   {
@@ -9081,6 +9647,9 @@
         "example": "The forecast was revised downwards in November.",
         "exampleVi": "Dự báo được xem lại và sửa theo hướng giảm vào tháng Mười một."
       }
+    ],
+    "synonyms": [
+      "amend"
     ]
   },
   {
@@ -9114,7 +9683,8 @@
         ],
         "ipa": "/ˌrev.əˈluː.ʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "role",
@@ -9144,6 +9714,9 @@
         ],
         "ipa": "/rəʊlz/"
       }
+    ],
+    "synonyms": [
+      "function"
     ]
   },
   {
@@ -9191,6 +9764,9 @@
         ],
         "ipa": "/ruːtɪd/"
       }
+    ],
+    "synonyms": [
+      "path"
     ]
   },
   {
@@ -9238,6 +9814,9 @@
         ],
         "ipa": "/ˈʃed.juːld/"
       }
+    ],
+    "synonyms": [
+      "timetable"
     ]
   },
   {
@@ -9285,6 +9864,9 @@
         ],
         "ipa": "/skiːmd/"
       }
+    ],
+    "synonyms": [
+      "plan"
     ]
   },
   {
@@ -9332,6 +9914,9 @@
         ],
         "ipa": "/ˈsek.ʃənd/"
       }
+    ],
+    "synonyms": [
+      "part"
     ]
   },
   {
@@ -9362,6 +9947,9 @@
         ],
         "ipa": "/ˈsek.tərz/"
       }
+    ],
+    "synonyms": [
+      "industry"
     ]
   },
   {
@@ -9413,6 +10001,9 @@
         "example": "Judges selected twelve entries from over a thousand.",
         "exampleVi": "Ban giám khảo chọn lọc ra mười hai bài dự thi trong hơn một nghìn."
       }
+    ],
+    "synonyms": [
+      "choose"
     ]
   },
   {
@@ -9460,6 +10051,9 @@
         ],
         "ipa": "/ˈsiː.kwənst/"
       }
+    ],
+    "synonyms": [
+      "order"
     ]
   },
   {
@@ -9489,7 +10083,8 @@
         ],
         "ipa": "/ˈsɪə.riːz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "site",
@@ -9535,6 +10130,9 @@
         ],
         "ipa": "/saɪtɪd/"
       }
+    ],
+    "synonyms": [
+      "location"
     ]
   },
   {
@@ -9568,6 +10166,9 @@
         ],
         "ipa": "/səʊlz/"
       }
+    ],
+    "synonyms": [
+      "only"
     ]
   },
   {
@@ -9581,7 +10182,10 @@
       "awl",
       "writing"
     ],
-    "level": "B2"
+    "level": "B2",
+    "synonyms": [
+      "rather"
+    ]
   },
   {
     "word": "source",
@@ -9628,6 +10232,9 @@
         ],
         "ipa": "/sɔːst/"
       }
+    ],
+    "synonyms": [
+      "origin"
     ]
   },
   {
@@ -9670,6 +10277,9 @@
         ],
         "ipa": "/ˈspes.ɪ.faɪd/"
       }
+    ],
+    "synonyms": [
+      "stipulate"
     ]
   },
   {
@@ -9700,6 +10310,9 @@
         ],
         "ipa": "/sfɪərz/"
       }
+    ],
+    "synonyms": [
+      "domain"
     ]
   },
   {
@@ -9725,7 +10338,8 @@
         ],
         "ipa": "/stəˈtɪs.tɪks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "status",
@@ -9755,6 +10369,9 @@
         ],
         "ipa": "/ˈsteɪ.təsɪz/"
       }
+    ],
+    "synonyms": [
+      "standing"
     ]
   },
   {
@@ -9776,6 +10393,9 @@
         "example": "She was straightforward about why she wanted to leave.",
         "exampleVi": "Cô ấy thẳng thắn nói lý do muốn rời đi."
       }
+    ],
+    "synonyms": [
+      "simple"
     ]
   },
   {
@@ -9801,6 +10421,9 @@
         ],
         "ipa": "/ˈstræt.ə.dʒiz/"
       }
+    ],
+    "synonyms": [
+      "plan"
     ]
   },
   {
@@ -9850,6 +10473,9 @@
         ],
         "ipa": "/strest/"
       }
+    ],
+    "synonyms": [
+      "emphasize"
     ]
   },
   {
@@ -9900,6 +10526,9 @@
         ],
         "ipa": "/ˈstrʌk.tʃərd/"
       }
+    ],
+    "synonyms": [
+      "organization"
     ]
   },
   {
@@ -9947,7 +10576,8 @@
         ],
         "ipa": "/staɪld/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "subordinate",
@@ -9977,6 +10607,9 @@
         ],
         "ipa": "/səˈbɔː.dɪ.nəts/"
       }
+    ],
+    "synonyms": [
+      "inferior"
     ]
   },
   {
@@ -10004,6 +10637,9 @@
         "example": "Fuel subsidies cost more than the health budget.",
         "exampleVi": "Khoản trợ cấp nhà nước cho nhiên liệu tốn hơn ngân sách y tế."
       }
+    ],
+    "synonyms": [
+      "government grant"
     ]
   },
   {
@@ -10054,6 +10690,9 @@
         ],
         "ipa": "/ˈsʌb.stɪ.tjuːtɪd/"
       }
+    ],
+    "synonyms": [
+      "replace"
     ]
   },
   {
@@ -10084,7 +10723,8 @@
         ],
         "ipa": "/səkˈses.ərz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "sum",
@@ -10131,6 +10771,9 @@
         ],
         "ipa": "/sʌmd/"
       }
+    ],
+    "synonyms": [
+      "total"
     ]
   },
   {
@@ -10179,6 +10822,9 @@
         ],
         "ipa": "/səˈveɪd/"
       }
+    ],
+    "synonyms": [
+      "poll"
     ]
   },
   {
@@ -10230,6 +10876,9 @@
         "example": "Flights were suspended for three days.",
         "exampleVi": "Các chuyến bay bị tạm đình chỉ trong ba ngày."
       }
+    ],
+    "synonyms": [
+      "pause"
     ]
   },
   {
@@ -10263,6 +10912,9 @@
         ],
         "ipa": "/ˈsɪm.bəlz/"
       }
+    ],
+    "synonyms": [
+      "emblem"
     ]
   },
   {
@@ -10310,7 +10962,8 @@
         ],
         "ipa": "/teɪpt/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "target",
@@ -10357,6 +11010,9 @@
         ],
         "ipa": "/ˈtɑː.ɡɪtɪd/"
       }
+    ],
+    "synonyms": [
+      "goal"
     ]
   },
   {
@@ -10404,6 +11060,9 @@
         ],
         "ipa": "/tɑːskt/"
       }
+    ],
+    "synonyms": [
+      "assignment"
     ]
   },
   {
@@ -10451,6 +11110,9 @@
         ],
         "ipa": "/tiːmd/"
       }
+    ],
+    "synonyms": [
+      "group"
     ]
   },
   {
@@ -10475,7 +11137,8 @@
         "example": "There is a technical distinction between these two terms.",
         "exampleVi": "Có một khác biệt về chuyên môn giữa hai thuật ngữ này."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "technique",
@@ -10497,6 +11160,9 @@
         ],
         "ipa": "/tekˈniːks/"
       }
+    ],
+    "synonyms": [
+      "method"
     ]
   },
   {
@@ -10530,7 +11196,8 @@
         ],
         "ipa": "/tekˈnɒl.ə.dʒiz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "temporary",
@@ -10563,6 +11230,9 @@
         ],
         "ipa": "/ˈtem.prə.riz/"
       }
+    ],
+    "synonyms": [
+      "short-lived"
     ]
   },
   {
@@ -10596,6 +11266,9 @@
         ],
         "ipa": "/tensɪz/"
       }
+    ],
+    "synonyms": [
+      "anxious"
     ]
   },
   {
@@ -10631,7 +11304,8 @@
         "example": "Candidates read three texts in sixty minutes.",
         "exampleVi": "Thí sinh đọc ba văn bản trong sáu mươi phút."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "theme",
@@ -10681,6 +11355,9 @@
         ],
         "ipa": "/θiːmd/"
       }
+    ],
+    "synonyms": [
+      "subject"
     ]
   },
   {
@@ -10714,7 +11391,8 @@
         ],
         "ipa": "/ˈθɪə.riz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "thereby",
@@ -10727,7 +11405,8 @@
       "awl",
       "writing"
     ],
-    "level": "C1"
+    "level": "C1",
+    "synonyms": []
   },
   {
     "word": "thesis",
@@ -10757,6 +11436,9 @@
         ],
         "ipa": "/ˈθiːsiːz/"
       }
+    ],
+    "synonyms": [
+      "dissertation"
     ]
   },
   {
@@ -10779,6 +11461,9 @@
         ],
         "ipa": "/ˈtɒp.ɪks/"
       }
+    ],
+    "synonyms": [
+      "subject"
     ]
   },
   {
@@ -10825,7 +11510,8 @@
         ],
         "ipa": "/ˈtræn.sɪtɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "transmit",
@@ -10876,6 +11562,9 @@
         ],
         "ipa": "/trænˈsmɪtɪd/"
       }
+    ],
+    "synonyms": [
+      "spread"
     ]
   },
   {
@@ -10923,6 +11612,9 @@
         ],
         "ipa": "/trænˈspɔːtɪd/"
       }
+    ],
+    "synonyms": [
+      "transportation"
     ]
   },
   {
@@ -10978,7 +11670,8 @@
         ],
         "ipa": "/ˌʌn.dəˈleɪn/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "uniform",
@@ -11008,6 +11701,9 @@
         ],
         "ipa": "/ˈjuː.nɪ.fɔːmz/"
       }
+    ],
+    "synonyms": [
+      "consistent"
     ]
   },
   {
@@ -11052,6 +11748,9 @@
         "example": "A single exam unified a fragmented system.",
         "exampleVi": "Một kỳ thi duy nhất hợp nhất lại thành một hệ thống vốn phân mảnh."
       }
+    ],
+    "synonyms": [
+      "unite"
     ]
   },
   {
@@ -11065,7 +11764,10 @@
       "awl"
     ],
     "level": "B1",
-    "topic": "environment"
+    "topic": "environment",
+    "synonyms": [
+      "one of a kind"
+    ]
   },
   {
     "word": "utilise",
@@ -11103,6 +11805,9 @@
         ],
         "ipa": "/ˈjuː.tə.laɪzd/"
       }
+    ],
+    "synonyms": [
+      "utilize"
     ]
   },
   {
@@ -11128,6 +11833,9 @@
         "example": "Your ticket is valid until the end of the month.",
         "exampleVi": "Vé của bạn còn hiệu lực đến cuối tháng."
       }
+    ],
+    "synonyms": [
+      "sound"
     ]
   },
   {
@@ -11158,6 +11866,9 @@
         ],
         "ipa": "/ˈvɜː.ʃənz/"
       }
+    ],
+    "synonyms": [
+      "edition"
     ]
   },
   {
@@ -11171,7 +11882,10 @@
       "awl"
     ],
     "level": "B2",
-    "topic": "technology"
+    "topic": "technology",
+    "synonyms": [
+      "through"
+    ]
   },
   {
     "word": "violate",
@@ -11214,6 +11928,9 @@
         "example": "The factory violated three safety regulations.",
         "exampleVi": "Nhà máy vi phạm ba quy định an toàn."
       }
+    ],
+    "synonyms": [
+      "infringe"
     ]
   },
   {
@@ -11230,6 +11947,9 @@
     "level": "B1",
     "family": [
       "visibility"
+    ],
+    "synonyms": [
+      "observable"
     ]
   },
   {
@@ -11260,7 +11980,8 @@
         ],
         "ipa": "/ˈvɪʒ.ənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "visual",
@@ -11293,7 +12014,8 @@
         ],
         "ipa": "/ˈvɪʒ.u.əlz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "volume",
@@ -11323,7 +12045,8 @@
         ],
         "ipa": "/ˈvɒl.juːmz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "voluntary",
@@ -11340,7 +12063,10 @@
       "volunteer",
       "voluntarily"
     ],
-    "topic": "society"
+    "topic": "society",
+    "synonyms": [
+      "willing"
+    ]
   },
   {
     "word": "welfare",
@@ -11361,7 +12087,8 @@
         "example": "The shelter looks after the welfare of abandoned animals.",
         "exampleVi": "Trung tâm cứu hộ chăm lo sức khỏe và đời sống của các động vật bị bỏ rơi."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "whereby",
@@ -11374,7 +12101,8 @@
       "awl",
       "writing"
     ],
-    "level": "C1"
+    "level": "C1",
+    "synonyms": []
   },
   {
     "word": "sex",
@@ -11421,7 +12149,8 @@
         ],
         "ipa": "/sekst/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "so-called",
@@ -11434,7 +12163,10 @@
       "awl",
       "writing"
     ],
-    "level": "C1"
+    "level": "C1",
+    "synonyms": [
+      "alleged"
+    ]
   },
   {
     "word": "transfer",
@@ -11484,6 +12216,9 @@
         "example": "He transferred the money yesterday.",
         "exampleVi": "Anh ấy đã chuyển tiền hôm qua."
       }
+    ],
+    "synonyms": [
+      "move"
     ]
   }
 ]

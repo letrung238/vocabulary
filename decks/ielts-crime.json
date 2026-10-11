@@ -24,6 +24,9 @@
         ],
         "ipa": "/əˈfensɪz/"
       }
+    ],
+    "synonyms": [
+      "offense"
     ]
   },
   {
@@ -43,7 +46,8 @@
         ],
         "ipa": "/ˈbɜː.ɡlər.iz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "vandalism",
@@ -53,7 +57,8 @@
     "example": "Vandalism costs the council more than theft does.",
     "exampleVi": "Phá hoại tài sản công tốn của hội đồng nhiều hơn trộm cắp.",
     "topic": "law",
-    "level": "C1"
+    "level": "C1",
+    "synonyms": []
   },
   {
     "word": "fraud",
@@ -80,6 +85,9 @@
         ],
         "ipa": "/frɔːdz/"
       }
+    ],
+    "synonyms": [
+      "deception"
     ]
   },
   {
@@ -90,7 +98,8 @@
     "example": "Smuggling follows whatever the tax makes expensive.",
     "exampleVi": "Buôn lậu bám theo bất cứ thứ gì thuế làm cho đắt đỏ.",
     "topic": "law",
-    "level": "C1"
+    "level": "C1",
+    "synonyms": []
   },
   {
     "word": "trafficking",
@@ -100,7 +109,8 @@
     "example": "Trafficking routes shift the moment one border tightens.",
     "exampleVi": "Tuyến buôn người và hàng cấm đổi hướng ngay khi một biên giới siết chặt.",
     "topic": "law",
-    "level": "C1"
+    "level": "C1",
+    "synonyms": []
   },
   {
     "word": "convict",
@@ -145,7 +155,8 @@
         ],
         "ipa": "/kənˈvɪktɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "probation",
@@ -163,7 +174,8 @@
         "example": "New employees complete three months of probation before receiving permanent contracts.",
         "exampleVi": "Nhân viên mới hoàn thành ba tháng thử việc trước khi nhận hợp đồng chính thức."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "parole",
@@ -206,7 +218,8 @@
         ],
         "ipa": "/pəˈrəʊld/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "deterrence",
@@ -216,7 +229,8 @@
     "example": "Deterrence works through certainty, not severity.",
     "exampleVi": "Tác dụng răn đe đến từ sự chắc chắn bị bắt, không phải mức án nặng.",
     "topic": "law",
-    "level": "C1"
+    "level": "C1",
+    "synonyms": []
   },
   {
     "word": "juvenile",
@@ -243,6 +257,9 @@
         ],
         "ipa": "/ˈdʒuː.və.naɪlz/"
       }
+    ],
+    "synonyms": [
+      "underage"
     ]
   },
   {
@@ -289,7 +306,8 @@
         "example": "She witnessed the whole thing.",
         "exampleVi": "Cô ấy chứng kiến toàn bộ sự việc."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "testimony",
@@ -316,6 +334,9 @@
         ],
         "ipa": "/ˈtes.tɪ.mə.niz/"
       }
+    ],
+    "synonyms": [
+      "evidence"
     ]
   },
   {
@@ -361,6 +382,9 @@
         "example": "The court acquitted him after new evidence appeared.",
         "exampleVi": "Toà tuyên trắng án cho ông sau khi có bằng chứng mới."
       }
+    ],
+    "synonyms": [
+      "exonerate"
     ]
   },
   {
@@ -371,7 +395,8 @@
     "example": "Bribery thrives where officials are paid too little.",
     "exampleVi": "Tội đưa và nhận hối lộ sinh sôi ở nơi công chức được trả lương quá thấp.",
     "topic": "law",
-    "level": "C1"
+    "level": "C1",
+    "synonyms": []
   },
   {
     "word": "community service",
@@ -392,7 +417,8 @@
         "example": "The students chose community service by volunteering at a food bank.",
         "exampleVi": "Các sinh viên chọn phục vụ cộng đồng bằng cách tình nguyện tại một tổ chức phát thực phẩm miễn phí."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "capital punishment",
@@ -405,6 +431,9 @@
     "level": "C1",
     "tags": [
       "collocation"
+    ],
+    "synonyms": [
+      "death penalty"
     ]
   },
   {
@@ -427,7 +456,8 @@
         ],
         "ipa": "/ˈkraɪm reɪts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "law enforcement",
@@ -440,6 +470,7 @@
     "level": "B2",
     "tags": [
       "collocation"
-    ]
+    ],
+    "synonyms": []
   }
 ]

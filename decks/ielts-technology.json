@@ -7,7 +7,8 @@
     "example": "Automation has hit routine clerical work hardest.",
     "exampleVi": "Sự tự động hoá giáng đòn nặng nhất vào công việc văn phòng lặp lại.",
     "level": "B2",
-    "topic": "technology"
+    "topic": "technology",
+    "synonyms": []
   },
   {
     "word": "cybersecurity",
@@ -17,7 +18,10 @@
     "example": "Hospitals spend little on cybersecurity until they are attacked.",
     "exampleVi": "Bệnh viện chi rất ít cho an ninh mạng cho tới khi bị tấn công.",
     "level": "C1",
-    "topic": "technology"
+    "topic": "technology",
+    "synonyms": [
+      "cyber security"
+    ]
   },
   {
     "word": "encryption",
@@ -30,7 +34,10 @@
     "family": [
       "encrypt"
     ],
-    "topic": "technology"
+    "topic": "technology",
+    "synonyms": [
+      "encipherment"
+    ]
   },
   {
     "word": "surveillance",
@@ -51,6 +58,9 @@
         "example": "Public health surveillance tracks patterns of illness across the population.",
         "exampleVi": "Hoạt động giám sát y tế công cộng theo dõi các mô hình bệnh tật trong dân cư."
       }
+    ],
+    "synonyms": [
+      "monitoring"
     ]
   },
   {
@@ -61,7 +71,10 @@
     "example": "The malware spread through a single infected file.",
     "exampleVi": "Phần mềm độc hại lan đi qua đúng một tệp bị nhiễm.",
     "level": "C1",
-    "topic": "technology"
+    "topic": "technology",
+    "synonyms": [
+      "malicious software"
+    ]
   },
   {
     "word": "privacy",
@@ -85,7 +98,8 @@
         "example": "She wanted the privacy of a quiet room where nobody would interrupt her.",
         "exampleVi": "Cô muốn có sự riêng tư trong một căn phòng yên tĩnh nơi không ai làm phiền."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "robotics",
@@ -98,7 +112,8 @@
     "family": [
       "robot"
     ],
-    "topic": "technology"
+    "topic": "technology",
+    "synonyms": []
   },
   {
     "word": "simulation",
@@ -128,7 +143,8 @@
         ],
         "ipa": "/ˌsɪm.jʊˈleɪ.ʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "wireless",
@@ -155,7 +171,8 @@
         ],
         "ipa": "/ˈwaɪ.ə.ləsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "biometric",
@@ -182,7 +199,8 @@
         ],
         "ipa": "/ˌbaɪ.əʊˈmet.rɪks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "digitise",
@@ -219,6 +237,9 @@
         "example": "The library digitised four centuries of manuscripts.",
         "exampleVi": "Thư viện số hoá tài liệu là các bản thảo suốt bốn thế kỷ."
       }
+    ],
+    "synonyms": [
+      "digitize"
     ]
   },
   {
@@ -246,6 +267,9 @@
         ],
         "ipa": "/ˈɡædʒ.ɪts/"
       }
+    ],
+    "synonyms": [
+      "gizmo"
     ]
   },
   {
@@ -273,7 +297,8 @@
         ],
         "ipa": "/ˈhæk.ərz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "innovation",
@@ -292,7 +317,8 @@
         ],
         "ipa": "/ˌɪn.əˈveɪ.ʃənz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "screen",
@@ -339,6 +365,9 @@
         ],
         "ipa": "/skriːnd/"
       }
+    ],
+    "synonyms": [
+      "display"
     ]
   },
   {
@@ -358,7 +387,8 @@
         ],
         "ipa": "/ˈsmɑːt.fəʊnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "startup",
@@ -390,7 +420,8 @@
         "example": "Most startups fail before their third year.",
         "exampleVi": "Phần lớn công ty khởi nghiệp thất bại trước năm thứ ba."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "upgrade",
@@ -435,7 +466,8 @@
         ],
         "ipa": "/ʌpˈɡreɪdɪd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "misinformation",
@@ -448,7 +480,8 @@
       "media"
     ],
     "level": "C1",
-    "topic": "technology"
+    "topic": "technology",
+    "synonyms": []
   },
   {
     "word": "anonymity",
@@ -464,7 +497,8 @@
     "family": [
       "anonymous"
     ],
-    "topic": "technology"
+    "topic": "technology",
+    "synonyms": []
   },
   {
     "word": "connectivity",
@@ -482,7 +516,8 @@
         "example": "The community center encourages social connectivity among older residents.",
         "exampleVi": "Trung tâm cộng đồng khuyến khích sự gắn kết xã hội giữa những cư dân lớn tuổi."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "obsolescence",
@@ -495,7 +530,8 @@
       "environment"
     ],
     "level": "C1",
-    "topic": "technology"
+    "topic": "technology",
+    "synonyms": []
   },
   {
     "word": "interface",
@@ -522,6 +558,7 @@
         ],
         "ipa": "/ˈɪn.tə.feɪsɪz/"
       }
-    ]
+    ],
+    "synonyms": []
   }
 ]

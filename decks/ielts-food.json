@@ -16,7 +16,8 @@
         ],
         "ipa": "/kwɪˈziːnz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "staple",
@@ -60,7 +61,8 @@
         ],
         "ipa": "/ˈsteɪ.pəld/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "organic",
@@ -87,7 +89,8 @@
         ],
         "ipa": "/ɔːˈɡæn.ɪks/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "processed",
@@ -105,7 +108,8 @@
         "example": "The processed data is ready for the computer to display as a graph.",
         "exampleVi": "Dữ liệu đã được xử lý sẵn sàng để máy tính hiển thị thành đồ thị."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "additive",
@@ -134,7 +138,8 @@
         "example": "Some additives are banned in one country and legal next door.",
         "exampleVi": "Có phụ gia thực phẩm bị cấm ở nước này lại hợp pháp ngay nước bên cạnh."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "preservative",
@@ -163,7 +168,8 @@
         "example": "Without preservatives the loaf lasts two days.",
         "exampleVi": "Không có chất bảo quản thì ổ bánh chỉ để được hai ngày."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "vegetarian",
@@ -192,7 +198,8 @@
         "example": "Vegetarians make up a fifth of the student body.",
         "exampleVi": "Người ăn chay chiếm một phần năm số sinh viên."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "vegan",
@@ -221,7 +228,8 @@
         "example": "Vegans avoid dairy as well as meat.",
         "exampleVi": "Người ăn thuần chay tránh cả sữa lẫn thịt."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "calorie",
@@ -242,7 +250,8 @@
         "example": "Labels list calories but rarely explain them.",
         "exampleVi": "Nhãn ghi số ca-lo nhưng hiếm khi giải thích chúng nghĩa là gì."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "cutlery",
@@ -252,7 +261,10 @@
     "example": "Disposable cutlery was banned in the canteen.",
     "exampleVi": "Bộ dao dĩa thìa dùng một lần bị cấm trong căng-tin.",
     "topic": "food",
-    "level": "B2"
+    "level": "B2",
+    "synonyms": [
+      "silverware"
+    ]
   },
   {
     "word": "recipe",
@@ -279,7 +291,8 @@
         ],
         "ipa": "/ˈres.ɪ.piːz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "flavour",
@@ -323,6 +336,9 @@
         ],
         "ipa": "/ˈfleɪ.vərd/"
       }
+    ],
+    "synonyms": [
+      "flavor"
     ]
   },
   {
@@ -350,7 +366,8 @@
         ],
         "ipa": "/ˈæp.ɪ.taɪts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "portion",
@@ -394,6 +411,9 @@
         ],
         "ipa": "/ˈpɔː.ʃənd/"
       }
+    ],
+    "synonyms": [
+      "serving"
     ]
   },
   {
@@ -412,7 +432,8 @@
         "example": "The design team used leftovers from earlier projects to build the display.",
         "exampleVi": "Đội thiết kế dùng những vật liệu còn sót lại từ các dự án trước để làm phần trưng bày."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "edible",
@@ -439,6 +460,9 @@
         ],
         "ipa": "/ˈed.ə.bəlz/"
       }
+    ],
+    "synonyms": [
+      "eatable"
     ]
   },
   {
@@ -466,7 +490,8 @@
         ],
         "ipa": "/ˈper.ɪ.ʃə.bəlz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "takeaway",
@@ -493,6 +518,9 @@
         ],
         "ipa": "/ˈteɪ.kə.weɪz/"
       }
+    ],
+    "synonyms": [
+      "takeout"
     ]
   },
   {
@@ -515,7 +543,8 @@
         ],
         "ipa": "/ˌbæl.ənst ˈdaɪ.əts/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "food security",
@@ -528,7 +557,8 @@
     "level": "C1",
     "tags": [
       "collocation"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "street food",
@@ -541,7 +571,8 @@
     "level": "B1",
     "tags": [
       "collocation"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "convenience food",
@@ -554,7 +585,8 @@
     "level": "B2",
     "tags": [
       "collocation"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "seasonal produce",
@@ -567,7 +599,8 @@
     "level": "C1",
     "tags": [
       "collocation"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "home-cooked",
@@ -580,6 +613,7 @@
     "level": "B1",
     "tags": [
       "collocation"
-    ]
+    ],
+    "synonyms": []
   }
 ]

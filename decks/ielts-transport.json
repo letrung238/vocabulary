@@ -15,6 +15,9 @@
         "example": "The doctor examined the patient for signs of chest congestion.",
         "exampleVi": "Bác sĩ kiểm tra bệnh nhân để tìm dấu hiệu ứ đọng dịch ở ngực."
       }
+    ],
+    "synonyms": [
+      "traffic jam"
     ]
   },
   {
@@ -44,6 +47,9 @@
         "example": "Pedestrians have the least space and the most risk.",
         "exampleVi": "Người đi bộ có ít không gian nhất và chịu rủi ro cao nhất."
       }
+    ],
+    "synonyms": [
+      "walker"
     ]
   },
   {
@@ -63,6 +69,9 @@
         ],
         "ipa": "/ˈsaɪ.klɪsts/"
       }
+    ],
+    "synonyms": [
+      "bicyclist"
     ]
   },
   {
@@ -98,7 +107,8 @@
         ],
         "ipa": "/ˈkɑː.puːld/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "fare",
@@ -142,7 +152,8 @@
         ],
         "ipa": "/feərd/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "toll",
@@ -186,7 +197,8 @@
         ],
         "ipa": "/təʊld/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "gridlock",
@@ -204,6 +216,9 @@
         "example": "Political gridlock prevented the two parties from agreeing on a budget.",
         "exampleVi": "Tình trạng bế tắc chính trị khiến hai đảng không thể thống nhất ngân sách."
       }
+    ],
+    "synonyms": [
+      "traffic standstill"
     ]
   },
   {
@@ -241,6 +256,9 @@
         "example": "The council pedestrianised the centre against fierce opposition.",
         "exampleVi": "Hội đồng biến trung tâm thành phố đi bộ bất chấp phản đối dữ dội."
       }
+    ],
+    "synonyms": [
+      "pedestrianize"
     ]
   },
   {
@@ -270,7 +288,8 @@
         "example": "Commuters spend a working month a year in transit.",
         "exampleVi": "Người đi làm xa hằng ngày mất một tháng công mỗi năm trên đường."
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "urban sprawl",
@@ -283,7 +302,8 @@
     "level": "C1",
     "tags": [
       "collocation"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "rush hour",
@@ -305,6 +325,9 @@
         ],
         "ipa": "/ˈrʌʃ aʊərz/"
       }
+    ],
+    "synonyms": [
+      "peak hour"
     ]
   },
   {
@@ -318,6 +341,9 @@
     "level": "B1",
     "tags": [
       "collocation"
+    ],
+    "synonyms": [
+      "public transportation"
     ]
   },
   {
@@ -340,6 +366,9 @@
         ],
         "ipa": "/ˈsaɪ.kəl leɪnz/"
       }
+    ],
+    "synonyms": [
+      "bike lane"
     ]
   },
   {
@@ -353,7 +382,8 @@
     "level": "B2",
     "tags": [
       "collocation"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "mass transit",
@@ -366,6 +396,9 @@
     "level": "C1",
     "tags": [
       "collocation"
+    ],
+    "synonyms": [
+      "public transportation"
     ]
   },
   {
@@ -379,7 +412,8 @@
     "level": "C1",
     "tags": [
       "collocation"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "self-driving",
@@ -392,6 +426,9 @@
     "level": "C1",
     "tags": [
       "collocation"
+    ],
+    "synonyms": [
+      "autonomous"
     ]
   },
   {
@@ -405,6 +442,7 @@
     "level": "B2",
     "tags": [
       "collocation"
-    ]
+    ],
+    "synonyms": []
   }
 ]

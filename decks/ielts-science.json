@@ -24,6 +24,9 @@
         ],
         "ipa": "/ləˈbɒr.ə.triz/"
       }
+    ],
+    "synonyms": [
+      "lab"
     ]
   },
   {
@@ -51,6 +54,9 @@
         ],
         "ipa": "/ˈbreɪk.θruːz/"
       }
+    ],
+    "synonyms": [
+      "major advance"
     ]
   },
   {
@@ -61,7 +67,10 @@
     "example": "Empirical work beats a clever argument every time.",
     "exampleVi": "Công trình dựa trên quan sát thực nghiệm luôn thắng một lập luận khéo léo.",
     "topic": "science",
-    "level": "C1"
+    "level": "C1",
+    "synonyms": [
+      "observational"
+    ]
   },
   {
     "word": "replicate",
@@ -104,6 +113,9 @@
         ],
         "ipa": "/ˈrep.lɪ.keɪtɪd/"
       }
+    ],
+    "synonyms": [
+      "repeat"
     ]
   },
   {
@@ -131,7 +143,8 @@
         ],
         "ipa": "/ˈveə.ri.ə.bəlz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "specimen",
@@ -158,6 +171,9 @@
         ],
         "ipa": "/ˈspes.ɪ.mənz/"
       }
+    ],
+    "synonyms": [
+      "sample"
     ]
   },
   {
@@ -168,7 +184,8 @@
     "example": "Genetics explains risk, not destiny.",
     "exampleVi": "Di truyền học giải thích nguy cơ, không phải số phận.",
     "topic": "science",
-    "level": "B2"
+    "level": "B2",
+    "synonyms": []
   },
   {
     "word": "clinical trial",
@@ -190,7 +207,8 @@
         ],
         "ipa": "/ˌklɪn.ɪ.kəl ˈtraɪ.əlz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "peer review",
@@ -220,7 +238,8 @@
         ],
         "ipa": "/ˌpɪə rɪˈvjuːz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "scientific method",
@@ -242,7 +261,8 @@
         ],
         "ipa": "/ˌsaɪ.ənˌtɪf.ɪk ˈmeθ.ədz/"
       }
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "evidence-based",
@@ -255,7 +275,8 @@
     "level": "C1",
     "tags": [
       "collocation"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "space exploration",
@@ -268,7 +289,8 @@
     "level": "B2",
     "tags": [
       "collocation"
-    ]
+    ],
+    "synonyms": []
   },
   {
     "word": "artificial intelligence",
@@ -281,6 +303,9 @@
     "level": "B2",
     "tags": [
       "collocation"
+    ],
+    "synonyms": [
+      "AI"
     ]
   },
   {
@@ -305,6 +330,7 @@
         "example": "Ethical concerns are raised after the technology ships, not before.",
         "exampleVi": "Quan ngại về đạo đức được nêu sau khi công nghệ ra mắt, không phải trước."
       }
-    ]
+    ],
+    "synonyms": []
   }
 ]
