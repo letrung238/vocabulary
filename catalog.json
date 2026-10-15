@@ -5,7 +5,7 @@
     {
       "title": "Bộ chính — thông dụng + công việc/IT",
       "description": "1.002 từ thông dụng và công việc/IT. 672 từ có nghĩa phụ.",
-      "url": "seed_words.json",
+      "url": "app/src/main/assets/seed_words.json",
       "count": 1002
     },
     {
@@ -21,10 +21,16 @@
       "description": "120 từ/cụm mới trong 6 nhóm: động từ, đồ dùng, thực phẩm, quần áo, cơ thể và đi lại. IPA, ví dụ Anh–Việt, dạng chia và đồng nghĩa phù hợp; có sẵn offline trên Windows/Android."
     },
     {
-      "title": "IT chuyên sâu — 151 từ",
-      "description": "Hệ phân tán, database, bảo mật, đồng thời, DevOps, observability. Không trùng bộ chính.",
-      "url": "it_advanced.json",
-      "count": 151
+      "title": "Đời sống · 500 từ bổ sung",
+      "count": 500,
+      "url": "decks/everyday-500.json",
+      "description": "500 từ/cụm trong 10 nhóm đã duyệt. IPA, ví dụ Anh–Việt theo nghĩa, dạng chia và đồng nghĩa phù hợp; có sẵn offline trên Windows/Android."
+    },
+    {
+      "title": "B2 · 1.000 từ mới",
+      "description": "Từ B2 không trùng bộ hiện có; 909 mục có nghĩa phụ. Dữ liệu biên tập từ thichhoc-dict và skypediacode (CC BY-SA 4.0).",
+      "url": "decks/b2-1000.json",
+      "count": 1000
     },
     {
       "title": "B2 · Giao tiếp & công việc · 500 từ mới",
@@ -45,112 +51,112 @@
       "count": 1000
     },
     {
-      "title": "B2 · 1.000 từ mới",
-      "description": "Từ B2 không trùng bộ hiện có; 909 mục có nghĩa phụ. Dữ liệu biên tập từ thichhoc-dict và skypediacode (CC BY-SA 4.0).",
-      "url": "decks/b2-1000.json",
-      "count": 1000
-    },
-    {
       "title": "IELTS · Academic Word List",
-      "description": "Từ vựng học thuật lõi (Coxhead AWL), phần chưa có trong bộ chính.",
+      "description": "Từ vựng học thuật lõi (Coxhead AWL).",
       "url": "decks/ielts-awl.json",
       "count": 318
     },
     {
-      "title": "ielts-crime.json",
-      "description": "",
+      "title": "IELTS · Tội phạm & Pháp luật",
+      "description": "Hành vi phạm pháp, xét xử, răn đe.",
       "url": "decks/ielts-crime.json",
       "count": 19
     },
     {
-      "title": "ielts-culture.json",
-      "description": "",
+      "title": "IELTS · Văn hoá",
+      "description": "Di sản, bản sắc, đa văn hoá, định kiến.",
       "url": "decks/ielts-culture.json",
       "count": 21
     },
     {
-      "title": "IELTS · Chủ đề Giáo dục",
+      "title": "IELTS · Giáo dục",
       "description": "Trường lớp, thi cử, đào tạo nghề.",
       "url": "decks/ielts-education.json",
       "count": 27
     },
     {
-      "title": "IELTS · Chủ đề Môi trường",
+      "title": "IELTS · Môi trường",
       "description": "Khí hậu, ô nhiễm, bảo tồn, tài nguyên.",
       "url": "decks/ielts-environment.json",
       "count": 34
     },
     {
-      "title": "ielts-family.json",
-      "description": "",
+      "title": "IELTS · Gia đình",
+      "description": "Nuôi dạy, thế hệ, chăm sóc người già.",
       "url": "decks/ielts-family.json",
       "count": 23
     },
     {
-      "title": "ielts-food.json",
-      "description": "",
+      "title": "IELTS · Ẩm thực",
+      "description": "Chế độ ăn, thực phẩm chế biến, an ninh lương thực.",
       "url": "decks/ielts-food.json",
       "count": 24
     },
     {
-      "title": "IELTS · Chủ đề Sức khoẻ",
+      "title": "IELTS · Sức khoẻ",
       "description": "Dịch bệnh, dinh dưỡng, hệ thống y tế.",
       "url": "decks/ielts-health.json",
       "count": 27
     },
     {
-      "title": "ielts-money.json",
-      "description": "",
+      "title": "IELTS · Tiền bạc & tiêu dùng",
+      "description": "Chi tiêu, nợ, chủ nghĩa tiêu dùng.",
       "url": "decks/ielts-money.json",
       "count": 18
     },
     {
-      "title": "ielts-science.json",
-      "description": "",
+      "title": "IELTS · Khoa học",
+      "description": "Nghiên cứu, thử nghiệm, đạo đức công nghệ.",
       "url": "decks/ielts-science.json",
       "count": 14
     },
     {
-      "title": "IELTS · Chủ đề Xã hội & Pháp luật",
-      "description": "Bất bình đẳng, tội phạm, nhập cư, đô thị hoá.",
+      "title": "IELTS · Xã hội",
+      "description": "Bất bình đẳng, nhập cư, đô thị hoá.",
       "url": "decks/ielts-society.json",
       "count": 26
     },
     {
-      "title": "ielts-sport.json",
-      "description": "",
+      "title": "IELTS · Thể thao & giải trí",
+      "description": "Thi đấu, thể lực, thời gian rảnh.",
       "url": "decks/ielts-sport.json",
       "count": 21
     },
     {
       "title": "IELTS · Writing Task 1",
-      "description": "Động từ xu hướng, mức độ, so sánh — dùng để mô tả biểu đồ.",
+      "description": "Động từ xu hướng, mức độ, so sánh.",
       "url": "decks/ielts-task1.json",
       "count": 52
     },
     {
-      "title": "IELTS · Chủ đề Công nghệ",
-      "description": "Tự động hoá, quyền riêng tư, an ninh mạng.",
+      "title": "IELTS · Công nghệ",
+      "description": "Tự động hoá, riêng tư, an ninh mạng.",
       "url": "decks/ielts-technology.json",
       "count": 23
     },
     {
-      "title": "ielts-transport.json",
-      "description": "",
+      "title": "IELTS · Giao thông đô thị",
+      "description": "Ùn tắc, giao thông công cộng, xe tự lái.",
       "url": "decks/ielts-transport.json",
       "count": 18
     },
     {
-      "title": "ielts-travel.json",
-      "description": "",
+      "title": "IELTS · Du lịch",
+      "description": "Chuyến đi, lưu trú, du lịch bền vững.",
       "url": "decks/ielts-travel.json",
       "count": 27
     },
     {
-      "title": "IELTS · Chủ đề Việc làm & Kinh tế",
-      "description": "Tuyển dụng, năng suất, lạm phát, suy thoái.",
+      "title": "IELTS · Việc làm & Kinh tế",
+      "description": "Tuyển dụng, năng suất, lạm phát.",
       "url": "decks/ielts-work.json",
       "count": 17
+    },
+    {
+      "title": "IT chuyên sâu",
+      "description": "151 thuật ngữ chuyên sâu với ví dụ Anh–Việt và nghĩa khác khi có.",
+      "url": "decks/it-advanced.json",
+      "count": 151
     }
   ]
 }
