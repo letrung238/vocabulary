@@ -15,24 +15,6 @@
       "count": 20
     },
     {
-      "title": "Thông dụng · 120 từ bổ sung",
-      "count": 120,
-      "url": "decks/basic-120.json",
-      "description": "120 từ/cụm mới trong 6 nhóm: động từ, đồ dùng, thực phẩm, quần áo, cơ thể và đi lại. IPA, ví dụ Anh–Việt, dạng chia và đồng nghĩa phù hợp; có sẵn offline trên Windows/Android."
-    },
-    {
-      "title": "Đời sống · 500 từ bổ sung",
-      "count": 500,
-      "url": "decks/everyday-500.json",
-      "description": "500 từ/cụm trong 10 nhóm đã duyệt. IPA, ví dụ Anh–Việt theo nghĩa, dạng chia và đồng nghĩa phù hợp; có sẵn offline trên Windows/Android."
-    },
-    {
-      "title": "B2 · 1.000 từ mới",
-      "description": "Từ B2 không trùng bộ hiện có; 909 mục có nghĩa phụ. Dữ liệu biên tập từ thichhoc-dict và skypediacode (CC BY-SA 4.0).",
-      "url": "decks/b2-1000.json",
-      "count": 1000
-    },
-    {
       "title": "B2 · Giao tiếp & công việc · 500 từ mới",
       "description": "500 từ mới không trùng các bộ hiện có; 264 từ có nghĩa/cách dùng phụ. Ví dụ Anh–Việt biên tập riêng, có sẵn offline trên Windows/Android.",
       "url": "decks/b2-daily-work-500.json",
@@ -48,6 +30,30 @@
       "title": "Đọc báo công nghệ & AI · 1.000 thuật ngữ",
       "description": "700 công nghệ/AI, 150 tài chính, 150 doanh nghiệp. Từ và cụm chuyên ngành mới, IPA và ví dụ Anh–Việt; có sẵn offline trên Windows/Android.",
       "url": "decks/professional-reading-1000.json",
+      "count": 1000
+    },
+    {
+      "title": "Thông dụng · 120 từ bổ sung",
+      "count": 120,
+      "url": "decks/basic-120.json",
+      "description": "120 từ/cụm mới trong 6 nhóm: động từ, đồ dùng, thực phẩm, quần áo, cơ thể và đi lại. IPA, ví dụ Anh–Việt, dạng chia và đồng nghĩa phù hợp; có sẵn offline trên Windows/Android."
+    },
+    {
+      "title": "Đời sống · 500 từ bổ sung",
+      "count": 500,
+      "url": "decks/everyday-500.json",
+      "description": "500 từ/cụm trong 10 nhóm đã duyệt. IPA, ví dụ Anh–Việt theo nghĩa, dạng chia và đồng nghĩa phù hợp; có sẵn offline trên Windows/Android."
+    },
+    {
+      "title": "Từ gốc bổ sung và cụm với giới từ",
+      "count": 33,
+      "url": "decks/prepositions.json",
+      "description": "32 từ gốc mới cùng các cụm liên quan và idiom care of. Các cụm khác nằm ngay trong từ gốc ở bộ tương ứng. Bộ offline Windows/Android nhập đủ 150 cụm."
+    },
+    {
+      "title": "B2 · 1.000 từ mới",
+      "description": "Từ B2 không trùng bộ hiện có; 909 mục có nghĩa phụ. Dữ liệu biên tập từ thichhoc-dict và skypediacode (CC BY-SA 4.0).",
+      "url": "decks/b2-1000.json",
       "count": 1000
     },
     {
