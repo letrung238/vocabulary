@@ -600,6 +600,49 @@
     ],
     "synonyms": [
       "adjust"
+    ],
+    "phrases": [
+      {
+        "word": "adapt to",
+        "pos": "verb",
+        "ipa": "/əˈdæpt tə/",
+        "meaningVi": "thích nghi với điều kiện hoặc hoàn cảnh mới",
+        "example": "Children often adapt to a new school quickly.",
+        "exampleVi": "Trẻ em thường nhanh chóng thích nghi với trường mới.",
+        "topic": "education",
+        "tags": [
+          "prepositions",
+          "education"
+        ],
+        "synonyms": [
+          "adjust to"
+        ],
+        "forms": [
+          {
+            "word": "adapts to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/əˈdæpts tə/"
+          },
+          {
+            "word": "adapting to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/əˈdæptɪŋ tə/"
+          },
+          {
+            "word": "adapted to",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/əˈdæptɪd tə/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -666,6 +709,49 @@
     ],
     "synonyms": [
       "modify"
+    ],
+    "phrases": [
+      {
+        "word": "adjust to",
+        "pos": "verb",
+        "ipa": "/əˈdʒʌst tə/",
+        "meaningVi": "làm quen; thích nghi với một sự thay đổi",
+        "example": "It takes time to adjust to working at night.",
+        "exampleVi": "Cần thời gian để thích nghi với việc làm ban đêm.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [
+          "adapt to"
+        ],
+        "forms": [
+          {
+            "word": "adjusts to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/əˈdʒʌsts tə/"
+          },
+          {
+            "word": "adjusting to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/əˈdʒʌstɪŋ tə/"
+          },
+          {
+            "word": "adjusted to",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/əˈdʒʌstɪd tə/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -1239,6 +1325,49 @@
     ],
     "synonyms": [
       "permit"
+    ],
+    "phrases": [
+      {
+        "word": "allow for",
+        "pos": "verb",
+        "ipa": "/əˈlaʊ fər/",
+        "meaningVi": "tính đến; dự trù một yếu tố khi lên kế hoạch",
+        "example": "We should allow for heavy traffic on the way.",
+        "exampleVi": "Chúng ta nên tính đến khả năng giao thông đông đúc trên đường đi.",
+        "topic": "travel",
+        "tags": [
+          "prepositions",
+          "travel"
+        ],
+        "synonyms": [
+          "take into account"
+        ],
+        "forms": [
+          {
+            "word": "allows for",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/əˈlaʊz fər/"
+          },
+          {
+            "word": "allowing for",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/əˈlaʊɪŋ fər/"
+          },
+          {
+            "word": "allowed for",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/əˈlaʊd fər/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -1677,7 +1806,87 @@
         "exampleVi": "Anh ấy xin lỗi vì đã đến muộn."
       }
     ],
-    "synonyms": []
+    "synonyms": [],
+    "phrases": [
+      {
+        "word": "apologize for",
+        "pos": "verb",
+        "ipa": "/əˈpɑlədʒaɪz fər/",
+        "meaningVi": "xin lỗi vì một hành động hoặc sự việc",
+        "example": "I apologize for sending the wrong file.",
+        "exampleVi": "Tôi xin lỗi vì đã gửi nhầm tệp.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "apologizes for",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/əˈpɑlədʒaɪzɪz fər/"
+          },
+          {
+            "word": "apologizing for",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/əˈpɑlədʒaɪzɪŋ fər/"
+          },
+          {
+            "word": "apologized for",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/əˈpɑlədʒaɪzd fər/"
+          }
+        ]
+      },
+      {
+        "word": "apologize to",
+        "pos": "verb",
+        "ipa": "/əˈpɑlədʒaɪz tə/",
+        "meaningVi": "xin lỗi một người",
+        "example": "You should apologize to your colleague.",
+        "exampleVi": "Bạn nên xin lỗi đồng nghiệp của mình.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "apologizes to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/əˈpɑlədʒaɪzɪz tə/"
+          },
+          {
+            "word": "apologizing to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/əˈpɑlədʒaɪzɪŋ tə/"
+          },
+          {
+            "word": "apologized to",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/əˈpɑlədʒaɪzd tə/"
+          }
+        ]
+      }
+    ]
   },
   {
     "word": "apparatus",
@@ -1834,6 +2043,47 @@
     ],
     "synonyms": [
       "put into practice"
+    ],
+    "phrases": [
+      {
+        "word": "apply for",
+        "pos": "verb",
+        "ipa": "/əˈplaɪ fər/",
+        "meaningVi": "nộp đơn xin việc, học bổng hoặc giấy phép",
+        "example": "She plans to apply for a scholarship next year.",
+        "exampleVi": "Cô ấy dự định nộp đơn xin học bổng vào năm tới.",
+        "topic": "education",
+        "tags": [
+          "prepositions",
+          "education"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "applies for",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/əˈplaɪz fər/"
+          },
+          {
+            "word": "applying for",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/əˈplaɪɪŋ fər/"
+          },
+          {
+            "word": "applied for",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/əˈplaɪd fər/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -2052,6 +2302,47 @@
     ],
     "synonyms": [
       "authorize"
+    ],
+    "phrases": [
+      {
+        "word": "approve of",
+        "pos": "verb",
+        "ipa": "/əˈpruːv əv/",
+        "meaningVi": "tán thành; cho rằng ai hoặc điều gì là đúng hay chấp nhận được",
+        "example": "I do not approve of sharing passwords.",
+        "exampleVi": "Tôi không tán thành việc chia sẻ mật khẩu.",
+        "topic": "society",
+        "tags": [
+          "prepositions",
+          "society"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "approves of",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/əˈpruːvz əv/"
+          },
+          {
+            "word": "approving of",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/əˈpruːvɪŋ əv/"
+          },
+          {
+            "word": "approved of",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/əˈpruːvd əv/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -2115,6 +2406,86 @@
     ],
     "synonyms": [
       "debate"
+    ],
+    "phrases": [
+      {
+        "word": "argue about",
+        "pos": "verb",
+        "ipa": "/ˈɑrɡjuː əˈbaʊt/",
+        "meaningVi": "tranh cãi về một chủ đề hoặc vấn đề",
+        "example": "They often argue about how to spend the money.",
+        "exampleVi": "Họ thường tranh cãi về cách tiêu số tiền đó.",
+        "topic": "family",
+        "tags": [
+          "prepositions",
+          "family"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "argues about",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ˈɑrɡjuːz əˈbaʊt/"
+          },
+          {
+            "word": "arguing about",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ˈɑrɡjuːɪŋ əˈbaʊt/"
+          },
+          {
+            "word": "argued about",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɑrɡjuːd əˈbaʊt/"
+          }
+        ]
+      },
+      {
+        "word": "argue with",
+        "pos": "verb",
+        "ipa": "/ˈɑrɡjuː wɪð/",
+        "meaningVi": "tranh cãi với ai",
+        "example": "I do not want to argue with you.",
+        "exampleVi": "Tôi không muốn tranh cãi với bạn.",
+        "topic": "society",
+        "tags": [
+          "prepositions",
+          "society"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "argues with",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ˈɑrɡjuːz wɪð/"
+          },
+          {
+            "word": "arguing with",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ˈɑrɡjuːɪŋ wɪð/"
+          },
+          {
+            "word": "argued with",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɑrɡjuːd wɪð/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -3074,6 +3445,22 @@
     "exampleVi": "Bạn có biết về những rủi ro không?",
     "synonyms": [
       "conscious"
+    ],
+    "phrases": [
+      {
+        "word": "aware of",
+        "pos": "adjective",
+        "ipa": "/əˈwer əv/",
+        "meaningVi": "biết; nhận thức được một sự việc hoặc tình trạng",
+        "example": "Are you aware of the new safety rules?",
+        "exampleVi": "Bạn có biết các quy định an toàn mới không?",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": []
+      }
     ]
   },
   {
@@ -3589,7 +3976,48 @@
         "ipa": "/bɪˈlɒŋd/"
       }
     ],
-    "synonyms": []
+    "synonyms": [],
+    "phrases": [
+      {
+        "word": "belong to",
+        "pos": "verb",
+        "ipa": "/bɪˈlɔŋ tə/",
+        "meaningVi": "thuộc quyền sở hữu của ai",
+        "example": "Does this umbrella belong to you?",
+        "exampleVi": "Chiếc ô này có phải của bạn không?",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "belongs to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/bɪˈlɔŋz tə/"
+          },
+          {
+            "word": "belonging to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/bɪˈlɔŋɪŋ tə/"
+          },
+          {
+            "word": "belonged to",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/bɪˈlɔŋd tə/"
+          }
+        ]
+      }
+    ]
   },
   {
     "word": "benchmark",
@@ -3647,6 +4075,47 @@
     ],
     "synonyms": [
       "advantage"
+    ],
+    "phrases": [
+      {
+        "word": "benefit from",
+        "pos": "verb",
+        "ipa": "/ˈbenɪfɪt frəm/",
+        "meaningVi": "được lợi; hưởng lợi từ điều gì",
+        "example": "Students benefit from regular feedback.",
+        "exampleVi": "Học sinh được lợi từ việc nhận phản hồi thường xuyên.",
+        "topic": "education",
+        "tags": [
+          "prepositions",
+          "education"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "benefits from",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ˈbenɪfɪts frəm/"
+          },
+          {
+            "word": "benefiting from",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ˈbenɪfɪtɪŋ frəm/"
+          },
+          {
+            "word": "benefited from",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈbenɪfɪtɪd frəm/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -4995,6 +5464,22 @@
     "exampleVi": "Cô ấy có khả năng tự xử lý việc này.",
     "synonyms": [
       "able"
+    ],
+    "phrases": [
+      {
+        "word": "capable of",
+        "pos": "adjective",
+        "ipa": "/ˈkeɪpəbəl əv/",
+        "meaningVi": "có khả năng thực hiện hoặc đạt được điều gì",
+        "example": "This machine is capable of lifting heavy loads.",
+        "exampleVi": "Máy này có khả năng nâng những vật nặng.",
+        "topic": "technology",
+        "tags": [
+          "prepositions",
+          "technology"
+        ],
+        "synonyms": []
+      }
     ]
   },
   {
@@ -6004,6 +6489,47 @@
     ],
     "synonyms": [
       "remark"
+    ],
+    "phrases": [
+      {
+        "word": "comment on",
+        "pos": "verb",
+        "ipa": "/ˈkɑment ɑn/",
+        "meaningVi": "bình luận; đưa ra ý kiến về điều gì",
+        "example": "Could you comment on the latest proposal?",
+        "exampleVi": "Bạn có thể cho ý kiến về đề xuất mới nhất không?",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "comments on",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ˈkɑments ɑn/"
+          },
+          {
+            "word": "commenting on",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ˈkɑmentɪŋ ɑn/"
+          },
+          {
+            "word": "commented on",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈkɑmentɪd ɑn/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -6237,6 +6763,86 @@
     ],
     "synonyms": [
       "contend"
+    ],
+    "phrases": [
+      {
+        "word": "compete with",
+        "pos": "verb",
+        "ipa": "/kəmˈpiːt wɪð/",
+        "meaningVi": "cạnh tranh; thi đấu với ai",
+        "example": "Small shops must compete with larger chains.",
+        "exampleVi": "Các cửa hàng nhỏ phải cạnh tranh với những chuỗi cửa hàng lớn hơn.",
+        "topic": "economy",
+        "tags": [
+          "prepositions",
+          "economy"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "competes with",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/kəmˈpiːts wɪð/"
+          },
+          {
+            "word": "competing with",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/kəmˈpiːtɪŋ wɪð/"
+          },
+          {
+            "word": "competed with",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/kəmˈpiːtɪd wɪð/"
+          }
+        ]
+      },
+      {
+        "word": "compete for",
+        "pos": "verb",
+        "ipa": "/kəmˈpiːt fər/",
+        "meaningVi": "cạnh tranh để giành một thứ hoặc cơ hội",
+        "example": "Several teams will compete for the final place.",
+        "exampleVi": "Một số đội sẽ cạnh tranh để giành suất cuối cùng.",
+        "topic": "sport",
+        "tags": [
+          "prepositions",
+          "sport"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "competes for",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/kəmˈpiːts fər/"
+          },
+          {
+            "word": "competing for",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/kəmˈpiːtɪŋ fər/"
+          },
+          {
+            "word": "competed for",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/kəmˈpiːtɪd fər/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -6355,6 +6961,47 @@
     ],
     "synonyms": [
       "grumble"
+    ],
+    "phrases": [
+      {
+        "word": "complain about",
+        "pos": "verb",
+        "ipa": "/kəmˈpleɪn əˈbaʊt/",
+        "meaningVi": "phàn nàn về một việc không hài lòng",
+        "example": "Customers often complain about the long waiting time.",
+        "exampleVi": "Khách hàng thường phàn nàn về thời gian chờ đợi lâu.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "complains about",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/kəmˈpleɪnz əˈbaʊt/"
+          },
+          {
+            "word": "complaining about",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/kəmˈpleɪnɪŋ əˈbaʊt/"
+          },
+          {
+            "word": "complained about",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/kəmˈpleɪnd əˈbaʊt/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -6604,6 +7251,49 @@
     ],
     "synonyms": [
       "focus"
+    ],
+    "phrases": [
+      {
+        "word": "concentrate on",
+        "pos": "verb",
+        "ipa": "/ˈkɑnsəntreɪt ɑn/",
+        "meaningVi": "tập trung chú ý vào một việc",
+        "example": "I need a quiet place to concentrate on my work.",
+        "exampleVi": "Tôi cần một nơi yên tĩnh để tập trung làm việc.",
+        "topic": "education",
+        "tags": [
+          "prepositions",
+          "education"
+        ],
+        "synonyms": [
+          "focus on"
+        ],
+        "forms": [
+          {
+            "word": "concentrates on",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ˈkɑnsəntreɪts ɑn/"
+          },
+          {
+            "word": "concentrating on",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ˈkɑnsəntreɪtɪŋ ɑn/"
+          },
+          {
+            "word": "concentrated on",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈkɑnsəntreɪtɪd ɑn/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -7022,6 +7712,49 @@
     ],
     "synonyms": [
       "permission"
+    ],
+    "phrases": [
+      {
+        "word": "consent to",
+        "pos": "verb",
+        "ipa": "/kənˈsent tə/",
+        "meaningVi": "đồng ý; chấp thuận cho một việc xảy ra",
+        "example": "Did the participants consent to sharing their responses?",
+        "exampleVi": "Những người tham gia đã đồng ý cho chia sẻ câu trả lời của họ chưa?",
+        "topic": "society",
+        "tags": [
+          "prepositions",
+          "society"
+        ],
+        "synonyms": [
+          "agree to"
+        ],
+        "forms": [
+          {
+            "word": "consents to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/kənˈsents tə/"
+          },
+          {
+            "word": "consenting to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/kənˈsentɪŋ tə/"
+          },
+          {
+            "word": "consented to",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/kənˈsentɪd tə/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -7512,6 +8245,47 @@
     ],
     "synonyms": [
       "give"
+    ],
+    "phrases": [
+      {
+        "word": "contribute to",
+        "pos": "verb",
+        "ipa": "/kənˈtrɪbjuːt tə/",
+        "meaningVi": "góp phần tạo ra hoặc thúc đẩy điều gì",
+        "example": "Regular exercise can contribute to better sleep.",
+        "exampleVi": "Tập thể dục đều đặn có thể góp phần cải thiện giấc ngủ.",
+        "topic": "health",
+        "tags": [
+          "prepositions",
+          "health"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "contributes to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/kənˈtrɪbjuːts tə/"
+          },
+          {
+            "word": "contributing to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/kənˈtrɪbjuːtɪŋ tə/"
+          },
+          {
+            "word": "contributed to",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/kənˈtrɪbjuːtɪd tə/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -7724,6 +8498,47 @@
     ],
     "synonyms": [
       "manage"
+    ],
+    "phrases": [
+      {
+        "word": "cope with",
+        "pos": "verb",
+        "ipa": "/koʊp wɪð/",
+        "meaningVi": "ứng phó; xoay xở với một tình huống khó khăn",
+        "example": "She is learning to cope with the pressure of her new job.",
+        "exampleVi": "Cô ấy đang học cách ứng phó với áp lực của công việc mới.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "copes with",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/koʊps wɪð/"
+          },
+          {
+            "word": "coping with",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/koʊpɪŋ wɪð/"
+          },
+          {
+            "word": "coped with",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/koʊpt wɪð/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -7794,6 +8609,88 @@
     ],
     "synonyms": [
       "match"
+    ],
+    "phrases": [
+      {
+        "word": "correspond to",
+        "pos": "verb",
+        "ipa": "/ˌkɔrəˈspɑnd tə/",
+        "meaningVi": "tương ứng; khớp với điều gì",
+        "example": "The numbers correspond to the labels on the diagram.",
+        "exampleVi": "Các con số tương ứng với những nhãn trên sơ đồ.",
+        "topic": "education",
+        "tags": [
+          "prepositions",
+          "education"
+        ],
+        "synonyms": [
+          "match"
+        ],
+        "forms": [
+          {
+            "word": "corresponds to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ˌkɔrəˈspɑndz tə/"
+          },
+          {
+            "word": "corresponding to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ˌkɔrəˈspɑndɪŋ tə/"
+          },
+          {
+            "word": "corresponded to",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˌkɔrəˈspɑndɪd tə/"
+          }
+        ]
+      },
+      {
+        "word": "correspond with",
+        "pos": "verb",
+        "ipa": "/ˌkɔrəˈspɑnd wɪð/",
+        "meaningVi": "trao đổi thư từ hoặc thư điện tử với ai",
+        "example": "I still correspond with a friend from university.",
+        "exampleVi": "Tôi vẫn trao đổi thư từ với một người bạn thời đại học.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "corresponds with",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ˌkɔrəˈspɑndz wɪð/"
+          },
+          {
+            "word": "corresponding with",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ˌkɔrəˈspɑndɪŋ wɪð/"
+          },
+          {
+            "word": "corresponded with",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˌkɔrəˈspɑndɪd wɪð/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -7883,6 +8780,49 @@
     ],
     "synonyms": [
       "fail"
+    ],
+    "phrases": [
+      {
+        "word": "crash into",
+        "pos": "verb",
+        "ipa": "/kræʃ ˈɪntuː/",
+        "meaningVi": "đâm sầm vào một vật hoặc phương tiện",
+        "example": "The driver swerved to avoid crashing into the barrier.",
+        "exampleVi": "Người lái xe đánh lái để tránh đâm vào dải phân cách.",
+        "topic": "transport",
+        "tags": [
+          "prepositions",
+          "transport"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "crashes into",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/kræʃɪz ˈɪntuː/"
+          },
+          {
+            "word": "crashing into",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/kræʃɪŋ ˈɪntuː/",
+            "example": "The driver swerved to avoid crashing into the barrier.",
+            "exampleVi": "Người lái xe đánh lái để tránh đâm vào dải phân cách."
+          },
+          {
+            "word": "crashed into",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/kræʃt ˈɪntuː/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -9178,6 +10118,49 @@
     ],
     "synonyms": [
       "rely"
+    ],
+    "phrases": [
+      {
+        "word": "depend on",
+        "pos": "verb",
+        "ipa": "/dɪˈpend ɑn/",
+        "meaningVi": "phụ thuộc; dựa vào ai hoặc điều gì",
+        "example": "Small farms depend on a reliable water supply.",
+        "exampleVi": "Các trang trại nhỏ phụ thuộc vào nguồn nước ổn định.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [
+          "rely on"
+        ],
+        "forms": [
+          {
+            "word": "depends on",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/dɪˈpendz ɑn/"
+          },
+          {
+            "word": "depending on",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/dɪˈpendɪŋ ɑn/"
+          },
+          {
+            "word": "depended on",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/dɪˈpendɪd ɑn/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -9441,6 +10424,47 @@
     ],
     "synonyms": [
       "originate"
+    ],
+    "phrases": [
+      {
+        "word": "derive from",
+        "pos": "verb",
+        "ipa": "/dɪˈraɪv frəm/",
+        "meaningVi": "có nguồn gốc; bắt nguồn từ điều gì",
+        "example": "Many English words derive from Latin.",
+        "exampleVi": "Nhiều từ tiếng Anh có nguồn gốc từ tiếng Latinh.",
+        "topic": "education",
+        "tags": [
+          "prepositions",
+          "education"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "derives from",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/dɪˈraɪvz frəm/"
+          },
+          {
+            "word": "deriving from",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/dɪˈraɪvɪŋ frəm/"
+          },
+          {
+            "word": "derived from",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/dɪˈraɪvd frəm/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -9865,6 +10889,47 @@
     ],
     "synonyms": [
       "vary"
+    ],
+    "phrases": [
+      {
+        "word": "differ from",
+        "pos": "verb",
+        "ipa": "/ˈdɪfər frəm/",
+        "meaningVi": "khác với ai hoặc điều gì",
+        "example": "The final version may differ from the original draft.",
+        "exampleVi": "Bản cuối cùng có thể khác với bản nháp ban đầu.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "differs from",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ˈdɪfərz frəm/"
+          },
+          {
+            "word": "differing from",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ˈdɪfərɪŋ frəm/"
+          },
+          {
+            "word": "differed from",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈdɪfərd frəm/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -12068,6 +13133,47 @@
     ],
     "synonyms": [
       "get away"
+    ],
+    "phrases": [
+      {
+        "word": "escape from",
+        "pos": "verb",
+        "ipa": "/ɪˈskeɪp frəm/",
+        "meaningVi": "trốn thoát; thoát khỏi một nơi hoặc tình huống",
+        "example": "The cat managed to escape from its carrier.",
+        "exampleVi": "Con mèo đã thoát được khỏi lồng vận chuyển.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "escapes from",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɪˈskeɪps frəm/"
+          },
+          {
+            "word": "escaping from",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɪˈskeɪpɪŋ frəm/"
+          },
+          {
+            "word": "escaped from",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ɪˈskeɪpt frəm/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -13117,7 +14223,23 @@
     "meaningVi": "quen thuộc",
     "example": "His face looks familiar.",
     "exampleVi": "Khuôn mặt anh ta trông quen quen.",
-    "synonyms": []
+    "synonyms": [],
+    "phrases": [
+      {
+        "word": "familiar with",
+        "pos": "adjective",
+        "ipa": "/fəˈmɪljər wɪð/",
+        "meaningVi": "quen thuộc; biết rõ điều gì qua trải nghiệm",
+        "example": "Are you familiar with this software?",
+        "exampleVi": "Bạn có quen sử dụng phần mềm này không?",
+        "topic": "technology",
+        "tags": [
+          "prepositions",
+          "technology"
+        ],
+        "synonyms": []
+      }
+    ]
   },
   {
     "word": "fascinate",
@@ -16255,6 +17377,47 @@
     ],
     "synonyms": [
       "persist"
+    ],
+    "phrases": [
+      {
+        "word": "insist on",
+        "pos": "verb",
+        "ipa": "/ɪnˈsɪst ɑn/",
+        "meaningVi": "khăng khăng đòi; nhất quyết yêu cầu điều gì",
+        "example": "They insist on checking every detail.",
+        "exampleVi": "Họ nhất quyết kiểm tra từng chi tiết.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "insists on",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɪnˈsɪsts ɑn/"
+          },
+          {
+            "word": "insisting on",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɪnˈsɪstɪŋ ɑn/"
+          },
+          {
+            "word": "insisted on",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ɪnˈsɪstɪd ɑn/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -17391,6 +18554,49 @@
     ],
     "synonyms": [
       "prospect"
+    ],
+    "phrases": [
+      {
+        "word": "lead to",
+        "pos": "verb",
+        "ipa": "/liːd tə/",
+        "meaningVi": "dẫn đến; gây ra một kết quả",
+        "example": "Poor planning can lead to unnecessary delays.",
+        "exampleVi": "Việc lên kế hoạch kém có thể dẫn đến những chậm trễ không cần thiết.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [
+          "result in"
+        ],
+        "forms": [
+          {
+            "word": "leads to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/liːdz tə/"
+          },
+          {
+            "word": "leading to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/liːdɪŋ tə/"
+          },
+          {
+            "word": "led to",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɫɛd tə/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -20664,6 +21870,49 @@
     ],
     "synonyms": [
       "take part"
+    ],
+    "phrases": [
+      {
+        "word": "participate in",
+        "pos": "verb",
+        "ipa": "/pɑrˈtɪsəpeɪt ɪn/",
+        "meaningVi": "tham gia một hoạt động hoặc sự kiện",
+        "example": "All students can participate in the discussion.",
+        "exampleVi": "Mọi học sinh đều có thể tham gia cuộc thảo luận.",
+        "topic": "education",
+        "tags": [
+          "prepositions",
+          "education"
+        ],
+        "synonyms": [
+          "take part in"
+        ],
+        "forms": [
+          {
+            "word": "participates in",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/pɑrˈtɪsəpeɪts ɪn/"
+          },
+          {
+            "word": "participating in",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/pɑrˈtɪsəpeɪtɪŋ ɪn/"
+          },
+          {
+            "word": "participated in",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/pɑrˈtɪsəpeɪtɪd ɪn/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -23729,6 +24978,47 @@
     ],
     "synonyms": [
       "recuperate"
+    ],
+    "phrases": [
+      {
+        "word": "recover from",
+        "pos": "verb",
+        "ipa": "/rɪˈkʌvər frəm/",
+        "meaningVi": "hồi phục sau bệnh, chấn thương hoặc biến cố",
+        "example": "She needs time to recover from the operation.",
+        "exampleVi": "Cô ấy cần thời gian để hồi phục sau ca phẫu thuật.",
+        "topic": "health",
+        "tags": [
+          "prepositions",
+          "health"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "recovers from",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/rɪˈkʌvərz frəm/"
+          },
+          {
+            "word": "recovering from",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/rɪˈkʌvərɪŋ frəm/"
+          },
+          {
+            "word": "recovered from",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/rɪˈkʌvərd frəm/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -24919,6 +26209,47 @@
     ],
     "synonyms": [
       "quit"
+    ],
+    "phrases": [
+      {
+        "word": "resign from",
+        "pos": "verb",
+        "ipa": "/rɪˈzaɪn frəm/",
+        "meaningVi": "từ chức; thôi giữ một chức vụ",
+        "example": "She plans to resign from the committee.",
+        "exampleVi": "Cô ấy dự định rời khỏi vị trí trong ủy ban.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "resigns from",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/rɪˈzaɪnz frəm/"
+          },
+          {
+            "word": "resigning from",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/rɪˈzaɪnɪŋ frəm/"
+          },
+          {
+            "word": "resigned from",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/rɪˈzaɪnd frəm/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -25140,7 +26471,50 @@
         "exampleVi": "Anh ta chưa bao giờ phản hồi email của tôi."
       }
     ],
-    "synonyms": []
+    "synonyms": [],
+    "phrases": [
+      {
+        "word": "respond to",
+        "pos": "verb",
+        "ipa": "/rɪˈspɑnd tə/",
+        "meaningVi": "trả lời; phản hồi một thông điệp hoặc yêu cầu",
+        "example": "We aim to respond to every customer email.",
+        "exampleVi": "Chúng tôi cố gắng trả lời mọi email của khách hàng.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [
+          "reply to"
+        ],
+        "forms": [
+          {
+            "word": "responds to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/rɪˈspɑndz tə/"
+          },
+          {
+            "word": "responding to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/rɪˈspɑndɪŋ tə/"
+          },
+          {
+            "word": "responded to",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/rɪˈspɑndɪd tə/"
+          }
+        ]
+      }
+    ]
   },
   {
     "word": "responsible",
@@ -25159,6 +26533,22 @@
     ],
     "synonyms": [
       "accountable"
+    ],
+    "phrases": [
+      {
+        "word": "responsible for",
+        "pos": "adjective",
+        "ipa": "/rɪˈspɑnsəbəl fər/",
+        "meaningVi": "chịu trách nhiệm về một công việc hoặc sự việc",
+        "example": "She is responsible for training new staff.",
+        "exampleVi": "Cô ấy chịu trách nhiệm đào tạo nhân viên mới.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": []
+      }
     ]
   },
   {
@@ -26907,6 +28297,22 @@
     "exampleVi": "Quan điểm của chúng tôi khá tương tự nhau.",
     "synonyms": [
       "alike"
+    ],
+    "phrases": [
+      {
+        "word": "similar to",
+        "pos": "adjective",
+        "ipa": "/ˈsɪmələr tə/",
+        "meaningVi": "tương tự; giống với ai hoặc điều gì về một số đặc điểm",
+        "example": "The new model is similar to the previous one.",
+        "exampleVi": "Mẫu mới tương tự mẫu trước đó.",
+        "topic": "technology",
+        "tags": [
+          "prepositions",
+          "technology"
+        ],
+        "synonyms": []
+      }
     ]
   },
   {
@@ -27693,6 +29099,86 @@
     ],
     "synonyms": [
       "strive"
+    ],
+    "phrases": [
+      {
+        "word": "struggle with",
+        "pos": "verb",
+        "ipa": "/ˈstrʌɡəl wɪð/",
+        "meaningVi": "vật lộn; gặp khó khăn khi xử lý điều gì",
+        "example": "Many students struggle with the first assignment.",
+        "exampleVi": "Nhiều học sinh gặp khó khăn với bài tập đầu tiên.",
+        "topic": "education",
+        "tags": [
+          "prepositions",
+          "education"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "struggles with",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ˈstrʌɡəlz wɪð/"
+          },
+          {
+            "word": "struggling with",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ˈstrʌɡəlɪŋ wɪð/"
+          },
+          {
+            "word": "struggled with",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈstrʌɡəld wɪð/"
+          }
+        ]
+      },
+      {
+        "word": "struggle for",
+        "pos": "verb",
+        "ipa": "/ˈstrʌɡəl fər/",
+        "meaningVi": "đấu tranh; nỗ lực để giành điều gì",
+        "example": "The workers continue to struggle for better conditions.",
+        "exampleVi": "Những người lao động tiếp tục đấu tranh để có điều kiện tốt hơn.",
+        "topic": "society",
+        "tags": [
+          "prepositions",
+          "society"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "struggles for",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ˈstrʌɡəlz fər/"
+          },
+          {
+            "word": "struggling for",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ˈstrʌɡəlɪŋ fər/"
+          },
+          {
+            "word": "struggled for",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈstrʌɡəld fər/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -27910,7 +29396,48 @@
         "exampleVi": "Cô ấy thành công ở chỗ người khác thất bại."
       }
     ],
-    "synonyms": []
+    "synonyms": [],
+    "phrases": [
+      {
+        "word": "succeed in",
+        "pos": "verb",
+        "ipa": "/səkˈsiːd ɪn/",
+        "meaningVi": "thành công trong việc làm điều gì",
+        "example": "We hope to succeed in reducing energy use.",
+        "exampleVi": "Chúng tôi hy vọng sẽ thành công trong việc giảm sử dụng năng lượng.",
+        "topic": "environment",
+        "tags": [
+          "prepositions",
+          "environment"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "succeeds in",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/səkˈsiːdz ɪn/"
+          },
+          {
+            "word": "succeeding in",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/səkˈsiːdɪŋ ɪn/"
+          },
+          {
+            "word": "succeeded in",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/səkˈsiːdɪd ɪn/"
+          }
+        ]
+      }
+    ]
   },
   {
     "word": "sufficient",
@@ -27932,6 +29459,24 @@
     "exampleVi": "Bộ phim này không phù hợp với trẻ em.",
     "synonyms": [
       "appropriate"
+    ],
+    "phrases": [
+      {
+        "word": "suitable for",
+        "pos": "adjective",
+        "ipa": "/ˈsuːtəbəl fər/",
+        "meaningVi": "phù hợp; thích hợp cho một mục đích hoặc đối tượng",
+        "example": "This course is suitable for complete beginners.",
+        "exampleVi": "Khóa học này phù hợp với người mới bắt đầu hoàn toàn.",
+        "topic": "education",
+        "tags": [
+          "prepositions",
+          "education"
+        ],
+        "synonyms": [
+          "appropriate for"
+        ]
+      }
     ]
   },
   {
@@ -30671,6 +32216,53 @@
     ],
     "synonyms": [
       "pull out"
+    ],
+    "phrases": [
+      {
+        "word": "withdraw from",
+        "pos": "verb",
+        "ipa": "/wɪðˈdrɔ frəm/",
+        "meaningVi": "rút khỏi; ngừng tham gia một hoạt động hoặc tổ chức",
+        "example": "The team may withdraw from the competition.",
+        "exampleVi": "Đội có thể rút khỏi cuộc thi.",
+        "topic": "sport",
+        "tags": [
+          "prepositions",
+          "sport"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "withdraws from",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/wɪðˈdrɔz frəm/"
+          },
+          {
+            "word": "withdrawing from",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/wɪðˈdrɔɪŋ frəm/"
+          },
+          {
+            "word": "withdrew from",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/wɪðˈdɹu frəm/, /wɪθˈdɹu frəm/"
+          },
+          {
+            "word": "withdrawn from",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/wɪðˈdɹɔn frəm/, /wɪθˈdɹɔn frəm/"
+          }
+        ]
+      }
     ]
   },
   {

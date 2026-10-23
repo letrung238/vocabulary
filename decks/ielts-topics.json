@@ -1526,7 +1526,48 @@
         "ipa": "/ˈɡrædʒ.u.eɪtɪd/"
       }
     ],
-    "synonyms": []
+    "synonyms": [],
+    "phrases": [
+      {
+        "word": "graduate from",
+        "pos": "verb",
+        "ipa": "/ˈɡrædʒueɪt frəm/",
+        "meaningVi": "tốt nghiệp một trường hoặc cơ sở đào tạo",
+        "example": "She will graduate from university next summer.",
+        "exampleVi": "Cô ấy sẽ tốt nghiệp đại học vào mùa hè năm sau.",
+        "topic": "education",
+        "tags": [
+          "prepositions",
+          "education"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "graduates from",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ˈɡrædʒueɪts frəm/"
+          },
+          {
+            "word": "graduating from",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ˈɡrædʒueɪtɪŋ frəm/"
+          },
+          {
+            "word": "graduated from",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɡrædʒueɪtɪd frəm/"
+          }
+        ]
+      }
+    ]
   },
   {
     "word": "feedback",
@@ -7504,7 +7545,48 @@
         "ipa": "/riˈsɔːtɪd/"
       }
     ],
-    "synonyms": []
+    "synonyms": [],
+    "phrases": [
+      {
+        "word": "resort to",
+        "pos": "verb",
+        "ipa": "/rɪˈzɔrt tə/",
+        "meaningVi": "phải viện đến một biện pháp khi không còn cách tốt hơn",
+        "example": "We hope to solve the dispute without having to resort to legal action.",
+        "exampleVi": "Chúng tôi hy vọng giải quyết tranh chấp mà không phải viện đến hành động pháp lý.",
+        "topic": "law",
+        "tags": [
+          "prepositions",
+          "law"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "resorts to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/rɪˈzɔrts tə/"
+          },
+          {
+            "word": "resorting to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/rɪˈzɔrtɪŋ tə/"
+          },
+          {
+            "word": "resorted to",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/rɪˈzɔrtɪd tə/"
+          }
+        ]
+      }
+    ]
   },
   {
     "word": "destination",

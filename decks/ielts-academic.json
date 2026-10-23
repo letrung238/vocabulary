@@ -1528,6 +1528,47 @@
     ],
     "synonyms": [
       "convey"
+    ],
+    "phrases": [
+      {
+        "word": "communicate with",
+        "pos": "verb",
+        "ipa": "/kəˈmjuːnɪkeɪt wɪð/",
+        "meaningVi": "giao tiếp; trao đổi thông tin với ai",
+        "example": "It is important to communicate with your team regularly.",
+        "exampleVi": "Việc trao đổi thường xuyên với nhóm là rất quan trọng.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "communicates with",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/kəˈmjuːnɪkeɪts wɪð/"
+          },
+          {
+            "word": "communicating with",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/kəˈmjuːnɪkeɪtɪŋ wɪð/"
+          },
+          {
+            "word": "communicated with",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/kəˈmjuːnɪkeɪtɪd wɪð/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -2258,6 +2299,49 @@
     ],
     "synonyms": [
       "collaborate"
+    ],
+    "phrases": [
+      {
+        "word": "cooperate with",
+        "pos": "verb",
+        "ipa": "/koʊˈɑpəreɪt wɪð/",
+        "meaningVi": "hợp tác; phối hợp với ai",
+        "example": "The two departments need to cooperate with each other.",
+        "exampleVi": "Hai phòng ban cần phối hợp với nhau.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [
+          "collaborate with"
+        ],
+        "forms": [
+          {
+            "word": "cooperates with",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/koʊˈɑpəreɪts wɪð/"
+          },
+          {
+            "word": "cooperating with",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/koʊˈɑpəreɪtɪŋ wɪð/"
+          },
+          {
+            "word": "cooperated with",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/koʊˈɑpəreɪtɪd wɪð/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -4551,6 +4635,49 @@
     ],
     "synonyms": [
       "concentrate"
+    ],
+    "phrases": [
+      {
+        "word": "focus on",
+        "pos": "verb",
+        "ipa": "/ˈfoʊkəs ɑn/",
+        "meaningVi": "tập trung sự chú ý hoặc công sức vào điều gì",
+        "example": "We should focus on the most urgent tasks.",
+        "exampleVi": "Chúng ta nên tập trung vào những nhiệm vụ cấp bách nhất.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [
+          "concentrate on"
+        ],
+        "forms": [
+          {
+            "word": "focuses on",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ˈfoʊkəsɪz ɑn/"
+          },
+          {
+            "word": "focusing on",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ˈfoʊkəsɪŋ ɑn/"
+          },
+          {
+            "word": "focused on",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈfoʊkəst ɑn/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -6084,7 +6211,48 @@
         "ipa": "/ɪnˈvestɪd/"
       }
     ],
-    "synonyms": []
+    "synonyms": [],
+    "phrases": [
+      {
+        "word": "invest in",
+        "pos": "verb",
+        "ipa": "/ɪnˈvest ɪn/",
+        "meaningVi": "đầu tư tiền hoặc nguồn lực vào điều gì",
+        "example": "The company plans to invest in better equipment.",
+        "exampleVi": "Công ty dự định đầu tư vào thiết bị tốt hơn.",
+        "topic": "economy",
+        "tags": [
+          "prepositions",
+          "economy"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "invests in",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɪnˈvests ɪn/"
+          },
+          {
+            "word": "investing in",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɪnˈvestɪŋ ɪn/"
+          },
+          {
+            "word": "invested in",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ɪnˈvestɪd ɪn/"
+          }
+        ]
+      }
+    ]
   },
   {
     "word": "investigate",
@@ -9096,6 +9264,47 @@
     ],
     "synonyms": [
       "respond"
+    ],
+    "phrases": [
+      {
+        "word": "react to",
+        "pos": "verb",
+        "ipa": "/riˈækt tə/",
+        "meaningVi": "phản ứng trước một sự việc hoặc tác nhân",
+        "example": "People react to stress in different ways.",
+        "exampleVi": "Mỗi người phản ứng với căng thẳng theo một cách khác nhau.",
+        "topic": "health",
+        "tags": [
+          "prepositions",
+          "health"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "reacts to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/riˈækts tə/"
+          },
+          {
+            "word": "reacting to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/riˈæktɪŋ tə/"
+          },
+          {
+            "word": "reacted to",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/riˈæktɪd tə/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -9445,6 +9654,49 @@
     ],
     "synonyms": [
       "depend"
+    ],
+    "phrases": [
+      {
+        "word": "rely on",
+        "pos": "verb",
+        "ipa": "/rɪˈlaɪ ɑn/",
+        "meaningVi": "dựa vào; tin cậy sự giúp đỡ của ai hoặc điều gì",
+        "example": "You can rely on me when you need help.",
+        "exampleVi": "Bạn có thể dựa vào tôi khi cần giúp đỡ.",
+        "topic": "society",
+        "tags": [
+          "prepositions",
+          "society"
+        ],
+        "synonyms": [
+          "depend on"
+        ],
+        "forms": [
+          {
+            "word": "relies on",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/rɪˈlaɪz ɑn/"
+          },
+          {
+            "word": "relying on",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/rɪˈlaɪɪŋ ɑn/"
+          },
+          {
+            "word": "relied on",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/rɪˈlaɪd ɑn/"
+          }
+        ]
+      }
     ]
   },
   {

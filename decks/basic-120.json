@@ -107,6 +107,117 @@
         "example": "We thought carefully before making a decision.",
         "exampleVi": "Chúng tôi suy nghĩ kỹ trước khi quyết định."
       }
+    ],
+    "phrases": [
+      {
+        "word": "think of",
+        "pos": "verb",
+        "ipa": "/θɪŋk əv/",
+        "meaningVi": "nghĩ ra; nhớ đến một ý tưởng, tên hoặc điều gì",
+        "example": "I cannot think of a better solution right now.",
+        "exampleVi": "Lúc này tôi không nghĩ ra được giải pháp nào tốt hơn.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [
+          "recall"
+        ],
+        "senses": [
+          {
+            "pos": "verb",
+            "meaningVi": "có ý kiến; đánh giá về ai hoặc điều gì",
+            "example": "What do you think of the new design?",
+            "exampleVi": "Bạn thấy thiết kế mới thế nào?",
+            "ipa": "/θɪŋk əv/"
+          },
+          {
+            "pos": "verb",
+            "meaningVi": "cân nhắc; có ý định làm điều gì, theo sau bằng V-ing",
+            "example": "We are thinking of moving closer to work.",
+            "exampleVi": "Chúng tôi đang cân nhắc chuyển đến gần nơi làm việc hơn.",
+            "ipa": "/θɪŋk əv/"
+          }
+        ],
+        "forms": [
+          {
+            "word": "thinks of",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/θɪŋks əv/"
+          },
+          {
+            "word": "thinking of",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/θɪŋkɪŋ əv/",
+            "example": "We are thinking of moving closer to work.",
+            "exampleVi": "Chúng tôi đang cân nhắc chuyển đến gần nơi làm việc hơn."
+          },
+          {
+            "word": "thought of",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈθɔt əv/"
+          }
+        ]
+      },
+      {
+        "word": "think about",
+        "pos": "verb",
+        "ipa": "/θɪŋk əˈbaʊt/",
+        "meaningVi": "suy nghĩ; cân nhắc về một việc",
+        "example": "We need to think about the cost before we decide.",
+        "exampleVi": "Chúng ta cần cân nhắc chi phí trước khi quyết định.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [
+          "consider"
+        ],
+        "senses": [
+          {
+            "pos": "verb",
+            "meaningVi": "nghĩ đến; để tâm trí hướng về ai hoặc điều gì",
+            "example": "I often think about my family when I travel.",
+            "exampleVi": "Tôi thường nghĩ về gia đình khi đi xa.",
+            "ipa": "/θɪŋk əˈbaʊt/"
+          }
+        ],
+        "forms": [
+          {
+            "word": "thinks about",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/θɪŋks əˈbaʊt/"
+          },
+          {
+            "word": "thinking about",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/θɪŋkɪŋ əˈbaʊt/"
+          },
+          {
+            "word": "thought about",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈθɔt əˈbaʊt/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -158,6 +269,129 @@
         "ipa": "/æskt/",
         "example": "She asked me a question about the timetable.",
         "exampleVi": "Cô ấy hỏi tôi một câu về bảng giờ chạy."
+      }
+    ],
+    "phrases": [
+      {
+        "word": "ask for",
+        "pos": "verb",
+        "ipa": "/æsk fər/",
+        "meaningVi": "xin; yêu cầu được nhận hoặc được cung cấp điều gì",
+        "example": "You can ask for more information at the front desk.",
+        "exampleVi": "Bạn có thể hỏi xin thêm thông tin tại quầy lễ tân.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [
+          "request"
+        ],
+        "forms": [
+          {
+            "word": "asks for",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/æsks fər/"
+          },
+          {
+            "word": "asking for",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/æskɪŋ fər/"
+          },
+          {
+            "word": "asked for",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/æskt fər/"
+          }
+        ]
+      },
+      {
+        "word": "ask about",
+        "pos": "verb",
+        "ipa": "/æsk əˈbaʊt/",
+        "meaningVi": "hỏi thông tin về ai hoặc điều gì",
+        "example": "You can ask about the course schedule at reception.",
+        "exampleVi": "Bạn có thể hỏi về lịch học tại quầy lễ tân.",
+        "topic": "education",
+        "tags": [
+          "prepositions",
+          "education"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "asks about",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/æsks əˈbaʊt/"
+          },
+          {
+            "word": "asking about",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/æskɪŋ əˈbaʊt/"
+          },
+          {
+            "word": "asked about",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/æskt əˈbaʊt/"
+          }
+        ]
+      },
+      {
+        "word": "ask after",
+        "pos": "verb",
+        "ipa": "/æsk ˈæftər/",
+        "meaningVi": "hỏi thăm sức khỏe hoặc tình hình của ai",
+        "example": "My mother always asks after your family.",
+        "exampleVi": "Mẹ tôi luôn hỏi thăm tình hình gia đình bạn.",
+        "topic": "family",
+        "tags": [
+          "prepositions",
+          "family"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "asks after",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/æsks ˈæftər/",
+            "example": "My mother always asks after your family.",
+            "exampleVi": "Mẹ tôi luôn hỏi thăm tình hình gia đình bạn."
+          },
+          {
+            "word": "asking after",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/æskɪŋ ˈæftər/"
+          },
+          {
+            "word": "asked after",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/æskt ˈæftər/"
+          }
+        ]
       }
     ]
   },
@@ -710,6 +944,47 @@
         "example": "I paid for the groceries with a card.",
         "exampleVi": "Tôi thanh toán tiền thực phẩm bằng thẻ."
       }
+    ],
+    "phrases": [
+      {
+        "word": "pay for",
+        "pos": "verb",
+        "ipa": "/peɪ fər/",
+        "meaningVi": "trả tiền cho hàng hóa hoặc dịch vụ",
+        "example": "Can I pay for the tickets by card?",
+        "exampleVi": "Tôi có thể trả tiền vé bằng thẻ không?",
+        "topic": "shopping",
+        "tags": [
+          "prepositions",
+          "shopping"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "pays for",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/peɪz fər/"
+          },
+          {
+            "word": "paying for",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/peɪɪŋ fər/"
+          },
+          {
+            "word": "paid for",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈpeɪd fər/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -856,6 +1131,102 @@
         ],
         "ipa": "/ˈspoʊkən/"
       }
+    ],
+    "phrases": [
+      {
+        "word": "speak to",
+        "pos": "verb",
+        "ipa": "/spiːk tə/",
+        "meaningVi": "nói chuyện với ai",
+        "example": "May I speak to the person in charge?",
+        "exampleVi": "Tôi có thể nói chuyện với người phụ trách không?",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [
+          "talk to"
+        ],
+        "forms": [
+          {
+            "word": "speaks to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/spiːks tə/"
+          },
+          {
+            "word": "speaking to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/spiːkɪŋ tə/"
+          },
+          {
+            "word": "spoke to",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈspoʊk tə/"
+          },
+          {
+            "word": "spoken to",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈspoʊkən tə/"
+          }
+        ]
+      },
+      {
+        "word": "speak about",
+        "pos": "verb",
+        "ipa": "/spiːk əˈbaʊt/",
+        "meaningVi": "nói; trình bày về một chủ đề",
+        "example": "The guest will speak about renewable energy.",
+        "exampleVi": "Vị khách sẽ trình bày về năng lượng tái tạo.",
+        "topic": "environment",
+        "tags": [
+          "prepositions",
+          "environment"
+        ],
+        "synonyms": [
+          "talk about"
+        ],
+        "forms": [
+          {
+            "word": "speaks about",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/spiːks əˈbaʊt/"
+          },
+          {
+            "word": "speaking about",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/spiːkɪŋ əˈbaʊt/"
+          },
+          {
+            "word": "spoke about",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈspoʊk əˈbaʊt/"
+          },
+          {
+            "word": "spoken about",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈspoʊkən əˈbaʊt/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -896,6 +1267,47 @@
         "ipa": "/ˈlɪsənd/",
         "example": "We listened to the weather report.",
         "exampleVi": "Chúng tôi nghe bản tin thời tiết."
+      }
+    ],
+    "phrases": [
+      {
+        "word": "listen to",
+        "pos": "verb",
+        "ipa": "/ˈlɪsən tə/",
+        "meaningVi": "lắng nghe ai hoặc điều gì",
+        "example": "Please listen to the instructions before you begin.",
+        "exampleVi": "Hãy lắng nghe hướng dẫn trước khi bắt đầu.",
+        "topic": "education",
+        "tags": [
+          "prepositions",
+          "education"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "listens to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ˈlɪsənz tə/"
+          },
+          {
+            "word": "listening to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ˈlɪsənɪŋ tə/"
+          },
+          {
+            "word": "listened to",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈlɪsənd tə/"
+          }
+        ]
       }
     ]
   },
@@ -1007,6 +1419,47 @@
         "ipa": "/wɜrkt/",
         "example": "She worked from home yesterday.",
         "exampleVi": "Hôm qua cô ấy làm việc ở nhà."
+      }
+    ],
+    "phrases": [
+      {
+        "word": "work on",
+        "pos": "verb",
+        "ipa": "/wɜrk ɑn/",
+        "meaningVi": "dành công sức để làm hoặc cải thiện điều gì",
+        "example": "We need to work on the final report.",
+        "exampleVi": "Chúng ta cần tiếp tục làm bản báo cáo cuối cùng.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "works on",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/wɜrks ɑn/"
+          },
+          {
+            "word": "working on",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/wɜrkɪŋ ɑn/"
+          },
+          {
+            "word": "worked on",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/wɜrkt ɑn/"
+          }
+        ]
       }
     ]
   },

@@ -169,6 +169,55 @@
         ],
         "ipa": "/kʌm/"
       }
+    ],
+    "phrases": [
+      {
+        "word": "come up with",
+        "pos": "verb",
+        "ipa": "/kʌm ʌp wɪð/",
+        "meaningVi": "nghĩ ra; đề xuất một ý tưởng hoặc giải pháp",
+        "example": "Can you come up with another solution?",
+        "exampleVi": "Bạn có thể nghĩ ra một giải pháp khác không?",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [
+          "devise"
+        ],
+        "forms": [
+          {
+            "word": "comes up with",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/kʌmz ʌp wɪð/"
+          },
+          {
+            "word": "coming up with",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/kʌmɪŋ ʌp wɪð/"
+          },
+          {
+            "word": "came up with",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈkeɪm ʌp wɪð/"
+          },
+          {
+            "word": "come up with",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/kʌm ʌp wɪð/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -218,6 +267,49 @@
           "past_participle"
         ],
         "ipa": "/pʊt/"
+      }
+    ],
+    "phrases": [
+      {
+        "word": "put up with",
+        "pos": "verb",
+        "ipa": "/pʊt ʌp wɪð/",
+        "meaningVi": "chịu đựng; chấp nhận một điều gây khó chịu",
+        "example": "I cannot put up with this noise any longer.",
+        "exampleVi": "Tôi không thể chịu đựng tiếng ồn này thêm nữa.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [
+          "tolerate"
+        ],
+        "forms": [
+          {
+            "word": "puts up with",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/pʊts ʌp wɪð/"
+          },
+          {
+            "word": "putting up with",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/pʊtɪŋ ʌp wɪð/"
+          },
+          {
+            "word": "put up with",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/pʊt ʌp wɪð/"
+          }
+        ]
       }
     ]
   },
@@ -684,6 +776,49 @@
         "example": "We stood near the entrance.",
         "exampleVi": "Chúng tôi đứng gần lối vào."
       }
+    ],
+    "phrases": [
+      {
+        "word": "stand for",
+        "pos": "verb",
+        "ipa": "/stænd fər/",
+        "meaningVi": "là chữ viết tắt hoặc ký hiệu đại diện cho điều gì",
+        "example": "What does this abbreviation stand for?",
+        "exampleVi": "Chữ viết tắt này có nghĩa là gì?",
+        "topic": "education",
+        "tags": [
+          "prepositions",
+          "education"
+        ],
+        "synonyms": [
+          "represent"
+        ],
+        "forms": [
+          {
+            "word": "stands for",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/stændz fər/"
+          },
+          {
+            "word": "standing for",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/stændɪŋ fər/"
+          },
+          {
+            "word": "stood for",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈstʊd fər/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -1052,6 +1187,88 @@
         "example": "We waited for the next train.",
         "exampleVi": "Chúng tôi chờ chuyến tàu tiếp theo."
       }
+    ],
+    "phrases": [
+      {
+        "word": "wait for",
+        "pos": "verb",
+        "ipa": "/weɪt fər/",
+        "meaningVi": "chờ đợi ai hoặc điều gì",
+        "example": "Please wait for me at the station entrance.",
+        "exampleVi": "Hãy chờ tôi ở lối vào nhà ga.",
+        "topic": "travel",
+        "tags": [
+          "prepositions",
+          "travel"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "waits for",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/weɪts fər/"
+          },
+          {
+            "word": "waiting for",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/weɪtɪŋ fər/"
+          },
+          {
+            "word": "waited for",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/weɪtɪd fər/"
+          }
+        ]
+      },
+      {
+        "word": "wait on",
+        "pos": "verb",
+        "ipa": "/weɪt ɑn/",
+        "meaningVi": "phục vụ khách tại bàn ăn",
+        "example": "Two servers wait on the guests in this room.",
+        "exampleVi": "Hai nhân viên phục vụ các vị khách trong phòng này.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [
+          "serve"
+        ],
+        "forms": [
+          {
+            "word": "waits on",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/weɪts ɑn/"
+          },
+          {
+            "word": "waiting on",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/weɪtɪŋ ɑn/"
+          },
+          {
+            "word": "waited on",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/weɪtɪd ɑn/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -1100,6 +1317,55 @@
           "past_participle"
         ],
         "ipa": "/ˈɫɝnt/"
+      }
+    ],
+    "phrases": [
+      {
+        "word": "learn from",
+        "pos": "verb",
+        "ipa": "/lɜrn frəm/",
+        "meaningVi": "rút kinh nghiệm hoặc học được điều gì từ ai hay sự việc",
+        "example": "We can learn from our mistakes.",
+        "exampleVi": "Chúng ta có thể rút kinh nghiệm từ những sai lầm của mình.",
+        "topic": "education",
+        "tags": [
+          "prepositions",
+          "education"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "learns from",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/lɜrnz frəm/"
+          },
+          {
+            "word": "learning from",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/lɜrnɪŋ frəm/"
+          },
+          {
+            "word": "learned from",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/lɜrnd frəm/"
+          },
+          {
+            "word": "learnt from",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɫɝnt frəm/"
+          }
+        ]
       }
     ]
   },
@@ -1471,6 +1737,49 @@
         ],
         "ipa": "/tɜrnd/"
       }
+    ],
+    "phrases": [
+      {
+        "word": "turn into",
+        "pos": "verb",
+        "ipa": "/tɜrn ˈɪntuː/",
+        "meaningVi": "biến thành; trở thành một thứ hoặc trạng thái khác",
+        "example": "Water can turn into ice when it gets cold enough.",
+        "exampleVi": "Nước có thể biến thành băng khi đủ lạnh.",
+        "topic": "science",
+        "tags": [
+          "prepositions",
+          "science"
+        ],
+        "synonyms": [
+          "become"
+        ],
+        "forms": [
+          {
+            "word": "turns into",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/tɜrnz ˈɪntuː/"
+          },
+          {
+            "word": "turning into",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/tɜrnɪŋ ˈɪntuː/"
+          },
+          {
+            "word": "turned into",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/tɜrnd ˈɪntuː/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -1837,6 +2146,53 @@
           "past_participle"
         ],
         "ipa": "/ˈbɹoʊkən/"
+      }
+    ],
+    "phrases": [
+      {
+        "word": "break into",
+        "pos": "verb",
+        "ipa": "/breɪk ˈɪntuː/",
+        "meaningVi": "đột nhập vào một nơi bằng cách phá cửa hoặc dùng vũ lực",
+        "example": "Someone tried to break into the shop last night.",
+        "exampleVi": "Tối qua có người đã cố đột nhập vào cửa hàng.",
+        "topic": "law",
+        "tags": [
+          "prepositions",
+          "law"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "breaks into",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/breɪks ˈɪntuː/"
+          },
+          {
+            "word": "breaking into",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/breɪkɪŋ ˈɪntuː/"
+          },
+          {
+            "word": "broke into",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈbɹoʊk ˈɪntuː/"
+          },
+          {
+            "word": "broken into",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈbɹoʊkən ˈɪntuː/"
+          }
+        ]
       }
     ]
   },
@@ -2257,6 +2613,47 @@
         "example": "He returned home before dark.",
         "exampleVi": "Anh ấy trở về nhà trước khi trời tối."
       }
+    ],
+    "phrases": [
+      {
+        "word": "return to",
+        "pos": "verb",
+        "ipa": "/rɪˈtɜrn tə/",
+        "meaningVi": "quay trở lại một nơi, hoạt động hoặc trạng thái",
+        "example": "We will return to the office after lunch.",
+        "exampleVi": "Chúng tôi sẽ quay lại văn phòng sau bữa trưa.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "returns to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/rɪˈtɜrnz tə/"
+          },
+          {
+            "word": "returning to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/rɪˈtɜrnɪŋ tə/"
+          },
+          {
+            "word": "returned to",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/rɪˈtɜrnd tə/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -2366,6 +2763,369 @@
         ],
         "ipa": "/lʊkt/"
       }
+    ],
+    "phrases": [
+      {
+        "word": "look at",
+        "pos": "verb",
+        "ipa": "/lʊk æt/",
+        "meaningVi": "nhìn vào; hướng mắt về ai hoặc điều gì",
+        "example": "Look at the map before you choose a route.",
+        "exampleVi": "Hãy nhìn bản đồ trước khi chọn đường đi.",
+        "topic": "travel",
+        "tags": [
+          "prepositions",
+          "travel"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "looks at",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/lʊks æt/"
+          },
+          {
+            "word": "looking at",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/lʊkɪŋ æt/"
+          },
+          {
+            "word": "looked at",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/lʊkt æt/"
+          }
+        ]
+      },
+      {
+        "word": "look for",
+        "pos": "verb",
+        "ipa": "/lʊk fər/",
+        "meaningVi": "tìm kiếm người hoặc vật cần tìm",
+        "example": "We need to look for a larger meeting room.",
+        "exampleVi": "Chúng ta cần tìm một phòng họp lớn hơn.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [
+          "search for"
+        ],
+        "forms": [
+          {
+            "word": "looks for",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/lʊks fər/"
+          },
+          {
+            "word": "looking for",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/lʊkɪŋ fər/"
+          },
+          {
+            "word": "looked for",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/lʊkt fər/"
+          }
+        ]
+      },
+      {
+        "word": "look after",
+        "pos": "verb",
+        "ipa": "/lʊk ˈæftər/",
+        "meaningVi": "chăm sóc; trông nom người hoặc vật",
+        "example": "I look after my younger brother after school.",
+        "exampleVi": "Tôi trông em trai sau giờ học.",
+        "topic": "family",
+        "tags": [
+          "prepositions",
+          "family"
+        ],
+        "synonyms": [
+          "take care of"
+        ],
+        "forms": [
+          {
+            "word": "looks after",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/lʊks ˈæftər/"
+          },
+          {
+            "word": "looking after",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/lʊkɪŋ ˈæftər/"
+          },
+          {
+            "word": "looked after",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/lʊkt ˈæftər/"
+          }
+        ]
+      },
+      {
+        "word": "look forward to",
+        "pos": "verb",
+        "ipa": "/lʊk ˈfɔrwərd tə/",
+        "meaningVi": "mong chờ; háo hức đón một việc sắp xảy ra",
+        "example": "I look forward to meeting your team.",
+        "exampleVi": "Tôi mong được gặp nhóm của bạn.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "looks forward to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/lʊks ˈfɔrwərd tə/"
+          },
+          {
+            "word": "looking forward to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/lʊkɪŋ ˈfɔrwərd tə/"
+          },
+          {
+            "word": "looked forward to",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/lʊkt ˈfɔrwərd tə/"
+          }
+        ]
+      },
+      {
+        "word": "look into",
+        "pos": "verb",
+        "ipa": "/lʊk ˈɪntuː/",
+        "meaningVi": "xem xét; điều tra một vấn đề",
+        "example": "The support team will look into the error today.",
+        "exampleVi": "Nhóm hỗ trợ sẽ xem xét lỗi đó trong hôm nay.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [
+          "investigate"
+        ],
+        "forms": [
+          {
+            "word": "looks into",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/lʊks ˈɪntuː/"
+          },
+          {
+            "word": "looking into",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/lʊkɪŋ ˈɪntuː/"
+          },
+          {
+            "word": "looked into",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/lʊkt ˈɪntuː/"
+          }
+        ]
+      },
+      {
+        "word": "look up to",
+        "pos": "verb",
+        "ipa": "/lʊk ʌp tə/",
+        "meaningVi": "kính trọng; ngưỡng mộ ai",
+        "example": "Many young players look up to their coach.",
+        "exampleVi": "Nhiều cầu thủ trẻ kính trọng huấn luyện viên của mình.",
+        "topic": "sport",
+        "tags": [
+          "prepositions",
+          "sport"
+        ],
+        "synonyms": [
+          "admire"
+        ],
+        "forms": [
+          {
+            "word": "looks up to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/lʊks ʌp tə/"
+          },
+          {
+            "word": "looking up to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/lʊkɪŋ ʌp tə/"
+          },
+          {
+            "word": "looked up to",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/lʊkt ʌp tə/"
+          }
+        ]
+      },
+      {
+        "word": "look down on",
+        "pos": "verb",
+        "ipa": "/lʊk daʊn ɑn/",
+        "meaningVi": "coi thường; cho rằng ai hoặc điều gì thấp kém",
+        "example": "We should not look down on people because of their jobs.",
+        "exampleVi": "Chúng ta không nên coi thường người khác vì nghề nghiệp của họ.",
+        "topic": "society",
+        "tags": [
+          "prepositions",
+          "society"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "looks down on",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/lʊks daʊn ɑn/"
+          },
+          {
+            "word": "looking down on",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/lʊkɪŋ daʊn ɑn/"
+          },
+          {
+            "word": "looked down on",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/lʊkt daʊn ɑn/"
+          }
+        ]
+      },
+      {
+        "word": "look back on",
+        "pos": "verb",
+        "ipa": "/lʊk bæk ɑn/",
+        "meaningVi": "nhìn lại; hồi tưởng về một thời gian hoặc trải nghiệm đã qua",
+        "example": "I look back on my school days with affection.",
+        "exampleVi": "Tôi trìu mến nhớ lại những ngày còn đi học.",
+        "topic": "education",
+        "tags": [
+          "prepositions",
+          "education"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "looks back on",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/lʊks bæk ɑn/"
+          },
+          {
+            "word": "looking back on",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/lʊkɪŋ bæk ɑn/"
+          },
+          {
+            "word": "looked back on",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/lʊkt bæk ɑn/"
+          }
+        ]
+      },
+      {
+        "word": "look out for",
+        "pos": "verb",
+        "ipa": "/lʊk aʊt fər/",
+        "meaningVi": "chú ý tìm; để mắt nhằm phát hiện ai hoặc điều gì",
+        "example": "Please look out for the blue sign on your left.",
+        "exampleVi": "Hãy chú ý tìm biển báo màu xanh ở bên trái bạn.",
+        "topic": "travel",
+        "tags": [
+          "prepositions",
+          "travel"
+        ],
+        "synonyms": [
+          "watch for"
+        ],
+        "forms": [
+          {
+            "word": "looks out for",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/lʊks aʊt fər/"
+          },
+          {
+            "word": "looking out for",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/lʊkɪŋ aʊt fər/"
+          },
+          {
+            "word": "looked out for",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/lʊkt aʊt fər/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -2462,6 +3222,86 @@
         "ipa": "/hɜrd/",
         "example": "We heard a strange noise downstairs.",
         "exampleVi": "Chúng tôi nghe thấy một tiếng động lạ ở tầng dưới."
+      }
+    ],
+    "phrases": [
+      {
+        "word": "hear of",
+        "pos": "verb",
+        "ipa": "/hɪr əv/",
+        "meaningVi": "nghe nói đến; biết rằng ai hoặc điều gì tồn tại",
+        "example": "Did you hear of this author before today?",
+        "exampleVi": "Trước hôm nay bạn đã từng nghe nói đến tác giả này chưa?",
+        "topic": "education",
+        "tags": [
+          "prepositions",
+          "education"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "hears of",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/hɪrz əv/"
+          },
+          {
+            "word": "hearing of",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/hɪrɪŋ əv/"
+          },
+          {
+            "word": "heard of",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/hɜrd əv/"
+          }
+        ]
+      },
+      {
+        "word": "hear from",
+        "pos": "verb",
+        "ipa": "/hɪr frəm/",
+        "meaningVi": "nhận được tin nhắn, thư hoặc cuộc gọi từ ai",
+        "example": "I hope to hear from you soon.",
+        "exampleVi": "Tôi hy vọng sớm nhận được tin của bạn.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "hears from",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/hɪrz frəm/"
+          },
+          {
+            "word": "hearing from",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/hɪrɪŋ frəm/"
+          },
+          {
+            "word": "heard from",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/hɜrd frəm/"
+          }
+        ]
       }
     ]
   },
@@ -10375,6 +11215,22 @@
     "synonyms": [
       "scared",
       "frightened"
+    ],
+    "phrases": [
+      {
+        "word": "afraid of",
+        "pos": "adjective",
+        "ipa": "/əˈfreɪd əv/",
+        "meaningVi": "sợ ai hoặc điều gì",
+        "example": "The child is afraid of loud noises.",
+        "exampleVi": "Đứa trẻ sợ những tiếng động lớn.",
+        "topic": "family",
+        "tags": [
+          "prepositions",
+          "family"
+        ],
+        "synonyms": []
+      }
     ]
   },
   {
@@ -10391,6 +11247,24 @@
     ],
     "synonyms": [
       "weary"
+    ],
+    "phrases": [
+      {
+        "word": "tired of",
+        "pos": "adjective",
+        "ipa": "/ˈtaɪərd əv/",
+        "meaningVi": "chán; cảm thấy khó chịu vì điều gì lặp lại hoặc kéo dài",
+        "example": "I am tired of hearing the same excuse.",
+        "exampleVi": "Tôi chán phải nghe mãi cùng một lời bào chữa.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [
+          "fed up with"
+        ]
+      }
     ]
   },
   {
@@ -10463,7 +11337,23 @@
       "everyday-500",
       "daily"
     ],
-    "synonyms": []
+    "synonyms": [],
+    "phrases": [
+      {
+        "word": "excited about",
+        "pos": "adjective",
+        "ipa": "/ɪkˈsaɪtɪd əˈbaʊt/",
+        "meaningVi": "hào hứng; phấn khích về điều gì",
+        "example": "The children are excited about the school trip.",
+        "exampleVi": "Bọn trẻ rất hào hứng về chuyến đi của trường.",
+        "topic": "education",
+        "tags": [
+          "prepositions",
+          "education"
+        ],
+        "synonyms": []
+      }
+    ]
   },
   {
     "word": "calm",
@@ -10493,7 +11383,23 @@
       "everyday-500",
       "daily"
     ],
-    "synonyms": []
+    "synonyms": [],
+    "phrases": [
+      {
+        "word": "proud of",
+        "pos": "adjective",
+        "ipa": "/praʊd əv/",
+        "meaningVi": "tự hào về ai hoặc điều gì",
+        "example": "We are proud of the progress you have made.",
+        "exampleVi": "Chúng tôi tự hào về sự tiến bộ của bạn.",
+        "topic": "family",
+        "tags": [
+          "prepositions",
+          "family"
+        ],
+        "synonyms": []
+      }
+    ]
   },
   {
     "word": "shy",

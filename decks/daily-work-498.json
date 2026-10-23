@@ -6609,6 +6609,49 @@
         "ipa": "/ˈdɛɫt/"
       }
     ],
+    "phrases": [
+      {
+        "word": "deal with",
+        "pos": "verb",
+        "ipa": "/diːl wɪð/",
+        "meaningVi": "xử lý; giải quyết một vấn đề hoặc tình huống",
+        "example": "We need to deal with this issue before Friday.",
+        "exampleVi": "Chúng ta cần giải quyết vấn đề này trước thứ Sáu.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [
+          "handle"
+        ],
+        "forms": [
+          {
+            "word": "deals with",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/diːlz wɪð/"
+          },
+          {
+            "word": "dealing with",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/diːlɪŋ wɪð/"
+          },
+          {
+            "word": "dealt with",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈdɛɫt wɪð/"
+          }
+        ]
+      }
+    ],
     "synonyms": [
       "handle"
     ]
@@ -6720,6 +6763,49 @@
           "past_participle"
         ],
         "ipa": "/əˈtendɪd/"
+      }
+    ],
+    "phrases": [
+      {
+        "word": "attend to",
+        "pos": "verb",
+        "ipa": "/əˈtend tə/",
+        "meaningVi": "chú tâm xử lý hoặc chăm lo một việc cần được quan tâm",
+        "example": "Please attend to the urgent requests first.",
+        "exampleVi": "Hãy xử lý những yêu cầu cấp bách trước.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [
+          "deal with"
+        ],
+        "forms": [
+          {
+            "word": "attends to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/əˈtendz tə/"
+          },
+          {
+            "word": "attending to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/əˈtendɪŋ tə/"
+          },
+          {
+            "word": "attended to",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/əˈtendɪd tə/"
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -6888,6 +6974,47 @@
         "ipa": "/ˈsʌf.əd/"
       }
     ],
+    "phrases": [
+      {
+        "word": "suffer from",
+        "pos": "verb",
+        "ipa": "/ˈsʌfər frəm/",
+        "meaningVi": "mắc; chịu ảnh hưởng của bệnh hoặc vấn đề kéo dài",
+        "example": "Many people suffer from seasonal allergies.",
+        "exampleVi": "Nhiều người bị dị ứng theo mùa.",
+        "topic": "health",
+        "tags": [
+          "prepositions",
+          "health"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "suffers from",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ˈsʌfərz frəm/"
+          },
+          {
+            "word": "suffering from",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ˈsʌfərɪŋ frəm/"
+          },
+          {
+            "word": "suffered from",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈsʌfərd frəm/"
+          }
+        ]
+      }
+    ],
     "synonyms": [
       "endure"
     ]
@@ -6946,6 +7073,47 @@
           "past_participle"
         ],
         "ipa": "/rɪˈleɪtɪd/"
+      }
+    ],
+    "phrases": [
+      {
+        "word": "relate to",
+        "pos": "verb",
+        "ipa": "/rɪˈleɪt tə/",
+        "meaningVi": "liên quan; có mối liên hệ với điều gì",
+        "example": "These questions relate to the first chapter.",
+        "exampleVi": "Những câu hỏi này liên quan đến chương đầu tiên.",
+        "topic": "education",
+        "tags": [
+          "prepositions",
+          "education"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "relates to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/rɪˈleɪts tə/"
+          },
+          {
+            "word": "relating to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/rɪˈleɪtɪŋ tə/"
+          },
+          {
+            "word": "related to",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/rɪˈleɪtɪd tə/"
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -7498,6 +7666,49 @@
         "ipa": "/əbˈdʒektɪd/"
       }
     ],
+    "phrases": [
+      {
+        "word": "object to",
+        "pos": "verb",
+        "ipa": "/əbˈdʒekt tə/",
+        "meaningVi": "phản đối; không tán thành một việc",
+        "example": "Some residents object to building another car park.",
+        "exampleVi": "Một số cư dân phản đối việc xây thêm một bãi đỗ xe.",
+        "topic": "society",
+        "tags": [
+          "prepositions",
+          "society"
+        ],
+        "synonyms": [
+          "oppose"
+        ],
+        "forms": [
+          {
+            "word": "objects to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/əbˈdʒekts tə/"
+          },
+          {
+            "word": "objecting to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/əbˈdʒektɪŋ tə/"
+          },
+          {
+            "word": "objected to",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/əbˈdʒektɪd tə/"
+          }
+        ]
+      }
+    ],
     "synonyms": [
       "protest"
     ]
@@ -7540,6 +7751,88 @@
           "past_participle"
         ],
         "ipa": "/sɜːtʃt/"
+      }
+    ],
+    "phrases": [
+      {
+        "word": "search for",
+        "pos": "verb",
+        "ipa": "/sɜrtʃ fər/",
+        "meaningVi": "tìm kiếm người, vật hoặc thông tin",
+        "example": "The team will search for the missing documents.",
+        "exampleVi": "Nhóm sẽ tìm những tài liệu bị thất lạc.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [
+          "look for"
+        ],
+        "forms": [
+          {
+            "word": "searches for",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/sɜrtʃɪz fər/"
+          },
+          {
+            "word": "searching for",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/sɜrtʃɪŋ fər/"
+          },
+          {
+            "word": "searched for",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/sɜrtʃt fər/"
+          }
+        ]
+      },
+      {
+        "word": "search through",
+        "pos": "verb",
+        "ipa": "/sɜrtʃ θruː/",
+        "meaningVi": "lục tìm; xem xét kỹ bên trong một tập hợp hoặc nơi nào đó",
+        "example": "We had to search through several folders to find the invoice.",
+        "exampleVi": "Chúng tôi đã phải tìm trong nhiều thư mục mới thấy hóa đơn.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "searches through",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/sɜrtʃɪz θruː/"
+          },
+          {
+            "word": "searching through",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/sɜrtʃɪŋ θruː/"
+          },
+          {
+            "word": "searched through",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/sɜrtʃt θruː/"
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -8059,6 +8352,49 @@
           "past_participle"
         ],
         "ipa": "/ˈstək/"
+      }
+    ],
+    "phrases": [
+      {
+        "word": "stick to",
+        "pos": "verb",
+        "ipa": "/stɪk tə/",
+        "meaningVi": "tuân thủ; tiếp tục làm theo một kế hoạch hoặc quy tắc",
+        "example": "We should stick to the agreed schedule.",
+        "exampleVi": "Chúng ta nên tuân thủ lịch trình đã thống nhất.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [
+          "adhere to"
+        ],
+        "forms": [
+          {
+            "word": "sticks to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/stɪks tə/"
+          },
+          {
+            "word": "sticking to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/stɪkɪŋ tə/"
+          },
+          {
+            "word": "stuck to",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈstək tə/"
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -8876,6 +9212,49 @@
         "ipa": "/rɪˈplaɪd/"
       }
     ],
+    "phrases": [
+      {
+        "word": "reply to",
+        "pos": "verb",
+        "ipa": "/rɪˈplaɪ tə/",
+        "meaningVi": "trả lời thư, tin nhắn hoặc câu hỏi",
+        "example": "Please reply to the invitation before Friday.",
+        "exampleVi": "Hãy trả lời lời mời trước thứ Sáu.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [
+          "respond to"
+        ],
+        "forms": [
+          {
+            "word": "replies to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/rɪˈplaɪz tə/"
+          },
+          {
+            "word": "replying to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/rɪˈplaɪɪŋ tə/"
+          },
+          {
+            "word": "replied to",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/rɪˈplaɪd tə/"
+          }
+        ]
+      }
+    ],
     "synonyms": [
       "respond"
     ]
@@ -8982,6 +9361,47 @@
         "ipa": "/əˈrɪdʒ.ɪ.neɪtɪd/",
         "example": "Our team originated the idea.",
         "exampleVi": "Nhóm chúng tôi khởi xướng ý tưởng."
+      }
+    ],
+    "phrases": [
+      {
+        "word": "originate from",
+        "pos": "verb",
+        "ipa": "/əˈrɪdʒəneɪt frəm/",
+        "meaningVi": "bắt nguồn; xuất phát từ một nơi hoặc nguồn nào đó",
+        "example": "These products originate from small farms in the region.",
+        "exampleVi": "Những sản phẩm này có xuất xứ từ các trang trại nhỏ trong vùng.",
+        "topic": "shopping",
+        "tags": [
+          "prepositions",
+          "shopping"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "originates from",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/əˈrɪdʒəneɪts frəm/"
+          },
+          {
+            "word": "originating from",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/əˈrɪdʒəneɪtɪŋ frəm/"
+          },
+          {
+            "word": "originated from",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/əˈrɪdʒəneɪtɪd frəm/"
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -9504,6 +9924,49 @@
           "past_participle"
         ],
         "ipa": "/bʌmpt/"
+      }
+    ],
+    "phrases": [
+      {
+        "word": "bump into",
+        "pos": "verb",
+        "ipa": "/bʌmp ˈɪntuː/",
+        "meaningVi": "tình cờ gặp một người quen",
+        "example": "You might bump into an old friend at the reunion.",
+        "exampleVi": "Bạn có thể tình cờ gặp một người bạn cũ tại buổi họp mặt.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [
+          "run into"
+        ],
+        "forms": [
+          {
+            "word": "bumps into",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/bʌmps ˈɪntuː/"
+          },
+          {
+            "word": "bumping into",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/bʌmpɪŋ ˈɪntuː/"
+          },
+          {
+            "word": "bumped into",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/bʌmpt ˈɪntuː/"
+          }
+        ]
       }
     ],
     "synonyms": [
@@ -12292,6 +12755,22 @@
         "example": "There is keen competition for this role.",
         "exampleVi": "Vị trí này có sự cạnh tranh gay gắt.",
         "ipa": "/kiːn/"
+      }
+    ],
+    "phrases": [
+      {
+        "word": "keen on",
+        "pos": "adjective",
+        "ipa": "/kiːn ɑn/",
+        "meaningVi": "rất thích; có hứng thú với điều gì",
+        "example": "She is keen on outdoor activities.",
+        "exampleVi": "Cô ấy rất thích các hoạt động ngoài trời.",
+        "topic": "sport",
+        "tags": [
+          "prepositions",
+          "sport"
+        ],
+        "synonyms": []
       }
     ],
     "synonyms": [

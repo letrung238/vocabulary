@@ -175,6 +175,100 @@
         ],
         "ipa": "/ˈɡɑtən/, /ˈɡɔtən/"
       }
+    ],
+    "phrases": [
+      {
+        "word": "get along with",
+        "pos": "verb",
+        "ipa": "/ɡet əˈlɔŋ wɪð/",
+        "meaningVi": "hòa thuận; có quan hệ tốt với ai",
+        "example": "I get along with my new colleagues.",
+        "exampleVi": "Tôi hòa thuận với các đồng nghiệp mới.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gets along with",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡets əˈlɔŋ wɪð/"
+          },
+          {
+            "word": "getting along with",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡetɪŋ əˈlɔŋ wɪð/"
+          },
+          {
+            "word": "got along with",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑt əˈlɔŋ wɪð/"
+          },
+          {
+            "word": "gotten along with",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑtən əˈlɔŋ wɪð/, /ˈɡɔtən əˈlɔŋ wɪð/"
+          }
+        ]
+      },
+      {
+        "word": "get rid of",
+        "pos": "verb",
+        "ipa": "/ɡet rɪd əv/",
+        "meaningVi": "loại bỏ; bỏ đi thứ không mong muốn",
+        "example": "We need to get rid of these broken chairs.",
+        "exampleVi": "Chúng ta cần bỏ những chiếc ghế hỏng này đi.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gets rid of",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡets rɪd əv/"
+          },
+          {
+            "word": "getting rid of",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡetɪŋ rɪd əv/"
+          },
+          {
+            "word": "got rid of",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑt rɪd əv/"
+          },
+          {
+            "word": "gotten rid of",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑtən rɪd əv/, /ˈɡɔtən rɪd əv/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -346,6 +440,47 @@
         "example": "I kept the receipt in my wallet.",
         "exampleVi": "Tôi giữ biên lai trong ví."
       }
+    ],
+    "phrases": [
+      {
+        "word": "keep up with",
+        "pos": "verb",
+        "ipa": "/kiːp ʌp wɪð/",
+        "meaningVi": "theo kịp tốc độ hoặc sự tiến triển của ai hay điều gì",
+        "example": "It is hard to keep up with every change in technology.",
+        "exampleVi": "Thật khó để theo kịp mọi thay đổi của công nghệ.",
+        "topic": "technology",
+        "tags": [
+          "prepositions",
+          "technology"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "keeps up with",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/kiːps ʌp wɪð/"
+          },
+          {
+            "word": "keeping up with",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/kiːpɪŋ ʌp wɪð/"
+          },
+          {
+            "word": "kept up with",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈkæpt ʌp wɪð/, /ˈkɛpt ʌp wɪð/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -436,6 +571,53 @@
           "past_participle"
         ],
         "ipa": "/ˈtʃoʊzən/"
+      }
+    ],
+    "phrases": [
+      {
+        "word": "choose between",
+        "pos": "verb",
+        "ipa": "/tʃuːz bɪˈtwiːn/",
+        "meaningVi": "lựa chọn giữa các phương án",
+        "example": "You can choose between the morning and evening classes.",
+        "exampleVi": "Bạn có thể chọn lớp buổi sáng hoặc buổi tối.",
+        "topic": "education",
+        "tags": [
+          "prepositions",
+          "education"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "chooses between",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/tʃuːzɪz bɪˈtwiːn/"
+          },
+          {
+            "word": "choosing between",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/tʃuːzɪŋ bɪˈtwiːn/"
+          },
+          {
+            "word": "chose between",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈtʃoʊz bɪˈtwiːn/"
+          },
+          {
+            "word": "chosen between",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈtʃoʊzən bɪˈtwiːn/"
+          }
+        ]
       }
     ]
   },

@@ -1273,6 +1273,49 @@
     ],
     "synonyms": [
       "attractiveness"
+    ],
+    "phrases": [
+      {
+        "word": "appeal to",
+        "pos": "verb",
+        "ipa": "/əˈpiːl tə/",
+        "meaningVi": "hấp dẫn; gây hứng thú cho ai",
+        "example": "This design may appeal to younger customers.",
+        "exampleVi": "Thiết kế này có thể hấp dẫn các khách hàng trẻ tuổi hơn.",
+        "topic": "shopping",
+        "tags": [
+          "prepositions",
+          "shopping"
+        ],
+        "synonyms": [
+          "attract"
+        ],
+        "forms": [
+          {
+            "word": "appeals to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/əˈpiːlz tə/"
+          },
+          {
+            "word": "appealing to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/əˈpiːlɪŋ tə/"
+          },
+          {
+            "word": "appealed to",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/əˈpiːld tə/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -5874,6 +5917,24 @@
     ],
     "synonyms": [
       "worried"
+    ],
+    "phrases": [
+      {
+        "word": "concerned about",
+        "pos": "adjective",
+        "ipa": "/kənˈsɜrnd əˈbaʊt/",
+        "meaningVi": "lo lắng; quan tâm đến một vấn đề đáng ngại",
+        "example": "They are concerned about the rising cost of living.",
+        "exampleVi": "Họ lo lắng về chi phí sinh hoạt đang tăng.",
+        "topic": "economy",
+        "tags": [
+          "prepositions",
+          "economy"
+        ],
+        "synonyms": [
+          "worried about"
+        ]
+      }
     ]
   },
   {
@@ -8236,6 +8297,22 @@
     ],
     "synonyms": [
       "reliant"
+    ],
+    "phrases": [
+      {
+        "word": "dependent on",
+        "pos": "adjective",
+        "ipa": "/dɪˈpendənt ɑn/",
+        "meaningVi": "phụ thuộc vào ai hoặc điều gì",
+        "example": "The village is dependent on tourism for income.",
+        "exampleVi": "Ngôi làng phụ thuộc vào du lịch để có thu nhập.",
+        "topic": "economy",
+        "tags": [
+          "prepositions",
+          "economy"
+        ],
+        "synonyms": []
+      }
     ]
   },
   {
@@ -16172,6 +16249,86 @@
     ],
     "synonyms": [
       "meddle"
+    ],
+    "phrases": [
+      {
+        "word": "interfere with",
+        "pos": "verb",
+        "ipa": "/ˌɪntərˈfɪr wɪð/",
+        "meaningVi": "cản trở; làm ảnh hưởng đến hoạt động của điều gì",
+        "example": "Loud music can interfere with your concentration.",
+        "exampleVi": "Nhạc lớn có thể cản trở sự tập trung của bạn.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "interferes with",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ˌɪntərˈfɪrz wɪð/"
+          },
+          {
+            "word": "interfering with",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ˌɪntərˈfɪrɪŋ wɪð/"
+          },
+          {
+            "word": "interfered with",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˌɪntərˈfɪrd wɪð/"
+          }
+        ]
+      },
+      {
+        "word": "interfere in",
+        "pos": "verb",
+        "ipa": "/ˌɪntərˈfɪr ɪn/",
+        "meaningVi": "can thiệp vào công việc của người khác khi không được mong muốn",
+        "example": "I do not want to interfere in their private affairs.",
+        "exampleVi": "Tôi không muốn can thiệp vào chuyện riêng của họ.",
+        "topic": "society",
+        "tags": [
+          "prepositions",
+          "society"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "interferes in",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ˌɪntərˈfɪrz ɪn/"
+          },
+          {
+            "word": "interfering in",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ˌɪntərˈfɪrɪŋ ɪn/"
+          },
+          {
+            "word": "interfered in",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˌɪntərˈfɪrd ɪn/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -24288,6 +24445,47 @@
     ],
     "synonyms": [
       "chorus"
+    ],
+    "phrases": [
+      {
+        "word": "refrain from",
+        "pos": "verb",
+        "ipa": "/rɪˈfreɪn frəm/",
+        "meaningVi": "kiềm chế; chủ động không làm điều gì",
+        "example": "Please refrain from using your phone during the performance.",
+        "exampleVi": "Xin đừng sử dụng điện thoại trong buổi biểu diễn.",
+        "topic": "culture",
+        "tags": [
+          "prepositions",
+          "culture"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "refrains from",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/rɪˈfreɪnz frəm/"
+          },
+          {
+            "word": "refraining from",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/rɪˈfreɪnɪŋ frəm/"
+          },
+          {
+            "word": "refrained from",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/rɪˈfreɪnd frəm/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -28165,7 +28363,48 @@
         "ipa": "/ˈspɛʃəˌlɑɪzd/"
       }
     ],
-    "synonyms": []
+    "synonyms": [],
+    "phrases": [
+      {
+        "word": "specialize in",
+        "pos": "verb",
+        "ipa": "/ˈspeʃəlaɪz ɪn/",
+        "meaningVi": "chuyên về một lĩnh vực hoặc loại công việc",
+        "example": "These engineers specialize in bridge design.",
+        "exampleVi": "Những kỹ sư này chuyên về thiết kế cầu.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "specializes in",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ˈspeʃəlaɪzɪz ɪn/"
+          },
+          {
+            "word": "specializing in",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ˈspeʃəlaɪzɪŋ ɪn/"
+          },
+          {
+            "word": "specialized in",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈspeʃəlaɪzd ɪn/"
+          }
+        ]
+      }
+    ]
   },
   {
     "word": "spectacle",

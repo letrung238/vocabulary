@@ -6705,6 +6705,24 @@
       "b2-daily-work",
       "communication"
     ],
+    "phrases": [
+      {
+        "word": "satisfied with",
+        "pos": "adjective",
+        "ipa": "/ˈsætɪsfaɪd wɪð/",
+        "meaningVi": "hài lòng với một kết quả hoặc điều được cung cấp",
+        "example": "Are you satisfied with the quality of the service?",
+        "exampleVi": "Bạn có hài lòng với chất lượng dịch vụ không?",
+        "topic": "shopping",
+        "tags": [
+          "prepositions",
+          "shopping"
+        ],
+        "synonyms": [
+          "pleased with"
+        ]
+      }
+    ],
     "synonyms": [
       "content"
     ]
