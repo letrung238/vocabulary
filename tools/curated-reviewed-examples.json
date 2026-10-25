@@ -1,0 +1,2026 @@
+[
+  {
+    "word": "addict",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "người nghiện",
+    "example": "He is a known addict to online gaming.",
+    "exampleVi": "Anh ấy là một người nghiện chơi game trực tuyến."
+  },
+  {
+    "word": "alert",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "báo động; cảnh báo",
+    "example": "The police alerted residents to the approaching storm.",
+    "exampleVi": "Cảnh sát cảnh báo người dân về cơn bão đang đến gần."
+  },
+  {
+    "word": "alien",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "người ngoại quốc (trong văn bản pháp lý)",
+    "example": "The alien applied for a residence permit.",
+    "exampleVi": "Người ngoại quốc đó nộp đơn xin giấy phép cư trú."
+  },
+  {
+    "word": "ally",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "nước đồng minh",
+    "example": "Germany was once an ally of Italy.",
+    "exampleVi": "Đức từng là đồng minh của Ý."
+  },
+  {
+    "word": "alternate",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "thay phiên, luân phiên",
+    "example": "The workers alternate between day and night shifts.",
+    "exampleVi": "Các công nhân thay phiên làm việc vào ban ngày và ban đêm."
+  },
+  {
+    "word": "backward",
+    "sourceGroup": "reviewed",
+    "pos": "adverb",
+    "meaningVi": "về phía sau; lùi lại",
+    "example": "He stepped backward to let her pass.",
+    "exampleVi": "Anh ấy bước lùi để cô ấy đi qua."
+  },
+  {
+    "word": "balloon",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "bóng bay; bong bóng",
+    "example": "A colorful balloon floated high in the sky.",
+    "exampleVi": "Một quả bóng bay đầy màu sắc lơ lửng cao trên bầu trời."
+  },
+  {
+    "word": "boiling",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "sự sôi; việc đun sôi",
+    "example": "Boiling turns water into steam.",
+    "exampleVi": "Sự sôi biến nước thành hơi nước."
+  },
+  {
+    "word": "booking",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "sự đặt chỗ; đơn đặt chỗ",
+    "example": "I made a booking for a room tomorrow.",
+    "exampleVi": "Tôi đã đặt một phòng cho ngày mai."
+  },
+  {
+    "word": "colon",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "dấu hai chấm",
+    "example": "Use a colon before the list.",
+    "exampleVi": "Hãy dùng dấu hai chấm trước danh sách."
+  },
+  {
+    "word": "compound",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "hợp chất",
+    "example": "Salt is a compound of sodium and chlorine.",
+    "exampleVi": "Muối là hợp chất của natri và clo."
+  },
+  {
+    "word": "compression",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "sự nén; sự nén chặt",
+    "example": "Compression of the spring stores energy.",
+    "exampleVi": "Việc nén lò xo tích trữ năng lượng."
+  },
+  {
+    "word": "concentration",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "nồng độ (dung dịch)",
+    "example": "The salt concentration in this solution is low.",
+    "exampleVi": "Nồng độ muối trong dung dịch này thấp."
+  },
+  {
+    "word": "console",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "an ủi; giải khuây",
+    "example": "Her kind words helped console the worried child.",
+    "exampleVi": "Những lời nói dịu dàng của cô ấy đã giúp an ủi đứa trẻ đang lo lắng."
+  },
+  {
+    "word": "content",
+    "sourceGroup": "reviewed",
+    "pos": "adjective",
+    "meaningVi": "hài lòng; mãn nguyện",
+    "example": "She was content with her new apartment.",
+    "exampleVi": "Cô ấy hài lòng với căn hộ mới của mình."
+  },
+  {
+    "word": "corrupt",
+    "sourceGroup": "reviewed",
+    "pos": "adjective",
+    "meaningVi": "tham nhũng",
+    "example": "The corrupt official accepted bribes.",
+    "exampleVi": "Viên chức tham nhũng đó nhận hối lộ."
+  },
+  {
+    "word": "cuff",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "cổ tay áo, gấu quần",
+    "example": "The shirt cuff was too tight.",
+    "exampleVi": "Cổ tay áo quá chật."
+  },
+  {
+    "word": "deck",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "cỗ bài",
+    "example": "She shuffled the deck before the game.",
+    "exampleVi": "Cô ấy xáo bộ bài trước khi bắt đầu trò chơi."
+  },
+  {
+    "word": "defect",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "đào ngũ; rời bỏ phe mình",
+    "example": "Two soldiers defected to the other side.",
+    "exampleVi": "Hai binh sĩ đã chuyển sang phe đối lập."
+  },
+  {
+    "word": "digest",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "bản tóm tắt tin tức; tạp chí tóm tắt",
+    "example": "She kept a digest of the new rules.",
+    "exampleVi": "Cô ấy lưu giữ một bản tóm tắt về các quy định mới."
+  },
+  {
+    "word": "digest",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "tiêu hóa thức ăn",
+    "example": "The stomach helps digest food.",
+    "exampleVi": "Dạ dày giúp tiêu hóa thức ăn."
+  },
+  {
+    "word": "distract",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "làm mất tập trung; phân tâm",
+    "example": "The loud music distracts him from his work.",
+    "exampleVi": "Tiếng nhạc lớn khiến anh ấy mất tập trung khi làm việc."
+  },
+  {
+    "word": "duplicate",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "bản sao",
+    "example": "Please make a duplicate of this key.",
+    "exampleVi": "Xin vui lòng tạo một bản sao của chìa khóa này."
+  },
+  {
+    "word": "everlasting",
+    "sourceGroup": "reviewed",
+    "pos": "adjective",
+    "meaningVi": "vĩnh viễn",
+    "example": "The couple promised each other everlasting love.",
+    "exampleVi": "Cặp đôi hứa dành cho nhau tình yêu vĩnh cửu."
+  },
+  {
+    "word": "excuse",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "cớ",
+    "example": "You always have an excuse for going home late.",
+    "exampleVi": "Bạn luôn có lý do để về nhà muộn."
+  },
+  {
+    "word": "forum",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "diễn đàn",
+    "example": "Members share ideas on the online forum.",
+    "exampleVi": "Các thành viên chia sẻ ý tưởng trên diễn đàn trực tuyến."
+  },
+  {
+    "word": "forum",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "quảng trường hoặc chợ công cộng ở La Mã cổ đại",
+    "example": "Merchants gathered in the Roman forum to sell their goods.",
+    "exampleVi": "Các thương nhân tụ tập tại quảng trường La Mã để bán hàng của mình."
+  },
+  {
+    "word": "fragment",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "mảnh vỡ, mảnh nhỏ",
+    "example": "A glass fragment lay on the floor.",
+    "exampleVi": "Một mảnh thủy tinh nằm trên sàn nhà."
+  },
+  {
+    "word": "gay",
+    "sourceGroup": "reviewed",
+    "pos": "adjective",
+    "meaningVi": "đồng tính",
+    "example": "He is openly gay.",
+    "exampleVi": "Anh ấy công khai mình là người đồng tính."
+  },
+  {
+    "word": "gay",
+    "sourceGroup": "reviewed",
+    "pos": "adjective",
+    "meaningVi": "vui vẻ; rộn ràng (cách dùng cũ)",
+    "example": "The old novel describes a gay evening of music and dancing.",
+    "exampleVi": "Cuốn tiểu thuyết cũ miêu tả một buổi tối vui vẻ với âm nhạc và khiêu vũ."
+  },
+  {
+    "word": "gay",
+    "sourceGroup": "reviewed",
+    "pos": "adjective",
+    "meaningVi": "sặc sỡ; tươi sáng (cách dùng cũ)",
+    "example": "The old poem describes gay ribbons decorating the room.",
+    "exampleVi": "Bài thơ cũ miêu tả những dải ruy băng sặc sỡ trang trí căn phòng."
+  },
+  {
+    "word": "graphic",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "hình minh họa, hình đồ họa",
+    "example": "The report includes a graphic showing sales growth.",
+    "exampleVi": "Báo cáo có hình minh họa mức tăng doanh số."
+  },
+  {
+    "word": "hip",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "hông",
+    "example": "She hurt her hip while running.",
+    "exampleVi": "Cô ấy bị đau ở hông khi đang chạy."
+  },
+  {
+    "word": "hood",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "nắp ca pô (xe ô tô, tiếng Anh Mỹ)",
+    "example": "He lifted the hood to check the engine.",
+    "exampleVi": "Anh ấy mở nắp ca pô để kiểm tra động cơ."
+  },
+  {
+    "word": "inch",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "inch (đơn vị độ dài bằng 2,54 cm)",
+    "example": "The board is one inch thick.",
+    "exampleVi": "Tấm ván dày một inch."
+  },
+  {
+    "word": "insult",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "lời xúc phạm",
+    "example": "He ignored the insult and walked away.",
+    "exampleVi": "Anh ta phớt lờ lời xúc phạm đó và bỏ đi."
+  },
+  {
+    "word": "latter",
+    "sourceGroup": "reviewed",
+    "pos": "adjective",
+    "meaningVi": "thứ hai trong hai người hoặc vật vừa được nhắc đến",
+    "example": "She chose the latter option for her trip.",
+    "exampleVi": "Cô ấy đã chọn phương án sau cho chuyến đi của mình."
+  },
+  {
+    "word": "latter",
+    "sourceGroup": "reviewed",
+    "pos": "adjective",
+    "meaningVi": "thuộc giai đoạn cuối",
+    "example": "In his latter years, he spent more time painting.",
+    "exampleVi": "Trong những năm cuối đời, ông dành nhiều thời gian hơn cho hội họa."
+  },
+  {
+    "word": "leash",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "dây xích, dây dắt (chó)",
+    "example": "Keep the dog on a leash outside.",
+    "exampleVi": "Hãy giữ chó trên dây dắt khi ra ngoài."
+  },
+  {
+    "word": "limb",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "chi; tay hoặc chân",
+    "example": "The injured bird could not move its left limb.",
+    "exampleVi": "Con chim bị thương không thể cử động chi bên trái."
+  },
+  {
+    "word": "martial",
+    "sourceGroup": "reviewed",
+    "pos": "adjective",
+    "meaningVi": "hiếu chiến; sẵn sàng chiến đấu",
+    "example": "His martial spirit made him eager to fight.",
+    "exampleVi": "Tinh thần hiếu chiến khiến anh ấy háo hức chiến đấu."
+  },
+  {
+    "word": "mate",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "sĩ quan boong; phó thuyền trưởng",
+    "example": "The ship's mate checked the cargo list.",
+    "exampleVi": "Sĩ quan boong của tàu kiểm tra danh sách hàng hóa."
+  },
+  {
+    "word": "merchandise",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "thương phẩm; hàng hoá",
+    "example": "The store displayed its merchandise in the window.",
+    "exampleVi": "Cửa hàng trưng bày hàng hóa ở cửa sổ."
+  },
+  {
+    "word": "mold",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "nấm mốc (cách viết Mỹ; Anh: mould)",
+    "example": "Green mold grew on the old bread.",
+    "exampleVi": "Nấm mốc xanh mọc trên miếng bánh mì cũ."
+  },
+  {
+    "word": "multiply",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "nhân",
+    "example": "Multiply the number of boxes by the price of each box.",
+    "exampleVi": "Nhân số hộp với giá của mỗi hộp."
+  },
+  {
+    "word": "oval",
+    "sourceGroup": "reviewed",
+    "pos": "adjective",
+    "meaningVi": "hình bầu dục",
+    "example": "She drew an oval mirror on the wall.",
+    "exampleVi": "Cô ấy vẽ một tấm gương hình elip lên tường."
+  },
+  {
+    "word": "oval",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "sân hoặc đường đua hình bầu dục",
+    "example": "The runners trained on the oval behind the school.",
+    "exampleVi": "Các vận động viên tập trên đường đua hình bầu dục phía sau trường."
+  },
+  {
+    "word": "polish",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "độ bóng; vẻ sáng bóng",
+    "example": "The wooden table has a beautiful polish.",
+    "exampleVi": "Chiếc bàn gỗ có độ bóng đẹp."
+  },
+  {
+    "word": "proposition",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "đề xuất; mệnh đề",
+    "example": "She read the proposition aloud to the class.",
+    "exampleVi": "Cô ấy đọc to đề xuất đó cho cả lớp nghe."
+  },
+  {
+    "word": "puzzle",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "điều bí ẩn; vấn đề khó hiểu",
+    "example": "The locked room was a puzzle that nobody could explain.",
+    "exampleVi": "Căn phòng bị khóa là một điều bí ẩn mà không ai giải thích được."
+  },
+  {
+    "word": "rear",
+    "sourceGroup": "reviewed",
+    "pos": "adjective",
+    "meaningVi": "phía sau, đằng sau",
+    "example": "The rear tyre of the car is flat.",
+    "exampleVi": "Lốp sau của chiếc xe bị xẹp."
+  },
+  {
+    "word": "rebel",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "người nổi loạn; người phiến loạn",
+    "example": "The rebel hid in the hills at night.",
+    "exampleVi": "Người nổi loạn ẩn náu trên đồi vào ban đêm."
+  },
+  {
+    "word": "regulation",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "quy định; điều lệ",
+    "example": "The new regulation requires drivers to wear seat belts.",
+    "exampleVi": "Quy định mới yêu cầu người lái xe thắt dây an toàn."
+  },
+  {
+    "word": "relay",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "rơ-le",
+    "example": "The relay started at the beginning of the shift.",
+    "exampleVi": "Vòng lặp này bắt đầu vào đầu ca làm việc."
+  },
+  {
+    "word": "resume",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "tiếp tục lại",
+    "example": "We will resume our meeting after the short break.",
+    "exampleVi": "Chúng ta sẽ tiếp tục cuộc họp sau khoảng thời gian nghỉ ngơi ngắn này."
+  },
+  {
+    "word": "rim",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "vành (bánh xe)",
+    "example": "The rim of the wheel was bent.",
+    "exampleVi": "Vành bánh xe bị cong."
+  },
+  {
+    "word": "romance",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "chuyện tình; mối quan hệ yêu đương",
+    "example": "The novel tells the story of a summer romance.",
+    "exampleVi": "Cuốn tiểu thuyết kể về một chuyện tình mùa hè."
+  },
+  {
+    "word": "scream",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "la hét; thét lên",
+    "example": "She screamed when she saw the spider.",
+    "exampleVi": "Cô ấy hét lên khi nhìn thấy con nhện."
+  },
+  {
+    "word": "severely",
+    "sourceGroup": "reviewed",
+    "pos": "adverb",
+    "meaningVi": "nghiêm trọng; nặng nề",
+    "example": "The bridge was severely damaged by the storm.",
+    "exampleVi": "Cây cầu bị hư hại nghiêm trọng do cơn bão."
+  },
+  {
+    "word": "shrink",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "co lại; thu nhỏ",
+    "example": "This wool sweater may shrink in hot water.",
+    "exampleVi": "Chiếc áo len này có thể co lại trong nước nóng."
+  },
+  {
+    "word": "slap",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "cái tát, cái vỗ",
+    "example": "He gave his friend a friendly slap on the shoulder.",
+    "exampleVi": "Anh vỗ nhẹ vào vai người bạn của mình một cái một cách thân thiện."
+  },
+  {
+    "word": "slap",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "tát; đánh bằng lòng bàn tay",
+    "example": "She slapped him across the face.",
+    "exampleVi": "Cô ấy tát vào mặt anh ta."
+  },
+  {
+    "word": "snap",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "gãy; đứt; bẻ gãy",
+    "example": "The dry branch can snap if you bend it.",
+    "exampleVi": "Cành cây khô có thể gãy nếu bạn uốn nó."
+  },
+  {
+    "word": "snap",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "búng ngón tay",
+    "example": "You can snap your fingers to the music.",
+    "exampleVi": "Bạn có thể búng ngón tay theo nhịp nhạc."
+  },
+  {
+    "word": "solo",
+    "sourceGroup": "reviewed",
+    "pos": "adjective",
+    "meaningVi": "được thực hiện một mình",
+    "example": "The pilot completed a solo flight across the sea.",
+    "exampleVi": "Phi công hoàn thành chuyến bay một mình qua biển."
+  },
+  {
+    "word": "solo",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "đoạn độc tấu; tiết mục độc diễn",
+    "example": "Her piano solo impressed the audience.",
+    "exampleVi": "Màn độc tấu piano của cô ấy gây ấn tượng với khán giả."
+  },
+  {
+    "word": "sometime",
+    "sourceGroup": "reviewed",
+    "pos": "adverb",
+    "meaningVi": "vào lúc nào đó; một ngày nào đó",
+    "example": "We should meet sometime next week.",
+    "exampleVi": "Chúng ta nên gặp nhau vào lúc nào đó trong tuần tới."
+  },
+  {
+    "word": "spur",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "đinh thúc ngựa",
+    "example": "The rider adjusted his spur before the ride.",
+    "exampleVi": "Người cưỡi ngựa chỉnh lại chiếc đinh thúc ngựa trước khi lên đường."
+  },
+  {
+    "word": "stake",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "cọc",
+    "example": "Drive a wooden stake into the ground beside the plant.",
+    "exampleVi": "Đóng một chiếc cọc gỗ xuống đất bên cạnh cây."
+  },
+  {
+    "word": "strip",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "dải; mảnh dài",
+    "example": "Cut a narrow strip of paper.",
+    "exampleVi": "Cắt một dải giấy hẹp."
+  },
+  {
+    "word": "surplus",
+    "sourceGroup": "reviewed",
+    "pos": "adjective",
+    "meaningVi": "thừa; dư thừa",
+    "example": "The charity distributed surplus food to local families.",
+    "exampleVi": "Tổ chức từ thiện phân phát thực phẩm dư thừa cho các gia đình địa phương."
+  },
+  {
+    "word": "survival",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "sự sống sót",
+    "example": "The rescue team found signs of survival after the storm.",
+    "exampleVi": "Đội cứu hộ tìm thấy dấu hiệu có người sống sót sau cơn bão."
+  },
+  {
+    "word": "triangle",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "tam giác; hình tam giác",
+    "example": "Draw an equilateral triangle on the whiteboard.",
+    "exampleVi": "Hãy vẽ một tam giác đều lên bảng trắng."
+  },
+  {
+    "word": "unstable",
+    "sourceGroup": "reviewed",
+    "pos": "adjective",
+    "meaningVi": "không ổn định; bấp bênh",
+    "example": "The ladder is unstable on this floor.",
+    "exampleVi": "Chiếc thang không vững trên sàn này."
+  },
+  {
+    "word": "upper",
+    "sourceGroup": "reviewed",
+    "pos": "adjective",
+    "meaningVi": "trên; phía trên",
+    "example": "She injured her upper arm during the match.",
+    "exampleVi": "Cô ấy bị thương ở phần trên cánh tay trong trận đấu."
+  },
+  {
+    "word": "varied",
+    "sourceGroup": "reviewed",
+    "pos": "adjective",
+    "meaningVi": "đa dạng, nhiều loại",
+    "example": "We enjoyed a varied menu at the small cafe.",
+    "exampleVi": "Chúng tôi thưởng thức thực đơn đa dạng tại quán cà phê nhỏ."
+  },
+  {
+    "word": "waterproof",
+    "sourceGroup": "reviewed",
+    "pos": "adjective",
+    "meaningVi": "chống thấm nước; chống nước; chống thấm",
+    "example": "This waterproof bag kept my phone dry.",
+    "exampleVi": "Chiếc túi chống nước này giữ điện thoại của tôi khô ráo."
+  },
+  {
+    "word": "wit",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "trí thông minh; trí tuệ",
+    "example": "She used her wit to solve the difficult problem.",
+    "exampleVi": "Cô ấy dùng trí thông minh để giải quyết vấn đề khó."
+  },
+  {
+    "word": "wit",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "khả năng nói năng hóm hỉnh, nhanh trí",
+    "example": "Her quick wit made everyone at the table laugh.",
+    "exampleVi": "Lời hóm hỉnh nhanh trí của cô ấy làm mọi người quanh bàn cười."
+  },
+  {
+    "word": "worm",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "giun; trùn",
+    "example": "A worm wriggled through the damp soil.",
+    "exampleVi": "Một con giun ngọ nguậy trong đất ẩm."
+  },
+  {
+    "word": "affect",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "tác động tới",
+    "example": "Rising sea levels affect coastal communities first.",
+    "exampleVi": "Mực nước biển dâng tác động tới các cộng đồng ven biển trước tiên."
+  },
+  {
+    "word": "approximate",
+    "sourceGroup": "reviewed",
+    "pos": "adjective",
+    "meaningVi": "gần đúng",
+    "example": "These are approximate figures based on a small sample.",
+    "exampleVi": "Đây là những con số gần đúng dựa trên một mẫu nhỏ."
+  },
+  {
+    "word": "assign",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "giao việc cho ai",
+    "example": "Each student is assigned a supervisor in the first week.",
+    "exampleVi": "Mỗi sinh viên được phân một người hướng dẫn trong tuần đầu."
+  },
+  {
+    "word": "attribute",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "quy cho là do",
+    "example": "Researchers attribute the decline to habitat loss.",
+    "exampleVi": "Các nhà nghiên cứu quy cho sự suy giảm là do mất môi trường sống."
+  },
+  {
+    "word": "complement",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "bổ trợ cho nhau",
+    "example": "Online lessons complement rather than replace classroom teaching.",
+    "exampleVi": "Bài học trực tuyến bổ sung cho việc dạy trên lớp chứ không thay thế nó."
+  },
+  {
+    "word": "conduct",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "tiến hành một hoạt động",
+    "example": "The team conducted interviews in twelve villages.",
+    "exampleVi": "Nhóm tiến hành một hoạt động phỏng vấn tại mười hai ngôi làng."
+  },
+  {
+    "word": "construct",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "dựng nên, kiến tạo",
+    "example": "The essay constructs an argument from three case studies.",
+    "exampleVi": "Bài luận dựng nên một lập luận từ ba nghiên cứu trường hợp."
+  },
+  {
+    "word": "converse",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "điều ngược lại của mệnh đề",
+    "example": "The converse is also true in poorer regions.",
+    "exampleVi": "Điều ngược lại của mệnh đề cũng đúng ở những vùng nghèo hơn."
+  },
+  {
+    "word": "convert",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "chuyển đổi sang dạng khác",
+    "example": "The mill was converted into student accommodation.",
+    "exampleVi": "Nhà máy được chuyển đổi sang dạng khác là ký túc xá sinh viên."
+  },
+  {
+    "word": "coordinate",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "điều phối cho ăn khớp",
+    "example": "One office coordinates relief work across the province.",
+    "exampleVi": "Một văn phòng điều phối cho ăn khớp công tác cứu trợ toàn tỉnh."
+  },
+  {
+    "word": "create",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "tạo ra cái mới",
+    "example": "The scheme created six thousand jobs in two years.",
+    "exampleVi": "Đề án tạo ra sáu nghìn việc làm trong hai năm."
+  },
+  {
+    "word": "differentiate",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "phân biệt cái này với cái kia",
+    "example": "Readers must differentiate opinion from reported fact.",
+    "exampleVi": "Người đọc phải phân biệt ý kiến với sự kiện được thuật lại."
+  },
+  {
+    "word": "document",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "ghi chép lại có chứng cứ",
+    "example": "The team documented every stage of the excavation.",
+    "exampleVi": "Nhóm ghi chép lại có chứng cứ từng giai đoạn khai quật."
+  },
+  {
+    "word": "export",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "hàng xuất khẩu",
+    "example": "Coffee remains the country's largest export.",
+    "exampleVi": "Cà phê vẫn là hàng xuất khẩu lớn nhất của nước này."
+  },
+  {
+    "word": "immigrate",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "nhập cư vào một nước",
+    "example": "Her grandparents immigrated in the nineteen fifties.",
+    "exampleVi": "Ông bà của cô ấy nhập cư vào những năm 1950."
+  },
+  {
+    "word": "incidence",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "tỷ lệ xuất hiện của hiện tượng",
+    "example": "The incidence of diabetes doubled in twenty years.",
+    "exampleVi": "Tỷ lệ mắc bệnh tiểu đường tăng gấp đôi trong hai mươi năm."
+  },
+  {
+    "word": "incline",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "nghiêng về hướng nào",
+    "example": "Younger voters incline towards the smaller parties.",
+    "exampleVi": "Cử tri trẻ nghiêng về hướng các đảng nhỏ."
+  },
+  {
+    "word": "infer",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "suy đoán ra từ dấu hiệu",
+    "example": "We can infer motive only from what people actually do.",
+    "exampleVi": "Ta chỉ có thể suy ra động cơ từ những gì người ta thực sự làm."
+  },
+  {
+    "word": "insert",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "chèn vào giữa",
+    "example": "A clause was inserted to protect existing tenants.",
+    "exampleVi": "Một điều khoản được chèn vào giữa để bảo vệ người thuê hiện hữu."
+  },
+  {
+    "word": "intermediate",
+    "sourceGroup": "reviewed",
+    "pos": "adjective",
+    "meaningVi": "ở mức trung gian",
+    "example": "The course suits learners at an intermediate level.",
+    "exampleVi": "Khóa học phù hợp với người học ở trình độ trung cấp."
+  },
+  {
+    "word": "internal",
+    "sourceGroup": "reviewed",
+    "pos": "adjective",
+    "meaningVi": "nội bộ bên trong",
+    "example": "An internal review found no evidence of fraud.",
+    "exampleVi": "Một cuộc rà soát nội bộ không tìm thấy bằng chứng gian lận."
+  },
+  {
+    "word": "item",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "một mục riêng trong bảng hỏi hoặc danh sách",
+    "example": "Each item on the questionnaire was tested beforehand.",
+    "exampleVi": "Mỗi mục trong bảng hỏi đều được thử nghiệm trước."
+  },
+  {
+    "word": "job",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "công việc làm công",
+    "example": "Automation will reshape jobs rather than abolish them.",
+    "exampleVi": "Tự động hóa sẽ định hình lại các công việc chứ không xóa bỏ chúng."
+  },
+  {
+    "word": "label",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "dán nhãn gọi tên",
+    "example": "Foods must be labelled with their country of origin.",
+    "exampleVi": "Thực phẩm phải được dán nhãn ghi rõ nước xuất xứ."
+  },
+  {
+    "word": "layer",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "lớp, tầng chồng lên nhau",
+    "example": "Bureaucracy adds a layer of delay to every request.",
+    "exampleVi": "Thủ tục hành chính khiến mỗi yêu cầu bị chậm trễ thêm một bước."
+  },
+  {
+    "word": "levy",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "khoản thu bắt buộc",
+    "example": "A small levy on plastic bags cut usage by half.",
+    "exampleVi": "Một khoản phí nhỏ đối với túi nhựa đã làm giảm một nửa mức sử dụng."
+  },
+  {
+    "word": "locate",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "đặt ở một vị trí cụ thể",
+    "example": "The plant was located far from any residential area.",
+    "exampleVi": "Nhà máy được đặt cách xa mọi khu dân cư."
+  },
+  {
+    "word": "manual",
+    "sourceGroup": "reviewed",
+    "pos": "adjective",
+    "meaningVi": "làm bằng tay",
+    "example": "Manual jobs disappeared fastest in the north.",
+    "exampleVi": "Các công việc lao động chân tay biến mất nhanh nhất ở miền bắc."
+  },
+  {
+    "word": "medical",
+    "sourceGroup": "reviewed",
+    "pos": "adjective",
+    "meaningVi": "thuộc y tế",
+    "example": "Medical training takes at least six years.",
+    "exampleVi": "Việc đào tạo ngành y mất ít nhất sáu năm."
+  },
+  {
+    "word": "mental",
+    "sourceGroup": "reviewed",
+    "pos": "adjective",
+    "meaningVi": "thuộc tinh thần, tâm trí",
+    "example": "Mental health services are stretched beyond capacity.",
+    "exampleVi": "Các dịch vụ chăm sóc sức khỏe tinh thần đang quá tải."
+  },
+  {
+    "word": "military",
+    "sourceGroup": "reviewed",
+    "pos": "adjective",
+    "meaningVi": "thuộc quân sự",
+    "example": "Military spending outweighs the education budget.",
+    "exampleVi": "Chi tiêu quân sự vượt ngân sách giáo dục."
+  },
+  {
+    "word": "minimum",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "mức tối thiểu",
+    "example": "The minimum wage was raised twice in one year.",
+    "exampleVi": "Mức lương tối thiểu được nâng hai lần trong một năm."
+  },
+  {
+    "word": "ministry",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "bộ trong chính phủ",
+    "example": "The ministry publishes enrolment figures each autumn.",
+    "exampleVi": "Bộ công bố số liệu nhập học vào mỗi mùa thu."
+  },
+  {
+    "word": "notwithstanding",
+    "sourceGroup": "reviewed",
+    "pos": "preposition",
+    "meaningVi": "bất chấp điều đó",
+    "example": "Notwithstanding these limits, the study remains valuable.",
+    "exampleVi": "Bất chấp những hạn chế này, nghiên cứu vẫn có giá trị."
+  },
+  {
+    "word": "overlap",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "chồng lấn lên nhau",
+    "example": "The two categories overlap more than the chart suggests.",
+    "exampleVi": "Hai nhóm này chồng lấn lên nhau nhiều hơn biểu đồ gợi ý."
+  },
+  {
+    "word": "subordinate",
+    "sourceGroup": "reviewed",
+    "pos": "adjective",
+    "meaningVi": "phụ thuộc, cấp dưới",
+    "example": "Environmental aims remain subordinate to economic ones.",
+    "exampleVi": "Mục tiêu môi trường vẫn phụ thuộc vào mục tiêu kinh tế."
+  },
+  {
+    "word": "survey",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "cuộc khảo sát",
+    "example": "The survey covered four thousand households.",
+    "exampleVi": "Cuộc khảo sát bao phủ bốn nghìn hộ gia đình."
+  },
+  {
+    "word": "technical",
+    "sourceGroup": "reviewed",
+    "pos": "adjective",
+    "meaningVi": "thuộc kỹ thuật",
+    "example": "The report is too technical for a general audience.",
+    "exampleVi": "Báo cáo quá chuyên sâu đối với độc giả phổ thông."
+  },
+  {
+    "word": "transfer",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "chuyển giao sang nơi khác",
+    "example": "Skills learned in one job transfer poorly to another.",
+    "exampleVi": "Kỹ năng học được ở công việc này chuyển giao sang nơi khác rất kém."
+  },
+  {
+    "word": "transport",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "giao thông vận tải",
+    "example": "Public transport carries two thirds of commuters.",
+    "exampleVi": "Giao thông vận tải công cộng chở hai phần ba người đi làm."
+  },
+  {
+    "word": "whereby",
+    "sourceGroup": "reviewed",
+    "pos": "adverb",
+    "meaningVi": "theo đó thì",
+    "example": "They agreed a system whereby costs are shared equally.",
+    "exampleVi": "Họ thống nhất một cơ chế theo đó thì chi phí được chia đều."
+  },
+  {
+    "word": "increase",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "tăng, làm tăng",
+    "example": "The number of visitors increased steadily between 2010 and 2015.",
+    "exampleVi": "Số lượng khách tham quan tăng đều đặn trong giai đoạn 2010 đến 2015."
+  },
+  {
+    "word": "carbon",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "cacbon; nguyên tố hóa học có ký hiệu C",
+    "example": "Carbon is present in both diamond and graphite.",
+    "exampleVi": "Cacbon có trong cả kim cương và than chì."
+  },
+  {
+    "word": "carbon",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "giấy than; tờ giấy dùng để sao chép khi viết hoặc đánh máy",
+    "example": "Put a carbon between the two sheets before typing.",
+    "exampleVi": "Đặt một tờ giấy than giữa hai tờ giấy trước khi đánh máy."
+  },
+  {
+    "word": "community service",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "lao động công ích",
+    "example": "The court sentenced him to community service.",
+    "exampleVi": "Tòa án tuyên phạt anh ấy lao động công ích."
+  },
+  {
+    "word": "convict",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "kết án là có tội",
+    "example": "Juries convict on evidence, not on impression.",
+    "exampleVi": "Bồi thẩm đoàn kết án là có tội dựa trên bằng chứng, không dựa trên cảm tưởng."
+  },
+  {
+    "word": "graduate",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "tốt nghiệp ra trường",
+    "example": "Students graduate with debts their parents never had.",
+    "exampleVi": "Sinh viên tốt nghiệp ra trường với khoản nợ mà cha mẹ họ chưa từng gánh."
+  },
+  {
+    "word": "jury",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "bồi thẩm đoàn",
+    "example": "The jury deliberated for less than an hour.",
+    "exampleVi": "Bồi thẩm đoàn nghị án chưa tới một tiếng."
+  },
+  {
+    "word": "postgraduate",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "học viên sau đại học",
+    "example": "Most postgraduates fund their studies by teaching.",
+    "exampleVi": "Phần lớn học viên sau đại học tự trang trải việc học bằng đi dạy."
+  },
+  {
+    "word": "protest",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "cuộc biểu tình phản đối",
+    "example": "The protest drew crowds from six neighbouring towns.",
+    "exampleVi": "Cuộc biểu tình phản đối thu hút đám đông từ sáu thị trấn lân cận."
+  },
+  {
+    "word": "refugee",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "người tị nạn",
+    "example": "The camp houses refugees from four separate conflicts.",
+    "exampleVi": "Trại này chứa người tị nạn từ bốn cuộc xung đột riêng biệt."
+  },
+  {
+    "word": "upgrade",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "nâng cấp lên bản mới",
+    "example": "Users upgrade only when the old device stops working.",
+    "exampleVi": "Người dùng nâng cấp lên bản mới chỉ khi thiết bị cũ ngừng hoạt động."
+  },
+  {
+    "word": "atomic",
+    "sourceGroup": "reviewed",
+    "pos": "adjective",
+    "meaningVi": "trọn vẹn, không thể bị cắt ngang",
+    "example": "The update must be atomic.",
+    "exampleVi": "Lần cập nhật đó phải trọn vẹn, không được cắt ngang."
+  },
+  {
+    "word": "atomic",
+    "sourceGroup": "reviewed",
+    "pos": "adjective",
+    "meaningVi": "thuộc nguyên tử",
+    "example": "Atomic energy can generate electricity.",
+    "exampleVi": "Năng lượng nguyên tử có thể tạo ra điện."
+  },
+  {
+    "word": "bulkhead",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "vách ngăn tài nguyên để lỗi không lan",
+    "example": "Bulkheads keep one slow call from sinking the service.",
+    "exampleVi": "Vách ngăn giữ cho một lời gọi chậm không kéo sập cả dịch vụ."
+  },
+  {
+    "word": "bulkhead",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "vách ngăn bên trong tàu hoặc máy bay",
+    "example": "A steel bulkhead separates the ship's compartments.",
+    "exampleVi": "Một vách ngăn thép chia các khoang của tàu."
+  },
+  {
+    "word": "circuit breaker",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "cầu dao ngắt gọi dịch vụ đang hỏng",
+    "example": "The circuit breaker opened after ten failures.",
+    "exampleVi": "Cầu dao ngắt sau mười lần gọi lỗi."
+  },
+  {
+    "word": "circuit breaker",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "cầu dao tự động ngắt điện khi có sự cố",
+    "example": "The circuit breaker cut the power to the damaged cable.",
+    "exampleVi": "Cầu dao tự động ngắt điện tới dây cáp bị hỏng."
+  },
+  {
+    "word": "closure",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "hàm giữ lại biến ở phạm vi ngoài",
+    "example": "The closure captured the wrong variable.",
+    "exampleVi": "Hàm đó giữ nhầm biến bên ngoài."
+  },
+  {
+    "word": "closure",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "sự đóng cửa hoặc chấm dứt hoạt động",
+    "example": "The factory closure left many workers without jobs.",
+    "exampleVi": "Việc đóng cửa nhà máy khiến nhiều công nhân mất việc."
+  },
+  {
+    "word": "cohesion",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "mức gắn kết bên trong một module",
+    "example": "High cohesion keeps modules readable.",
+    "exampleVi": "Gắn kết cao giúp module dễ đọc."
+  },
+  {
+    "word": "cohesion",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "sự đoàn kết, gắn bó của một nhóm",
+    "example": "Shared goals strengthened cohesion within the team.",
+    "exampleVi": "Mục tiêu chung củng cố sự đoàn kết trong đội."
+  },
+  {
+    "word": "cold start",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "lần chạy đầu chậm do chưa sẵn sàng",
+    "example": "Cold start adds two seconds.",
+    "exampleVi": "Lần chạy đầu cộng thêm hai giây."
+  },
+  {
+    "word": "cold start",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "việc khởi động động cơ khi còn nguội",
+    "example": "The engine struggled during a cold start on a winter morning.",
+    "exampleVi": "Động cơ khó khởi động khi còn nguội vào một sáng mùa đông."
+  },
+  {
+    "word": "consensus",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "sự đồng thuận (giữa các node)",
+    "example": "The cluster reaches consensus before committing.",
+    "exampleVi": "Cụm máy đạt đồng thuận trước khi ghi nhận."
+  },
+  {
+    "word": "consensus",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "sự nhất trí chung của một nhóm người",
+    "example": "The committee reached a consensus on the new policy.",
+    "exampleVi": "Ủy ban đạt được sự nhất trí về chính sách mới."
+  },
+  {
+    "word": "coupling",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "mức phụ thuộc lẫn nhau giữa các phần",
+    "example": "Tight coupling made the change risky.",
+    "exampleVi": "Phụ thuộc chặt khiến thay đổi trở nên rủi ro."
+  },
+  {
+    "word": "coupling",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "bộ phận nối hai chi tiết cơ khí",
+    "example": "The mechanic replaced the coupling between the two shafts.",
+    "exampleVi": "Thợ máy thay khớp nối giữa hai trục."
+  },
+  {
+    "word": "drain",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "rút hết việc còn lại trước khi tắt",
+    "example": "Drain the node before the upgrade.",
+    "exampleVi": "Rút hết việc khỏi node trước khi nâng cấp."
+  },
+  {
+    "word": "drain",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "rút hoặc làm chảy hết chất lỏng",
+    "example": "Drain the water from the sink.",
+    "exampleVi": "Xả hết nước trong bồn rửa."
+  },
+  {
+    "word": "drift",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "hạ tầng thực lệch khỏi khai báo",
+    "example": "The plan revealed config drift.",
+    "exampleVi": "Bản kế hoạch lộ ra phần cấu hình đã lệch."
+  },
+  {
+    "word": "drift",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "trôi dạt theo gió hoặc dòng nước",
+    "example": "The small boat began to drift away from the shore.",
+    "exampleVi": "Chiếc thuyền nhỏ bắt đầu trôi xa bờ."
+  },
+  {
+    "word": "edge",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "máy chủ biên, gần người dùng nhất",
+    "example": "The edge serves the file from Singapore.",
+    "exampleVi": "Máy chủ biên phục vụ file đó từ Singapore."
+  },
+  {
+    "word": "edge",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "mép hoặc cạnh của một vật",
+    "example": "Do not place the glass near the edge of the table.",
+    "exampleVi": "Đừng đặt chiếc cốc gần mép bàn."
+  },
+  {
+    "word": "encapsulation",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "đóng gói, giấu chi tiết bên trong",
+    "example": "Encapsulation hides the storage format.",
+    "exampleVi": "Việc đóng gói giấu đi định dạng lưu trữ."
+  },
+  {
+    "word": "encapsulation",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "sự bao bọc một chất trong lớp vỏ hoặc viên nang",
+    "example": "Encapsulation protects the ingredient inside a thin coating.",
+    "exampleVi": "Việc bao bọc bảo vệ thành phần bên trong một lớp phủ mỏng."
+  },
+  {
+    "word": "fixture",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "dữ liệu dựng sẵn cho test",
+    "example": "Load the fixture before each case.",
+    "exampleVi": "Nạp dữ liệu dựng sẵn trước mỗi ca kiểm thử."
+  },
+  {
+    "word": "fixture",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "vật được gắn cố định trong nhà hoặc công trình",
+    "example": "The plumber installed a new bathroom fixture.",
+    "exampleVi": "Thợ sửa ống nước lắp một thiết bị cố định mới trong phòng tắm."
+  },
+  {
+    "word": "handshake",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "bắt tay thiết lập kết nối bảo mật",
+    "example": "The TLS handshake failed twice.",
+    "exampleVi": "Bước bắt tay TLS thất bại hai lần."
+  },
+  {
+    "word": "handshake",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "cái bắt tay khi chào hỏi hoặc thỏa thuận",
+    "example": "They greeted each other with a firm handshake.",
+    "exampleVi": "Họ chào nhau bằng một cái bắt tay chắc chắn."
+  },
+  {
+    "word": "heartbeat",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "tín hiệu báo còn sống định kỳ",
+    "example": "Miss three heartbeats and the node is dropped.",
+    "exampleVi": "Trượt ba tín hiệu báo sống là node bị loại."
+  },
+  {
+    "word": "heartbeat",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "nhịp đập của tim",
+    "example": "She could hear her own heartbeat in the quiet room.",
+    "exampleVi": "Cô ấy nghe được nhịp tim của mình trong căn phòng yên tĩnh."
+  },
+  {
+    "word": "injection",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "chèn lệnh độc vào câu truy vấn",
+    "example": "Parameterized queries prevent injection.",
+    "exampleVi": "Truy vấn tham số hoá ngăn được chèn lệnh độc."
+  },
+  {
+    "word": "injection",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "mũi tiêm; việc đưa thuốc vào cơ thể bằng kim tiêm",
+    "example": "The nurse gave him an injection.",
+    "exampleVi": "Y tá tiêm cho anh ấy một mũi."
+  },
+  {
+    "word": "jitter",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "xê dịch ngẫu nhiên để tránh dồn cục",
+    "example": "Jitter spreads the retries out.",
+    "exampleVi": "Xê dịch ngẫu nhiên giúp các lần thử lại giãn ra."
+  },
+  {
+    "word": "jitter",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "rung hoặc chuyển động nhanh, không đều",
+    "example": "The loose wheel began to jitter on the rough road.",
+    "exampleVi": "Bánh xe lỏng bắt đầu rung trên con đường gồ ghề."
+  },
+  {
+    "word": "lag",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "độ trễ đồng bộ",
+    "example": "Replication lag hit nine seconds.",
+    "exampleVi": "Độ trễ đồng bộ lên tới chín giây."
+  },
+  {
+    "word": "lag",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "tụt lại phía sau, tiến chậm hơn người khác",
+    "example": "The tired runner began to lag behind the group.",
+    "exampleVi": "Vận động viên mệt mỏi bắt đầu tụt lại phía sau nhóm."
+  },
+  {
+    "word": "monolith",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "khối ứng dụng gộp chung",
+    "example": "We split the monolith last year.",
+    "exampleVi": "Chúng tôi tách khối gộp chung từ năm ngoái."
+  },
+  {
+    "word": "monolith",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "khối đá lớn nguyên khối",
+    "example": "An ancient monolith stands beside the path.",
+    "exampleVi": "Một khối đá cổ lớn đứng bên lối đi."
+  },
+  {
+    "word": "nonce",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "giá trị chỉ dùng một lần",
+    "example": "Each request carries a fresh nonce.",
+    "exampleVi": "Mỗi yêu cầu mang một giá trị dùng một lần mới."
+  },
+  {
+    "word": "nonce",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "thời điểm hiện tại (trong cụm for the nonce, cách dùng trang trọng hoặc cũ)",
+    "example": "For the nonce, we will keep the current arrangement.",
+    "exampleVi": "Tạm thời, chúng ta sẽ giữ cách sắp xếp hiện tại."
+  },
+  {
+    "word": "normalization",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "chuẩn hoá cấu trúc bảng",
+    "example": "Normalization removed the duplicated columns.",
+    "exampleVi": "Việc chuẩn hoá loại bỏ các cột lặp."
+  },
+  {
+    "word": "normalization",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "việc đưa quan hệ hoặc tình trạng trở lại bình thường",
+    "example": "The talks led to the normalization of relations between the countries.",
+    "exampleVi": "Các cuộc đàm phán dẫn tới việc bình thường hóa quan hệ giữa các nước."
+  },
+  {
+    "word": "paging",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "gọi người trực dậy xử lý sự cố",
+    "example": "Stop paging for non-urgent warnings.",
+    "exampleVi": "Đừng gọi người trực vì những cảnh báo không gấp."
+  },
+  {
+    "word": "paging",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "phân trang bộ nhớ; chuyển các trang dữ liệu giữa RAM và đĩa",
+    "example": "Paging moves memory pages between RAM and disk.",
+    "exampleVi": "Phân trang chuyển các trang bộ nhớ giữa RAM và đĩa."
+  },
+  {
+    "word": "partition",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "phân vùng dữ liệu",
+    "example": "Each partition holds one month of logs.",
+    "exampleVi": "Mỗi phân vùng chứa nhật ký của một tháng."
+  },
+  {
+    "word": "partition",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "vách ngăn chia một căn phòng",
+    "example": "A wooden partition divides the office into two rooms.",
+    "exampleVi": "Một vách ngăn gỗ chia văn phòng thành hai phòng."
+  },
+  {
+    "word": "polymorphism",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "đa hình, một lời gọi nhiều cách hiện thực",
+    "example": "Polymorphism removed the long switch.",
+    "exampleVi": "Tính đa hình loại bỏ được khối switch dài."
+  },
+  {
+    "word": "polymorphism",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "sự tồn tại nhiều dạng hình thái trong cùng một loài (sinh học)",
+    "example": "The different shell colours illustrate polymorphism in this snail species.",
+    "exampleVi": "Các màu vỏ khác nhau minh họa tính đa hình ở loài ốc này."
+  },
+  {
+    "word": "purge",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "xoá sạch cache ở CDN",
+    "example": "Purge the CDN after each release.",
+    "exampleVi": "Xoá sạch cache CDN sau mỗi lần phát hành."
+  },
+  {
+    "word": "purge",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "thanh trừng; loại bỏ người khỏi một tổ chức",
+    "example": "The leader tried to purge his opponents from the party.",
+    "exampleVi": "Người lãnh đạo tìm cách thanh trừng các đối thủ khỏi đảng."
+  },
+  {
+    "word": "quorum",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "số node tối thiểu để quyết định",
+    "example": "Writes need a quorum of three nodes.",
+    "exampleVi": "Mỗi lần ghi cần đủ ba node tán thành."
+  },
+  {
+    "word": "quorum",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "số thành viên tối thiểu cần có để cuộc họp ra quyết định hợp lệ",
+    "example": "The committee cannot vote without a quorum.",
+    "exampleVi": "Ủy ban không thể biểu quyết nếu chưa đủ số thành viên tối thiểu."
+  },
+  {
+    "word": "round robin",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "chia lượt xoay vòng",
+    "example": "Requests are spread round robin.",
+    "exampleVi": "Yêu cầu được chia xoay vòng đều nhau."
+  },
+  {
+    "word": "round robin",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "giải đấu vòng tròn, mỗi người hoặc đội gặp tất cả đối thủ",
+    "example": "The teams will compete in a round robin before the final.",
+    "exampleVi": "Các đội sẽ thi đấu vòng tròn trước trận chung kết."
+  },
+  {
+    "word": "saga",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "chuỗi giao dịch có bước hoàn tác",
+    "example": "The order flow is a saga with three steps.",
+    "exampleVi": "Luồng đặt hàng là một chuỗi giao dịch ba bước."
+  },
+  {
+    "word": "saga",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "câu chuyện dài về nhiều sự kiện hoặc thế hệ",
+    "example": "The novel is a family saga spanning three generations.",
+    "exampleVi": "Cuốn tiểu thuyết là câu chuyện gia đình kéo dài qua ba thế hệ."
+  },
+  {
+    "word": "sanitization",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "làm sạch dữ liệu đầu vào",
+    "example": "Input sanitization happens at the edge.",
+    "exampleVi": "Việc làm sạch đầu vào diễn ra ở lớp ngoài cùng."
+  },
+  {
+    "word": "sanitization",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "việc làm sạch, khử khuẩn",
+    "example": "The kitchen closed briefly for sanitization.",
+    "exampleVi": "Nhà bếp đóng cửa trong thời gian ngắn để làm sạch và khử khuẩn."
+  },
+  {
+    "word": "semaphore",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "bộ đếm giới hạn số luồng vào cùng lúc",
+    "example": "A semaphore caps it at ten workers.",
+    "exampleVi": "Một bộ đếm giới hạn nó ở mười luồng."
+  },
+  {
+    "word": "semaphore",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "hệ thống truyền tín hiệu bằng vị trí của cờ hoặc cánh tay",
+    "example": "The sailor sent a semaphore message using two flags.",
+    "exampleVi": "Thủy thủ truyền một thông điệp bằng tín hiệu cờ với hai lá cờ."
+  },
+  {
+    "word": "side effect",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "tác dụng phụ ngoài giá trị trả về",
+    "example": "Keep the function free of side effects.",
+    "exampleVi": "Giữ cho hàm không có tác dụng phụ."
+  },
+  {
+    "word": "side effect",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "tác dụng phụ không mong muốn của thuốc hoặc phương pháp điều trị",
+    "example": "Drowsiness is a possible side effect of this medicine.",
+    "exampleVi": "Buồn ngủ là một tác dụng phụ có thể xảy ra của thuốc này."
+  },
+  {
+    "word": "sidecar",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "container phụ chạy kèm container chính",
+    "example": "Logging runs in a sidecar.",
+    "exampleVi": "Việc ghi nhật ký chạy trong container phụ."
+  },
+  {
+    "word": "sidecar",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "thùng xe gắn bên cạnh xe máy",
+    "example": "The passenger sat in the motorcycle's sidecar.",
+    "exampleVi": "Hành khách ngồi trong thùng xe bên cạnh xe máy."
+  },
+  {
+    "word": "span",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "một đoạn công việc trong truy vết",
+    "example": "That span took 900 milliseconds.",
+    "exampleVi": "Đoạn đó mất 900 mili giây."
+  },
+  {
+    "word": "span",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "khoảng thời gian kéo dài giữa hai mốc",
+    "example": "The project was completed over a span of six months.",
+    "exampleVi": "Dự án được hoàn thành trong khoảng thời gian sáu tháng."
+  },
+  {
+    "word": "starvation",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "luồng bị bỏ đói, không tới lượt",
+    "example": "Low priority jobs suffered starvation.",
+    "exampleVi": "Các việc ưu tiên thấp bị bỏ đói."
+  },
+  {
+    "word": "starvation",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "tình trạng thiếu thức ăn nghiêm trọng; sự chết đói",
+    "example": "Food deliveries helped prevent starvation during the drought.",
+    "exampleVi": "Các chuyến giao thực phẩm giúp ngăn nạn đói trong đợt hạn hán."
+  },
+  {
+    "word": "supply chain",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "chuỗi cung ứng phần mềm",
+    "example": "Audit the software supply chain quarterly.",
+    "exampleVi": "Rà soát chuỗi cung ứng phần mềm mỗi quý."
+  },
+  {
+    "word": "supply chain",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "chuỗi các đơn vị và công đoạn đưa hàng hóa tới người tiêu dùng",
+    "example": "A delay at the port disrupted the food supply chain.",
+    "exampleVi": "Sự chậm trễ ở cảng làm gián đoạn chuỗi cung ứng thực phẩm."
+  },
+  {
+    "word": "throttling",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "bóp tốc độ để giữ hệ thống sống",
+    "example": "Throttling kicked in at a thousand requests.",
+    "exampleVi": "Cơ chế bóp tốc độ kích hoạt ở mức một nghìn yêu cầu."
+  },
+  {
+    "word": "throttling",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "hành động bóp cổ, siết cổ",
+    "example": "The detective investigated an attempted throttling.",
+    "exampleVi": "Thám tử điều tra một vụ mưu toan bóp cổ."
+  },
+  {
+    "word": "toil",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "việc tay chân lặp đi lặp lại, đáng tự động hoá",
+    "example": "Automate the toil out of on-call.",
+    "exampleVi": "Tự động hoá bớt việc tay chân trong ca trực."
+  },
+  {
+    "word": "toil",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "làm việc nặng nhọc trong thời gian dài",
+    "example": "They toil in the fields from dawn until sunset.",
+    "exampleVi": "Họ làm việc vất vả ngoài đồng từ bình minh đến hoàng hôn."
+  },
+  {
+    "word": "warm-up",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "giai đoạn làm nóng trước khi nhận tải",
+    "example": "Give the pool a short warm-up.",
+    "exampleVi": "Cho bể kết nối một khoảng làm nóng ngắn."
+  },
+  {
+    "word": "warm-up",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "bài khởi động trước khi vận động hoặc thi đấu",
+    "example": "The players completed a short warm-up before the match.",
+    "exampleVi": "Các cầu thủ thực hiện bài khởi động ngắn trước trận đấu."
+  },
+  {
+    "word": "advocate",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "ủng hộ, cổ vũ",
+    "example": "She advocates shorter working hours.",
+    "exampleVi": "Cô ấy ủng hộ giờ làm ngắn hơn."
+  },
+  {
+    "word": "aggregate",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "tổng hợp",
+    "example": "We aggregate the data by month.",
+    "exampleVi": "Chúng tôi tổng hợp dữ liệu theo tháng."
+  },
+  {
+    "word": "appropriate",
+    "sourceGroup": "reviewed",
+    "pos": "adjective",
+    "meaningVi": "phù hợp, thích đáng",
+    "example": "That shirt is not appropriate for a wedding.",
+    "exampleVi": "Cái áo đó không phù hợp cho đám cưới."
+  },
+  {
+    "word": "articulate",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "diễn đạt rõ ràng",
+    "example": "He articulated his concerns clearly.",
+    "exampleVi": "Anh ấy diễn đạt rõ ràng những lo ngại của mình."
+  },
+  {
+    "word": "associate",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "liên tưởng, gắn với",
+    "example": "I associate that smell with my childhood.",
+    "exampleVi": "Tôi liên tưởng mùi đó với tuổi thơ mình."
+  },
+  {
+    "word": "balance",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "sự cân bằng",
+    "example": "It is hard to find a balance between work and family.",
+    "exampleVi": "Thật khó tìm được sự cân bằng giữa công việc và gia đình."
+  },
+  {
+    "word": "balance",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "số dư tài khoản",
+    "example": "Check your account balance first.",
+    "exampleVi": "Kiểm tra số dư tài khoản trước đã."
+  },
+  {
+    "word": "balance",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "cân đối, giữ thăng bằng",
+    "example": "We must balance speed and quality.",
+    "exampleVi": "Phải cân đối giữa tốc độ và chất lượng."
+  },
+  {
+    "word": "combine",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "kết hợp",
+    "example": "Combine the flour and the eggs.",
+    "exampleVi": "Trộn bột và trứng lại với nhau."
+  },
+  {
+    "word": "conflict",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "xung đột (khi hợp nhất mã)",
+    "example": "I have to resolve a merge conflict.",
+    "exampleVi": "Tôi phải xử lý một xung đột khi merge."
+  },
+  {
+    "word": "contract",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "hợp đồng",
+    "example": "The contract expires in December.",
+    "exampleVi": "Hợp đồng hết hạn vào tháng Mười Hai."
+  },
+  {
+    "word": "contract",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "co lại, thu nhỏ",
+    "example": "Metal contracts when it cools.",
+    "exampleVi": "Kim loại co lại khi nguội."
+  },
+  {
+    "word": "contract",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "nhiễm (bệnh)",
+    "example": "He contracted the flu last week.",
+    "exampleVi": "Anh ấy nhiễm cúm tuần trước."
+  },
+  {
+    "word": "contrast",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "sự tương phản",
+    "example": "There is a sharp contrast between them.",
+    "exampleVi": "Có sự tương phản rõ rệt giữa họ."
+  },
+  {
+    "word": "contrast",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "đối chiếu, so sánh",
+    "example": "Contrast this quarter with the last.",
+    "exampleVi": "Đối chiếu quý này với quý trước."
+  },
+  {
+    "word": "decrease",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "giảm",
+    "example": "Sales decreased sharply last quarter.",
+    "exampleVi": "Doanh số giảm mạnh trong quý trước."
+  },
+  {
+    "word": "delegate",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "uỷ quyền, giao việc",
+    "example": "A good manager knows how to delegate.",
+    "exampleVi": "Quản lý giỏi biết cách giao việc."
+  },
+  {
+    "word": "delegate",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "đại biểu",
+    "example": "Each office sent one delegate.",
+    "exampleVi": "Mỗi văn phòng cử một đại biểu."
+  },
+  {
+    "word": "deliberate",
+    "sourceGroup": "reviewed",
+    "pos": "adjective",
+    "meaningVi": "có chủ ý",
+    "example": "It was a deliberate insult.",
+    "exampleVi": "Đó là một lời xúc phạm có chủ ý."
+  },
+  {
+    "word": "elaborate",
+    "sourceGroup": "reviewed",
+    "pos": "adjective",
+    "meaningVi": "cầu kỳ, chi tiết",
+    "example": "They made elaborate preparations.",
+    "exampleVi": "Họ chuẩn bị rất cầu kỳ."
+  },
+  {
+    "word": "elaborate",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "nói rõ thêm, khai triển",
+    "example": "Could you elaborate on that point?",
+    "exampleVi": "Bạn nói rõ thêm ý đó được không?"
+  },
+  {
+    "word": "estimate",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "ước tính",
+    "example": "We estimate the cost at two million.",
+    "exampleVi": "Chúng tôi ước tính chi phí khoảng hai triệu."
+  },
+  {
+    "word": "exploit",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "khai thác, bóc lột",
+    "example": "Some companies exploit cheap labour.",
+    "exampleVi": "Một số công ty bóc lột lao động giá rẻ."
+  },
+  {
+    "word": "extract",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "trích xuất, nhổ",
+    "example": "The dentist extracted two teeth.",
+    "exampleVi": "Nha sĩ nhổ hai chiếc răng."
+  },
+  {
+    "word": "frequent",
+    "sourceGroup": "reviewed",
+    "pos": "adjective",
+    "meaningVi": "thường xuyên",
+    "example": "He is a frequent visitor to Japan.",
+    "exampleVi": "Anh ấy là khách thường xuyên của Nhật Bản."
+  },
+  {
+    "word": "implement",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "triển khai",
+    "example": "We will implement the changes in June.",
+    "exampleVi": "Chúng tôi sẽ triển khai các thay đổi vào tháng Sáu."
+  },
+  {
+    "word": "interrupt",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "ngắt lời, làm gián đoạn",
+    "example": "Sorry to interrupt, but it is urgent.",
+    "exampleVi": "Xin lỗi vì ngắt lời, nhưng việc này gấp."
+  },
+  {
+    "word": "legitimate",
+    "sourceGroup": "reviewed",
+    "pos": "adjective",
+    "meaningVi": "chính đáng, hợp pháp",
+    "example": "That is a legitimate concern.",
+    "exampleVi": "Đó là một mối lo chính đáng."
+  },
+  {
+    "word": "mediate",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "hoà giải",
+    "example": "A third party mediated the dispute.",
+    "exampleVi": "Một bên thứ ba đã hoà giải tranh chấp."
+  },
+  {
+    "word": "moderate",
+    "sourceGroup": "reviewed",
+    "pos": "adjective",
+    "meaningVi": "vừa phải, ôn hoà",
+    "example": "Drink alcohol in moderate amounts.",
+    "exampleVi": "Hãy uống rượu ở mức vừa phải."
+  },
+  {
+    "word": "moderate",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "điều phối, kiểm duyệt",
+    "example": "She moderates the forum.",
+    "exampleVi": "Cô ấy kiểm duyệt diễn đàn."
+  },
+  {
+    "word": "offset",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "bù đắp, bù trừ",
+    "example": "Higher sales offset the extra costs.",
+    "exampleVi": "Doanh số cao hơn bù đắp cho chi phí phát sinh."
+  },
+  {
+    "word": "offset",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "độ lệch, khoảng dịch",
+    "example": "Set the offset to zero.",
+    "exampleVi": "Đặt độ lệch về không."
+  },
+  {
+    "word": "outlier",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "điểm dị biệt",
+    "example": "Remove the outliers before averaging.",
+    "exampleVi": "Hãy loại điểm dị biệt trước khi lấy trung bình."
+  },
+  {
+    "word": "outlier",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "người hoặc trường hợp khác biệt rõ rệt với số đông",
+    "example": "As the only artist in a family of engineers, she was an outlier.",
+    "exampleVi": "Là nghệ sĩ duy nhất trong gia đình toàn kỹ sư, cô ấy là một trường hợp khác biệt."
+  },
+  {
+    "word": "progress",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "tiến bộ",
+    "example": "She is making good progress in maths.",
+    "exampleVi": "Cô bé đang tiến bộ tốt môn toán."
+  },
+  {
+    "word": "prospect",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "khách hàng triển vọng",
+    "example": "He is a serious prospect.",
+    "exampleVi": "Anh ấy là một khách hàng triển vọng thật sự."
+  },
+  {
+    "word": "refuse",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "từ chối",
+    "example": "She refused to answer the question.",
+    "exampleVi": "Cô ấy từ chối trả lời câu hỏi."
+  },
+  {
+    "word": "reject",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "từ chối, bác bỏ",
+    "example": "They rejected our offer.",
+    "exampleVi": "Họ đã bác bỏ đề nghị của chúng tôi."
+  },
+  {
+    "word": "segment",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "phân khúc",
+    "example": "This segment spends the most.",
+    "exampleVi": "Phân khúc này chi tiêu nhiều nhất."
+  },
+  {
+    "word": "separate",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "tách ra",
+    "example": "Separate the eggs from the flour.",
+    "exampleVi": "Tách trứng khỏi bột."
+  },
+  {
+    "word": "suspect",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "nghi ngờ",
+    "example": "I suspect he is not telling the truth.",
+    "exampleVi": "Tôi nghi anh ta không nói thật."
+  },
+  {
+    "word": "suspect",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "nghi phạm",
+    "example": "Police released the suspect.",
+    "exampleVi": "Cảnh sát thả nghi phạm."
+  },
+  {
+    "word": "transfer",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "chuyển, chuyển khoản",
+    "example": "He transferred the money yesterday.",
+    "exampleVi": "Anh ấy đã chuyển tiền hôm qua."
+  },
+  {
+    "word": "transfer",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "vụ chuyển nhượng (cầu thủ)",
+    "example": "The transfer window closes soon.",
+    "exampleVi": "Kỳ chuyển nhượng sắp đóng."
+  }
+]

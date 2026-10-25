@@ -1,0 +1,46 @@
+{
+  "mother-in-law": {
+    "word": "mothers-in-law",
+    "ipa": "/ˈmʌðərz ɪn lɔ/"
+  },
+  "father-in-law": {
+    "word": "fathers-in-law",
+    "ipa": "/ˈfɑðərz ɪn lɔ/"
+  },
+  "son-in-law": {
+    "word": "sons-in-law",
+    "ipa": "/ˈsʌnz ɪn lɔ/"
+  },
+  "daughter-in-law": {
+    "word": "daughters-in-law",
+    "ipa": "/ˈdɔtərz ɪn lɔ/"
+  },
+  "brother-in-law": {
+    "word": "brothers-in-law",
+    "ipa": "/ˈbrʌðərz ɪn lɔ/"
+  },
+  "sister-in-law": {
+    "word": "sisters-in-law",
+    "ipa": "/ˈsɪstərz ɪn lɔ/"
+  },
+  "half-brother": {
+    "word": "half-brothers",
+    "ipa": "/ˈhæf brʌðərz/"
+  },
+  "calf": {
+    "word": "calves",
+    "ipa": "/kævz/"
+  },
+  "child": {
+    "word": "children",
+    "ipa": "/ˈtʃɪldrən/"
+  },
+  "wife": {
+    "word": "wives",
+    "ipa": "/waɪvz/"
+  },
+  "grandchild": {
+    "word": "grandchildren",
+    "ipa": "/ˈɡræntʃɪldrən/"
+  }
+}

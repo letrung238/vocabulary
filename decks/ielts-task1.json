@@ -550,6 +550,685 @@
         ],
         "ipa": "/ˈfɑɫən/"
       }
+    ],
+    "phrases": [
+      {
+        "word": "fall down",
+        "pos": "verb",
+        "ipa": "/fɔːl daʊn/",
+        "meaningVi": "ngã xuống",
+        "example": "Small children often fall down while learning to walk.",
+        "exampleVi": "Trẻ nhỏ thường bị ngã khi tập đi.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "falls down",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/fɔːlz daʊn/"
+          },
+          {
+            "word": "falling down",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/fɔːlɪŋ daʊn/"
+          },
+          {
+            "word": "fell down",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈfɛɫ daʊn/"
+          },
+          {
+            "word": "fallen down",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈfɑɫən daʊn/"
+          }
+        ]
+      },
+      {
+        "word": "fall over",
+        "pos": "verb",
+        "ipa": "/fɔːl ˈoʊvər/",
+        "meaningVi": "mất thăng bằng rồi ngã",
+        "example": "The vase could fall over in the wind.",
+        "exampleVi": "Chiếc bình có thể đổ vì gió.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "falls over",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/fɔːlz ˈoʊvər/"
+          },
+          {
+            "word": "falling over",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/fɔːlɪŋ ˈoʊvər/"
+          },
+          {
+            "word": "fell over",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈfɛɫ ˈoʊvər/"
+          },
+          {
+            "word": "fallen over",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈfɑɫən ˈoʊvər/"
+          }
+        ]
+      },
+      {
+        "word": "fall off",
+        "pos": "verb",
+        "ipa": "/fɔːl ɔːf/",
+        "meaningVi": "rơi khỏi một vật hoặc một bề mặt",
+        "example": "The wheel might fall off without that bolt.",
+        "exampleVi": "Bánh xe có thể rời ra nếu thiếu bu lông đó.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "falls off",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/fɔːlz ɔːf/"
+          },
+          {
+            "word": "falling off",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/fɔːlɪŋ ɔːf/"
+          },
+          {
+            "word": "fell off",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈfɛɫ ɔːf/"
+          },
+          {
+            "word": "fallen off",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈfɑɫən ɔːf/"
+          }
+        ]
+      },
+      {
+        "word": "fall out",
+        "pos": "verb",
+        "ipa": "/fɔːl aʊt/",
+        "meaningVi": "cãi nhau rồi mất hòa khí",
+        "example": "The brothers often fall out over money.",
+        "exampleVi": "Hai anh em thường bất hòa vì tiền.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "falls out",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/fɔːlz aʊt/"
+          },
+          {
+            "word": "falling out",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/fɔːlɪŋ aʊt/"
+          },
+          {
+            "word": "fell out",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈfɛɫ aʊt/"
+          },
+          {
+            "word": "fallen out",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈfɑɫən aʊt/"
+          }
+        ]
+      },
+      {
+        "word": "fall behind",
+        "pos": "verb",
+        "ipa": "/fɔːl bɪˈhaɪnd/",
+        "meaningVi": "tụt lại; không theo kịp tiến độ",
+        "example": "She does not want to fall behind in class.",
+        "exampleVi": "Cô ấy không muốn học chậm hơn các bạn.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "falls behind",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/fɔːlz bɪˈhaɪnd/"
+          },
+          {
+            "word": "falling behind",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/fɔːlɪŋ bɪˈhaɪnd/"
+          },
+          {
+            "word": "fell behind",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈfɛɫ bɪˈhaɪnd/"
+          },
+          {
+            "word": "fallen behind",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈfɑɫən bɪˈhaɪnd/"
+          }
+        ]
+      },
+      {
+        "word": "fall apart",
+        "pos": "verb",
+        "ipa": "/fɔːl əˈpɑːrt/",
+        "meaningVi": "rời ra; mất sự vững chắc",
+        "example": "The old shoes began to fall apart.",
+        "exampleVi": "Đôi giày cũ bắt đầu bung ra.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "falls apart",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/fɔːlz əˈpɑːrt/"
+          },
+          {
+            "word": "falling apart",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/fɔːlɪŋ əˈpɑːrt/"
+          },
+          {
+            "word": "fell apart",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈfɛɫ əˈpɑːrt/"
+          },
+          {
+            "word": "fallen apart",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈfɑɫən əˈpɑːrt/"
+          }
+        ]
+      },
+      {
+        "word": "fall through",
+        "pos": "verb",
+        "ipa": "/fɔːl θruː/",
+        "meaningVi": "không thành công như dự kiến",
+        "example": "The sale could fall through at the last minute.",
+        "exampleVi": "Việc mua bán có thể đổ vỡ vào phút chót.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "falls through",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/fɔːlz θruː/"
+          },
+          {
+            "word": "falling through",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/fɔːlɪŋ θruː/"
+          },
+          {
+            "word": "fell through",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈfɛɫ θruː/"
+          },
+          {
+            "word": "fallen through",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈfɑɫən θruː/"
+          }
+        ]
+      },
+      {
+        "word": "fall back",
+        "pos": "verb",
+        "ipa": "/fɔːl bæk/",
+        "meaningVi": "rút lui về vị trí phía sau",
+        "example": "The tired runners began to fall back.",
+        "exampleVi": "Những người chạy mệt bắt đầu tụt lại phía sau.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "falls back",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/fɔːlz bæk/"
+          },
+          {
+            "word": "falling back",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/fɔːlɪŋ bæk/"
+          },
+          {
+            "word": "fell back",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈfɛɫ bæk/"
+          },
+          {
+            "word": "fallen back",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈfɑɫən bæk/"
+          }
+        ]
+      },
+      {
+        "word": "fall for",
+        "pos": "verb",
+        "ipa": "/fɔːl fər/",
+        "meaningVi": "tin nhầm điều được dùng để lừa",
+        "example": "Do not fall for that obvious trick.",
+        "exampleVi": "Đừng mắc mưu lừa quá rõ đó.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "falls for",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/fɔːlz fər/"
+          },
+          {
+            "word": "falling for",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/fɔːlɪŋ fər/"
+          },
+          {
+            "word": "fell for",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈfɛɫ fər/"
+          },
+          {
+            "word": "fallen for",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈfɑɫən fər/"
+          }
+        ]
+      },
+      {
+        "word": "fall into",
+        "pos": "verb",
+        "ipa": "/fɔːl ˈɪntuː/",
+        "meaningVi": "rơi vào một tình trạng, thường không tốt",
+        "example": "It is easy to fall into bad habits.",
+        "exampleVi": "Rất dễ sa vào những thói quen xấu.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "falls into",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/fɔːlz ˈɪntuː/"
+          },
+          {
+            "word": "falling into",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/fɔːlɪŋ ˈɪntuː/"
+          },
+          {
+            "word": "fell into",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈfɛɫ ˈɪntuː/"
+          },
+          {
+            "word": "fallen into",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈfɑɫən ˈɪntuː/"
+          }
+        ]
+      },
+      {
+        "word": "fall on",
+        "pos": "verb",
+        "ipa": "/fɔːl ɑːn/",
+        "meaningVi": "rơi vào một ngày hoặc ngày tháng cụ thể",
+        "example": "My birthday falls on a Sunday this year.",
+        "exampleVi": "Sinh nhật tôi năm nay rơi vào Chủ nhật.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "falls on",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/fɔːlz ɑːn/",
+            "example": "My birthday falls on a Sunday this year.",
+            "exampleVi": "Sinh nhật tôi năm nay rơi vào Chủ nhật."
+          },
+          {
+            "word": "falling on",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/fɔːlɪŋ ɑːn/"
+          },
+          {
+            "word": "fell on",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈfɛɫ ɑːn/"
+          },
+          {
+            "word": "fallen on",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈfɑɫən ɑːn/"
+          }
+        ]
+      },
+      {
+        "word": "fall out with",
+        "pos": "verb",
+        "ipa": "/fɔːl aʊt wɪð/",
+        "meaningVi": "cãi nhau và trở nên bất hòa với ai",
+        "example": "I do not want to fall out with my neighbors.",
+        "exampleVi": "Tôi không muốn bất hòa với hàng xóm.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "falls out with",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/fɔːlz aʊt wɪð/"
+          },
+          {
+            "word": "falling out with",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/fɔːlɪŋ aʊt wɪð/"
+          },
+          {
+            "word": "fell out with",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈfɛɫ aʊt wɪð/"
+          },
+          {
+            "word": "fallen out with",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈfɑɫən aʊt wɪð/"
+          }
+        ]
+      },
+      {
+        "word": "fall back on",
+        "pos": "verb",
+        "ipa": "/fɔːl bæk ɑːn/",
+        "meaningVi": "dựa vào một phương án khi phương án khác thất bại",
+        "example": "We can fall back on our savings.",
+        "exampleVi": "Chúng tôi có thể trông vào khoản tiết kiệm.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "falls back on",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/fɔːlz bæk ɑːn/"
+          },
+          {
+            "word": "falling back on",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/fɔːlɪŋ bæk ɑːn/"
+          },
+          {
+            "word": "fell back on",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈfɛɫ bæk ɑːn/"
+          },
+          {
+            "word": "fallen back on",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈfɑɫən bæk ɑːn/"
+          }
+        ]
+      },
+      {
+        "word": "fall in with",
+        "pos": "verb",
+        "ipa": "/fɔːl ɪn wɪð/",
+        "meaningVi": "làm theo hoặc đồng tình với một ý tưởng",
+        "example": "She agreed to fall in with our plans.",
+        "exampleVi": "Cô ấy đồng ý làm theo kế hoạch của chúng tôi.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "falls in with",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/fɔːlz ɪn wɪð/"
+          },
+          {
+            "word": "falling in with",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/fɔːlɪŋ ɪn wɪð/"
+          },
+          {
+            "word": "fell in with",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈfɛɫ ɪn wɪð/"
+          },
+          {
+            "word": "fallen in with",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈfɑɫən ɪn wɪð/"
+          }
+        ]
+      },
+      {
+        "word": "fall away",
+        "pos": "verb",
+        "ipa": "/fɔːl əˈweɪ/",
+        "meaningVi": "giảm dần về mức độ hoặc số lượng",
+        "example": "Support began to fall away after the scandal.",
+        "exampleVi": "Sự ủng hộ bắt đầu giảm sau vụ bê bối.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "falls away",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/fɔːlz əˈweɪ/"
+          },
+          {
+            "word": "falling away",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/fɔːlɪŋ əˈweɪ/"
+          },
+          {
+            "word": "fell away",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈfɛɫ əˈweɪ/"
+          },
+          {
+            "word": "fallen away",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈfɑɫən əˈweɪ/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -602,6 +1281,359 @@
         "ipa": "/drɒpt/",
         "example": "Newspaper circulation dropped by half over the decade.",
         "exampleVi": "Lượng phát hành báo giấy sụt xuống một nửa trong thập kỷ đó."
+      }
+    ],
+    "phrases": [
+      {
+        "word": "drop off",
+        "pos": "verb",
+        "ipa": "/drɒp ɔːf/",
+        "meaningVi": "ngủ thiếp đi",
+        "example": "I sometimes drop off during long journeys.",
+        "exampleVi": "Đôi khi tôi ngủ thiếp đi trong những chuyến đi dài.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "drops off",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/drɒps ɔːf/"
+          },
+          {
+            "word": "dropping off",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/drɒpɪŋ ɔːf/"
+          },
+          {
+            "word": "dropped off",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/drɒpt ɔːf/"
+          }
+        ]
+      },
+      {
+        "word": "drop out",
+        "pos": "verb",
+        "ipa": "/drɒp aʊt/",
+        "meaningVi": "ngừng tham gia trước khi kết thúc",
+        "example": "Several runners had to drop out.",
+        "exampleVi": "Một số người chạy phải bỏ cuộc.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "drops out",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/drɒps aʊt/"
+          },
+          {
+            "word": "dropping out",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/drɒpɪŋ aʊt/"
+          },
+          {
+            "word": "dropped out",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/drɒpt aʊt/"
+          }
+        ]
+      },
+      {
+        "word": "drop in",
+        "pos": "verb",
+        "ipa": "/drɒp ɪn/",
+        "meaningVi": "ghé thăm mà không hẹn trước",
+        "example": "Feel free to drop in after work.",
+        "exampleVi": "Bạn cứ ghé qua sau giờ làm.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "drops in",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/drɒps ɪn/"
+          },
+          {
+            "word": "dropping in",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/drɒpɪŋ ɪn/"
+          },
+          {
+            "word": "dropped in",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/drɒpt ɪn/"
+          }
+        ]
+      },
+      {
+        "word": "drop by",
+        "pos": "verb",
+        "ipa": "/drɒp baɪ/",
+        "meaningVi": "ghé qua trong thời gian ngắn",
+        "example": "I might drop by tomorrow morning.",
+        "exampleVi": "Tôi có thể ghé qua vào sáng mai.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "drops by",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/drɒps baɪ/"
+          },
+          {
+            "word": "dropping by",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/drɒpɪŋ baɪ/"
+          },
+          {
+            "word": "dropped by",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/drɒpt baɪ/"
+          }
+        ]
+      },
+      {
+        "word": "drop back",
+        "pos": "verb",
+        "ipa": "/drɒp bæk/",
+        "meaningVi": "tụt về phía sau một nhóm",
+        "example": "The tired cyclist began to drop back.",
+        "exampleVi": "Người đi xe đạp đã mệt và bắt đầu tụt lại.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "drops back",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/drɒps bæk/"
+          },
+          {
+            "word": "dropping back",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/drɒpɪŋ bæk/"
+          },
+          {
+            "word": "dropped back",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/drɒpt bæk/"
+          }
+        ]
+      },
+      {
+        "word": "drop away",
+        "pos": "verb",
+        "ipa": "/drɒp əˈweɪ/",
+        "meaningVi": "giảm dần về số lượng hoặc mức độ",
+        "example": "Attendance began to drop away in winter.",
+        "exampleVi": "Số người tham dự bắt đầu giảm vào mùa đông.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "drops away",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/drɒps əˈweɪ/"
+          },
+          {
+            "word": "dropping away",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/drɒpɪŋ əˈweɪ/"
+          },
+          {
+            "word": "dropped away",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/drɒpt əˈweɪ/"
+          }
+        ]
+      },
+      {
+        "word": "drop over",
+        "pos": "verb",
+        "ipa": "/drɒp ˈoʊvər/",
+        "meaningVi": "ghé thăm nhà ai một cách thân mật",
+        "example": "Why not drop over for a coffee?",
+        "exampleVi": "Sao bạn không ghé qua uống cà phê?",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "drops over",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/drɒps ˈoʊvər/"
+          },
+          {
+            "word": "dropping over",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/drɒpɪŋ ˈoʊvər/"
+          },
+          {
+            "word": "dropped over",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/drɒpt ˈoʊvər/"
+          }
+        ]
+      },
+      {
+        "word": "drop out of",
+        "pos": "verb",
+        "ipa": "/drɒp aʊt əv/",
+        "meaningVi": "bỏ dở việc học hoặc một hoạt động",
+        "example": "He did not want to drop out of college.",
+        "exampleVi": "Anh ấy không muốn bỏ học đại học.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "drops out of",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/drɒps aʊt əv/"
+          },
+          {
+            "word": "dropping out of",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/drɒpɪŋ aʊt əv/"
+          },
+          {
+            "word": "dropped out of",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/drɒpt aʊt əv/"
+          }
+        ]
+      },
+      {
+        "word": "drop in on",
+        "pos": "verb",
+        "ipa": "/drɒp ɪn ɑːn/",
+        "meaningVi": "ghé thăm ai mà không hẹn trước",
+        "example": "We may drop in on our cousins.",
+        "exampleVi": "Chúng tôi có thể ghé thăm anh chị em họ.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "drops in on",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/drɒps ɪn ɑːn/"
+          },
+          {
+            "word": "dropping in on",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/drɒpɪŋ ɪn ɑːn/"
+          },
+          {
+            "word": "dropped in on",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/drɒpt ɪn ɑːn/"
+          }
+        ]
       }
     ]
   },

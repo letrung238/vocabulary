@@ -1,0 +1,354 @@
+[
+  {
+    "word": "hear",
+    "pos": "verb",
+    "ipa": "/hɪr/",
+    "meaningVi": "nghe thấy",
+    "example": "We heard a strange noise downstairs.",
+    "exampleVi": "Chúng tôi nghe thấy một tiếng động lạ ở tầng dưới.",
+    "topic": "daily",
+    "tags": [
+      "everyday-500",
+      "daily"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "hears",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/hɪrz/"
+      },
+      {
+        "word": "hearing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/hɪrɪŋ/"
+      },
+      {
+        "word": "heard",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/hɪrd/",
+        "example": "We heard a strange noise downstairs.",
+        "exampleVi": "Chúng tôi nghe thấy một tiếng động lạ ở tầng dưới."
+      }
+    ]
+  },
+  {
+    "word": "ironing board",
+    "pos": "noun",
+    "ipa": "/ˈaɪərnɪŋ ˈbɔrd/",
+    "meaningVi": "bàn để là quần áo",
+    "example": "Set up the ironing board before ironing your shirt.",
+    "exampleVi": "Hãy dựng bàn là trước khi là áo sơ mi.",
+    "topic": "home",
+    "tags": [
+      "everyday-500",
+      "home"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "ironing boards",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈaɪərnɪŋ ˈbɔrdz/"
+      }
+    ]
+  },
+  {
+    "word": "swelling",
+    "pos": "noun",
+    "ipa": "/ˈswelɪŋ/",
+    "meaningVi": "chỗ sưng; tình trạng sưng",
+    "example": "The nurse checked the swelling around the injury.",
+    "exampleVi": "Y tá kiểm tra chỗ sưng quanh vết thương.",
+    "topic": "health",
+    "tags": [
+      "everyday-500",
+      "health"
+    ],
+    "synonyms": []
+  },
+  {
+    "word": "emergency room",
+    "pos": "noun",
+    "ipa": "/ˈimərdʒənsi ˈrum/",
+    "meaningVi": "phòng cấp cứu",
+    "example": "They took him to the emergency room.",
+    "exampleVi": "Họ đưa anh ấy đến phòng cấp cứu.",
+    "topic": "health",
+    "tags": [
+      "everyday-500",
+      "health"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "emergency rooms",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈimərdʒənsi ˈrumz/"
+      }
+    ]
+  },
+  {
+    "word": "diarrhea",
+    "pos": "noun",
+    "ipa": "/ˌdaɪəˈriə/",
+    "meaningVi": "tiêu chảy",
+    "example": "The doctor asked whether she had diarrhea.",
+    "exampleVi": "Bác sĩ hỏi cô ấy có bị tiêu chảy không.",
+    "topic": "health",
+    "tags": [
+      "everyday-500",
+      "health"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "diarrheas",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌdaɪəˈriəz/"
+      }
+    ]
+  },
+  {
+    "word": "constipation",
+    "pos": "noun",
+    "ipa": "/ˌkɑnstəˈpeɪʃən/",
+    "meaningVi": "táo bón",
+    "example": "He discussed his constipation with the doctor.",
+    "exampleVi": "Anh ấy trao đổi với bác sĩ về tình trạng táo bón.",
+    "topic": "health",
+    "tags": [
+      "everyday-500",
+      "health"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "constipations",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌkɑnstəˈpeɪʃənz/"
+      }
+    ]
+  },
+  {
+    "word": "overpriced",
+    "pos": "adjective",
+    "ipa": "/ˈoʊvərˌpraɪst/",
+    "meaningVi": "có giá quá cao",
+    "example": "I think that bag is overpriced.",
+    "exampleVi": "Tôi thấy chiếc túi đó có giá quá cao.",
+    "topic": "shopping",
+    "tags": [
+      "everyday-500",
+      "shopping"
+    ],
+    "synonyms": []
+  },
+  {
+    "word": "baggage carousel",
+    "pos": "noun",
+    "ipa": "/ˈbæɡədʒ ˈkerəˌsel/",
+    "meaningVi": "băng chuyền nhận hành lý",
+    "example": "Our bags appeared on the baggage carousel.",
+    "exampleVi": "Túi của chúng tôi xuất hiện trên băng chuyền nhận hành lý.",
+    "topic": "travel",
+    "tags": [
+      "everyday-500",
+      "travel"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "baggage carousels",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈbæɡədʒ ˈkerəˌselz/"
+      }
+    ]
+  },
+  {
+    "word": "windy",
+    "pos": "adjective",
+    "ipa": "/ˈwaɪndi/",
+    "meaningVi": "có gió",
+    "example": "The beach is windy today.",
+    "exampleVi": "Hôm nay bãi biển có gió.",
+    "topic": "daily",
+    "tags": [
+      "everyday-500",
+      "daily"
+    ],
+    "synonyms": []
+  },
+  {
+    "word": "grandchild",
+    "pos": "noun",
+    "ipa": "/ˈɡrænˌtʃaɪld/",
+    "meaningVi": "cháu nội hoặc ngoại",
+    "example": "She bought a book for her grandchild.",
+    "exampleVi": "Cô ấy mua một cuốn sách cho cháu nội hoặc ngoại.",
+    "topic": "family",
+    "tags": [
+      "everyday-500",
+      "family"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "grandchilds",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɡrænˌtʃaɪldz/"
+      }
+    ]
+  },
+  {
+    "word": "great-grandmother",
+    "pos": "noun",
+    "ipa": "/ˌɡreɪtˈɡrændˌmʌθər/",
+    "meaningVi": "bà cố; cụ bà",
+    "example": "My great-grandmother lived in this village.",
+    "exampleVi": "Bà cố của tôi từng sống ở làng này.",
+    "topic": "family",
+    "tags": [
+      "everyday-500",
+      "family"
+    ],
+    "synonyms": [],
+    "forms": [
+      {
+        "word": "great-grandmothers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌɡreɪtˈɡrændˌmʌθərz/"
+      }
+    ]
+  },
+  {
+    "word": "live",
+    "pos": "verb",
+    "ipa": "/lɪv/",
+    "meaningVi": "sống; sinh sống",
+    "example": "They lived near the city center.",
+    "exampleVi": "Họ sống gần trung tâm thành phố.",
+    "topic": "daily",
+    "tags": [
+      "everyday-500",
+      "daily"
+    ],
+    "synonyms": [
+      "reside"
+    ],
+    "senses": [
+      {
+        "pos": "adjective",
+        "ipa": "/laɪv/",
+        "meaningVi": "trực tiếp",
+        "example": "We watched a live broadcast of the match.",
+        "exampleVi": "Chúng tôi xem buổi phát sóng trực tiếp trận đấu."
+      },
+      {
+        "pos": "adjective",
+        "ipa": "/laɪv/",
+        "meaningVi": "còn sống",
+        "example": "The market sells live fish.",
+        "exampleVi": "Chợ bán cá còn sống."
+      }
+    ],
+    "forms": [
+      {
+        "word": "lives",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/lɪvz/"
+      },
+      {
+        "word": "living",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/lɪvɪŋ/"
+      },
+      {
+        "word": "lived",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/lɪvd/",
+        "example": "They lived near the city center.",
+        "exampleVi": "Họ sống gần trung tâm thành phố."
+      }
+    ]
+  },
+  {
+    "word": "update",
+    "pos": "noun",
+    "ipa": "/ˈʌpdeɪt/",
+    "meaningVi": "thông tin cập nhật; việc cập nhật",
+    "example": "She sent an update about the project.",
+    "exampleVi": "Cô ấy gửi thông tin cập nhật về dự án.",
+    "topic": "work",
+    "tags": [
+      "everyday-500",
+      "work"
+    ],
+    "synonyms": [],
+    "senses": [
+      {
+        "pos": "verb",
+        "ipa": "/ʌpˈdeɪt/",
+        "meaningVi": "cập nhật",
+        "example": "Please update the schedule after the meeting.",
+        "exampleVi": "Hãy cập nhật lịch sau cuộc họp."
+      }
+    ],
+    "forms": [
+      {
+        "word": "updates",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ʌpˈdeɪts/, /ˈʌpdeɪts/"
+      },
+      {
+        "word": "updating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ʌpˈdeɪtɪŋ/"
+      },
+      {
+        "word": "updated",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ʌpˈdeɪtɪd/"
+      }
+    ]
+  }
+]

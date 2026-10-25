@@ -1770,6 +1770,36 @@
     ],
     "synonyms": [
       "worried"
+    ],
+    "phrases": [
+      {
+        "word": "anxious about",
+        "pos": "adjective",
+        "ipa": "/ˈæŋk.ʃəs əˈbaʊt/",
+        "meaningVi": "lo lắng về một vấn đề",
+        "example": "Parents are anxious about the test results.",
+        "exampleVi": "Phụ huynh lo lắng về kết quả kiểm tra.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      },
+      {
+        "word": "anxious for",
+        "pos": "adjective",
+        "ipa": "/ˈæŋk.ʃəs fər/",
+        "meaningVi": "mong mỏi một điều hoặc lo cho ai",
+        "example": "Everyone is anxious for news of the rescue.",
+        "exampleVi": "Mọi người đều mong ngóng tin cứu hộ.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      }
     ]
   },
   {
@@ -2681,6 +2711,22 @@
     "exampleVi": "Anh ấy xấu hổ về hành vi của mình.",
     "synonyms": [
       "embarrassed"
+    ],
+    "phrases": [
+      {
+        "word": "ashamed of",
+        "pos": "adjective",
+        "ipa": "/əˈʃeɪmd əv/",
+        "meaningVi": "xấu hổ về hành động hoặc tình trạng của mình",
+        "example": "He felt ashamed of his behavior.",
+        "exampleVi": "Anh ấy thấy xấu hổ về hành vi của mình.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      }
     ]
   },
   {
@@ -7657,6 +7703,22 @@
     ],
     "synonyms": [
       "aware"
+    ],
+    "phrases": [
+      {
+        "word": "conscious of",
+        "pos": "adjective",
+        "ipa": "/ˈkɒn.ʃəs əv/",
+        "meaningVi": "nhận thức được; ý thức về điều gì",
+        "example": "We are conscious of the risks.",
+        "exampleVi": "Chúng tôi nhận thức được những rủi ro.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      }
     ]
   },
   {
@@ -9067,6 +9129,22 @@
     ],
     "synonyms": [
       "inquisitive"
+    ],
+    "phrases": [
+      {
+        "word": "curious about",
+        "pos": "adjective",
+        "ipa": "/ˈkjʊə.ri.əs əˈbaʊt/",
+        "meaningVi": "tò mò; muốn tìm hiểu về điều gì",
+        "example": "The students are curious about space travel.",
+        "exampleVi": "Học sinh tò mò về du hành vũ trụ.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      }
     ]
   },
   {
@@ -10556,6 +10634,22 @@
     ],
     "synonyms": [
       "hopeless"
+    ],
+    "phrases": [
+      {
+        "word": "desperate for",
+        "pos": "adjective",
+        "ipa": "/ˈdes.pər.ət fər/",
+        "meaningVi": "rất cần một thứ đến mức khẩn thiết",
+        "example": "The village is desperate for clean water.",
+        "exampleVi": "Ngôi làng đang rất cần nước sạch.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      }
     ]
   },
   {
@@ -11810,6 +11904,22 @@
     "exampleVi": "Các học viên háo hức muốn bắt đầu.",
     "synonyms": [
       "keen"
+    ],
+    "phrases": [
+      {
+        "word": "eager for",
+        "pos": "adjective",
+        "ipa": "/ˈiː.ɡər fər/",
+        "meaningVi": "rất mong muốn hoặc háo hức đón nhận",
+        "example": "The team is eager for a fresh start.",
+        "exampleVi": "Nhóm háo hức mong một khởi đầu mới.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      }
     ]
   },
   {
@@ -12880,6 +12990,36 @@
     ],
     "synonyms": [
       "equivalent"
+    ],
+    "phrases": [
+      {
+        "word": "equal to",
+        "pos": "adjective",
+        "ipa": "/ˈiː.kwəl tə/",
+        "meaningVi": "bằng về giá trị, mức độ hoặc số lượng",
+        "example": "One meter is equal to one hundred centimeters.",
+        "exampleVi": "Một mét bằng một trăm xăng-ti-mét.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      },
+      {
+        "word": "equal in",
+        "pos": "adjective",
+        "ipa": "/ˈiː.kwəl ɪn/",
+        "meaningVi": "ngang nhau ở một đặc điểm",
+        "example": "The two groups are equal in size.",
+        "exampleVi": "Hai nhóm có quy mô bằng nhau.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      }
     ]
   },
   {
@@ -13202,6 +13342,36 @@
     ],
     "synonyms": [
       "necessary"
+    ],
+    "phrases": [
+      {
+        "word": "essential for",
+        "pos": "adjective",
+        "ipa": "/ɪˈsen.ʃəl fər/",
+        "meaningVi": "cần thiết để một việc xảy ra hoặc thành công",
+        "example": "Sleep is essential for healthy development.",
+        "exampleVi": "Giấc ngủ cần thiết cho sự phát triển khỏe mạnh.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      },
+      {
+        "word": "essential to",
+        "pos": "adjective",
+        "ipa": "/ɪˈsen.ʃəl tə/",
+        "meaningVi": "không thể thiếu đối với một hoạt động hoặc hệ thống",
+        "example": "Trust is essential to a good partnership.",
+        "exampleVi": "Sự tin cậy là điều không thể thiếu trong một quan hệ hợp tác tốt.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      }
     ]
   },
   {
@@ -14236,6 +14406,20 @@
         "tags": [
           "prepositions",
           "technology"
+        ],
+        "synonyms": []
+      },
+      {
+        "word": "familiar to",
+        "pos": "adjective",
+        "ipa": "/fəˈmɪl.i.ər tə/",
+        "meaningVi": "quen thuộc đối với người nhận biết",
+        "example": "That melody is familiar to me.",
+        "exampleVi": "Giai điệu đó quen thuộc với tôi.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
         ],
         "synonyms": []
       }
@@ -15452,6 +15636,36 @@
     "exampleVi": "Tôi biết ơn mọi điều bạn đã làm.",
     "synonyms": [
       "thankful"
+    ],
+    "phrases": [
+      {
+        "word": "grateful for",
+        "pos": "adjective",
+        "ipa": "/ˈɡreɪt.fəl fər/",
+        "meaningVi": "biết ơn về sự giúp đỡ hoặc điều nhận được",
+        "example": "We are grateful for your support.",
+        "exampleVi": "Chúng tôi biết ơn sự hỗ trợ của bạn.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      },
+      {
+        "word": "grateful to",
+        "pos": "adjective",
+        "ipa": "/ˈɡreɪt.fəl tə/",
+        "meaningVi": "biết ơn một người hoặc tổ chức",
+        "example": "I am grateful to my first teacher.",
+        "exampleVi": "Tôi biết ơn người thầy đầu tiên.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      }
     ]
   },
   {
@@ -15557,6 +15771,36 @@
     ],
     "synonyms": [
       "remorseful"
+    ],
+    "phrases": [
+      {
+        "word": "guilty of",
+        "pos": "adjective",
+        "ipa": "/ˈɡɪl.ti əv/",
+        "meaningVi": "có lỗi hoặc phạm một hành vi",
+        "example": "The court found him guilty of fraud.",
+        "exampleVi": "Tòa xác định anh ta phạm tội gian lận.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      },
+      {
+        "word": "guilty about",
+        "pos": "adjective",
+        "ipa": "/ˈɡɪl.ti əˈbaʊt/",
+        "meaningVi": "cảm thấy có lỗi về một việc",
+        "example": "I feel guilty about forgetting her birthday.",
+        "exampleVi": "Tôi thấy có lỗi vì quên sinh nhật cô ấy.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      }
     ]
   },
   {
@@ -15950,6 +16194,36 @@
     "exampleVi": "Thành thật mà nói, tôi không thích nó.",
     "synonyms": [
       "truthful"
+    ],
+    "phrases": [
+      {
+        "word": "honest with",
+        "pos": "adjective",
+        "ipa": "/ˈɒn.ɪst wɪð/",
+        "meaningVi": "thành thật với ai",
+        "example": "Please be honest with me.",
+        "exampleVi": "Hãy thành thật với tôi.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      },
+      {
+        "word": "honest about",
+        "pos": "adjective",
+        "ipa": "/ˈɒn.ɪst əˈbaʊt/",
+        "meaningVi": "không che giấu sự thật về một chuyện",
+        "example": "He was honest about his lack of experience.",
+        "exampleVi": "Anh ấy thành thật về việc thiếu kinh nghiệm.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      }
     ]
   },
   {
@@ -16765,6 +17039,22 @@
     ],
     "synonyms": [
       "autonomous"
+    ],
+    "phrases": [
+      {
+        "word": "independent of",
+        "pos": "adjective",
+        "ipa": "/ˌɪn.dɪˈpen.dənt əv/",
+        "meaningVi": "không phụ thuộc vào một yếu tố khác",
+        "example": "The result is independent of age.",
+        "exampleVi": "Kết quả không phụ thuộc vào tuổi tác.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      }
     ]
   },
   {
@@ -18166,6 +18456,22 @@
     ],
     "synonyms": [
       "envious"
+    ],
+    "phrases": [
+      {
+        "word": "jealous of",
+        "pos": "adjective",
+        "ipa": "/ˈdʒel.əs əv/",
+        "meaningVi": "ghen tị với điều người khác có",
+        "example": "He was jealous of his sister's success.",
+        "exampleVi": "Anh ấy ghen tị với thành công của em gái.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      }
     ]
   },
   {
@@ -19039,6 +19345,22 @@
     "exampleVi": "Anh ấy là một người bạn trung thành nhiều năm nay.",
     "synonyms": [
       "faithful"
+    ],
+    "phrases": [
+      {
+        "word": "loyal to",
+        "pos": "adjective",
+        "ipa": "/ˈlɔɪ.əl tə/",
+        "meaningVi": "trung thành với người hoặc tổ chức",
+        "example": "She remains loyal to her friends.",
+        "exampleVi": "Cô ấy vẫn trung thành với bạn bè.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      }
     ]
   },
   {
@@ -20258,6 +20580,36 @@
     ],
     "synonyms": [
       "anxious"
+    ],
+    "phrases": [
+      {
+        "word": "nervous about",
+        "pos": "adjective",
+        "ipa": "/ˈnɜː.vəs əˈbaʊt/",
+        "meaningVi": "lo lắng về một việc sắp xảy ra",
+        "example": "I am nervous about tomorrow's interview.",
+        "exampleVi": "Tôi lo về buổi phỏng vấn ngày mai.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      },
+      {
+        "word": "nervous of",
+        "pos": "adjective",
+        "ipa": "/ˈnɜː.vəs əv/",
+        "meaningVi": "e ngại; thiếu tự tin khi đối diện điều gì",
+        "example": "She is nervous of speaking in public.",
+        "exampleVi": "Cô ấy e ngại việc nói trước đám đông.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      }
     ]
   },
   {
@@ -22001,6 +22353,22 @@
     ],
     "synonyms": [
       "forbearing"
+    ],
+    "phrases": [
+      {
+        "word": "patient with",
+        "pos": "adjective",
+        "ipa": "/ˈpeɪ.ʃənt wɪð/",
+        "meaningVi": "kiên nhẫn khi đối xử với ai",
+        "example": "The nurse was patient with the nervous child.",
+        "exampleVi": "Y tá kiên nhẫn với đứa trẻ lo lắng.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      }
     ]
   },
   {
@@ -22586,6 +22954,22 @@
     "exampleVi": "Anh ta lịch sự nhưng không thân thiện.",
     "synonyms": [
       "courteous"
+    ],
+    "phrases": [
+      {
+        "word": "polite to",
+        "pos": "adjective",
+        "ipa": "/pəˈlaɪt tə/",
+        "meaningVi": "lịch sự khi đối xử với ai",
+        "example": "Always be polite to the staff.",
+        "exampleVi": "Luôn lịch sự với nhân viên.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      }
     ]
   },
   {
@@ -25464,6 +25848,22 @@
     "exampleVi": "Xin giữ các ý kiến đúng trọng tâm.",
     "synonyms": [
       "pertinent"
+    ],
+    "phrases": [
+      {
+        "word": "relevant to",
+        "pos": "adjective",
+        "ipa": "/ˈrel.ə.vənt tə/",
+        "meaningVi": "có liên quan và hữu ích đối với vấn đề nào đó",
+        "example": "Your experience is relevant to this position.",
+        "exampleVi": "Kinh nghiệm của bạn phù hợp với vị trí này.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      }
     ]
   },
   {
@@ -26546,6 +26946,20 @@
         "tags": [
           "prepositions",
           "work"
+        ],
+        "synonyms": []
+      },
+      {
+        "word": "responsible to",
+        "pos": "adjective",
+        "ipa": "/rɪˈspɒn.sə.bəl tə/",
+        "meaningVi": "chịu trách nhiệm báo cáo với ai",
+        "example": "The director is responsible to the board.",
+        "exampleVi": "Giám đốc chịu trách nhiệm trước hội đồng quản trị.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
         ],
         "synonyms": []
       }
@@ -28310,6 +28724,20 @@
         "tags": [
           "prepositions",
           "technology"
+        ],
+        "synonyms": []
+      },
+      {
+        "word": "similar in",
+        "pos": "adjective",
+        "ipa": "/ˈsɪm.ɪ.lər ɪn/",
+        "meaningVi": "giống nhau ở một đặc điểm",
+        "example": "The two phones are similar in size.",
+        "exampleVi": "Hai điện thoại giống nhau về kích thước.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
         ],
         "synonyms": []
       }

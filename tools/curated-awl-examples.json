@@ -1,0 +1,1930 @@
+[
+  {
+    "word": "academy",
+    "pos": "noun",
+    "meaningVi": "viện hàn lâm của các học giả hoặc nghệ sĩ",
+    "example": "The academy elected two historians as new members.",
+    "exampleVi": "Viện hàn lâm bầu hai nhà sử học làm thành viên mới.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "access",
+    "pos": "verb",
+    "meaningVi": "truy cập một tệp hoặc hệ thống máy tính",
+    "example": "Use your password to access the file.",
+    "exampleVi": "Dùng mật khẩu của bạn để truy cập tệp.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "adult",
+    "pos": "adjective",
+    "meaningVi": "thuộc về người trưởng thành",
+    "example": "The shop sells adult clothing upstairs.",
+    "exampleVi": "Cửa hàng bán quần áo người lớn ở tầng trên.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "affect",
+    "pos": "noun",
+    "meaningVi": "trạng thái cảm xúc thể hiện ra ngoài",
+    "example": "The psychologist noted the patient's flat affect.",
+    "exampleVi": "Nhà tâm lý học ghi nhận biểu hiện cảm xúc phẳng lặng của bệnh nhân.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "aid",
+    "pos": "noun",
+    "meaningVi": "dụng cụ hỗ trợ một hoạt động",
+    "example": "A magnifying glass is a useful reading aid.",
+    "exampleVi": "Kính lúp là một dụng cụ hỗ trợ đọc hữu ích.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "alter",
+    "pos": "verb",
+    "meaningVi": "sửa quần áo để vừa người",
+    "example": "The tailor will alter my jacket tomorrow.",
+    "exampleVi": "Thợ may sẽ sửa áo khoác cho tôi vào ngày mai.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "amend",
+    "pos": "verb",
+    "meaningVi": "cải thiện một tình huống hoặc hành vi",
+    "example": "He promised to amend his behaviour after the warning.",
+    "exampleVi": "Anh ấy hứa sửa đổi hành vi sau lời cảnh cáo.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "analogy",
+    "pos": "noun",
+    "meaningVi": "phép loại suy để rút ra kết luận từ trường hợp tương tự",
+    "example": "Reasoning by analogy can suggest a possible solution.",
+    "exampleVi": "Lập luận bằng phép loại suy có thể gợi ra một giải pháp khả dĩ.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "annual",
+    "pos": "noun",
+    "meaningVi": "ấn phẩm phát hành mỗi năm một lần",
+    "example": "The club's annual contains reports from the whole year.",
+    "exampleVi": "Ấn phẩm thường niên của câu lạc bộ chứa báo cáo của cả năm.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "approximate",
+    "pos": "verb",
+    "meaningVi": "ước lượng một giá trị gần đúng",
+    "example": "We can approximate the distance using this map.",
+    "exampleVi": "Chúng ta có thể ước lượng khoảng cách bằng bản đồ này.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "area",
+    "pos": "noun",
+    "meaningVi": "diện tích của một bề mặt",
+    "example": "The area of this rectangle is twelve square metres.",
+    "exampleVi": "Diện tích hình chữ nhật này là mười hai mét vuông.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "aspect",
+    "pos": "noun",
+    "meaningVi": "diện mạo hoặc vẻ ngoài của một nơi",
+    "example": "The old square has a peaceful aspect at dawn.",
+    "exampleVi": "Quảng trường cổ có vẻ yên bình vào lúc bình minh.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "assess",
+    "pos": "verb",
+    "meaningVi": "ấn định mức thuế hoặc tiền phạt",
+    "example": "The authority may assess a penalty for late payment.",
+    "exampleVi": "Cơ quan có thẩm quyền có thể ấn định tiền phạt do thanh toán trễ.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "assign",
+    "pos": "verb",
+    "meaningVi": "gán một giá trị cho biến trong toán hoặc lập trình",
+    "example": "Assign the value five to the variable x.",
+    "exampleVi": "Gán giá trị năm cho biến x.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "attribute",
+    "pos": "noun",
+    "meaningVi": "đặc tính của một người hoặc vật",
+    "example": "Patience is an important attribute of a good teacher.",
+    "exampleVi": "Kiên nhẫn là một phẩm chất quan trọng của giáo viên giỏi.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "author",
+    "pos": "verb",
+    "meaningVi": "viết hoặc biên soạn một tác phẩm",
+    "example": "She plans to author a book about local history.",
+    "exampleVi": "Cô ấy dự định viết một cuốn sách về lịch sử địa phương.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "available",
+    "pos": "adjective",
+    "meaningVi": "rảnh và có thể gặp hoặc làm việc",
+    "example": "I am available for a meeting on Friday.",
+    "exampleVi": "Tôi rảnh để họp vào thứ Sáu.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "behalf",
+    "pos": "noun",
+    "meaningVi": "lợi ích của một người trong cụm in behalf of",
+    "example": "The charity works in behalf of homeless families.",
+    "exampleVi": "Tổ chức từ thiện hoạt động vì lợi ích của các gia đình vô gia cư.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "bond",
+    "pos": "noun",
+    "meaningVi": "trái phiếu hoặc giấy nhận nợ",
+    "example": "The company issued a bond to fund the project.",
+    "exampleVi": "Công ty phát hành một trái phiếu để tài trợ dự án.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "bulk",
+    "pos": "noun",
+    "meaningVi": "kích thước hoặc khối lượng của một vật",
+    "example": "The bulk of the sofa made it hard to move.",
+    "exampleVi": "Kích thước cồng kềnh của chiếc ghế sofa khiến nó khó di chuyển.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "channel",
+    "pos": "verb",
+    "meaningVi": "hướng nguồn lực hoặc cảm xúc vào một mục tiêu",
+    "example": "Try to channel your anger into something creative.",
+    "exampleVi": "Hãy thử hướng sự tức giận của bạn vào một việc sáng tạo.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "chapter",
+    "pos": "noun",
+    "meaningVi": "chi hội địa phương của một tổ chức",
+    "example": "She joined the local chapter of the association.",
+    "exampleVi": "Cô ấy tham gia chi hội địa phương của hiệp hội.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "chart",
+    "pos": "verb",
+    "meaningVi": "vẽ bản đồ hoặc ghi lại lộ trình",
+    "example": "The explorers will chart a route through the mountains.",
+    "exampleVi": "Các nhà thám hiểm sẽ vẽ lại tuyến đường xuyên qua dãy núi.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "chemical",
+    "pos": "adjective",
+    "meaningVi": "thuộc về hóa học",
+    "example": "The workers must avoid direct chemical exposure.",
+    "exampleVi": "Công nhân phải tránh tiếp xúc trực tiếp với hóa chất.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "classic",
+    "pos": "noun",
+    "meaningVi": "tác phẩm kinh điển có giá trị lâu dài",
+    "example": "This novel is a classic of modern literature.",
+    "exampleVi": "Tiểu thuyết này là một tác phẩm kinh điển của văn học hiện đại.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "code",
+    "pos": "noun",
+    "meaningVi": "hệ thống ký hiệu bí mật dùng để truyền tin",
+    "example": "The spies used a code to send secret messages.",
+    "exampleVi": "Các điệp viên dùng một hệ thống mật mã để gửi thông điệp bí mật.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "commission",
+    "pos": "noun",
+    "meaningVi": "tiền hoa hồng nhận theo doanh số",
+    "example": "She earns a commission on every car she sells.",
+    "exampleVi": "Cô ấy nhận tiền hoa hồng cho mỗi chiếc xe bán được.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "communicate",
+    "pos": "verb",
+    "meaningVi": "lây truyền bệnh từ người này sang người khác",
+    "example": "Infected animals can communicate the disease to humans.",
+    "exampleVi": "Động vật nhiễm bệnh có thể truyền bệnh sang người.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "compatible",
+    "pos": "adjective",
+    "meaningVi": "hợp tính và có thể sống hoặc làm việc hòa thuận",
+    "example": "Their compatible personalities made living together easy.",
+    "exampleVi": "Tính cách hợp nhau giúp họ dễ dàng sống chung.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "complement",
+    "pos": "noun",
+    "meaningVi": "phần bổ sung làm cho một thứ hoàn chỉnh",
+    "example": "Fresh vegetables are a perfect complement to this dish.",
+    "exampleVi": "Rau tươi là phần bổ sung hoàn hảo cho món ăn này.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "conduct",
+    "pos": "noun",
+    "meaningVi": "cách cư xử của một người",
+    "example": "The school praised the children's considerate conduct.",
+    "exampleVi": "Nhà trường khen ngợi cách cư xử biết quan tâm của các em.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "confer",
+    "pos": "verb",
+    "meaningVi": "trao đổi ý kiến để đi đến quyết định",
+    "example": "The judges will confer before announcing their decision.",
+    "exampleVi": "Các giám khảo sẽ trao đổi ý kiến trước khi công bố quyết định.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "construct",
+    "pos": "noun",
+    "meaningVi": "khái niệm được tạo ra để giải thích một hiện tượng",
+    "example": "The researcher describes identity as a social construct.",
+    "exampleVi": "Nhà nghiên cứu mô tả bản sắc như một khái niệm do xã hội kiến tạo.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "context",
+    "pos": "noun",
+    "meaningVi": "ngữ cảnh các từ xung quanh một từ hoặc câu",
+    "example": "Read the whole paragraph to understand the word's context.",
+    "exampleVi": "Đọc toàn bộ đoạn văn để hiểu ngữ cảnh của từ.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "contrary",
+    "pos": "adjective",
+    "meaningVi": "bướng bỉnh, hay làm trái ý người khác",
+    "example": "The contrary child refused to follow any instructions.",
+    "exampleVi": "Đứa trẻ bướng bỉnh không chịu làm theo bất kỳ chỉ dẫn nào.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "convene",
+    "pos": "verb",
+    "meaningVi": "cùng nhóm họp sau khi được triệu tập",
+    "example": "The committee will convene again on Monday.",
+    "exampleVi": "Ủy ban sẽ nhóm họp lại vào thứ Hai.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "converse",
+    "pos": "verb",
+    "meaningVi": "trò chuyện với người khác",
+    "example": "The guests began to converse over dinner.",
+    "exampleVi": "Các vị khách bắt đầu trò chuyện trong bữa tối.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "convert",
+    "pos": "noun",
+    "meaningVi": "người cải đạo",
+    "example": "The new convert began attending services every week.",
+    "exampleVi": "Người mới cải đạo bắt đầu dự lễ hằng tuần.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "coordinate",
+    "pos": "noun",
+    "meaningVi": "một tọa độ trong hệ định vị",
+    "example": "The x coordinate tells us the point's horizontal position.",
+    "exampleVi": "Tọa độ x cho biết vị trí theo chiều ngang của điểm.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "core",
+    "pos": "noun",
+    "meaningVi": "phần lõi của quả chứa hạt",
+    "example": "Remove the apple's core before slicing it.",
+    "exampleVi": "Bỏ lõi táo trước khi cắt lát.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "corporate",
+    "pos": "adjective",
+    "meaningVi": "chung của cả tập thể",
+    "example": "The team accepted corporate responsibility for the mistake.",
+    "exampleVi": "Cả nhóm nhận trách nhiệm chung về sai sót.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "couple",
+    "pos": "noun",
+    "meaningVi": "hai người hoặc vật đi thành cặp",
+    "example": "We saw a couple of swans beside the lake.",
+    "exampleVi": "Chúng tôi thấy một đôi thiên nga bên hồ.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "create",
+    "pos": "verb",
+    "meaningVi": "gây ra một tình huống hoặc vấn đề",
+    "example": "The unexpected delay may create further problems.",
+    "exampleVi": "Sự chậm trễ bất ngờ có thể gây thêm vấn đề.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "credit",
+    "pos": "verb",
+    "meaningVi": "ghi nhận công lao cho ai đó",
+    "example": "We should credit the volunteers for the event's success.",
+    "exampleVi": "Chúng ta nên ghi nhận công lao của tình nguyện viên đối với thành công của sự kiện.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "culture",
+    "pos": "noun",
+    "meaningVi": "mẫu nuôi cấy vi sinh vật",
+    "example": "The laboratory grew a culture of the bacteria.",
+    "exampleVi": "Phòng thí nghiệm nuôi cấy một mẫu vi khuẩn.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "currency",
+    "pos": "noun",
+    "meaningVi": "sự lưu hành và được chấp nhận rộng rãi của một ý tưởng",
+    "example": "The idea gained currency among young researchers.",
+    "exampleVi": "Ý tưởng này được các nhà nghiên cứu trẻ chấp nhận rộng rãi.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "cycle",
+    "pos": "verb",
+    "meaningVi": "đi xe đạp",
+    "example": "They cycle to school instead of taking the bus.",
+    "exampleVi": "Họ đạp xe đến trường thay vì đi xe buýt.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "decade",
+    "pos": "noun",
+    "meaningVi": "nhóm gồm mười đơn vị",
+    "example": "One decade of the rosary includes ten Hail Marys.",
+    "exampleVi": "Một chục kinh trong chuỗi Mân Côi gồm mười kinh Kính Mừng.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "define",
+    "pos": "verb",
+    "meaningVi": "xác định ranh giới hoặc đường viền rõ ràng",
+    "example": "A fence will define the boundary of the garden.",
+    "exampleVi": "Một hàng rào sẽ xác định ranh giới khu vườn.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "depress",
+    "pos": "verb",
+    "meaningVi": "ấn một nút hoặc vật xuống",
+    "example": "Depress the pedal slowly to lower the platform.",
+    "exampleVi": "Ấn bàn đạp từ từ để hạ bệ xuống.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "design",
+    "pos": "verb",
+    "meaningVi": "có ý định để một vật phục vụ một mục đích",
+    "example": "They design these tools for use in small gardens.",
+    "exampleVi": "Họ thiết kế các dụng cụ này để dùng trong những khu vườn nhỏ.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "device",
+    "pos": "noun",
+    "meaningVi": "thủ pháp hoặc cách làm để tạo ra một hiệu quả cụ thể",
+    "example": "Repetition is a literary device used in this poem.",
+    "exampleVi": "Lặp lại là một thủ pháp văn học được dùng trong bài thơ này.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "differentiate",
+    "pos": "verb",
+    "meaningVi": "lấy đạo hàm của một hàm số",
+    "example": "Differentiate the function to find its rate of change.",
+    "exampleVi": "Lấy đạo hàm của hàm số để tìm tốc độ biến thiên.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "dimension",
+    "pos": "noun",
+    "meaningVi": "kích thước đo được của một vật",
+    "example": "Measure each dimension of the box before packing it.",
+    "exampleVi": "Đo từng kích thước của chiếc hộp trước khi đóng gói.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "discriminate",
+    "pos": "verb",
+    "meaningVi": "phân biệt được hai thứ tương tự nhau",
+    "example": "Young birds learn to discriminate between different calls.",
+    "exampleVi": "Chim non học cách phân biệt các tiếng kêu khác nhau.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "displace",
+    "pos": "verb",
+    "meaningVi": "chiếm chỗ và đẩy chất lỏng sang nơi khác",
+    "example": "The stone will displace some water when submerged.",
+    "exampleVi": "Hòn đá sẽ đẩy một lượng nước ra khi được nhúng xuống.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "dispose",
+    "pos": "verb",
+    "meaningVi": "bán hoặc chuyển nhượng tài sản",
+    "example": "They plan to dispose of the unused land.",
+    "exampleVi": "Họ dự định bán phần đất không sử dụng.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "distinct",
+    "pos": "adjective",
+    "meaningVi": "rõ ràng, dễ nhận thấy",
+    "example": "We heard a distinct knocking sound at the door.",
+    "exampleVi": "Chúng tôi nghe thấy tiếng gõ cửa rõ ràng.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "distort",
+    "pos": "verb",
+    "meaningVi": "xuyên tạc sự thật để người khác hiểu sai",
+    "example": "The edited video may distort what actually happened.",
+    "exampleVi": "Đoạn phim đã biên tập có thể xuyên tạc những gì thực sự xảy ra.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "document",
+    "pos": "noun",
+    "meaningVi": "văn bản hoặc tài liệu chính thức",
+    "example": "Please sign the document before returning it.",
+    "exampleVi": "Vui lòng ký vào văn bản trước khi gửi lại.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "domain",
+    "pos": "noun",
+    "meaningVi": "miền xác định của một hàm số",
+    "example": "The domain of this function excludes zero.",
+    "exampleVi": "Miền xác định của hàm số này không bao gồm số không.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "domestic",
+    "pos": "adjective",
+    "meaningVi": "thuộc gia đình hoặc việc nhà",
+    "example": "They share the domestic chores equally.",
+    "exampleVi": "Họ chia đều các công việc trong nhà.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "drama",
+    "pos": "noun",
+    "meaningVi": "chuyện ồn ào đầy cảm xúc hoặc xung đột",
+    "example": "I want a quiet evening without any family drama.",
+    "exampleVi": "Tôi muốn một buổi tối yên tĩnh, không có chuyện gia đình ồn ào.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "dynamic",
+    "pos": "noun",
+    "meaningVi": "động lực chi phối mối quan hệ hoặc hệ thống",
+    "example": "Competition changed the dynamic between the two friends.",
+    "exampleVi": "Sự cạnh tranh làm thay đổi động lực trong mối quan hệ giữa hai người bạn.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "economy",
+    "pos": "noun",
+    "meaningVi": "sự tiết kiệm trong sử dụng nguồn lực",
+    "example": "The design achieves economy in its use of materials.",
+    "exampleVi": "Thiết kế đạt được sự tiết kiệm trong việc sử dụng vật liệu.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "element",
+    "pos": "noun",
+    "meaningVi": "nguyên tố hóa học",
+    "example": "Oxygen is an element essential to human life.",
+    "exampleVi": "Ôxy là một nguyên tố thiết yếu đối với sự sống của con người.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "emphasis",
+    "pos": "noun",
+    "meaningVi": "kiểu nhấn chữ trong văn bản",
+    "example": "Use italics for emphasis in the final sentence.",
+    "exampleVi": "Dùng chữ nghiêng để nhấn mạnh câu cuối.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "energy",
+    "pos": "noun",
+    "meaningVi": "sức lực và sự hăng hái của con người",
+    "example": "She had enough energy to run after work.",
+    "exampleVi": "Cô ấy có đủ sức để chạy bộ sau giờ làm.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "environment",
+    "pos": "noun",
+    "meaningVi": "môi trường chạy của một chương trình máy tính",
+    "example": "Run the script in a separate testing environment.",
+    "exampleVi": "Chạy tập lệnh trong một môi trường kiểm thử riêng.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "equate",
+    "pos": "verb",
+    "meaningVi": "làm hai đại lượng bằng nhau",
+    "example": "Equate the two expressions to find the unknown value.",
+    "exampleVi": "Cho hai biểu thức bằng nhau để tìm giá trị chưa biết.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "error",
+    "pos": "noun",
+    "meaningVi": "sai số giữa giá trị đo và giá trị thực",
+    "example": "The measurement has an error of two millimetres.",
+    "exampleVi": "Phép đo có sai số hai milimét.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "estate",
+    "pos": "noun",
+    "meaningVi": "toàn bộ tài sản của người đã mất",
+    "example": "Her children inherited the estate after her death.",
+    "exampleVi": "Các con của bà thừa kế khối tài sản sau khi bà qua đời.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "ethic",
+    "pos": "noun",
+    "meaningVi": "hệ thống nguyên tắc đạo đức của một nhóm",
+    "example": "An ethic of honesty guides the organisation.",
+    "exampleVi": "Một hệ nguyên tắc đề cao sự trung thực định hướng cho tổ chức.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "evolve",
+    "pos": "verb",
+    "meaningVi": "dần phát triển một kế hoạch hoặc ý tưởng",
+    "example": "We hope to evolve a better plan through discussion.",
+    "exampleVi": "Chúng tôi hy vọng dần xây dựng được kế hoạch tốt hơn qua thảo luận.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "expert",
+    "pos": "adjective",
+    "meaningVi": "thành thạo một lĩnh vực",
+    "example": "The repair requires expert knowledge of electronics.",
+    "exampleVi": "Việc sửa chữa đòi hỏi kiến thức chuyên sâu về điện tử.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "export",
+    "pos": "verb",
+    "meaningVi": "bán hàng ra nước ngoài",
+    "example": "The farmers export coffee to several countries.",
+    "exampleVi": "Những người nông dân xuất khẩu cà phê sang nhiều nước.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "expose",
+    "pos": "verb",
+    "meaningVi": "cho phim ảnh hoặc cảm biến tiếp xúc với ánh sáng",
+    "example": "Do not expose the photographic film to bright light.",
+    "exampleVi": "Không để phim ảnh tiếp xúc với ánh sáng mạnh.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "external",
+    "pos": "noun",
+    "meaningVi": "hình thức bề ngoài của một vật",
+    "example": "The building's externals hide a surprisingly modern interior.",
+    "exampleVi": "Vẻ ngoài của tòa nhà che giấu một nội thất hiện đại đến bất ngờ.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "factor",
+    "pos": "verb",
+    "meaningVi": "phân tích một số thành các thừa số",
+    "example": "Factor twelve into two times two times three.",
+    "exampleVi": "Phân tích mười hai thành hai nhân hai nhân ba.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "feature",
+    "pos": "verb",
+    "meaningVi": "có ai hoặc cái gì là điểm nổi bật",
+    "example": "The exhibition will feature paintings by local artists.",
+    "exampleVi": "Triển lãm sẽ lấy các bức tranh của họa sĩ địa phương làm điểm nổi bật.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "file",
+    "pos": "verb",
+    "meaningVi": "mài nhẵn bằng giũa",
+    "example": "File the rough edge until it feels smooth.",
+    "exampleVi": "Giũa cạnh thô cho đến khi nó nhẵn.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "final",
+    "pos": "noun",
+    "meaningVi": "trận chung kết",
+    "example": "Our team reached the final after a close match.",
+    "exampleVi": "Đội chúng tôi vào trận chung kết sau một trận đấu sít sao.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "finance",
+    "pos": "verb",
+    "meaningVi": "cấp vốn cho một hoạt động",
+    "example": "The bank will finance the construction of the bridge.",
+    "exampleVi": "Ngân hàng sẽ cấp vốn xây dựng cây cầu.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "finite",
+    "pos": "adjective",
+    "meaningVi": "có chia theo thì và ngôi, như động từ hữu hạn",
+    "example": "A finite verb changes to show tense or agreement.",
+    "exampleVi": "Động từ hữu hạn biến đổi để thể hiện thì hoặc sự hòa hợp ngữ pháp.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "focus",
+    "pos": "noun",
+    "meaningVi": "độ nét của hình ảnh",
+    "example": "Adjust the lens until the image is in focus.",
+    "exampleVi": "Điều chỉnh ống kính cho đến khi hình ảnh rõ nét.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "format",
+    "pos": "verb",
+    "meaningVi": "sắp xếp hoặc định dạng lại tài liệu",
+    "example": "Format the report with clear headings and page numbers.",
+    "exampleVi": "Định dạng báo cáo với các tiêu đề rõ ràng và số trang.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "foundation",
+    "pos": "noun",
+    "meaningVi": "tổ chức được lập để tài trợ hoạt động từ thiện",
+    "example": "The foundation funds scholarships for rural students.",
+    "exampleVi": "Quỹ này tài trợ học bổng cho học sinh nông thôn.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "function",
+    "pos": "verb",
+    "meaningVi": "hoạt động đúng chức năng",
+    "example": "The old printer can still function without the new software.",
+    "exampleVi": "Máy in cũ vẫn có thể hoạt động mà không cần phần mềm mới.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "fund",
+    "pos": "noun",
+    "meaningVi": "quỹ tiền dành cho một mục đích",
+    "example": "The town created a fund to repair the library.",
+    "exampleVi": "Thị trấn lập một quỹ để sửa thư viện.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "gender",
+    "pos": "noun",
+    "meaningVi": "giống ngữ pháp của danh từ",
+    "example": "French nouns have grammatical gender.",
+    "exampleVi": "Danh từ tiếng Pháp có giống ngữ pháp.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "generation",
+    "pos": "noun",
+    "meaningVi": "việc tạo ra điện hoặc năng lượng",
+    "example": "The plant uses sunlight for electricity generation.",
+    "exampleVi": "Nhà máy dùng ánh nắng để sản xuất điện.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "globe",
+    "pos": "noun",
+    "meaningVi": "vật có hình cầu như quả cầu thủy tinh",
+    "example": "A glass globe covers the small lamp.",
+    "exampleVi": "Một quả cầu thủy tinh bao bọc chiếc đèn nhỏ.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "goal",
+    "pos": "noun",
+    "meaningVi": "khung thành trong thể thao",
+    "example": "The goalkeeper stood in front of the goal.",
+    "exampleVi": "Thủ môn đứng trước khung thành.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "grade",
+    "pos": "verb",
+    "meaningVi": "san phẳng mặt đường hoặc nền đất",
+    "example": "Workers will grade the ground before building the road.",
+    "exampleVi": "Công nhân sẽ san phẳng đất trước khi làm đường.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "grant",
+    "pos": "verb",
+    "meaningVi": "thừa nhận một điều là đúng",
+    "example": "I grant that your argument has some merit.",
+    "exampleVi": "Tôi thừa nhận rằng lập luận của bạn có phần hợp lý.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "hence",
+    "pos": "adverb",
+    "meaningVi": "từ thời điểm này trở đi",
+    "example": "The project should be complete six months hence.",
+    "exampleVi": "Dự án dự kiến hoàn thành sau sáu tháng kể từ bây giờ.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "highlight",
+    "pos": "noun",
+    "meaningVi": "vùng sáng nhất trong bức ảnh",
+    "example": "The bright highlight on the vase adds depth to the photo.",
+    "exampleVi": "Vùng sáng nổi bật trên chiếc bình tạo chiều sâu cho bức ảnh.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "ignorant",
+    "pos": "adjective",
+    "meaningVi": "thô lỗ và thiếu ý tứ (cách dùng Anh-Anh)",
+    "example": "He was ignorant and rude to the shop assistant.",
+    "exampleVi": "Anh ấy cư xử thô lỗ và thiếu ý tứ với nhân viên bán hàng.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "image",
+    "pos": "verb",
+    "meaningVi": "tạo hình ảnh bằng thiết bị y tế",
+    "example": "The scanner can image the brain in great detail.",
+    "exampleVi": "Máy quét có thể tạo hình ảnh bộ não rất chi tiết.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "implicate",
+    "pos": "verb",
+    "meaningVi": "kéo theo một hệ quả theo logic",
+    "example": "Changing this assumption would implicate a different conclusion.",
+    "exampleVi": "Thay đổi giả định này sẽ kéo theo một kết luận khác.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "implicit",
+    "pos": "adjective",
+    "meaningVi": "tuyệt đối và không kèm điều kiện như lòng tin",
+    "example": "She has implicit trust in her closest friend.",
+    "exampleVi": "Cô ấy tin tưởng tuyệt đối vào người bạn thân nhất.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "incidence",
+    "pos": "noun",
+    "meaningVi": "góc chiếu của một tia sáng lên bề mặt",
+    "example": "The angle of incidence changes as the mirror turns.",
+    "exampleVi": "Góc tới thay đổi khi gương xoay.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "incline",
+    "pos": "noun",
+    "meaningVi": "sườn dốc hoặc con đường dốc",
+    "example": "The cyclist struggled up the steep incline.",
+    "exampleVi": "Người đi xe đạp vất vả leo lên con dốc đứng.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "individual",
+    "pos": "adjective",
+    "meaningVi": "riêng lẻ, tách biệt khỏi tập thể",
+    "example": "Place each sample in an individual container.",
+    "exampleVi": "Đặt mỗi mẫu trong một hộp riêng.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "initiate",
+    "pos": "verb",
+    "meaningVi": "kết nạp một người vào nhóm bằng nghi lễ",
+    "example": "The society will initiate its new members tonight.",
+    "exampleVi": "Hội sẽ làm lễ kết nạp thành viên mới vào tối nay.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "input",
+    "pos": "verb",
+    "meaningVi": "nhập dữ liệu vào hệ thống",
+    "example": "Input your name and address into the form.",
+    "exampleVi": "Nhập tên và địa chỉ của bạn vào biểu mẫu.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "insert",
+    "pos": "noun",
+    "meaningVi": "tờ rời được kẹp thêm vào sách hoặc báo",
+    "example": "The newspaper included an insert about local events.",
+    "exampleVi": "Tờ báo có kèm một tờ rời về các sự kiện địa phương.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "institute",
+    "pos": "verb",
+    "meaningVi": "thiết lập hoặc khởi xướng một thủ tục",
+    "example": "The school will institute a new attendance policy.",
+    "exampleVi": "Nhà trường sẽ thiết lập một quy định điểm danh mới.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "instruct",
+    "pos": "verb",
+    "meaningVi": "ra lệnh theo thẩm quyền",
+    "example": "The officer may instruct drivers to leave the road.",
+    "exampleVi": "Viên cảnh sát có thể ra lệnh cho tài xế rời khỏi đường.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "integrity",
+    "pos": "noun",
+    "meaningVi": "tình trạng nguyên vẹn, không bị hỏng",
+    "example": "Cracks threatened the structural integrity of the bridge.",
+    "exampleVi": "Các vết nứt đe dọa sự toàn vẹn kết cấu của cây cầu.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "intermediate",
+    "pos": "noun",
+    "meaningVi": "chất trung gian tạo ra giữa các bước phản ứng",
+    "example": "This intermediate forms during the first reaction step.",
+    "exampleVi": "Chất trung gian này hình thành trong bước phản ứng đầu tiên.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "internal",
+    "pos": "adjective",
+    "meaningVi": "thuộc phạm vi trong nước thay vì quốc tế",
+    "example": "The minister discussed the country's internal affairs.",
+    "exampleVi": "Bộ trưởng bàn về các vấn đề nội bộ của đất nước.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "invest",
+    "pos": "verb",
+    "meaningVi": "trao cho ai quyền lực hoặc một chức vụ",
+    "example": "The ceremony will invest the new president with authority.",
+    "exampleVi": "Buổi lễ sẽ trao quyền cho vị chủ tịch mới.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "issue",
+    "pos": "verb",
+    "meaningVi": "cấp hoặc phát một giấy tờ chính thức",
+    "example": "The council will issue a permit after the inspection.",
+    "exampleVi": "Hội đồng sẽ cấp giấy phép sau cuộc kiểm tra.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "item",
+    "pos": "noun",
+    "meaningVi": "một đồ vật riêng lẻ trong một nhóm đồ vật",
+    "example": "Please wrap each fragile item separately.",
+    "exampleVi": "Vui lòng gói riêng từng đồ vật dễ vỡ.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "job",
+    "pos": "verb",
+    "meaningVi": "giao khoán một công việc cho bên khác",
+    "example": "The firm will job out the printing to a specialist.",
+    "exampleVi": "Công ty sẽ giao khoán việc in ấn cho một đơn vị chuyên môn.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "journal",
+    "pos": "noun",
+    "meaningVi": "sổ nhật ký ghi chép hằng ngày",
+    "example": "She keeps a journal of her travels.",
+    "exampleVi": "Cô ấy ghi nhật ký về các chuyến đi của mình.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "label",
+    "pos": "noun",
+    "meaningVi": "miếng nhãn gắn lên đồ vật",
+    "example": "The label on the jar lists all the ingredients.",
+    "exampleVi": "Nhãn trên lọ liệt kê tất cả thành phần.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "labour",
+    "pos": "verb",
+    "meaningVi": "trải qua cơn chuyển dạ",
+    "example": "She began to labour during the night.",
+    "exampleVi": "Cô ấy bắt đầu chuyển dạ trong đêm.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "layer",
+    "pos": "verb",
+    "meaningVi": "xếp thành nhiều lớp",
+    "example": "Layer the potatoes and cheese in the baking dish.",
+    "exampleVi": "Xếp khoai tây và phô mai thành các lớp trong khay nướng.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "lecture",
+    "pos": "verb",
+    "meaningVi": "khiển trách ai đó bằng giọng dạy đời",
+    "example": "Please do not lecture me about every small mistake.",
+    "exampleVi": "Đừng lên lớp tôi về từng lỗi nhỏ.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "levy",
+    "pos": "verb",
+    "meaningVi": "đánh thuế hoặc thu một khoản bắt buộc",
+    "example": "The council may levy a fee on vacant properties.",
+    "exampleVi": "Hội đồng có thể áp một khoản phí lên các bất động sản bỏ trống.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "liberal",
+    "pos": "noun",
+    "meaningVi": "người theo tư tưởng tự do",
+    "example": "As a liberal, she supports equal rights and free debate.",
+    "exampleVi": "Là người theo tư tưởng tự do, cô ấy ủng hộ quyền bình đẳng và tranh luận tự do.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "licence",
+    "pos": "noun",
+    "meaningVi": "sự tự do vượt khuôn phép được dung thứ",
+    "example": "The poet took artistic licence with the historical details.",
+    "exampleVi": "Nhà thơ sử dụng quyền tự do nghệ thuật đối với các chi tiết lịch sử.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "link",
+    "pos": "noun",
+    "meaningVi": "mắt xích của một sợi dây",
+    "example": "One broken link weakened the whole chain.",
+    "exampleVi": "Một mắt xích bị gãy làm cả sợi dây xích yếu đi.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "locate",
+    "pos": "verb",
+    "meaningVi": "xác định vị trí của người hoặc vật đang cần tìm",
+    "example": "The rescue team used a signal to locate the hikers.",
+    "exampleVi": "Đội cứu hộ dùng tín hiệu để xác định vị trí những người đi bộ đường dài.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "logic",
+    "pos": "noun",
+    "meaningVi": "mạch hoặc hệ logic trong thiết bị điện tử",
+    "example": "The chip's logic controls the sequence of operations.",
+    "exampleVi": "Hệ logic của con chip điều khiển trình tự các thao tác.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "major",
+    "pos": "noun",
+    "meaningVi": "chuyên ngành chính ở đại học",
+    "example": "Her major is environmental science.",
+    "exampleVi": "Chuyên ngành chính của cô ấy là khoa học môi trường.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "manual",
+    "pos": "noun",
+    "meaningVi": "sách hướng dẫn sử dụng",
+    "example": "The manual explains how to set up the camera.",
+    "exampleVi": "Sách hướng dẫn giải thích cách thiết lập máy ảnh.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "mechanism",
+    "pos": "noun",
+    "meaningVi": "bộ phận máy móc truyền chuyển động",
+    "example": "The clock's mechanism needs cleaning.",
+    "exampleVi": "Bộ máy của chiếc đồng hồ cần được làm sạch.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "media",
+    "pos": "noun",
+    "meaningVi": "vật liệu hoặc phương tiện dùng để sáng tác nghệ thuật",
+    "example": "The artist works in several media, including clay and ink.",
+    "exampleVi": "Nghệ sĩ sử dụng nhiều chất liệu, trong đó có đất sét và mực.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "medical",
+    "pos": "noun",
+    "meaningVi": "buổi khám sức khỏe tổng quát",
+    "example": "He must pass a medical before joining the team.",
+    "exampleVi": "Anh ấy phải vượt qua một buổi khám sức khỏe trước khi gia nhập đội.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "medium",
+    "pos": "adjective",
+    "meaningVi": "ở mức trung bình",
+    "example": "Bake the dish over medium heat.",
+    "exampleVi": "Nướng món ăn ở mức nhiệt trung bình.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "migrate",
+    "pos": "verb",
+    "meaningVi": "di chuyển theo mùa như chim hoặc động vật",
+    "example": "These birds migrate south every winter.",
+    "exampleVi": "Những con chim này di cư về phía nam mỗi mùa đông.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "military",
+    "pos": "noun",
+    "meaningVi": "lực lượng quân đội",
+    "example": "The military helped evacuate residents after the flood.",
+    "exampleVi": "Quân đội giúp sơ tán cư dân sau trận lũ.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "minimise",
+    "pos": "verb",
+    "meaningVi": "coi nhẹ tầm quan trọng của một vấn đề",
+    "example": "Do not minimise the seriousness of the problem.",
+    "exampleVi": "Đừng coi nhẹ mức độ nghiêm trọng của vấn đề.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "minimum",
+    "pos": "adjective",
+    "meaningVi": "ở mức thấp nhất được phép hoặc có thể",
+    "example": "The minimum age for entry is sixteen.",
+    "exampleVi": "Độ tuổi thấp nhất được phép vào là mười sáu.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "minor",
+    "pos": "noun",
+    "meaningVi": "người chưa đủ tuổi trưởng thành",
+    "example": "A minor needs parental permission to join the trip.",
+    "exampleVi": "Người chưa thành niên cần được cha mẹ cho phép để tham gia chuyến đi.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "mode",
+    "pos": "noun",
+    "meaningVi": "giá trị xuất hiện nhiều nhất trong tập dữ liệu",
+    "example": "The mode of this data set is four.",
+    "exampleVi": "Giá trị xuất hiện nhiều nhất trong tập dữ liệu này là bốn.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "modify",
+    "pos": "verb",
+    "meaningVi": "bổ nghĩa cho một từ trong ngữ pháp",
+    "example": "An adverb can modify a verb.",
+    "exampleVi": "Trạng từ có thể bổ nghĩa cho động từ.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "motive",
+    "pos": "adjective",
+    "meaningVi": "gây ra chuyển động",
+    "example": "Steam supplied the engine's motive power.",
+    "exampleVi": "Hơi nước cung cấp sức kéo cho động cơ.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "negate",
+    "pos": "verb",
+    "meaningVi": "bác bỏ một mệnh đề",
+    "example": "One counterexample can negate a universal claim.",
+    "exampleVi": "Một phản ví dụ có thể bác bỏ một khẳng định phổ quát.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "network",
+    "pos": "verb",
+    "meaningVi": "gặp gỡ để tạo quan hệ nghề nghiệp",
+    "example": "The conference gives graduates a chance to network.",
+    "exampleVi": "Hội nghị tạo cơ hội cho sinh viên mới tốt nghiệp xây dựng quan hệ nghề nghiệp.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "normal",
+    "pos": "noun",
+    "meaningVi": "đường vuông góc với một bề mặt",
+    "example": "Draw a normal to the surface at this point.",
+    "exampleVi": "Vẽ một đường vuông góc với bề mặt tại điểm này.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "notwithstanding",
+    "pos": "adverb",
+    "meaningVi": "tuy vậy, dù thế",
+    "example": "The plan has weaknesses; we support it notwithstanding.",
+    "exampleVi": "Kế hoạch có điểm yếu; dù vậy chúng tôi vẫn ủng hộ nó.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "nuclear",
+    "pos": "adjective",
+    "meaningVi": "thuộc nhân tế bào trong sinh học",
+    "example": "The stain makes the nuclear membrane visible.",
+    "exampleVi": "Thuốc nhuộm làm màng nhân tế bào hiện rõ.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "occupy",
+    "pos": "verb",
+    "meaningVi": "làm ai đó bận rộn trong một khoảng thời gian",
+    "example": "The puzzle will occupy the children for an hour.",
+    "exampleVi": "Câu đố sẽ khiến bọn trẻ bận rộn trong một giờ.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "odd",
+    "pos": "adjective",
+    "meaningVi": "lẻ, không chia hết cho hai",
+    "example": "Seven is an odd number.",
+    "exampleVi": "Bảy là một số lẻ.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "option",
+    "pos": "noun",
+    "meaningVi": "quyền mua hoặc bán tài sản theo các điều kiện đã định trong tương lai",
+    "example": "The contract gives her an option to buy the land.",
+    "exampleVi": "Hợp đồng cho cô ấy quyền mua mảnh đất theo điều kiện đã định.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "orient",
+    "pos": "verb",
+    "meaningVi": "xác định vị trí và phương hướng của bản thân trong môi trường",
+    "example": "Use the map to orient yourself before walking further.",
+    "exampleVi": "Dùng bản đồ để xác định phương hướng trước khi đi tiếp.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "output",
+    "pos": "verb",
+    "meaningVi": "tạo ra một lượng sản phẩm nhất định",
+    "example": "The factory can output five hundred units a day.",
+    "exampleVi": "Nhà máy có thể sản xuất năm trăm sản phẩm mỗi ngày.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "overlap",
+    "pos": "noun",
+    "meaningVi": "phần diện tích hoặc thời gian trùng nhau",
+    "example": "There is an overlap of ten minutes between the shifts.",
+    "exampleVi": "Hai ca làm việc có mười phút trùng nhau.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "overseas",
+    "pos": "adverb",
+    "meaningVi": "ra nước ngoài",
+    "example": "She travelled overseas to continue her studies.",
+    "exampleVi": "Cô ấy ra nước ngoài để tiếp tục học.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "panel",
+    "pos": "noun",
+    "meaningVi": "tấm phẳng dùng để ốp hoặc lắp ghép",
+    "example": "A wooden panel covers the damaged wall.",
+    "exampleVi": "Một tấm gỗ che phần tường bị hỏng.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "paradigm",
+    "pos": "noun",
+    "meaningVi": "bảng các dạng biến cách của một từ",
+    "example": "The textbook presents the full paradigm of the Latin noun.",
+    "exampleVi": "Sách giáo khoa trình bày đầy đủ bảng biến cách của danh từ Latin.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "paragraph",
+    "pos": "verb",
+    "meaningVi": "chia văn bản thành các đoạn",
+    "example": "Paragraph the essay so that each idea has its own section.",
+    "exampleVi": "Chia bài luận thành các đoạn để mỗi ý có phần riêng.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "parameter",
+    "pos": "noun",
+    "meaningVi": "tham số của một hàm hoặc mô hình",
+    "example": "Change this parameter to adjust the model's output.",
+    "exampleVi": "Thay đổi tham số này để điều chỉnh kết quả của mô hình.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "partner",
+    "pos": "verb",
+    "meaningVi": "cùng hợp tác với một người hoặc tổ chức",
+    "example": "The museum will partner with a local school.",
+    "exampleVi": "Bảo tàng sẽ hợp tác với một trường học địa phương.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "passive",
+    "pos": "noun",
+    "meaningVi": "thể bị động trong ngữ pháp",
+    "example": "Rewrite the sentence in the passive.",
+    "exampleVi": "Viết lại câu ở thể bị động.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "period",
+    "pos": "noun",
+    "meaningVi": "kỳ kinh nguyệt",
+    "example": "Her period began earlier than she expected.",
+    "exampleVi": "Kỳ kinh nguyệt của cô ấy bắt đầu sớm hơn dự kiến.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "perspective",
+    "pos": "noun",
+    "meaningVi": "phối cảnh tạo cảm giác chiều sâu trong tranh",
+    "example": "The artist used perspective to give the street depth.",
+    "exampleVi": "Họa sĩ dùng phối cảnh để tạo chiều sâu cho con phố.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "phenomenon",
+    "pos": "noun",
+    "meaningVi": "người hoặc vật có tài năng hay đặc điểm phi thường",
+    "example": "The young pianist became a musical phenomenon.",
+    "exampleVi": "Nghệ sĩ piano trẻ trở thành một hiện tượng âm nhạc.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "philosophy",
+    "pos": "noun",
+    "meaningVi": "môn triết học nghiên cứu các câu hỏi căn bản",
+    "example": "She studies philosophy at university.",
+    "exampleVi": "Cô ấy học triết học ở đại học.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "physical",
+    "pos": "adjective",
+    "meaningVi": "thuộc môn vật lý",
+    "example": "The experiment demonstrates a physical law about motion.",
+    "exampleVi": "Thí nghiệm minh họa một định luật vật lý về chuyển động.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "policy",
+    "pos": "noun",
+    "meaningVi": "hợp đồng bảo hiểm",
+    "example": "Our insurance policy covers damage caused by storms.",
+    "exampleVi": "Hợp đồng bảo hiểm của chúng tôi chi trả thiệt hại do bão.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "pose",
+    "pos": "noun",
+    "meaningVi": "tư thế để chụp ảnh hoặc vẽ",
+    "example": "The photographer asked her to hold the pose.",
+    "exampleVi": "Nhiếp ảnh gia yêu cầu cô ấy giữ nguyên tư thế.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "positive",
+    "pos": "noun",
+    "meaningVi": "bản ảnh dương có màu sáng tối như vật thật",
+    "example": "The photographer made a positive from the original negative.",
+    "exampleVi": "Nhiếp ảnh gia tạo một bản ảnh dương từ phim âm bản gốc.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "primary",
+    "pos": "noun",
+    "meaningVi": "cuộc bầu cử sơ bộ để chọn ứng viên",
+    "example": "The party will hold a primary to choose its candidate.",
+    "exampleVi": "Đảng sẽ tổ chức bầu cử sơ bộ để chọn ứng viên.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "prime",
+    "pos": "noun",
+    "meaningVi": "số nguyên tố",
+    "example": "Eleven is a prime because only one and eleven divide it.",
+    "exampleVi": "Mười một là số nguyên tố vì chỉ một và mười một chia hết nó.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "principal",
+    "pos": "noun",
+    "meaningVi": "hiệu trưởng của một trường",
+    "example": "The principal welcomed the new pupils.",
+    "exampleVi": "Hiệu trưởng chào đón các học sinh mới.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "prior",
+    "pos": "noun",
+    "meaningVi": "tu viện trưởng hoặc bề trên của tu viện",
+    "example": "The prior welcomed visitors to the monastery.",
+    "exampleVi": "Vị bề trên chào đón khách đến tu viện.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "process",
+    "pos": "verb",
+    "meaningVi": "chế biến nguyên liệu thành sản phẩm",
+    "example": "The factory will process milk into cheese.",
+    "exampleVi": "Nhà máy sẽ chế biến sữa thành phô mai.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "professional",
+    "pos": "noun",
+    "meaningVi": "người kiếm sống bằng một nghề chuyên môn",
+    "example": "Ask a professional to inspect the wiring.",
+    "exampleVi": "Nhờ một người có chuyên môn kiểm tra hệ thống dây điện.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "project",
+    "pos": "verb",
+    "meaningVi": "chiếu hình ảnh lên màn",
+    "example": "The machine can project images onto the wall.",
+    "exampleVi": "Máy có thể chiếu hình ảnh lên tường.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "publication",
+    "pos": "noun",
+    "meaningVi": "việc đưa thông tin ra cho công chúng",
+    "example": "Publication of the results is planned for next month.",
+    "exampleVi": "Việc công bố kết quả được dự kiến vào tháng tới.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "publish",
+    "pos": "verb",
+    "meaningVi": "xuất bản sách hoặc tạp chí",
+    "example": "The press will publish her first novel next spring.",
+    "exampleVi": "Nhà xuất bản sẽ xuất bản tiểu thuyết đầu tay của cô ấy vào mùa xuân tới.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "quote",
+    "pos": "noun",
+    "meaningVi": "đoạn được trích dẫn nguyên văn",
+    "example": "He included a short quote from the speech.",
+    "exampleVi": "Anh ấy đưa vào một đoạn trích ngắn từ bài phát biểu.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "random",
+    "pos": "adjective",
+    "meaningVi": "kỳ quặc hoặc chẳng ăn nhập với tình huống (khẩu ngữ)",
+    "example": "That was a random thing to say during a serious meeting.",
+    "exampleVi": "Đó là một câu nói chẳng ăn nhập gì trong một cuộc họp nghiêm túc.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "range",
+    "pos": "verb",
+    "meaningVi": "dao động trong một khoảng giá trị",
+    "example": "Prices range from ten to fifty dollars.",
+    "exampleVi": "Giá dao động từ mười đến năm mươi đô la.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "react",
+    "pos": "verb",
+    "meaningVi": "tham gia phản ứng hóa học",
+    "example": "The metal will react with the acid.",
+    "exampleVi": "Kim loại sẽ phản ứng với axit.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "regime",
+    "pos": "noun",
+    "meaningVi": "hệ thống quy tắc hoặc phương pháp được áp dụng trong một lĩnh vực",
+    "example": "The new inspection regime applies to every factory.",
+    "exampleVi": "Chế độ kiểm tra mới áp dụng cho mọi nhà máy.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "region",
+    "pos": "noun",
+    "meaningVi": "vùng xác định trên cơ thể",
+    "example": "The pain is in the lower abdominal region.",
+    "exampleVi": "Cơn đau nằm ở vùng bụng dưới.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "register",
+    "pos": "noun",
+    "meaningVi": "sổ ghi danh hoặc sổ bộ",
+    "example": "Write your name in the visitors' register.",
+    "exampleVi": "Ghi tên bạn vào sổ đăng ký khách.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "regulate",
+    "pos": "verb",
+    "meaningVi": "điều hòa nhiệt độ hoặc tốc độ",
+    "example": "The thermostat helps regulate the room temperature.",
+    "exampleVi": "Bộ điều nhiệt giúp điều hòa nhiệt độ phòng.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "relax",
+    "pos": "verb",
+    "meaningVi": "thư giãn sau khi căng thẳng",
+    "example": "She likes to relax with a book after work.",
+    "exampleVi": "Cô ấy thích thư giãn với một cuốn sách sau giờ làm.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "release",
+    "pos": "verb",
+    "meaningVi": "thả một người hoặc vật đang bị giữ",
+    "example": "The keeper will release the bird back into the wild.",
+    "exampleVi": "Người chăm sóc sẽ thả con chim trở lại tự nhiên.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "reluctance",
+    "pos": "noun",
+    "meaningVi": "từ trở của mạch từ trong vật lý",
+    "example": "An air gap increases the magnetic circuit's reluctance.",
+    "exampleVi": "Khe hở không khí làm tăng từ trở của mạch từ.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "research",
+    "pos": "verb",
+    "meaningVi": "nghiên cứu kỹ một chủ đề",
+    "example": "Students will research the history of their town.",
+    "exampleVi": "Học sinh sẽ nghiên cứu lịch sử thị trấn của mình.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "restrain",
+    "pos": "verb",
+    "meaningVi": "giữ chặt để ai đó không cử động",
+    "example": "Two guards had to restrain the struggling prisoner.",
+    "exampleVi": "Hai lính gác phải giữ chặt tù nhân đang giãy giụa.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "revise",
+    "pos": "verb",
+    "meaningVi": "ôn lại bài để chuẩn bị thi",
+    "example": "I need to revise for my chemistry exam.",
+    "exampleVi": "Tôi cần ôn tập cho kỳ thi hóa học.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "revolution",
+    "pos": "noun",
+    "meaningVi": "một vòng quay trọn của hành tinh",
+    "example": "The planet completes one revolution around its star.",
+    "exampleVi": "Hành tinh hoàn thành một vòng quay quanh ngôi sao của nó.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "role",
+    "pos": "noun",
+    "meaningVi": "vai diễn trong phim hoặc vở kịch",
+    "example": "She accepted a small role in the new film.",
+    "exampleVi": "Cô ấy nhận một vai nhỏ trong bộ phim mới.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "route",
+    "pos": "verb",
+    "meaningVi": "chuyển dữ liệu hoặc hàng hóa theo một tuyến",
+    "example": "The router will route the data through another server.",
+    "exampleVi": "Bộ định tuyến sẽ chuyển dữ liệu qua một máy chủ khác.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "schedule",
+    "pos": "verb",
+    "meaningVi": "sắp xếp một việc vào thời gian cụ thể",
+    "example": "Please schedule the interview for Tuesday morning.",
+    "exampleVi": "Vui lòng xếp lịch phỏng vấn vào sáng thứ Ba.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "scheme",
+    "pos": "verb",
+    "meaningVi": "âm mưu hoặc lên kế hoạch bí mật",
+    "example": "The characters scheme to seize the throne.",
+    "exampleVi": "Các nhân vật âm mưu chiếm ngôi.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "section",
+    "pos": "verb",
+    "meaningVi": "chia một bộ phận thành các lát cắt",
+    "example": "The technician will section the sample for examination.",
+    "exampleVi": "Kỹ thuật viên sẽ cắt mẫu thành các lát để kiểm tra.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "sector",
+    "pos": "noun",
+    "meaningVi": "hình quạt trong hình học",
+    "example": "A sector is bounded by two radii and an arc.",
+    "exampleVi": "Hình quạt được giới hạn bởi hai bán kính và một cung tròn.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "select",
+    "pos": "adjective",
+    "meaningVi": "chỉ dành cho một nhóm được chọn",
+    "example": "The club admits only a select group of guests.",
+    "exampleVi": "Câu lạc bộ chỉ tiếp nhận một nhóm khách được chọn lọc.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "sequence",
+    "pos": "verb",
+    "meaningVi": "xác định thứ tự các thành phần ADN",
+    "example": "Scientists will sequence the DNA from the sample.",
+    "exampleVi": "Các nhà khoa học sẽ xác định trình tự ADN của mẫu.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "series",
+    "pos": "noun",
+    "meaningVi": "phim hoặc chương trình nhiều tập",
+    "example": "The television series follows a family of doctors.",
+    "exampleVi": "Bộ phim truyền hình nhiều tập kể về một gia đình bác sĩ.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "site",
+    "pos": "verb",
+    "meaningVi": "đặt một công trình ở vị trí đã chọn",
+    "example": "They will site the new school near the station.",
+    "exampleVi": "Họ sẽ đặt trường học mới gần nhà ga.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "sole",
+    "pos": "noun",
+    "meaningVi": "đế của bàn chân hoặc giày",
+    "example": "A nail pierced the sole of his shoe.",
+    "exampleVi": "Một chiếc đinh xuyên qua đế giày của anh ấy.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "source",
+    "pos": "verb",
+    "meaningVi": "tìm nguồn cung ứng hàng hóa hoặc nguyên liệu",
+    "example": "The restaurant tries to source vegetables from local farms.",
+    "exampleVi": "Nhà hàng cố gắng tìm nguồn rau từ các trang trại địa phương.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "sphere",
+    "pos": "noun",
+    "meaningVi": "khối cầu trong hình học",
+    "example": "The ball is almost a perfect sphere.",
+    "exampleVi": "Quả bóng gần như là một khối cầu hoàn hảo.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "status",
+    "pos": "noun",
+    "meaningVi": "tình trạng hiện tại của một công việc",
+    "example": "Check the status of your order online.",
+    "exampleVi": "Kiểm tra tình trạng đơn hàng của bạn trên mạng.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "straightforward",
+    "pos": "adjective",
+    "meaningVi": "thẳng thắn, nói điều mình nghĩ",
+    "example": "She was straightforward about why she wanted to leave.",
+    "exampleVi": "Cô ấy thẳng thắn nói lý do muốn rời đi.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "stress",
+    "pos": "noun",
+    "meaningVi": "áp lực thể chất hoặc tinh thần",
+    "example": "The long working hours caused him considerable stress.",
+    "exampleVi": "Giờ làm việc kéo dài khiến anh ấy chịu áp lực tinh thần đáng kể.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "structure",
+    "pos": "verb",
+    "meaningVi": "tổ chức các phần theo một trật tự",
+    "example": "Structure the report around three main questions.",
+    "exampleVi": "Tổ chức báo cáo xoay quanh ba câu hỏi chính.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "style",
+    "pos": "verb",
+    "meaningVi": "tạo kiểu tóc hoặc tạo hình theo phong cách",
+    "example": "She asked the hairdresser to style her hair for the wedding.",
+    "exampleVi": "Cô ấy nhờ thợ làm tóc tạo kiểu cho đám cưới.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "subordinate",
+    "pos": "noun",
+    "meaningVi": "người cấp dưới",
+    "example": "The manager asked a subordinate to prepare the report.",
+    "exampleVi": "Người quản lý yêu cầu một nhân viên cấp dưới chuẩn bị báo cáo.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "substitute",
+    "pos": "noun",
+    "meaningVi": "người hoặc vật thay thế",
+    "example": "A substitute took over when the goalkeeper was injured.",
+    "exampleVi": "Một cầu thủ dự bị vào thay khi thủ môn bị chấn thương.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "successor",
+    "pos": "noun",
+    "meaningVi": "số nguyên đứng ngay sau một số khác",
+    "example": "The successor of eight is nine.",
+    "exampleVi": "Số nguyên liền sau tám là chín.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "sum",
+    "pos": "verb",
+    "meaningVi": "tóm tắt nội dung chính",
+    "example": "These two sentences sum up the main argument.",
+    "exampleVi": "Hai câu này tóm tắt lập luận chính.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "survey",
+    "pos": "verb",
+    "meaningVi": "đo đạc và lập bản đồ đất đai",
+    "example": "The engineers will survey the land before construction.",
+    "exampleVi": "Các kỹ sư sẽ đo đạc đất trước khi xây dựng.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "suspend",
+    "pos": "verb",
+    "meaningVi": "treo một vật lơ lửng trên cao",
+    "example": "Suspend the lamp from a hook in the ceiling.",
+    "exampleVi": "Treo chiếc đèn từ một móc trên trần nhà.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "symbol",
+    "pos": "noun",
+    "meaningVi": "ký hiệu đại diện cho một nguyên tố hóa học",
+    "example": "The chemical symbol for oxygen is O.",
+    "exampleVi": "Ký hiệu hóa học của ôxy là O.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "tape",
+    "pos": "verb",
+    "meaningVi": "dán một thứ bằng băng dính",
+    "example": "Tape the loose cable to the floor.",
+    "exampleVi": "Dán dây cáp bị lỏng xuống sàn bằng băng dính.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "target",
+    "pos": "verb",
+    "meaningVi": "nhắm vào một đối tượng cụ thể",
+    "example": "The campaign will target first-time voters.",
+    "exampleVi": "Chiến dịch sẽ nhắm đến những cử tri bỏ phiếu lần đầu.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "task",
+    "pos": "verb",
+    "meaningVi": "giao nhiệm vụ cho ai đó",
+    "example": "The manager will task her with organising the event.",
+    "exampleVi": "Người quản lý sẽ giao cho cô ấy nhiệm vụ tổ chức sự kiện.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "team",
+    "pos": "verb",
+    "meaningVi": "lập nhóm để cùng làm việc",
+    "example": "The two laboratories will team up to study the problem.",
+    "exampleVi": "Hai phòng thí nghiệm sẽ lập nhóm để nghiên cứu vấn đề.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "technical",
+    "pos": "adjective",
+    "meaningVi": "liên quan đến chi tiết chuyên môn chứ không phải ý chính",
+    "example": "There is a technical distinction between these two terms.",
+    "exampleVi": "Có một khác biệt về chuyên môn giữa hai thuật ngữ này.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "technology",
+    "pos": "noun",
+    "meaningVi": "các thiết bị được tạo ra bằng kỹ thuật",
+    "example": "The laboratory has modern technology for testing samples.",
+    "exampleVi": "Phòng thí nghiệm có thiết bị kỹ thuật hiện đại để kiểm tra mẫu.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "temporary",
+    "pos": "noun",
+    "meaningVi": "người làm công việc tạm thời",
+    "example": "The office hired a temporary to cover the holiday period.",
+    "exampleVi": "Văn phòng thuê một nhân viên thời vụ để làm thay trong kỳ nghỉ.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "tense",
+    "pos": "noun",
+    "meaningVi": "thì của động từ",
+    "example": "Use the past tense to describe yesterday's events.",
+    "exampleVi": "Dùng thì quá khứ để mô tả các sự kiện hôm qua.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "text",
+    "pos": "noun",
+    "meaningVi": "tin nhắn văn bản trên điện thoại",
+    "example": "She sent me a text to say she was late.",
+    "exampleVi": "Cô ấy gửi tin nhắn cho tôi để báo rằng mình đến muộn.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "theme",
+    "pos": "verb",
+    "meaningVi": "đặt một chủ đề chung cho sự kiện",
+    "example": "They will theme the festival around local history.",
+    "exampleVi": "Họ sẽ xây dựng lễ hội theo chủ đề lịch sử địa phương.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "theory",
+    "pos": "noun",
+    "meaningVi": "giả thuyết cá nhân chưa được chứng minh",
+    "example": "My theory is that the missing key is in the kitchen.",
+    "exampleVi": "Giả thuyết của tôi là chiếc chìa khóa bị mất đang ở trong bếp.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "thesis",
+    "pos": "noun",
+    "meaningVi": "luận điểm chính của một bài nghị luận",
+    "example": "The essay's thesis is that public transport needs more funding.",
+    "exampleVi": "Luận điểm của bài luận là giao thông công cộng cần được tài trợ nhiều hơn.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "transit",
+    "pos": "verb",
+    "meaningVi": "đi ngang qua một khu vực",
+    "example": "The ship will transit the canal before dawn.",
+    "exampleVi": "Con tàu sẽ đi qua kênh trước bình minh.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "transmit",
+    "pos": "verb",
+    "meaningVi": "truyền tín hiệu qua khoảng cách",
+    "example": "The antenna can transmit signals across the valley.",
+    "exampleVi": "Ăng ten có thể truyền tín hiệu qua thung lũng.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "transport",
+    "pos": "verb",
+    "meaningVi": "vận chuyển người hoặc hàng hóa",
+    "example": "These trucks transport goods to the port.",
+    "exampleVi": "Những chiếc xe tải này vận chuyển hàng hóa đến cảng.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "underlie",
+    "pos": "verb",
+    "meaningVi": "nằm bên dưới một vật về vị trí",
+    "example": "Layers of clay underlie the sandy soil.",
+    "exampleVi": "Các lớp đất sét nằm bên dưới lớp đất cát.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "uniform",
+    "pos": "noun",
+    "meaningVi": "bộ đồng phục",
+    "example": "Every nurse wears a clean uniform.",
+    "exampleVi": "Mỗi y tá mặc một bộ đồng phục sạch.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "valid",
+    "pos": "adjective",
+    "meaningVi": "còn hiệu lực về pháp lý",
+    "example": "Your ticket is valid until the end of the month.",
+    "exampleVi": "Vé của bạn còn hiệu lực đến cuối tháng.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "version",
+    "pos": "noun",
+    "meaningVi": "cách kể của một người về sự việc",
+    "example": "Her version of the accident differed from his.",
+    "exampleVi": "Cách cô ấy kể về tai nạn khác với cách anh ấy kể.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "vision",
+    "pos": "noun",
+    "meaningVi": "khả năng nhìn bằng mắt",
+    "example": "The test checks your distance vision.",
+    "exampleVi": "Bài kiểm tra đánh giá khả năng nhìn xa của bạn.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "visual",
+    "pos": "noun",
+    "meaningVi": "hình minh họa trong bài thuyết trình",
+    "example": "Add a clear visual to explain the sales figures.",
+    "exampleVi": "Thêm một hình minh họa rõ ràng để giải thích số liệu bán hàng.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "volume",
+    "pos": "noun",
+    "meaningVi": "một quyển sách trong bộ nhiều tập",
+    "example": "The library owns the second volume of the encyclopedia.",
+    "exampleVi": "Thư viện có quyển thứ hai của bộ bách khoa toàn thư.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "welfare",
+    "pos": "noun",
+    "meaningVi": "tình trạng khỏe mạnh và hạnh phúc",
+    "example": "The shelter looks after the welfare of abandoned animals.",
+    "exampleVi": "Trung tâm cứu hộ chăm lo sức khỏe và đời sống của các động vật bị bỏ rơi.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "sex",
+    "pos": "verb",
+    "meaningVi": "xác định giới tính của động vật",
+    "example": "Trained workers sex the chicks shortly after hatching.",
+    "exampleVi": "Những nhân viên được đào tạo xác định giới tính gà con ngay sau khi nở.",
+    "sourceGroup": "awl"
+  },
+  {
+    "word": "transfer",
+    "pos": "noun",
+    "meaningVi": "người được chuyển sang đơn vị khác",
+    "example": "The new transfer joined our class on Monday.",
+    "exampleVi": "Học sinh mới chuyển đến gia nhập lớp chúng tôi vào thứ Hai.",
+    "sourceGroup": "awl"
+  }
+]

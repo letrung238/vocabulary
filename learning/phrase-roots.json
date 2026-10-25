@@ -1,0 +1,1027 @@
+{
+  "think": [
+    "think of",
+    "think about"
+  ],
+  "care": [
+    "care about",
+    "care for",
+    "take care of"
+  ],
+  "depend": [
+    "depend on"
+  ],
+  "rely": [
+    "rely on"
+  ],
+  "believe": [
+    "believe in"
+  ],
+  "belong": [
+    "belong to"
+  ],
+  "listen": [
+    "listen to"
+  ],
+  "look": [
+    "look at",
+    "look for",
+    "look after",
+    "look forward to",
+    "look into",
+    "look up to",
+    "look down on",
+    "look back on",
+    "look out for",
+    "look up",
+    "look down",
+    "look out",
+    "look in",
+    "look on",
+    "look over",
+    "look through",
+    "look around",
+    "look ahead",
+    "look away",
+    "look back",
+    "look to",
+    "look upon",
+    "look ahead to",
+    "look in on",
+    "look out on"
+  ],
+  "wait": [
+    "wait for",
+    "wait on",
+    "wait up",
+    "wait around",
+    "wait behind",
+    "wait up for"
+  ],
+  "ask": [
+    "ask for",
+    "ask about",
+    "ask after"
+  ],
+  "pay": [
+    "pay for",
+    "pay back",
+    "pay off"
+  ],
+  "apply": [
+    "apply for"
+  ],
+  "apologize": [
+    "apologize for",
+    "apologize to"
+  ],
+  "prepare": [
+    "prepare for"
+  ],
+  "search": [
+    "search for",
+    "search through"
+  ],
+  "hope": [
+    "hope for"
+  ],
+  "suffer": [
+    "suffer from"
+  ],
+  "recover": [
+    "recover from"
+  ],
+  "benefit": [
+    "benefit from"
+  ],
+  "approve": [
+    "approve of"
+  ],
+  "consist": [
+    "consist of"
+  ],
+  "dream": [
+    "dream of"
+  ],
+  "hear": [
+    "hear of",
+    "hear from"
+  ],
+  "result": [
+    "result in",
+    "result from"
+  ],
+  "deal": [
+    "deal with"
+  ],
+  "agree": [
+    "agree with",
+    "agree on",
+    "agree to"
+  ],
+  "talk": [
+    "talk to",
+    "talk about",
+    "talk over",
+    "talk through",
+    "talk back",
+    "talk down to",
+    "talk with"
+  ],
+  "laugh": [
+    "laugh at"
+  ],
+  "smile": [
+    "smile at"
+  ],
+  "arrive": [
+    "arrive at",
+    "arrive in"
+  ],
+  "put": [
+    "put up with",
+    "put on",
+    "put out",
+    "put away",
+    "put down",
+    "put up",
+    "put back",
+    "put in",
+    "put aside",
+    "put together",
+    "put forward",
+    "put across",
+    "put through",
+    "put in for"
+  ],
+  "get": [
+    "get along with",
+    "get rid of",
+    "get up",
+    "get down",
+    "get in",
+    "get out",
+    "get on",
+    "get off",
+    "get away",
+    "get back",
+    "get over",
+    "get through",
+    "get along",
+    "get around",
+    "get by",
+    "get ahead",
+    "get together",
+    "get across",
+    "get into",
+    "get out of",
+    "get away with",
+    "get back to",
+    "get down to",
+    "get on with",
+    "get around to",
+    "get through to",
+    "get away from",
+    "get in on",
+    "get off with",
+    "get up to",
+    "get on to"
+  ],
+  "come": [
+    "come up with",
+    "come in",
+    "come out",
+    "come on",
+    "come off",
+    "come up",
+    "come down",
+    "come back",
+    "come over",
+    "come through",
+    "come along",
+    "come around",
+    "come about",
+    "come across",
+    "come apart",
+    "come away",
+    "come forward",
+    "come to",
+    "come under",
+    "come after",
+    "come from",
+    "come into",
+    "come out of",
+    "come up against",
+    "come down with",
+    "come down to",
+    "come in for",
+    "come out with",
+    "come back to"
+  ],
+  "focus": [
+    "focus on"
+  ],
+  "concentrate": [
+    "concentrate on"
+  ],
+  "insist": [
+    "insist on"
+  ],
+  "refer": [
+    "refer to"
+  ],
+  "lead": [
+    "lead to"
+  ],
+  "contribute": [
+    "contribute to"
+  ],
+  "object": [
+    "object to"
+  ],
+  "respond": [
+    "respond to"
+  ],
+  "reply": [
+    "reply to"
+  ],
+  "adapt": [
+    "adapt to"
+  ],
+  "adjust": [
+    "adjust to"
+  ],
+  "account": [
+    "account for"
+  ],
+  "allow": [
+    "allow for"
+  ],
+  "stand": [
+    "stand for",
+    "stand up",
+    "stand down",
+    "stand out",
+    "stand by",
+    "stand back",
+    "stand aside",
+    "stand against",
+    "stand up for",
+    "stand up to",
+    "stand in for",
+    "stand out from"
+  ],
+  "count": [
+    "count on"
+  ],
+  "keep": [
+    "keep up with",
+    "keep up",
+    "keep on",
+    "keep off",
+    "keep out",
+    "keep away",
+    "keep back",
+    "keep down",
+    "keep in",
+    "keep at",
+    "keep ahead of",
+    "keep away from",
+    "keep out of",
+    "keep on at",
+    "keep to",
+    "keep from"
+  ],
+  "catch": [
+    "catch up with",
+    "catch on"
+  ],
+  "break": [
+    "break into",
+    "break up",
+    "break down",
+    "break in",
+    "break out",
+    "break off",
+    "break away",
+    "break through",
+    "break apart",
+    "break with",
+    "break away from",
+    "break out of",
+    "break in on",
+    "break up with"
+  ],
+  "turn": [
+    "turn into",
+    "turn on",
+    "turn off",
+    "turn up",
+    "turn down",
+    "turn out",
+    "turn in",
+    "turn over",
+    "turn around",
+    "turn back",
+    "turn away",
+    "turn to",
+    "turn against",
+    "turn over to",
+    "turn out for"
+  ],
+  "cope": [
+    "cope with"
+  ],
+  "provide": [
+    "provide for"
+  ],
+  "learn": [
+    "learn from"
+  ],
+  "speak": [
+    "speak to",
+    "speak about",
+    "speak up",
+    "speak out",
+    "speak with",
+    "speak for",
+    "speak of",
+    "speak out against"
+  ],
+  "worry": [
+    "worry about"
+  ],
+  "complain": [
+    "complain about"
+  ],
+  "argue": [
+    "argue about",
+    "argue with"
+  ],
+  "participate": [
+    "participate in"
+  ],
+  "succeed": [
+    "succeed in"
+  ],
+  "specialize": [
+    "specialize in"
+  ],
+  "invest": [
+    "invest in"
+  ],
+  "work": [
+    "work on",
+    "work out",
+    "work at",
+    "work up",
+    "work through",
+    "work around",
+    "work away",
+    "work off",
+    "work in",
+    "work up to",
+    "work out at"
+  ],
+  "comment": [
+    "comment on"
+  ],
+  "appeal": [
+    "appeal to"
+  ],
+  "correspond": [
+    "correspond to",
+    "correspond with"
+  ],
+  "choose": [
+    "choose between"
+  ],
+  "decide": [
+    "decide on",
+    "decide against"
+  ],
+  "vote": [
+    "vote for",
+    "vote against"
+  ],
+  "refrain": [
+    "refrain from"
+  ],
+  "abstain": [
+    "abstain from"
+  ],
+  "escape": [
+    "escape from"
+  ],
+  "graduate": [
+    "graduate from"
+  ],
+  "differ": [
+    "differ from"
+  ],
+  "derive": [
+    "derive from"
+  ],
+  "originate": [
+    "originate from"
+  ],
+  "stem": [
+    "stem from"
+  ],
+  "compete": [
+    "compete with",
+    "compete for"
+  ],
+  "struggle": [
+    "struggle with",
+    "struggle for"
+  ],
+  "interfere": [
+    "interfere with",
+    "interfere in"
+  ],
+  "cooperate": [
+    "cooperate with"
+  ],
+  "collaborate": [
+    "collaborate with"
+  ],
+  "communicate": [
+    "communicate with"
+  ],
+  "connect": [
+    "connect to"
+  ],
+  "relate": [
+    "relate to"
+  ],
+  "react": [
+    "react to"
+  ],
+  "resort": [
+    "resort to"
+  ],
+  "add": [
+    "add to"
+  ],
+  "amount": [
+    "amount to"
+  ],
+  "attend": [
+    "attend to"
+  ],
+  "return": [
+    "return to"
+  ],
+  "stick": [
+    "stick to"
+  ],
+  "resign": [
+    "resign from"
+  ],
+  "withdraw": [
+    "withdraw from"
+  ],
+  "consent": [
+    "consent to"
+  ],
+  "crash": [
+    "crash into"
+  ],
+  "bump": [
+    "bump into"
+  ],
+  "interested": [
+    "interested in"
+  ],
+  "good": [
+    "good at",
+    "good for",
+    "good with"
+  ],
+  "bad": [
+    "bad at",
+    "bad for",
+    "bad with"
+  ],
+  "afraid": [
+    "afraid of",
+    "afraid for"
+  ],
+  "proud": [
+    "proud of"
+  ],
+  "aware": [
+    "aware of"
+  ],
+  "responsible": [
+    "responsible for",
+    "responsible to"
+  ],
+  "familiar": [
+    "familiar with",
+    "familiar to"
+  ],
+  "similar": [
+    "similar to",
+    "similar in"
+  ],
+  "different": [
+    "different from"
+  ],
+  "capable": [
+    "capable of"
+  ],
+  "dependent": [
+    "dependent on"
+  ],
+  "satisfied": [
+    "satisfied with",
+    "satisfied by"
+  ],
+  "disappointed": [
+    "disappointed with"
+  ],
+  "concerned": [
+    "concerned about",
+    "concerned with",
+    "concerned for"
+  ],
+  "excited": [
+    "excited about",
+    "excited at",
+    "excited by"
+  ],
+  "tired": [
+    "tired of",
+    "tired from"
+  ],
+  "keen": [
+    "keen on"
+  ],
+  "suitable": [
+    "suitable for"
+  ],
+  "allergic": [
+    "allergic to"
+  ],
+  "eat": [
+    "eat out"
+  ],
+  "go": [
+    "go up",
+    "go down",
+    "go in",
+    "go out",
+    "go on",
+    "go off",
+    "go away",
+    "go back",
+    "go over",
+    "go through",
+    "go along",
+    "go around",
+    "go by",
+    "go ahead",
+    "go under",
+    "go without",
+    "go against",
+    "go after",
+    "go for",
+    "go into",
+    "go out with",
+    "go back on",
+    "go through with",
+    "go along with",
+    "go in for",
+    "go off on",
+    "go over to",
+    "go down with",
+    "go back to",
+    "go on about",
+    "go out of",
+    "go down as"
+  ],
+  "take": [
+    "take off",
+    "take on",
+    "take over",
+    "take up",
+    "take in",
+    "take out",
+    "take away",
+    "take back",
+    "take down",
+    "take apart",
+    "take after",
+    "take to",
+    "take against",
+    "take along",
+    "take over from",
+    "take up with",
+    "take away from"
+  ],
+  "give": [
+    "give up",
+    "give in",
+    "give out",
+    "give away",
+    "give back",
+    "give off",
+    "give over",
+    "give up on",
+    "give in to",
+    "give way to",
+    "give rise to",
+    "give vent to"
+  ],
+  "make": [
+    "make out",
+    "make off",
+    "make for",
+    "make over",
+    "make up for",
+    "make off with",
+    "make do with",
+    "make room for",
+    "make use of",
+    "make fun of",
+    "make sense of",
+    "make light of",
+    "make way for"
+  ],
+  "read": [
+    "read out",
+    "read through",
+    "read up on",
+    "read over"
+  ],
+  "bring": [
+    "bring up",
+    "bring down",
+    "bring in",
+    "bring out",
+    "bring back",
+    "bring along",
+    "bring about",
+    "bring around",
+    "bring forward",
+    "bring together",
+    "bring over",
+    "bring on",
+    "bring off"
+  ],
+  "run": [
+    "run up",
+    "run down",
+    "run out",
+    "run in",
+    "run off",
+    "run away",
+    "run back",
+    "run over",
+    "run through",
+    "run around",
+    "run into",
+    "run across",
+    "run after",
+    "run against",
+    "run on",
+    "run up against",
+    "run away from",
+    "run off with",
+    "run out on",
+    "run up to"
+  ],
+  "call": [
+    "call up",
+    "call off",
+    "call out",
+    "call back",
+    "call in",
+    "call on",
+    "call for",
+    "call at",
+    "call around",
+    "call by",
+    "call upon",
+    "call out for"
+  ],
+  "carry": [
+    "carry out",
+    "carry over",
+    "carry off",
+    "carry away",
+    "carry through",
+    "carry forward",
+    "carry on with"
+  ],
+  "hold": [
+    "hold on",
+    "hold off",
+    "hold out",
+    "hold up",
+    "hold back",
+    "hold down",
+    "hold together",
+    "hold out for",
+    "hold on to",
+    "hold out on"
+  ],
+  "wear": [
+    "wear out",
+    "wear off"
+  ],
+  "fall": [
+    "fall down",
+    "fall over",
+    "fall off",
+    "fall out",
+    "fall behind",
+    "fall apart",
+    "fall through",
+    "fall back",
+    "fall for",
+    "fall into",
+    "fall on",
+    "fall out with",
+    "fall back on",
+    "fall in with",
+    "fall away"
+  ],
+  "cut": [
+    "cut down",
+    "cut off",
+    "cut out",
+    "cut back",
+    "cut up",
+    "cut in",
+    "cut across",
+    "cut through",
+    "cut down on",
+    "cut back on",
+    "cut in on"
+  ],
+  "pass": [
+    "pass out",
+    "pass away",
+    "pass on",
+    "pass by",
+    "pass over",
+    "pass through",
+    "pass around",
+    "pass down",
+    "pass off",
+    "pass up",
+    "pass on to"
+  ],
+  "move": [
+    "move on",
+    "move out",
+    "move in",
+    "move up",
+    "move back",
+    "move over",
+    "move away",
+    "move along",
+    "move into",
+    "move on to",
+    "move away from"
+  ],
+  "drop": [
+    "drop off",
+    "drop out",
+    "drop in",
+    "drop by",
+    "drop back",
+    "drop away",
+    "drop over",
+    "drop out of",
+    "drop in on"
+  ],
+  "leave": [
+    "leave out",
+    "leave off",
+    "leave behind",
+    "leave aside",
+    "leave for"
+  ],
+  "send": [
+    "send back",
+    "send out"
+  ],
+  "let": [
+    "let down",
+    "let in",
+    "let out",
+    "let off",
+    "let on",
+    "let up",
+    "let go of"
+  ],
+  "see": [
+    "see off",
+    "see through",
+    "see to",
+    "see about"
+  ],
+  "build": [
+    "build on"
+  ],
+  "show": [
+    "show up",
+    "show off",
+    "show around",
+    "show in",
+    "show out",
+    "show through"
+  ],
+  "hand": [
+    "hand in"
+  ],
+  "walk": [
+    "walk away",
+    "walk out",
+    "walk in",
+    "walk over",
+    "walk off",
+    "walk up to",
+    "walk away from",
+    "walk out on"
+  ],
+  "help": [
+    "help out",
+    "help with",
+    "help up",
+    "help along"
+  ],
+  "stay": [
+    "stay in",
+    "stay out",
+    "stay up",
+    "stay on",
+    "stay away",
+    "stay behind",
+    "stay over",
+    "stay away from"
+  ],
+  "write": [
+    "write down",
+    "write up",
+    "write out",
+    "write off",
+    "write in",
+    "write back",
+    "write to"
+  ],
+  "angry": [
+    "angry with",
+    "angry at",
+    "angry about"
+  ],
+  "bored": [
+    "bored with",
+    "bored by"
+  ],
+  "careful": [
+    "careful with",
+    "careful about"
+  ],
+  "friendly": [
+    "friendly to",
+    "friendly with"
+  ],
+  "honest": [
+    "honest with",
+    "honest about"
+  ],
+  "loyal": [
+    "loyal to"
+  ],
+  "polite": [
+    "polite to"
+  ],
+  "rude": [
+    "rude to",
+    "rude about"
+  ],
+  "nervous": [
+    "nervous about",
+    "nervous of"
+  ],
+  "jealous": [
+    "jealous of"
+  ],
+  "suspicious": [
+    "suspicious of"
+  ],
+  "conscious": [
+    "conscious of"
+  ],
+  "ashamed": [
+    "ashamed of"
+  ],
+  "curious": [
+    "curious about"
+  ],
+  "eager": [
+    "eager for"
+  ],
+  "fond": [
+    "fond of"
+  ],
+  "free": [
+    "free from",
+    "free of",
+    "free with"
+  ],
+  "grateful": [
+    "grateful for",
+    "grateful to"
+  ],
+  "guilty": [
+    "guilty of",
+    "guilty about"
+  ],
+  "happy": [
+    "happy with",
+    "happy about",
+    "happy for"
+  ],
+  "late": [
+    "late for",
+    "late with"
+  ],
+  "ready": [
+    "ready for"
+  ],
+  "safe": [
+    "safe from",
+    "safe for"
+  ],
+  "serious": [
+    "serious about"
+  ],
+  "worthy": [
+    "worthy of"
+  ],
+  "anxious": [
+    "anxious about",
+    "anxious for"
+  ],
+  "available": [
+    "available for",
+    "available to"
+  ],
+  "busy": [
+    "busy with"
+  ],
+  "desperate": [
+    "desperate for"
+  ],
+  "devoted": [
+    "devoted to"
+  ],
+  "equal": [
+    "equal to",
+    "equal in"
+  ],
+  "essential": [
+    "essential for",
+    "essential to"
+  ],
+  "independent": [
+    "independent of"
+  ],
+  "kind": [
+    "kind to",
+    "kind of"
+  ],
+  "limited": [
+    "limited to",
+    "limited by"
+  ],
+  "opposed": [
+    "opposed to"
+  ],
+  "patient": [
+    "patient with"
+  ],
+  "qualified": [
+    "qualified for"
+  ],
+  "relevant": [
+    "relevant to"
+  ],
+  "sensitive": [
+    "sensitive to",
+    "sensitive about"
+  ],
+  "shocked": [
+    "shocked by",
+    "shocked at"
+  ],
+  "sick": [
+    "sick of"
+  ]
+}

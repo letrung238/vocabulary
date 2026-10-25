@@ -1,0 +1,128 @@
+[
+  {
+    "word": "ship",
+    "ipa": "/ʃɪp/",
+    "meaningVi": "tàu",
+    "example": "The ship is large.",
+    "exampleVi": "Con tàu này rất lớn."
+  },
+  {
+    "word": "sheep",
+    "ipa": "/ʃiːp/",
+    "meaningVi": "cừu",
+    "example": "The sheep is small.",
+    "exampleVi": "Con cừu này nhỏ."
+  },
+  {
+    "word": "thin",
+    "ipa": "/θɪn/",
+    "meaningVi": "mỏng",
+    "example": "The sheet is thin.",
+    "exampleVi": "Tấm này mỏng."
+  },
+  {
+    "word": "tin",
+    "ipa": "/tɪn/",
+    "meaningVi": "thiếc",
+    "example": "The can is made of tin.",
+    "exampleVi": "Chiếc hộp được làm bằng thiếc."
+  },
+  {
+    "word": "bed",
+    "ipa": "/bed/",
+    "meaningVi": "giường",
+    "example": "The bed is comfortable.",
+    "exampleVi": "Chiếc giường rất thoải mái."
+  },
+  {
+    "word": "bad",
+    "ipa": "/bæd/",
+    "meaningVi": "tệ",
+    "example": "The weather is bad.",
+    "exampleVi": "Thời tiết xấu."
+  },
+  {
+    "word": "full",
+    "ipa": "/fʊl/",
+    "meaningVi": "đầy",
+    "example": "The glass is full.",
+    "exampleVi": "Chiếc cốc đã đầy."
+  },
+  {
+    "word": "fool",
+    "ipa": "/fuːl/",
+    "meaningVi": "người ngốc",
+    "example": "He felt like a fool.",
+    "exampleVi": "Anh ấy thấy mình như một kẻ ngốc."
+  },
+  {
+    "word": "sit",
+    "ipa": "/sɪt/",
+    "meaningVi": "ngồi",
+    "example": "Please sit here.",
+    "exampleVi": "Mời bạn ngồi ở đây."
+  },
+  {
+    "word": "seat",
+    "ipa": "/siːt/",
+    "meaningVi": "chỗ ngồi",
+    "example": "This seat is free.",
+    "exampleVi": "Chỗ ngồi này còn trống."
+  },
+  {
+    "word": "light",
+    "ipa": "/laɪt/",
+    "meaningVi": "ánh sáng",
+    "example": "The light is bright.",
+    "exampleVi": "Ánh sáng rất mạnh."
+  },
+  {
+    "word": "right",
+    "ipa": "/raɪt/",
+    "meaningVi": "đúng",
+    "example": "Your answer is right.",
+    "exampleVi": "Câu trả lời của bạn đúng."
+  },
+  {
+    "word": "rice",
+    "ipa": "/raɪs/",
+    "meaningVi": "cơm; gạo",
+    "example": "We eat rice every day.",
+    "exampleVi": "Chúng tôi ăn cơm mỗi ngày."
+  },
+  {
+    "word": "rise",
+    "ipa": "/raɪz/",
+    "meaningVi": "tăng",
+    "example": "Prices rise in summer.",
+    "exampleVi": "Giá cả tăng vào mùa hè."
+  },
+  {
+    "word": "cap",
+    "ipa": "/kæp/",
+    "meaningVi": "mũ lưỡi trai",
+    "example": "She wears a cap.",
+    "exampleVi": "Cô ấy đội mũ lưỡi trai."
+  },
+  {
+    "word": "cup",
+    "ipa": "/kʌp/",
+    "meaningVi": "cốc",
+    "example": "I need a cup of water.",
+    "exampleVi": "Tôi cần một cốc nước."
+  },
+  {
+    "word": "fan",
+    "ipa": "/fæn/",
+    "meaningVi": "quạt",
+    "example": "The fan is quiet.",
+    "exampleVi": "Chiếc quạt chạy êm."
+  },
+  {
+    "word": "van",
+    "ipa": "/væn/",
+    "meaningVi": "xe tải nhỏ",
+    "example": "The van is parked outside.",
+    "exampleVi": "Chiếc xe tải nhỏ đỗ bên ngoài."
+  }
+]

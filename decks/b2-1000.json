@@ -5934,6 +5934,34 @@
         "synonyms": [
           "worried about"
         ]
+      },
+      {
+        "word": "concerned with",
+        "pos": "adjective",
+        "ipa": "/kənˈsɜːnd wɪð/",
+        "meaningVi": "liên quan đến; tập trung vào một chủ đề",
+        "example": "This chapter is concerned with water pollution.",
+        "exampleVi": "Chương này tập trung vào ô nhiễm nước.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      },
+      {
+        "word": "concerned for",
+        "pos": "adjective",
+        "ipa": "/kənˈsɜːnd fər/",
+        "meaningVi": "lo lắng cho sự an toàn hoặc lợi ích của ai",
+        "example": "We are concerned for the missing hikers.",
+        "exampleVi": "Chúng tôi lo cho những người đi bộ đường dài mất tích.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
       }
     ]
   },
@@ -8603,6 +8631,22 @@
     "senses": [],
     "synonyms": [
       "dedicated"
+    ],
+    "phrases": [
+      {
+        "word": "devoted to",
+        "pos": "adjective",
+        "ipa": "/dɪˈvəʊtɪd tə/",
+        "meaningVi": "tận tâm; dành nhiều tình cảm hoặc công sức",
+        "example": "He is devoted to his family.",
+        "exampleVi": "Anh ấy hết lòng vì gia đình.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      }
     ]
   },
   {
@@ -12519,6 +12563,22 @@
     ],
     "synonyms": [
       "affectionate"
+    ],
+    "phrases": [
+      {
+        "word": "fond of",
+        "pos": "adjective",
+        "ipa": "/fɒnd əv/",
+        "meaningVi": "yêu thích hoặc có tình cảm trìu mến",
+        "example": "My grandfather is fond of gardening.",
+        "exampleVi": "Ông tôi thích làm vườn.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      }
     ]
   },
   {
@@ -17582,6 +17642,36 @@
     ],
     "synonyms": [
       "restricted"
+    ],
+    "phrases": [
+      {
+        "word": "limited to",
+        "pos": "adjective",
+        "ipa": "/ˈlɪmɪtɪd tə/",
+        "meaningVi": "chỉ giới hạn trong một phạm vi",
+        "example": "Access is limited to registered users.",
+        "exampleVi": "Quyền truy cập chỉ dành cho người dùng đã đăng ký.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      },
+      {
+        "word": "limited by",
+        "pos": "adjective",
+        "ipa": "/ˈlɪmɪtɪd baɪ/",
+        "meaningVi": "bị hạn chế bởi một yếu tố",
+        "example": "Our choices are limited by the budget.",
+        "exampleVi": "Lựa chọn của chúng ta bị ngân sách hạn chế.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      }
     ]
   },
   {
@@ -26812,7 +26902,37 @@
         "ipa": "/ˈsensətɪvz/"
       }
     ],
-    "synonyms": []
+    "synonyms": [],
+    "phrases": [
+      {
+        "word": "sensitive to",
+        "pos": "adjective",
+        "ipa": "/ˈsensətɪv tə/",
+        "meaningVi": "nhạy cảm hoặc dễ phản ứng với tác động",
+        "example": "My skin is sensitive to strong sunlight.",
+        "exampleVi": "Da tôi nhạy cảm với ánh nắng mạnh.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      },
+      {
+        "word": "sensitive about",
+        "pos": "adjective",
+        "ipa": "/ˈsensətɪv əˈbaʊt/",
+        "meaningVi": "dễ thấy khó chịu khi một chủ đề bị nhắc tới",
+        "example": "He is sensitive about his age.",
+        "exampleVi": "Anh ấy dễ khó chịu khi bị nhắc đến tuổi.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      }
+    ]
   },
   {
     "word": "serial",
@@ -30440,6 +30560,22 @@
     ],
     "synonyms": [
       "distrustful"
+    ],
+    "phrases": [
+      {
+        "word": "suspicious of",
+        "pos": "adjective",
+        "ipa": "/səˈspɪʃəs əv/",
+        "meaningVi": "nghi ngờ ý đồ hoặc độ tin cậy",
+        "example": "I am suspicious of offers that seem too good.",
+        "exampleVi": "Tôi nghi ngờ những lời mời chào nghe quá hấp dẫn.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      }
     ]
   },
   {

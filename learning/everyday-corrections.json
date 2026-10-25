@@ -1,0 +1,605 @@
+[
+  {
+    "file": "decks/everyday-500.json",
+    "word": "hear",
+    "reason": "Reviewed everyday vocabulary correction",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "nghe thấy",
+      "ipa": "/hɪr/",
+      "example": "We heard a strange noise downstairs.",
+      "exampleVi": "Chúng tôi nghe thấy một tiếng động lạ ở tầng dưới."
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "nghe thấy",
+      "ipa": "/hɪr/",
+      "example": "We heard a strange noise downstairs.",
+      "exampleVi": "Chúng tôi nghe thấy một tiếng động lạ ở tầng dưới."
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeForms": [
+      {
+        "word": "hears",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/hɪrz/"
+      },
+      {
+        "word": "hearing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/hɪrɪŋ/"
+      },
+      {
+        "word": "heard",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/hɪrd/",
+        "example": "We heard a strange noise downstairs.",
+        "exampleVi": "Chúng tôi nghe thấy một tiếng động lạ ở tầng dưới."
+      }
+    ],
+    "afterForms": [
+      {
+        "word": "hears",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/hɪrz/"
+      },
+      {
+        "word": "hearing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/hɪrɪŋ/"
+      },
+      {
+        "word": "heard",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/hɜrd/",
+        "example": "We heard a strange noise downstairs.",
+        "exampleVi": "Chúng tôi nghe thấy một tiếng động lạ ở tầng dưới."
+      }
+    ]
+  },
+  {
+    "file": "decks/everyday-500.json",
+    "word": "ironing board",
+    "reason": "Reviewed everyday vocabulary correction",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "bàn để là quần áo",
+      "ipa": "/ˈaɪərnɪŋ ˈbɔrd/",
+      "example": "Set up the ironing board before ironing your shirt.",
+      "exampleVi": "Hãy dựng bàn là trước khi là áo sơ mi."
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "bàn để là quần áo",
+      "ipa": "/ˈaɪərnɪŋ ˈbɔrd/",
+      "example": "Set up the ironing board before ironing your shirt.",
+      "exampleVi": "Hãy mở bàn để là quần áo trước khi là áo sơ mi."
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeForms": [
+      {
+        "word": "ironing boards",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈaɪərnɪŋ ˈbɔrdz/"
+      }
+    ],
+    "afterForms": [
+      {
+        "word": "ironing boards",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈaɪərnɪŋ ˈbɔrdz/"
+      }
+    ]
+  },
+  {
+    "file": "decks/everyday-500.json",
+    "word": "swelling",
+    "reason": "Reviewed everyday vocabulary correction",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "chỗ sưng; tình trạng sưng",
+      "ipa": "/ˈswelɪŋ/",
+      "example": "The nurse checked the swelling around the injury.",
+      "exampleVi": "Y tá kiểm tra chỗ sưng quanh vết thương."
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "chỗ sưng; tình trạng sưng",
+      "ipa": "/ˈswelɪŋ/",
+      "example": "The nurse checked the swelling around the injury.",
+      "exampleVi": "Y tá kiểm tra chỗ sưng quanh vết thương."
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeForms": [],
+    "afterForms": [
+      {
+        "word": "swellings",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈswelɪŋz/"
+      }
+    ]
+  },
+  {
+    "file": "decks/everyday-500.json",
+    "word": "emergency room",
+    "reason": "Reviewed everyday vocabulary correction",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "phòng cấp cứu",
+      "ipa": "/ˈimərdʒənsi ˈrum/",
+      "example": "They took him to the emergency room.",
+      "exampleVi": "Họ đưa anh ấy đến phòng cấp cứu."
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "phòng cấp cứu",
+      "ipa": "/ɪˈmɜrdʒənsi ˈruːm/",
+      "example": "They took him to the emergency room.",
+      "exampleVi": "Họ đưa anh ấy đến phòng cấp cứu."
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeForms": [
+      {
+        "word": "emergency rooms",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈimərdʒənsi ˈrumz/"
+      }
+    ],
+    "afterForms": [
+      {
+        "word": "emergency rooms",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɪˈmɜrdʒənsi ˈruːmz/"
+      }
+    ]
+  },
+  {
+    "file": "decks/everyday-500.json",
+    "word": "diarrhea",
+    "reason": "Reviewed everyday vocabulary correction",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "tiêu chảy",
+      "ipa": "/ˌdaɪəˈriə/",
+      "example": "The doctor asked whether she had diarrhea.",
+      "exampleVi": "Bác sĩ hỏi cô ấy có bị tiêu chảy không."
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "tiêu chảy",
+      "ipa": "/ˌdaɪəˈriə/",
+      "example": "The doctor asked whether she had diarrhea.",
+      "exampleVi": "Bác sĩ hỏi cô ấy có bị tiêu chảy không."
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeForms": [
+      {
+        "word": "diarrheas",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌdaɪəˈriəz/"
+      }
+    ],
+    "afterForms": []
+  },
+  {
+    "file": "decks/everyday-500.json",
+    "word": "constipation",
+    "reason": "Reviewed everyday vocabulary correction",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "táo bón",
+      "ipa": "/ˌkɑnstəˈpeɪʃən/",
+      "example": "He discussed his constipation with the doctor.",
+      "exampleVi": "Anh ấy trao đổi với bác sĩ về tình trạng táo bón."
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "táo bón",
+      "ipa": "/ˌkɑnstəˈpeɪʃən/",
+      "example": "He discussed his constipation with the doctor.",
+      "exampleVi": "Anh ấy trao đổi với bác sĩ về tình trạng táo bón."
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeForms": [
+      {
+        "word": "constipations",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌkɑnstəˈpeɪʃənz/"
+      }
+    ],
+    "afterForms": []
+  },
+  {
+    "file": "decks/everyday-500.json",
+    "word": "overpriced",
+    "reason": "Reviewed everyday vocabulary correction",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "có giá quá cao",
+      "ipa": "/ˈoʊvərˌpraɪst/",
+      "example": "I think that bag is overpriced.",
+      "exampleVi": "Tôi thấy chiếc túi đó có giá quá cao."
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "có giá quá cao",
+      "ipa": "/ˌoʊvərˈpraɪst/",
+      "example": "I think that bag is overpriced.",
+      "exampleVi": "Tôi thấy chiếc túi đó có giá quá cao."
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeForms": [],
+    "afterForms": []
+  },
+  {
+    "file": "decks/everyday-500.json",
+    "word": "baggage carousel",
+    "reason": "Reviewed everyday vocabulary correction",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "băng chuyền nhận hành lý",
+      "ipa": "/ˈbæɡədʒ ˈkerəˌsel/",
+      "example": "Our bags appeared on the baggage carousel.",
+      "exampleVi": "Túi của chúng tôi xuất hiện trên băng chuyền nhận hành lý."
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "băng chuyền nhận hành lý",
+      "ipa": "/ˈbæɡədʒ ˌkærəˈsel/",
+      "example": "Our bags appeared on the baggage carousel.",
+      "exampleVi": "Túi của chúng tôi xuất hiện trên băng chuyền nhận hành lý."
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeForms": [
+      {
+        "word": "baggage carousels",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈbæɡədʒ ˈkerəˌselz/"
+      }
+    ],
+    "afterForms": [
+      {
+        "word": "baggage carousels",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈbæɡədʒ ˌkærəˈselz/"
+      }
+    ]
+  },
+  {
+    "file": "decks/everyday-500.json",
+    "word": "windy",
+    "reason": "Reviewed everyday vocabulary correction",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "có gió",
+      "ipa": "/ˈwaɪndi/",
+      "example": "The beach is windy today.",
+      "exampleVi": "Hôm nay bãi biển có gió."
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "có gió",
+      "ipa": "/ˈwɪndi/",
+      "example": "The beach is windy today.",
+      "exampleVi": "Hôm nay bãi biển có gió."
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeForms": [],
+    "afterForms": []
+  },
+  {
+    "file": "decks/everyday-500.json",
+    "word": "grandchild",
+    "reason": "Reviewed everyday vocabulary correction",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "cháu nội hoặc ngoại",
+      "ipa": "/ˈɡrænˌtʃaɪld/",
+      "example": "She bought a book for her grandchild.",
+      "exampleVi": "Cô ấy mua một cuốn sách cho cháu nội hoặc ngoại."
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "cháu nội hoặc ngoại",
+      "ipa": "/ˈɡrænˌtʃaɪld/",
+      "example": "She bought a book for her grandchild.",
+      "exampleVi": "Cô ấy mua một cuốn sách cho cháu nội hoặc ngoại."
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeForms": [
+      {
+        "word": "grandchilds",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɡrænˌtʃaɪldz/"
+      }
+    ],
+    "afterForms": [
+      {
+        "word": "grandchildren",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɡræntʃɪldrən/"
+      }
+    ]
+  },
+  {
+    "file": "decks/everyday-500.json",
+    "word": "great-grandmother",
+    "reason": "Reviewed everyday vocabulary correction",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "bà cố; cụ bà",
+      "ipa": "/ˌɡreɪtˈɡrændˌmʌθər/",
+      "example": "My great-grandmother lived in this village.",
+      "exampleVi": "Bà cố của tôi từng sống ở làng này."
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "bà cố; cụ bà",
+      "ipa": "/ˌɡreɪtˈɡrændˌmʌðər/",
+      "example": "My great-grandmother lived in this village.",
+      "exampleVi": "Bà cố của tôi từng sống ở làng này."
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeForms": [
+      {
+        "word": "great-grandmothers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌɡreɪtˈɡrændˌmʌθərz/"
+      }
+    ],
+    "afterForms": [
+      {
+        "word": "great-grandmothers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌɡreɪtˈɡrændˌmʌðərz/"
+      }
+    ]
+  },
+  {
+    "file": "decks/everyday-500.json",
+    "word": "live",
+    "reason": "Reviewed everyday vocabulary correction",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "sống; sinh sống",
+      "ipa": "/lɪv/",
+      "example": "They lived near the city center.",
+      "exampleVi": "Họ sống gần trung tâm thành phố."
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "sống; sinh sống",
+      "ipa": "/lɪv/",
+      "example": "They lived near the city center.",
+      "exampleVi": "Họ sống gần trung tâm thành phố."
+    },
+    "beforeSenses": [
+      {
+        "pos": "adjective",
+        "ipa": "/laɪv/",
+        "meaningVi": "trực tiếp",
+        "example": "We watched a live broadcast of the match.",
+        "exampleVi": "Chúng tôi xem buổi phát sóng trực tiếp trận đấu."
+      },
+      {
+        "pos": "adjective",
+        "ipa": "/laɪv/",
+        "meaningVi": "còn sống",
+        "example": "The market sells live fish.",
+        "exampleVi": "Chợ bán cá còn sống."
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "adjective",
+        "ipa": "/laɪv/",
+        "meaningVi": "trực tiếp",
+        "example": "We watched a live broadcast of the match.",
+        "exampleVi": "Chúng tôi xem buổi phát sóng trực tiếp trận đấu."
+      },
+      {
+        "pos": "adjective",
+        "ipa": "/laɪv/",
+        "meaningVi": "còn sống",
+        "example": "The market sells live fish.",
+        "exampleVi": "Chợ bán cá còn sống."
+      }
+    ],
+    "beforeForms": [
+      {
+        "word": "lives",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/lɪvz/"
+      },
+      {
+        "word": "living",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/lɪvɪŋ/"
+      },
+      {
+        "word": "lived",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/lɪvd/",
+        "example": "They lived near the city center.",
+        "exampleVi": "Họ sống gần trung tâm thành phố."
+      }
+    ],
+    "afterForms": [
+      {
+        "word": "lives",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/lɪvz/"
+      },
+      {
+        "word": "living",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/lɪvɪŋ/"
+      },
+      {
+        "word": "lived",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/lɪvd/",
+        "example": "They lived near the city center.",
+        "exampleVi": "Họ sống gần trung tâm thành phố."
+      }
+    ]
+  },
+  {
+    "file": "decks/everyday-500.json",
+    "word": "update",
+    "reason": "Reviewed everyday vocabulary correction",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "thông tin cập nhật; việc cập nhật",
+      "ipa": "/ˈʌpdeɪt/",
+      "example": "She sent an update about the project.",
+      "exampleVi": "Cô ấy gửi thông tin cập nhật về dự án."
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "thông tin cập nhật; việc cập nhật",
+      "ipa": "/ˈʌpdeɪt/",
+      "example": "She sent an update about the project.",
+      "exampleVi": "Cô ấy gửi thông tin cập nhật về dự án."
+    },
+    "beforeSenses": [
+      {
+        "pos": "verb",
+        "ipa": "/ʌpˈdeɪt/",
+        "meaningVi": "cập nhật",
+        "example": "Please update the schedule after the meeting.",
+        "exampleVi": "Hãy cập nhật lịch sau cuộc họp."
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "verb",
+        "ipa": "/ʌpˈdeɪt/",
+        "meaningVi": "cập nhật",
+        "example": "Please update the schedule after the meeting.",
+        "exampleVi": "Hãy cập nhật lịch sau cuộc họp."
+      }
+    ],
+    "beforeForms": [
+      {
+        "word": "updates",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ʌpˈdeɪts/, /ˈʌpdeɪts/"
+      },
+      {
+        "word": "updating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ʌpˈdeɪtɪŋ/"
+      },
+      {
+        "word": "updated",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ʌpˈdeɪtɪd/"
+      }
+    ],
+    "afterForms": [
+      {
+        "word": "updates",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ʌpˈdeɪts/, /ˈʌpdeɪts/"
+      },
+      {
+        "word": "updating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ʌpˈdeɪtɪŋ/"
+      },
+      {
+        "word": "updated",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ʌpˈdeɪtɪd/"
+      }
+    ]
+  }
+]

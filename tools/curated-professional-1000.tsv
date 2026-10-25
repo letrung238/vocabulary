@@ -1,0 +1,1042 @@
+# word|part of speech|Vietnamese primary meaning
+# word|part of speech|Vietnamese primary meaning
+[technology/software-design]
+software architecture|noun|kiến trúc phần mềm
+design pattern|noun|mẫu thiết kế phần mềm
+dependency graph|noun|đồ thị quan hệ phụ thuộc giữa thành phần
+control flow graph|noun|đồ thị luồng điều khiển
+separation of concerns|noun|tách biệt các mối quan tâm trong thiết kế
+single responsibility principle|noun|nguyên tắc một trách nhiệm
+open closed principle|noun|nguyên tắc mở để mở rộng, đóng để sửa đổi
+interface segregation|noun|phân tách giao diện theo nhu cầu
+dependency inversion|noun|đảo ngược hướng phụ thuộc
+domain driven design|noun|thiết kế theo miền nghiệp vụ
+bounded context|noun|ranh giới ngữ cảnh nghiệp vụ
+aggregate root|noun|thực thể gốc của một nhóm đối tượng nghiệp vụ
+value object|noun|đối tượng được xác định bằng giá trị
+entity relationship|noun|quan hệ giữa các thực thể
+event sourcing|noun|lưu trạng thái bằng chuỗi sự kiện
+command query separation|noun|tách lệnh thay đổi dữ liệu khỏi truy vấn
+hexagonal architecture|noun|kiến trúc lục giác với cổng và bộ chuyển đổi
+clean architecture|noun|kiến trúc tách nghiệp vụ khỏi hạ tầng
+layered architecture|noun|kiến trúc phân lớp
+service oriented architecture|noun|kiến trúc hướng dịch vụ
+component coupling|noun|mức độ phụ thuộc giữa các thành phần
+functional cohesion|noun|mức độ gắn kết theo một chức năng
+architectural decision record|noun|bản ghi quyết định kiến trúc
+anti corruption layer|noun|lớp bảo vệ mô hình nghiệp vụ khỏi hệ thống bên ngoài
+composition root|noun|nơi lắp ghép các phụ thuộc của ứng dụng
+[technology/programming]
+type inference|noun|suy luận kiểu dữ liệu
+type safety|noun|tính an toàn về kiểu dữ liệu
+generic programming|noun|lập trình tổng quát theo tham số kiểu
+pattern matching|noun|đối sánh dữ liệu theo mẫu
+tail recursion|noun|đệ quy đuôi
+lazy evaluation|noun|đánh giá biểu thức khi cần
+compilation|noun|quá trình biên dịch mã nguồn
+immutable object|noun|đối tượng không thể thay đổi sau khi tạo
+serialization|noun|chuyển đối tượng hoặc dữ liệu thành dạng lưu hoặc truyền được
+entropy|noun|đại lượng đo độ bất định của thông tin
+referential transparency|noun|tính thay biểu thức bằng giá trị mà không đổi hành vi
+function closure|noun|bao đóng lưu môi trường của hàm
+lambda expression|noun|biểu thức hàm vô danh
+higher order function|noun|hàm nhận hoặc trả về một hàm khác
+deserialization|noun|khôi phục dữ liệu hoặc đối tượng từ dạng đã tuần tự hóa
+method overriding|noun|ghi đè phương thức kế thừa
+operator overloading|noun|nạp chồng toán tử
+dynamic dispatch|noun|chọn phương thức lúc chạy
+static dispatch|noun|chọn phương thức lúc biên dịch
+exception handling|noun|xử lý ngoại lệ
+stack unwinding|noun|tháo các khung ngăn xếp khi xử lý ngoại lệ
+reference counting|noun|đếm tham chiếu để quản lý vòng đời đối tượng
+memory allocation|noun|cấp phát bộ nhớ
+memory deallocation|noun|giải phóng bộ nhớ đã cấp phát
+null pointer|noun|con trỏ không trỏ đến đối tượng hợp lệ
+[technology/concurrency]
+thread pool|noun|nhóm luồng dùng chung
+data race|noun|truy cập bộ nhớ xung đột giữa các luồng mà không đồng bộ
+critical section|noun|đoạn mã truy cập tài nguyên dùng chung cần bảo vệ
+mutual exclusion|noun|cơ chế loại trừ truy cập đồng thời
+condition variable|noun|biến đồng bộ chờ điều kiện
+counting semaphore|noun|semaphore giới hạn số truy cập đồng thời
+atomic operation|noun|thao tác không thể bị chia cắt khi quan sát
+compare and swap|noun|thao tác so sánh rồi hoán đổi nguyên tử
+memory barrier|noun|rào cản thứ tự truy cập bộ nhớ
+memory visibility|noun|khả năng luồng nhìn thấy thay đổi bộ nhớ
+lock contention|noun|tranh chấp quyền giữ khóa
+lock granularity|noun|mức độ chi tiết của phạm vi khóa
+reader writer lock|noun|khóa phân biệt luồng đọc và luồng ghi
+thread starvation|noun|tình trạng luồng không được cấp tài nguyên để chạy
+priority inversion|noun|đảo ngược ưu tiên do chờ tài nguyên
+busy waiting|noun|chờ bằng cách liên tục kiểm tra điều kiện
+cooperative scheduling|noun|lập lịch dựa vào tác vụ tự nhường quyền chạy
+preemptive scheduling|noun|lập lịch cho phép cưỡng chế chuyển tác vụ
+asynchronous execution|noun|thực thi không phải chờ hoàn tất ngay
+parallel execution|noun|thực thi đồng thời trên nhiều đơn vị xử lý
+task cancellation|noun|hủy tác vụ đang chờ hoặc đang chạy
+cancellation token|noun|tín hiệu phối hợp yêu cầu hủy tác vụ
+structured concurrency|noun|tổ chức tác vụ đồng thời theo phạm vi có quản lý
+work stealing|noun|cơ chế luồng lấy tác vụ từ hàng đợi của luồng khác
+message passing|noun|trao đổi dữ liệu bằng truyền thông điệp
+[technology/testing]
+unit testing|noun|kiểm thử đơn vị mã nhỏ
+integration testing|noun|kiểm thử sự kết hợp giữa các thành phần
+system testing|noun|kiểm thử toàn bộ hệ thống
+acceptance testing|noun|kiểm thử đáp ứng yêu cầu nghiệm thu
+regression testing|noun|kiểm thử phát hiện lỗi quay lại sau thay đổi
+smoke testing|noun|kiểm thử nhanh các chức năng thiết yếu
+load testing|noun|kiểm thử hệ thống dưới tải dự kiến
+stress testing|noun|kiểm thử vượt giới hạn tải thông thường
+soak testing|noun|kiểm thử tải kéo dài
+fuzz testing|noun|kiểm thử bằng đầu vào biến đổi bất thường
+combinatorial testing|noun|kiểm thử các tổ hợp giá trị đầu vào
+mutation testing|noun|kiểm thử chất lượng bộ kiểm thử bằng lỗi chèn vào
+test fixture|noun|dữ liệu và môi trường chuẩn bị cho kiểm thử
+test harness|noun|bộ công cụ điều khiển việc chạy kiểm thử
+test stub|noun|đối tượng kiểm thử trả kết quả giả định sẵn
+mock object|noun|đối tượng giả có kiểm tra tương tác mong đợi
+code coverage|noun|mức độ mã được thực thi khi kiểm thử
+branch coverage|noun|mức độ các nhánh điều kiện được kiểm thử
+test isolation|noun|sự độc lập giữa các kiểm thử
+metamorphic testing|noun|kiểm thử quan hệ giữa nhiều đầu vào và kết quả liên quan
+test oracle|noun|cơ chế xác định kết quả kiểm thử đúng hay sai
+snapshot testing|noun|kiểm thử so sánh kết quả với bản chụp chuẩn
+contract testing|noun|kiểm thử hợp đồng giao tiếp giữa dịch vụ
+boundary value analysis|noun|phân tích giá trị biên để chọn ca kiểm thử
+equivalence partitioning|noun|chia đầu vào thành các lớp tương đương
+[technology/delivery]
+source control|noun|quản lý phiên bản mã nguồn
+feature branch|noun|nhánh mã dành cho một tính năng
+release branch|noun|nhánh mã dành cho bản phát hành
+trunk based development|noun|phát triển bằng tích hợp thường xuyên vào nhánh chính
+merge conflict|noun|xung đột khi hợp nhất thay đổi mã
+pull request|noun|đề nghị hợp nhất thay đổi mã
+code review|noun|rà soát thay đổi mã nguồn
+commit history|noun|lịch sử các lần ghi nhận thay đổi mã
+build artifact|noun|sản phẩm tạo ra từ quá trình build
+build pipeline|noun|chuỗi bước tạo và kiểm tra bản build
+continuous integration|noun|tích hợp thay đổi mã liên tục
+continuous delivery|noun|duy trì khả năng phát hành phần mềm liên tục
+continuous deployment|noun|tự động triển khai thay đổi đã qua kiểm tra
+release candidate|noun|bản ứng viên chuẩn bị phát hành
+feature rollout|noun|quá trình mở dần tính năng cho người dùng
+canary release|noun|phát hành thử cho một phần người dùng
+deployment slot|noun|môi trường triển khai riêng để thử hoặc chuyển phiên bản
+rolling update|noun|cập nhật dần từng phần của hệ thống
+deployment rollback|noun|khôi phục phiên bản triển khai trước
+release note|noun|ghi chú các thay đổi của bản phát hành
+version compatibility|noun|khả năng tương thích giữa các phiên bản
+dependency resolution|noun|xác định phiên bản phụ thuộc phù hợp
+package registry|noun|kho lưu và phân phối gói phần mềm
+software bill of materials|noun|danh sách thành phần tạo nên phần mềm
+reproducible build|noun|bản build có thể tái tạo cùng kết quả
+[technology/databases]
+relational database|noun|cơ sở dữ liệu quan hệ
+document database|noun|cơ sở dữ liệu dạng tài liệu
+graph database|noun|cơ sở dữ liệu đồ thị
+columnar database|noun|cơ sở dữ liệu lưu theo cột
+time series database|noun|cơ sở dữ liệu chuỗi thời gian
+primary key|noun|khóa định danh duy nhất của bản ghi
+natural key|noun|khóa định danh lấy từ dữ liệu nghiệp vụ
+composite key|noun|khóa gồm nhiều trường
+unique constraint|noun|ràng buộc không cho giá trị trùng lặp
+referential integrity|noun|tính toàn vẹn của các quan hệ tham chiếu
+database schema|noun|cấu trúc định nghĩa dữ liệu của cơ sở dữ liệu
+schema migration|noun|thay đổi có quản lý cấu trúc cơ sở dữ liệu
+query optimizer|noun|bộ chọn phương án thực thi truy vấn
+query plan|noun|kế hoạch thực thi truy vấn
+query cache|noun|bộ nhớ đệm kết quả hoặc thông tin truy vấn
+covering index|noun|chỉ mục chứa đủ dữ liệu cho truy vấn
+composite index|noun|chỉ mục gồm nhiều cột
+index scan|noun|quét dữ liệu qua chỉ mục
+table scan|noun|quét các hàng trong bảng
+database view|noun|khung nhìn dữ liệu định nghĩa bằng truy vấn
+stored procedure|noun|thủ tục được lưu và chạy trong cơ sở dữ liệu
+database trigger|noun|mã tự chạy khi có sự kiện dữ liệu
+transaction isolation|noun|mức cách ly giữa các giao dịch dữ liệu
+snapshot isolation|noun|cách ly giao dịch bằng ảnh chụp dữ liệu
+serializable transaction|noun|giao dịch có hiệu quả tương đương thực thi tuần tự
+[technology/data-engineering]
+data warehouse|noun|kho dữ liệu phục vụ phân tích
+data lake|noun|kho lưu dữ liệu đa dạng ở dạng ban đầu
+data lakehouse|noun|kiến trúc kết hợp data lake và data warehouse
+data mart|noun|kho dữ liệu dành cho một bộ phận
+data pipeline|noun|chuỗi bước thu nhận và xử lý dữ liệu
+data ingestion|noun|thu nhận dữ liệu vào hệ thống
+data transformation|noun|chuyển đổi cấu trúc hoặc giá trị dữ liệu
+data lineage|noun|dấu vết nguồn gốc và quá trình biến đổi dữ liệu
+data catalog|noun|danh mục mô tả và tìm kiếm tài sản dữ liệu
+data quality|noun|mức độ dữ liệu đáp ứng yêu cầu sử dụng
+data cleansing|noun|làm sạch dữ liệu sai hoặc không nhất quán
+data deduplication|noun|loại bỏ dữ liệu trùng lặp
+data normalization|noun|tổ chức dữ liệu quan hệ để giảm trùng lặp và phụ thuộc không phù hợp
+schema evolution|noun|sự thay đổi cấu trúc dữ liệu theo thời gian
+batch processing|noun|xử lý dữ liệu theo lô
+stream processing|noun|xử lý dòng dữ liệu liên tục
+change data capture|noun|thu nhận các thay đổi trong dữ liệu nguồn
+data partitioning|noun|chia dữ liệu thành các phần quản lý riêng
+data sharding|noun|chia dữ liệu giữa nhiều nút lưu trữ
+data replication|noun|sao chép dữ liệu giữa các vị trí
+data retention|noun|chính sách giữ dữ liệu trong một khoảng thời gian
+data provenance|noun|thông tin chứng minh nguồn gốc dữ liệu
+master data management|noun|quản lý dữ liệu chủ dùng chung
+metadata management|noun|quản lý dữ liệu mô tả dữ liệu
+data governance|noun|quản trị quyền hạn và quy tắc sử dụng dữ liệu
+[technology/networking]
+network topology|noun|cấu trúc liên kết của mạng
+network interface|noun|giao diện kết nối mạng
+network segment|noun|phân đoạn của một mạng
+network gateway|noun|cổng nối giữa các mạng
+packet switching|noun|chuyển dữ liệu theo từng gói
+packet loss|noun|mất gói dữ liệu khi truyền
+packet capture|noun|thu thập các gói dữ liệu trên mạng
+packet inspection|noun|kiểm tra nội dung hoặc đặc điểm gói dữ liệu
+traffic shaping|noun|điều tiết lưu lượng mạng theo chính sách
+bandwidth allocation|noun|phân bổ băng thông
+network congestion|noun|tắc nghẽn lưu lượng mạng
+routing table|noun|bảng quy tắc chọn đường truyền
+static routing|noun|định tuyến bằng cấu hình cố định
+dynamic routing|noun|định tuyến cập nhật theo thông tin mạng
+default route|noun|tuyến dùng khi không có tuyến cụ thể phù hợp
+subnet mask|noun|mặt nạ xác định phần mạng của địa chỉ
+address resolution|noun|phân giải địa chỉ giữa các lớp mạng
+name resolution|noun|phân giải tên thành địa chỉ mạng
+domain name system|noun|hệ thống phân giải tên miền
+proxy server|noun|máy chủ trung gian chuyển tiếp yêu cầu
+forward proxy|noun|máy chủ đại diện phía người truy cập
+virtual private network|noun|mạng riêng ảo
+transport layer|noun|lớp vận chuyển dữ liệu trong mô hình mạng
+application layer|noun|lớp giao thức phục vụ ứng dụng
+network address translation|noun|chuyển đổi địa chỉ mạng
+[technology/cloud]
+cloud computing|noun|mô hình cung cấp tài nguyên tính toán qua mạng
+public cloud|noun|đám mây dùng hạ tầng nhà cung cấp cho nhiều khách hàng
+private cloud|noun|đám mây dành riêng cho một tổ chức
+hybrid cloud|noun|mô hình kết hợp đám mây riêng và công cộng
+multi cloud|noun|sử dụng dịch vụ từ nhiều nhà cung cấp đám mây
+infrastructure as a service|noun|dịch vụ cung cấp tài nguyên hạ tầng tính toán
+platform as a service|noun|dịch vụ cung cấp nền tảng chạy ứng dụng
+software as a service|noun|phần mềm được cung cấp dưới dạng dịch vụ
+function as a service|noun|dịch vụ chạy hàm theo sự kiện
+serverless computing|noun|mô hình nhà cung cấp quản lý máy chủ cho ứng dụng
+managed service|noun|dịch vụ có hạ tầng được nhà cung cấp vận hành
+cloud region|noun|khu vực địa lý cung cấp dịch vụ đám mây
+availability zone|noun|vùng hạ tầng độc lập trong một khu vực đám mây
+resource group|noun|nhóm tài nguyên được quản lý cùng nhau
+virtual machine|noun|máy tính ảo chạy trên hạ tầng vật lý
+virtual network|noun|mạng được tạo bằng phần mềm
+object storage|noun|lưu trữ dữ liệu theo đối tượng
+block storage|noun|lưu trữ dữ liệu theo khối
+ephemeral storage|noun|lưu trữ tạm có thể mất khi phiên chạy kết thúc
+elastic scaling|noun|co giãn tài nguyên theo nhu cầu
+horizontal scaling|noun|tăng năng lực bằng thêm máy hoặc phiên bản chạy
+vertical scaling|noun|tăng tài nguyên của một máy hoặc phiên bản chạy
+reserved instance|noun|ưu đãi tính phí máy ảo theo cam kết thời hạn
+spot instance|noun|tài nguyên tính toán dư có thể bị thu hồi
+hypervisor|noun|phần mềm quản lý và thực thi máy ảo
+[technology/containers]
+container image|noun|ảnh đóng gói ứng dụng và môi trường chạy
+container registry|noun|kho lưu ảnh container
+container runtime|noun|phần mềm thực thi container
+container orchestration|noun|điều phối các container
+container cluster|noun|cụm máy chạy container
+image layer|noun|lớp dữ liệu tạo thành ảnh container
+image digest|noun|mã băm định danh nội dung ảnh container
+image tag|noun|nhãn tham chiếu một phiên bản ảnh container
+image signing|noun|ký xác thực ảnh container
+image scanning|noun|quét ảnh container để phát hiện vấn đề
+deployment manifest|noun|tệp khai báo cấu hình triển khai
+service discovery|noun|cơ chế tìm địa chỉ của dịch vụ
+cluster autoscaler|noun|bộ tự điều chỉnh số nút trong cụm
+sidecar container|noun|container phụ hỗ trợ container chính
+init container|noun|container chạy bước chuẩn bị trước ứng dụng chính
+container port|noun|cổng mạng của container
+persistent volume|noun|vùng lưu trữ tồn tại ngoài vòng đời container
+volume mount|noun|điểm gắn vùng lưu trữ vào môi trường chạy
+health probe|noun|phép kiểm tra tình trạng ứng dụng
+node affinity|noun|quy tắc đặt tác vụ lên nút phù hợp
+pod affinity|noun|quy tắc đặt pod dựa trên vị trí pod khác
+startup probe|noun|phép kiểm tra ứng dụng đã khởi động xong
+resource quota|noun|hạn mức tài nguyên được phép dùng
+resource limit|noun|giới hạn tài nguyên cho một thành phần
+pod scheduling|noun|lập lịch đặt pod lên nút chạy
+[technology/security]
+access control|noun|kiểm soát quyền truy cập
+role based access control|noun|kiểm soát truy cập dựa trên vai trò
+attribute based access control|noun|kiểm soát truy cập dựa trên thuộc tính
+cipher|noun|thuật toán mã hóa thông tin
+zero trust|noun|mô hình không mặc định tin cậy truy cập
+defense in depth|noun|bảo vệ bằng nhiều lớp kiểm soát
+security perimeter|noun|ranh giới áp dụng kiểm soát bảo mật
+attack vector|noun|con đường hoặc phương thức thực hiện tấn công
+side channel attack|noun|tấn công khai thác thông tin từ đặc tính phụ của hệ thống
+threat actor|noun|cá nhân hoặc nhóm thực hiện hành vi đe dọa
+threat intelligence|noun|thông tin được phân tích về mối đe dọa
+vulnerability assessment|noun|đánh giá các điểm yếu bảo mật
+penetration testing|noun|kiểm thử xâm nhập có cho phép
+security posture|noun|trạng thái và năng lực bảo mật tổng thể
+security baseline|noun|cấu hình bảo mật tối thiểu làm chuẩn
+security policy|noun|chính sách bảo mật
+security control|noun|biện pháp kiểm soát an toàn thông tin
+security patch|noun|bản vá lỗi bảo mật
+security incident|noun|sự cố an toàn thông tin
+incident response|noun|ứng phó và xử lý sự cố
+digital forensics|noun|điều tra chứng cứ số
+audit trail|noun|dấu vết ghi lại các hoạt động để kiểm tra
+intrusion detection|noun|phát hiện hành vi xâm nhập
+intrusion prevention|noun|ngăn chặn hành vi xâm nhập
+endpoint protection|noun|bảo vệ thiết bị đầu cuối
+[technology/cryptography]
+symmetric encryption|noun|mã hóa dùng cùng khóa để mã hóa và giải mã
+asymmetric encryption|noun|mã hóa dùng cặp khóa công khai và riêng
+public key|noun|khóa công khai trong hệ mã bất đối xứng
+private key|noun|khóa riêng cần giữ bí mật
+session key|noun|khóa dùng cho một phiên giao tiếp
+key exchange|noun|trao đổi hoặc thiết lập khóa mật mã
+key rotation|noun|thay đổi khóa theo chu kỳ hoặc sự kiện
+key derivation|noun|tạo khóa từ vật liệu đầu vào
+key management|noun|quản lý vòng đời khóa mật mã
+digital signature|noun|chữ ký số dùng để xác minh nguồn và tính toàn vẹn
+certificate authority|noun|tổ chức cấp và xác thực chứng thư số
+certificate chain|noun|chuỗi chứng thư nối tới nguồn tin cậy
+certificate revocation|noun|thu hồi hiệu lực chứng thư số
+certificate validation|noun|kiểm tra tính hợp lệ và tin cậy của chứng thư
+cryptographic hash|noun|giá trị băm tạo bằng hàm mật mã
+hash collision|noun|trường hợp hai đầu vào có cùng giá trị băm
+message authentication code|noun|mã kiểm tra tính toàn vẹn và xác thực thông điệp
+authenticated encryption|noun|mã hóa có kiểm tra tính xác thực và toàn vẹn
+end to end encryption|noun|mã hóa chỉ các đầu cuối đọc được nội dung
+encryption at rest|noun|mã hóa dữ liệu khi lưu trữ
+encryption in transit|noun|mã hóa dữ liệu khi truyền
+hardware security module|noun|thiết bị bảo vệ và xử lý khóa mật mã
+secure enclave|noun|vùng thực thi cách ly được bảo vệ
+password hashing|noun|băm mật khẩu để lưu dạng kiểm chứng
+salted hash|noun|giá trị băm có thêm dữ liệu ngẫu nhiên riêng
+[technology/machine-learning]
+machine learning|noun|học máy
+supervised learning|noun|học máy từ dữ liệu có nhãn
+unsupervised learning|noun|học máy từ dữ liệu không có nhãn mục tiêu
+reinforcement learning|noun|học tăng cường dựa trên phần thưởng
+training dataset|noun|tập dữ liệu huấn luyện
+validation dataset|noun|tập dữ liệu kiểm tra trong quá trình chọn mô hình
+test dataset|noun|tập dữ liệu đánh giá độc lập sau huấn luyện
+regularization|noun|biện pháp hạn chế độ phức tạp để cải thiện khả năng tổng quát hóa
+overfitting|noun|việc mô hình khớp dữ liệu học quá sát nhưng kém trên dữ liệu mới
+underfitting|noun|việc mô hình quá đơn giản để học quan hệ trong dữ liệu
+neural network|noun|mạng nơ ron nhân tạo
+deep learning|noun|học máy dùng mạng nơ ron nhiều lớp
+loss function|noun|hàm đo sai lệch để tối ưu mô hình
+gradient descent|noun|phương pháp tối ưu bằng đi theo hướng giảm gradient
+backpropagation|noun|tính gradient bằng truyền ngược qua mạng nơ ron
+batch size|noun|số mẫu xử lý trong một lượt cập nhật
+hyperparameter tuning|noun|điều chỉnh siêu tham số của mô hình
+cross validation|noun|đánh giá bằng nhiều cách chia dữ liệu
+class imbalance|noun|mất cân bằng số mẫu giữa các lớp
+confusion matrix|noun|bảng đối chiếu nhãn dự đoán với nhãn thực
+precision score|noun|tỷ lệ dự đoán dương tính đúng trong các dự đoán dương tính
+recall score|noun|tỷ lệ tìm được mẫu dương tính trong các mẫu dương tính thực
+model drift|noun|sự thay đổi khiến chất lượng mô hình suy giảm theo thời gian
+concept drift|noun|sự thay đổi quan hệ giữa đầu vào và mục tiêu
+transfer learning|noun|học chuyển giao từ mô hình đã huấn luyện
+[technology/ai-systems]
+large language model|noun|mô hình ngôn ngữ lớn
+foundation model|noun|mô hình nền tảng có thể thích nghi nhiều nhiệm vụ
+language modeling|noun|mô hình hóa xác suất hoặc cấu trúc ngôn ngữ
+prompt engineering|noun|thiết kế lời nhắc cho mô hình
+context window|noun|giới hạn ngữ cảnh mô hình có thể xử lý
+tokenizer|noun|bộ chia văn bản thành token
+embedding|noun|biểu diễn dữ liệu bằng vector trong không gian đặc trưng
+vector database|noun|cơ sở dữ liệu lưu và tìm kiếm vector
+semantic search|noun|tìm kiếm theo ý nghĩa
+retrieval augmented generation|noun|tạo nội dung kết hợp truy xuất nguồn dữ liệu
+document chunking|noun|chia tài liệu thành đoạn để xử lý
+inference latency|noun|độ trễ khi mô hình tạo kết quả
+inference endpoint|noun|địa chỉ dịch vụ thực thi mô hình
+quantization|noun|giảm độ chính xác biểu diễn số để giảm tài nguyên mô hình
+distillation|noun|chuyển tri thức từ mô hình lớn sang mô hình nhỏ
+fine tuning|noun|huấn luyện điều chỉnh mô hình cho nhiệm vụ cụ thể
+instruction tuning|noun|huấn luyện mô hình làm theo chỉ dẫn
+preference optimization|noun|tối ưu mô hình theo dữ liệu lựa chọn ưu tiên
+prompt injection|noun|chèn chỉ dẫn để chi phối hành vi mô hình
+model hallucination|noun|kết quả mô hình tạo ra có vẻ hợp lý nhưng không có cơ sở
+grounded response|noun|câu trả lời có căn cứ từ nguồn được cung cấp
+tool calling|noun|mô hình yêu cầu thực thi công cụ
+agent workflow|noun|quy trình các bước của tác nhân tự động
+human in the loop|noun|cơ chế con người tham gia kiểm tra hoặc quyết định
+model evaluation|noun|đánh giá chất lượng và hành vi mô hình
+[technology/operations]
+service level indicator|noun|chỉ số đo chất lượng dịch vụ
+service dependency|noun|quan hệ dịch vụ cần dịch vụ khác để hoạt động
+service level agreement|noun|thỏa thuận mức chất lượng dịch vụ
+service degradation|noun|sự suy giảm chất lượng dịch vụ
+uptime monitoring|noun|theo dõi thời gian dịch vụ hoạt động
+synthetic monitoring|noun|giám sát bằng yêu cầu giả lập
+trace sampling|noun|chọn một phần dấu vết yêu cầu để thu thập
+log correlation|noun|liên kết bản ghi nhật ký có cùng ngữ cảnh
+log aggregation|noun|tập hợp nhật ký từ nhiều nguồn
+metric collection|noun|thu thập số đo vận hành
+alert threshold|noun|ngưỡng kích hoạt cảnh báo
+alert suppression|noun|tạm ngừng hoặc loại bớt cảnh báo theo điều kiện
+on call rotation|noun|lịch luân phiên trực xử lý sự cố
+incident commander|noun|người điều phối xử lý sự cố
+root cause analysis|noun|phân tích nguyên nhân gốc
+post incident review|noun|rà soát sau sự cố
+capacity forecast|noun|dự báo nhu cầu năng lực xử lý
+performance profiling|noun|đo chi tiết hoạt động để tìm điểm chậm
+resource utilization|noun|mức sử dụng tài nguyên
+connection timeout|noun|giới hạn thời gian thiết lập hoặc chờ kết nối
+request timeout|noun|giới hạn thời gian chờ một yêu cầu
+retry policy|noun|chính sách thử lại khi lỗi
+retry interval|noun|khoảng thời gian giữa các lần thử lại
+shutdown hook|noun|mã chạy khi ứng dụng chuẩn bị dừng
+fault injection|noun|chèn lỗi có kiểm soát để thử khả năng chịu lỗi
+[technology/hardware]
+chiplet|noun|khuôn chip nhỏ được ghép với các khuôn khác
+shader|noun|chương trình xử lý thuộc tính đồ họa
+tensor processing unit|noun|bộ xử lý chuyên cho phép tính tensor
+instruction set|noun|tập lệnh của bộ xử lý
+socket|noun|đế cắm bộ xử lý
+die|noun|khối bán dẫn chứa mạch của chip
+cache line|noun|đơn vị dữ liệu trao đổi với bộ nhớ đệm
+bootloader|noun|chương trình chuẩn bị và nạp hệ điều hành
+memory bandwidth|noun|băng thông truyền dữ liệu bộ nhớ
+memory channel|noun|kênh truyền giữa bộ xử lý và bộ nhớ
+direct memory access|noun|truy cập bộ nhớ trực tiếp bởi thiết bị
+solid state drive|noun|ổ lưu trữ thể rắn
+hard disk drive|noun|ổ đĩa cứng dùng đĩa từ
+flash memory|noun|bộ nhớ flash không mất dữ liệu khi mất điện
+wafer|noun|phiến bán dẫn dùng chế tạo nhiều chip
+foundry|noun|doanh nghiệp hoặc nhà máy chế tạo chip cho bên thiết kế
+overclocking|noun|tăng xung nhịp vượt mức cấu hình chuẩn
+thermal throttling|noun|giảm hiệu năng để giới hạn nhiệt độ
+undervolting|noun|giảm điện áp cấp cho linh kiện
+cooling fan|noun|quạt làm mát
+bus|noun|đường truyền dữ liệu giữa các thành phần máy tính
+input device|noun|thiết bị nhập dữ liệu
+output device|noun|thiết bị xuất dữ liệu
+embedded system|noun|hệ thống máy tính nhúng trong thiết bị
+real time operating system|noun|hệ điều hành có yêu cầu đáp ứng theo thời hạn
+[finance/accounting]
+balance sheet|noun|bảng cân đối kế toán
+income statement|noun|báo cáo kết quả kinh doanh
+cash flow statement|noun|báo cáo lưu chuyển tiền tệ
+statement of equity|noun|báo cáo biến động vốn chủ sở hữu
+general ledger|noun|sổ cái kế toán
+subsidiary ledger|noun|sổ kế toán chi tiết hỗ trợ sổ cái
+trial balance|noun|bảng cân đối số phát sinh
+journal entry|noun|bút toán sổ nhật ký
+double entry bookkeeping|noun|ghi sổ kế toán kép
+accounting period|noun|kỳ kế toán
+fiscal year|noun|năm tài chính
+accrual accounting|noun|kế toán theo cơ sở dồn tích
+cash basis accounting|noun|kế toán theo cơ sở tiền
+revenue recognition|noun|ghi nhận doanh thu
+expense recognition|noun|ghi nhận chi phí
+matching principle|noun|nguyên tắc phù hợp giữa doanh thu và chi phí
+going concern|noun|giả định doanh nghiệp tiếp tục hoạt động
+accounting estimate|noun|ước tính kế toán
+accounting policy|noun|chính sách kế toán
+material misstatement|noun|sai sót trọng yếu trong báo cáo
+adjusting entry|noun|bút toán điều chỉnh
+closing entry|noun|bút toán khóa sổ
+opening balance|noun|số dư đầu kỳ
+closing balance|noun|số dư cuối kỳ
+bank reconciliation|noun|đối chiếu sổ kế toán với ngân hàng
+[finance/analysis]
+gross profit|noun|lợi nhuận gộp
+operating profit|noun|lợi nhuận hoạt động
+net profit|noun|lợi nhuận ròng
+gross margin|noun|tỷ suất lợi nhuận gộp
+operating margin|noun|tỷ suất lợi nhuận hoạt động
+net margin|noun|tỷ suất lợi nhuận ròng
+return on assets|noun|tỷ suất lợi nhuận trên tài sản
+return on equity|noun|tỷ suất lợi nhuận trên vốn chủ sở hữu
+return on investment|noun|tỷ suất sinh lời trên khoản đầu tư
+return on invested capital|noun|tỷ suất lợi nhuận trên vốn đầu tư vào hoạt động
+current ratio|noun|tỷ số tài sản ngắn hạn trên nợ ngắn hạn
+quick ratio|noun|tỷ số thanh toán nhanh
+cash ratio|noun|tỷ số tiền và tương đương tiền trên nợ ngắn hạn
+debt to equity ratio|noun|tỷ số nợ trên vốn chủ sở hữu
+interest coverage ratio|noun|tỷ số khả năng trả chi phí lãi vay
+asset turnover|noun|vòng quay tài sản
+inventory turnover|noun|vòng quay hàng tồn kho
+receivable turnover|noun|vòng quay khoản phải thu
+payable turnover|noun|vòng quay khoản phải trả
+working capital|noun|vốn lưu động thuần
+cash conversion cycle|noun|chu kỳ chuyển đổi tiền mặt
+operating cash flow|noun|dòng tiền hoạt động kinh doanh
+free cash flow|noun|dòng tiền còn lại sau chi tiêu vốn theo cách tính được chọn
+earnings per share|noun|lợi nhuận trên mỗi cổ phiếu
+dividend payout ratio|noun|tỷ lệ lợi nhuận trả thành cổ tức
+[finance/securities]
+dividend|noun|khoản phân phối lợi nhuận cho cổ đông
+capitalization|noun|giá trị vốn hóa của doanh nghiệp
+delisting|noun|hủy niêm yết chứng khoán
+underwriter|noun|bên bảo lãnh phát hành chứng khoán
+syndication|noun|việc nhiều tổ chức cùng tham gia cấp vốn hoặc phân phối chứng khoán
+outstanding share|noun|cổ phần đang lưu hành
+share capital|noun|vốn cổ phần
+market capitalization|noun|giá trị thị trường của cổ phần đang lưu hành
+stock exchange|noun|sở giao dịch chứng khoán
+stock index|noun|chỉ số giá nhóm cổ phiếu
+initial public offering|noun|lần đầu chào bán cổ phiếu ra công chúng
+secondary offering|noun|đợt chào bán sau lần đầu ra công chúng
+dilution|noun|sự giảm tỷ lệ sở hữu do phát hành thêm cổ phần
+private placement|noun|chào bán chứng khoán riêng lẻ
+share buyback|noun|mua lại cổ phiếu của công ty
+stock split|noun|chia tách cổ phiếu
+reverse stock split|noun|gộp cổ phiếu
+cash dividend|noun|cổ tức bằng tiền
+stock dividend|noun|cổ tức bằng cổ phiếu
+ex dividend date|noun|ngày giao dịch không hưởng quyền cổ tức
+record date|noun|ngày chốt danh sách người có quyền hưởng lợi
+dividend yield|noun|tỷ suất cổ tức so với giá cổ phiếu
+price earnings ratio|noun|tỷ số giá trên lợi nhuận mỗi cổ phiếu
+derivative|noun|công cụ tài chính có giá trị phụ thuộc tài sản hoặc yếu tố cơ sở
+arbitrage|noun|khai thác chênh lệch giá giữa các thị trường hoặc công cụ
+[finance/investment]
+asset allocation|noun|phân bổ vốn giữa các nhóm tài sản
+portfolio diversification|noun|phân tán đầu tư để giảm tập trung rủi ro
+portfolio rebalancing|noun|điều chỉnh danh mục về tỷ trọng mục tiêu
+investment horizon|noun|thời gian dự kiến nắm giữ đầu tư
+risk tolerance|noun|mức rủi ro nhà đầu tư sẵn lòng chịu
+risk appetite|noun|mức và loại rủi ro được chấp nhận theo mục tiêu
+risk adjusted return|noun|lợi nhuận được đánh giá có xét rủi ro
+expected return|noun|tỷ suất sinh lời kỳ vọng
+total return|noun|tổng lợi tức gồm thay đổi giá và thu nhập
+liquidation|noun|thanh lý tài sản hoặc kết thúc doanh nghiệp để giải quyết nghĩa vụ
+recapitalization|noun|thay đổi cơ cấu vốn của doanh nghiệp
+amortization|noun|phân bổ chi phí tài sản vô hình theo thời gian sử dụng
+depreciation|noun|khấu hao chi phí tài sản hữu hình theo thời gian sử dụng
+securitization|noun|biến các dòng tiền hoặc tài sản thành chứng khoán có thể giao dịch
+mutual fund|noun|quỹ tương hỗ gộp vốn nhà đầu tư
+exchange traded fund|noun|quỹ có chứng chỉ giao dịch trên sàn
+index fund|noun|quỹ đầu tư theo chỉ số
+hedge fund|noun|quỹ dùng chiến lược đầu tư linh hoạt
+private equity|noun|đầu tư vốn vào doanh nghiệp chưa niêm yết
+venture capital|noun|vốn đầu tư mạo hiểm
+expense ratio|noun|tỷ lệ chi phí vận hành quỹ trên tài sản
+collateralization|noun|việc dùng tài sản để bảo đảm nghĩa vụ tài chính
+performance fee|noun|phí tính theo kết quả đầu tư
+benchmark index|noun|chỉ số chuẩn so sánh kết quả đầu tư
+tracking error|noun|mức biến động chênh lệch lợi nhuận so với chuẩn
+[finance/treasury-tax]
+cash management|noun|quản lý tiền và khả năng thanh toán
+cash pooling|noun|tập trung hoặc điều phối số dư tiền các đơn vị
+cash forecast|noun|dự báo dòng tiền
+liquidity buffer|noun|tài sản thanh khoản dự phòng
+foreign exchange|noun|giao dịch hoặc thị trường ngoại hối
+exchange rate risk|noun|rủi ro thay đổi tỷ giá
+currency exposure|noun|mức chịu tác động biến động đồng tiền
+transaction exposure|noun|rủi ro tỷ giá từ giao dịch cam kết
+translation exposure|noun|tác động tỷ giá khi quy đổi báo cáo
+hedging strategy|noun|chiến lược phòng ngừa rủi ro
+taxable income|noun|thu nhập chịu thuế
+tax deduction|noun|khoản trừ khỏi cơ sở tính thuế
+tax credit|noun|khoản trừ trực tiếp số thuế phải nộp
+withholding tax|noun|thuế khấu trừ tại nguồn
+corporate income tax|noun|thuế thu nhập doanh nghiệp
+value added tax|noun|thuế giá trị gia tăng
+capital gains tax|noun|thuế đánh vào lãi chuyển nhượng tài sản
+tax base|noun|cơ sở tính thuế
+tax liability|noun|nghĩa vụ thuế phải trả
+tax return|noun|tờ khai thuế
+tax residency|noun|tình trạng cư trú để xác định nghĩa vụ thuế
+transfer pricing|noun|định giá giao dịch bên liên kết
+double taxation|noun|việc cùng thu nhập bị đánh thuế hai lần
+tax treaty|noun|hiệp định thuế giữa các nước
+tax audit|noun|kiểm tra nghĩa vụ thuế
+[business/sales-marketing]
+market segmentation|noun|phân chia thị trường thành nhóm khách hàng
+target audience|noun|nhóm khách hàng mục tiêu
+buyer persona|noun|chân dung khách hàng đại diện
+brand positioning|noun|định vị thương hiệu
+brand awareness|noun|mức nhận biết thương hiệu
+brand equity|noun|giá trị thương hiệu từ nhận thức và quan hệ khách hàng
+brand identity|noun|hệ thống nhận diện thương hiệu
+value proposition|noun|cam kết giá trị dành cho khách hàng
+unique selling proposition|noun|điểm bán hàng khác biệt
+competitive advantage|noun|lợi thế cạnh tranh
+market penetration|noun|mức thâm nhập thị trường
+market share|noun|thị phần
+sales funnel|noun|phễu bán hàng
+sales pipeline|noun|chuỗi cơ hội bán hàng theo giai đoạn
+lead generation|noun|tạo khách hàng tiềm năng
+lead qualification|noun|đánh giá mức phù hợp của khách hàng tiềm năng
+lead scoring|noun|chấm điểm khách hàng tiềm năng
+conversion rate|noun|tỷ lệ chuyển đổi
+customer acquisition cost|noun|chi phí thu hút một khách hàng
+customer lifetime value|noun|giá trị khách hàng trong suốt quan hệ kinh doanh
+sales forecast|noun|dự báo doanh số
+sales quota|noun|chỉ tiêu doanh số
+cross selling|noun|bán thêm sản phẩm bổ trợ
+up selling|noun|bán phiên bản hoặc lựa chọn giá trị cao hơn
+channel partner|noun|đối tác trong kênh phân phối
+[business/operations]
+business process|noun|quy trình nghiệp vụ
+process mapping|noun|lập sơ đồ quy trình
+process improvement|noun|cải tiến quy trình
+process automation|noun|tự động hóa quy trình
+standard operating procedure|noun|quy trình thao tác chuẩn
+work instruction|noun|hướng dẫn thực hiện công việc cụ thể
+quality assurance|noun|hoạt động bảo đảm chất lượng
+quality control|noun|kiểm soát chất lượng đầu ra
+quality management system|noun|hệ thống quản lý chất lượng
+continuous improvement|noun|cải tiến liên tục
+lean management|noun|quản lý tinh gọn để giảm lãng phí
+value stream mapping|noun|lập sơ đồ dòng giá trị
+cycle time|noun|thời gian hoàn thành một chu kỳ xử lý
+takt time|noun|nhịp sản xuất cần thiết để đáp ứng nhu cầu
+throughput rate|noun|số lượng xử lý trong một đơn vị thời gian
+production capacity|noun|năng lực sản xuất
+capacity utilization|noun|mức sử dụng năng lực hiện có
+resource planning|noun|lập kế hoạch nguồn lực
+workforce scheduling|noun|xếp lịch nhân sự làm việc
+business continuity|noun|khả năng duy trì hoạt động khi có gián đoạn
+disaster recovery|noun|khôi phục hoạt động sau sự cố nghiêm trọng
+contingency plan|noun|kế hoạch ứng phó tình huống bất ngờ
+corrective action|noun|hành động loại bỏ nguyên nhân sai lỗi đã xảy ra
+preventive action|noun|hành động ngăn sai lỗi có thể xảy ra
+root cause investigation|noun|điều tra nguyên nhân gốc của vấn đề
+[business/strategy]
+strategic planning|noun|hoạch định chiến lược
+business strategy|noun|chiến lược kinh doanh
+corporate strategy|noun|chiến lược cấp công ty
+growth strategy|noun|chiến lược tăng trưởng
+market entry strategy|noun|chiến lược gia nhập thị trường
+exit strategy|noun|chiến lược rút khỏi hoạt động hoặc khoản đầu tư
+product strategy|noun|chiến lược sản phẩm
+pricing strategy|noun|chiến lược định giá
+competitive analysis|noun|phân tích đối thủ và cạnh tranh
+industry analysis|noun|phân tích ngành
+scenario planning|noun|lập kế hoạch theo các kịch bản
+strategic alignment|noun|sự phù hợp giữa hoạt động và chiến lược
+strategic initiative|noun|chương trình hành động theo chiến lược
+strategic objective|noun|mục tiêu chiến lược
+core competency|noun|năng lực cốt lõi
+business model|noun|mô hình kinh doanh
+revenue model|noun|mô hình tạo doanh thu
+operating model|noun|mô hình tổ chức và vận hành
+business ecosystem|noun|hệ sinh thái các bên có quan hệ kinh doanh
+business transformation|noun|chuyển đổi hoạt động kinh doanh
+digital transformation|noun|chuyển đổi hoạt động bằng công nghệ số
+change management|noun|quản lý quá trình thay đổi
+organizational change|noun|thay đổi trong tổ chức
+change readiness|noun|mức sẵn sàng cho thay đổi
+strategic partnership|noun|quan hệ đối tác chiến lược
+[business/governance]
+corporate governance|noun|quản trị công ty
+board of directors|noun|hội đồng quản trị
+board committee|noun|ủy ban thuộc hội đồng quản trị
+audit committee|noun|ủy ban kiểm toán
+nomination committee|noun|ủy ban đề cử nhân sự
+remuneration committee|noun|ủy ban thù lao
+independent director|noun|thành viên hội đồng quản trị độc lập
+nonexecutive director|noun|thành viên quản trị không điều hành
+executive director|noun|thành viên quản trị có vai trò điều hành
+fiduciary duty|noun|nghĩa vụ hành động vì lợi ích bên được ủy thác
+conflict of interest|noun|xung đột lợi ích
+related party transaction|noun|giao dịch với bên liên quan
+internal control|noun|kiểm soát nội bộ
+internal audit|noun|kiểm toán nội bộ
+external audit|noun|kiểm toán độc lập bên ngoài
+regulatory compliance|noun|tuân thủ yêu cầu của cơ quan quản lý
+compliance officer|noun|người phụ trách tuân thủ
+code of conduct|noun|bộ quy tắc ứng xử
+whistleblower protection|noun|bảo vệ người tố giác sai phạm
+corporate disclosure|noun|công bố thông tin doanh nghiệp
+annual report|noun|báo cáo thường niên
+shareholder meeting|noun|cuộc họp cổ đông
+voting right|noun|quyền biểu quyết
+proxy vote|noun|biểu quyết thông qua người đại diện
+board resolution|noun|nghị quyết hội đồng quản trị
+[business/entrepreneurship]
+business plan|noun|kế hoạch kinh doanh
+business case|noun|hồ sơ lý do và lợi ích đề xuất đầu tư
+incumbent|noun|doanh nghiệp đang có vị thế sẵn trên thị trường
+challenger|noun|doanh nghiệp mới cạnh tranh với bên có vị thế
+product market fit|noun|mức phù hợp giữa sản phẩm và thị trường
+seed funding|noun|vốn giai đoạn khởi đầu
+angel investor|noun|nhà đầu tư cá nhân cho doanh nghiệp giai đoạn đầu
+funding round|noun|vòng gọi vốn
+term sheet|noun|bản điều khoản chính của giao dịch đầu tư
+equity dilution|noun|sự giảm tỷ lệ sở hữu do phát hành thêm vốn
+capital structure|noun|cơ cấu nguồn vốn của doanh nghiệp
+ownership structure|noun|cơ cấu sở hữu
+founder agreement|noun|thỏa thuận giữa các nhà sáng lập
+shareholder agreement|noun|thỏa thuận giữa các cổ đông
+vesting schedule|noun|lịch xác lập dần quyền hưởng cổ phần hoặc quyền lợi
+option pool|noun|quỹ quyền chọn dành cho nhân viên hoặc bên được cấp
+pitch deck|noun|bộ trang trình bày để giới thiệu và gọi vốn
+elevator pitch|noun|phần giới thiệu ý tưởng rất ngắn
+business incubator|noun|tổ chức ươm tạo doanh nghiệp
+startup accelerator|noun|chương trình tăng tốc doanh nghiệp khởi nghiệp
+traction|noun|mức tiến triển chứng minh thị trường đón nhận sản phẩm
+cash runway|noun|thời gian doanh nghiệp còn hoạt động được với tiền hiện có
+unit economics|noun|hiệu quả kinh tế trên mỗi đơn vị sản phẩm hoặc khách hàng
+break even point|noun|điểm doanh thu đủ bù chi phí
+offshoring|noun|chuyển hoạt động sang thực hiện ở nước ngoài
+[finance/company-finance]
+annual recurring revenue|noun|doanh thu định kỳ quy đổi theo năm
+monthly recurring revenue|noun|doanh thu định kỳ theo tháng
+revenue growth|noun|mức tăng doanh thu
+revenue guidance|noun|dự báo doanh thu do doanh nghiệp công bố
+earnings guidance|noun|dự báo lợi nhuận do doanh nghiệp công bố
+earnings call|noun|cuộc trao đổi về kết quả kinh doanh với nhà đầu tư
+earnings report|noun|báo cáo kết quả kinh doanh trong kỳ
+quarterly earnings|noun|lợi nhuận theo quý
+profit warning|noun|cảnh báo lợi nhuận có thể thấp hơn dự kiến
+cash reserve|noun|nguồn tiền dự trữ
+cash balance|noun|số dư tiền
+net debt|noun|nợ sau khi trừ tiền theo cách tính được chọn
+buyout|noun|mua lại quyền sở hữu hoặc kiểm soát doanh nghiệp
+funding gap|noun|phần nhu cầu vốn chưa được đáp ứng
+escrow|noun|cơ chế bên trung gian giữ tiền hoặc tài sản đến khi đủ điều kiện
+pre money valuation|noun|giá trị doanh nghiệp trước khoản vốn mới
+post money valuation|noun|giá trị doanh nghiệp sau khoản vốn mới
+enterprise value|noun|giá trị doanh nghiệp theo vốn và nợ ròng điều chỉnh
+divestiture|noun|bán hoặc thoái phần sở hữu hay mảng kinh doanh
+valuation multiple|noun|hệ số định giá dựa trên một chỉ tiêu tài chính
+discounted cash flow|noun|phương pháp định giá bằng dòng tiền chiết khấu
+cost of capital|noun|chi phí sử dụng vốn
+cost of equity|noun|tỷ suất sinh lời yêu cầu của vốn chủ sở hữu
+cost of debt|noun|chi phí vốn vay
+weighted average cost of capital|noun|chi phí vốn bình quân gia quyền
+[business/industry-news]
+merger agreement|noun|thỏa thuận sáp nhập
+acquisition target|noun|doanh nghiệp được nhắm mua lại
+takeover bid|noun|đề nghị mua quyền kiểm soát doanh nghiệp
+hostile takeover|noun|thâu tóm không được ban lãnh đạo mục tiêu đồng ý
+friendly takeover|noun|thâu tóm được ban lãnh đạo mục tiêu ủng hộ
+management buyout|noun|mua lại doanh nghiệp bởi nhóm quản lý
+leveraged buyout|noun|mua lại doanh nghiệp chủ yếu bằng vốn vay
+business divestiture|noun|bán hoặc thoái một mảng kinh doanh
+corporate spin off|noun|tách một đơn vị thành doanh nghiệp độc lập
+joint venture|noun|liên doanh
+antitrust investigation|noun|điều tra hành vi hạn chế cạnh tranh
+antitrust lawsuit|noun|vụ kiện liên quan hành vi hạn chế cạnh tranh
+retainer|noun|phí trả để giữ khả năng sử dụng dịch vụ chuyên môn
+regulatory scrutiny|noun|sự xem xét chặt chẽ của cơ quan quản lý
+uptake|noun|mức tiếp nhận và sử dụng sản phẩm
+monopoly power|noun|sức mạnh độc quyền trên thị trường
+competition authority|noun|cơ quan quản lý cạnh tranh
+consumer protection|noun|bảo vệ người tiêu dùng
+product liability|noun|trách nhiệm đối với thiệt hại do sản phẩm
+class action|noun|vụ kiện do đại diện một nhóm người thực hiện
+settlement agreement|noun|thỏa thuận giải quyết tranh chấp
+mass layoff|noun|đợt cắt giảm nhân sự quy mô lớn
+hiring freeze|noun|tạm ngừng tuyển nhân sự
+workforce reduction|noun|giảm số lượng nhân viên
+corporate restructuring|noun|tái cơ cấu doanh nghiệp
+[technology/chips]
+semiconductor fabrication|noun|chế tạo linh kiện bán dẫn
+process node|noun|thế hệ công nghệ chế tạo bán dẫn
+transistor density|noun|mật độ bóng bán dẫn
+die size|noun|diện tích khuôn chip
+silicon wafer|noun|phiến silic dùng chế tạo chip
+wafer yield|noun|tỷ lệ khuôn chip đạt yêu cầu trên phiến
+chip packaging|noun|đóng gói chip bán dẫn
+chiplet design|noun|thiết kế dùng nhiều khuôn chip nhỏ
+monolithic die|noun|khuôn chip tích hợp các thành phần trên một khối
+multi chip module|noun|mô đun gồm nhiều chip
+system on a chip|noun|hệ thống tích hợp trên một chip
+system in package|noun|hệ thống tích hợp trong một gói linh kiện
+integrated graphics|noun|đồ họa tích hợp
+discrete graphics|noun|đồ họa bằng bộ xử lý riêng
+memory controller|noun|bộ điều khiển bộ nhớ
+input output die|noun|khuôn chip xử lý giao tiếp vào ra
+interconnect fabric|noun|hệ thống kết nối dữ liệu giữa các thành phần
+chip interconnect|noun|đường liên kết giữa các chip
+die stacking|noun|xếp chồng các khuôn chip
+advanced packaging|noun|công nghệ đóng gói chip nâng cao
+thermal design power|noun|mức công suất thiết kế dùng cho yêu cầu tản nhiệt
+processor base power|noun|mức công suất cơ bản của bộ xử lý theo nhà sản xuất
+maximum turbo power|noun|mức công suất turbo tối đa theo nhà sản xuất
+power delivery|noun|cấp và điều phối điện năng cho linh kiện
+voltage regulator|noun|bộ điều chỉnh điện áp
+[technology/cpu-design]
+instruction pipeline|noun|chuỗi giai đoạn xử lý lệnh
+branch prediction|noun|dự đoán hướng rẽ nhánh lệnh
+branch misprediction|noun|dự đoán sai hướng rẽ nhánh
+speculative execution|noun|thực thi suy đoán trước khi biết có cần kết quả
+out of order execution|noun|thực thi lệnh khác thứ tự khi vẫn giữ kết quả đúng
+instruction decoding|noun|giải mã lệnh máy
+instruction retirement|noun|hoàn tất và ghi nhận kết quả lệnh
+instructions per cycle|noun|số lệnh hoàn tất trong một chu kỳ
+clock speed|noun|tốc độ xung nhịp
+base clock|noun|xung nhịp cơ bản
+boost clock|noun|xung nhịp tăng tốc
+turbo frequency|noun|tần số khi bộ xử lý tăng tốc
+core count|noun|số nhân xử lý
+thread count|noun|số luồng xử lý
+simultaneous multithreading|noun|chạy nhiều luồng đồng thời trên một nhân
+performance core|noun|nhân ưu tiên hiệu năng cao
+efficiency core|noun|nhân ưu tiên hiệu quả năng lượng
+heterogeneous computing|noun|tính toán bằng các loại bộ xử lý khác nhau
+instruction cache|noun|bộ nhớ đệm lệnh
+data cache|noun|bộ nhớ đệm dữ liệu
+shared cache|noun|bộ nhớ đệm dùng chung giữa các nhân
+last level cache|noun|bộ nhớ đệm cấp cuối trước bộ nhớ chính
+cache hit|noun|lần truy cập tìm được dữ liệu trong bộ nhớ đệm
+cache miss|noun|lần truy cập không tìm được dữ liệu trong bộ nhớ đệm
+memory latency|noun|độ trễ truy cập bộ nhớ
+[technology/graphics]
+graphics pipeline|noun|chuỗi bước xử lý đồ họa
+rendering engine|noun|bộ máy dựng hình
+rendering resolution|noun|độ phân giải dùng khi dựng hình
+native resolution|noun|độ phân giải gốc của màn hình hoặc nội dung
+resolution scaling|noun|điều chỉnh độ phân giải dựng hình
+ray tracing|noun|dựng hình bằng mô phỏng đường đi tia sáng
+path tracing|noun|dựng hình bằng lấy mẫu đường đi ánh sáng
+rasterization pipeline|noun|chuỗi xử lý chuyển hình học thành điểm ảnh
+shader core|noun|đơn vị xử lý chương trình tô bóng
+compute shader|noun|chương trình tính toán chạy trên phần cứng đồ họa
+vertex shader|noun|chương trình xử lý các đỉnh hình học
+pixel shader|noun|chương trình xử lý màu và thuộc tính điểm ảnh
+texture mapping|noun|gắn dữ liệu bề mặt lên hình học
+texture filtering|noun|lọc mẫu bề mặt khi dựng hình
+anisotropic filtering|noun|lọc bề mặt theo hướng nhìn khác nhau
+ambient occlusion|noun|ước lượng phần ánh sáng môi trường bị che
+global illumination|noun|mô phỏng ánh sáng trực tiếp và gián tiếp trong cảnh
+ray reconstruction|noun|tái tạo tín hiệu ánh sáng khi dò tia
+frame generation|noun|tạo thêm khung hình bằng thuật toán
+temporal upscaling|noun|tăng độ phân giải dùng thông tin nhiều khung hình
+spatial upscaling|noun|tăng độ phân giải từ thông tin một khung hình
+video memory|noun|bộ nhớ dành cho xử lý đồ họa
+memory bus|noun|đường truyền dữ liệu giữa bộ nhớ và bộ xử lý
+memory bus width|noun|độ rộng đường truyền bộ nhớ
+graphics driver|noun|trình điều khiển phần cứng đồ họa
+[technology/benchmarks]
+benchmark suite|noun|bộ bài đo hiệu năng
+synthetic benchmark|noun|bài đo hiệu năng bằng tải tổng hợp
+gaming benchmark|noun|bài đo hiệu năng khi chạy trò chơi
+real world performance|noun|hiệu năng trong tình huống sử dụng thực tế
+performance uplift|noun|mức tăng hiệu năng
+performance per watt|noun|hiệu năng trên mỗi watt điện
+test bench|noun|hệ thống hoặc môi trường thử nghiệm
+single thread performance|noun|hiệu năng xử lý một luồng
+multi thread performance|noun|hiệu năng xử lý nhiều luồng
+frame rate|noun|số khung hình trong một đơn vị thời gian
+frame time|noun|thời gian xử lý một khung hình
+average frame rate|noun|tốc độ khung hình trung bình
+frame pacing|noun|độ đều của thời điểm xuất các khung hình
+input latency|noun|độ trễ từ thao tác đến phản hồi
+end to end latency|noun|độ trễ tổng từ đầu đến cuối quá trình
+power consumption|noun|công suất điện tiêu thụ, thường đo bằng watt
+idle power|noun|công suất tiêu thụ khi không xử lý tải chính
+peak power|noun|công suất cao nhất trong điều kiện đo
+sustained performance|noun|hiệu năng duy trì trong thời gian dài
+thermal headroom|noun|khả năng tăng tải trước khi chạm giới hạn nhiệt
+power efficiency|noun|hiệu quả sử dụng điện
+performance scaling|noun|mức thay đổi hiệu năng khi tăng tài nguyên
+performance bottleneck|noun|thành phần giới hạn hiệu năng chung
+benchmark score|noun|điểm số của bài đo hiệu năng
+measurement variance|noun|mức dao động giữa các lần đo
+[technology/displays]
+display panel|noun|tấm nền màn hình
+display resolution|noun|độ phân giải màn hình
+pixel density|noun|mật độ điểm ảnh
+refresh rate|noun|tần số làm mới màn hình
+variable refresh rate|noun|tần số làm mới có thể thay đổi theo nội dung
+adaptive sync|noun|đồng bộ tần số màn hình theo nguồn khung hình
+response time|noun|thời gian điểm ảnh chuyển trạng thái
+contrast ratio|noun|tỷ lệ tương phản giữa mức sáng và tối
+peak brightness|noun|độ sáng tối đa trong điều kiện đo
+color gamut|noun|phạm vi màu có thể biểu diễn
+color accuracy|noun|độ chính xác màu
+color calibration|noun|hiệu chỉnh cách biểu diễn màu
+color depth|noun|số bit dùng biểu diễn màu
+high dynamic range|noun|khả năng biểu diễn dải sáng rộng
+local dimming|noun|điều chỉnh độ sáng đèn nền theo vùng
+backlight bleed|noun|ánh sáng đèn nền rò ở vùng hiển thị tối
+screen tearing|noun|hiện tượng khung hình bị xé do lệch đồng bộ
+image retention|noun|hình ảnh lưu tạm trên màn hình
+screen burn in|noun|dấu hình tồn lâu do điểm ảnh xuống cấp không đều
+viewing angle|noun|góc nhìn vẫn giữ chất lượng hiển thị
+matte finish|noun|bề mặt nhám giảm phản chiếu
+glossy finish|noun|bề mặt bóng dễ phản chiếu
+anti reflective coating|noun|lớp phủ giảm phản xạ
+aspect ratio|noun|tỷ lệ chiều rộng và chiều cao hình ảnh
+display connector|noun|đầu nối tín hiệu màn hình
+[technology/storage-memory]
+random access memory|noun|bộ nhớ truy cập ngẫu nhiên
+dynamic random access memory|noun|bộ nhớ động cần làm tươi dữ liệu
+static random access memory|noun|bộ nhớ tĩnh giữ dữ liệu khi còn cấp điện
+high bandwidth memory|noun|bộ nhớ có băng thông cao
+memory capacity|noun|dung lượng bộ nhớ
+memory speed|noun|tốc độ hoạt động của bộ nhớ
+memory timing|noun|các tham số thời gian truy cập bộ nhớ
+dual channel memory|noun|bộ nhớ dùng hai kênh truyền
+error correcting memory|noun|bộ nhớ có khả năng sửa lỗi dữ liệu
+memory module|noun|mô đun bộ nhớ
+storage capacity|noun|dung lượng lưu trữ
+sequential read|noun|đọc dữ liệu theo trình tự liên tiếp
+sequential write|noun|ghi dữ liệu theo trình tự liên tiếp
+random read|noun|đọc dữ liệu tại vị trí rải rác
+random write|noun|ghi dữ liệu tại vị trí rải rác
+input output operations per second|noun|số thao tác vào ra trong một giây
+queue depth|noun|số yêu cầu đang chờ xử lý
+storage controller|noun|bộ điều khiển lưu trữ
+flash controller|noun|bộ điều khiển bộ nhớ flash
+wear leveling|noun|phân bổ ghi để giảm hao mòn không đều
+write endurance|noun|mức chịu ghi của thiết bị lưu trữ
+write amplification factor|noun|hệ số dữ liệu thực ghi so với dữ liệu được yêu cầu ghi
+over provisioning|noun|dành dung lượng dự phòng ngoài phần người dùng truy cập
+storage interface|noun|giao diện kết nối thiết bị lưu trữ
+storage firmware|noun|phần mềm điều khiển bên trong thiết bị lưu trữ
+[technology/mobile]
+mobile chipset|noun|bộ chip cho thiết bị di động
+mobile operating system|noun|hệ điều hành thiết bị di động
+foldable display|noun|màn hình có thể gập
+hinge mechanism|noun|cơ cấu bản lề
+camera sensor|noun|cảm biến hình ảnh của máy ảnh
+sensor size|noun|kích thước cảm biến
+optical zoom|noun|thu phóng bằng thay đổi quang học
+digital zoom|noun|thu phóng bằng xử lý ảnh số
+optical image stabilization|noun|ổn định hình ảnh bằng cơ cấu quang học
+electronic image stabilization|noun|ổn định hình ảnh bằng xử lý điện tử
+computational photography|noun|tạo và cải thiện ảnh bằng tính toán
+image signal processor|noun|bộ xử lý tín hiệu hình ảnh
+neural processing unit|noun|bộ xử lý chuyên cho mạng nơ ron
+battery capacity|noun|dung lượng pin
+battery endurance|noun|thời lượng sử dụng pin theo điều kiện đo
+battery degradation|noun|sự giảm khả năng giữ điện của pin
+charging cycle|noun|chu kỳ nạp và sử dụng pin
+fast charging|noun|sạc với công suất cao để rút ngắn thời gian
+wireless charging|noun|sạc không dây
+reverse charging|noun|thiết bị cấp điện để sạc thiết bị khác
+charging wattage|noun|công suất sạc tính theo watt
+software update policy|noun|chính sách cập nhật phần mềm
+security update|noun|bản cập nhật an toàn thông tin
+water resistance rating|noun|mức đánh giá khả năng chống nước
+repairability score|noun|điểm đánh giá khả năng sửa chữa
+[technology/connectivity]
+wireless network|noun|mạng không dây
+wireless access point|noun|điểm truy cập mạng không dây
+wireless standard|noun|chuẩn truyền thông không dây
+frequency band|noun|dải tần hoạt động
+channel width|noun|độ rộng kênh truyền
+signal strength|noun|cường độ tín hiệu
+signal interference|noun|sự nhiễu tín hiệu
+signal attenuation|noun|sự suy giảm tín hiệu khi truyền
+signal to noise ratio|noun|tỷ số tín hiệu trên nhiễu
+network throughput|noun|lượng dữ liệu mạng truyền thực tế theo thời gian
+network latency|noun|độ trễ truyền qua mạng
+wireless range|noun|phạm vi kết nối không dây
+mesh network|noun|mạng có nhiều nút liên kết dạng lưới
+beamforming technology|noun|công nghệ hướng năng lượng tín hiệu tới nơi nhận
+antenna array|noun|cụm nhiều ăng ten hoạt động phối hợp
+cellular modem|noun|mô đun kết nối mạng di động
+mobile broadband|noun|kết nối dữ liệu băng rộng di động
+satellite connectivity|noun|khả năng kết nối qua vệ tinh
+near field communication|noun|giao tiếp không dây khoảng cách rất ngắn
+ultra wideband|noun|công nghệ vô tuyến dùng dải tần rất rộng
+bluetooth codec|noun|bộ mã hóa và giải mã dữ liệu âm thanh qua Bluetooth
+audio compression|noun|nén dữ liệu âm thanh
+lossless audio|noun|âm thanh được lưu hoặc nén không mất dữ liệu gốc
+lossy compression|noun|nén có loại bỏ một phần dữ liệu
+active noise cancellation|noun|chống ồn chủ động bằng tín hiệu âm thanh
+[technology/ai-architecture]
+attention mechanism|noun|cơ chế tính mức liên quan giữa các phần dữ liệu
+self attention|noun|cơ chế chú ý giữa các phần của cùng một chuỗi
+cross attention|noun|cơ chế chú ý giữa hai nguồn biểu diễn khác nhau
+multi head attention|noun|cơ chế chú ý với nhiều đầu xử lý
+transformer architecture|noun|kiến trúc mạng dùng các cơ chế chú ý
+positional encoding|noun|biểu diễn thông tin vị trí trong chuỗi
+rotary position embedding|noun|biểu diễn vị trí bằng phép quay vector
+mixture of experts|noun|kiến trúc dùng nhiều mạng chuyên gia được chọn theo đầu vào
+expert routing|noun|chọn chuyên gia xử lý trong mô hình
+sparse activation|noun|kích hoạt chỉ một phần thành phần của mô hình
+dense model|noun|mô hình dùng toàn bộ hoặc hầu hết tham số cho mỗi đầu vào
+model parameter|noun|tham số được học của mô hình
+parameter count|noun|số lượng tham số mô hình
+activation function|noun|hàm biến đổi tín hiệu giữa các lớp mạng
+perceptron|noun|mô hình nơ ron đơn giản tính tổng có trọng số
+residual connection|noun|kết nối cộng tín hiệu đầu vào vào đầu ra biến đổi
+feed forward network|noun|mạng truyền tín hiệu theo hướng từ đầu vào đến đầu ra
+encoder decoder|noun|kiến trúc ghép bộ mã hóa với bộ giải mã
+autoregressive model|noun|mô hình dự đoán phần tiếp theo dựa trên phần trước
+diffusion model|noun|mô hình tạo dữ liệu bằng quá trình khử nhiễu
+multimodal model|noun|mô hình xử lý nhiều dạng dữ liệu
+vision language model|noun|mô hình kết hợp hình ảnh và ngôn ngữ
+image generation|noun|tạo hình ảnh bằng mô hình
+speech recognition|noun|nhận dạng lời nói thành biểu diễn máy xử lý được
+speech synthesis|noun|tạo tiếng nói từ dữ liệu đầu vào
+[technology/ai-evaluation]
+reasoning capability|noun|khả năng suy luận của mô hình
+reasoning trace|noun|dấu vết các bước suy luận được biểu diễn
+chain of thought|noun|chuỗi bước suy luận trung gian
+test time compute|noun|tài nguyên tính toán dùng khi tạo kết quả
+inference scaling|noun|tăng tài nguyên hoặc phương thức tính toán khi suy luận
+context length|noun|độ dài ngữ cảnh được xử lý
+long context performance|noun|chất lượng xử lý ngữ cảnh dài
+needle in a haystack|noun|bài thử tìm thông tin ít ỏi trong ngữ cảnh dài
+benchmark contamination|noun|việc dữ liệu đánh giá đã lọt vào dữ liệu huấn luyện
+data leakage|noun|việc thông tin không phù hợp lọt vào quá trình đánh giá
+evaluation dataset|noun|tập dữ liệu đánh giá
+evaluation harness|noun|công cụ chạy các phép đánh giá
+human evaluation|noun|đánh giá do người thực hiện
+automated evaluation|noun|đánh giá tự động
+blind evaluation|noun|đánh giá không biết danh tính hệ thống hoặc phương án
+pairwise comparison|noun|so sánh hai phương án theo từng cặp
+win rate|noun|tỷ lệ được chọn thắng trong phép so sánh
+pass rate|noun|tỷ lệ vượt qua kiểm tra
+coding benchmark|noun|bộ bài đánh giá khả năng lập trình
+mathematical reasoning|noun|suy luận toán học
+factual accuracy|noun|mức chính xác của thông tin thực tế
+instruction following|noun|khả năng làm theo chỉ dẫn
+tool use accuracy|noun|mức chính xác khi dùng công cụ
+out of distribution|adjective|nằm ngoài phân phối dữ liệu đã học
+generalization ability|noun|khả năng áp dụng tri thức cho dữ liệu mới
+[technology/ai-safety]
+model alignment|noun|định hướng hành vi mô hình theo mục tiêu và giá trị mong muốn
+safety evaluation|noun|đánh giá an toàn của hệ thống
+adversarial testing|noun|thử nghiệm bằng đầu vào nhằm gây lỗi hoặc vượt kiểm soát
+red teaming|noun|kiểm tra bằng các cách tấn công hoặc khai thác có chủ đích
+jailbreak attempt|noun|nỗ lực vượt các giới hạn hành vi của mô hình
+safety guardrail|noun|cơ chế giới hạn và kiểm tra hành vi để giảm rủi ro
+content moderation|noun|kiểm duyệt nội dung theo chính sách
+refusal behavior|noun|hành vi từ chối yêu cầu của mô hình
+false refusal|noun|việc mô hình từ chối yêu cầu hợp lệ
+harmful output|noun|kết quả đầu ra có thể gây hại
+training data privacy|noun|bảo vệ thông tin riêng trong dữ liệu huấn luyện
+data consent|noun|sự đồng ý cho sử dụng dữ liệu
+copyright infringement|noun|việc xâm phạm quyền tác giả
+model transparency|noun|mức rõ ràng về đặc điểm và cách dùng mô hình
+model interpretability|noun|khả năng giải thích hoạt động bên trong mô hình
+mechanistic interpretability|noun|nghiên cứu cơ chế nội bộ để giải thích mô hình
+model card|noun|tài liệu mô tả mô hình, cách dùng và giới hạn
+system card|noun|tài liệu mô tả khả năng và rủi ro của hệ thống AI
+responsible deployment|noun|triển khai có xem xét tác động và quản lý rủi ro
+misuse prevention|noun|ngăn sử dụng sai mục đích
+abuse monitoring|noun|giám sát hành vi lạm dụng
+human oversight|noun|sự giám sát của con người
+provenance tracking|noun|theo dõi nguồn gốc dữ liệu hoặc nội dung
+synthetic content|noun|nội dung được tạo bằng hệ thống nhân tạo
+text watermarking|noun|gắn dấu nhận diện vào văn bản theo một phương pháp
+[technology/product-news]
+product launch|noun|ra mắt sản phẩm
+launch event|noun|sự kiện ra mắt
+early access|noun|quyền sử dụng trước khi phát hành rộng rãi
+general availability|noun|trạng thái phát hành rộng rãi cho người dùng
+beta release|noun|bản thử nghiệm trước phát hành chính thức
+public preview|noun|bản xem thử công khai
+developer preview|noun|bản xem thử cho nhà phát triển
+flagship device|noun|thiết bị chủ lực cao cấp
+entry level model|noun|mẫu sản phẩm phân khúc cơ bản
+midrange device|noun|thiết bị phân khúc tầm trung
+premium tier|noun|gói hoặc phân khúc cao cấp
+subscription tier|noun|cấp gói thuê bao
+subscription fee|noun|phí thuê bao
+price hike|noun|đợt tăng giá
+price cut|noun|đợt giảm giá
+product refresh|noun|đợt làm mới dòng sản phẩm
+hardware revision|noun|phiên bản sửa đổi phần cứng
+software feature|noun|chức năng của phần mềm
+feature parity|noun|mức có các chức năng tương đương
+forward compatibility|noun|khả năng hệ thống cũ xử lý phần mới trong giới hạn đã thiết kế
+cross platform support|noun|khả năng hỗ trợ nhiều nền tảng
+ecosystem lock in|noun|sự khó chuyển ra khỏi hệ sinh thái sản phẩm
+repair program|noun|chương trình hỗ trợ sửa chữa
+product recall|noun|thu hồi sản phẩm do vấn đề cần xử lý
+end of support|noun|thời điểm kết thúc hỗ trợ sản phẩm

@@ -1,0 +1,34 @@
+[
+  {
+    "word": "frontend",
+    "pos": "noun",
+    "meaningVi": "phần mặt trước của một tòa nhà",
+    "newPos": "adjective",
+    "newMeaningVi": "thuộc khoản chi phí phải trả trước khi dự án bắt đầu (thường viết front-end)",
+    "source": "https://www.collinsdictionary.com/us/dictionary/english/front-end"
+  },
+  {
+    "word": "onboard",
+    "pos": "verb",
+    "meaningVi": "đưa người lên tàu hoặc máy bay",
+    "newPos": "adjective",
+    "newMeaningVi": "có hoặc diễn ra trên tàu, máy bay hay phương tiện khác",
+    "source": "https://www.collinsdictionary.com/us/dictionary/english/onboard"
+  },
+  {
+    "word": "relieved",
+    "pos": "adjective",
+    "meaningVi": "nhô lên so với bề mặt xung quanh",
+    "newPos": "adjective",
+    "newMeaningVi": "được khoét bớt bề mặt để tránh ma sát hoặc mài mòn (cơ khí)",
+    "source": "https://www.collinsdictionary.com/dictionary/english/relieved"
+  },
+  {
+    "word": "rollout",
+    "pos": "noun",
+    "meaningVi": "việc trải một vật đã cuộn ra",
+    "newPos": "noun",
+    "newMeaningVi": "pha tiền vệ di chuyển ngang để chuẩn bị chuyền bóng (bóng bầu dục Mỹ)",
+    "source": "https://www.collinsdictionary.com/us/dictionary/english/rollout"
+  }
+]

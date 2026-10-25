@@ -1,0 +1,59 @@
+# word|English primary example|Vietnamese primary example
+entropy|Random bytes have higher entropy than a repeated sequence of zeros.|Các byte ngẫu nhiên có độ bất định cao hơn chuỗi số không lặp lại.
+compilation|Compilation failed because the program contained a type error.|Quá trình biên dịch thất bại vì chương trình có lỗi kiểu dữ liệu.
+serialization|Serialization converted the order object into a message for the queue.|Việc tuần tự hóa chuyển đối tượng đơn hàng thành thông điệp cho hàng đợi.
+deserialization|Deserialization restored the order object from the saved message.|Việc giải tuần tự hóa khôi phục đối tượng đơn hàng từ thông điệp đã lưu.
+test fixture|The test fixture created a temporary database before each test.|Phần chuẩn bị kiểm thử tạo một cơ sở dữ liệu tạm trước mỗi ca kiểm thử.
+data normalization|Data normalization moved repeated customer details into a separate table.|Việc chuẩn hóa dữ liệu chuyển thông tin khách hàng bị lặp sang một bảng riêng.
+neural network|The neural network learned to classify images from labeled examples.|Mạng nơ ron nhân tạo học phân loại hình ảnh từ các ví dụ có nhãn.
+distillation|Distillation helped the smaller model imitate the larger model's predictions.|Việc chắt lọc tri thức giúp mô hình nhỏ bắt chước dự đoán của mô hình lớn.
+embedding|The search system stored an embedding for each document.|Hệ thống tìm kiếm lưu một vector biểu diễn cho mỗi tài liệu.
+die|The processor package contains a compute die and an input-output die.|Gói bộ xử lý chứa một khuôn chip tính toán và một khuôn chip xử lý vào ra.
+foundry|The chip designer hired a foundry to manufacture its processors.|Hãng thiết kế chip thuê một nhà máy chế tạo bán dẫn để sản xuất bộ xử lý.
+wafer|The factory tested each wafer before cutting it into individual chips.|Nhà máy kiểm tra từng phiến bán dẫn trước khi cắt thành các chip riêng.
+socket|The new processor does not fit the motherboard's socket.|Bộ xử lý mới không vừa đế cắm trên bo mạch chủ.
+bus|The memory bus transfers data between the processor and memory.|Đường truyền bộ nhớ chuyển dữ liệu giữa bộ xử lý và bộ nhớ.
+data leakage|Using tomorrow's sales to predict today's sales creates data leakage.|Dùng doanh số ngày mai để dự đoán doanh số hôm nay gây rò rỉ thông tin trong đánh giá mô hình.
+response time|The monitor's response time affects how clearly moving objects appear.|Thời gian chuyển trạng thái điểm ảnh ảnh hưởng độ rõ của vật chuyển động trên màn hình.
+dividend|The board approved a cash dividend for shareholders.|Hội đồng quản trị phê duyệt khoản cổ tức tiền mặt cho cổ đông.
+capitalization|The company's market capitalization rose after its share price increased.|Giá trị vốn hóa thị trường của công ty tăng sau khi giá cổ phiếu tăng.
+underwriter|The underwriter agreed to purchase shares not sold in the offering.|Bên bảo lãnh phát hành đồng ý mua số cổ phiếu chưa bán được trong đợt chào bán.
+syndication|Loan syndication allowed several banks to finance the acquisition together.|Việc hợp vốn cho vay giúp nhiều ngân hàng cùng tài trợ thương vụ mua lại.
+dilution|Issuing new shares caused dilution for existing shareholders.|Phát hành cổ phiếu mới khiến tỷ lệ sở hữu của cổ đông hiện hữu giảm.
+derivative|The contract is a derivative whose value depends on an interest rate.|Hợp đồng là công cụ phái sinh có giá trị phụ thuộc vào một mức lãi suất.
+depreciation|Annual depreciation spread the equipment's cost over its useful life.|Khấu hao hằng năm phân bổ chi phí thiết bị trong thời gian sử dụng hữu ích.
+amortization|The accounts include amortization of the acquired software license.|Báo cáo kế toán có chi phí phân bổ giấy phép phần mềm đã mua.
+retainer|The company paid a retainer to keep legal advice available.|Công ty trả phí duy trì dịch vụ để có thể sử dụng tư vấn pháp lý.
+uptake|The company reported strong uptake of its new subscription service.|Công ty cho biết dịch vụ thuê bao mới được tiếp nhận và sử dụng nhiều.
+traction|The startup gained traction after customers began renewing their subscriptions.|Công ty khởi nghiệp có tiến triển trên thị trường khi khách hàng bắt đầu gia hạn thuê bao.
+incumbent|The newcomer challenged an incumbent with millions of existing users.|Doanh nghiệp mới cạnh tranh với một hãng đã có vị thế và hàng triệu người dùng.
+frame rate|The game maintained a stable frame rate during the busiest scene.|Trò chơi duy trì tốc độ khung hình ổn định trong cảnh nhiều hoạt động nhất.
+frame time|A sudden increase in frame time made the animation stutter.|Thời gian xử lý một khung hình tăng đột ngột khiến chuyển động bị giật.
+frame generation|Frame generation inserted additional frames between rendered frames.|Thuật toán tạo khung hình chèn thêm khung hình giữa các khung đã dựng.
+ray tracing|Ray tracing produced more realistic reflections in the game.|Dò tia tạo phản chiếu chân thực hơn trong trò chơi.
+memory bandwidth|Higher memory bandwidth helped the GPU move texture data faster.|Băng thông bộ nhớ cao hơn giúp GPU chuyển dữ liệu bề mặt nhanh hơn.
+thermal design power|The cooler was selected with the processor's thermal design power in mind.|Bộ làm mát được chọn có tính đến công suất thiết kế nhiệt của bộ xử lý.
+power consumption|Power consumption increased when all processor cores were active.|Công suất điện tiêu thụ tăng khi tất cả các nhân xử lý hoạt động.
+refresh rate|The display's refresh rate determines how often it can update the image.|Tần số làm mới xác định tần suất màn hình có thể cập nhật hình ảnh.
+context window|The long document exceeded the model's context window.|Tài liệu dài vượt giới hạn ngữ cảnh mô hình có thể xử lý.
+prompt injection|The malicious document contained a prompt injection disguised as instructions.|Tài liệu độc hại chứa chỉ dẫn chèn nhằm chi phối mô hình, được ngụy trang như hướng dẫn.
+benchmark contamination|Benchmark contamination made the reported score less reliable.|Việc dữ liệu đánh giá lọt vào dữ liệu huấn luyện khiến điểm công bố kém đáng tin hơn.
+model hallucination|The model hallucination included a citation to a paper that did not exist.|Kết quả bịa của mô hình chứa trích dẫn một bài nghiên cứu không tồn tại.
+quantization|Quantization reduced the memory required to run the model.|Lượng tử hóa giảm bộ nhớ cần để chạy mô hình.
+tokenizer|The tokenizer split the sentence into smaller units before processing.|Bộ chia token tách câu thành các đơn vị nhỏ hơn trước khi xử lý.
+overfitting|Overfitting produced excellent training scores but poor results on new data.|Việc khớp quá sát dữ liệu huấn luyện tạo điểm học rất cao nhưng kết quả kém trên dữ liệu mới.
+underfitting|Underfitting prevented the simple model from capturing the curved trend.|Việc mô hình quá đơn giản khiến nó không học được xu hướng dạng đường cong.
+perceptron|A single perceptron cannot solve every nonlinear classification problem.|Một perceptron đơn không thể giải mọi bài toán phân loại phi tuyến.
+regularization|Regularization reduced the model's tendency to fit random noise.|Biện pháp điều chuẩn giảm xu hướng mô hình học cả nhiễu ngẫu nhiên.
+backpropagation|Backpropagation computed the gradients used to update the network's weights.|Lan truyền ngược tính các gradient dùng cập nhật trọng số của mạng.
+free cash flow|The company reported positive free cash flow after deducting capital spending.|Công ty báo dòng tiền tự do dương sau khi trừ chi tiêu vốn.
+earnings per share|Earnings per share increased even though total revenue changed little.|Lợi nhuận mỗi cổ phiếu tăng dù tổng doanh thu thay đổi ít.
+revenue guidance|Management lowered its revenue guidance because customers delayed purchases.|Ban điều hành giảm dự báo doanh thu do khách hàng trì hoãn mua hàng.
+market capitalization|Market capitalization fell when the stock price declined.|Giá trị vốn hóa thị trường giảm khi giá cổ phiếu đi xuống.
+mass layoff|The mass layoff affected several teams at the technology company.|Đợt cắt giảm nhân sự lớn ảnh hưởng nhiều nhóm tại công ty công nghệ.
+antitrust investigation|The antitrust investigation examined whether the company restricted competitors.|Cuộc điều tra cạnh tranh xem xét liệu công ty có cản trở đối thủ hay không.
+reserved instance|A regional reserved instance reduces the bill but does not reserve capacity.|Ưu đãi cam kết máy ảo theo khu vực làm giảm hóa đơn nhưng không giữ chỗ dung lượng.
+out of distribution|The new inputs were out of distribution, so the model made more errors.|Các dữ liệu đầu vào mới nằm ngoài phân phối đã học nên mô hình mắc nhiều lỗi hơn.
+cryptographic hash|We compared a cryptographic hash of the downloaded file with the published value.|Chúng tôi đối chiếu giá trị băm mật mã của tệp đã tải với giá trị được công bố.
+reproducible build|A reproducible build produced identical files from the same source and configuration.|Một bản build có thể tái tạo tạo ra các tệp giống hệt từ cùng mã nguồn và cấu hình.
+product recall|The manufacturer announced a product recall after detecting a battery fault.|Nhà sản xuất thông báo thu hồi sản phẩm sau khi phát hiện lỗi pin.

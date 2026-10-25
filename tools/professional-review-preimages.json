@@ -1,0 +1,418 @@
+[
+  {
+    "file": "decks/professional-reading-1000.json",
+    "word": "serialization",
+    "reason": "Professional deck review: precise terminology, grammatical contexts and real secondary uses.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "chuyển đối tượng hoặc dữ liệu thành dạng lưu hoặc truyền được",
+      "example": "Serialization converted the order object into a message for the queue.",
+      "exampleVi": "Việc tuần tự hóa chuyển đối tượng đơn hàng thành thông điệp cho hàng đợi.",
+      "ipa": "/ˌsɪr.i.ə.ləˈzeɪ.ʃən/"
+    },
+    "beforeSenses": []
+  },
+  {
+    "file": "decks/professional-reading-1000.json",
+    "word": "reproducible build",
+    "reason": "Professional deck review: precise terminology, grammatical contexts and real secondary uses.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "bản build có thể tái tạo cùng kết quả",
+      "example": "The release checklist covered reproducible build before deployment.",
+      "exampleVi": "Danh sách kiểm tra phát hành bao gồm bản build có thể tái tạo cùng kết quả trước khi triển khai.",
+      "ipa": "/ˌriː.prəˈduː.sə.bəl ˈbɪɫd/"
+    },
+    "beforeSenses": []
+  },
+  {
+    "file": "decks/professional-reading-1000.json",
+    "word": "reserved instance",
+    "reason": "Professional deck review: precise terminology, grammatical contexts and real secondary uses.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "tài nguyên tính toán được đặt trước theo gói cam kết",
+      "example": "The architecture report discusses the reserved instance in relation to cost and availability.",
+      "exampleVi": "Báo cáo kiến trúc bàn về tài nguyên tính toán được đặt trước theo gói cam kết trong mối liên hệ với chi phí và độ sẵn sàng.",
+      "ipa": "/ɹiˈzɝvd ˈɪnstəns/"
+    },
+    "beforeSenses": []
+  },
+  {
+    "file": "decks/professional-reading-1000.json",
+    "word": "cipher",
+    "reason": "Professional deck review: precise terminology, grammatical contexts and real secondary uses.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "thuật toán mã hóa thông tin",
+      "example": "The security team discussed cipher during the incident review.",
+      "exampleVi": "Nhóm bảo mật thảo luận về thuật toán mã hóa thông tin trong buổi rà soát sự cố.",
+      "ipa": "/ˈsaɪfɝ/"
+    },
+    "beforeSenses": []
+  },
+  {
+    "file": "decks/professional-reading-1000.json",
+    "word": "cryptographic hash",
+    "reason": "Professional deck review: precise terminology, grammatical contexts and real secondary uses.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "giá trị băm tạo bằng hàm mật mã",
+      "example": "Our security documentation explains cryptographic hash for the encrypted messaging service.",
+      "exampleVi": "Tài liệu bảo mật giải thích giá trị băm tạo bằng hàm mật mã cho dịch vụ nhắn tin mã hóa.",
+      "ipa": "/ˌkrɪp.təˈɡræ.fɪk ˈhæʃ/"
+    },
+    "beforeSenses": []
+  },
+  {
+    "file": "decks/professional-reading-1000.json",
+    "word": "power consumption",
+    "reason": "Professional deck review: precise terminology, grammatical contexts and real secondary uses.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "lượng điện năng tiêu thụ",
+      "example": "Power consumption increased when all processor cores were active.",
+      "exampleVi": "Điện năng tiêu thụ tăng khi tất cả các nhân xử lý hoạt động.",
+      "ipa": "/ˈpaʊɝ kənˈsəmpʃən/"
+    },
+    "beforeSenses": []
+  },
+  {
+    "file": "decks/professional-reading-1000.json",
+    "word": "mobile chipset",
+    "reason": "Professional deck review: precise terminology, grammatical contexts and real secondary uses.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "bộ chip cho thiết bị di động",
+      "example": "The phone review compared the mobile chipset with last year's model.",
+      "exampleVi": "Bài đánh giá điện thoại so sánh bộ chip cho thiết bị di động với mẫu năm trước.",
+      "ipa": "/ˈmoʊbəɫ ˈtʃɪpˌsɛt/"
+    },
+    "beforeSenses": []
+  },
+  {
+    "file": "decks/professional-reading-1000.json",
+    "word": "mobile operating system",
+    "reason": "Professional deck review: precise terminology, grammatical contexts and real secondary uses.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "hệ điều hành thiết bị di động",
+      "example": "The reviewer explained the mobile operating system after a week of everyday use.",
+      "exampleVi": "Người đánh giá giải thích hệ điều hành thiết bị di động sau một tuần sử dụng hằng ngày.",
+      "ipa": "/ˈmoʊbəɫ ˈɑpɝˌeɪtɪŋ ˈsɪstəm/"
+    },
+    "beforeSenses": []
+  },
+  {
+    "file": "decks/professional-reading-1000.json",
+    "word": "foldable display",
+    "reason": "Professional deck review: precise terminology, grammatical contexts and real secondary uses.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "màn hình có thể gập",
+      "example": "The phone review compared the foldable display with last year's model.",
+      "exampleVi": "Bài đánh giá điện thoại so sánh màn hình có thể gập với mẫu năm trước.",
+      "ipa": "/ˈfoʊl.də.bəl dɪsˈpɫeɪ/"
+    },
+    "beforeSenses": []
+  },
+  {
+    "file": "decks/professional-reading-1000.json",
+    "word": "hinge mechanism",
+    "reason": "Professional deck review: precise terminology, grammatical contexts and real secondary uses.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "cơ cấu bản lề",
+      "example": "The reviewer explained the hinge mechanism after a week of everyday use.",
+      "exampleVi": "Người đánh giá giải thích cơ cấu bản lề sau một tuần sử dụng hằng ngày.",
+      "ipa": "/ˈhɪndʒ ˈmɛkəˌnɪzəm/"
+    },
+    "beforeSenses": []
+  },
+  {
+    "file": "decks/professional-reading-1000.json",
+    "word": "camera sensor",
+    "reason": "Professional deck review: precise terminology, grammatical contexts and real secondary uses.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "cảm biến hình ảnh của máy ảnh",
+      "example": "The phone review compared the camera sensor with last year's model.",
+      "exampleVi": "Bài đánh giá điện thoại so sánh cảm biến hình ảnh của máy ảnh với mẫu năm trước.",
+      "ipa": "/ˈkæmɝə ˈsɛnsɝ/"
+    },
+    "beforeSenses": []
+  },
+  {
+    "file": "decks/professional-reading-1000.json",
+    "word": "sensor size",
+    "reason": "Professional deck review: precise terminology, grammatical contexts and real secondary uses.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "kích thước cảm biến",
+      "example": "The reviewer explained the sensor size after a week of everyday use.",
+      "exampleVi": "Người đánh giá giải thích kích thước cảm biến sau một tuần sử dụng hằng ngày.",
+      "ipa": "/ˈsɛnsɝ ˈsaɪz/"
+    },
+    "beforeSenses": []
+  },
+  {
+    "file": "decks/professional-reading-1000.json",
+    "word": "optical zoom",
+    "reason": "Professional deck review: precise terminology, grammatical contexts and real secondary uses.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "thu phóng bằng thay đổi quang học",
+      "example": "The phone review compared the optical zoom with last year's model.",
+      "exampleVi": "Bài đánh giá điện thoại so sánh thu phóng bằng thay đổi quang học với mẫu năm trước.",
+      "ipa": "/ˈɑptɪkəɫ ˈzum/"
+    },
+    "beforeSenses": []
+  },
+  {
+    "file": "decks/professional-reading-1000.json",
+    "word": "digital zoom",
+    "reason": "Professional deck review: precise terminology, grammatical contexts and real secondary uses.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "thu phóng bằng xử lý ảnh số",
+      "example": "The reviewer explained the digital zoom after a week of everyday use.",
+      "exampleVi": "Người đánh giá giải thích thu phóng bằng xử lý ảnh số sau một tuần sử dụng hằng ngày.",
+      "ipa": "/ˈdɪdʒətəɫ ˈzum/"
+    },
+    "beforeSenses": []
+  },
+  {
+    "file": "decks/professional-reading-1000.json",
+    "word": "optical image stabilization",
+    "reason": "Professional deck review: precise terminology, grammatical contexts and real secondary uses.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "ổn định hình ảnh bằng cơ cấu quang học",
+      "example": "The phone review compared the optical image stabilization with last year's model.",
+      "exampleVi": "Bài đánh giá điện thoại so sánh ổn định hình ảnh bằng cơ cấu quang học với mẫu năm trước.",
+      "ipa": "/ˈɑptɪkəɫ ˈɪmədʒ ˌsteɪbəɫəˈzeɪʃən/"
+    },
+    "beforeSenses": []
+  },
+  {
+    "file": "decks/professional-reading-1000.json",
+    "word": "electronic image stabilization",
+    "reason": "Professional deck review: precise terminology, grammatical contexts and real secondary uses.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "ổn định hình ảnh bằng xử lý điện tử",
+      "example": "The reviewer explained the electronic image stabilization after a week of everyday use.",
+      "exampleVi": "Người đánh giá giải thích ổn định hình ảnh bằng xử lý điện tử sau một tuần sử dụng hằng ngày.",
+      "ipa": "/ˌɪˌɫɛkˈtɹɑnɪk ˈɪmədʒ ˌsteɪbəɫəˈzeɪʃən/"
+    },
+    "beforeSenses": []
+  },
+  {
+    "file": "decks/professional-reading-1000.json",
+    "word": "computational photography",
+    "reason": "Professional deck review: precise terminology, grammatical contexts and real secondary uses.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "tạo và cải thiện ảnh bằng tính toán",
+      "example": "The phone review compared the computational photography with last year's model.",
+      "exampleVi": "Bài đánh giá điện thoại so sánh tạo và cải thiện ảnh bằng tính toán với mẫu năm trước.",
+      "ipa": "/ˌkɑmpjuˈteɪʃənəɫ fəˈtɑɡɹəfi/"
+    },
+    "beforeSenses": []
+  },
+  {
+    "file": "decks/professional-reading-1000.json",
+    "word": "image signal processor",
+    "reason": "Professional deck review: precise terminology, grammatical contexts and real secondary uses.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "bộ xử lý tín hiệu hình ảnh",
+      "example": "The reviewer explained the image signal processor after a week of everyday use.",
+      "exampleVi": "Người đánh giá giải thích bộ xử lý tín hiệu hình ảnh sau một tuần sử dụng hằng ngày.",
+      "ipa": "/ˈɪmədʒ ˈsɪɡnəɫ ˈpɹɑˌsɛsɝ/"
+    },
+    "beforeSenses": []
+  },
+  {
+    "file": "decks/professional-reading-1000.json",
+    "word": "neural processing unit",
+    "reason": "Professional deck review: precise terminology, grammatical contexts and real secondary uses.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "bộ xử lý chuyên cho mạng nơ ron",
+      "example": "The phone review compared the neural processing unit with last year's model.",
+      "exampleVi": "Bài đánh giá điện thoại so sánh bộ xử lý chuyên cho mạng nơ ron với mẫu năm trước.",
+      "ipa": "/ˈnjʊɹəɫ ˈpɹɑsɛsɪŋ ˈjunət/"
+    },
+    "beforeSenses": []
+  },
+  {
+    "file": "decks/professional-reading-1000.json",
+    "word": "battery capacity",
+    "reason": "Professional deck review: precise terminology, grammatical contexts and real secondary uses.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "dung lượng pin",
+      "example": "The reviewer explained the battery capacity after a week of everyday use.",
+      "exampleVi": "Người đánh giá giải thích dung lượng pin sau một tuần sử dụng hằng ngày.",
+      "ipa": "/ˈbætɝi kəˈpæsəti/"
+    },
+    "beforeSenses": []
+  },
+  {
+    "file": "decks/professional-reading-1000.json",
+    "word": "battery endurance",
+    "reason": "Professional deck review: precise terminology, grammatical contexts and real secondary uses.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "thời lượng sử dụng pin theo điều kiện đo",
+      "example": "The phone review compared the battery endurance with last year's model.",
+      "exampleVi": "Bài đánh giá điện thoại so sánh thời lượng sử dụng pin theo điều kiện đo với mẫu năm trước.",
+      "ipa": "/ˈbætɝi ˈɛndɝəns/"
+    },
+    "beforeSenses": []
+  },
+  {
+    "file": "decks/professional-reading-1000.json",
+    "word": "battery degradation",
+    "reason": "Professional deck review: precise terminology, grammatical contexts and real secondary uses.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "sự giảm khả năng giữ điện của pin",
+      "example": "The reviewer explained the battery degradation after a week of everyday use.",
+      "exampleVi": "Người đánh giá giải thích sự giảm khả năng giữ điện của pin sau một tuần sử dụng hằng ngày.",
+      "ipa": "/ˈbætɝi ˌdɛɡɹəˈdeɪʃən/"
+    },
+    "beforeSenses": []
+  },
+  {
+    "file": "decks/professional-reading-1000.json",
+    "word": "charging cycle",
+    "reason": "Professional deck review: precise terminology, grammatical contexts and real secondary uses.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "chu kỳ nạp và sử dụng pin",
+      "example": "The phone review compared the charging cycle with last year's model.",
+      "exampleVi": "Bài đánh giá điện thoại so sánh chu kỳ nạp và sử dụng pin với mẫu năm trước.",
+      "ipa": "/ˈtʃɑɹdʒɪŋ ˈsaɪkəɫ/"
+    },
+    "beforeSenses": []
+  },
+  {
+    "file": "decks/professional-reading-1000.json",
+    "word": "fast charging",
+    "reason": "Professional deck review: precise terminology, grammatical contexts and real secondary uses.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "sạc với công suất cao để rút ngắn thời gian",
+      "example": "The reviewer explained the fast charging after a week of everyday use.",
+      "exampleVi": "Người đánh giá giải thích sạc với công suất cao để rút ngắn thời gian sau một tuần sử dụng hằng ngày.",
+      "ipa": "/ˈfæst ˈtʃɑɹdʒɪŋ/"
+    },
+    "beforeSenses": []
+  },
+  {
+    "file": "decks/professional-reading-1000.json",
+    "word": "wireless charging",
+    "reason": "Professional deck review: precise terminology, grammatical contexts and real secondary uses.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "sạc không dây",
+      "example": "The phone review compared the wireless charging with last year's model.",
+      "exampleVi": "Bài đánh giá điện thoại so sánh sạc không dây với mẫu năm trước.",
+      "ipa": "/ˈwaɪɹɫɪs ˈtʃɑɹdʒɪŋ/"
+    },
+    "beforeSenses": []
+  },
+  {
+    "file": "decks/professional-reading-1000.json",
+    "word": "reverse charging",
+    "reason": "Professional deck review: precise terminology, grammatical contexts and real secondary uses.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "thiết bị cấp điện để sạc thiết bị khác",
+      "example": "The reviewer explained the reverse charging after a week of everyday use.",
+      "exampleVi": "Người đánh giá giải thích thiết bị cấp điện để sạc thiết bị khác sau một tuần sử dụng hằng ngày.",
+      "ipa": "/ɹiˈvɝs ˈtʃɑɹdʒɪŋ/"
+    },
+    "beforeSenses": []
+  },
+  {
+    "file": "decks/professional-reading-1000.json",
+    "word": "charging wattage",
+    "reason": "Professional deck review: precise terminology, grammatical contexts and real secondary uses.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "công suất sạc tính theo watt",
+      "example": "The phone review compared the charging wattage with last year's model.",
+      "exampleVi": "Bài đánh giá điện thoại so sánh công suất sạc tính theo watt với mẫu năm trước.",
+      "ipa": "/ˈtʃɑɹdʒɪŋ ˈwɑtədʒ/"
+    },
+    "beforeSenses": []
+  },
+  {
+    "file": "decks/professional-reading-1000.json",
+    "word": "software update policy",
+    "reason": "Professional deck review: precise terminology, grammatical contexts and real secondary uses.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "chính sách cập nhật phần mềm",
+      "example": "The reviewer explained the software update policy after a week of everyday use.",
+      "exampleVi": "Người đánh giá giải thích chính sách cập nhật phần mềm sau một tuần sử dụng hằng ngày.",
+      "ipa": "/ˈsɔfˌwɛɹ ˈəpˌdeɪt ˈpɑɫəsi/"
+    },
+    "beforeSenses": []
+  },
+  {
+    "file": "decks/professional-reading-1000.json",
+    "word": "security update",
+    "reason": "Professional deck review: precise terminology, grammatical contexts and real secondary uses.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "bản cập nhật an toàn thông tin",
+      "example": "The phone review compared the security update with last year's model.",
+      "exampleVi": "Bài đánh giá điện thoại so sánh bản cập nhật an toàn thông tin với mẫu năm trước.",
+      "ipa": "/sɪkˈjʊɹəti ˈəpˌdeɪt/"
+    },
+    "beforeSenses": []
+  },
+  {
+    "file": "decks/professional-reading-1000.json",
+    "word": "water resistance rating",
+    "reason": "Professional deck review: precise terminology, grammatical contexts and real secondary uses.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "mức đánh giá khả năng chống nước",
+      "example": "The reviewer explained the water resistance rating after a week of everyday use.",
+      "exampleVi": "Người đánh giá giải thích mức đánh giá khả năng chống nước sau một tuần sử dụng hằng ngày.",
+      "ipa": "/ˈwɔtɝ ɹiˈzɪstəns ˈɹeɪtɪŋ/"
+    },
+    "beforeSenses": []
+  },
+  {
+    "file": "decks/professional-reading-1000.json",
+    "word": "repairability score",
+    "reason": "Professional deck review: precise terminology, grammatical contexts and real secondary uses.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "điểm đánh giá khả năng sửa chữa",
+      "example": "The phone review compared the repairability score with last year's model.",
+      "exampleVi": "Bài đánh giá điện thoại so sánh điểm đánh giá khả năng sửa chữa với mẫu năm trước.",
+      "ipa": "/rɪˌpɛr.əˈbɪ.lə.ti ˈskɔɹ/"
+    },
+    "beforeSenses": []
+  },
+  {
+    "file": "decks/professional-reading-1000.json",
+    "word": "out of distribution",
+    "reason": "Professional deck review: precise terminology, grammatical contexts and real secondary uses.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "trường hợp dữ liệu khác phân phối đã học",
+      "example": "The research team discussed the out of distribution when interpreting the evaluation results.",
+      "exampleVi": "Nhóm nghiên cứu thảo luận về trường hợp dữ liệu khác phân phối đã học khi diễn giải kết quả đánh giá.",
+      "ipa": "/ˈaʊt əv ˌdɪstɹəbˈjuʃən/"
+    },
+    "beforeSenses": []
+  }
+]

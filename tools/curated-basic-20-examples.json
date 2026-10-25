@@ -1,0 +1,258 @@
+[
+  {
+    "word": "book",
+    "sourceGroup": "basic-20",
+    "pos": "noun",
+    "meaningVi": "sách",
+    "example": "I borrowed two books from the library.",
+    "exampleVi": "Tôi mượn hai cuốn sách từ thư viện."
+  },
+  {
+    "word": "book",
+    "sourceGroup": "basic-20",
+    "pos": "verb",
+    "meaningVi": "đặt trước; đặt chỗ",
+    "example": "We booked a room for two nights.",
+    "exampleVi": "Chúng tôi đặt phòng cho hai đêm."
+  },
+  {
+    "word": "pass",
+    "sourceGroup": "basic-20",
+    "pos": "verb",
+    "meaningVi": "đi qua",
+    "example": "We passed the station on our way home.",
+    "exampleVi": "Chúng tôi đi qua nhà ga trên đường về nhà."
+  },
+  {
+    "word": "pass",
+    "sourceGroup": "basic-20",
+    "pos": "verb",
+    "meaningVi": "vượt qua; đạt yêu cầu",
+    "example": "She passed her driving test on the first attempt.",
+    "exampleVi": "Cô ấy đỗ kỳ thi lái xe ngay lần đầu."
+  },
+  {
+    "word": "pass",
+    "sourceGroup": "basic-20",
+    "pos": "verb",
+    "meaningVi": "đưa; chuyển cho người khác",
+    "example": "Please pass me the salt.",
+    "exampleVi": "Làm ơn đưa cho tôi lọ muối."
+  },
+  {
+    "word": "get",
+    "sourceGroup": "basic-20",
+    "pos": "verb",
+    "meaningVi": "nhận được",
+    "example": "I got your message this morning.",
+    "exampleVi": "Tôi nhận được tin nhắn của bạn sáng nay."
+  },
+  {
+    "word": "get",
+    "sourceGroup": "basic-20",
+    "pos": "verb",
+    "meaningVi": "lấy; có được",
+    "example": "Can you get some bread on your way home?",
+    "exampleVi": "Bạn có thể mua ít bánh mì trên đường về nhà không?"
+  },
+  {
+    "word": "get",
+    "sourceGroup": "basic-20",
+    "pos": "verb",
+    "meaningVi": "trở nên",
+    "example": "It gets cold here after sunset.",
+    "exampleVi": "Ở đây trời trở lạnh sau khi mặt trời lặn."
+  },
+  {
+    "word": "take",
+    "sourceGroup": "basic-20",
+    "pos": "verb",
+    "meaningVi": "lấy",
+    "example": "She took a clean cup from the shelf.",
+    "exampleVi": "Cô ấy lấy một chiếc cốc sạch từ trên kệ."
+  },
+  {
+    "word": "take",
+    "sourceGroup": "basic-20",
+    "pos": "verb",
+    "meaningVi": "mang; đưa đến",
+    "example": "I will take these documents to the office.",
+    "exampleVi": "Tôi sẽ mang những tài liệu này đến văn phòng."
+  },
+  {
+    "word": "take",
+    "sourceGroup": "basic-20",
+    "pos": "verb",
+    "meaningVi": "mất một khoảng thời gian",
+    "example": "The journey takes about an hour.",
+    "exampleVi": "Chuyến đi mất khoảng một giờ."
+  },
+  {
+    "word": "make",
+    "sourceGroup": "basic-20",
+    "pos": "verb",
+    "meaningVi": "làm; tạo ra",
+    "example": "He made a small table for the kitchen.",
+    "exampleVi": "Anh ấy làm một chiếc bàn nhỏ cho nhà bếp."
+  },
+  {
+    "word": "make",
+    "sourceGroup": "basic-20",
+    "pos": "verb",
+    "meaningVi": "khiến; làm cho",
+    "example": "That song always makes me smile.",
+    "exampleVi": "Bài hát đó luôn khiến tôi mỉm cười."
+  },
+  {
+    "word": "keep",
+    "sourceGroup": "basic-20",
+    "pos": "verb",
+    "meaningVi": "giữ; giữ lại",
+    "example": "I kept the receipt in my wallet.",
+    "exampleVi": "Tôi giữ biên lai trong ví."
+  },
+  {
+    "word": "keep",
+    "sourceGroup": "basic-20",
+    "pos": "verb",
+    "meaningVi": "tiếp tục làm",
+    "example": "Keep practicing and your pronunciation will improve.",
+    "exampleVi": "Hãy tiếp tục luyện tập, phát âm của bạn sẽ cải thiện."
+  },
+  {
+    "word": "bring",
+    "sourceGroup": "basic-20",
+    "pos": "verb",
+    "meaningVi": "mang đến",
+    "example": "She brought some fruit to the meeting.",
+    "exampleVi": "Cô ấy mang một ít trái cây đến cuộc họp."
+  },
+  {
+    "word": "choose",
+    "sourceGroup": "basic-20",
+    "pos": "verb",
+    "meaningVi": "chọn",
+    "example": "We chose a quiet room for the interview.",
+    "exampleVi": "Chúng tôi chọn một phòng yên tĩnh để phỏng vấn."
+  },
+  {
+    "word": "remember",
+    "sourceGroup": "basic-20",
+    "pos": "verb",
+    "meaningVi": "nhớ; nhớ lại",
+    "example": "I remembered her name after a few minutes.",
+    "exampleVi": "Tôi nhớ ra tên cô ấy sau vài phút."
+  },
+  {
+    "word": "remember",
+    "sourceGroup": "basic-20",
+    "pos": "verb",
+    "meaningVi": "nhớ làm điều gì",
+    "example": "Remember to turn off the lights before you leave.",
+    "exampleVi": "Nhớ tắt đèn trước khi bạn rời đi."
+  },
+  {
+    "word": "forget",
+    "sourceGroup": "basic-20",
+    "pos": "verb",
+    "meaningVi": "quên",
+    "example": "He forgot his password and had to reset it.",
+    "exampleVi": "Anh ấy quên mật khẩu và phải đặt lại."
+  },
+  {
+    "word": "forget",
+    "sourceGroup": "basic-20",
+    "pos": "verb",
+    "meaningVi": "quên làm điều gì",
+    "example": "I forgot to send the attachment.",
+    "exampleVi": "Tôi quên gửi tệp đính kèm."
+  },
+  {
+    "word": "wallet",
+    "sourceGroup": "basic-20",
+    "pos": "noun",
+    "meaningVi": "ví",
+    "example": "I keep my cards in a small wallet.",
+    "exampleVi": "Tôi để các thẻ của mình trong một chiếc ví nhỏ."
+  },
+  {
+    "word": "receipt",
+    "sourceGroup": "basic-20",
+    "pos": "noun",
+    "meaningVi": "biên lai",
+    "example": "Please keep your receipt in case you need a refund.",
+    "exampleVi": "Hãy giữ biên lai phòng khi bạn cần hoàn tiền."
+  },
+  {
+    "word": "refund",
+    "sourceGroup": "basic-20",
+    "pos": "noun",
+    "meaningVi": "khoản tiền được hoàn lại",
+    "example": "I received a full refund for the damaged charger.",
+    "exampleVi": "Tôi nhận được khoản hoàn tiền đầy đủ cho bộ sạc bị hỏng."
+  },
+  {
+    "word": "refund",
+    "sourceGroup": "basic-20",
+    "pos": "verb",
+    "meaningVi": "hoàn tiền",
+    "example": "The shop refunded the delivery fee.",
+    "exampleVi": "Cửa hàng hoàn lại phí giao hàng."
+  },
+  {
+    "word": "charger",
+    "sourceGroup": "basic-20",
+    "pos": "noun",
+    "meaningVi": "bộ sạc",
+    "example": "My phone charger is in the drawer.",
+    "exampleVi": "Bộ sạc điện thoại của tôi ở trong ngăn kéo."
+  },
+  {
+    "word": "luggage",
+    "sourceGroup": "basic-20",
+    "pos": "noun",
+    "meaningVi": "hành lý",
+    "example": "We left our luggage at the hotel.",
+    "exampleVi": "Chúng tôi để hành lý ở khách sạn."
+  },
+  {
+    "word": "pharmacy",
+    "sourceGroup": "basic-20",
+    "pos": "noun",
+    "meaningVi": "hiệu thuốc",
+    "example": "There is a pharmacy next to the supermarket.",
+    "exampleVi": "Có một hiệu thuốc cạnh siêu thị."
+  },
+  {
+    "word": "follow up",
+    "sourceGroup": "basic-20",
+    "pos": "verb",
+    "meaningVi": "theo dõi; xử lý tiếp",
+    "example": "I followed up on the request with an email.",
+    "exampleVi": "Tôi gửi một email để tiếp tục theo dõi yêu cầu."
+  },
+  {
+    "word": "figure out",
+    "sourceGroup": "basic-20",
+    "pos": "verb",
+    "meaningVi": "hiểu ra; tìm ra cách giải quyết",
+    "example": "We figured out how to fix the problem.",
+    "exampleVi": "Chúng tôi tìm ra cách khắc phục vấn đề."
+  },
+  {
+    "word": "put off",
+    "sourceGroup": "basic-20",
+    "pos": "verb",
+    "meaningVi": "trì hoãn",
+    "example": "They put off the meeting until Friday.",
+    "exampleVi": "Họ hoãn cuộc họp đến thứ Sáu."
+  },
+  {
+    "word": "run out of",
+    "sourceGroup": "basic-20",
+    "pos": "verb",
+    "meaningVi": "dùng hết; không còn",
+    "example": "We ran out of milk this morning.",
+    "exampleVi": "Sáng nay chúng tôi hết sữa."
+  }
+]

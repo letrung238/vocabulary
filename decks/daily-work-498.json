@@ -11967,6 +11967,22 @@
         "ipa": "/ˈsɪə.ri.əs/"
       }
     ],
+    "phrases": [
+      {
+        "word": "serious about",
+        "pos": "adjective",
+        "ipa": "/ˈsɪə.ri.əs əˈbaʊt/",
+        "meaningVi": "thực sự có ý định hoặc coi trọng điều gì",
+        "example": "She is serious about learning English.",
+        "exampleVi": "Cô ấy nghiêm túc với việc học tiếng Anh.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": []
+      }
+    ],
     "synonyms": [
       "grave"
     ]
@@ -12837,6 +12853,22 @@
         "ipa": "/ˈkwɒl.ɪ.faɪd/"
       }
     ],
+    "phrases": [
+      {
+        "word": "qualified for",
+        "pos": "adjective",
+        "ipa": "/ˈkwɒl.ɪ.faɪd fər/",
+        "meaningVi": "có đủ trình độ hoặc điều kiện cho một vị trí",
+        "example": "She is well qualified for the role.",
+        "exampleVi": "Cô ấy có đầy đủ năng lực cho vai trò đó.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": []
+      }
+    ],
     "synonyms": [
       "competent"
     ]
@@ -12931,6 +12963,22 @@
       "daily-work",
       "daily-work-498",
       "work"
+    ],
+    "phrases": [
+      {
+        "word": "worthy of",
+        "pos": "adjective",
+        "ipa": "/ˈwɜː.ði əv/",
+        "meaningVi": "xứng đáng nhận được điều gì",
+        "example": "This achievement is worthy of recognition.",
+        "exampleVi": "Thành tích này xứng đáng được ghi nhận.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": []
+      }
     ],
     "synonyms": [
       "deserving"

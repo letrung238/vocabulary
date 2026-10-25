@@ -1,0 +1,501 @@
+# word|pos|meaningVi|example|exampleVi
+get up|verb|thức dậy; ra khỏi giường|I get up at six every morning.|Tôi thức dậy lúc sáu giờ mỗi sáng.
+get down|verb|cúi xuống; hạ người xuống|Get down before you hit your head.|Cúi xuống trước khi bạn va đầu.
+get in|verb|vào trong xe hoặc một nơi|Get in the car before it rains.|Hãy lên xe trước khi trời mưa.
+get out|verb|ra khỏi một nơi|Get out before the door closes.|Hãy ra ngoài trước khi cửa đóng.
+get on|verb|lên xe buýt, tàu hoặc máy bay|We get on the bus near the library.|Chúng tôi lên xe buýt gần thư viện.
+get off|verb|xuống xe buýt, tàu hoặc máy bay|Get off at the next stop.|Hãy xuống ở trạm tiếp theo.
+get away|verb|rời đi; thoát khỏi nơi nào đó|We hope to get away for the weekend.|Chúng tôi hy vọng đi nghỉ xa vào cuối tuần.
+get back|verb|trở về|Please get back before dinner.|Hãy trở về trước bữa tối.
+get over|verb|hồi phục sau bệnh hoặc cú sốc|It took weeks to get over the flu.|Phải mất nhiều tuần mới khỏi cúm.
+get through|verb|hoàn thành một việc khó hoặc nhiều việc|We must get through these reports today.|Hôm nay chúng ta phải xử lý xong các báo cáo này.
+get along|verb|hòa thuận với nhau|The two roommates get along well.|Hai người bạn cùng phòng rất hòa thuận.
+get around|verb|đi lại từ nơi này đến nơi khác|You can get around easily by bicycle.|Bạn có thể đi lại dễ dàng bằng xe đạp.
+get by|verb|xoay xở sống với nguồn lực hạn chế|We can get by on one salary.|Chúng tôi có thể xoay xở với một khoản lương.
+get ahead|verb|tiến bộ; thành công hơn trong công việc|Learning new skills helps you get ahead.|Học kỹ năng mới giúp bạn tiến xa hơn.
+get together|verb|gặp nhau để giao lưu|We get together every Friday evening.|Chúng tôi gặp nhau vào mỗi tối thứ Sáu.
+get across|verb|truyền đạt để người khác hiểu|Pictures help get across the main idea.|Hình ảnh giúp truyền đạt ý chính.
+eat out|verb|ăn ở nhà hàng thay vì ở nhà|We eat out once a month.|Chúng tôi ăn nhà hàng mỗi tháng một lần.
+get into|verb|bắt đầu hứng thú hoặc tham gia một việc|I want to get into photography.|Tôi muốn bắt đầu tìm hiểu nhiếp ảnh.
+get out of|verb|rời khỏi một không gian hoặc phương tiện|Get out of the lift on this floor.|Hãy ra khỏi thang máy ở tầng này.
+get away with|verb|làm sai mà không bị phạt|You cannot get away with cheating here.|Ở đây bạn không thể gian lận mà thoát bị phạt.
+get back to|verb|liên hệ trả lời lại cho ai|I will get back to you tomorrow.|Ngày mai tôi sẽ trả lời lại cho bạn.
+get down to|verb|bắt tay nghiêm túc vào công việc|Let us get down to work.|Chúng ta hãy bắt tay vào làm việc.
+get on with|verb|tiếp tục thực hiện một việc|Please get on with your homework.|Hãy tiếp tục làm bài tập về nhà.
+get around to|verb|cuối cùng cũng thu xếp làm một việc|I finally got around to cleaning the attic.|Cuối cùng tôi cũng thu xếp dọn được gác mái.
+get through to|verb|liên lạc được với ai, thường qua điện thoại|I could not get through to the clinic.|Tôi không gọi được cho phòng khám.
+get away from|verb|rời xa để tránh người hoặc điều gì|We need to get away from the noise.|Chúng ta cần tránh xa tiếng ồn.
+get in on|verb|tham gia một hoạt động hoặc cơ hội đang có|Small firms want to get in on the project.|Các công ty nhỏ muốn tham gia dự án.
+get off with|verb|chỉ bị một hình phạt tương đối nhẹ|He got off with a warning.|Anh ấy chỉ bị cảnh cáo.
+get up to|verb|làm việc gì, thường là nghịch ngợm|What did the children get up to today?|Hôm nay bọn trẻ đã nghịch những gì?
+get on to|verb|liên hệ với người có thể xử lý vấn đề|I will get on to the supplier today.|Hôm nay tôi sẽ liên hệ nhà cung cấp.
+go up|verb|tăng lên|Food prices may go up again.|Giá thực phẩm có thể lại tăng.
+go down|verb|giảm xuống|The temperature will go down tonight.|Nhiệt độ sẽ giảm tối nay.
+go in|verb|đi vào trong|Knock before you go in.|Hãy gõ cửa trước khi vào.
+go out|verb|ra ngoài để vui chơi hoặc giao lưu|We rarely go out during the week.|Chúng tôi hiếm khi đi chơi vào ngày thường.
+go on|verb|tiếp tục diễn ra hoặc tiếp tục làm|The discussion will go on after lunch.|Cuộc thảo luận sẽ tiếp tục sau bữa trưa.
+go off|verb|reo; phát tín hiệu báo động|My alarm will go off at seven.|Đồng hồ báo thức của tôi sẽ reo lúc bảy giờ.
+go away|verb|đi khỏi nơi đang ở|Please go away and let me rest.|Hãy đi chỗ khác để tôi nghỉ.
+go back|verb|quay lại nơi trước đó|We should go back before it gets dark.|Chúng ta nên quay lại trước khi trời tối.
+go over|verb|xem xét hoặc ôn lại kỹ lưỡng|Let us go over the instructions again.|Chúng ta hãy xem lại hướng dẫn một lần nữa.
+go through|verb|trải qua một giai đoạn khó khăn|Families go through many changes.|Các gia đình trải qua nhiều thay đổi.
+go along|verb|đi cùng; đi theo tới một nơi|I can go along if you need help.|Tôi có thể đi cùng nếu bạn cần giúp.
+go around|verb|đủ để chia cho mọi người|There are enough sandwiches to go around.|Có đủ bánh mì kẹp cho mọi người.
+go by|verb|trôi qua, nói về thời gian|The days go by quickly here.|Ở đây ngày tháng trôi qua nhanh.
+go ahead|verb|tiến hành việc đã định|You can go ahead with the repairs.|Bạn có thể tiến hành sửa chữa.
+go under|verb|phá sản; ngừng hoạt động kinh doanh|Several small shops may go under.|Một số cửa hàng nhỏ có thể phá sản.
+go without|verb|xoay xở khi không có thứ cần thiết|We had to go without hot water.|Chúng tôi đã phải chịu cảnh không có nước nóng.
+go against|verb|đi ngược lại quy định hoặc mong muốn|That decision would go against our policy.|Quyết định đó sẽ trái với chính sách của chúng ta.
+go after|verb|theo đuổi để đạt được điều gì|She decided to go after her dream job.|Cô ấy quyết định theo đuổi công việc mơ ước.
+go for|verb|chọn một thứ trong các khả năng|I will go for the vegetarian option.|Tôi sẽ chọn món chay.
+go into|verb|xem xét hoặc trình bày chi tiết|We cannot go into every detail now.|Bây giờ chúng ta không thể đi sâu từng chi tiết.
+go out with|verb|hẹn hò với ai|She used to go out with my cousin.|Cô ấy từng hẹn hò với anh họ tôi.
+go back on|verb|không giữ lời hứa hoặc thỏa thuận|Do not go back on your promise.|Đừng thất hứa.
+go through with|verb|thực hiện đến cùng một việc khó|He decided to go through with the operation.|Anh ấy quyết định vẫn tiến hành ca phẫu thuật.
+go along with|verb|đồng ý hoặc làm theo một kế hoạch|I cannot go along with this proposal.|Tôi không thể đồng ý với đề xuất này.
+go in for|verb|thích và thường tham gia một hoạt động|I do not go in for competitive sports.|Tôi không thích tham gia thể thao thi đấu.
+go off on|verb|bắt đầu nói về một hướng ngoài chủ đề|He tends to go off on a tangent.|Anh ấy thường nói chệch sang chuyện khác.
+go over to|verb|đi sang chỗ một người hoặc một nơi|I will go over to her desk.|Tôi sẽ sang bàn làm việc của cô ấy.
+go down with|verb|mắc một căn bệnh, thường dùng trong tiếng Anh–Anh|Three students went down with the flu.|Ba học sinh đã mắc cúm.
+go back to|verb|trở lại hoạt động hoặc tình trạng trước|I want to go back to teaching.|Tôi muốn quay lại công việc giảng dạy.
+go on about|verb|nói mãi về một chuyện|He can go on about trains for hours.|Anh ấy có thể nói mãi về tàu hỏa suốt nhiều giờ.
+go out of|verb|rời khỏi một nơi hoặc trạng thái|This style may go out of fashion.|Kiểu này có thể hết mốt.
+go down as|verb|được ghi nhớ với tư cách nào đó|She will go down as a great leader.|Bà sẽ được ghi nhớ như một nhà lãnh đạo vĩ đại.
+come in|verb|đi vào nơi người nói đang ở|Please come in and take a seat.|Mời vào và ngồi xuống.
+come out|verb|được phát hành hoặc công bố|Her new book will come out in June.|Sách mới của cô ấy sẽ ra mắt vào tháng Sáu.
+come on|verb|bắt đầu hoạt động, nói về đèn hoặc thiết bị|The lights come on at dusk.|Đèn bật lên khi chạng vạng.
+come off|verb|bong ra; rời khỏi chỗ đang gắn|The label may come off in water.|Nhãn có thể bong ra khi gặp nước.
+come up|verb|được nhắc tới hoặc xuất hiện trong thảo luận|This question may come up during the interview.|Câu hỏi này có thể xuất hiện trong buổi phỏng vấn.
+come down|verb|giảm xuống|House prices have come down recently.|Giá nhà gần đây đã giảm.
+come back|verb|trở lại chỗ người nói|Please come back after lunch.|Hãy quay lại sau bữa trưa.
+come over|verb|ghé thăm nhà người nói|Would you like to come over tonight?|Bạn có muốn ghé nhà tôi tối nay không?
+come through|verb|vượt qua một thử thách khó khăn|The team managed to come through the crisis.|Nhóm đã vượt qua được cuộc khủng hoảng.
+come along|verb|đi cùng người khác|You can come along if you like.|Bạn có thể đi cùng nếu muốn.
+come around|verb|đổi ý; dần chấp nhận một quan điểm|She may come around after hearing the evidence.|Cô ấy có thể đổi ý sau khi nghe bằng chứng.
+come about|verb|xảy ra; hình thành do hoàn cảnh nào đó|How did this change come about?|Thay đổi này đã diễn ra như thế nào?
+come across|verb|tình cờ gặp hoặc tìm thấy|I came across an old photograph yesterday.|Hôm qua tôi tình cờ tìm thấy một bức ảnh cũ.
+come apart|verb|rời thành các bộ phận|The handle may come apart if you pull it.|Tay cầm có thể rời ra nếu bạn kéo.
+come away|verb|rời ra khỏi chỗ đang gắn|The old paint will come away easily.|Lớp sơn cũ sẽ bong ra dễ dàng.
+come forward|verb|chủ động đứng ra cung cấp thông tin hoặc giúp đỡ|Two witnesses decided to come forward.|Hai nhân chứng quyết định đứng ra khai báo.
+come to|verb|tỉnh lại sau khi bất tỉnh|He began to come to in the ambulance.|Anh ấy bắt đầu tỉnh lại trên xe cứu thương.
+come under|verb|chịu tác động, sự chỉ trích hoặc kiểm soát|The plan has come under heavy criticism.|Kế hoạch đã hứng chịu nhiều chỉ trích.
+come after|verb|xuất hiện hoặc xảy ra sau một thứ khác|Which letter comes after Q?|Chữ nào đứng sau chữ Q?
+come from|verb|có nguồn gốc hoặc xuất thân từ đâu|These apples come from a local farm.|Những quả táo này đến từ một trang trại địa phương.
+come into|verb|được thừa hưởng tiền hoặc tài sản|She came into some money last year.|Năm ngoái cô ấy được thừa hưởng một khoản tiền.
+come out of|verb|xuất hiện từ trong một nơi|Smoke began to come out of the engine.|Khói bắt đầu bốc ra từ động cơ.
+come up against|verb|gặp phải trở ngại hoặc sự phản đối|We may come up against strong opposition.|Chúng ta có thể gặp phải sự phản đối mạnh mẽ.
+come down with|verb|bắt đầu mắc bệnh|I think I am coming down with a cold.|Tôi nghĩ mình đang bắt đầu bị cảm.
+come down to|verb|rốt cuộc phụ thuộc vào yếu tố chính nào đó|The choice will come down to cost.|Việc lựa chọn cuối cùng sẽ phụ thuộc vào chi phí.
+come in for|verb|nhận hoặc hứng chịu phản ứng từ người khác|The report came in for sharp criticism.|Bản báo cáo đã hứng chịu chỉ trích gay gắt.
+come out with|verb|bất ngờ nói ra một điều gì|He sometimes comes out with strange ideas.|Đôi khi anh ấy bất ngờ nêu những ý tưởng kỳ lạ.
+come back to|verb|nhớ lại sau một lúc|Her name will come back to me.|Rồi tôi sẽ nhớ lại tên cô ấy.
+take off|verb|cất cánh, nói về máy bay|Our plane will take off at noon.|Máy bay của chúng tôi sẽ cất cánh lúc trưa.
+take on|verb|nhận thêm công việc hoặc trách nhiệm|Do not take on too much work.|Đừng nhận quá nhiều việc.
+take over|verb|tiếp quản quyền điều hành|She will take over the family business.|Cô ấy sẽ tiếp quản việc kinh doanh của gia đình.
+take up|verb|bắt đầu một sở thích hoặc hoạt động|I want to take up swimming.|Tôi muốn bắt đầu tập bơi.
+take in|verb|tiếp nhận và hiểu thông tin|It was too much information to take in.|Có quá nhiều thông tin để tiếp thu.
+take out|verb|đưa một vật ra khỏi nơi đang chứa|Please take out the rubbish.|Hãy mang rác ra ngoài.
+take away|verb|lấy hoặc mang một thứ đi|Please take away the empty plates.|Hãy mang những chiếc đĩa không ra ngoài.
+take back|verb|rút lại điều đã nói|I take back what I said yesterday.|Tôi rút lại điều mình đã nói hôm qua.
+take down|verb|ghi chép lại thông tin|Please take down my new address.|Hãy ghi lại địa chỉ mới của tôi.
+take apart|verb|tháo một vật thành các bộ phận|We need to take apart the old engine.|Chúng ta cần tháo rời động cơ cũ.
+take after|verb|giống một người thân về ngoại hình hoặc tính cách|You take after your grandfather.|Bạn giống ông của mình.
+take to|verb|bắt đầu thích một người hoặc hoạt động|The children quickly took to their new teacher.|Bọn trẻ nhanh chóng quý giáo viên mới.
+take against|verb|bắt đầu không ưa ai, thường dùng trong tiếng Anh–Anh|She took against him after their first meeting.|Cô ấy không ưa anh ấy ngay sau lần gặp đầu.
+take along|verb|mang theo người hoặc đồ vật|Remember to take along a warm jacket.|Hãy nhớ mang theo một chiếc áo ấm.
+take over from|verb|tiếp nhận công việc từ người tiền nhiệm|Mina will take over from our current manager.|Mina sẽ tiếp quản công việc từ quản lý hiện tại.
+take up with|verb|bắt đầu giao du với ai, thường không được tán thành|He has taken up with a troublesome crowd.|Anh ấy đã giao du với một nhóm hay gây rắc rối.
+take away from|verb|làm giảm giá trị hoặc sự hấp dẫn của điều gì|The delay does not take away from their achievement.|Sự chậm trễ không làm giảm giá trị thành tích của họ.
+put on|verb|mặc hoặc đeo một thứ|Put on your coat before going outside.|Hãy mặc áo khoác trước khi ra ngoài.
+put out|verb|dập tắt lửa hoặc thuốc lá|Firefighters managed to put out the fire.|Lính cứu hỏa đã dập tắt được đám cháy.
+put away|verb|cất đồ về đúng chỗ|Please put away your toys.|Hãy cất đồ chơi đi.
+put down|verb|đặt một vật xuống|Put down the box beside the door.|Hãy đặt chiếc hộp xuống cạnh cửa.
+put up|verb|dựng hoặc lắp một thứ lên|They will put up a tent near the lake.|Họ sẽ dựng lều gần hồ.
+put back|verb|đặt trở lại vị trí cũ|Please put back the books after reading.|Hãy đặt sách lại chỗ cũ sau khi đọc.
+put in|verb|dành thời gian hoặc nỗ lực cho việc gì|She puts in long hours at the hospital.|Cô ấy làm việc nhiều giờ tại bệnh viện.
+put aside|verb|để dành tiền hoặc tài nguyên|We put aside some money each month.|Chúng tôi để dành một ít tiền mỗi tháng.
+put together|verb|lắp ráp hoặc tập hợp thành một thứ hoàn chỉnh|I can put together the shelf myself.|Tôi có thể tự lắp chiếc kệ.
+put forward|verb|đề xuất để người khác xem xét|They put forward a practical solution.|Họ đưa ra một giải pháp thiết thực.
+put across|verb|truyền đạt một ý tưởng rõ ràng|She can put across complex ideas simply.|Cô ấy có thể diễn đạt ý tưởng phức tạp một cách đơn giản.
+put through|verb|xử lý để một giao dịch hoặc yêu cầu được thực hiện|We will put through your refund today.|Hôm nay chúng tôi sẽ xử lý khoản hoàn tiền của bạn.
+put in for|verb|nộp đơn xin một quyền lợi hoặc vị trí|I plan to put in for annual leave.|Tôi định nộp đơn xin nghỉ phép năm.
+give up|verb|từ bỏ; ngừng cố gắng hoặc ngừng một thói quen|He decided to give up smoking.|Anh ấy quyết định bỏ thuốc lá.
+give in|verb|chịu nhượng bộ sau khi chống lại|Do not give in just because it is difficult.|Đừng đầu hàng chỉ vì việc đó khó.
+give out|verb|phân phát cho nhiều người|Volunteers give out meals every evening.|Tình nguyện viên phát suất ăn mỗi tối.
+give away|verb|cho miễn phí; tặng không|We will give away the books we no longer need.|Chúng tôi sẽ tặng những cuốn sách không còn cần.
+give back|verb|trả lại thứ đã mượn hoặc lấy|Please give back my pen.|Hãy trả lại bút cho tôi.
+give off|verb|tỏa ra nhiệt, ánh sáng hoặc mùi|These flowers give off a sweet smell.|Những bông hoa này tỏa hương thơm dịu.
+give over|verb|ngừng làm việc gây phiền, cách dùng thân mật trong tiếng Anh–Anh|Give over complaining and help us.|Đừng phàn nàn nữa mà hãy giúp chúng tôi.
+give up on|verb|không còn hy vọng vào ai hoặc điều gì|Do not give up on your students.|Đừng mất hy vọng ở học sinh của mình.
+give in to|verb|nhượng bộ trước áp lực hoặc cám dỗ|We must not give in to pressure.|Chúng ta không được nhượng bộ trước áp lực.
+give way to|verb|nhường chỗ cho người hoặc thứ khác|Drivers must give way to pedestrians here.|Ở đây người lái xe phải nhường người đi bộ.
+give rise to|verb|gây ra; làm nảy sinh một kết quả|Poor communication can give rise to conflict.|Giao tiếp kém có thể làm nảy sinh xung đột.
+give vent to|verb|bộc lộ mạnh mẽ cảm xúc đã kìm nén|She used her diary to give vent to her anger.|Cô ấy dùng nhật ký để trút cơn giận.
+make out|verb|nhìn hoặc nghe đủ rõ để nhận biết|I cannot make out the words on that sign.|Tôi không đọc rõ chữ trên biển đó.
+make off|verb|vội vã bỏ đi, thường sau khi làm sai|The thieves tried to make off before dawn.|Những tên trộm tìm cách tẩu thoát trước bình minh.
+make for|verb|di chuyển hướng tới một nơi|We should make for the nearest shelter.|Chúng ta nên đi về phía nơi trú gần nhất.
+make over|verb|thay đổi để cải thiện diện mạo một thứ|They plan to make over the old kitchen.|Họ dự định cải tạo lại căn bếp cũ.
+make up for|verb|bù đắp một điều thiếu hụt hoặc sai sót|I will make up for the lost time.|Tôi sẽ bù lại thời gian đã mất.
+make off with|verb|lấy trộm rồi mang đi|Someone made off with my bicycle.|Ai đó đã lấy trộm xe đạp của tôi.
+read out|verb|đọc thành tiếng cho người khác nghe|Please read out the first question.|Hãy đọc to câu hỏi đầu tiên.
+make do with|verb|xoay xở dùng thứ sẵn có nhưng chưa lý tưởng|We will make do with the chairs we have.|Chúng ta sẽ tạm dùng những chiếc ghế hiện có.
+make room for|verb|dọn hoặc nhường chỗ cho ai hay thứ gì|Please make room for another passenger.|Hãy nhường chỗ cho thêm một hành khách.
+make use of|verb|sử dụng một thứ có sẵn|Students can make use of the free library.|Sinh viên có thể sử dụng thư viện miễn phí.
+make fun of|verb|chế giễu; lấy ai hoặc điều gì ra làm trò cười|It is unkind to make fun of someone's accent.|Chế giễu giọng nói của người khác là không tử tế.
+make sense of|verb|hiểu được điều có vẻ khó hiểu|Can you make sense of these figures?|Bạn có hiểu những số liệu này không?
+make light of|verb|coi nhẹ điều người khác xem là nghiêm trọng|Do not make light of her concerns.|Đừng xem nhẹ những lo lắng của cô ấy.
+make way for|verb|tránh hoặc dọn chỗ để thứ khác xuất hiện|The old hall will make way for a library.|Hội trường cũ sẽ nhường chỗ cho một thư viện.
+bring up|verb|nêu một chủ đề để thảo luận|Please bring up this issue at the meeting.|Hãy nêu vấn đề này trong cuộc họp.
+bring down|verb|làm giảm một mức giá hoặc số lượng|Better insulation can bring down heating costs.|Cách nhiệt tốt hơn có thể giảm chi phí sưởi.
+bring in|verb|đem lại một nguồn thu hoặc lợi ích|Tourism can bring in much-needed income.|Du lịch có thể đem lại nguồn thu rất cần thiết.
+bring out|verb|phát hành hoặc giới thiệu sản phẩm mới|The company will bring out a new camera.|Công ty sẽ ra mắt một chiếc máy ảnh mới.
+bring back|verb|gợi lại ký ức hoặc cảm xúc|These songs bring back happy memories.|Những bài hát này gợi lại ký ức vui vẻ.
+bring along|verb|mang ai hoặc thứ gì đi cùng|You can bring along a friend.|Bạn có thể dẫn theo một người bạn.
+bring about|verb|gây ra; làm cho một thay đổi xảy ra|The campaign helped bring about lasting change.|Chiến dịch đã giúp tạo ra thay đổi lâu dài.
+bring around|verb|thuyết phục ai thay đổi ý kiến|He was eventually brought around to our view.|Cuối cùng anh ấy cũng được thuyết phục để đồng ý với quan điểm của chúng tôi.
+bring forward|verb|chuyển thời điểm một việc lên sớm hơn|We need to bring forward the deadline.|Chúng ta cần đưa hạn chót lên sớm hơn.
+bring together|verb|tập hợp hoặc kết nối mọi người|The festival will bring together local artists.|Lễ hội sẽ quy tụ các nghệ sĩ địa phương.
+bring over|verb|mang đến chỗ người nói hoặc người nghe|Could you bring over some extra chairs?|Bạn có thể mang thêm ghế sang không?
+bring on|verb|gây ra một tình trạng, thường không mong muốn|Bright lights can bring on a headache.|Ánh sáng mạnh có thể gây đau đầu.
+bring off|verb|thực hiện thành công một việc khó|The crew managed to bring off a difficult rescue.|Đội đã thực hiện thành công một cuộc giải cứu khó khăn.
+read through|verb|đọc toàn bộ từ đầu đến cuối|Please read through the contract before signing.|Hãy đọc hết hợp đồng trước khi ký.
+read up on|verb|đọc để tìm hiểu kỹ một chủ đề|I need to read up on local history.|Tôi cần đọc thêm để tìm hiểu lịch sử địa phương.
+turn on|verb|bật đèn hoặc thiết bị|Please turn on the fan.|Hãy bật quạt.
+turn off|verb|tắt đèn hoặc thiết bị|Remember to turn off the oven.|Hãy nhớ tắt lò nướng.
+turn up|verb|xuất hiện hoặc đến, đôi khi bất ngờ|He always turns up before everyone else.|Anh ấy luôn đến trước mọi người.
+turn down|verb|từ chối một đề nghị hoặc lời mời|She decided to turn down the offer.|Cô ấy quyết định từ chối đề nghị đó.
+turn out|verb|rốt cuộc hóa ra như thế nào|The trip turned out better than expected.|Chuyến đi hóa ra tốt hơn dự kiến.
+turn in|verb|nộp bài hoặc giao lại thứ gì|Please turn in your assignments by Friday.|Hãy nộp bài trước hoặc trong ngày thứ Sáu.
+turn over|verb|lật sang mặt bên kia|Turn over the card to see the answer.|Hãy lật thẻ để xem đáp án.
+turn around|verb|quay người hoặc đổi hướng|Turn around and look behind you.|Hãy quay lại và nhìn phía sau.
+turn back|verb|quay trở lại vì không thể tiếp tục|We had to turn back because of snow.|Chúng tôi phải quay lại vì tuyết.
+turn away|verb|từ chối cho người nào đó vào|The shelter could not turn away another family.|Trạm cứu trợ không thể từ chối thêm một gia đình nữa.
+turn to|verb|tìm đến ai hoặc điều gì để được giúp đỡ|You can turn to your teacher for advice.|Bạn có thể tìm đến giáo viên để xin lời khuyên.
+turn against|verb|bắt đầu chống lại ai hoặc thứ gì|Public opinion may turn against the plan.|Dư luận có thể quay sang phản đối kế hoạch.
+turn over to|verb|chuyển sang một kênh truyền hình khác|Can we turn over to the news?|Chúng ta có thể chuyển sang bản tin không?
+turn out for|verb|đến tham dự hoặc ủng hộ một sự kiện|Thousands turned out for the charity walk.|Hàng nghìn người đã tham gia cuộc đi bộ từ thiện.
+keep up|verb|duy trì cùng tốc độ hoặc mức độ|You are walking too fast for me to keep up.|Bạn đi nhanh quá khiến tôi không theo kịp.
+keep on|verb|tiếp tục làm việc gì|Keep on trying even when you make mistakes.|Hãy tiếp tục cố gắng ngay cả khi mắc lỗi.
+keep off|verb|không đi lên hoặc chạm vào một nơi|Please keep off the wet grass.|Hãy tránh đi lên bãi cỏ ướt.
+keep out|verb|ngăn không cho một thứ lọt vào|Thick curtains keep out the cold.|Rèm dày ngăn hơi lạnh lọt vào.
+keep away|verb|không đến gần|Please keep away while the machine is running.|Hãy tránh xa khi máy đang chạy.
+keep back|verb|giữ lại; không bộc lộ hết|She seemed to keep back some important details.|Có vẻ cô ấy giấu một số chi tiết quan trọng.
+keep down|verb|giữ ở mức thấp|We need to keep down unnecessary expenses.|Chúng ta cần hạn chế những khoản chi không cần thiết.
+keep in|verb|giữ học sinh ở lại sau giờ học để phạt, cách dùng trong tiếng Anh–Anh|Three students were kept in after class.|Ba học sinh bị giữ lại sau giờ học.
+keep at|verb|kiên trì làm việc gì|Keep at the task until you finish.|Hãy kiên trì làm cho đến khi xong.
+keep ahead of|verb|duy trì vị trí dẫn trước|We must innovate to keep ahead of competitors.|Chúng ta phải đổi mới để luôn đi trước đối thủ.
+keep away from|verb|tránh xa người hoặc điều gì|Keep away from the edge of the cliff.|Hãy tránh xa mép vách đá.
+keep out of|verb|không can dự hoặc không bước vào|Try to keep out of their argument.|Hãy cố không xen vào cuộc tranh cãi của họ.
+keep on at|verb|liên tục thúc giục hoặc cằn nhằn ai|Do not keep on at him about his clothes.|Đừng cằn nhằn anh ấy mãi về quần áo.
+keep to|verb|tuân thủ hoặc không đi chệch khỏi|Please keep to the marked path.|Hãy đi đúng lối đã đánh dấu.
+keep from|verb|kiềm chế để không làm việc gì|I could hardly keep from laughing.|Tôi khó mà nhịn cười được.
+look up|verb|tra cứu thông tin|You can look up the word in a dictionary.|Bạn có thể tra từ đó trong từ điển.
+look down|verb|hướng mắt xuống dưới|Do not look down if heights make you dizzy.|Đừng nhìn xuống nếu độ cao khiến bạn chóng mặt.
+look out|verb|chú ý để tránh nguy hiểm|Look out! A bicycle is coming.|Cẩn thận! Có xe đạp đang tới.
+look in|verb|ghé thăm trong thời gian ngắn|I may look in after work.|Tôi có thể ghé qua sau giờ làm.
+look on|verb|đứng xem mà không tham gia|The crowd could only look on in silence.|Đám đông chỉ có thể im lặng đứng xem.
+look over|verb|xem qua để kiểm tra|Could you look over my application?|Bạn có thể xem qua đơn của tôi không?
+look through|verb|xem hoặc đọc qua để tìm thông tin|I need to look through these files.|Tôi cần xem qua những hồ sơ này.
+look around|verb|nhìn ngắm hoặc khám phá một nơi|We have time to look around the museum.|Chúng ta có thời gian tham quan bảo tàng.
+look ahead|verb|suy nghĩ hoặc lập kế hoạch cho tương lai|We should look ahead and prepare for growth.|Chúng ta nên nhìn về phía trước và chuẩn bị cho tăng trưởng.
+look away|verb|quay mắt sang hướng khác|She had to look away from the bright light.|Cô ấy phải quay mắt tránh ánh sáng chói.
+look back|verb|nhớ lại và nghĩ về quá khứ|We often look back with gratitude.|Chúng tôi thường nhìn lại với lòng biết ơn.
+look to|verb|trông cậy vào ai hoặc điều gì|Young players look to the captain for guidance.|Các cầu thủ trẻ trông cậy vào đội trưởng để được hướng dẫn.
+look upon|verb|nhìn nhận; xem ai hoặc điều gì theo một cách|They look upon the old tree with affection.|Họ nhìn cây cổ thụ với sự trìu mến.
+read over|verb|đọc lại để kiểm tra nội dung|Please read over the letter before you send it.|Hãy đọc lại bức thư trước khi gửi.
+look ahead to|verb|hướng sự chú ý tới một thời điểm tương lai|We should look ahead to next year's challenges.|Chúng ta nên tính trước những thách thức của năm tới.
+pay back|verb|hoàn trả tiền đã vay|I will pay back the loan next month.|Tôi sẽ trả lại khoản vay vào tháng tới.
+pay off|verb|thanh toán hết một khoản nợ|We hope to pay off the mortgage early.|Chúng tôi hy vọng trả hết khoản vay mua nhà sớm.
+look in on|verb|ghé thăm để xem ai có ổn không|Could you look in on Grandma this afternoon?|Chiều nay bạn có thể ghé thăm bà không?
+look out on|verb|có tầm nhìn hướng ra một nơi|Our windows look out on the garden.|Cửa sổ của chúng tôi nhìn ra khu vườn.
+break up|verb|chấm dứt một mối quan hệ tình cảm|They decided to break up after five years.|Họ quyết định chia tay sau năm năm.
+break down|verb|hỏng; ngừng hoạt động|Our car may break down without regular maintenance.|Xe của chúng tôi có thể hỏng nếu không bảo dưỡng định kỳ.
+break in|verb|đột nhập trái phép vào một nơi|Someone tried to break in last night.|Tối qua ai đó đã tìm cách đột nhập.
+break out|verb|bùng phát, nói về chiến tranh, lửa hoặc dịch bệnh|A fire could break out in the dry forest.|Cháy có thể bùng phát trong khu rừng khô.
+break off|verb|chấm dứt đột ngột một hoạt động hoặc quan hệ|They decided to break off negotiations.|Họ quyết định chấm dứt đàm phán.
+break away|verb|tách ra khỏi một nhóm hoặc sự kiểm soát|One runner began to break away from the pack.|Một vận động viên bắt đầu bứt khỏi nhóm.
+break through|verb|vượt qua vật cản hoặc sự ngăn trở|The sun began to break through the clouds.|Mặt trời bắt đầu ló qua những đám mây.
+break apart|verb|vỡ hoặc tách thành nhiều mảnh|The old crate began to break apart.|Chiếc thùng gỗ cũ bắt đầu bung ra.
+break with|verb|từ bỏ truyền thống hoặc cắt đứt quan hệ|The artist chose to break with tradition.|Nghệ sĩ chọn phá bỏ truyền thống.
+break away from|verb|thoát khỏi hoặc tách ra khỏi một nhóm|She wanted to break away from the family business.|Cô ấy muốn rời việc kinh doanh của gia đình.
+break out of|verb|thoát khỏi nơi bị giam giữ hoặc một khuôn mẫu|We need to break out of this routine.|Chúng ta cần thoát khỏi nếp sinh hoạt này.
+break in on|verb|xen vào khi người khác đang nói hoặc làm việc|Sorry to break in on your conversation.|Xin lỗi vì đã xen vào cuộc trò chuyện của bạn.
+break up with|verb|chấm dứt quan hệ yêu đương với ai|He decided to break up with his girlfriend.|Anh ấy quyết định chia tay bạn gái.
+run up|verb|tích lũy một khoản nợ hoặc chi phí lớn|Do not run up a huge phone bill.|Đừng để hóa đơn điện thoại tăng vọt.
+run down|verb|cạn dần năng lượng, nói về pin hoặc thiết bị|The battery will run down overnight.|Pin sẽ cạn dần qua đêm.
+run out|verb|hết nguồn cung hoặc hết thời gian|Our supplies may run out by Friday.|Đồ dự trữ của chúng tôi có thể hết vào thứ Sáu.
+run in|verb|chạy rà một động cơ mới|You should run in the new engine carefully.|Bạn nên chạy rà động cơ mới một cách cẩn thận.
+run off|verb|chạy đi khỏi một nơi|The dog may run off if you open the gate.|Con chó có thể chạy mất nếu bạn mở cổng.
+run away|verb|bỏ chạy; trốn đi|The frightened horse tried to run away.|Con ngựa hoảng sợ tìm cách chạy trốn.
+run back|verb|chạy quay trở lại|I had to run back for my wallet.|Tôi phải chạy trở lại lấy ví.
+run over|verb|đâm và cán qua người hoặc vật|A truck nearly ran over the bicycle.|Một xe tải suýt cán qua chiếc xe đạp.
+run through|verb|tập dượt hoặc xem lại nhanh từ đầu đến cuối|Let us run through the presentation once more.|Chúng ta hãy tập lại bài thuyết trình một lần nữa.
+run around|verb|chạy hoặc đi nhiều nơi để làm việc|I spend mornings running around doing errands.|Tôi dành các buổi sáng chạy đi làm việc vặt.
+run into|verb|tình cờ gặp ai|I might run into an old friend at the market.|Tôi có thể tình cờ gặp bạn cũ ở chợ.
+run across|verb|tình cờ tìm thấy hoặc gặp|I ran across your letter while cleaning.|Tôi tình cờ tìm thấy thư của bạn khi dọn dẹp.
+run after|verb|chạy đuổi theo|The little boy tried to run after the bus.|Cậu bé cố chạy đuổi theo xe buýt.
+run against|verb|tranh cử đối đầu với ai|She will run against the current mayor.|Cô ấy sẽ tranh cử với thị trưởng đương nhiệm.
+run on|verb|tiếp tục kéo dài hơn dự kiến|The meeting may run on until six.|Cuộc họp có thể kéo dài đến sáu giờ.
+run up against|verb|gặp phải khó khăn hoặc trở ngại|We have run up against a technical problem.|Chúng tôi đã gặp phải một vấn đề kỹ thuật.
+run away from|verb|né tránh việc phải đối diện vấn đề|You cannot run away from your responsibilities.|Bạn không thể trốn tránh trách nhiệm của mình.
+run off with|verb|lấy thứ gì rồi bỏ trốn|Someone ran off with the cash box.|Ai đó đã lấy hộp tiền rồi bỏ trốn.
+run out on|verb|bỏ rơi người đang dựa vào mình|He would never run out on his family.|Anh ấy sẽ không bao giờ bỏ rơi gia đình.
+run up to|verb|chạy đến gần ai hoặc nơi nào đó|The puppy ran up to its owner.|Chú chó con chạy tới chỗ chủ.
+call up|verb|gọi điện cho ai|I will call up the repair shop.|Tôi sẽ gọi điện cho tiệm sửa chữa.
+call off|verb|hủy một sự kiện hoặc kế hoạch|They had to call off the match.|Họ phải hủy trận đấu.
+call out|verb|gọi hoặc nói to|Please call out your name when asked.|Hãy nói to tên mình khi được hỏi.
+call back|verb|gọi điện lại|Can you call back after three?|Bạn có thể gọi lại sau ba giờ không?
+call in|verb|gọi người có chuyên môn đến giúp|We need to call in an electrician.|Chúng ta cần gọi thợ điện đến.
+call on|verb|đề nghị hoặc yêu cầu ai hành động|We call on leaders to protect the river.|Chúng tôi kêu gọi các nhà lãnh đạo bảo vệ con sông.
+call for|verb|đòi hỏi; cần đến|This situation calls for patience.|Tình huống này đòi hỏi sự kiên nhẫn.
+call at|verb|dừng tại một nơi, thường nói về tàu trong tiếng Anh–Anh|This train calls at every station.|Tàu này dừng ở mọi ga.
+call around|verb|gọi nhiều nơi để hỏi thông tin|I will call around to compare prices.|Tôi sẽ gọi nhiều nơi để so sánh giá.
+call by|verb|ghé thăm trong thời gian ngắn|I may call by on my way home.|Tôi có thể ghé qua trên đường về.
+call upon|verb|trang trọng yêu cầu ai làm một việc|We call upon all members to vote.|Chúng tôi kêu gọi toàn thể thành viên bỏ phiếu.
+call out for|verb|hét lên để xin hoặc yêu cầu điều gì|The injured climber called out for help.|Người leo núi bị thương kêu cứu.
+carry out|verb|thực hiện một nhiệm vụ hoặc kế hoạch|The team will carry out a safety inspection.|Nhóm sẽ tiến hành kiểm tra an toàn.
+carry over|verb|chuyển phần còn lại sang thời kỳ tiếp theo|You can carry over five days of leave.|Bạn có thể chuyển năm ngày phép sang kỳ sau.
+carry off|verb|thực hiện thành công việc khó|Few actors could carry off such a demanding role.|Ít diễn viên có thể đảm nhận thành công vai khó như vậy.
+carry away|verb|mang một vật ra khỏi nơi nào đó|The river can carry away loose branches.|Dòng sông có thể cuốn đi những cành cây rời.
+carry through|verb|thực hiện một kế hoạch đến khi hoàn tất|We must carry through the agreed reforms.|Chúng ta phải thực hiện trọn vẹn các cải cách đã thống nhất.
+carry forward|verb|chuyển một số dư hoặc kết quả sang giai đoạn sau|We will carry forward the unused balance.|Chúng tôi sẽ chuyển số dư chưa dùng sang kỳ sau.
+carry on with|verb|tiếp tục một công việc đang làm|Please carry on with your reading.|Hãy tiếp tục đọc sách.
+hold on|verb|chờ trong thời gian ngắn|Hold on while I find your file.|Hãy chờ một chút để tôi tìm hồ sơ của bạn.
+hold off|verb|tạm chưa xảy ra, nói về thời tiết xấu|I hope the rain will hold off.|Tôi hy vọng trời chưa mưa vội.
+hold out|verb|chịu đựng và tiếp tục chống đỡ|The supplies will help us hold out longer.|Đồ tiếp tế sẽ giúp chúng ta cầm cự lâu hơn.
+hold up|verb|làm chậm tiến độ hoặc gây trì hoãn|Roadworks can hold up traffic for hours.|Việc sửa đường có thể khiến giao thông đình trệ nhiều giờ.
+hold back|verb|kìm lại; không để bộc lộ|He could not hold back his tears.|Anh ấy không thể kìm được nước mắt.
+hold down|verb|giữ ổn định một công việc|She managed to hold down two jobs.|Cô ấy đã xoay xở làm ổn định hai công việc.
+wear out|verb|bị mòn hoặc hết khả năng sử dụng|Cheap shoes can wear out quickly.|Giày rẻ có thể nhanh chóng bị mòn.
+hold together|verb|giữ cho một vật hoặc nhóm không tan rã|These screws hold together the wooden frame.|Những con vít này giữ khung gỗ liền nhau.
+wear off|verb|giảm dần rồi hết tác dụng|The painkiller will wear off in a few hours.|Thuốc giảm đau sẽ hết tác dụng sau vài giờ.
+hold out for|verb|tiếp tục chờ để có được điều tốt hơn|They decided to hold out for a better offer.|Họ quyết định chờ một đề nghị tốt hơn.
+hold on to|verb|giữ chặt; không để mất|Hold on to the rail while climbing.|Hãy bám chặt tay vịn khi leo lên.
+hold out on|verb|cố tình không chia sẻ thông tin hoặc thứ gì với ai|Do not hold out on me about the results.|Đừng giấu tôi thông tin về kết quả.
+stand up|verb|đứng dậy từ tư thế ngồi|Please stand up when your name is called.|Hãy đứng dậy khi được gọi tên.
+stand down|verb|rời khỏi chức vụ hoặc nhiệm vụ|The chair will stand down next month.|Chủ tịch sẽ từ nhiệm vào tháng tới.
+stand out|verb|nổi bật so với xung quanh|Your experience will help you stand out.|Kinh nghiệm sẽ giúp bạn nổi bật.
+stand by|verb|sẵn sàng chờ để giúp khi cần|A medical team will stand by during the race.|Một đội y tế sẽ túc trực trong cuộc đua.
+stand back|verb|lùi lại để giữ khoảng cách|Please stand back from the platform edge.|Hãy lùi xa mép sân ga.
+stand aside|verb|đứng nép sang bên để nhường chỗ|Stand aside and let the doctor through.|Hãy tránh sang bên cho bác sĩ đi qua.
+stand against|verb|phản đối hoặc chống lại một điều|We must stand against unfair treatment.|Chúng ta phải chống lại sự đối xử bất công.
+stand up for|verb|lên tiếng bảo vệ người hoặc nguyên tắc|You should stand up for your rights.|Bạn nên lên tiếng bảo vệ quyền của mình.
+stand up to|verb|dũng cảm chống lại sự đe dọa hoặc áp lực|She learned to stand up to bullies.|Cô ấy học được cách chống lại kẻ bắt nạt.
+stand in for|verb|tạm thay thế người khác|Could you stand in for me tomorrow?|Ngày mai bạn có thể làm thay tôi không?
+stand out from|verb|nổi bật khác với một nhóm|This design will stand out from the rest.|Thiết kế này sẽ nổi bật so với những mẫu còn lại.
+fall down|verb|ngã xuống|Small children often fall down while learning to walk.|Trẻ nhỏ thường bị ngã khi tập đi.
+fall over|verb|mất thăng bằng rồi ngã|The vase could fall over in the wind.|Chiếc bình có thể đổ vì gió.
+fall off|verb|rơi khỏi một vật hoặc một bề mặt|The wheel might fall off without that bolt.|Bánh xe có thể rời ra nếu thiếu bu lông đó.
+fall out|verb|cãi nhau rồi mất hòa khí|The brothers often fall out over money.|Hai anh em thường bất hòa vì tiền.
+fall behind|verb|tụt lại; không theo kịp tiến độ|She does not want to fall behind in class.|Cô ấy không muốn học chậm hơn các bạn.
+fall apart|verb|rời ra; mất sự vững chắc|The old shoes began to fall apart.|Đôi giày cũ bắt đầu bung ra.
+fall through|verb|không thành công như dự kiến|The sale could fall through at the last minute.|Việc mua bán có thể đổ vỡ vào phút chót.
+fall back|verb|rút lui về vị trí phía sau|The tired runners began to fall back.|Những người chạy mệt bắt đầu tụt lại phía sau.
+fall for|verb|tin nhầm điều được dùng để lừa|Do not fall for that obvious trick.|Đừng mắc mưu lừa quá rõ đó.
+fall into|verb|rơi vào một tình trạng, thường không tốt|It is easy to fall into bad habits.|Rất dễ sa vào những thói quen xấu.
+fall on|verb|rơi vào một ngày hoặc ngày tháng cụ thể|My birthday falls on a Sunday this year.|Sinh nhật tôi năm nay rơi vào Chủ nhật.
+fall out with|verb|cãi nhau và trở nên bất hòa với ai|I do not want to fall out with my neighbors.|Tôi không muốn bất hòa với hàng xóm.
+fall back on|verb|dựa vào một phương án khi phương án khác thất bại|We can fall back on our savings.|Chúng tôi có thể trông vào khoản tiết kiệm.
+fall in with|verb|làm theo hoặc đồng tình với một ý tưởng|She agreed to fall in with our plans.|Cô ấy đồng ý làm theo kế hoạch của chúng tôi.
+fall away|verb|giảm dần về mức độ hoặc số lượng|Support began to fall away after the scandal.|Sự ủng hộ bắt đầu giảm sau vụ bê bối.
+cut down|verb|chặt hạ cây hoặc vật cao|They had to cut down the damaged tree.|Họ phải chặt hạ cây bị hư hại.
+cut off|verb|ngắt kết nối hoặc nguồn cung|The storm could cut off our electricity.|Cơn bão có thể làm mất nguồn điện của chúng tôi.
+cut out|verb|loại bỏ điều không cần thiết|We should cut out unnecessary paperwork.|Chúng ta nên bỏ những thủ tục giấy tờ không cần thiết.
+cut back|verb|giảm chi tiêu hoặc mức sử dụng|We need to cut back this month.|Tháng này chúng ta cần giảm chi tiêu.
+cut up|verb|cắt thành những miếng nhỏ|Please cut up the vegetables.|Hãy cắt nhỏ rau củ.
+cut in|verb|ngắt lời; xen vào lúc người khác đang nói|Do not cut in while she is speaking.|Đừng ngắt lời khi cô ấy đang nói.
+cut across|verb|đi băng qua theo lối ngắn hơn|We can cut across the park.|Chúng ta có thể đi tắt qua công viên.
+cut through|verb|cắt xuyên qua một vật|This blade can cut through thick rope.|Lưỡi dao này có thể cắt xuyên dây thừng dày.
+cut down on|verb|giảm bớt lượng tiêu thụ hoặc tần suất|I want to cut down on sugar.|Tôi muốn giảm lượng đường tiêu thụ.
+cut back on|verb|cắt giảm chi tiêu hoặc mức sử dụng|We must cut back on fuel costs.|Chúng ta phải cắt giảm chi phí nhiên liệu.
+catch on|verb|hiểu ra; nắm được cách làm|The new students will catch on quickly.|Các học sinh mới sẽ nhanh chóng hiểu ra.
+cut in on|verb|xen vào làm gián đoạn một hoạt động|Sorry to cut in on your discussion.|Xin lỗi vì đã xen vào cuộc thảo luận của bạn.
+pass out|verb|bất tỉnh; ngất đi|The heat made him pass out.|Sức nóng khiến anh ấy ngất đi.
+pass away|verb|qua đời, cách nói nhẹ nhàng|Her grandfather passed away peacefully.|Ông của cô ấy đã qua đời thanh thản.
+pass on|verb|chuyển một thông tin cho người khác|Please pass on the message to your team.|Hãy chuyển lời nhắn cho nhóm của bạn.
+pass by|verb|đi ngang qua|Many buses pass by our house.|Nhiều xe buýt đi ngang qua nhà chúng tôi.
+pass over|verb|không chọn hoặc không xem xét ai|They chose to pass over an experienced candidate.|Họ quyết định không chọn một ứng viên có kinh nghiệm.
+pass through|verb|đi qua một địa điểm trên đường tới nơi khác|We will pass through several villages.|Chúng tôi sẽ đi qua một số ngôi làng.
+pass around|verb|chuyền một vật lần lượt cho nhiều người|Please pass around these photographs.|Hãy chuyền những bức ảnh này cho mọi người.
+pass down|verb|truyền lại cho thế hệ sau|Families pass down stories across generations.|Các gia đình truyền lại câu chuyện qua nhiều thế hệ.
+pass off|verb|diễn ra theo cách nào đó, thường dùng trong tiếng Anh–Anh|The parade passed off peacefully.|Cuộc diễu hành đã diễn ra yên bình.
+pass up|verb|bỏ lỡ hoặc từ chối một cơ hội|Do not pass up this chance to learn.|Đừng bỏ lỡ cơ hội học hỏi này.
+pass on to|verb|chuyển sang một chủ đề hoặc bước tiếp theo|Let us pass on to the next question.|Chúng ta hãy chuyển sang câu hỏi tiếp theo.
+work out|verb|tập thể dục để rèn luyện sức khỏe|I work out three times a week.|Tôi tập thể dục ba lần mỗi tuần.
+work at|verb|nỗ lực để cải thiện một kỹ năng|You need to work at your pronunciation.|Bạn cần luyện tập để cải thiện phát âm.
+work up|verb|dần tạo ra một cảm giác hoặc trạng thái|Walking helps me work up an appetite.|Đi bộ giúp tôi thấy ngon miệng hơn.
+work through|verb|lần lượt xử lý cho đến khi giải quyết được|We need to work through these problems together.|Chúng ta cần cùng nhau giải quyết lần lượt các vấn đề này.
+work around|verb|tìm cách vượt qua hoặc tránh một trở ngại|We can work around the scheduling conflict.|Chúng ta có thể tìm cách xử lý việc trùng lịch.
+work away|verb|tiếp tục làm việc chăm chỉ|She kept working away at her desk.|Cô ấy vẫn miệt mài làm việc tại bàn.
+work off|verb|tiêu hao năng lượng hoặc giảm cảm xúc bằng hoạt động|I walk to work off my lunch.|Tôi đi bộ để tiêu hao năng lượng từ bữa trưa.
+work in|verb|thu xếp chèn thêm một việc vào lịch|We can work in one more appointment.|Chúng tôi có thể thu xếp thêm một cuộc hẹn nữa.
+work up to|verb|chuẩn bị dần để đạt mức khó hơn|You can work up to longer runs.|Bạn có thể tập dần để chạy quãng đường dài hơn.
+work out at|verb|tính ra một mức tiền hoặc số lượng|The cost works out at ten dollars each.|Chi phí tính ra là mười đô la mỗi người.
+move on|verb|chuyển sang giai đoạn hoặc việc khác|It is time to move on.|Đã đến lúc bước tiếp.
+move out|verb|chuyển khỏi nơi đang sống|They will move out at the end of May.|Họ sẽ chuyển đi vào cuối tháng Năm.
+move in|verb|chuyển đến sống ở một nơi|Our new neighbors move in tomorrow.|Ngày mai hàng xóm mới của chúng tôi sẽ dọn đến.
+move up|verb|tiến lên vị trí hoặc cấp bậc cao hơn|She hopes to move up within the company.|Cô ấy hy vọng thăng tiến trong công ty.
+move back|verb|chuyển trở lại nơi từng ở|We may move back next year.|Có thể năm sau chúng tôi sẽ chuyển về.
+move over|verb|dịch sang bên để nhường chỗ|Could you move over a little?|Bạn có thể dịch sang bên một chút không?
+move away|verb|chuyển đến sống ở nơi khác|Many young people move away for work.|Nhiều người trẻ chuyển đi nơi khác để làm việc.
+move along|verb|tiếp tục di chuyển thay vì đứng lại|Please move along and keep the entrance clear.|Hãy đi tiếp để lối vào được thông thoáng.
+move into|verb|chuyển đến sống hoặc làm việc trong một nơi|We will move into the new flat next week.|Tuần sau chúng tôi sẽ chuyển vào căn hộ mới.
+move on to|verb|bắt đầu xử lý một việc tiếp theo|We can move on to the final task.|Chúng ta có thể chuyển sang nhiệm vụ cuối cùng.
+move away from|verb|dần từ bỏ một cách làm hoặc quan điểm|The company will move away from paper records.|Công ty sẽ dần ngừng dùng hồ sơ giấy.
+drop off|verb|ngủ thiếp đi|I sometimes drop off during long journeys.|Đôi khi tôi ngủ thiếp đi trong những chuyến đi dài.
+drop out|verb|ngừng tham gia trước khi kết thúc|Several runners had to drop out.|Một số người chạy phải bỏ cuộc.
+drop in|verb|ghé thăm mà không hẹn trước|Feel free to drop in after work.|Bạn cứ ghé qua sau giờ làm.
+drop by|verb|ghé qua trong thời gian ngắn|I might drop by tomorrow morning.|Tôi có thể ghé qua vào sáng mai.
+drop back|verb|tụt về phía sau một nhóm|The tired cyclist began to drop back.|Người đi xe đạp đã mệt và bắt đầu tụt lại.
+drop away|verb|giảm dần về số lượng hoặc mức độ|Attendance began to drop away in winter.|Số người tham dự bắt đầu giảm vào mùa đông.
+drop over|verb|ghé thăm nhà ai một cách thân mật|Why not drop over for a coffee?|Sao bạn không ghé qua uống cà phê?
+drop out of|verb|bỏ dở việc học hoặc một hoạt động|He did not want to drop out of college.|Anh ấy không muốn bỏ học đại học.
+drop in on|verb|ghé thăm ai mà không hẹn trước|We may drop in on our cousins.|Chúng tôi có thể ghé thăm anh chị em họ.
+leave out|verb|bỏ sót hoặc không đưa vào|Do not leave out any important details.|Đừng bỏ sót chi tiết quan trọng nào.
+leave off|verb|dừng một việc đang làm|We will continue where we left off yesterday.|Chúng ta sẽ tiếp tục từ chỗ đã dừng hôm qua.
+leave behind|verb|để lại sau khi rời đi|The storm may leave behind a trail of destruction.|Cơn bão có thể để lại một dải tàn phá.
+leave aside|verb|tạm không xét đến một vấn đề|Let us leave aside the question of cost.|Chúng ta hãy tạm gác vấn đề chi phí.
+send back|verb|gửi trả lại nơi ban đầu|We need to send back the damaged goods.|Chúng ta cần gửi trả hàng bị hư hỏng.
+leave for|verb|rời đi để tới một nơi|We leave for Hanoi on Monday.|Chúng tôi khởi hành đi Hà Nội vào thứ Hai.
+let down|verb|làm ai thất vọng vì không đáp ứng mong đợi|I do not want to let down my team.|Tôi không muốn khiến nhóm thất vọng.
+let in|verb|cho phép đi vào hoặc để một thứ lọt vào|Open the curtains to let in more light.|Hãy mở rèm để đón thêm ánh sáng.
+let out|verb|cho phép người hoặc vật ra ngoài|Please let out the cat.|Hãy cho mèo ra ngoài.
+let off|verb|chỉ phạt nhẹ hoặc không phạt|The officer let off the driver with a warning.|Viên cảnh sát chỉ cảnh cáo người lái xe.
+let on|verb|để lộ thông tin đang giữ kín|Do not let on that you know the surprise.|Đừng để lộ rằng bạn đã biết điều bất ngờ.
+let up|verb|giảm bớt mức độ|The rain should let up soon.|Mưa chắc sẽ sớm ngớt.
+let go of|verb|buông tay; không giữ chặt nữa|Do not let go of the rope.|Đừng buông sợi dây.
+send out|verb|gửi hoặc phân phát tới nhiều người|We will send out the invitations tomorrow.|Ngày mai chúng tôi sẽ gửi thiệp mời đi.
+see off|verb|tiễn ai khi họ rời đi|We went to see off our guests.|Chúng tôi đi tiễn khách.
+see through|verb|nhận ra điều gian dối hoặc ý đồ thật|I can see through that excuse.|Tôi nhận ra cái cớ đó là không thật.
+see to|verb|lo liệu để một việc được xử lý|I will see to the travel arrangements.|Tôi sẽ lo việc sắp xếp chuyến đi.
+see about|verb|xem xét cách sắp xếp hoặc thực hiện một việc|I will see about repairing the roof.|Tôi sẽ xem cách thu xếp sửa mái nhà.
+build on|verb|phát triển dựa trên nền tảng đã có|We can build on last year's success.|Chúng ta có thể phát triển từ thành công năm ngoái.
+show up|verb|đến hoặc xuất hiện|Please show up on time.|Hãy đến đúng giờ.
+show off|verb|khoe khoang để gây ấn tượng|He likes to show off his new watch.|Anh ấy thích khoe chiếc đồng hồ mới.
+show around|verb|dẫn ai tham quan một nơi|New employees are shown around on their first day.|Nhân viên mới được dẫn đi tham quan vào ngày đầu.
+show in|verb|dẫn khách vào phòng|Visitors will be shown in one at a time.|Khách sẽ được dẫn vào từng người một.
+show out|verb|dẫn khách ra cửa khi họ ra về|The guests were shown out after the meeting.|Khách được tiễn ra cửa sau cuộc họp.
+hand in|verb|nộp tài liệu hoặc đồ vật cho người có trách nhiệm|Please hand in your forms at reception.|Hãy nộp mẫu đơn ở quầy lễ tân.
+show through|verb|lộ ra dù cố che giấu|Her excitement began to show through.|Sự háo hức của cô ấy bắt đầu lộ ra.
+walk away|verb|rời bỏ một tình huống thay vì tiếp tục|Sometimes it is better to walk away.|Đôi khi bỏ đi sẽ tốt hơn.
+walk out|verb|bỏ đi để thể hiện sự phản đối|The workers may walk out over pay.|Công nhân có thể bỏ việc để phản đối vấn đề lương.
+walk in|verb|đi vào mà không cần hẹn trước|You can walk in without an appointment.|Bạn có thể vào mà không cần đặt hẹn.
+walk over|verb|đi bộ sang chỗ khác hoặc tới chỗ ai|Please walk over and join our group.|Hãy đi sang đây và tham gia nhóm chúng tôi.
+walk off|verb|giảm một cảm giác khó chịu bằng cách đi bộ|I tried to walk off my frustration.|Tôi cố đi bộ để giải tỏa sự bực bội.
+walk up to|verb|đi bộ đến gần một người hoặc vật|She walked up to the information desk.|Cô ấy đi tới quầy thông tin.
+walk away from|verb|rời bỏ một trách nhiệm hoặc tình huống|He chose to walk away from a risky deal.|Anh ấy chọn rút khỏi một thương vụ rủi ro.
+walk out on|verb|bỏ rơi người mình có trách nhiệm với họ|She would never walk out on her children.|Cô ấy sẽ không bao giờ bỏ rơi các con.
+talk over|verb|thảo luận kỹ để đi đến quyết định|Let us talk over the options tonight.|Tối nay chúng ta hãy bàn kỹ các phương án.
+talk through|verb|cùng trao đổi lần lượt về một vấn đề|We should talk through the plan together.|Chúng ta nên cùng bàn lần lượt về kế hoạch.
+talk back|verb|cãi lại một cách thiếu lễ phép|Do not talk back to your parents.|Đừng hỗn với cha mẹ.
+talk down to|verb|nói với ai bằng giọng coi thường|Please do not talk down to me.|Xin đừng nói với tôi bằng giọng coi thường.
+talk with|verb|trò chuyện hoặc trao đổi với ai|I need to talk with my supervisor.|Tôi cần trao đổi với người giám sát.
+help out|verb|giúp khi ai đó đang thiếu người hoặc gặp khó|Could you help out at the school fair?|Bạn có thể phụ giúp hội chợ của trường không?
+help with|verb|giúp làm một công việc cụ thể|Can you help with the dishes?|Bạn có thể giúp rửa bát không?
+help up|verb|giúp người bị ngã hoặc đang ngồi đứng dậy|The fallen cyclist was helped up by a passerby.|Người đi xe đạp bị ngã được một người qua đường đỡ dậy.
+help along|verb|giúp một việc tiến triển thuận lợi|The project was helped along by a small grant.|Một khoản tài trợ nhỏ đã giúp dự án tiến triển.
+stay in|verb|ở nhà thay vì ra ngoài|We will stay in and watch a film.|Chúng tôi sẽ ở nhà xem phim.
+stay out|verb|ở ngoài và chưa về nhà|Do not stay out too late.|Đừng ở ngoài quá khuya.
+stay up|verb|thức và chưa đi ngủ|I cannot stay up all night.|Tôi không thể thức cả đêm.
+stay on|verb|tiếp tục ở lại sau thời điểm dự định rời đi|She decided to stay on for another month.|Cô ấy quyết định ở lại thêm một tháng.
+stay away|verb|không đến gần hoặc không tham dự|Please stay away if you are ill.|Hãy không đến nếu bạn đang ốm.
+stay behind|verb|ở lại khi những người khác đã đi|Two volunteers will stay behind to clean up.|Hai tình nguyện viên sẽ ở lại để dọn dẹp.
+stay over|verb|ngủ lại nhà người khác|You can stay over if you miss the last train.|Bạn có thể ngủ lại nếu lỡ chuyến tàu cuối.
+stay away from|verb|tránh tiếp xúc với điều nguy hiểm hoặc không tốt|Children should stay away from fireworks.|Trẻ em nên tránh xa pháo hoa.
+wait up|verb|thức chờ người khác về|Do not wait up; I will be late.|Đừng thức chờ; tôi sẽ về muộn.
+wait around|verb|đứng hoặc ngồi chờ mà chưa có việc làm|We had to wait around for an hour.|Chúng tôi đã phải chờ không suốt một giờ.
+wait behind|verb|chờ ở phía sau một vị trí hoặc vật cản|Please wait behind the yellow line.|Hãy chờ phía sau vạch vàng.
+wait up for|verb|thức để chờ ai về|You do not need to wait up for me.|Bạn không cần thức chờ tôi.
+speak up|verb|nói to hơn để người khác nghe được|Could you speak up a little?|Bạn có thể nói to hơn một chút không?
+speak out|verb|công khai nêu ý kiến hoặc sự phản đối|More workers are willing to speak out.|Nhiều người lao động hơn sẵn sàng lên tiếng.
+speak with|verb|nói chuyện hoặc trao đổi với ai|May I speak with the manager?|Tôi có thể nói chuyện với quản lý không?
+speak for|verb|đại diện để phát biểu thay ai|I cannot speak for the whole team.|Tôi không thể phát biểu thay cả nhóm.
+speak of|verb|nói đến; đề cập một điều|They rarely speak of their childhood.|Họ hiếm khi nói về thời thơ ấu.
+speak out against|verb|công khai lên tiếng phản đối|We must speak out against discrimination.|Chúng ta phải công khai phản đối sự phân biệt đối xử.
+write down|verb|ghi lại bằng chữ để khỏi quên|Write down the address before you leave.|Hãy ghi lại địa chỉ trước khi đi.
+write up|verb|viết thành một bản hoàn chỉnh từ ghi chép|I need to write up my research notes.|Tôi cần viết lại các ghi chép nghiên cứu thành bản hoàn chỉnh.
+write out|verb|viết đầy đủ thay vì dùng bản rút gọn|Please write out your full name.|Hãy viết đầy đủ họ tên của bạn.
+write off|verb|coi một khoản tiền là không thể thu hồi|The bank may write off the debt.|Ngân hàng có thể xóa khoản nợ không thể thu hồi.
+write in|verb|gửi thư cho một tổ chức hoặc chương trình|Listeners can write in with their questions.|Thính giả có thể gửi thư nêu câu hỏi.
+write back|verb|viết thư trả lời|I will write back as soon as possible.|Tôi sẽ viết thư trả lời sớm nhất có thể.
+write to|verb|viết thư hoặc thông điệp gửi cho ai|You should write to the admissions office.|Bạn nên viết thư cho văn phòng tuyển sinh.
+afraid for|adjective|lo sợ cho sự an toàn của ai|I was afraid for the missing child's safety.|Tôi đã lo sợ cho sự an toàn của đứa trẻ mất tích.
+angry with|adjective|giận ai|She was angry with her brother.|Cô ấy giận anh trai.
+angry at|adjective|tức giận vì một hành động hoặc tình huống|He was angry at the unfair decision.|Anh ấy tức giận vì quyết định bất công.
+angry about|adjective|bực tức về một chuyện|Residents are angry about the rising fees.|Cư dân bực tức về việc phí tăng.
+bored with|adjective|chán một thứ vì không còn thấy thú vị|I am bored with the same routine.|Tôi chán nếp sinh hoạt cứ lặp đi lặp lại.
+bored by|adjective|cảm thấy chán do một điều gây ra|The children were bored by the long speech.|Bọn trẻ chán vì bài phát biểu quá dài.
+careful with|adjective|cẩn thận khi dùng hoặc xử lý một thứ|Be careful with that sharp knife.|Hãy cẩn thận với con dao sắc đó.
+careful about|adjective|thận trọng về một lựa chọn hoặc hành động|Be careful about sharing personal information.|Hãy thận trọng khi chia sẻ thông tin cá nhân.
+friendly to|adjective|thân thiện trong cách đối xử với ai|The staff were friendly to every visitor.|Nhân viên thân thiện với mọi khách đến.
+friendly with|adjective|có quan hệ thân thiện với ai|She is friendly with everyone in the building.|Cô ấy có quan hệ thân thiện với mọi người trong tòa nhà.
+honest with|adjective|thành thật với ai|Please be honest with me.|Hãy thành thật với tôi.
+honest about|adjective|không che giấu sự thật về một chuyện|He was honest about his lack of experience.|Anh ấy thành thật về việc thiếu kinh nghiệm.
+loyal to|adjective|trung thành với người hoặc tổ chức|She remains loyal to her friends.|Cô ấy vẫn trung thành với bạn bè.
+polite to|adjective|lịch sự khi đối xử với ai|Always be polite to the staff.|Luôn lịch sự với nhân viên.
+rude to|adjective|thô lỗ khi đối xử với ai|It is wrong to be rude to customers.|Thô lỗ với khách hàng là sai.
+rude about|adjective|nói năng thiếu tôn trọng về người hoặc thứ gì|He was rude about her cooking.|Anh ấy nói thiếu lịch sự về tài nấu ăn của cô ấy.
+nervous about|adjective|lo lắng về một việc sắp xảy ra|I am nervous about tomorrow's interview.|Tôi lo về buổi phỏng vấn ngày mai.
+nervous of|adjective|e ngại; thiếu tự tin khi đối diện điều gì|She is nervous of speaking in public.|Cô ấy e ngại việc nói trước đám đông.
+jealous of|adjective|ghen tị với điều người khác có|He was jealous of his sister's success.|Anh ấy ghen tị với thành công của em gái.
+suspicious of|adjective|nghi ngờ ý đồ hoặc độ tin cậy|I am suspicious of offers that seem too good.|Tôi nghi ngờ những lời mời chào nghe quá hấp dẫn.
+conscious of|adjective|nhận thức được; ý thức về điều gì|We are conscious of the risks.|Chúng tôi nhận thức được những rủi ro.
+ashamed of|adjective|xấu hổ về hành động hoặc tình trạng của mình|He felt ashamed of his behavior.|Anh ấy thấy xấu hổ về hành vi của mình.
+good for|adjective|có lợi cho ai hoặc điều gì|Regular exercise is good for your health.|Tập thể dục thường xuyên có lợi cho sức khỏe.
+good with|adjective|khéo léo hoặc giỏi khi làm việc với ai hay thứ gì|She is good with young children.|Cô ấy rất khéo khi làm việc với trẻ nhỏ.
+bad for|adjective|có hại cho ai hoặc điều gì|Too much noise is bad for your hearing.|Tiếng ồn quá mức có hại cho thính giác.
+bad with|adjective|không khéo hoặc không giỏi xử lý một thứ|I am bad with names but remember faces.|Tôi kém nhớ tên nhưng nhớ khuôn mặt.
+curious about|adjective|tò mò; muốn tìm hiểu về điều gì|The students are curious about space travel.|Học sinh tò mò về du hành vũ trụ.
+eager for|adjective|rất mong muốn hoặc háo hức đón nhận|The team is eager for a fresh start.|Nhóm háo hức mong một khởi đầu mới.
+excited at|adjective|hào hứng trước một ý tưởng hoặc khả năng|We were excited at the prospect of moving.|Chúng tôi hào hứng trước viễn cảnh chuyển nhà.
+excited by|adjective|phấn khích do điều gì đem lại|The children were excited by the new playground.|Bọn trẻ hào hứng vì sân chơi mới.
+familiar to|adjective|quen thuộc đối với người nhận biết|That melody is familiar to me.|Giai điệu đó quen thuộc với tôi.
+fond of|adjective|yêu thích hoặc có tình cảm trìu mến|My grandfather is fond of gardening.|Ông tôi thích làm vườn.
+free from|adjective|không phải chịu hoặc không có điều không tốt|The village is free from traffic noise.|Ngôi làng không bị tiếng ồn giao thông làm phiền.
+free of|adjective|không chứa hoặc không bị thứ gì|This drink is free of added sugar.|Đồ uống này không có đường bổ sung.
+free with|adjective|hào phóng hoặc dễ dàng cho một thứ|She is free with her advice.|Cô ấy sẵn lòng cho lời khuyên.
+grateful for|adjective|biết ơn về sự giúp đỡ hoặc điều nhận được|We are grateful for your support.|Chúng tôi biết ơn sự hỗ trợ của bạn.
+grateful to|adjective|biết ơn một người hoặc tổ chức|I am grateful to my first teacher.|Tôi biết ơn người thầy đầu tiên.
+guilty of|adjective|có lỗi hoặc phạm một hành vi|The court found him guilty of fraud.|Tòa xác định anh ta phạm tội gian lận.
+guilty about|adjective|cảm thấy có lỗi về một việc|I feel guilty about forgetting her birthday.|Tôi thấy có lỗi vì quên sinh nhật cô ấy.
+happy with|adjective|hài lòng với kết quả hoặc điều đang có|Are you happy with your new job?|Bạn có hài lòng với công việc mới không?
+happy about|adjective|vui mừng vì một sự việc|We are happy about the good news.|Chúng tôi vui mừng vì tin tốt.
+happy for|adjective|vui mừng thay cho người khác|I am happy for you both.|Tôi vui mừng cho cả hai bạn.
+late for|adjective|đến muộn so với thời điểm cần có mặt|Do not be late for the meeting.|Đừng đến muộn cuộc họp.
+late with|adjective|chậm hoàn thành hoặc giao một thứ|He was late with his final report.|Anh ấy nộp báo cáo cuối cùng muộn.
+ready for|adjective|sẵn sàng đón nhận hoặc thực hiện|Are you ready for the next challenge?|Bạn đã sẵn sàng cho thử thách tiếp theo chưa?
+responsible to|adjective|chịu trách nhiệm báo cáo với ai|The director is responsible to the board.|Giám đốc chịu trách nhiệm trước hội đồng quản trị.
+safe from|adjective|được bảo vệ khỏi một mối nguy|The documents are safe from water damage.|Tài liệu được bảo vệ khỏi hư hỏng do nước.
+safe for|adjective|không gây nguy hiểm cho đối tượng nào đó|Is this toy safe for small children?|Đồ chơi này có an toàn cho trẻ nhỏ không?
+satisfied by|adjective|được thỏa mãn hoặc giải đáp bởi điều gì|I was satisfied by her clear explanation.|Tôi đã thỏa mãn với lời giải thích rõ ràng của cô ấy.
+serious about|adjective|thực sự có ý định hoặc coi trọng điều gì|She is serious about learning English.|Cô ấy nghiêm túc với việc học tiếng Anh.
+similar in|adjective|giống nhau ở một đặc điểm|The two phones are similar in size.|Hai điện thoại giống nhau về kích thước.
+tired from|adjective|mệt do một hoạt động hoặc nguyên nhân|We were tired from the long walk.|Chúng tôi mệt vì đi bộ đường dài.
+worthy of|adjective|xứng đáng nhận được điều gì|This achievement is worthy of recognition.|Thành tích này xứng đáng được ghi nhận.
+anxious about|adjective|lo lắng về một vấn đề|Parents are anxious about the test results.|Phụ huynh lo lắng về kết quả kiểm tra.
+anxious for|adjective|mong mỏi một điều hoặc lo cho ai|Everyone is anxious for news of the rescue.|Mọi người đều mong ngóng tin cứu hộ.
+available for|adjective|sẵn sàng để làm hoặc sử dụng cho việc gì|This room is available for private meetings.|Phòng này có thể dùng cho các cuộc họp riêng.
+available to|adjective|có thể được một đối tượng tiếp cận hoặc sử dụng|The guide is available to all students.|Mọi sinh viên đều có thể tiếp cận tài liệu hướng dẫn.
+busy with|adjective|bận làm hoặc xử lý việc gì|She is busy with her final project.|Cô ấy đang bận làm dự án cuối khóa.
+concerned with|adjective|liên quan đến; tập trung vào một chủ đề|This chapter is concerned with water pollution.|Chương này tập trung vào ô nhiễm nước.
+concerned for|adjective|lo lắng cho sự an toàn hoặc lợi ích của ai|We are concerned for the missing hikers.|Chúng tôi lo cho những người đi bộ đường dài mất tích.
+desperate for|adjective|rất cần một thứ đến mức khẩn thiết|The village is desperate for clean water.|Ngôi làng đang rất cần nước sạch.
+devoted to|adjective|tận tâm; dành nhiều tình cảm hoặc công sức|He is devoted to his family.|Anh ấy hết lòng vì gia đình.
+equal to|adjective|bằng về giá trị, mức độ hoặc số lượng|One meter is equal to one hundred centimeters.|Một mét bằng một trăm xăng-ti-mét.
+equal in|adjective|ngang nhau ở một đặc điểm|The two groups are equal in size.|Hai nhóm có quy mô bằng nhau.
+essential for|adjective|cần thiết để một việc xảy ra hoặc thành công|Sleep is essential for healthy development.|Giấc ngủ cần thiết cho sự phát triển khỏe mạnh.
+essential to|adjective|không thể thiếu đối với một hoạt động hoặc hệ thống|Trust is essential to a good partnership.|Sự tin cậy là điều không thể thiếu trong một quan hệ hợp tác tốt.
+independent of|adjective|không phụ thuộc vào một yếu tố khác|The result is independent of age.|Kết quả không phụ thuộc vào tuổi tác.
+kind to|adjective|tử tế trong cách đối xử với ai|Please be kind to the new student.|Hãy đối xử tử tế với học sinh mới.
+kind of|adjective|tử tế khi làm điều gì, dùng trong cấu trúc it is kind of someone to do something|It was kind of you to help us.|Bạn thật tử tế khi giúp chúng tôi.
+limited to|adjective|chỉ giới hạn trong một phạm vi|Access is limited to registered users.|Quyền truy cập chỉ dành cho người dùng đã đăng ký.
+limited by|adjective|bị hạn chế bởi một yếu tố|Our choices are limited by the budget.|Lựa chọn của chúng ta bị ngân sách hạn chế.
+opposed to|adjective|phản đối một ý tưởng hoặc hành động|Many residents are opposed to the new road.|Nhiều cư dân phản đối con đường mới.
+patient with|adjective|kiên nhẫn khi đối xử với ai|The nurse was patient with the nervous child.|Y tá kiên nhẫn với đứa trẻ lo lắng.
+qualified for|adjective|có đủ trình độ hoặc điều kiện cho một vị trí|She is well qualified for the role.|Cô ấy có đầy đủ năng lực cho vai trò đó.
+relevant to|adjective|có liên quan và hữu ích đối với vấn đề nào đó|Your experience is relevant to this position.|Kinh nghiệm của bạn phù hợp với vị trí này.
+sensitive to|adjective|nhạy cảm hoặc dễ phản ứng với tác động|My skin is sensitive to strong sunlight.|Da tôi nhạy cảm với ánh nắng mạnh.
+sensitive about|adjective|dễ thấy khó chịu khi một chủ đề bị nhắc tới|He is sensitive about his age.|Anh ấy dễ khó chịu khi bị nhắc đến tuổi.
+shocked by|adjective|bị sốc do một sự kiện gây ra|We were shocked by the sudden closure.|Chúng tôi bị sốc vì việc đóng cửa đột ngột.
+shocked at|adjective|sửng sốt trước một tình huống hoặc mức độ|She was shocked at the size of the bill.|Cô ấy sửng sốt trước số tiền trên hóa đơn.
+sick of|adjective|chán ngấy; không chịu nổi một việc lặp lại|I am sick of hearing the same excuse.|Tôi chán ngấy việc nghe cùng một lời bào chữa.

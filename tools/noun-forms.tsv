@@ -1,0 +1,3914 @@
+# Reviewed noun number in the supplied senses. word	status	head token index	plurals (comma separated).
+# Mass and lexical plurals do not acquire guessed -s forms. Frozen offline; review additions explicitly.
+A/B test	countable	1	A/B tests
+API gateway	countable	1	API gateways
+N+1 query	countable	1	N+1 queries
+abandon	mass	0	
+absence	countable	0	absences
+abstract	countable	0	abstracts
+abstraction	countable	0	abstractions
+abstraction layer	countable	1	abstraction layers
+absurd	mass	0	
+abuse	countable	0	abuses
+abuse monitoring	mass	1	
+academy	countable	0	academies
+accent	countable	0	accents
+acceptance	mass	0	
+acceptance test	countable	1	acceptance tests
+acceptance testing	mass	1	
+access	mass	0	
+access control	mass	1	
+accessibility	mass	0	
+accommodation	mass	0	
+accountant	countable	0	accountants
+accounting estimate	countable	1	accounting estimates
+accounting period	countable	1	accounting periods
+accounting policy	countable	1	accounting policies
+accrual accounting	mass	1	
+accuracy	mass	0	
+accusation	countable	0	accusations
+ache	countable	0	aches
+achievement	countable	0	achievements
+acid	countable	0	acids
+acquisition	countable	0	acquisitions
+acquisition target	countable	1	acquisition targets
+act	countable	0	acts
+action item	countable	1	action items
+action plan	countable	1	action plans
+activation function	countable	1	activation functions
+active noise cancellation	mass	2	
+adaptive sync	mass	1	
+addict	countable	0	addicts
+addiction	countable	0	addictions
+additive	countable	0	additives
+address	countable	0	addresses
+address resolution	mass	1	
+adjusting entry	countable	1	adjusting entries
+adjustment	countable	0	adjustments
+administration	countable	0	administrations
+admiration	mass	0	
+admission	countable	0	admissions
+adoption	countable	0	adoptions
+adult	countable	0	adults
+advance	countable	0	advances
+advanced packaging	mass	1	
+advancement	countable	0	advancements
+advantage	countable	0	advantages
+advent	mass	0	
+adversarial testing	mass	1	
+advisor	countable	0	advisors
+advocate	countable	0	advocates
+affair	countable	0	affairs
+affect	mass	0	
+affection	mass	0	
+agency	countable	0	agencies
+agenda	countable	0	agendas
+agent workflow	countable	1	agent workflows
+aggregate	countable	0	aggregates
+aggregate root	countable	1	aggregate roots
+agony	countable	0	agonies
+agriculture	mass	0	
+aid	countable	0	aids
+aircraft	invariant	0	aircraft
+airline	countable	0	airlines
+alarm	countable	0	alarms
+alert fatigue	mass	1	
+alert suppression	mass	1	
+alert threshold	countable	1	alert thresholds
+algorithm	countable	0	algorithms
+alien	countable	0	aliens
+alignment	countable	0	alignments
+allowance	countable	0	allowances
+ally	countable	0	allies
+alteration	countable	0	alterations
+alternate	countable	0	alternates
+alternative	countable	0	alternatives
+altitude	countable	0	altitudes
+amateur	countable	0	amateurs
+ambassador	countable	0	ambassadors
+ambient occlusion	mass	1	
+ambiguity	countable	0	ambiguities
+ambition	countable	0	ambitions
+ambulance	countable	0	ambulances
+amortization	mass	0	
+amplifier	countable	0	amplifiers
+analogy	countable	0	analogies
+analysis	countable	0	analyses
+analyst	countable	0	analysts
+ancestor	countable	0	ancestors
+anchor	countable	0	anchors
+anchorage	countable	0	anchorages
+angel investor	countable	1	angel investors
+anger	mass	0	
+angle	countable	0	angles
+animation	countable	0	animations
+anisotropic filtering	mass	1	
+anniversary	countable	0	anniversaries
+annotation	countable	0	annotations
+announcement	countable	0	announcements
+annual	countable	0	annuals
+annual recurring revenue	countable	2	annual recurring revenues
+annual report	countable	1	annual reports
+anomaly	countable	0	anomalies
+anonymity	mass	0	
+antenna array	countable	1	antenna arrays
+anti corruption layer	countable	2	anti corruption layers
+anti reflective coating	mass	2	
+anticipation	mass	0	
+antitrust investigation	countable	1	antitrust investigations
+antitrust lawsuit	countable	1	antitrust lawsuits
+anxiety	countable	0	anxieties
+apology	countable	0	apologies
+apparatus	countable	0	apparatuses
+appeal	countable	0	appeals
+appendix	countable	0	appendixes,appendices
+appetite	countable	0	appetites
+appliance	countable	0	appliances
+applicant	countable	0	applicants
+application	countable	0	applications
+application layer	countable	1	application layers
+appraisal	countable	0	appraisals
+appreciation	mass	0	
+apprenticeship	countable	0	apprenticeships
+approach	countable	0	approaches
+approval	mass	0	
+arbitrage	mass	0	
+architectural decision record	countable	2	architectural decision records
+archive	countable	0	archives
+area	countable	0	areas
+arena	countable	0	arenas
+arms	lexical_plural	0	
+arrangement	countable	0	arrangements
+arrival	countable	0	arrivals
+arrow	countable	0	arrows
+artefact	countable	0	artefacts
+artifact	countable	0	artifacts
+artifact registry	countable	1	artifact registries
+artificial intelligence	mass	1	
+artwork	countable	0	artworks
+aside	countable	0	asides
+aspect	countable	0	aspects
+aspect ratio	countable	1	aspect ratios
+aspiration	countable	0	aspirations
+assault	countable	0	assaults
+assembly	countable	0	assemblies
+assertion	countable	0	assertions
+assessment	countable	0	assessments
+assessor	countable	0	assessors
+asset	countable	0	assets
+asset allocation	mass	1	
+asset turnover	mass	1	
+assignment	countable	0	assignments
+assist	countable	0	assists
+assistance	mass	0	
+associate	countable	0	associates
+association	countable	0	associations
+assumption	countable	0	assumptions
+assurance	countable	0	assurances
+asymmetric encryption	mass	1	
+asynchronous execution	mass	1	
+athlete	countable	0	athletes
+athletics	mass	0	
+atmosphere	countable	0	atmospheres
+atomic operation	countable	1	atomic operations
+attachment	countable	0	attachments
+attack surface	countable	1	attack surfaces
+attack vector	countable	1	attack vectors
+attainment	countable	0	attainments
+attempt	countable	0	attempts
+attendance	countable	0	attendances
+attention mechanism	countable	1	attention mechanisms
+attitude	countable	0	attitudes
+attraction	countable	0	attractions
+attribute	countable	0	attributes
+attribute based access control	mass	3	
+auction	countable	0	auctions
+audience	countable	0	audiences
+audio	countable	0	audios
+audio compression	mass	1	
+audit	countable	0	audits
+audit committee	countable	1	audit committees
+audit trail	countable	1	audit trails
+auditing	mass	0	
+audition	countable	0	auditions
+austerity	mass	0	
+authenticated encryption	mass	1	
+authentication	mass	0	
+author	countable	0	authors
+authority	countable	0	authorities
+authorization	countable	0	authorizations
+automated evaluation	countable	1	automated evaluations
+automation	mass	0	
+autoregressive model	countable	1	autoregressive models
+autoscaling	mass	0	
+availability	mass	0	
+availability zone	countable	1	availability zones
+avenue	countable	0	avenues
+average frame rate	countable	2	average frame rates
+awareness	mass	0	
+awe	mass	0	
+axis	countable	0	axes
+backend	countable	0	backends
+backlight bleed	mass	1	
+backlog	countable	0	backlogs
+backpacking	mass	0	
+backpressure	mass	0	
+backpropagation	mass	0	
+backup	countable	0	backups
+backward compatibility	mass	1	
+backyard	countable	0	backyards
+bacterium	countable	0	bacteria
+badge	countable	0	badges
+balance	countable	0	balances
+balance sheet	countable	1	balance sheets
+balanced diet	countable	1	balanced diets
+ballet	countable	0	ballets
+balloon	countable	0	balloons
+ballot	countable	0	ballots
+bandwidth	mass	0	
+bandwidth allocation	mass	1	
+bandwidth constraint	countable	1	bandwidth constraints
+bank reconciliation	mass	1	
+banker	countable	0	bankers
+bankruptcy	countable	0	bankruptcies
+bargain	countable	0	bargains
+bark	mass	0	
+barrier	countable	0	barriers
+base clock	countable	1	base clocks
+baseline	countable	0	baselines
+basement	countable	0	basements
+basis	countable	0	bases
+basket	countable	0	baskets
+bat	countable	0	bats
+batch	countable	0	batches
+batch processing	mass	1	
+batch size	countable	1	batch sizes
+battery capacity	countable	1	battery capacities
+battery degradation	mass	1	
+battery endurance	mass	1	
+beam	countable	0	beams
+beamforming technology	countable	1	beamforming technologies
+bearing	countable	0	bearings
+behalf	mass	0	
+being	countable	0	beings
+belief	countable	0	beliefs
+belongings	lexical_plural	0	
+benchmark	countable	0	benchmarks
+benchmark contamination	mass	1	
+benchmark index	countable	1	benchmark indexes,benchmark indices
+benchmark score	countable	1	benchmark scores
+benchmark suite	countable	1	benchmark suites
+benefit	countable	0	benefits
+bent	countable	0	bents
+berry	countable	0	berries
+best practice	countable	1	best practices
+bet	countable	0	bets
+beta release	countable	1	beta releases
+bias	countable	0	biases
+bid	countable	0	bids
+bidding	mass	0	
+billion	countable	0	billions
+binary	countable	0	binaries
+binder	countable	0	binders
+binding	countable	0	bindings
+biodiversity	mass	0	
+biometric	countable	0	biometrics
+blade	countable	0	blades
+blame	mass	0	
+blanket	countable	0	blankets
+blast	countable	0	blasts
+blast radius	countable	1	blast radii,blast radiuses
+blaze	countable	0	blazes
+blend	countable	0	blends
+blind	mass	0	
+blind evaluation	countable	1	blind evaluations
+blink	countable	0	blinks
+block storage	mass	1	
+blocker	countable	0	blockers
+blue-green deployment	countable	1	blue-green deployments
+bluetooth codec	countable	1	bluetooth codecs
+blur	countable	0	blurs
+board committee	countable	1	board committees
+board of directors	countable	0	boards of directors
+board resolution	countable	1	board resolutions
+boarding	mass	0	
+boilerplate	mass	0	
+boilerplate code	mass	1	
+boiling	mass	0	
+bold	mass	0	
+bolt	countable	0	bolts
+bond	countable	0	bonds
+bonus	countable	0	bonuses
+booking	countable	0	bookings
+booklet	countable	0	booklets
+boost	countable	0	boosts
+boost clock	countable	1	boost clocks
+booth	countable	0	booths
+bootloader	countable	0	bootloaders
+bother	countable	0	bothers
+bottleneck	countable	0	bottlenecks
+bottleneck resource	countable	1	bottleneck resources
+bound	countable	0	bounds
+boundary	countable	0	boundaries
+boundary value analysis	countable	2	boundary value analyses
+bounded context	countable	1	bounded contexts
+bourbon	countable	0	bourbons
+bow	countable	0	bows
+boxer	countable	0	boxers
+brag	countable	0	brags
+branch	countable	0	branches
+branch coverage	mass	1	
+branch misprediction	countable	1	branch mispredictions
+branch prediction	countable	1	branch predictions
+brand awareness	mass	1	
+brand equity	mass	1	
+brand identity	countable	1	brand identities
+brand loyalty	countable	1	brand loyalties
+brand positioning	mass	1	
+bravery	mass	0	
+breach	countable	0	breaches
+breadwinner	countable	0	breadwinners
+break even point	countable	2	break even points
+breakdown	countable	0	breakdowns
+breaking change	countable	1	breaking changes
+breakout room	countable	1	breakout rooms
+breakpoint	countable	0	breakpoints
+breakthrough	countable	0	breakthroughs
+breakup	countable	0	breakups
+breast	countable	0	breasts
+breath	countable	0	breaths
+breed	countable	0	breeds
+bribe	countable	0	bribes
+bribery	mass	0	
+brick	countable	0	bricks
+brief	countable	0	briefs
+broadcast	countable	0	broadcasts
+broadcaster	countable	0	broadcasters
+brochure	countable	0	brochures
+browse	mass	0	
+browser	countable	0	browsers
+bud	countable	0	buds
+budget	countable	0	budgets
+budget airline	countable	1	budget airlines
+budget cut	countable	1	budget cuts
+buffer	countable	0	buffers
+buffer overflow	countable	1	buffer overflows
+bug	countable	0	bugs
+build artifact	countable	1	build artifacts
+build pipeline	countable	1	build pipelines
+build reproducibility	mass	1	
+bulk	mass	0	
+bulkhead	countable	0	bulkheads
+bum	countable	0	bums
+bump	countable	0	bumps
+bunch	countable	0	bunches
+bundle	countable	0	bundles
+burden	countable	0	burdens
+bureaucracy	countable	0	bureaucracies
+burglary	countable	0	burglaries
+burn rate	countable	1	burn rates
+burnout	countable	0	burnouts
+burst	countable	0	bursts
+bus	countable	0	buses
+bush	countable	0	bushes
+business case	countable	1	business cases
+business continuity	mass	1	
+business divestiture	countable	1	business divestitures
+business ecosystem	countable	1	business ecosystems
+business incubator	countable	1	business incubators
+business model	countable	1	business models
+business plan	countable	1	business plans
+business process	countable	1	business processes
+business strategy	countable	1	business strategies
+business transformation	countable	1	business transformations
+busy waiting	mass	1	
+butcher	countable	0	butchers
+buy-in	mass	0	
+buyer persona	countable	1	buyer personas
+buyout	countable	0	buyouts
+buzz	countable	0	buzzes
+cabin	countable	0	cabins
+cabinet	countable	0	cabinets
+cable	countable	0	cables
+cache	countable	0	caches
+cache hit	countable	1	cache hits
+cache hit ratio	countable	2	cache hit ratios
+cache invalidation	mass	1	
+cache line	countable	1	cache lines
+cache miss	countable	1	cache misses
+callback	countable	0	callbacks
+calorie	countable	0	calories
+camera sensor	countable	1	camera sensors
+campaign	countable	0	campaigns
+canal	countable	0	canals
+canary	countable	0	canaries
+canary release	countable	1	canary releases
+cancel	countable	0	cancels
+cancellation token	countable	1	cancellation tokens
+cancer	countable	0	cancers
+candidate	countable	0	candidates
+candle	countable	0	candles
+cane	countable	0	canes
+canon	countable	0	canons
+capability	countable	0	capabilities
+capacity	countable	0	capacities
+capacity forecast	countable	1	capacity forecasts
+capacity headroom	mass	1	
+capacity planning	mass	1	
+capacity utilization	mass	1	
+capital gains tax	countable	2	capital gains taxes
+capital punishment	mass	1	
+capital structure	countable	1	capital structures
+capitalization	countable	0	capitalizations
+caption	countable	0	captions
+captive	countable	0	captives
+caravan	countable	0	caravans
+carbon	countable	0	carbons
+cardboard	mass	0	
+cardinality	countable	0	cardinalities
+career	countable	0	careers
+caregiver	countable	0	caregivers
+caring	mass	0	
+carnival	countable	0	carnivals
+cascade	countable	0	cascades
+cash balance	countable	1	cash balances
+cash basis accounting	mass	2	
+cash conversion cycle	countable	2	cash conversion cycles
+cash dividend	countable	1	cash dividends
+cash flow	countable	1	cash flows
+cash flow statement	countable	2	cash flow statements
+cash forecast	countable	1	cash forecasts
+cash management	mass	1	
+cash pooling	mass	1	
+cash ratio	countable	1	cash ratios
+cash reserve	countable	1	cash reserves
+cash runway	countable	1	cash runways
+cast	countable	0	casts
+catalogue	countable	0	catalogues
+category	countable	0	categories
+cathedral	countable	0	cathedrals
+caution	countable	0	cautions
+cave	countable	0	caves
+cc	countable	0	ccs
+ceiling	countable	0	ceilings
+cell	countable	0	cells
+cellular modem	countable	1	cellular modems
+censorship	mass	0	
+ceremony	countable	0	ceremonies
+certainty	countable	0	certainties
+certificate	countable	0	certificates
+certificate authority	countable	1	certificate authorities
+certificate chain	countable	1	certificate chains
+certificate pinning	mass	1	
+certificate revocation	mass	1	
+certificate validation	mass	1	
+certification	countable	0	certifications
+chain of thought	countable	0	chains of thought
+chairman	countable	0	chairmen
+challenge	countable	0	challenges
+challenger	countable	0	challengers
+championship	countable	0	championships
+change data capture	countable	2	change data captures
+change management	mass	1	
+change readiness	mass	1	
+changelog	countable	0	changelogs
+changelog entry	countable	1	changelog entries
+channel	countable	0	channels
+channel partner	countable	1	channel partners
+channel width	countable	1	channel widths
+chaos engineering	mass	1	
+chapter	countable	0	chapters
+characteristic	countable	0	characteristics
+charge	countable	0	charges
+charging cycle	countable	1	charging cycles
+charging wattage	mass	1	
+charity	countable	0	charities
+charm	countable	0	charms
+chart	countable	0	charts
+chase	countable	0	chases
+checkpoint	countable	0	checkpoints
+checkpointing	mass	0	
+cheek	countable	0	cheeks
+cheer	countable	0	cheers
+chemical	countable	0	chemicals
+cherry	countable	0	cherries
+chew	countable	0	chews
+chief	countable	0	chiefs
+chimney	countable	0	chimneys
+chip interconnect	countable	1	chip interconnects
+chip packaging	mass	1	
+chiplet	countable	0	chiplets
+chiplet design	countable	1	chiplet designs
+choir	countable	0	choirs
+chop	countable	0	chops
+chunk	countable	0	chunks
+churn	mass	0	
+cipher	countable	0	ciphers
+circuit	countable	0	circuits
+circuit breaker	countable	1	circuit breakers
+circumstance	countable	0	circumstances
+citizen	countable	0	citizens
+class action	countable	1	class actions
+class imbalance	countable	1	class imbalances
+classic	countable	0	classics
+classification	countable	0	classifications
+clause	countable	0	clauses
+clean architecture	countable	1	clean architectures
+clerk	countable	0	clerks
+client	countable	0	clients
+cliff	countable	0	cliffs
+climb	countable	0	climbs
+clinic	countable	0	clinics
+clinical trial	countable	1	clinical trials
+clip	countable	0	clips
+clock speed	countable	1	clock speeds
+closing balance	countable	1	closing balances
+closing entry	countable	1	closing entries
+closure	countable	0	closures
+clothing	mass	0	
+cloud computing	mass	1	
+cloud region	countable	1	cloud regions
+cluster	countable	0	clusters
+cluster autoscaler	countable	1	cluster autoscalers
+coaching	mass	0	
+coastline	countable	0	coastlines
+cocktail	countable	0	cocktails
+cocoa	mass	0	
+coconut	countable	0	coconuts
+code	mass	0	
+code coverage	mass	1	
+code of conduct	mass	2	
+code review	countable	1	code reviews
+code smell	countable	1	code smells
+coding benchmark	countable	1	coding benchmarks
+coeducation	mass	0	
+coherence	mass	0	
+cohesion	mass	0	
+cohort	countable	0	cohorts
+coincidence	countable	0	coincidences
+cold start	countable	1	cold starts
+collar	countable	0	collars
+collateralization	mass	0	
+colleague	countable	0	colleagues
+collective	countable	0	collectives
+collector	countable	0	collectors
+colon	countable	0	colons
+colonial	countable	0	colonials
+colony	countable	0	colonies
+color accuracy	mass	1	
+color calibration	mass	1	
+color depth	countable	1	color depths
+color gamut	countable	1	color gamuts
+column	countable	0	columns
+columnar database	countable	1	columnar databases
+columnar storage	mass	1	
+comb	countable	0	combs
+combination	countable	0	combinations
+combinatorial testing	mass	1	
+combine	countable	0	combines
+comfort	countable	0	comforts
+command	countable	0	commands
+command query separation	mass	2	
+comment	countable	0	comments
+commentary	countable	0	commentaries
+commerce	mass	0	
+commercial	countable	0	commercials
+commission	countable	0	commissions
+commit history	countable	1	commit histories
+commitment	countable	0	commitments
+committee	countable	0	committees
+commodity	countable	0	commodities
+community	countable	0	communities
+community service	mass	1	
+commuter	countable	0	commuters
+compact	countable	0	compacts
+companion	countable	0	companions
+compare and swap	countable	2	compare and swaps
+comparison	countable	0	comparisons
+compassion	mass	0	
+compatibility	mass	0	
+compensation	countable	0	compensations
+competence	countable	0	competences
+competition authority	countable	1	competition authorities
+competitive advantage	countable	1	competitive advantages
+competitive analysis	countable	1	competitive analyses
+competitor	countable	0	competitors
+compilation	countable	0	compilations
+compiler	countable	0	compilers
+complement	countable	0	complements
+completion	countable	0	completions
+complex	countable	0	complexes
+complexity	countable	0	complexities
+compliance	mass	0	
+compliance officer	countable	1	compliance officers
+component	countable	0	components
+component coupling	mass	1	
+composer	countable	0	composers
+composite index	countable	1	composite indexes,composite indices
+composite key	countable	1	composite keys
+composition root	countable	1	composition roots
+composting	mass	0	
+compound	countable	0	compounds
+comprehension	mass	0	
+comprehensive	countable	0	comprehensives
+compression	mass	0	
+compromise	countable	0	compromises
+computational photography	mass	1	
+compute shader	countable	1	compute shaders
+computing	mass	0	
+concentrate	countable	0	concentrates
+concentration	countable	0	concentrations
+concept	countable	0	concepts
+concept drift	mass	1	
+concern	countable	0	concerns
+concession	countable	0	concessions
+conclusion	countable	0	conclusions
+concurrency	mass	0	
+condition variable	countable	1	condition variables
+conditional	countable	0	conditionals
+conduct	mass	0	
+conductor	countable	0	conductors
+conference	countable	0	conferences
+conference call	countable	1	conference calls
+confidence	countable	0	confidences
+configuration	countable	0	configurations
+confirmation	countable	0	confirmations
+conflict	countable	0	conflicts
+conflict of interest	countable	0	conflicts of interest
+confusion	mass	0	
+confusion matrix	countable	1	confusion matrices
+congestion	mass	0	
+connection	countable	0	connections
+connection pool	countable	1	connection pools
+connection timeout	countable	1	connection timeouts
+connectivity	mass	0	
+conscience	countable	0	consciences
+consciousness	mass	0	
+consensus	countable	0	consensuses
+consent	mass	0	
+consent form	countable	1	consent forms
+consequence	countable	0	consequences
+conservation	mass	0	
+consideration	countable	0	considerations
+consistent hashing	mass	1	
+consolation	countable	0	consolations
+console	countable	0	consoles
+constant	countable	0	constants
+constraint	countable	0	constraints
+construct	countable	0	constructs
+construction	countable	0	constructions
+consultant	countable	0	consultants
+consulting	mass	0	
+consumer protection	mass	1	
+consumerism	mass	0	
+consumption	mass	0	
+container	countable	0	containers
+container cluster	countable	1	container clusters
+container image	countable	1	container images
+container orchestration	mass	1	
+container port	countable	1	container ports
+container registry	countable	1	container registries
+container runtime	countable	1	container runtimes
+contemporary	countable	0	contemporaries
+contempt	mass	0	
+content	mass	0	
+content moderation	mass	1	
+contest	countable	0	contests
+context	countable	0	contexts
+context length	countable	1	context lengths
+context window	countable	1	context windows
+contingency	countable	0	contingencies
+contingency plan	countable	1	contingency plans
+continuous delivery	mass	1	
+continuous deployment	mass	1	
+continuous improvement	mass	1	
+continuous integration	mass	1	
+contract	countable	0	contracts
+contract testing	mass	1	
+contractor	countable	0	contractors
+contradiction	countable	0	contradictions
+contrast	countable	0	contrasts
+contrast ratio	countable	1	contrast ratios
+contribution	countable	0	contributions
+control flow graph	countable	2	control flow graphs
+controversy	countable	0	controversies
+convenience	countable	0	conveniences
+convenience food	mass	1	
+convention	countable	0	conventions
+converse	countable	0	converses
+conversion	countable	0	conversions
+conversion rate	countable	1	conversion rates
+convert	countable	0	converts
+convertible	countable	0	convertibles
+convict	countable	0	convicts
+cooling fan	countable	1	cooling fans
+cooperation	mass	0	
+cooperative	countable	0	cooperatives
+cooperative scheduling	mass	1	
+coordinate	countable	0	coordinates
+copper	countable	0	coppers
+copyright infringement	countable	1	copyright infringements
+core	countable	0	cores
+core competency	countable	1	core competencies
+core count	mass	1	
+corporate disclosure	mass	1	
+corporate governance	mass	1	
+corporate income tax	countable	2	corporate income taxes
+corporate restructuring	mass	1	
+corporate spin off	countable	2	corporate spin offs
+corporate strategy	countable	1	corporate strategies
+corporation	countable	0	corporations
+corrective action	countable	1	corrective actions
+correctness	mass	0	
+correlation	countable	0	correlations
+correlation id	countable	1	correlation ids
+correspondence	countable	0	correspondences
+correspondent	countable	0	correspondents
+corridor	countable	0	corridors
+corruption	mass	0	
+cost of capital	mass	2	
+cost of debt	mass	2	
+cost of equity	mass	2	
+cost of living	mass	2	
+costume	countable	0	costumes
+cottage	countable	0	cottages
+cough	countable	0	coughs
+council	countable	0	councils
+counter	countable	0	counters
+counting semaphore	countable	1	counting semaphores
+county	countable	0	counties
+couple	countable	0	couples
+coupling	countable	0	couplings
+courage	mass	0	
+courtesy	mass	0	
+coverage	mass	0	
+coverage gap	countable	1	coverage gaps
+covering index	countable	1	covering indexes,covering indices
+craft	countable	0	crafts
+craftsmanship	mass	0	
+crash	countable	0	crashes
+crater	countable	0	craters
+crawl	mass	0	
+creation	countable	0	creations
+creativity	mass	0	
+creature	countable	0	creatures
+credential	countable	0	credentials
+credit	countable	0	credits
+crew	countable	0	crews
+crime	countable	0	crimes
+crime rate	countable	1	crime rates
+crisis	countable	0	crises
+criteria	existing_plural	0	
+criterion	countable	0	criteria
+critic	countable	0	critics
+critical path	countable	1	critical paths
+critical section	countable	1	critical sections
+criticism	countable	0	criticisms
+cron	countable	0	crons
+crop	countable	0	crops
+cross attention	mass	1	
+cross platform support	mass	2	
+cross selling	mass	1	
+cross validation	mass	1	
+cross-site scripting	mass	1	
+crossroads	invariant	0	crossroads
+cruise	countable	0	cruises
+crush	countable	0	crushes
+cryptographic hash	countable	1	cryptographic hashes
+cue	countable	0	cues
+cuff	countable	0	cuffs
+cuisine	countable	0	cuisines
+cultural exchange	countable	1	cultural exchanges
+culture	countable	0	cultures
+culture shock	mass	1	
+cure	countable	0	cures
+curiosity	countable	0	curiosities
+curl	countable	0	curls
+currency	countable	0	currencies
+currency exposure	mass	1	
+current	countable	0	currents
+current ratio	countable	1	current ratios
+curriculum	countable	0	curricula,curriculums
+curve	countable	0	curves
+custody	mass	0	
+customer acquisition cost	countable	2	customer acquisition costs
+customer lifetime value	countable	2	customer lifetime values
+customs	lexical_plural	0	
+cutlery	mass	0	
+cutover	countable	0	cutovers
+cybersecurity	mass	0	
+cycle	countable	0	cycles
+cycle lane	countable	1	cycle lanes
+cycle time	countable	1	cycle times
+cyclist	countable	0	cyclists
+cyclomatic complexity	countable	1	cyclomatic complexities
+daemon	countable	0	daemons
+dairy	countable	0	dairies
+damage	mass	0	
+dangling pointer	countable	1	dangling pointers
+dark launch	countable	1	dark launches
+darkness	mass	0	
+darling	countable	0	darlings
+dash	countable	0	dashes
+dashboard	countable	0	dashboards
+data	mass	0	
+data cache	countable	1	data caches
+data catalog	countable	1	data catalogs
+data cleansing	mass	1	
+data consent	mass	1	
+data deduplication	mass	1	
+data governance	mass	1	
+data ingestion	mass	1	
+data lake	countable	1	data lakes
+data lakehouse	countable	1	data lakehouses
+data leakage	mass	1	
+data lineage	mass	1	
+data mart	countable	1	data marts
+data normalization	mass	1	
+data partitioning	mass	1	
+data pipeline	countable	1	data pipelines
+data provenance	mass	1	
+data quality	countable	1	data qualities
+data race	countable	1	data races
+data replication	countable	1	data replications
+data retention	mass	1	
+data sharding	mass	1	
+data transformation	countable	1	data transformations
+data warehouse	countable	1	data warehouses
+database	countable	0	databases
+database schema	countable	1	database schemas
+database trigger	countable	1	database triggers
+database view	countable	1	database views
+dawn	countable	0	dawns
+daytime	mass	0	
+dead letter queue	countable	2	dead letter queues
+deadline	countable	0	deadlines
+deadlock	countable	0	deadlocks
+deal	countable	0	deals
+dealer	countable	0	dealers
+debate	countable	0	debates
+debit	countable	0	debits
+debt	countable	0	debts
+debt to equity ratio	countable	3	debt to equity ratios
+decade	countable	0	decades
+deck	countable	0	decks
+declaration	countable	0	declarations
+decoration	countable	0	decorations
+decrease	countable	0	decreases
+dedication	countable	0	dedications
+deduction	countable	0	deductions
+deep learning	mass	1	
+default route	countable	1	default routes
+defeat	countable	0	defeats
+defect	countable	0	defects
+defence	countable	0	defences
+defender	countable	0	defenders
+defense in depth	mass	2	
+deficit	countable	0	deficits
+deforestation	mass	0	
+delay	countable	0	delays
+delegate	countable	0	delegates
+delisting	mass	0	
+deliverable	countable	0	deliverables
+delivery	countable	0	deliveries
+demand	countable	0	demands
+democracy	countable	0	democracies
+demonstration	countable	0	demonstrations
+denim	mass	0	
+dense model	countable	1	dense models
+department	countable	0	departments
+departure	countable	0	departures
+dependency	countable	0	dependencies
+dependency chain	countable	1	dependency chains
+dependency graph	countable	1	dependency graphs
+dependency injection	countable	1	dependency injections
+dependency inversion	countable	1	dependency inversions
+dependency pinning	mass	1	
+dependency resolution	countable	1	dependency resolutions
+dependent	countable	0	dependents
+deployment manifest	countable	1	deployment manifests
+deployment rollback	countable	1	deployment rollbacks
+deployment slot	countable	1	deployment slots
+deposit	countable	0	deposits
+deprecation notice	countable	1	deprecation notices
+depreciation	mass	0	
+depression	countable	0	depressions
+depth	countable	0	depths
+deputy	countable	0	deputies
+derivative	countable	0	derivatives
+descendant	countable	0	descendants
+deserialization	mass	0	
+desertification	mass	0	
+design	countable	0	designs
+design pattern	countable	1	design patterns
+designer	countable	0	designers
+desire	countable	0	desires
+desktop	countable	0	desktops
+destination	countable	0	destinations
+destiny	countable	0	destinies
+destruction	mass	0	
+detachment	mass	0	
+detector	countable	0	detectors
+determination	countable	0	determinations
+deterrence	mass	0	
+deterrent	countable	0	deterrents
+developer preview	countable	1	developer previews
+developing	mass	0	
+device	countable	0	devices
+devil	countable	0	devils
+diagnosis	countable	0	diagnoses
+dial	countable	0	dials
+dialect	countable	0	dialects
+die	countable	0	dies
+die size	countable	1	die sizes
+die stacking	mass	1	
+diffusion model	countable	1	diffusion models
+dig	countable	0	digs
+digest	countable	0	digests
+digestion	mass	0	
+digital forensics	mass	1	
+digital signature	countable	1	digital signatures
+digital transformation	countable	1	digital transformations
+digital zoom	mass	1	
+dignity	mass	0	
+dilemma	countable	0	dilemmas
+dilution	mass	0	
+dime	countable	0	dimes
+dimension	countable	0	dimensions
+dip	countable	0	dips
+diploma	countable	0	diplomas
+direct memory access	mass	2	
+dirty read	countable	1	dirty reads
+disability	countable	0	disabilities
+disagreement	countable	0	disagreements
+disappearance	countable	0	disappearances
+disappointment	countable	0	disappointments
+disapproval	mass	0	
+disaster recovery	countable	1	disaster recoveries
+disc	countable	0	discs
+discharge	countable	0	discharges
+discipline	countable	0	disciplines
+disconnect	countable	0	disconnects
+discounted cash flow	mass	2	
+discovery	countable	0	discoveries
+discrete graphics	mass	1	
+discrimination	mass	0	
+disgrace	mass	0	
+disguise	countable	0	disguises
+disorder	countable	0	disorders
+dispatch	countable	0	dispatches
+display	countable	0	displays
+display connector	countable	1	display connectors
+display panel	countable	1	display panels
+display resolution	countable	1	display resolutions
+disposable income	mass	1	
+disposal	mass	0	
+disposition	countable	0	dispositions
+dispute	countable	0	disputes
+disregard	mass	0	
+dissatisfaction	mass	0	
+dissertation	countable	0	dissertations
+distance	countable	0	distances
+distillation	mass	0	
+distinction	countable	0	distinctions
+distortion	countable	0	distortions
+distraction	countable	0	distractions
+distributed tracing	mass	1	
+distribution	countable	0	distributions
+distributor	countable	0	distributors
+district	countable	0	districts
+disturbance	countable	0	disturbances
+dive	countable	0	dives
+diversion	countable	0	diversions
+diversity	mass	0	
+divestiture	countable	0	divestitures
+divide	countable	0	divides
+dividend	countable	0	dividends
+dividend payout ratio	countable	2	dividend payout ratios
+dividend yield	countable	1	dividend yields
+division	countable	0	divisions
+divorce	countable	0	divorces
+dock	countable	0	docks
+document	countable	0	documents
+document chunking	mass	1	
+document database	countable	1	document databases
+documentation	mass	0	
+domain	countable	0	domains
+domain driven design	countable	2	domain driven designs
+domain name system	countable	2	domain name systems
+donation	countable	0	donations
+donor	countable	0	donors
+doom	mass	0	
+doorway	countable	0	doorways
+doping	mass	0	
+dose	countable	0	doses
+dot	countable	0	dots
+double	countable	0	doubles
+double entry bookkeeping	mass	2	
+double taxation	mass	1	
+doubt	countable	0	doubts
+downfall	countable	0	downfalls
+downtime	mass	0	
+downtown	countable	0	downtowns
+dozen	countable	0	dozens
+draft	countable	0	drafts
+drafting	mass	0	
+drag	countable	0	drags
+drama	countable	0	dramas
+drift	mass	0	
+driver	countable	0	drivers
+drop	countable	0	drops
+drought	countable	0	droughts
+dry run	countable	1	dry runs
+dual channel memory	mass	2	
+due date	countable	1	due dates
+dump	countable	0	dumps
+duplicate	countable	0	duplicates
+duplication	mass	0	
+duration	countable	0	durations
+duty	countable	0	duties
+dwarf	countable	0	dwarfs
+dye	countable	0	dyes
+dynamic	countable	0	dynamics
+dynamic dispatch	mass	1	
+dynamic random access memory	mass	3	
+dynamic routing	mass	1	
+eager loading	mass	1	
+eagle	countable	0	eagles
+early access	mass	1	
+earnings	lexical_plural	0	
+earnings call	countable	1	earnings calls
+earnings guidance	mass	1	
+earnings per share	mass	2	
+earnings report	countable	1	earnings reports
+ease	mass	0	
+economics	mass	0	
+economist	countable	0	economists
+economy	countable	0	economies
+ecosystem	countable	0	ecosystems
+ecosystem lock in	countable	2	ecosystem lock ins
+ecotourism	mass	0	
+edge	countable	0	edges
+edge case	countable	1	edge cases
+edible	countable	0	edibles
+editing	mass	0	
+edition	countable	0	editions
+educator	countable	0	educators
+effectiveness	mass	0	
+efficiency core	countable	1	efficiency cores
+effort	countable	0	efforts
+elastic	countable	0	elastics
+elastic scaling	mass	1	
+elbow	countable	0	elbows
+elderly	mass	0	
+elect	mass	0	
+electrician	countable	0	electricians
+electronic image stabilization	mass	2	
+electronics	mass	0	
+elegance	mass	0	
+element	countable	0	elements
+elevator pitch	countable	1	elevator pitches
+elite	countable	0	elites
+embassy	countable	0	embassies
+embedded system	countable	1	embedded systems
+embedding	countable	0	embeddings
+emergence	mass	0	
+emergency	countable	0	emergencies
+emission	countable	0	emissions
+emotion	countable	0	emotions
+emphasis	countable	0	emphases
+employee	countable	0	employees
+employer	countable	0	employers
+employment	mass	0	
+empty	countable	0	empties
+emulator	countable	0	emulators
+encapsulation	mass	0	
+encoder decoder	countable	1	encoder decoders
+encounter	countable	0	encounters
+encryption	mass	0	
+encryption at rest	mass	2	
+encryption in transit	mass	2	
+end of life	mass	2	
+end of support	mass	2	
+end to end encryption	mass	3	
+end to end latency	countable	3	end to end latencies
+endeavor	countable	0	endeavors
+endeavour	countable	0	endeavours
+endpoint	countable	0	endpoints
+endpoint protection	mass	1	
+endurance	mass	0	
+energy	mass	0	
+enforcement	mass	0	
+engagement	countable	0	engagements
+engineering	mass	0	
+enquiry	countable	0	enquiries
+enterprise	countable	0	enterprises
+enterprise value	countable	1	enterprise values
+enthusiasm	countable	0	enthusiasms
+entity	countable	0	entities
+entity relationship	countable	1	entity relationships
+entrepreneur	countable	0	entrepreneurs
+entropy	mass	0	
+entry level model	countable	2	entry level models
+envelope	countable	0	envelopes
+environment	countable	0	environments
+envy	mass	0	
+ephemeral storage	mass	1	
+epidemic	countable	0	epidemics
+equal	countable	0	equals
+equality	mass	0	
+equipment	mass	0	
+equity	mass	0	
+equity dilution	mass	1	
+equivalence partitioning	mass	1	
+equivalent	countable	0	equivalents
+era	countable	0	eras
+erosion	mass	0	
+error	countable	0	errors
+error budget	countable	1	error budgets
+error correcting memory	mass	2	
+eruption	countable	0	eruptions
+escalation	countable	0	escalations
+escrow	mass	0	
+essential	countable	0	essentials
+estate	countable	0	estates
+estimate	countable	0	estimates
+ethic	countable	0	ethics
+ethical concern	countable	1	ethical concerns
+ethics	existing_plural	0	
+ethnic minority	countable	1	ethnic minorities
+evacuation	mass	0	
+evaluation	countable	0	evaluations
+evaluation dataset	countable	1	evaluation datasets
+evaluation harness	countable	1	evaluation harnesses
+event sourcing	mass	1	
+eventual consistency	mass	1	
+evidence	mass	0	
+evolution	mass	0	
+ex dividend date	countable	2	ex dividend dates
+examination	countable	0	examinations
+excellence	mass	0	
+exception	countable	0	exceptions
+exception handling	mass	1	
+exchange	countable	0	exchanges
+exchange rate risk	countable	2	exchange rate risks
+exchange traded fund	countable	2	exchange traded funds
+excitement	mass	0	
+exclusion	countable	0	exclusions
+exclusive	countable	0	exclusives
+excursion	countable	0	excursions
+excuse	countable	0	excuses
+executive	countable	0	executives
+executive director	countable	1	executive directors
+exhaust	countable	0	exhausts
+exhaustion	mass	0	
+exhibit	countable	0	exhibits
+exile	mass	0	
+existence	countable	0	existences
+exit	countable	0	exits
+exit strategy	countable	1	exit strategies
+expansion	countable	0	expansions
+expectation	countable	0	expectations
+expected return	countable	1	expected returns
+expenditure	countable	0	expenditures
+expense	countable	0	expenses
+expense ratio	countable	1	expense ratios
+expense recognition	mass	1	
+expert	countable	0	experts
+expert routing	mass	1	
+expertise	mass	0	
+exploit	countable	0	exploits
+exploration	countable	0	explorations
+explorer	countable	0	explorers
+exponential backoff	mass	1	
+export	countable	0	exports
+exporter	countable	0	exporters
+exposure	mass	0	
+extended family	countable	1	extended families
+extension	countable	0	extensions
+extent	countable	0	extents
+external	countable	0	externals
+external audit	countable	1	external audits
+extract	countable	0	extracts
+fabric	countable	0	fabrics
+facility	countable	0	facilities
+factor	countable	0	factors
+factual accuracy	mass	1	
+faculty	countable	0	faculties
+fade	countable	0	fades
+failover	countable	0	failovers
+failure	countable	0	failures
+fair play	mass	1	
+faith	countable	0	faiths
+fake	countable	0	fakes
+fall	countable	0	falls
+fallback	countable	0	fallbacks
+false refusal	countable	1	false refusals
+fame	mass	0	
+famine	countable	0	famines
+fantasy	countable	0	fantasies
+fare	countable	0	fares
+fascination	mass	0	
+fast charging	mass	1	
+fault	countable	0	faults
+fault injection	countable	1	fault injections
+favour	countable	0	favours
+feather	countable	0	feathers
+feature	countable	0	features
+feature branch	countable	1	feature branches
+feature flag	countable	1	feature flags
+feature parity	mass	1	
+feature rollout	countable	1	feature rollouts
+feature toggle	countable	1	feature toggles
+fee	countable	0	fees
+feed forward network	countable	2	feed forward networks
+feedback	mass	0	
+feedback loop	countable	1	feedback loops
+fellow	countable	0	fellows
+fever	countable	0	fevers
+fiber	countable	0	fibers
+fiduciary duty	countable	1	fiduciary duties
+figure	countable	0	figures
+file	countable	0	files
+filter	countable	0	filters
+final	countable	0	finals
+finance	mass	0	
+financial literacy	mass	1	
+finding	countable	0	findings
+fine tuning	mass	1	
+fireplace	countable	0	fireplaces
+firewall	countable	0	firewalls
+firmware	mass	0	
+fiscal year	countable	1	fiscal years
+fixture	countable	0	fixtures
+flagship device	countable	1	flagship devices
+flaky test	countable	1	flaky tests
+flame	countable	0	flames
+flash	countable	0	flashes
+flash controller	countable	1	flash controllers
+flash memory	mass	1	
+flavour	countable	0	flavours
+flaw	countable	0	flaws
+fleet	countable	0	fleets
+flesh	mass	0	
+flexibility	mass	0	
+flip	countable	0	flips
+fluctuation	countable	0	fluctuations
+focus	mass	0	
+fold	countable	0	folds
+foldable display	countable	1	foldable displays
+folding	mass	0	
+folklore	mass	0	
+follow-up	countable	0	follow-ups
+follower	countable	0	followers
+food security	mass	1	
+fool	countable	0	fools
+footnote	countable	0	footnotes
+footprint	countable	0	footprints
+forecast	countable	0	forecasts
+foreign exchange	mass	1	
+foreign key	countable	1	foreign keys
+foreman	countable	0	foremen
+format	countable	0	formats
+formation	countable	0	formations
+formula	countable	0	formulas,formulae
+fortune	countable	0	fortunes
+forum	countable	0	forums
+forward compatibility	mass	1	
+forward proxy	countable	1	forward proxies
+foundation	countable	0	foundations
+foundation model	countable	1	foundation models
+founder	countable	0	founders
+founder agreement	countable	1	founder agreements
+foundry	countable	0	foundries
+fox	countable	0	foxes
+fraction	countable	0	fractions
+fragment	countable	0	fragments
+frame generation	mass	1	
+frame pacing	mass	1	
+frame rate	countable	1	frame rates
+frame time	countable	1	frame times
+framework	countable	0	frameworks
+fraud	countable	0	frauds
+freak	countable	0	freaks
+free cash flow	mass	2	
+freedom	countable	0	freedoms
+freelance	countable	0	freelances
+frequency	countable	0	frequencies
+frequency band	countable	1	frequency bands
+friendly takeover	countable	1	friendly takeovers
+frontend	countable	0	frontends
+frontier	countable	0	frontiers
+fuel	countable	0	fuels
+fuel efficiency	mass	1	
+full table scan	countable	2	full table scans
+function	countable	0	functions
+function as a service	mass	0	
+function closure	countable	1	function closures
+functional cohesion	mass	1	
+functionality	countable	0	functionalities
+fund	countable	0	funds
+fundamental	countable	0	fundamentals
+funding	mass	0	
+funding gap	countable	1	funding gaps
+funding round	countable	1	funding rounds
+funk	countable	0	funks
+funnel	countable	0	funnels
+fuzz testing	mass	1	
+gadget	countable	0	gadgets
+gain	countable	0	gains
+gambling	mass	0	
+gaming	mass	0	
+gaming benchmark	countable	1	gaming benchmarks
+gang	countable	0	gangs
+gap	countable	0	gaps
+garbage collection	mass	1	
+gardener	countable	0	gardeners
+garment	countable	0	garments
+gasp	countable	0	gasps
+gateway	countable	0	gateways
+gauge	countable	0	gauges
+gaze	countable	0	gazes
+gear	countable	0	gears
+gender	countable	0	genders
+general availability	mass	1	
+general ledger	countable	1	general ledgers
+generalization ability	mass	1	
+generation	countable	0	generations
+generation gap	countable	1	generation gaps
+generic programming	mass	1	
+generosity	mass	0	
+genetics	mass	0	
+genius	countable	0	geniuses
+genre	countable	0	genres
+germ	countable	0	germs
+gesture	countable	0	gestures
+getaway	countable	0	getaways
+ghetto	countable	0	ghettos
+gig	countable	0	gigs
+glacier	countable	0	glaciers
+glee	mass	0	
+global illumination	mass	1	
+globalisation	mass	0	
+globe	countable	0	globes
+glossy finish	mass	1	
+glow	countable	0	glows
+go-live	countable	0	go-lives
+goal	countable	0	goals
+going concern	countable	1	going concerns
+goodwill	mass	0	
+gorge	countable	0	gorges
+gossip	countable	0	gossips
+gossip protocol	countable	1	gossip protocols
+governance	mass	0	
+grab	countable	0	grabs
+graceful degradation	mass	1	
+graceful shutdown	countable	1	graceful shutdowns
+grade	countable	0	grades
+gradient descent	mass	1	
+graduate	countable	0	graduates
+grant	countable	0	grants
+graph database	countable	1	graph databases
+graphic	countable	0	graphics
+graphics	existing_plural	0	
+graphics driver	countable	1	graphics drivers
+graphics pipeline	countable	1	graphics pipelines
+gratitude	mass	0	
+greenhouse	countable	0	greenhouses
+greeting	countable	0	greetings
+grid	countable	0	grids
+gridlock	mass	0	
+grief	mass	0	
+grin	countable	0	grins
+grip	countable	0	grips
+grocery	countable	0	groceries
+grooming	mass	0	
+gross margin	countable	1	gross margins
+gross profit	mass	1	
+grounded response	countable	1	grounded responses
+growth	mass	0	
+growth strategy	countable	1	growth strategies
+guarantee	countable	0	guarantees
+guided tour	countable	1	guided tours
+guideline	countable	0	guidelines
+gum	countable	0	gums
+habit	countable	0	habits
+habitat	mass	0	
+hacker	countable	0	hackers
+hail	mass	0	
+handicap	countable	0	handicaps
+handle	countable	0	handles
+handler	countable	0	handlers
+handoff	countable	0	handoffs
+handover	countable	0	handovers
+handover note	countable	1	handover notes
+handshake	countable	0	handshakes
+harbour	countable	0	harbours
+hard disk drive	countable	2	hard disk drives
+hardware	mass	0	
+hardware revision	countable	1	hardware revisions
+hardware security module	countable	2	hardware security modules
+harm	mass	0	
+harmful output	countable	1	harmful outputs
+hash collision	countable	1	hash collisions
+hashing	mass	0	
+hay	mass	0	
+headcount	countable	0	headcounts
+headline	countable	0	headlines
+headquarters	invariant	0	headquarters
+headroom	mass	0	
+heads-up	countable	0	heads-ups
+health probe	countable	1	health probes
+healthcare	mass	0	
+heap	countable	0	heaps
+hearing	countable	0	hearings
+heartbeat	countable	0	heartbeats
+heaven	countable	0	heavens
+hedge	countable	0	hedges
+hedge fund	countable	1	hedge funds
+hedging strategy	countable	1	hedging strategies
+heel	countable	0	heels
+helmet	countable	0	helmets
+herb	countable	0	herbs
+heritage	mass	0	
+hesitation	countable	0	hesitations
+heterogeneous computing	mass	1	
+hexagonal architecture	countable	1	hexagonal architectures
+hierarchy	countable	0	hierarchies
+high bandwidth memory	mass	2	
+high dynamic range	mass	2	
+higher order function	countable	2	higher order functions
+highlight	countable	0	highlights
+highway	countable	0	highways
+hinge mechanism	countable	1	hinge mechanisms
+hint	countable	0	hints
+hip	countable	0	hips
+hiring freeze	countable	1	hiring freezes
+hobby	countable	0	hobbies
+holder	countable	0	holders
+hollow	countable	0	hollows
+holocaust	countable	0	holocausts
+homeless	mass	0	
+homestay	countable	0	homestays
+honesty	mass	0	
+hood	countable	0	hoods
+hook	countable	0	hooks
+horizontal scaling	mass	1	
+hospitality	mass	0	
+hostel	countable	0	hostels
+hostile takeover	countable	1	hostile takeovers
+hot partition	countable	1	hot partitions
+hotfix	countable	0	hotfixes
+hotpath	countable	0	hotpaths
+household	countable	0	households
+household chore	countable	1	household chores
+housing	countable	0	housings
+human evaluation	countable	1	human evaluations
+human in the loop	mass	3	
+human oversight	mass	1	
+humour	mass	0	
+hunger	mass	0	
+hunting	mass	0	
+hush	mass	0	
+hybrid	countable	0	hybrids
+hybrid cloud	countable	1	hybrid clouds
+hygiene	mass	0	
+hyperparameter tuning	mass	1	
+hypervisor	countable	0	hypervisors
+hypothesis	countable	0	hypotheses
+icon	countable	0	icons
+idempotency key	countable	1	idempotency keys
+identification	mass	0	
+identity	countable	0	identities
+ideology	countable	0	ideologies
+idle power	mass	1	
+ignorance	mass	0	
+illness	countable	0	illnesses
+illusion	countable	0	illusions
+illustration	countable	0	illustrations
+image	countable	0	images
+image digest	countable	1	image digests
+image generation	mass	1	
+image layer	countable	1	image layers
+image retention	mass	1	
+image scanning	mass	1	
+image signal processor	countable	2	image signal processors
+image signing	mass	1	
+image tag	countable	1	image tags
+imagination	countable	0	imaginations
+imitation	countable	0	imitations
+immigrant	countable	0	immigrants
+immigration	mass	0	
+immutable object	countable	1	immutable objects
+impact	countable	0	impacts
+imperative	countable	0	imperatives
+implement	countable	0	implements
+implication	countable	0	implications
+import	countable	0	imports
+impression	countable	0	impressions
+improvement	countable	0	improvements
+impulse	countable	0	impulses
+impulse buying	mass	1	
+inbox	countable	0	inboxes
+incentive	countable	0	incentives
+inch	countable	0	inches
+incidence	countable	0	incidences
+incident	countable	0	incidents
+incident commander	countable	1	incident commanders
+incident response	countable	1	incident responses
+incline	countable	0	inclines
+income	mass	0	
+income inequality	countable	1	income inequalities
+income statement	countable	1	income statements
+increase	countable	0	increases
+incumbent	countable	0	incumbents
+independence	mass	0	
+independent	countable	0	independents
+independent director	countable	1	independent directors
+index	countable	0	indexes,indices
+index fund	countable	1	index funds
+index scan	countable	1	index scans
+indication	countable	0	indications
+indicator	countable	0	indicators
+individual	countable	0	individuals
+industry	countable	0	industries
+industry analysis	countable	1	industry analyses
+inequality	countable	0	inequalities
+inevitable	countable	0	inevitables
+infant	countable	0	infants
+infection	countable	0	infections
+inference	countable	0	inferences
+inference endpoint	countable	1	inference endpoints
+inference latency	countable	1	inference latencies
+inference scaling	mass	1	
+inflammation	mass	0	
+inflation	mass	0	
+influence	countable	0	influences
+infrastructure	mass	0	
+infrastructure as a service	mass	0	
+infrastructure as code	mass	2	
+infringement	countable	0	infringements
+inheritance	countable	0	inheritances
+init container	countable	1	init containers
+initial public offering	countable	2	initial public offerings
+initiative	countable	0	initiatives
+injection	countable	0	injections
+injury	countable	0	injuries
+ink	mass	0	
+innocent	countable	0	innocents
+innovation	countable	0	innovations
+input	countable	0	inputs
+input device	countable	1	input devices
+input latency	countable	1	input latencies
+input output die	countable	2	input output dies
+input output operations per second	mass	4	
+insert	countable	0	inserts
+insight	countable	0	insights
+insomnia	mass	0	
+inspection	countable	0	inspections
+inspector	countable	0	inspectors
+installation	countable	0	installations
+instalment	countable	0	instalments
+instance	countable	0	instances
+instant	countable	0	instants
+instinct	countable	0	instincts
+institute	countable	0	institutes
+institution	countable	0	institutions
+instruction	countable	0	instructions
+instruction cache	countable	1	instruction caches
+instruction decoding	mass	1	
+instruction following	mass	1	
+instruction pipeline	countable	1	instruction pipelines
+instruction retirement	mass	1	
+instruction set	countable	1	instruction sets
+instruction tuning	mass	1	
+instructions per cycle	mass	2	
+instructor	countable	0	instructors
+insult	countable	0	insults
+insurance	mass	0	
+integral	countable	0	integrals
+integrated graphics	mass	1	
+integration	countable	0	integrations
+integration testing	mass	1	
+integrity	mass	0	
+intensity	countable	0	intensities
+intent	countable	0	intents
+intention	countable	0	intentions
+interaction	countable	0	interactions
+interconnect fabric	mass	1	
+interest coverage ratio	countable	2	interest coverage ratios
+interface	countable	0	interfaces
+interface segregation	mass	1	
+interim	countable	0	interims
+interior	countable	0	interiors
+intermediate	countable	0	intermediates
+internal audit	countable	1	internal audits
+internal control	mass	1	
+interoperability	mass	0	
+interpretation	countable	0	interpretations
+interpreter	countable	0	interpreters
+interrupt	countable	0	interrupts
+interruption	countable	0	interruptions
+intersection	countable	0	intersections
+interval	countable	0	intervals
+intimacy	mass	0	
+introduction	countable	0	introductions
+intrusion	countable	0	intrusions
+intrusion detection	mass	1	
+intrusion prevention	mass	1	
+inventory turnover	mass	1	
+inversion of control	mass	2	
+investigation	countable	0	investigations
+investment	countable	0	investments
+investment horizon	countable	1	investment horizons
+investor	countable	0	investors
+invitation	countable	0	invitations
+invoice	countable	0	invoices
+involvement	mass	0	
+irrigation	mass	0	
+irritation	countable	0	irritations
+isolation level	countable	1	isolation levels
+issue	countable	0	issues
+item	countable	0	items
+iteration	countable	0	iterations
+itinerary	countable	0	itineraries
+jail	countable	0	jails
+jailbreak attempt	countable	1	jailbreak attempts
+jaw	countable	0	jaws
+jet	countable	0	jets
+jet lag	mass	1	
+jitter	countable	0	jitters
+job	countable	0	jobs
+joint venture	countable	1	joint ventures
+journal	countable	0	journals
+journal entry	countable	1	journal entries
+journalism	mass	0	
+joy	countable	0	joys
+judge	countable	0	judges
+judgement	countable	0	judgements
+jump	countable	0	jumps
+jury	countable	0	juries
+justice	countable	0	justices
+juvenile	countable	0	juveniles
+keeper	countable	0	keepers
+kernel	countable	0	kernels
+key derivation	countable	1	key derivations
+key exchange	countable	1	key exchanges
+key management	mass	1	
+key rotation	mass	1	
+kill switch	countable	1	kill switches
+kindness	countable	0	kindnesses
+kinship	mass	0	
+kit	countable	0	kits
+knot	countable	0	knots
+knowledge	mass	0	
+knowledge base	countable	1	knowledge bases
+label	countable	0	labels
+laboratory	countable	0	laboratories
+labour	mass	0	
+lack	mass	0	
+ladder	countable	0	ladders
+lag	countable	0	lags
+lambda expression	countable	1	lambda expressions
+lance	countable	0	lances
+landfill	countable	0	landfills
+landing	countable	0	landings
+landlord	countable	0	landlords
+landmark	countable	0	landmarks
+landscape	countable	0	landscapes
+lane	countable	0	lanes
+language modeling	mass	1	
+lap	countable	0	laps
+large language model	countable	2	large language models
+last level cache	countable	2	last level caches
+latency	countable	0	latencies
+launch event	countable	1	launch events
+laundry	countable	0	laundries
+law enforcement	mass	1	
+lawn	countable	0	lawns
+lawsuit	countable	0	lawsuits
+lawyer	countable	0	lawyers
+layer	countable	0	layers
+layered architecture	countable	1	layered architectures
+layout	countable	0	layouts
+layover	countable	0	layovers
+lazy evaluation	countable	1	lazy evaluations
+lazy loading	mass	1	
+lead	countable	0	leads
+lead generation	mass	1	
+lead qualification	mass	1	
+lead scoring	mass	1	
+lead time	countable	1	lead times
+leader election	countable	1	leader elections
+leadership	mass	0	
+leaflet	countable	0	leaflets
+league	countable	0	leagues
+leak	countable	0	leaks
+lean management	mass	1	
+leap	countable	0	leaps
+lease	countable	0	leases
+leash	countable	0	leashes
+least privilege	mass	1	
+lecture	countable	0	lectures
+leftovers	lexical_plural	0	
+legacy	countable	0	legacies
+legend	countable	0	legends
+legislation	mass	0	
+leisure time	mass	1	
+lens	countable	0	lenses
+lessons learned	lexical_plural	1	
+leverage	mass	0	
+leveraged buyout	countable	1	leveraged buyouts
+levy	countable	0	levies
+liberal	countable	0	liberals
+library	countable	0	libraries
+licence	countable	0	licences
+lid	countable	0	lids
+lifespan	countable	0	lifespans
+lifetime	countable	0	lifetimes
+lift	countable	0	lifts
+lighting	mass	0	
+limb	countable	0	limbs
+limit	countable	0	limits
+limitation	countable	0	limitations
+liner	countable	0	liners
+ling	countable	0	ling
+link	countable	0	links
+lint	mass	0	
+linting	mass	0	
+liquidation	mass	0	
+liquidity buffer	countable	1	liquidity buffers
+listener	countable	0	listeners
+literacy	mass	0	
+literal	countable	0	literals
+litre	countable	0	litres
+litter	countable	0	litters
+liveness probe	countable	1	liveness probes
+load	countable	0	loads
+load balancer	countable	1	load balancers
+load test	countable	1	load tests
+load testing	mass	1	
+loan	countable	0	loans
+lobby	countable	0	lobbies
+local dimming	mass	1	
+location	countable	0	locations
+lock contention	mass	1	
+lock granularity	mass	1	
+log	countable	0	logs
+log aggregation	mass	1	
+log correlation	countable	1	log correlations
+log level	countable	1	log levels
+logic	countable	0	logics
+logo	countable	0	logos
+loneliness	mass	0	
+long context performance	mass	2	
+long-term support	mass	1	
+longevity	mass	0	
+lord	countable	0	lords
+loss	countable	0	losses
+loss function	countable	1	loss functions
+lossless audio	countable	1	lossless audios
+lossy compression	mass	1	
+lottery	countable	0	lotteries
+loyalty	countable	0	loyalties
+lung	countable	0	lungs
+lyric	countable	0	lyrics
+machine learning	mass	1	
+machinery	mass	0	
+madness	mass	0	
+magnitude	countable	0	magnitudes
+mainstream	countable	0	mainstreams
+major	countable	0	majors
+majority	countable	0	majorities
+make-up	countable	0	make-ups
+making	mass	0	
+malnutrition	mass	0	
+malware	mass	0	
+mama	countable	0	mamas
+managed service	countable	1	managed services
+management	mass	0	
+management buyout	countable	1	management buyouts
+manual	countable	0	manuals
+manufacture	countable	0	manufactures
+manufacturer	countable	0	manufacturers
+manufacturing	mass	0	
+marathon	countable	0	marathons
+margin	countable	0	margins
+marker	countable	0	markers
+market capitalization	countable	1	market capitalizations
+market entry strategy	countable	2	market entry strategies
+market penetration	mass	1	
+market segmentation	mass	1	
+market share	countable	1	market shares
+marketing	mass	0	
+marriage	countable	0	marriages
+mask	countable	0	masks
+mass	countable	0	masses
+mass layoff	countable	1	mass layoffs
+mass transit	mass	1	
+massage	countable	0	massages
+master	countable	0	masters
+master data management	mass	2	
+masterpiece	countable	0	masterpieces
+mastery	mass	0	
+matching principle	countable	1	matching principles
+mate	countable	0	mates
+material misstatement	countable	1	material misstatements
+materialism	mass	0	
+materialized view	countable	1	materialized views
+mathematical reasoning	mass	1	
+matte finish	mass	1	
+maximum turbo power	mass	2	
+means	invariant	0	means
+measure	countable	0	measures
+measurement	countable	0	measurements
+measurement variance	countable	1	measurement variances
+mechanic	countable	0	mechanics
+mechanism	countable	0	mechanisms
+mechanistic interpretability	mass	1	
+media	existing_plural	0	
+medical	countable	0	medicals
+medication	countable	0	medications
+medium	countable	0	media,mediums
+melody	countable	0	melodies
+membership	countable	0	memberships
+memo	countable	0	memos
+memoization	mass	0	
+memorial	countable	0	memorials
+memory allocation	mass	1	
+memory bandwidth	mass	1	
+memory barrier	countable	1	memory barriers
+memory bus	countable	1	memory buses
+memory bus width	countable	2	memory bus widths
+memory capacity	countable	1	memory capacities
+memory channel	countable	1	memory channels
+memory controller	countable	1	memory controllers
+memory deallocation	mass	1	
+memory latency	countable	1	memory latencies
+memory leak	countable	1	memory leaks
+memory module	countable	1	memory modules
+memory speed	mass	1	
+memory timing	mass	1	
+memory visibility	mass	1	
+mention	countable	0	mentions
+mentor	countable	0	mentors
+merchandise	mass	0	
+mercy	mass	0	
+merge conflict	countable	1	merge conflicts
+merger	countable	0	mergers
+merger agreement	countable	1	merger agreements
+mesh network	countable	1	mesh networks
+message authentication code	mass	2	
+message broker	countable	1	message brokers
+message passing	mass	1	
+messenger	countable	0	messengers
+metadata management	mass	1	
+metamorphic testing	mass	1	
+metaphor	countable	0	metaphors
+method	countable	0	methods
+method overriding	mass	1	
+metric	countable	0	metrics
+metric collection	mass	1	
+microphone	countable	0	microphones
+microservice	countable	0	microservices
+microwave	countable	0	microwaves
+middleware	countable	0	middlewares
+midrange device	countable	1	midrange devices
+migration	countable	0	migrations
+milestone	countable	0	milestones
+military	countable	0	militaries
+mill	countable	0	mills
+mimic	countable	0	mimics
+mineral	countable	0	minerals
+miniature	countable	0	miniatures
+minimum	countable	0	minimums
+minimum viable product	countable	2	minimum viable products
+minister	countable	0	ministers
+ministry	countable	0	ministries
+minor	countable	0	minors
+minority	countable	0	minorities
+mint	countable	0	mints
+minutes	lexical_plural	0	
+misfortune	countable	0	misfortunes
+misinformation	mass	0	
+mission	countable	0	missions
+mist	countable	0	mists
+mistake	countable	0	mistakes
+misuse prevention	mass	1	
+mixture	countable	0	mixtures
+mixture of experts	countable	0	mixtures of experts
+mobile broadband	mass	1	
+mobile chipset	countable	1	mobile chipsets
+mobile operating system	countable	2	mobile operating systems
+mobility	mass	0	
+mock object	countable	1	mock objects
+mockup	countable	0	mockups
+mode	countable	0	modes
+model alignment	mass	1	
+model card	countable	1	model cards
+model drift	mass	1	
+model evaluation	countable	1	model evaluations
+model hallucination	countable	1	model hallucinations
+model interpretability	mass	1	
+model parameter	countable	1	model parameters
+model transparency	mass	1	
+modernization	mass	0	
+modification	countable	0	modifications
+mold	countable	0	molds
+monitor	countable	0	monitors
+monolith	countable	0	monoliths
+monolithic die	countable	1	monolithic dies
+monopoly	countable	0	monopolies
+monopoly power	mass	1	
+monthly recurring revenue	countable	2	monthly recurring revenues
+monument	countable	0	monuments
+moonlight	mass	0	
+morale	mass	0	
+mortal	countable	0	mortals
+mortality	mass	0	
+mortgage	countable	0	mortgages
+motion	countable	0	motions
+motivation	countable	0	motivations
+motive	countable	0	motives
+motor	countable	0	motors
+motorcycle	countable	0	motorcycles
+movement	countable	0	movements
+multi chip module	countable	2	multi chip modules
+multi cloud	countable	1	multi clouds
+multi head attention	mass	2	
+multi thread performance	mass	2	
+multimodal model	countable	1	multimodal models
+multiple	countable	0	multiples
+muse	countable	0	muses
+mutation testing	mass	1	
+mutex	countable	0	mutexes
+mutual exclusion	mass	1	
+mutual fund	countable	1	mutual funds
+myth	countable	0	myths
+name resolution	mass	1	
+native resolution	countable	1	native resolutions
+natural key	countable	1	natural keys
+navigation	mass	0	
+near field communication	mass	2	
+necessity	countable	0	necessities
+needle	countable	0	needles
+needle in a haystack	countable	0	needles in a haystack
+neglect	mass	0	
+negotiation	countable	0	negotiations
+neighborhood	countable	0	neighborhoods
+nerve	countable	0	nerves
+nerves	lexical_plural	0	
+net debt	mass	1	
+net margin	countable	1	net margins
+net profit	mass	1	
+network	countable	0	networks
+network address translation	mass	2	
+network congestion	mass	1	
+network gateway	countable	1	network gateways
+network interface	countable	1	network interfaces
+network latency	countable	1	network latencies
+network segment	countable	1	network segments
+network throughput	mass	1	
+network topology	countable	1	network topologies
+neural network	countable	1	neural networks
+neural processing unit	countable	2	neural processing units
+neutral	countable	0	neutrals
+nightmare	countable	0	nightmares
+nitpick	countable	0	nitpicks
+noble	countable	0	nobles
+nod	countable	0	nods
+node affinity	mass	1	
+noisy neighbour	countable	1	noisy neighbours
+nomination	countable	0	nominations
+nomination committee	countable	1	nomination committees
+nonce	countable	0	nonces
+nonexecutive director	countable	1	nonexecutive directors
+norm	countable	0	norms
+normal	countable	0	normals
+normalization	mass	0	
+notebook	countable	0	notebooks
+notice	countable	0	notices
+notion	countable	0	notions
+novelist	countable	0	novelists
+novelty	countable	0	novelties
+nuclear family	countable	1	nuclear families
+nuisance	countable	0	nuisances
+null pointer	countable	1	null pointers
+numeracy	mass	0	
+nursery	countable	0	nurseries
+nursing	mass	0	
+nursing home	countable	1	nursing homes
+nurture	mass	0	
+nutrition	mass	0	
+obesity	mass	0	
+object	countable	0	objects
+object storage	mass	1	
+objective	countable	0	objectives
+obligation	countable	0	obligations
+observability	mass	0	
+observation	countable	0	observations
+observer	countable	0	observers
+obsession	countable	0	obsessions
+obsessive	countable	0	obsessives
+obsolescence	mass	0	
+obstacle	countable	0	obstacles
+occasion	countable	0	occasions
+occupation	countable	0	occupations
+occurrence	countable	0	occurrences
+offence	countable	0	offences
+offender	countable	0	offenders
+offensive	countable	0	offensives
+offset	countable	0	offsets
+offshoring	mass	0	
+offspring	invariant	0	offspring
+olive	countable	0	olives
+on call rotation	mass	2	
+onboarding	mass	0	
+onboarding doc	countable	1	onboarding docs
+onboarding flow	countable	1	onboarding flows
+one-on-one	countable	0	one-on-ones
+open closed principle	countable	2	open closed principles
+opening	countable	0	openings
+opening balance	countable	1	opening balances
+opera	countable	0	operas
+operating cash flow	mass	2	
+operating margin	countable	1	operating margins
+operating model	countable	1	operating models
+operating profit	mass	1	
+operation	countable	0	operations
+operator	countable	0	operators
+operator overloading	mass	1	
+opponent	countable	0	opponents
+opposite	countable	0	opposites
+opposition	mass	0	
+optical image stabilization	mass	2	
+optical zoom	mass	1	
+optimism	mass	0	
+optimistic locking	mass	1	
+option	countable	0	options
+option pool	countable	1	option pools
+orchestra	countable	0	orchestras
+orchestration	mass	0	
+organ	countable	0	organs
+organic	countable	0	organics
+organization	countable	0	organizations
+organizational change	countable	1	organizational changes
+organizer	countable	0	organizers
+orientation	countable	0	orientations
+origin	countable	0	origins
+origin server	countable	1	origin servers
+originality	mass	0	
+out of office	mass	2	
+out of order execution	mass	3	
+outage	countable	0	outages
+outbreak	countable	0	outbreaks
+outcome	countable	0	outcomes
+outfit	countable	0	outfits
+outing	countable	0	outings
+outlet	countable	0	outlets
+outlier	countable	0	outliers
+outline	countable	0	outlines
+outlook	countable	0	outlooks
+outpatient	countable	0	outpatients
+output	countable	0	outputs
+output device	countable	1	output devices
+outrage	countable	0	outrages
+outsider	countable	0	outsiders
+outsourcing	mass	0	
+outstanding share	countable	1	outstanding shares
+oval	countable	0	ovals
+over provisioning	mass	1	
+overall	countable	0	overalls
+overclocking	mass	0	
+overcrowding	mass	0	
+overfishing	mass	0	
+overfitting	mass	0	
+overhead	countable	0	overheads
+overhead cost	countable	1	overhead costs
+overlap	countable	0	overlaps
+overtime	mass	0	
+overtourism	mass	0	
+owner	countable	0	owners
+ownership	mass	0	
+ownership structure	countable	1	ownership structures
+oxygen	mass	0	
+ozone	mass	0	
+pace	countable	0	paces
+package registry	countable	1	package registries
+package tour	countable	1	package tours
+packet	countable	0	packets
+packet capture	countable	1	packet captures
+packet inspection	mass	1	
+packet loss	countable	1	packet losses
+packet switching	mass	1	
+pad	countable	0	pads
+paging	mass	0	
+pain	countable	0	pains
+pair programming	mass	1	
+pairwise comparison	countable	1	pairwise comparisons
+palm	countable	0	palms
+pandemic	countable	0	pandemics
+panel	countable	0	panels
+panic	countable	0	panics
+paperwork	mass	0	
+parade	countable	0	parades
+paradigm	countable	0	paradigms
+paradox	countable	0	paradoxes
+paragraph	countable	0	paragraphs
+parallel	countable	0	parallels
+parallel execution	mass	1	
+parallel run	countable	1	parallel runs
+parameter	countable	0	parameters
+parameter count	mass	1	
+parenting	mass	0	
+parking	mass	0	
+parole	mass	0	
+participant	countable	0	participants
+participation	mass	0	
+particle	countable	0	particles
+particular	countable	0	particulars
+partisan	countable	0	partisans
+partition	countable	0	partitions
+partner	countable	0	partners
+partnership	countable	0	partnerships
+pass rate	countable	1	pass rates
+passage	countable	0	passages
+passive	countable	0	passives
+passport	countable	0	passports
+password	countable	0	passwords
+password hashing	mass	1	
+pastor	countable	0	pastors
+patch	countable	0	patches
+path tracing	mass	1	
+patience	mass	0	
+patient	countable	0	patients
+patron	countable	0	patrons
+pattern	countable	0	patterns
+pattern matching	mass	1	
+pause	countable	0	pauses
+pavement	countable	0	pavements
+paw	countable	0	paws
+payable turnover	mass	1	
+payload	countable	0	payloads
+payment	countable	0	payments
+payroll	countable	0	payrolls
+peach	countable	0	peaches
+peak	countable	0	peaks
+peak brightness	mass	1	
+peak power	mass	1	
+peak season	mass	1	
+pearl	countable	0	pearls
+pedagogy	mass	0	
+pedal	countable	0	pedals
+pedestrian	countable	0	pedestrians
+peel	countable	0	peels
+peer	countable	0	peers
+peer review	countable	1	peer reviews
+peg	countable	0	pegs
+penalty	countable	0	penalties
+penetration test	countable	1	penetration tests
+penetration testing	mass	1	
+pension	countable	0	pensions
+percent	countable	0	percents
+percentage	countable	0	percentages
+percentile	countable	0	percentiles
+perception	countable	0	perceptions
+perceptron	countable	0	perceptrons
+performance bottleneck	countable	1	performance bottlenecks
+performance core	countable	1	performance cores
+performance fee	countable	1	performance fees
+performance per watt	mass	2	
+performance profiling	mass	1	
+performance scaling	mass	1	
+performance uplift	countable	1	performance uplifts
+period	countable	0	periods
+perishable	countable	0	perishables
+permanent	countable	0	permanents
+permit	countable	0	permits
+persistence	mass	0	
+persistent volume	countable	1	persistent volumes
+personnel	mass	0	
+perspective	countable	0	perspectives
+persuasion	countable	0	persuasions
+pessimistic locking	mass	1	
+pesticide	countable	0	pesticides
+pharmacist	countable	0	pharmacists
+phase	countable	0	phases
+phenomenon	countable	0	phenomena
+philosophy	countable	0	philosophies
+phishing	mass	0	
+physical fitness	mass	1	
+physician	countable	0	physicians
+pi	countable	0	pis
+pile	countable	0	piles
+pill	countable	0	pills
+pillow	countable	0	pillows
+pine	countable	0	pines
+pint	countable	0	pints
+pipeline	countable	0	pipelines
+pipeline review	countable	1	pipeline reviews
+pipeline stage	countable	1	pipeline stages
+piracy	mass	0	
+pirate	countable	0	pirates
+pitch	countable	0	pitches
+pitch deck	countable	1	pitch decks
+pity	mass	0	
+pivot table	countable	1	pivot tables
+pixel density	countable	1	pixel densities
+pixel shader	countable	1	pixel shaders
+placeholder	countable	0	placeholders
+placement	countable	0	placements
+plagiarism	mass	0	
+plague	countable	0	plagues
+planning	mass	0	
+plateau	countable	0	plateaus
+platform	countable	0	platforms
+platform as a service	mass	0	
+plum	countable	0	plums
+plumber	countable	0	plumbers
+plummet	countable	0	plummets
+plus	countable	0	pluses
+pod affinity	mass	1	
+pod scheduling	mass	1	
+pointer	countable	0	pointers
+policy	countable	0	policies
+polish	mass	0	
+polling	mass	0	
+pollutant	countable	0	pollutants
+polymorphism	mass	0	
+popularity	mass	0	
+porch	countable	0	porches
+portfolio diversification	mass	1	
+portfolio rebalancing	mass	1	
+portion	countable	0	portions
+pose	countable	0	poses
+positional encoding	mass	1	
+positive	countable	0	positives
+possession	countable	0	possessions
+possibility	countable	0	possibilities
+post incident review	countable	2	post incident reviews
+post money valuation	countable	2	post money valuations
+postgraduate	countable	0	postgraduates
+postmortem	countable	0	postmortems
+potential	countable	0	potentials
+poverty	mass	0	
+powder	countable	0	powders
+power consumption	mass	1	
+power delivery	mass	1	
+power efficiency	mass	1	
+practitioner	countable	0	practitioners
+praise	mass	0	
+pre money valuation	countable	2	pre money valuations
+precision score	countable	1	precision scores
+preemptive scheduling	mass	1	
+preference	countable	0	preferences
+preference optimization	mass	1	
+prejudice	countable	0	prejudices
+preliminary	countable	0	preliminaries
+premium tier	countable	1	premium tiers
+preparation	countable	0	preparations
+prescription	countable	0	prescriptions
+presence	countable	0	presences
+presentation	countable	0	presentations
+presenter	countable	0	presenters
+preservative	countable	0	preservatives
+preserve	countable	0	preserves
+presidency	countable	0	presidencies
+press	countable	0	presses
+pressure	countable	0	pressures
+prestige	mass	0	
+prevention	mass	0	
+preventive	countable	0	preventives
+preventive action	countable	1	preventive actions
+price cut	countable	1	price cuts
+price earnings ratio	countable	2	price earnings ratios
+price hike	countable	1	price hikes
+pricing strategy	countable	1	pricing strategies
+prick	countable	0	pricks
+pride	mass	0	
+primary	countable	0	primaries
+primary key	countable	1	primary keys
+prime	countable	0	primes
+principal	countable	0	principals
+principle	countable	0	principles
+prior	countable	0	priors
+priority	countable	0	priorities
+priority inversion	countable	1	priority inversions
+privacy	mass	0	
+private cloud	countable	1	private clouds
+private equity	mass	1	
+private key	countable	1	private keys
+private placement	countable	1	private placements
+privilege	countable	0	privileges
+privilege escalation	countable	1	privilege escalations
+prize	countable	0	prizes
+probability	countable	0	probabilities
+probable	countable	0	probables
+probation	mass	0	
+procedure	countable	0	procedures
+process	countable	0	processes
+process automation	mass	1	
+process improvement	mass	1	
+process mapping	mass	1	
+process node	countable	1	process nodes
+processor base power	mass	2	
+procurement	mass	0	
+product launch	countable	1	product launches
+product liability	countable	1	product liabilities
+product market fit	mass	2	
+product recall	countable	1	product recalls
+product refresh	countable	1	product refreshes
+product strategy	countable	1	product strategies
+production capacity	countable	1	production capacities
+productivity	mass	0	
+professional	countable	0	professionals
+profile	countable	0	profiles
+profiling	mass	0	
+profiling session	countable	1	profiling sessions
+profit	countable	0	profits
+profit warning	mass	1	
+profitability	mass	0	
+programming	mass	0	
+progress	mass	0	
+projection	countable	0	projections
+prominence	countable	0	prominences
+promotion	countable	0	promotions
+prompt	countable	0	prompts
+prompt engineering	mass	1	
+prompt injection	countable	1	prompt injections
+proof	countable	0	proofs
+proof of concept	countable	0	proofs of concept
+property	countable	0	properties
+property-based testing	mass	1	
+proportion	countable	0	proportions
+proposal	countable	0	proposals
+proposition	countable	0	propositions
+prospect	countable	0	prospects
+protection	mass	0	
+protein	countable	0	proteins
+protest	countable	0	protests
+protocol	countable	0	protocols
+prototype	countable	0	prototypes
+provenance tracking	mass	1	
+province	countable	0	provinces
+provision	countable	0	provisions
+provisioning	mass	0	
+proximity	mass	0	
+proxy	countable	0	proxies
+proxy server	countable	1	proxy servers
+proxy vote	countable	1	proxy votes
+psychologist	countable	0	psychologists
+psychology	mass	0	
+public cloud	countable	1	public clouds
+public key	countable	1	public keys
+public preview	countable	1	public previews
+public transport	mass	1	
+publication	countable	0	publications
+publicity	mass	0	
+publish-subscribe	mass	0	
+publishing	mass	0	
+pudding	countable	0	puddings
+pull request	countable	1	pull requests
+pulse	countable	0	pulses
+pump	countable	0	pumps
+punch	countable	0	punches
+punishment	countable	0	punishments
+punk	countable	0	punks
+pupil	countable	0	pupils
+purchase	countable	0	purchases
+purchaser	countable	0	purchasers
+purchasing	mass	0	
+purchasing power	mass	1	
+pure function	countable	1	pure functions
+pursuit	countable	0	pursuits
+puzzle	countable	0	puzzles
+quadruple	countable	0	quadruples
+qualification	countable	0	qualifications
+quality	countable	0	qualities
+quality assurance	mass	1	
+quality control	mass	1	
+quality management system	countable	2	quality management systems
+quantity	countable	0	quantities
+quantization	mass	0	
+quarantine	countable	0	quarantines
+quarterly	countable	0	quarterlies
+quarterly earnings	mass	1	
+query	countable	0	queries
+query cache	countable	1	query caches
+query optimizer	countable	1	query optimizers
+query plan	countable	1	query plans
+questionnaire	countable	0	questionnaires
+queue	countable	0	queues
+queue depth	countable	1	queue depths
+quick ratio	countable	1	quick ratios
+quorum	countable	0	quorums
+quota	countable	0	quotas
+quota exhaustion	mass	1	
+quotation	countable	0	quotations
+quote	countable	0	quotes
+race condition	countable	1	race conditions
+rack	countable	0	racks
+radical	countable	0	radicals
+rag	countable	0	rags
+rail	countable	0	rails
+rainbow	countable	0	rainbows
+raise	countable	0	raises
+ram	countable	0	rams
+ramp	countable	0	ramps
+random access memory	mass	2	
+random read	countable	1	random reads
+random write	countable	1	random writes
+range	countable	0	ranges
+ranger	countable	0	rangers
+rank	countable	0	ranks
+rapid	countable	0	rapids
+rash	countable	0	rashes
+rasterization pipeline	countable	1	rasterization pipelines
+rat	countable	0	rats
+rating	countable	0	ratings
+ratio	countable	0	ratios
+rational	countable	0	rationals
+rationale	countable	0	rationales
+ray reconstruction	mass	1	
+ray tracing	mass	1	
+reaction	countable	0	reactions
+read replica	countable	1	read replicas
+readability	mass	0	
+reader writer lock	countable	2	reader writer locks
+readiness probe	countable	1	readiness probes
+real time operating system	countable	3	real time operating systems
+real world performance	mass	2	
+reality	countable	0	realities
+realization	countable	0	realizations
+rear	countable	0	rears
+reasoning capability	countable	1	reasoning capabilities
+reasoning trace	countable	1	reasoning traces
+rebel	countable	0	rebels
+recall score	countable	1	recall scores
+recap	countable	0	recaps
+recapitalization	countable	0	recapitalizations
+receivable turnover	mass	1	
+receiver	countable	0	receivers
+recession	countable	0	recessions
+recipe	countable	0	recipes
+recognition	mass	0	
+recollection	countable	0	recollections
+recommendation	countable	0	recommendations
+record date	countable	1	record dates
+recovery	countable	0	recoveries
+recreation	countable	0	recreations
+recruit	countable	0	recruits
+recruiting	mass	0	
+recruitment	mass	0	
+recursion	mass	0	
+red teaming	mass	1	
+reduction	countable	0	reductions
+redundancy	countable	0	redundancies
+referee	countable	0	referees
+reference	countable	0	references
+reference counting	mass	1	
+referential integrity	mass	1	
+referential transparency	mass	1	
+reforestation	mass	0	
+reform	countable	0	reforms
+refrain	countable	0	refrains
+refresh rate	countable	1	refresh rates
+refuge	countable	0	refuges
+refugee	countable	0	refugees
+refusal	countable	0	refusals
+refusal behavior	countable	1	refusal behaviors
+refuse	mass	0	
+regime	countable	0	regimes
+region	countable	0	regions
+register	countable	0	registers
+registration	countable	0	registrations
+regression	countable	0	regressions
+regression testing	mass	1	
+regret	countable	0	regrets
+regularization	mass	0	
+regulation	countable	0	regulations
+regulatory compliance	mass	1	
+regulatory scrutiny	mass	1	
+rehabilitation	mass	0	
+rehearsal	countable	0	rehearsals
+reinforcement	mass	0	
+reinforcement learning	mass	1	
+reject	countable	0	rejects
+rejection	countable	0	rejections
+related party transaction	countable	2	related party transactions
+relational database	countable	1	relational databases
+relationship	countable	0	relationships
+relative	countable	0	relatives
+relaxation	mass	0	
+relay	countable	0	relays
+release branch	countable	1	release branches
+release candidate	countable	1	release candidates
+release note	countable	1	release notes
+relief	countable	0	reliefs
+reluctance	mass	0	
+remains	lexical_plural	0	
+remark	countable	0	remarks
+remedy	countable	0	remedies
+reminder	countable	0	reminders
+remote	countable	0	remotes
+remuneration committee	countable	1	remuneration committees
+rendering engine	countable	1	rendering engines
+rendering resolution	countable	1	rendering resolutions
+rental	countable	0	rentals
+repair	countable	0	repairs
+repair program	countable	1	repair programs
+repairability score	countable	1	repairability scores
+repertoire	countable	0	repertoires
+repetition	countable	0	repetitions
+replacement	countable	0	replacements
+replica	countable	0	replicas
+report	countable	0	reports
+reporting	mass	0	
+repository	countable	0	repositories
+representative	countable	0	representatives
+reprint	countable	0	reprints
+reproducible build	countable	1	reproducible builds
+reproduction	countable	0	reproductions
+reputation	countable	0	reputations
+request	countable	0	requests
+request timeout	countable	1	request timeouts
+requirement	countable	0	requirements
+research	mass	0	
+reservation	countable	0	reservations
+reserve	countable	0	reserves
+reserved instance	countable	1	reserved instances
+reservoir	countable	0	reservoirs
+residence	countable	0	residences
+resident	countable	0	residents
+residual connection	countable	1	residual connections
+resignation	countable	0	resignations
+resilience	mass	0	
+resistance	mass	0	
+resolution	countable	0	resolutions
+resolution scaling	mass	1	
+resolve	mass	0	
+resort	countable	0	resorts
+resource	countable	0	resources
+resource group	countable	1	resource groups
+resource limit	countable	1	resource limits
+resource planning	mass	1	
+resource quota	countable	1	resource quotas
+resource utilization	mass	1	
+respect	countable	0	respects
+response time	countable	1	response times
+responsibility	countable	0	responsibilities
+responsible deployment	countable	1	responsible deployments
+restriction	countable	0	restrictions
+resume	countable	0	resumes
+retail	mass	0	
+retailer	countable	0	retailers
+retainer	countable	0	retainers
+retention	mass	0	
+retention rate	countable	1	retention rates
+retirement	mass	0	
+retreat	countable	0	retreats
+retrieval augmented generation	mass	2	
+retrospective	countable	0	retrospectives
+retry interval	countable	1	retry intervals
+retry policy	countable	1	retry policies
+return on assets	mass	2	
+return on equity	mass	2	
+return on invested capital	mass	3	
+return on investment	mass	2	
+revelation	countable	0	revelations
+revenge	mass	0	
+revenue	countable	0	revenues
+revenue growth	mass	1	
+revenue guidance	mass	1	
+revenue model	countable	1	revenue models
+revenue recognition	mass	1	
+reverse	countable	0	reverses
+reverse charging	mass	1	
+reverse proxy	countable	1	reverse proxies
+reverse stock split	countable	2	reverse stock splits
+review	countable	0	reviews
+revision	countable	0	revisions
+revival	countable	0	revivals
+revolution	countable	0	revolutions
+reward	countable	0	rewards
+rhythm	countable	0	rhythms
+rib	countable	0	ribs
+riddle	countable	0	riddles
+rider	countable	0	riders
+ridge	countable	0	ridges
+rim	countable	0	rims
+riot	countable	0	riots
+rise	countable	0	rises
+risk	countable	0	risks
+risk adjusted return	mass	2	
+risk appetite	mass	1	
+risk tolerance	mass	1	
+ritual	countable	0	rituals
+rival	countable	0	rivals
+rivalry	countable	0	rivalries
+road safety	mass	1	
+roadmap	countable	0	roadmaps
+roast	countable	0	roasts
+robotics	mass	0	
+rocket	countable	0	rockets
+role	countable	0	roles
+role based access control	mass	3	
+role model	countable	1	role models
+rollback	countable	0	rollbacks
+rollback plan	countable	1	rollback plans
+rolling update	countable	1	rolling updates
+rollout	countable	0	rollouts
+rollout percentage	countable	1	rollout percentages
+rollout plan	countable	1	rollout plans
+romance	countable	0	romances
+root	countable	0	roots
+root cause	countable	1	root causes
+root cause analysis	countable	2	root cause analyses
+root cause investigation	countable	2	root cause investigations
+rose	countable	0	roses
+rota	countable	0	rotas
+rotary position embedding	countable	2	rotary position embeddings
+rote	mass	0	
+round robin	countable	1	round robins
+route	countable	0	routes
+routine	countable	0	routines
+routing table	countable	1	routing tables
+row	countable	0	rows
+royalty	countable	0	royalties
+rubber	mass	0	
+rug	countable	0	rugs
+runbook	countable	0	runbooks
+runbook entry	countable	1	runbook entries
+runtime	countable	0	runtimes
+runway	countable	0	runways
+rush hour	countable	1	rush hours
+sack	countable	0	sacks
+safety	mass	0	
+safety evaluation	countable	1	safety evaluations
+safety guardrail	countable	1	safety guardrails
+saga	countable	0	sagas
+sage	countable	0	sages
+sail	countable	0	sails
+salary	countable	0	salaries
+sales forecast	countable	1	sales forecasts
+sales funnel	countable	1	sales funnels
+sales pipeline	countable	1	sales pipelines
+sales quota	countable	1	sales quotas
+salon	countable	0	salons
+salt	countable	0	salts
+salted hash	countable	1	salted hashes
+sample size	countable	1	sample sizes
+sandbox	countable	0	sandboxes
+sanitation	mass	0	
+sanitization	mass	0	
+satellite	countable	0	satellites
+satellite connectivity	mass	1	
+satisfaction	mass	0	
+saving	mass	0	
+savings	lexical_plural	0	
+scaffold	countable	0	scaffolds
+scalability	mass	0	
+scale	countable	0	scales
+scandal	countable	0	scandals
+scar	countable	0	scars
+scenario	countable	0	scenarios
+scenario planning	mass	1	
+scent	countable	0	scents
+schedule	countable	0	schedules
+schema	countable	0	schemas
+schema evolution	mass	1	
+schema migration	countable	1	schema migrations
+scheme	countable	0	schemes
+scholarship	countable	0	scholarships
+scientific method	countable	1	scientific methods
+scope	countable	0	scopes
+scope creep	mass	1	
+score	countable	0	scores
+scramble	countable	0	scrambles
+scratch	countable	0	scratches
+screen	countable	0	screens
+screen burn in	mass	2	
+screen tearing	mass	1	
+screening	countable	0	screenings
+seal	countable	0	seals
+seasonal	countable	0	seasonals
+seasonal produce	mass	1	
+secondary offering	countable	1	secondary offerings
+section	countable	0	sections
+sector	countable	0	sectors
+secure enclave	countable	1	secure enclaves
+securitization	mass	0	
+security	mass	0	
+security baseline	countable	1	security baselines
+security control	mass	1	
+security incident	countable	1	security incidents
+security patch	countable	1	security patches
+security perimeter	countable	1	security perimeters
+security policy	countable	1	security policies
+security posture	countable	1	security postures
+security update	countable	1	security updates
+seed funding	mass	1	
+seek	countable	0	seeks
+seeker	countable	0	seekers
+segment	countable	0	segments
+selection	countable	0	selections
+self	countable	0	selves
+self attention	mass	1	
+seller	countable	0	sellers
+semantic search	countable	1	semantic searches
+semantic versioning	mass	1	
+semaphore	countable	0	semaphores
+semiconductor fabrication	mass	1	
+seminar	countable	0	seminars
+sensation	countable	0	sensations
+sensitive	countable	0	sensitives
+sensor size	countable	1	sensor sizes
+separate	countable	0	separates
+separation	mass	0	
+separation of concerns	mass	2	
+sequence	countable	0	sequences
+sequential read	countable	1	sequential reads
+sequential write	countable	1	sequential writes
+serializable transaction	countable	1	serializable transactions
+serialization	countable	0	serializations
+series	invariant	0	series
+serverless computing	mass	1	
+service	countable	0	services
+service degradation	mass	1	
+service dependency	countable	1	service dependencies
+service discovery	mass	1	
+service level agreement	countable	2	service level agreements
+service level indicator	countable	2	service level indicators
+service level objective	countable	2	service level objectives
+service mesh	countable	1	service meshes
+service oriented architecture	countable	2	service oriented architectures
+session	countable	0	sessions
+session key	countable	1	session keys
+setback	countable	0	setbacks
+settlement agreement	countable	1	settlement agreements
+settler	countable	0	settlers
+severity	mass	0	
+sewage	mass	0	
+sex	countable	0	sexes
+shade	countable	0	shades
+shader	countable	0	shaders
+shader core	countable	1	shader cores
+shadow	countable	0	shadows
+shadow traffic	mass	1	
+shame	mass	0	
+shard	countable	0	shards
+share buyback	countable	1	share buybacks
+share capital	mass	1	
+shared cache	countable	1	shared caches
+shareholder	countable	0	shareholders
+shareholder agreement	countable	1	shareholder agreements
+shareholder meeting	countable	1	shareholder meetings
+shed	countable	0	sheds
+sheet	countable	0	sheets
+shelter	countable	0	shelters
+shield	countable	0	shields
+shift	countable	0	shifts
+shipping	mass	0	
+shock	countable	0	shocks
+shooting	countable	0	shootings
+shore	countable	0	shores
+shortage	countable	0	shortages
+shot	countable	0	shots
+showcase	countable	0	showcases
+shrink	countable	0	shrinks
+shutdown hook	countable	1	shutdown hooks
+sibling	countable	0	siblings
+sickness	countable	0	sicknesses
+side channel attack	countable	2	side channel attacks
+side effect	countable	1	side effects
+sidecar	countable	0	sidecars
+sidecar container	countable	1	sidecar containers
+sidewalk	countable	0	sidewalks
+sightseeing	mass	0	
+sign-off	countable	0	sign-offs
+signal attenuation	mass	1	
+signal interference	mass	1	
+signal strength	mass	1	
+signal to noise ratio	countable	3	signal to noise ratios
+signature	countable	0	signatures
+significance	mass	0	
+silence	mass	0	
+silicon wafer	countable	1	silicon wafers
+silk	mass	0	
+simplification	countable	0	simplifications
+simulation	countable	0	simulations
+simultaneous multithreading	mass	1	
+sincerity	mass	0	
+single responsibility principle	countable	2	single responsibility principles
+single thread performance	mass	2	
+site	countable	0	sites
+situation	countable	0	situations
+sketch	countable	0	sketches
+slang	mass	0	
+slap	countable	0	slaps
+slash	countable	0	slashes
+slaughter	mass	0	
+slight	countable	0	slights
+slip	countable	0	slips
+slogan	countable	0	slogans
+slope	countable	0	slopes
+smartphone	countable	0	smartphones
+smoke test	countable	1	smoke tests
+smoke testing	mass	1	
+smuggling	mass	0	
+snapshot	countable	0	snapshots
+snapshot isolation	mass	1	
+snapshot testing	mass	1	
+snippet	countable	0	snippets
+soak	countable	0	soaks
+soak test	countable	1	soak tests
+soak testing	mass	1	
+soaking	countable	0	soakings
+socket	countable	0	sockets
+software architecture	countable	1	software architectures
+software as a service	mass	0	
+software bill of materials	countable	1	software bills of materials
+software feature	countable	1	software features
+software update policy	countable	2	software update policies
+sole	countable	0	soles
+solid	countable	0	solids
+solid state drive	countable	2	solid state drives
+solo	countable	0	solos
+solvent	countable	0	solvents
+source	countable	0	sources
+source control	mass	1	
+souvenir	countable	0	souvenirs
+spa	countable	0	spas
+space exploration	mass	1	
+span	countable	0	spans
+spark	countable	0	sparks
+sparse activation	countable	1	sparse activations
+spatial upscaling	mass	1	
+specialist	countable	0	specialists
+specialty	countable	0	specialties
+specific	countable	0	specifics
+specification	countable	0	specifications
+specimen	countable	0	specimens
+spectacle	countable	0	spectacles
+spectacular	countable	0	spectaculars
+spectator	countable	0	spectators
+speculation	countable	0	speculations
+speculative execution	mass	1	
+speech recognition	mass	1	
+speech synthesis	mass	1	
+spelling	countable	0	spellings
+sphere	countable	0	spheres
+spice	countable	0	spices
+spill	countable	0	spills
+spin	countable	0	spins
+spine	countable	0	spines
+spite	mass	0	
+splash	countable	0	splashes
+split-brain	countable	0	split-brains
+spokesperson	countable	0	spokespeople,spokespersons
+sponsor	countable	0	sponsors
+sponsorship	mass	0	
+sportsmanship	mass	0	
+spot instance	countable	1	spot instances
+spray	countable	0	sprays
+spread	countable	0	spreads
+spreadsheet	countable	0	spreadsheets
+sprint	countable	0	sprints
+spur	countable	0	spurs
+squad	countable	0	squads
+squash	mass	0	
+squeeze	countable	0	squeezes
+stability	mass	0	
+stable	countable	0	stables
+stack	countable	0	stacks
+stack overflow	countable	1	stack overflows
+stack unwinding	mass	1	
+stacktrace	countable	0	stacktraces
+staging	countable	0	stagings
+stain	countable	0	stains
+stake	countable	0	stakes
+stakeholder	countable	0	stakeholders
+stale data	mass	1	
+stall	countable	0	stalls
+stamina	mass	0	
+stance	countable	0	stances
+standard	countable	0	standards
+standard operating procedure	countable	2	standard operating procedures
+standby	countable	0	standbys
+standup	countable	0	standups
+staple	countable	0	staples
+stare	countable	0	stares
+startup	countable	0	startups
+startup accelerator	countable	1	startup accelerators
+startup probe	countable	1	startup probes
+starvation	mass	0	
+state	countable	0	states
+statement of equity	countable	0	statements of equity
+static analysis	countable	1	static analyses
+static dispatch	mass	1	
+static random access memory	mass	3	
+static routing	mass	1	
+statistic	countable	0	statistics
+statistics	existing_plural	0	
+status	countable	0	statuses
+status update	countable	1	status updates
+steam	mass	0	
+steel	mass	0	
+stereotype	countable	0	stereotypes
+stew	countable	0	stews
+stick	countable	0	sticks
+stiffness	mass	0	
+stigma	countable	0	stigmas,stigmata
+stimulation	mass	0	
+stink	countable	0	stinks
+stir	countable	0	stirs
+stitch	countable	0	stitches
+stock	countable	0	stocks
+stock dividend	countable	1	stock dividends
+stock exchange	countable	1	stock exchanges
+stock index	countable	1	stock indexes,stock indices
+stock split	countable	1	stock splits
+stool	countable	0	stools
+storage capacity	countable	1	storage capacities
+storage controller	countable	1	storage controllers
+storage firmware	mass	1	
+storage interface	countable	1	storage interfaces
+stored procedure	countable	1	stored procedures
+strait	countable	0	straits
+strand	countable	0	strands
+strategic alignment	mass	1	
+strategic initiative	countable	1	strategic initiatives
+strategic objective	countable	1	strategic objectives
+strategic partnership	countable	1	strategic partnerships
+strategic planning	mass	1	
+strategy	countable	0	strategies
+stream	countable	0	streams
+stream processing	mass	1	
+street food	mass	1	
+stress	countable	0	stresses
+stress testing	mass	1	
+stretch	countable	0	stretches
+strip	countable	0	strips
+stroke	countable	0	strokes
+strong consistency	mass	1	
+structure	countable	0	structures
+structured concurrency	mass	1	
+structured logging	mass	1	
+struggle	countable	0	struggles
+stub	countable	0	stubs
+studio	countable	0	studios
+style	countable	0	styles
+stylist	countable	0	stylists
+subdivision	countable	0	subdivisions
+subnet mask	countable	1	subnet masks
+subordinate	countable	0	subordinates
+subscription	countable	0	subscriptions
+subscription fee	countable	1	subscription fees
+subscription tier	countable	1	subscription tiers
+subsidiary	countable	0	subsidiaries
+subsidiary ledger	countable	1	subsidiary ledgers
+subsidy	countable	0	subsidies
+substance	countable	0	substances
+substitute	countable	0	substitutes
+subtitle	countable	0	subtitles
+suburb	countable	0	suburbs
+successor	countable	0	successors
+suffering	countable	0	sufferings
+sum	countable	0	sums
+summary	countable	0	summaries
+sunset	countable	0	sunsets
+superintendent	countable	0	superintendents
+superstition	countable	0	superstitions
+supervised learning	mass	1	
+supervision	mass	0	
+supervisor	countable	0	supervisors
+supplement	countable	0	supplements
+supplier	countable	0	suppliers
+supply	countable	0	supplies
+supply chain	countable	1	supply chains
+support	countable	0	supports
+surface	countable	0	surfaces
+surge	countable	0	surges
+surgeon	countable	0	surgeons
+surgery	countable	0	surgeries
+surplus	countable	0	surpluses
+surroundings	lexical_plural	0	
+surveillance	mass	0	
+survey	countable	0	surveys
+survival	countable	0	survivals
+suspect	countable	0	suspects
+suspicion	countable	0	suspicions
+sustainability	mass	0	
+sustained performance	mass	1	
+swallow	countable	0	swallows
+swan	countable	0	swans
+sweep	countable	0	sweeps
+swift	countable	0	swifts
+swing	countable	0	swings
+switch	countable	0	switches
+syllabus	countable	0	syllabuses,syllabi
+symbol	countable	0	symbols
+symmetric encryption	mass	1	
+sympathy	mass	0	
+symptom	countable	0	symptoms
+syndication	mass	0	
+syntax	mass	0	
+synthetic benchmark	countable	1	synthetic benchmarks
+synthetic content	mass	1	
+synthetic monitoring	mass	1	
+system card	countable	1	system cards
+system in package	countable	0	systems in package
+system on a chip	countable	0	systems on a chip
+system testing	mass	1	
+table scan	countable	1	table scans
+tag	countable	0	tags
+tail latency	countable	1	tail latencies
+tail recursion	mass	1	
+takeaway	countable	0	takeaways
+takeover bid	countable	1	takeover bids
+takt time	countable	1	takt times
+tale	countable	0	tales
+tan	mass	0	
+tape	countable	0	tapes
+target	countable	0	targets
+target audience	countable	1	target audiences
+task	countable	0	tasks
+task cancellation	mass	1	
+tax	countable	0	taxes
+tax audit	countable	1	tax audits
+tax base	countable	1	tax bases
+tax credit	countable	1	tax credits
+tax deduction	countable	1	tax deductions
+tax liability	countable	1	tax liabilities
+tax residency	mass	1	
+tax return	countable	1	tax returns
+tax treaty	countable	1	tax treaties
+taxable income	mass	1	
+team	countable	0	teams
+team spirit	mass	1	
+tease	countable	0	teases
+technical debt	mass	1	
+technique	countable	0	techniques
+technology	countable	0	technologies
+teens	lexical_plural	0	
+telemetry	mass	0	
+telescope	countable	0	telescopes
+template	countable	0	templates
+temple	countable	0	temples
+temporal upscaling	mass	1	
+temporary	countable	0	temporaries
+temptation	countable	0	temptations
+tenant	countable	0	tenants
+tendency	countable	0	tendencies
+tenderness	mass	0	
+tense	countable	0	tenses
+tension	countable	0	tensions
+tensor processing unit	countable	2	tensor processing units
+term	countable	0	terms
+term sheet	countable	1	term sheets
+terminal	countable	0	terminals
+terms	lexical_plural	0	
+terrace	countable	0	terraces
+territory	countable	0	territories
+test bench	countable	1	test benches
+test dataset	countable	1	test datasets
+test double	countable	1	test doubles
+test fixture	countable	1	test fixtures
+test harness	countable	1	test harnesses
+test isolation	mass	1	
+test oracle	countable	1	test oracles
+test stub	countable	1	test stubs
+test time compute	mass	2	
+testimony	countable	0	testimonies
+testing	mass	0	
+text	countable	0	texts
+text watermarking	mass	1	
+textbook	countable	0	textbooks
+texture filtering	mass	1	
+texture mapping	mass	1	
+theme	countable	0	themes
+theory	countable	0	theories
+therapist	countable	0	therapists
+therapy	countable	0	therapies
+thermal design power	mass	2	
+thermal headroom	mass	1	
+thermal throttling	mass	1	
+thermometer	countable	0	thermometers
+thesis	countable	0	theses
+thigh	countable	0	thighs
+thirst	mass	0	
+thread	countable	0	threads
+thread count	mass	1	
+thread pool	countable	1	thread pools
+thread starvation	mass	1	
+threat	countable	0	threats
+threat actor	countable	1	threat actors
+threat intelligence	mass	1	
+threat model	countable	1	threat models
+threshold	countable	0	thresholds
+thrill	countable	0	thrills
+throat	countable	0	throats
+throttle	countable	0	throttles
+throttling	mass	0	
+throughput	mass	0	
+throughput ceiling	mass	1	
+throughput limit	countable	1	throughput limits
+throughput rate	countable	1	throughput rates
+thumb	countable	0	thumbs
+thundering herd	countable	1	thundering herds
+ticket	countable	0	tickets
+time series database	countable	2	time series databases
+time to live	mass	2	
+timeout	countable	0	timeouts
+times	lexical_plural	0	
+timing	countable	0	timings
+tissue	countable	0	tissues
+toggle	countable	0	toggles
+toil	mass	0	
+token rotation	mass	1	
+tokenizer	countable	0	tokenizers
+tolerance	countable	0	tolerances
+toll	countable	0	tolls
+ton	countable	0	tons
+tone	countable	0	tones
+tool calling	mass	1	
+tool use accuracy	mass	2	
+tooling	mass	0	
+topic	countable	0	topics
+torch	countable	0	torches
+total return	mass	1	
+tourist attraction	countable	1	tourist attractions
+tournament	countable	0	tournaments
+trace	countable	0	traces
+trace sampling	mass	1	
+track	countable	0	tracks
+tracking error	countable	1	tracking errors
+traction	mass	0	
+trade union	countable	1	trade unions
+trade-off	countable	0	trade-offs
+trader	countable	0	traders
+trading	mass	0	
+tradition	countable	0	traditions
+traffic shaping	mass	1	
+trafficking	mass	0	
+trailer	countable	0	trailers
+trainee	countable	0	trainees
+trainer	countable	0	trainers
+training data privacy	mass	2	
+training dataset	countable	1	training datasets
+trait	countable	0	traits
+transaction	countable	0	transactions
+transaction exposure	mass	1	
+transaction isolation	mass	1	
+transcript	countable	0	transcripts
+transcription	countable	0	transcriptions
+transfer	countable	0	transfers
+transfer learning	mass	1	
+transfer pricing	mass	1	
+transformer architecture	countable	1	transformer architectures
+transistor density	countable	1	transistor densities
+transit	mass	0	
+transition	countable	0	transitions
+transitive dependency	countable	1	transitive dependencies
+translation	countable	0	translations
+translation exposure	mass	1	
+translator	countable	0	translators
+transmission	countable	0	transmissions
+transport	mass	0	
+transport layer	countable	1	transport layers
+transportation	mass	0	
+trap	countable	0	traps
+travel insurance	mass	1	
+traverse	countable	0	traverses
+tray	countable	0	trays
+tread	countable	0	treads
+treasure	countable	0	treasures
+treatment	countable	0	treatments
+trek	countable	0	treks
+trend	countable	0	trends
+triage	mass	0	
+trial	countable	0	trials
+trial balance	countable	1	trial balances
+triangle	countable	0	triangles
+trigger	countable	0	triggers
+trio	countable	0	trios
+triple	countable	0	triples
+trolley	countable	0	trolleys
+troop	countable	0	troops
+trough	countable	0	troughs
+truancy	mass	0	
+trunk	countable	0	trunks
+trunk based development	mass	2	
+trust	countable	0	trusts
+tub	countable	0	tubs
+tug	countable	0	tugs
+tuition	mass	0	
+tune	countable	0	tunes
+tunnel	countable	0	tunnels
+turbo frequency	countable	1	turbo frequencies
+turnaround	countable	0	turnarounds
+turnover	countable	0	turnovers
+tutor	countable	0	tutors
+tutorial	countable	0	tutorials
+twist	countable	0	twists
+two-phase commit	countable	1	two-phase commits
+type inference	mass	1	
+type safety	mass	1	
+ultimate	countable	0	ultimates
+ultra wideband	mass	1	
+uncertainty	countable	0	uncertainties
+underfitting	mass	0	
+undergraduate	countable	0	undergraduates
+underneath	countable	0	underneaths
+understanding	countable	0	understandings
+undertaking	countable	0	undertakings
+undervolting	mass	0	
+underwriter	countable	0	underwriters
+unemployment	mass	0	
+unfortunate	countable	0	unfortunates
+uniform	countable	0	uniforms
+unique constraint	countable	1	unique constraints
+unique selling proposition	countable	2	unique selling propositions
+unit economics	mass	1	
+unit testing	mass	1	
+unity	mass	0	
+unknown	countable	0	unknowns
+unrest	mass	0	
+unsupervised learning	mass	1	
+up selling	mass	1	
+upbringing	countable	0	upbringings
+upgrade	countable	0	upgrades
+uptake	mass	0	
+uptime	mass	0	
+uptime monitoring	mass	1	
+urban sprawl	mass	1	
+urbanisation	mass	0	
+urge	countable	0	urges
+usability	mass	0	
+usage	countable	0	usages
+user	countable	0	users
+usher	countable	0	ushers
+utility	countable	0	utilities
+utilization	mass	0	
+vaccine	countable	0	vaccines
+valentine	countable	0	valentines
+validation	countable	0	validations
+validation dataset	countable	1	validation datasets
+validity	mass	0	
+valuable	countable	0	valuables
+valuation	countable	0	valuations
+valuation multiple	countable	1	valuation multiples
+value added tax	countable	2	value added taxes
+value object	countable	1	value objects
+value proposition	countable	1	value propositions
+value stream mapping	mass	2	
+vandalism	mass	0	
+variable	countable	0	variables
+variable refresh rate	countable	2	variable refresh rates
+variance	countable	0	variances
+variation	countable	0	variations
+variety	countable	0	varieties
+vector clock	countable	1	vector clocks
+vector database	countable	1	vector databases
+vegan	countable	0	vegans
+vegetarian	countable	0	vegetarians
+vehicle	countable	0	vehicles
+velocity	countable	0	velocities
+vendor	countable	0	vendors
+venture	countable	0	ventures
+venture capital	mass	1	
+venue	countable	0	venues
+verdict	countable	0	verdicts
+verse	countable	0	verses
+version	countable	0	versions
+version compatibility	mass	1	
+versioning	mass	0	
+vertex shader	countable	1	vertex shaders
+vertical scaling	mass	1	
+vesting schedule	countable	1	vesting schedules
+veteran	countable	0	veterans
+vibration	countable	0	vibrations
+victory	countable	0	victories
+video memory	mass	1	
+viewer	countable	0	viewers
+viewing angle	countable	1	viewing angles
+viewpoint	countable	0	viewpoints
+viewport	countable	0	viewports
+violence	mass	0	
+virtual machine	countable	1	virtual machines
+virtual network	countable	1	virtual networks
+virtual private network	countable	2	virtual private networks
+visa	countable	0	visas
+vision	countable	0	visions
+vision language model	countable	2	vision language models
+visual	countable	0	visuals
+vitamin	countable	0	vitamins
+voltage regulator	countable	1	voltage regulators
+volume	countable	0	volumes
+volume mount	countable	1	volume mounts
+volunteer	countable	0	volunteers
+volunteerism	mass	0	
+voting right	countable	1	voting rights
+vow	countable	0	vows
+vulnerability	countable	0	vulnerabilities
+vulnerability assessment	countable	1	vulnerability assessments
+wafer	countable	0	wafers
+wafer yield	countable	1	wafer yields
+wage	countable	0	wages
+waist	countable	0	waists
+walker	countable	0	walkers
+wardrobe	countable	0	wardrobes
+warm-up	countable	0	warm-ups
+warming	mass	0	
+warmth	mass	0	
+waste	mass	0	
+water resistance rating	mass	2	
+waterproof	mass	0	
+weakness	countable	0	weaknesses
+wealth	mass	0	
+wear leveling	mass	1	
+weave	countable	0	weaves
+webhook	countable	0	webhooks
+weed	countable	0	weeds
+weekly	countable	0	weeklies
+weighted average cost of capital	mass	2	
+welfare	mass	0	
+wellbeing	mass	0	
+wheat	mass	0	
+whisper	countable	0	whispers
+whistle	countable	0	whistles
+whistleblower protection	mass	1	
+whiteboard	countable	0	whiteboards
+widow	countable	0	widows
+wilderness	countable	0	wildernesses
+wildlife	mass	0	
+win rate	countable	1	win rates
+winding	mass	0	
+wink	countable	0	winks
+wire	countable	0	wires
+wireframe	countable	0	wireframes
+wireless	countable	0	wirelesses
+wireless access point	countable	2	wireless access points
+wireless charging	mass	1	
+wireless network	countable	1	wireless networks
+wireless range	countable	1	wireless ranges
+wireless standard	countable	1	wireless standards
+wisdom	mass	0	
+wise	mass	0	
+wit	countable	0	wits
+withdrawal	countable	0	withdrawals
+withholding tax	countable	1	withholding taxes
+witness	countable	0	witnesses
+wolf	countable	0	wolves
+work instruction	countable	1	work instructions
+work stealing	mass	1	
+workaround	countable	0	workarounds
+workflow	countable	0	workflows
+workforce	countable	0	workforces
+workforce reduction	countable	1	workforce reductions
+workforce scheduling	mass	1	
+working capital	mass	1	
+workload	countable	0	workloads
+workload balance	countable	1	workload balances
+workplace	countable	0	workplaces
+workshop	countable	0	workshops
+worm	countable	0	worms
+worship	mass	0	
+worth	mass	0	
+wound	countable	0	wounds
+wrap	countable	0	wraps
+wrapper	countable	0	wrappers
+wreck	countable	0	wrecks
+wrist	countable	0	wrists
+write amplification	mass	1	
+write amplification factor	countable	2	write amplification factors
+write endurance	mass	1	
+write-ahead log	countable	1	write-ahead logs
+x-ray	countable	0	x-rays
+yield	countable	0	yields
+zero trust	mass	1	
+zero-day	countable	0	zero-days
+zone	countable	0	zones
+# Approved basic-20 supplement; luggage is uncountable in the supplied sense.
+book	countable	0	books
+wallet	countable	0	wallets
+receipt	countable	0	receipts
+refund	countable	0	refunds
+charger	countable	0	chargers
+luggage	mass	0	
+pharmacy	countable	0	pharmacies
+need	countable	0	needs
+use	countable	0	uses
+try	countable	0	tries
+leave	mass	0	
+pay	mass	0	
+help	mass	0	
+work	mass	0	
+kettle	countable	0	kettles
+saucepan	countable	0	saucepans
+drawer	countable	0	drawers
+toothpaste	mass	0	
+toothbrush	countable	0	toothbrushes
+shampoo	mass	0	
+soap	mass	0	
+towel	countable	0	towels
+sink	countable	0	sinks
+sponge	countable	0	sponges
+detergent	mass	0	
+dishwasher	countable	0	dishwashers
+washing machine	countable	1	washing machines
+freezer	countable	0	freezers
+vacuum cleaner	countable	1	vacuum cleaners
+broom	countable	0	brooms
+mop	countable	0	mops
+shelf	countable	0	shelves
+cupboard	countable	0	cupboards
+curtain	countable	0	curtains
+bread	mass	0	
+rice	mass	0	
+pasta	mass	0	
+potato	countable	0	potatoes
+tomato	countable	0	tomatoes
+onion	countable	0	onions
+garlic	mass	0	
+carrot	countable	0	carrots
+lettuce	mass	0	
+cucumber	countable	0	cucumbers
+beef	mass	0	
+pork	mass	0	
+chicken	countable	0	chickens
+fish	invariant	0	fish
+egg	countable	0	eggs
+cheese	mass	0	
+butter	mass	0	
+yogurt	mass	0	
+milk	mass	0	
+flour	mass	0	
+shirt	countable	0	shirts
+sweater	countable	0	sweaters
+jacket	countable	0	jackets
+coat	countable	0	coats
+jeans	lexical_plural	0	
+shorts	lexical_plural	0	
+skirt	countable	0	skirts
+dress	countable	0	dresses
+sock	countable	0	socks
+shoe	countable	0	shoes
+boot	countable	0	boots
+hat	countable	0	hats
+scarf	countable	0	scarves,scarfs
+glove	countable	0	gloves
+belt	countable	0	belts
+underwear	mass	0	
+pajamas	lexical_plural	0	
+swimsuit	countable	0	swimsuits
+zipper	countable	0	zippers
+pocket	countable	0	pockets
+head	countable	0	heads
+face	countable	0	faces
+eye	countable	0	eyes
+ear	countable	0	ears
+nose	countable	0	noses
+mouth	countable	0	mouths
+tooth	countable	0	teeth
+neck	countable	0	necks
+shoulder	countable	0	shoulders
+arm	countable	0	arms
+hand	countable	0	hands
+finger	countable	0	fingers
+stomach	countable	0	stomaches
+leg	countable	0	legs
+knee	countable	0	knees
+foot	countable	0	feet
+brain	countable	0	brains
+headache	countable	0	headaches
+bandage	countable	0	bandages
+painkiller	countable	0	painkillers
+bus stop	countable	1	bus stops
+train station	countable	1	train stations
+timetable	countable	0	timetables
+boarding pass	countable	1	boarding passes
+departure gate	countable	1	departure gates
+baggage claim	mass	1	
+seat belt	countable	1	seat belts
+traffic light	countable	1	traffic lights
+crosswalk	countable	0	crosswalks
+roundabout	countable	0	roundabouts
+parking lot	countable	1	parking lots
+parking meter	countable	1	parking meters
+speed limit	countable	1	speed limits
+traffic jam	countable	1	traffic jams
+detour	countable	0	detours
+shortcut	countable	0	shortcuts
+suitcase	countable	0	suitcases
+backpack	countable	0	backpacks
+umbrella	countable	0	umbrellas
+travel adapter	countable	1	travel adapters
+say	mass	0	
+drink	countable	0	drinks
+sleep	mass	0	
+watch	countable	0	watches
+walk	countable	0	walks
+run	countable	0	runs
+stand	countable	0	stands
+wear	mass	0	
+drive	countable	0	drives
+ride	countable	0	rides
+start	countable	0	starts
+stop	countable	0	stops
+wait	countable	0	waits
+love	mass	0	
+call	countable	0	calls
+move	countable	0	moves
+turn	countable	0	turns
+win	countable	0	wins
+break	countable	0	breaks
+cut	countable	0	cuts
+show	countable	0	shows
+change	countable	0	changes
+look	countable	0	looks
+touch	countable	0	touches
+cushion	countable	0	cushions
+duvet	countable	0	duvets
+razor	countable	0	razors
+trash can	countable	1	trash cans
+ironing board	countable	1	ironing boards
+clothes hanger	countable	1	clothes hangers
+laundry basket	countable	1	laundry baskets
+cutting board	countable	1	cutting boards
+can opener	countable	1	can openers
+bottle opener	countable	1	bottle openers
+corkscrew	countable	0	corkscrews
+colander	countable	0	colanders
+strainer	countable	0	strainers
+ladle	countable	0	ladles
+spatula	countable	0	spatulas
+whisk	countable	0	whisks
+doorknob	countable	0	doorknobs
+doorbell	countable	0	doorbells
+doormat	countable	0	doormats
+balcony	countable	0	balconies
+stair	countable	0	stairs
+staircase	countable	0	staircases
+hallway	countable	0	hallways
+living room	countable	1	living rooms
+dining room	countable	1	dining rooms
+bathroom	countable	0	bathrooms
+bedroom	countable	0	bedrooms
+bedside table	countable	1	bedside tables
+bedsheet	countable	0	bedsheets
+pillowcase	countable	0	pillowcases
+bath mat	countable	1	bath mats
+dishcloth	countable	0	dishcloths
+tea towel	countable	1	tea towels
+light bulb	countable	1	light bulbs
+extension cord	countable	1	extension cords
+power strip	countable	1	power strips
+remote control	countable	1	remote controls
+alarm clock	countable	1	alarm clocks
+trash bag	countable	1	trash bags
+housework	mass	0	
+vacuum bag	countable	1	vacuum bags
+oven mitt	countable	1	oven mitts
+apron	countable	0	aprons
+measuring cup	countable	1	measuring cups
+measuring spoon	countable	1	measuring spoons
+baking tray	countable	1	baking trays
+mixing bowl	countable	1	mixing bowls
+rolling pin	countable	1	rolling pins
+peeler	countable	0	peelers
+tongs	lexical_plural	0	
+pepper	countable	0	peppers
+pea	countable	0	peas
+bean	countable	0	beans
+lentil	countable	0	lentils
+corn	mass	0	
+shrimp	invariant	0	shrimp
+salmon	invariant	0	salmon
+tuna	invariant	0	tuna
+cream	mass	0	
+honey	mass	0	
+vinegar	mass	0	
+cooking oil	mass	1	
+olive oil	mass	1	
+soy sauce	mass	1	
+mustard	mass	0	
+ketchup	mass	0	
+mayonnaise	mass	0	
+jam	countable	0	jams
+peanut butter	mass	1	
+banana	countable	0	bananas
+apple	countable	0	apples
+orange	countable	0	oranges
+lemon	countable	0	lemons
+lime	countable	0	limes
+grape	countable	0	grapes
+strawberry	countable	0	strawberries
+watermelon	countable	0	watermelons
+pear	countable	0	pears
+pineapple	countable	0	pineapples
+mango	countable	0	mangos
+avocado	countable	0	avocados
+almond	countable	0	almonds
+walnut	countable	0	walnuts
+peanut	countable	0	peanuts
+cashew	countable	0	cashews
+breakfast	countable	0	breakfasts
+lunch	countable	0	lunches
+dinner	countable	0	dinners
+supper	countable	0	suppers
+snack	countable	0	snacks
+dessert	countable	0	desserts
+sandwich	countable	0	sandwiches
+soup	countable	0	soups
+salad	countable	0	salads
+omelet	countable	0	omelets
+porridge	mass	0	
+cereal	mass	0	
+toast	countable	0	toasts
+sausage	countable	0	sausages
+bacon	mass	0	
+T-shirt	countable	0	T-shirts
+blouse	countable	0	blouses
+hoodie	countable	0	hoodies
+raincoat	countable	0	raincoats
+trousers	lexical_plural	0	
+suit	countable	0	suits
+sneaker	countable	0	sneakers
+sandal	countable	0	sandals
+slipper	countable	0	slippers
+cap	countable	0	caps
+sunglasses	lexical_plural	0	
+earring	countable	0	earrings
+necklace	countable	0	necklaces
+bracelet	countable	0	bracelets
+ring	countable	0	rings
+shoelace	countable	0	shoelaces
+sleeve	countable	0	sleeves
+hem	countable	0	hems
+cotton	mass	0	
+wool	mass	0	
+linen	mass	0	
+leather	mass	0	
+cardigan	countable	0	cardigans
+vest	countable	0	vests
+waistcoat	countable	0	waistcoats
+blazer	countable	0	blazers
+sweatshirt	countable	0	sweatshirts
+sweatpants	lexical_plural	0	
+tracksuit	countable	0	tracksuits
+leggings	lexical_plural	0	
+tights	lexical_plural	0	
+stocking	countable	0	stockings
+bra	countable	0	bras
+undershirt	countable	0	undershirts
+bathrobe	countable	0	bathrobes
+dressing gown	countable	1	dressing gowns
+lip	countable	0	lips
+tongue	countable	0	tongues
+chest	countable	0	chests
+back	countable	0	backs
+ankle	countable	0	ankles
+toe	countable	0	toes
+skin	countable	0	skins
+bone	countable	0	bones
+muscle	countable	0	muscles
+blood	mass	0	
+heart	countable	0	hearts
+kidney	countable	0	kidneys
+liver	countable	0	livers
+toothache	countable	0	toothaches
+stomachache	countable	0	stomachaches
+sore throat	countable	1	sore throats
+runny nose	countable	1	runny noses
+dizziness	mass	0	
+nausea	mass	0	
+bruise	countable	0	bruises
+sprain	countable	0	sprains
+blister	countable	0	blisters
+itch	countable	0	itches
+swelling	countable	0	swellings
+ointment	mass	0	
+first aid kit	countable	2	first aid kits
+checkup	countable	0	checkups
+vaccination	mass	0	
+dosage	countable	0	dosages
+tablet	countable	0	tablets
+capsule	countable	0	capsules
+inhaler	countable	0	inhalers
+emergency room	countable	1	emergency rooms
+waiting room	countable	1	waiting rooms
+appointment	countable	0	appointments
+allergy	countable	0	allergies
+diarrhea	mass	0	
+constipation	mass	0	
+eyebrow	countable	0	eyebrows
+eyelash	countable	0	eyelashes
+eyelid	countable	0	eyelids
+chin	countable	0	chins
+forehead	countable	0	foreheads
+nostril	countable	0	nostrils
+palate	countable	0	palates
+fingernail	countable	0	fingernails
+toenail	countable	0	toenails
+calf	countable	0	calves
+armpit	countable	0	armpits
+purse	countable	0	purses
+cash	mass	0	
+coin	countable	0	coins
+banknote	countable	0	banknotes
+price tag	countable	1	price tags
+shopping cart	countable	1	shopping carts
+shopping basket	countable	1	shopping baskets
+checkout	countable	0	checkouts
+cashier	countable	0	cashiers
+barcode	countable	0	barcodes
+discount code	countable	1	discount codes
+coupon	countable	0	coupons
+loyalty card	countable	1	loyalty cards
+gift card	countable	1	gift cards
+store credit	mass	1	
+delivery fee	countable	1	delivery fees
+shipping fee	countable	1	shipping fees
+return policy	countable	1	return policies
+price match	countable	1	price matches
+fitting room	countable	1	fitting rooms
+wholesaler	countable	0	wholesalers
+customer service	mass	1	
+shop assistant	countable	1	shop assistants
+grocery store	countable	1	grocery stores
+convenience store	countable	1	convenience stores
+department store	countable	1	department stores
+bakery	countable	0	bakeries
+laundromat	countable	0	laundromats
+dry cleaner	countable	1	dry cleaners
+tailor	countable	0	tailors
+hairdresser	countable	0	hairdressers
+barber	countable	0	barbers
+jeweler	countable	0	jewelers
+parcel	countable	0	parcels
+postage	mass	0	
+postbox	countable	0	postboxes
+mailbox	countable	0	mailboxes
+postcode	countable	0	postcodes
+cash register	countable	1	cash registers
+card reader	countable	1	card readers
+contactless payment	countable	1	contactless payments
+payment terminal	countable	1	payment terminals
+receipt printer	countable	1	receipt printers
+bank transfer	countable	1	bank transfers
+bus station	countable	1	bus stations
+ticket office	countable	1	ticket offices
+ticket machine	countable	1	ticket machines
+round trip	countable	1	round trips
+one-way ticket	countable	1	one-way tickets
+return ticket	countable	1	return tickets
+carry-on	countable	0	carry-ons
+pedestrian crossing	countable	1	pedestrian crossings
+junction	countable	0	junctions
+gas station	countable	1	gas stations
+toll road	countable	1	toll roads
+taxi rank	countable	1	taxi ranks
+ride-sharing	mass	0	
+car rental	mass	1	
+rental car	countable	1	rental cars
+customs officer	countable	1	customs officers
+currency exchange	mass	1	
+cancellation	countable	0	cancellations
+airport terminal	countable	1	airport terminals
+check-in counter	countable	1	check-in counters
+security checkpoint	countable	1	security checkpoints
+passport control	mass	1	
+departure lounge	countable	1	departure lounges
+arrival hall	countable	1	arrival halls
+baggage carousel	countable	1	baggage carousels
+overhead bin	countable	1	overhead bins
+aisle seat	countable	1	aisle seats
+window seat	countable	1	window seats
+middle seat	countable	1	middle seats
+connecting flight	countable	1	connecting flights
+direct flight	countable	1	direct flights
+nonstop flight	countable	1	nonstop flights
+flight attendant	countable	1	flight attendants
+boarding time	countable	1	boarding times
+departure time	countable	1	departure times
+arrival time	countable	1	arrival times
+checked baggage	mass	1	
+excess baggage	mass	1	
+baggage allowance	countable	1	baggage allowances
+lost property	mass	1	
+left luggage	mass	1	
+bus fare	countable	1	bus fares
+train fare	countable	1	train fares
+bus route	countable	1	bus routes
+subway station	countable	1	subway stations
+tram stop	countable	1	tram stops
+ferry terminal	countable	1	ferry terminals
+coach station	countable	1	coach stations
+ticket inspector	countable	1	ticket inspectors
+ticket barrier	countable	1	ticket barriers
+sick leave	mass	1	
+annual leave	mass	1	
+paid leave	mass	1	
+unpaid leave	mass	1	
+probation period	countable	1	probation periods
+notice period	countable	1	notice periods
+dismissal	countable	0	dismissals
+pay rise	countable	1	pay rises
+payslip	countable	0	payslips
+overtime pay	mass	1	
+expense claim	countable	1	expense claims
+reimbursement	mass	0	
+business trip	countable	1	business trips
+performance review	countable	1	performance reviews
+job vacancy	countable	1	job vacancies
+job interview	countable	1	job interviews
+cover letter	countable	1	cover letters
+job offer	countable	1	job offers
+employment contract	countable	1	employment contracts
+work shift	countable	1	work shifts
+flexible hours	lexical_plural	1	
+remote work	mass	1	
+hybrid work	mass	1	
+team meeting	countable	1	team meetings
+meeting minutes	lexical_plural	1	
+to-do list	countable	1	to-do lists
+time off	mass	1	
+time zone	countable	1	time zones
+clarification	countable	0	clarifications
+permission	mass	0	
+update	countable	0	updates
+job description	countable	1	job descriptions
+job application	countable	1	job applications
+application form	countable	1	application forms
+reference letter	countable	1	reference letters
+recruitment agency	countable	1	recruitment agencies
+career change	countable	1	career changes
+career path	countable	1	career paths
+entry-level job	countable	1	entry-level jobs
+work experience	mass	1	
+employment history	mass	1	
+job seeker	countable	1	job seekers
+job opening	countable	1	job openings
+job board	countable	1	job boards
+orientation session	countable	1	orientation sessions
+training session	countable	1	training sessions
+staff meeting	countable	1	staff meetings
+staff room	countable	1	staff rooms
+meeting room	countable	1	meeting rooms
+video call	countable	1	video calls
+kind	countable	0	kinds
+right	countable	0	rights
+cold	countable	0	colds
+light	mass	0	
+safe	countable	0	safes
+mother	countable	0	mothers
+father	countable	0	fathers
+parent	countable	0	parents
+brother	countable	0	brothers
+sister	countable	0	sisters
+son	countable	0	sons
+daughter	countable	0	daughters
+husband	countable	0	husbands
+wife	countable	0	wives
+grandmother	countable	0	grandmothers
+grandfather	countable	0	grandfathers
+aunt	countable	0	aunts
+uncle	countable	0	uncles
+cousin	countable	0	cousins
+niece	countable	0	nieces
+nephew	countable	0	nephews
+family	countable	0	families
+child	countable	0	children
+baby	countable	0	babies
+toddler	countable	0	toddlers
+teenager	countable	0	teenagers
+neighbor	countable	0	neighbors
+friend	countable	0	friends
+classmate	countable	0	classmates
+roommate	countable	0	roommates
+teammate	countable	0	teammates
+stranger	countable	0	strangers
+guest	countable	0	guests
+host	countable	0	hosts
+customer	countable	0	customers
+passenger	countable	0	passengers
+tourist	countable	0	tourists
+visitor	countable	0	visitors
+grandchild	countable	0	grandchildren
+grandparent	countable	0	grandparents
+great-grandmother	countable	0	great-grandmothers
+great-grandfather	countable	0	great-grandfathers
+mother-in-law	countable	0	mothers-in-law
+father-in-law	countable	0	fathers-in-law
+son-in-law	countable	0	sons-in-law
+daughter-in-law	countable	0	daughters-in-law
+brother-in-law	countable	0	brothers-in-law
+sister-in-law	countable	0	sisters-in-law
+stepmother	countable	0	stepmothers
+stepfather	countable	0	stepfathers
+stepbrother	countable	0	stepbrothers
+stepsister	countable	0	stepsisters
+half-brother	countable	0	half-brothers
+half-sister	countable	0	half-sisters
+foster parent	countable	1	foster parents

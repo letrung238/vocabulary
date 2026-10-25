@@ -6721,6 +6721,20 @@
         "synonyms": [
           "pleased with"
         ]
+      },
+      {
+        "word": "satisfied by",
+        "pos": "adjective",
+        "ipa": "/ˈsætɪsfaɪd baɪ/",
+        "meaningVi": "được thỏa mãn hoặc giải đáp bởi điều gì",
+        "example": "I was satisfied by her clear explanation.",
+        "exampleVi": "Tôi đã thỏa mãn với lời giải thích rõ ràng của cô ấy.",
+        "topic": "communication",
+        "tags": [
+          "prepositions",
+          "communication"
+        ],
+        "synonyms": []
       }
     ],
     "synonyms": [
@@ -6740,6 +6754,36 @@
       "b2",
       "b2-daily-work",
       "daily"
+    ],
+    "phrases": [
+      {
+        "word": "shocked by",
+        "pos": "adjective",
+        "ipa": "/ʃɒkt baɪ/",
+        "meaningVi": "bị sốc do một sự kiện gây ra",
+        "example": "We were shocked by the sudden closure.",
+        "exampleVi": "Chúng tôi bị sốc vì việc đóng cửa đột ngột.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      },
+      {
+        "word": "shocked at",
+        "pos": "adjective",
+        "ipa": "/ʃɒkt æt/",
+        "meaningVi": "sửng sốt trước một tình huống hoặc mức độ",
+        "example": "She was shocked at the size of the bill.",
+        "exampleVi": "Cô ấy sửng sốt trước số tiền trên hóa đơn.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      }
     ],
     "synonyms": [
       "stunned"
@@ -10188,6 +10232,22 @@
         "example": "We need a practical solution as opposed to another discussion.",
         "exampleVi": "Chúng ta cần một giải pháp thực tế thay vì một cuộc thảo luận khác.",
         "ipa": "/əˈpəʊzd/"
+      }
+    ],
+    "phrases": [
+      {
+        "word": "opposed to",
+        "pos": "adjective",
+        "ipa": "/əˈpəʊzd tə/",
+        "meaningVi": "phản đối một ý tưởng hoặc hành động",
+        "example": "Many residents are opposed to the new road.",
+        "exampleVi": "Nhiều cư dân phản đối con đường mới.",
+        "topic": "communication",
+        "tags": [
+          "prepositions",
+          "communication"
+        ],
+        "synonyms": []
       }
     ],
     "synonyms": [

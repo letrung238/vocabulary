@@ -1,0 +1,501 @@
+# Approved proposal ID | English context | Vietnamese context | primary-sense synonyms
+1|I did the dishes after dinner.|Tôi rửa bát sau bữa tối.|perform
+2|We went to the station by bus.|Chúng tôi đi xe buýt đến nhà ga.|
+3|She came to the meeting early.|Cô ấy đến cuộc họp sớm.|arrive
+4|He put his keys on the table.|Anh ấy đặt chìa khóa lên bàn.|place
+5|My parents let me borrow their car.|Bố mẹ cho phép tôi mượn xe của họ.|allow;permit
+6|She said that the shop was closed.|Cô ấy nói rằng cửa hàng đã đóng cửa.|
+7|We ate lunch before leaving.|Chúng tôi ăn trưa trước khi rời đi.|
+8|He drank a glass of water.|Anh ấy uống một cốc nước.|
+9|The baby slept for two hours.|Em bé ngủ trong hai giờ.|
+10|We watched a film together.|Chúng tôi cùng xem một bộ phim.|
+11|She walked to work this morning.|Sáng nay cô ấy đi bộ đến nơi làm việc.|
+12|He ran to catch the bus.|Anh ấy chạy để kịp xe buýt.|
+13|We stood near the entrance.|Chúng tôi đứng gần lối vào.|
+14|She wore a blue shirt to the interview.|Cô ấy mặc áo sơ mi xanh đến buổi phỏng vấn.|
+15|He drove us to the airport.|Anh ấy lái xe đưa chúng tôi đến sân bay.|
+16|She rode her bicycle to school.|Cô ấy đạp xe đến trường.|
+17|I met my cousin at the station.|Tôi gặp người anh em họ ở nhà ga.|
+18|The lesson started at nine.|Buổi học bắt đầu lúc chín giờ.|begin
+19|The bus stopped outside the school.|Xe buýt dừng bên ngoài trường.|halt
+20|We waited for the next train.|Chúng tôi chờ chuyến tàu tiếp theo.|
+21|She learned how to use the new software.|Cô ấy học cách sử dụng phần mềm mới.|
+22|He taught us how to make bread.|Anh ấy dạy chúng tôi cách làm bánh mì.|
+23|They lived near the city center.|Họ sống gần trung tâm thành phố.|reside
+24|She loves her family very much.|Cô ấy rất yêu gia đình của mình.|adore
+25|I like reading before bed.|Tôi thích đọc sách trước khi ngủ.|enjoy
+26|He called me after the meeting.|Anh ấy gọi điện cho tôi sau cuộc họp.|phone;telephone
+27|We moved the table closer to the window.|Chúng tôi chuyển bàn đến gần cửa sổ hơn.|
+28|Turn left at the next junction.|Hãy rẽ trái ở chỗ giao đường tiếp theo.|
+29|She held the baby carefully.|Cô ấy bế em bé cẩn thận.|
+30|He carried the suitcase upstairs.|Anh ấy mang va li lên tầng trên.|
+31|I sent the documents by email.|Tôi gửi tài liệu qua email.|
+32|We received your message yesterday.|Hôm qua chúng tôi nhận được tin nhắn của bạn.|get
+33|Our team won the match.|Đội của chúng tôi thắng trận đấu.|
+34|I lost my wallet on the bus.|Tôi làm mất ví trên xe buýt.|
+35|They built a small house near the river.|Họ xây một ngôi nhà nhỏ gần sông.|construct
+36|I broke a glass while washing it.|Tôi làm vỡ một chiếc cốc khi rửa.|
+37|She cut the bread into slices.|Cô ấy cắt bánh mì thành từng lát.|
+38|He showed me how to use the machine.|Anh ấy chỉ cho tôi cách dùng máy.|demonstrate
+39|I felt tired after the journey.|Tôi thấy mệt sau chuyến đi.|
+40|The accident happened near the station.|Tai nạn xảy ra gần nhà ga.|occur
+41|She became a teacher after college.|Cô ấy trở thành giáo viên sau khi học đại học.|
+42|I understood the instructions after reading them twice.|Tôi hiểu hướng dẫn sau khi đọc hai lần.|comprehend
+43|The problem seems easy to solve.|Vấn đề có vẻ dễ giải quyết.|appear
+44|We stayed at a small hotel.|Chúng tôi ở một khách sạn nhỏ.|
+45|He returned home before dark.|Anh ấy trở về nhà trước khi trời tối.|come back
+46|We changed our plans because of the rain.|Chúng tôi thay đổi kế hoạch vì mưa.|alter
+47|Look at the sign above the door.|Hãy nhìn biển phía trên cửa.|
+48|I saw a bird outside the window.|Tôi nhìn thấy một con chim ngoài cửa sổ.|
+49|We heard a strange noise downstairs.|Chúng tôi nghe thấy một tiếng động lạ ở tầng dưới.|
+50|Do not touch the hot pan.|Đừng chạm vào chiếc chảo nóng.|
+51|Put a cushion behind your back.|Hãy đặt một chiếc gối tựa sau lưng.|
+52|The duvet keeps me warm at night.|Chăn bông giữ ấm cho tôi vào ban đêm.|
+53|He bought a new razor this morning.|Sáng nay anh ấy mua một chiếc dao cạo mới.|
+54|Put the empty carton in the trash can.|Hãy bỏ hộp giấy rỗng vào thùng rác.|rubbish bin
+55|Set up the ironing board before ironing your shirt.|Hãy mở bàn để là quần áo trước khi là áo sơ mi.|
+56|Hang the jacket on a clothes hanger.|Hãy treo áo khoác lên móc quần áo.|
+57|Put the dirty towels in the laundry basket.|Hãy bỏ khăn bẩn vào giỏ đựng đồ cần giặt.|
+58|Use a cutting board when chopping vegetables.|Hãy dùng thớt khi thái rau.|chopping board
+59|I opened the tin with a can opener.|Tôi mở hộp bằng dụng cụ mở đồ hộp.|tin opener
+60|We need a bottle opener for these bottles.|Chúng ta cần dụng cụ mở nắp cho những chai này.|
+61|He removed the cork with a corkscrew.|Anh ấy dùng dụng cụ mở nút chai để lấy nút ra.|
+62|Drain the pasta in a colander.|Hãy đổ mì Ý vào rổ để ráo nước.|
+63|Pour the tea through a strainer.|Hãy rót trà qua dụng cụ lọc.|
+64|Use a ladle to serve the soup.|Hãy dùng muôi để múc súp.|
+65|Turn the pancake with a spatula.|Hãy dùng xẻng nấu ăn để lật bánh.|
+66|Mix the eggs with a whisk.|Hãy dùng phới để đánh trứng.|
+67|The doorknob is loose.|Núm tay nắm cửa bị lỏng.|
+68|Someone rang the doorbell.|Có người bấm chuông cửa.|
+69|Wipe your shoes on the doormat.|Hãy chùi giày trên thảm trước cửa.|
+70|We ate breakfast on the balcony.|Chúng tôi ăn sáng ngoài ban công.|
+71|Be careful on the last stair.|Hãy cẩn thận ở bậc cầu thang cuối cùng.|step
+72|A wooden staircase leads to the bedrooms.|Một cầu thang bằng gỗ dẫn lên các phòng ngủ.|
+73|Leave your shoes in the hallway.|Hãy để giày trong hành lang.|
+74|The children are playing in the living room.|Bọn trẻ đang chơi trong phòng khách.|sitting room
+75|We put a large table in the dining room.|Chúng tôi đặt một chiếc bàn lớn trong phòng ăn.|
+76|The bathroom is at the end of the hallway.|Phòng tắm ở cuối hành lang.|
+77|My bedroom has a small window.|Phòng ngủ của tôi có một cửa sổ nhỏ.|
+78|I keep a book on the bedside table.|Tôi để một cuốn sách trên bàn cạnh giường.|nightstand
+79|Change the bedsheet before the guests arrive.|Hãy thay ga giường trước khi khách đến.|
+80|This pillowcase is made of cotton.|Vỏ gối này làm bằng vải bông.|
+81|Place a bath mat beside the shower.|Hãy đặt thảm tắm cạnh chỗ tắm vòi sen.|
+82|Use a clean dishcloth to wipe the counter.|Hãy dùng khăn sạch để lau mặt bàn bếp.|
+83|Dry the plates with a tea towel.|Hãy dùng khăn để lau khô đĩa.|
+84|The light bulb needs replacing.|Bóng đèn cần được thay.|
+85|This extension cord reaches the wall socket.|Dây điện nối dài này tới được ổ cắm trên tường.|
+86|Plug the computer into the power strip.|Hãy cắm máy tính vào ổ điện nhiều lỗ.|
+87|Where is the remote control for the television?|Điều khiển tivi ở đâu?|
+88|I set the alarm clock for seven.|Tôi đặt đồng hồ báo thức lúc bảy giờ.|
+89|Take the full trash bag outside.|Hãy mang túi rác đầy ra ngoài.|bin bag
+90|We share the housework at home.|Chúng tôi chia nhau làm việc nhà.|household chores
+91|The vacuum bag is full of dust.|Túi chứa bụi của máy hút bụi đã đầy.|
+92|Wear an oven mitt to lift the hot tray.|Hãy đeo găng chống nóng để nhấc khay nóng.|
+93|She put on an apron before cooking.|Cô ấy mặc tạp dề trước khi nấu ăn.|
+94|Pour the milk into a measuring cup.|Hãy đổ sữa vào cốc đong.|
+95|Use a measuring spoon for the salt.|Hãy dùng thìa đong để đong muối.|
+96|Place the cookies on a baking tray.|Hãy đặt bánh quy lên khay nướng.|baking sheet
+97|Put the flour in a mixing bowl.|Hãy cho bột mì vào bát trộn.|
+98|Flatten the dough with a rolling pin.|Hãy dùng cây cán để cán mỏng bột.|
+99|Remove the potato skin with a peeler.|Hãy dùng dụng cụ gọt vỏ để gọt khoai tây.|
+100|Use tongs to lift the hot food.|Hãy dùng kẹp để gắp thức ăn nóng.|
+101|Cut a red pepper into small pieces.|Hãy thái một quả ớt đỏ thành miếng nhỏ.|
+102|There is a pea on the plate.|Có một hạt đậu Hà Lan trên đĩa.|
+103|We added beans to the soup.|Chúng tôi cho đậu vào súp.|
+104|Rinse the lentils before cooking them.|Hãy rửa đậu lăng trước khi nấu.|
+105|We bought some fresh corn at the market.|Chúng tôi mua ít ngô tươi ở chợ.|maize
+106|The restaurant serves rice with shrimp.|Nhà hàng phục vụ cơm với tôm.|
+107|We had salmon for dinner.|Chúng tôi ăn cá hồi vào bữa tối.|
+108|She made a sandwich with tuna.|Cô ấy làm bánh mì kẹp cá ngừ.|
+109|Add a little cream to the sauce.|Hãy cho một ít kem sữa vào nước sốt.|
+110|He put honey in his tea.|Anh ấy cho mật ong vào trà.|
+111|Mix the oil with some vinegar.|Hãy trộn dầu với một ít giấm.|
+112|Heat a little cooking oil in the pan.|Hãy làm nóng một ít dầu ăn trong chảo.|
+113|We use olive oil for this salad.|Chúng tôi dùng dầu ô liu cho món rau trộn này.|
+114|Add a little soy sauce to the rice.|Hãy cho một ít nước tương vào cơm.|
+115|Would you like mustard with your sandwich?|Bạn có muốn ăn mù tạt với bánh mì kẹp không?|
+116|The children put ketchup on their chips.|Bọn trẻ cho tương cà lên khoai tây chiên.|
+117|Mix the tuna with a little mayonnaise.|Hãy trộn cá ngừ với một ít sốt mayonnaise.|
+118|Spread some jam on the toast.|Hãy phết mứt lên bánh mì nướng.|
+119|I like peanut butter on bread.|Tôi thích phết bơ đậu phộng lên bánh mì.|
+120|She packed a banana for lunch.|Cô ấy mang một quả chuối cho bữa trưa.|
+121|He ate an apple after the meal.|Anh ấy ăn một quả táo sau bữa ăn.|
+122|Peel the orange before eating it.|Hãy bóc vỏ cam trước khi ăn.|
+123|Add a slice of lemon to the water.|Hãy cho một lát chanh vàng vào nước.|
+124|Squeeze a lime over the fish.|Hãy vắt chanh xanh lên cá.|
+125|Wash the grapes before serving them.|Hãy rửa nho trước khi dọn ra.|
+126|She put a strawberry on the cake.|Cô ấy đặt một quả dâu tây lên bánh.|
+127|We shared a large watermelon.|Chúng tôi cùng ăn một quả dưa hấu lớn.|
+128|This pear is sweet and juicy.|Quả lê này ngọt và mọng nước.|
+129|Cut the pineapple into slices.|Hãy thái dứa thành từng lát.|
+130|I bought a ripe mango.|Tôi mua một quả xoài chín.|
+131|She added avocado to the salad.|Cô ấy cho quả bơ vào món rau trộn.|
+132|There is an almond in each biscuit.|Mỗi chiếc bánh quy có một hạt hạnh nhân.|
+133|Crack the walnut to remove the shell.|Hãy đập quả óc chó để bỏ vỏ.|
+134|This sauce contains peanuts.|Nước sốt này chứa đậu phộng.|
+135|We bought a bag of cashews.|Chúng tôi mua một túi hạt điều.|
+136|I usually have breakfast at seven.|Tôi thường ăn sáng lúc bảy giờ.|
+137|We had lunch near the office.|Chúng tôi ăn trưa gần văn phòng.|
+138|She invited us to dinner.|Cô ấy mời chúng tôi ăn tối.|
+139|We had a light supper after the concert.|Chúng tôi ăn một bữa tối nhẹ sau buổi hòa nhạc.|
+140|I brought a snack for the journey.|Tôi mang đồ ăn nhẹ cho chuyến đi.|
+141|Would you like fruit for dessert?|Bạn có muốn ăn trái cây tráng miệng không?|
+142|He made a cheese sandwich.|Anh ấy làm bánh mì kẹp phô mai.|
+143|The soup is too hot to eat.|Súp nóng quá nên chưa ăn được.|
+144|We ordered a salad with our meal.|Chúng tôi gọi một phần rau trộn ăn cùng bữa.|
+145|She cooked an omelet for breakfast.|Cô ấy làm trứng tráng cho bữa sáng.|omelette
+146|I eat porridge on cold mornings.|Tôi ăn cháo vào những buổi sáng lạnh.|
+147|He poured milk over his cereal.|Anh ấy đổ sữa vào ngũ cốc ăn sáng.|
+148|Put some butter on the toast.|Hãy phết một ít bơ lên bánh mì nướng.|
+149|She grilled a sausage for lunch.|Cô ấy nướng một chiếc xúc xích cho bữa trưa.|
+150|We cooked eggs with bacon.|Chúng tôi nấu trứng với thịt lợn muối.|
+151|He wore a plain T-shirt.|Anh ấy mặc một chiếc áo phông trơn.|tee shirt
+152|She chose a white blouse.|Cô ấy chọn một chiếc áo kiểu nữ màu trắng.|
+153|I wear a hoodie on cool evenings.|Tôi mặc áo có mũ vào những buổi tối mát.|
+154|Take a raincoat because it may rain.|Hãy mang áo mưa vì trời có thể mưa.|
+155|These trousers are too long.|Chiếc quần dài này dài quá.|pants
+156|He wore a dark suit to the wedding.|Anh ấy mặc bộ vest màu tối đến đám cưới.|
+157|There is a small hole in my sneaker.|Có một lỗ nhỏ trên giày thể thao của tôi.|trainer
+158|The strap on this sandal is broken.|Quai của chiếc dép này bị đứt.|
+159|I found one slipper under the bed.|Tôi tìm thấy một chiếc dép đi trong nhà dưới giường.|
+160|He put on a cap before going outside.|Anh ấy đội mũ lưỡi trai trước khi ra ngoài.|
+161|She wore sunglasses in the bright sun.|Cô ấy đeo kính râm dưới trời nắng.|
+162|I lost one earring at the party.|Tôi làm mất một chiếc khuyên tai ở bữa tiệc.|
+163|He gave her a necklace for her birthday.|Anh ấy tặng cô ấy một chiếc vòng cổ vào dịp sinh nhật.|
+164|This bracelet is made of silver.|Chiếc vòng tay này làm bằng bạc.|
+165|She wears a ring on her left hand.|Cô ấy đeo nhẫn ở tay trái.|
+166|Tie your shoelace before running.|Hãy buộc dây giày trước khi chạy.|
+167|The sleeve of my shirt is wet.|Tay áo sơ mi của tôi bị ướt.|
+168|The tailor shortened the hem of the skirt.|Thợ may chỉnh gấu váy cho ngắn hơn.|
+169|This shirt is made of cotton.|Chiếc áo này làm bằng vải bông.|
+170|The scarf is made of wool.|Chiếc khăn quàng làm bằng len.|
+171|Linen is comfortable in hot weather.|Vải lanh mặc thoải mái khi trời nóng.|
+172|These shoes are made of leather.|Đôi giày này làm bằng da thuộc.|
+173|She wore a striped shirt.|Cô ấy mặc áo có sọc.|
+174|He chose a checked jacket.|Anh ấy chọn một chiếc áo khoác kẻ ô.|checkered
+175|These gloves are too tight.|Đôi găng tay này quá chật.|
+176|That style is fashionable this year.|Kiểu đó hợp thời trang trong năm nay.|stylish
+177|She put on a cardigan over her blouse.|Cô ấy mặc áo len cài nút bên ngoài áo kiểu.|
+178|He wore a vest over his shirt.|Anh ấy mặc áo gile bên ngoài áo sơ mi.|waistcoat
+179|The waistcoat matches his suit.|Chiếc áo gile hợp với bộ vest của anh ấy.|vest
+180|He wore a blazer to the interview.|Anh ấy mặc áo khoác kiểu vest đến buổi phỏng vấn.|
+181|I packed a sweatshirt for the trip.|Tôi mang một chiếc áo nỉ cho chuyến đi.|
+182|He changed into sweatpants after work.|Anh ấy thay quần nỉ sau khi làm việc.|
+183|She wore a tracksuit to the gym.|Cô ấy mặc bộ đồ thể thao đến phòng tập.|
+184|These leggings are soft and stretchy.|Chiếc quần ôm này mềm và co giãn.|
+185|She wore tights under her skirt.|Cô ấy mặc quần tất bên trong váy.|pantyhose
+186|There is a hole in one stocking.|Có một lỗ trên một chiếc tất dài.|
+187|She bought a comfortable bra.|Cô ấy mua một chiếc áo ngực thoải mái.|
+188|He wears an undershirt beneath his shirt.|Anh ấy mặc áo lót bên trong áo sơ mi.|
+189|I put on a bathrobe after my shower.|Tôi mặc áo choàng tắm sau khi tắm.|
+190|She wore a dressing gown while making breakfast.|Cô ấy mặc áo choàng trong nhà khi làm bữa sáng.|
+191|My lip feels dry in this weather.|Môi tôi bị khô trong thời tiết này.|
+192|The dentist asked me to lift my tongue.|Nha sĩ bảo tôi nâng lưỡi lên.|
+193|He held the box against his chest.|Anh ấy ôm chiếc hộp sát ngực.|
+194|My back hurts after sitting all day.|Lưng tôi đau sau khi ngồi cả ngày.|
+195|She twisted her ankle while walking.|Cô ấy trẹo mắt cá chân khi đi bộ.|
+196|I hurt my toe on the chair.|Tôi va ngón chân vào ghế.|
+197|This soap is gentle on the skin.|Loại xà phòng này dịu nhẹ với da.|
+198|The doctor checked the broken bone.|Bác sĩ kiểm tra chỗ xương bị gãy.|
+199|He pulled a muscle during the game.|Anh ấy bị căng cơ trong trận đấu.|
+200|The nurse took a sample of blood.|Y tá lấy một mẫu máu.|
+201|Exercise helps keep the heart healthy.|Vận động giúp tim khỏe mạnh.|
+202|The doctor examined his kidney.|Bác sĩ kiểm tra thận của anh ấy.|
+203|The scan showed a problem with the liver.|Kết quả chụp cho thấy một vấn đề ở gan.|
+204|Dust can make me sneeze.|Bụi có thể khiến tôi hắt hơi.|
+205|She called the dentist because of a toothache.|Cô ấy gọi nha sĩ vì bị đau răng.|
+206|He told the doctor about his stomachache.|Anh ấy nói với bác sĩ về cơn đau bụng.|
+207|I mentioned my sore throat during the appointment.|Tôi nói về tình trạng đau họng trong buổi khám.|
+208|The child had a runny nose.|Đứa trẻ bị sổ mũi.|
+209|She reported dizziness to the nurse.|Cô ấy báo với y tá rằng mình bị chóng mặt.|
+210|He felt nausea during the journey.|Anh ấy thấy buồn nôn trong chuyến đi.|
+211|There is a bruise on my arm.|Có một vết bầm trên cánh tay tôi.|
+212|The doctor checked the ankle sprain.|Bác sĩ kiểm tra chỗ bong gân ở mắt cá chân.|
+213|A new shoe gave me a blister.|Chiếc giày mới làm chân tôi phồng rộp.|
+214|The itch kept him awake.|Cảm giác ngứa khiến anh ấy không ngủ được.|
+215|The nurse checked the swelling around the injury.|Y tá kiểm tra chỗ sưng quanh vết thương.|
+216|The pharmacist explained how to use the ointment.|Dược sĩ giải thích cách dùng thuốc mỡ.|
+217|We keep a first aid kit in the car.|Chúng tôi để bộ sơ cứu trong xe.|
+218|She booked a routine checkup.|Cô ấy đặt lịch khám kiểm tra định kỳ.|
+219|He brought his vaccination record to the clinic.|Anh ấy mang hồ sơ tiêm chủng đến phòng khám.|
+220|The prescribed dosage is printed on the label.|Liều dùng được kê ghi trên nhãn.|
+221|The pharmacist showed me the tablet.|Dược sĩ cho tôi xem viên thuốc nén.|
+222|The medicine comes in a capsule.|Thuốc được bào chế dưới dạng viên nang.|
+223|She showed the doctor her inhaler.|Cô ấy cho bác sĩ xem dụng cụ hít thuốc của mình.|
+224|They took him to the emergency room.|Họ đưa anh ấy đến phòng cấp cứu.|
+225|Please take a seat in the waiting room.|Mời bạn ngồi trong phòng chờ.|
+226|My appointment is at ten tomorrow.|Lịch hẹn của tôi là lúc mười giờ ngày mai.|
+227|He mentioned his allergy before the examination.|Anh ấy nói về tình trạng dị ứng trước khi khám.|
+228|The doctor asked whether she had diarrhea.|Bác sĩ hỏi cô ấy có bị tiêu chảy không.|
+229|He discussed his constipation with the doctor.|Anh ấy trao đổi với bác sĩ về tình trạng táo bón.|
+230|She raised one eyebrow in surprise.|Cô ấy nhướng một bên lông mày vì ngạc nhiên.|
+231|An eyelash fell onto my cheek.|Một sợi lông mi rơi xuống má tôi.|
+232|The doctor examined his eyelid.|Bác sĩ kiểm tra mí mắt của anh ấy.|
+233|He rested his chin on his hand.|Anh ấy chống cằm lên bàn tay.|
+234|She wiped the sweat from her forehead.|Cô ấy lau mồ hôi trên trán.|
+235|The doctor examined each nostril.|Bác sĩ kiểm tra từng lỗ mũi.|
+236|The dentist examined her palate.|Nha sĩ kiểm tra vòm miệng của cô ấy.|
+237|I broke a fingernail while opening the box.|Tôi làm gãy móng tay khi mở hộp.|
+238|He trimmed a damaged toenail.|Anh ấy cắt ngắn một móng chân bị hỏng.|
+239|My calf feels sore after the walk.|Bắp chân tôi bị đau sau khi đi bộ.|
+240|The shirt is too tight around the armpit.|Áo quá chật ở phần nách.|
+241|She kept some coins in her purse.|Cô ấy để vài đồng xu trong ví.|
+242|This shop accepts cash and cards.|Cửa hàng này nhận tiền mặt và thẻ.|
+243|I found a coin on the pavement.|Tôi tìm thấy một đồng xu trên vỉa hè.|
+244|He gave the cashier a banknote.|Anh ấy đưa cho thu ngân một tờ tiền giấy.|
+245|Check the price tag before buying it.|Hãy xem nhãn giá trước khi mua.|
+246|Put the heavy bags in the shopping cart.|Hãy đặt túi nặng vào xe đẩy mua hàng.|shopping trolley
+247|She carried a shopping basket around the store.|Cô ấy mang giỏ mua hàng đi quanh cửa hàng.|
+248|We waited at the checkout.|Chúng tôi chờ ở quầy thanh toán.|
+249|The cashier gave me a receipt.|Thu ngân đưa cho tôi biên lai.|
+250|The cashier scanned the barcode.|Thu ngân quét mã vạch.|
+251|Enter the discount code before paying.|Hãy nhập mã giảm giá trước khi thanh toán.|
+252|I used a coupon to save money.|Tôi dùng phiếu giảm giá để tiết kiệm tiền.|
+253|Show your loyalty card at the checkout.|Hãy đưa thẻ khách hàng thân thiết tại quầy thanh toán.|
+254|She received a gift card for her birthday.|Cô ấy nhận được thẻ quà tặng vào dịp sinh nhật.|
+255|The shop offered store credit instead of a cash refund.|Cửa hàng đề nghị khoản tiền mua hàng tại cửa hàng thay cho hoàn tiền mặt.|
+256|The delivery fee is shown before payment.|Phí giao hàng được hiển thị trước khi thanh toán.|
+257|The shipping fee depends on the parcel's weight.|Phí vận chuyển phụ thuộc vào trọng lượng bưu kiện.|
+258|Read the return policy before ordering.|Hãy đọc chính sách trả hàng trước khi đặt mua.|
+259|The retailer offered a price match on the same product.|Nhà bán lẻ đề nghị áp dụng giá bằng đối thủ cho cùng sản phẩm.|
+260|You can try the jacket in the fitting room.|Bạn có thể thử áo khoác trong phòng thử đồ.|changing room
+261|This model is out of stock.|Mẫu này đã hết hàng.|
+262|The blue shoes are still in stock.|Giày màu xanh vẫn còn hàng.|available
+263|The tickets are sold out.|Vé đã bán hết.|
+264|We bought a secondhand table.|Chúng tôi mua một chiếc bàn đã qua sử dụng.|used;preowned
+265|He bought a brand-new bicycle.|Anh ấy mua một chiếc xe đạp mới tinh.|new
+266|I think that bag is overpriced.|Tôi thấy chiếc túi đó có giá quá cao.|
+267|The café buys its supplies from a wholesaler.|Quán cà phê mua vật tư từ nhà bán buôn.|
+268|Contact customer service if your order is missing.|Hãy liên hệ dịch vụ chăm sóc khách hàng nếu đơn hàng bị thất lạc.|
+269|The shop assistant helped me find the right size.|Nhân viên bán hàng giúp tôi tìm đúng cỡ.|sales assistant
+270|There is a grocery store near my house.|Có một cửa hàng thực phẩm gần nhà tôi.|
+271|The convenience store stays open late.|Cửa hàng tiện lợi mở cửa đến muộn.|
+272|We bought clothes at the department store.|Chúng tôi mua quần áo ở cửa hàng bách hóa lớn.|
+273|The bakery sells fresh bread every morning.|Tiệm bánh bán bánh mì mới làm mỗi sáng.|
+274|I washed my clothes at the laundromat.|Tôi giặt quần áo tại tiệm giặt tự phục vụ.|launderette
+275|He took his suit to the dry cleaner.|Anh ấy mang bộ vest đến tiệm giặt khô.|
+276|The tailor shortened my trousers.|Thợ may chỉnh quần dài cho ngắn lại.|
+277|She has an appointment with the hairdresser.|Cô ấy có lịch hẹn với thợ làm tóc.|hairstylist
+278|He went to the barber for a haircut.|Anh ấy đến thợ cắt tóc nam để cắt tóc.|
+279|The jeweler repaired the ring.|Thợ kim hoàn sửa chiếc nhẫn.|
+280|The parcel arrived this morning.|Bưu kiện đến vào sáng nay.|package
+281|The postage is included in the price.|Cước bưu chính đã được tính vào giá.|
+282|Put the letter in the postbox.|Hãy bỏ thư vào hòm gửi thư.|
+283|I checked the mailbox after work.|Tôi kiểm tra hộp thư sau khi làm việc.|
+284|Write the postcode clearly on the envelope.|Hãy viết rõ mã bưu chính trên phong bì.|postal code;zip code
+285|The cashier opened the cash register.|Thu ngân mở máy tính tiền.|
+286|Insert your card into the card reader.|Hãy đưa thẻ vào thiết bị đọc thẻ.|
+287|This shop accepts contactless payment.|Cửa hàng này nhận thanh toán không tiếp xúc.|
+288|The payment terminal printed a receipt.|Thiết bị thanh toán in ra biên lai.|
+289|The receipt printer ran out of paper.|Máy in biên lai hết giấy.|
+290|We paid by bank transfer.|Chúng tôi thanh toán bằng chuyển khoản ngân hàng.|
+291|The bus station is next to the market.|Bến xe buýt ở cạnh chợ.|
+292|We bought our tickets at the ticket office.|Chúng tôi mua vé ở quầy bán vé.|
+293|Use the ticket machine near the entrance.|Hãy dùng máy bán vé gần lối vào.|
+294|The round trip took four hours.|Chuyến đi khứ hồi mất bốn giờ.|
+295|I bought a one-way ticket to the city.|Tôi mua vé một chiều đến thành phố.|
+296|She asked for a return ticket.|Cô ấy yêu cầu một vé khứ hồi.|round-trip ticket
+297|My carry-on fits under the seat.|Hành lý xách tay của tôi để vừa dưới ghế.|hand luggage
+298|Use the pedestrian crossing to cross the road.|Hãy dùng lối sang đường để qua đường.|crosswalk
+299|Turn right at the next junction.|Hãy rẽ phải ở chỗ giao đường tiếp theo.|intersection
+300|We stopped at a gas station.|Chúng tôi dừng ở trạm xăng.|petrol station
+301|We took a toll road to save time.|Chúng tôi đi đường thu phí để tiết kiệm thời gian.|
+302|There is a taxi rank outside the station.|Có một điểm đón taxi bên ngoài nhà ga.|taxi stand
+303|She uses a ride-sharing service to get home.|Cô ấy dùng dịch vụ kết nối chuyến xe để về nhà.|
+304|The car rental office is near the airport.|Văn phòng thuê xe ở gần sân bay.|
+305|We returned the rental car on Sunday.|Chúng tôi trả xe thuê vào Chủ nhật.|
+306|The customs officer checked my bag.|Nhân viên hải quan kiểm tra túi của tôi.|
+307|There is a currency exchange desk in the terminal.|Có quầy đổi ngoại tệ trong nhà ga.|
+308|We received a message about the cancellation.|Chúng tôi nhận được tin nhắn về việc hủy.|
+309|The airport terminal is very busy today.|Nhà ga sân bay hôm nay rất đông.|
+310|Show your passport at the check-in counter.|Hãy đưa hộ chiếu tại quầy làm thủ tục.|
+311|We passed through the security checkpoint.|Chúng tôi đi qua điểm kiểm tra an ninh.|
+312|There was a long queue at passport control.|Có một hàng dài ở khu kiểm tra hộ chiếu.|
+313|We waited in the departure lounge.|Chúng tôi chờ trong phòng chờ trước chuyến bay.|
+314|My brother met me in the arrival hall.|Anh trai gặp tôi ở sảnh đến.|
+315|Our bags appeared on the baggage carousel.|Túi của chúng tôi xuất hiện trên băng chuyền nhận hành lý.|
+316|Place your bag in the overhead bin.|Hãy đặt túi vào ngăn hành lý phía trên ghế.|
+317|I prefer an aisle seat.|Tôi thích ghế sát lối đi hơn.|
+318|She chose a window seat.|Cô ấy chọn ghế cạnh cửa sổ.|
+319|He sat in the middle seat.|Anh ấy ngồi ở ghế giữa.|
+320|We have two hours before our connecting flight.|Chúng tôi có hai giờ trước chuyến bay nối chuyến.|
+321|Our direct flight makes one scheduled stop.|Chuyến bay cùng số hiệu của chúng tôi có một điểm dừng theo lịch.|
+322|We booked a nonstop flight.|Chúng tôi đặt chuyến bay không dừng.|
+323|The flight attendant helped me find my seat.|Tiếp viên hàng không giúp tôi tìm ghế.|
+324|The boarding time is printed on the pass.|Giờ lên máy bay được in trên thẻ.|
+325|Please check the departure time again.|Hãy kiểm tra lại giờ khởi hành.|
+326|The arrival time has changed.|Giờ đến đã thay đổi.|
+327|My checked baggage arrived on the same flight.|Hành lý ký gửi của tôi đến trên cùng chuyến bay.|
+328|They charged a fee for excess baggage.|Họ thu phí hành lý vượt mức.|
+329|Check your baggage allowance before packing.|Hãy kiểm tra mức hành lý cho phép trước khi chuẩn bị đồ.|
+330|Ask at the lost property office about your bag.|Hãy hỏi văn phòng đồ thất lạc về túi của bạn.|lost and found
+331|We left our bags at the left luggage counter.|Chúng tôi gửi túi ở quầy giữ hành lý.|
+332|The bus fare is shown on the sign.|Giá vé xe buýt được ghi trên biển.|
+333|The train fare depends on the destination.|Giá vé tàu phụ thuộc vào nơi đến.|
+334|This bus route goes past the hospital.|Tuyến xe buýt này đi qua bệnh viện.|
+335|The subway station is below the shopping center.|Ga tàu điện ngầm nằm dưới trung tâm mua sắm.|metro station
+336|There is a tram stop near the hotel.|Có một điểm dừng tàu điện mặt đất gần khách sạn.|
+337|We reached the ferry terminal before noon.|Chúng tôi đến bến phà trước buổi trưa.|
+338|The coach station is outside the town center.|Bến xe khách đường dài nằm ngoài trung tâm thị trấn.|
+339|The ticket inspector checked our tickets.|Nhân viên kiểm tra vé kiểm tra vé của chúng tôi.|
+340|Scan your ticket at the ticket barrier.|Hãy quét vé ở cổng kiểm soát vé.|
+341|He is on sick leave this week.|Tuần này anh ấy nghỉ làm do ốm.|
+342|She booked a week of annual leave.|Cô ấy đăng ký một tuần nghỉ phép năm.|
+343|The contract includes paid leave.|Hợp đồng có quy định nghỉ hưởng lương.|
+344|He requested two days of unpaid leave.|Anh ấy xin nghỉ không hưởng lương hai ngày.|
+345|The probation period ends next month.|Thời gian thử việc kết thúc vào tháng sau.|
+346|Check the notice period in your contract.|Hãy kiểm tra thời hạn báo trước trong hợp đồng.|
+347|His dismissal surprised the team.|Việc anh ấy bị cho thôi việc khiến cả nhóm ngạc nhiên.|
+348|She asked for a pay rise.|Cô ấy đề nghị tăng lương.|pay raise
+349|The payslip shows the deductions.|Phiếu lương ghi các khoản khấu trừ.|pay stub
+350|The overtime pay appears on this month's payslip.|Tiền làm thêm giờ được ghi trên phiếu lương tháng này.|
+351|He submitted an expense claim after the trip.|Anh ấy nộp yêu cầu thanh toán chi phí sau chuyến đi.|
+352|Keep your receipts for reimbursement.|Hãy giữ biên lai để được hoàn trả chi phí.|
+353|She is away on a business trip.|Cô ấy đang đi công tác.|
+354|My performance review is next week.|Buổi đánh giá hiệu quả làm việc của tôi diễn ra vào tuần sau.|
+355|The company advertised a job vacancy.|Công ty đăng thông báo về một vị trí đang tuyển.|
+356|He prepared carefully for the job interview.|Anh ấy chuẩn bị kỹ cho buổi phỏng vấn xin việc.|
+357|Attach a cover letter to your application.|Hãy đính kèm thư ứng tuyển vào hồ sơ.|
+358|She accepted the job offer.|Cô ấy nhận lời mời làm việc.|
+359|Read the employment contract before signing.|Hãy đọc hợp đồng lao động trước khi ký.|
+360|My work shift starts at six.|Ca làm việc của tôi bắt đầu lúc sáu giờ.|
+361|The company offers flexible hours.|Công ty cho phép giờ làm việc linh hoạt.|
+362|Remote work saves me travel time.|Làm việc từ xa giúp tôi tiết kiệm thời gian đi lại.|
+363|Our team uses a hybrid work arrangement.|Nhóm chúng tôi làm việc kết hợp tại văn phòng và từ xa.|
+364|We discussed the problem at the team meeting.|Chúng tôi trao đổi về vấn đề tại cuộc họp nhóm.|
+365|Please send me the meeting minutes.|Hãy gửi cho tôi biên bản cuộc họp.|
+366|I added the task to my to-do list.|Tôi thêm nhiệm vụ vào danh sách việc cần làm.|
+367|He needs some time off after the project.|Anh ấy cần nghỉ làm một thời gian sau dự án.|
+368|We work in a different time zone.|Chúng tôi làm việc ở một múi giờ khác.|
+369|I asked for clarification of the instructions.|Tôi đề nghị làm rõ hướng dẫn.|
+370|You need permission to enter this room.|Bạn cần được cho phép để vào phòng này.|authorization
+371|She sent an update about the project.|Cô ấy gửi thông tin cập nhật về dự án.|
+372|The job description lists the main duties.|Bản mô tả công việc liệt kê các nhiệm vụ chính.|
+373|He submitted a job application yesterday.|Hôm qua anh ấy nộp hồ sơ xin việc.|
+374|Complete the application form online.|Hãy điền mẫu đơn trên mạng.|
+375|My former manager wrote a reference letter.|Người quản lý cũ viết thư giới thiệu cho tôi.|letter of recommendation
+376|She found work through a recruitment agency.|Cô ấy tìm được việc qua công ty tuyển dụng.|
+377|He is considering a career change.|Anh ấy đang cân nhắc chuyển nghề.|
+378|We discussed my career path with the manager.|Chúng tôi trao đổi với quản lý về lộ trình nghề nghiệp của tôi.|
+379|She applied for an entry-level job.|Cô ấy ứng tuyển vào một công việc dành cho người mới vào nghề.|
+380|The position requires some work experience.|Vị trí này yêu cầu một ít kinh nghiệm làm việc.|
+381|The form asks for your employment history.|Mẫu đơn yêu cầu lịch sử làm việc của bạn.|
+382|The workshop is useful for a job seeker.|Buổi hướng dẫn hữu ích cho người tìm việc.|
+383|The website lists a new job opening.|Trang web đăng một vị trí đang tuyển.|
+384|He checks the job board every morning.|Anh ấy xem trang tuyển dụng mỗi sáng.|
+385|New employees attend an orientation session.|Nhân viên mới tham dự một buổi hướng dẫn ban đầu.|
+386|We have a training session on Friday.|Chúng tôi có một buổi đào tạo vào thứ Sáu.|
+387|The manager announced it at the staff meeting.|Quản lý thông báo việc đó tại cuộc họp nhân viên.|
+388|You can leave your bag in the staff room.|Bạn có thể để túi trong phòng nhân viên.|
+389|The meeting room is on the second floor.|Phòng họp ở tầng hai.|
+390|We had a video call with the client.|Chúng tôi gọi video cho khách hàng.|
+391|She felt happy after the good news.|Cô ấy thấy vui sau tin tốt.|glad
+392|He was sad when his friend moved away.|Anh ấy buồn khi bạn chuyển đi.|unhappy
+393|She was angry about the delay.|Cô ấy tức giận vì việc chậm trễ.|mad
+394|The child was afraid of the dark.|Đứa trẻ sợ bóng tối.|scared;frightened
+395|I felt tired after work.|Tôi thấy mệt sau khi làm việc.|weary
+396|We were hungry after the walk.|Chúng tôi đói sau khi đi bộ.|
+397|He was thirsty after the game.|Anh ấy khát sau trận đấu.|
+398|The baby looks sleepy.|Em bé trông buồn ngủ.|drowsy
+399|She felt bored during the long wait.|Cô ấy thấy chán khi phải chờ lâu.|
+400|The children were excited about the trip.|Bọn trẻ háo hức về chuyến đi.|
+401|Try to stay calm during the interview.|Hãy cố giữ bình tĩnh trong buổi phỏng vấn.|composed
+402|She is proud of her daughter's progress.|Cô ấy tự hào về sự tiến bộ của con gái.|
+403|He is shy around new people.|Anh ấy ngại ngùng khi ở gần người mới.|
+404|It is rude to interrupt someone.|Ngắt lời người khác là bất lịch sự.|impolite
+405|It was kind of you to help us.|Bạn thật tử tế khi giúp chúng tôi.|
+406|That was a clever solution.|Đó là một cách giải quyết thông minh.|smart
+407|He felt too lazy to cook.|Anh ấy thấy lười nên không muốn nấu ăn.|
+408|Our new neighbor is friendly.|Người hàng xóm mới của chúng tôi thân thiện.|amiable
+409|She felt lonely in the new city.|Cô ấy thấy cô đơn ở thành phố mới.|
+410|I am busy this afternoon.|Chiều nay tôi bận.|occupied
+411|Are you free for lunch tomorrow?|Ngày mai bạn có rảnh ăn trưa không?|available
+412|We are ready to leave.|Chúng tôi đã sẵn sàng rời đi.|prepared
+413|I think this answer is wrong.|Tôi nghĩ câu trả lời này sai.|incorrect
+414|You chose the right answer.|Bạn chọn câu trả lời đúng.|correct
+415|We caught an early train.|Chúng tôi bắt một chuyến tàu sớm.|
+416|The bus was late again.|Xe buýt lại đến muộn.|
+417|This restaurant has cheap meals.|Nhà hàng này có những bữa ăn giá rẻ.|inexpensive
+418|The hotel is too expensive for us.|Khách sạn quá đắt đối với chúng tôi.|costly
+419|My shoes are wet from the rain.|Giày tôi bị ướt vì mưa.|
+420|Put the dirty clothes in the basket.|Hãy bỏ quần áo bẩn vào giỏ.|unclean
+421|The soup is still warm.|Súp vẫn còn ấm.|
+422|The room feels cool in the morning.|Phòng mát vào buổi sáng.|
+423|Be careful because the pan is hot.|Hãy cẩn thận vì chảo đang nóng.|
+424|The water is too cold for swimming.|Nước quá lạnh để bơi.|
+425|It was a sunny day.|Hôm đó trời có nắng.|
+426|The beach is windy today.|Hôm nay bãi biển có gió.|
+427|We stayed home on the rainy afternoon.|Chúng tôi ở nhà vào buổi chiều mưa.|
+428|The sky is cloudy this morning.|Sáng nay trời nhiều mây.|
+429|We drove slowly along the snowy road.|Chúng tôi lái xe chậm trên con đường có tuyết.|
+430|It was a foggy morning.|Sáng hôm đó có sương mù.|
+431|The room is bright because of the large windows.|Phòng sáng nhờ những cửa sổ lớn.|
+432|The hallway is dark at night.|Hành lang tối vào ban đêm.|dim
+433|The café is too noisy for a meeting.|Quán cà phê quá ồn để họp.|
+434|We found a quiet place to study.|Chúng tôi tìm được một nơi yên tĩnh để học.|peaceful
+435|This suitcase is heavy.|Chiếc va li này nặng.|
+436|The bag is light enough to carry.|Chiếc túi đủ nhẹ để mang.|
+437|The blanket feels soft.|Chiếc chăn có cảm giác mềm.|
+438|The wooden chair is hard.|Chiếc ghế gỗ cứng.|
+439|The table has a smooth surface.|Chiếc bàn có bề mặt nhẵn.|
+440|The street is wide enough for two buses.|Con đường đủ rộng cho hai xe buýt.|broad
+441|The lake is deep near the center.|Hồ sâu ở gần giữa.|
+442|A tall tree stands beside the house.|Một cây cao mọc bên cạnh nhà.|
+443|She started learning English when she was young.|Cô ấy bắt đầu học tiếng Anh khi còn trẻ.|
+444|My grandfather is old but still active.|Ông tôi đã già nhưng vẫn năng động.|elderly
+445|He stayed home because he was sick.|Anh ấy ở nhà vì bị ốm.|ill
+446|Regular exercise helps me stay healthy.|Vận động thường xuyên giúp tôi khỏe mạnh.|
+447|The staff were very helpful.|Nhân viên rất nhiệt tình giúp đỡ.|
+448|Be careful with the glass.|Hãy cẩn thận với chiếc cốc.|cautious
+449|That was a careless mistake.|Đó là một sai sót do bất cẩn.|negligent
+450|Keep your passport in a safe place.|Hãy để hộ chiếu ở một nơi an toàn.|secure
+451|My mother works at a school.|Mẹ tôi làm việc ở một trường học.|mom;mum
+452|His father taught him to swim.|Cha anh ấy dạy anh ấy bơi.|dad
+453|A parent must sign this form.|Cha hoặc mẹ phải ký mẫu đơn này.|
+454|My brother lives in another city.|Anh trai tôi sống ở một thành phố khác.|
+455|Her sister is studying medicine.|Em gái cô ấy đang học ngành y.|
+456|Their son started school this year.|Con trai của họ bắt đầu đi học vào năm nay.|
+457|He picked up his daughter after school.|Anh ấy đón con gái sau giờ học.|
+458|Her husband prepared dinner.|Chồng cô ấy chuẩn bị bữa tối.|
+459|His wife called him after work.|Vợ anh ấy gọi cho anh ấy sau giờ làm.|
+460|My grandmother makes delicious soup.|Bà tôi nấu súp rất ngon.|grandma;granny
+461|His grandfather told us a story.|Ông anh ấy kể cho chúng tôi một câu chuyện.|grandpa
+462|My aunt lives near the station.|Dì tôi sống gần nhà ga.|
+463|Her uncle helped her move.|Chú cô ấy giúp cô ấy chuyển nhà.|
+464|We visited our cousin at the weekend.|Chúng tôi thăm người anh em họ vào cuối tuần.|
+465|My niece is learning to read.|Cháu gái của tôi đang học đọc.|
+466|His nephew loves drawing.|Cháu trai của anh ấy thích vẽ.|
+467|Our family eats dinner together.|Gia đình chúng tôi cùng ăn tối.|
+468|The child is playing outside.|Đứa trẻ đang chơi bên ngoài.|
+469|The baby is sleeping quietly.|Em bé đang ngủ yên.|
+470|The toddler is learning to walk.|Trẻ nhỏ đang tập đi.|
+471|The course is designed for a teenager.|Khóa học được thiết kế cho người ở tuổi thiếu niên.|teen
+472|Our neighbor watered the plants for us.|Hàng xóm tưới cây giúp chúng tôi.|
+473|I called a friend to ask for help.|Tôi gọi một người bạn để nhờ giúp đỡ.|
+474|My classmate shared her notes.|Bạn cùng lớp chia sẻ ghi chép của cô ấy.|
+475|My roommate works in the evenings.|Người ở cùng phòng với tôi làm việc vào buổi tối.|
+476|She helped a teammate finish the task.|Cô ấy giúp một người cùng nhóm hoàn thành nhiệm vụ.|
+477|A stranger asked me for directions.|Một người lạ hỏi đường tôi.|
+478|We prepared a room for our guest.|Chúng tôi chuẩn bị phòng cho khách.|
+479|The host welcomed everyone at the door.|Chủ nhà chào đón mọi người ở cửa.|
+480|The customer asked for a refund.|Khách hàng yêu cầu hoàn tiền.|client
+481|Each passenger must show a ticket.|Mỗi hành khách phải xuất trình vé.|
+482|A tourist asked where the museum was.|Một du khách hỏi bảo tàng ở đâu.|
+483|The visitor signed in at reception.|Người đến thăm đăng ký tại quầy lễ tân.|
+484|She bought a book for her grandchild.|Cô ấy mua một cuốn sách cho cháu nội hoặc ngoại.|
+485|A grandparent came to the school event.|Một người ông hoặc bà đến sự kiện của trường.|
+486|My great-grandmother lived in this village.|Bà cố của tôi từng sống ở làng này.|
+487|His great-grandfather built the house.|Ông cố của anh ấy xây ngôi nhà này.|
+488|My mother-in-law is visiting us this week.|Tuần này mẹ chồng đến thăm chúng tôi.|
+489|His father-in-law helped repair the fence.|Cha vợ giúp anh ấy sửa hàng rào.|
+490|She invited her son-in-law to dinner.|Cô ấy mời con rể ăn tối.|
+491|He gave his daughter-in-law a birthday card.|Anh ấy tặng con dâu một tấm thiệp sinh nhật.|
+492|My brother-in-law works at the hospital.|Anh rể tôi làm việc ở bệnh viện.|
+493|Her sister-in-law came to the party.|Chị dâu cô ấy đến bữa tiệc.|
+494|His stepmother helped him with homework.|Mẹ kế giúp cậu ấy làm bài tập.|
+495|My stepfather taught me to ride a bicycle.|Cha dượng dạy tôi đi xe đạp.|
+496|She shares a room with her stepbrother.|Cô ấy ở chung phòng với người anh em là con riêng của cha hoặc mẹ kế.|
+497|His stepsister is the same age as him.|Người chị em là con riêng của cha hoặc mẹ kế bằng tuổi cậu ấy.|
+498|My half-brother has the same father as me.|Người anh em cùng cha khác mẹ của tôi có cùng cha với tôi.|
+499|She grew up with her half-sister.|Cô ấy lớn lên cùng người chị em cùng cha hoặc cùng mẹ.|
+500|He became a foster parent last year.|Anh ấy trở thành người chăm sóc trẻ theo hình thức nuôi dưỡng thay thế vào năm ngoái.|

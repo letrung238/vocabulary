@@ -1,0 +1,1800 @@
+# LemmInflect 0.2.3 + reviewed overrides; VBZ/VBG/VBD/VBN; no OOV guesses.
+abandon	abandons	abandoning	abandoned	abandoned
+absorb	absorbs	absorbing	absorbed	absorbed
+accelerate	accelerates	accelerating	accelerated	accelerated
+accent	accents	accenting	accented	accented
+access	accesses	accessing	accessed	accessed
+accommodate	accommodates	accommodating	accommodated	accommodated
+accompany	accompanies	accompanying	accompanied	accompanied
+accomplish	accomplishes	accomplishing	accomplished	accomplished
+accumulate	accumulates	accumulating	accumulated	accumulated
+accuse	accuses	accusing	accused	accused
+ache	aches	aching	ached	ached
+achieve	achieves	achieving	achieved	achieved
+acknowledge	acknowledges	acknowledging	acknowledged	acknowledged
+acquire	acquires	acquiring	acquired	acquired
+acquit	acquits	acquitting	acquitted	acquitted
+act	acts	acting	acted	acted
+activate	activates	activating	activated	activated
+adapt	adapts	adapting	adapted	adapted
+addict	addicts	addicting	addicted	addicted
+address	addresses	addressing	addressed	addressed
+adjust	adjusts	adjusting	adjusted	adjusted
+administer	administers	administering	administered	administered
+administrate	administrates	administrating	administrated	administrated
+admire	admires	admiring	admired	admired
+admit	admits	admitting	admitted	admitted
+adopt	adopts	adopting	adopted	adopted
+advance	advances	advancing	advanced	advanced
+advantage	advantages	advantaging	advantaged	advantaged
+advocate	advocates	advocating	advocated	advocated
+affect	affects	affecting	affected	affected
+afford	affords	affording	afforded	afforded
+aggregate	aggregates	aggregating	aggregated	aggregated
+aim	aims	aiming	aimed	aimed
+alarm	alarms	alarming	alarmed	alarmed
+alert	alerts	alerting	alerted	alerted
+alleviate	alleviates	alleviating	alleviated	alleviated
+allocate	allocates	allocating	allocated	allocated
+allow	allows	allowing	allowed	allowed
+ally	allies	allying	allied	allied
+alter	alters	altering	altered	altered
+alternate	alternates	alternating	alternated	alternated
+amaze	amazes	amazing	amazed	amazed
+amend	amends	amending	amended	amended
+analyse	analyses	analysing	analysed	analysed
+anger	angers	angering	angered	angered
+angle	angles	angling	angled	angled
+announce	announces	announcing	announced	announced
+annoy	annoys	annoying	annoyed	annoyed
+anonymize	anonymizes	anonymizing	anonymized	anonymized
+anticipate	anticipates	anticipating	anticipated	anticipated
+apologize	apologizes	apologizing	apologized	apologized
+append	appends	appending	appended	appended
+apply	applies	applying	applied	applied
+appoint	appoints	appointing	appointed	appointed
+appreciate	appreciates	appreciating	appreciated	appreciated
+approach	approaches	approaching	approached	approached
+appropriate	appropriates	appropriating	appropriated	appropriated
+approve	approves	approving	approved	approved
+approximate	approximates	approximating	approximated	approximated
+archive	archives	archiving	archived	archived
+argue	argues	arguing	argued	argued
+arise	arises	arising	arose	arisen
+arouse	arouses	arousing	aroused	aroused
+arrange	arranges	arranging	arranged	arranged
+arrest	arrests	arresting	arrested	arrested
+articulate	articulates	articulating	articulated	articulated
+aspire	aspires	aspiring	aspired	aspired
+assemble	assembles	assembling	assembled	assembled
+assert	asserts	asserting	asserted	asserted
+assess	assesses	assessing	assessed	assessed
+assign	assigns	assigning	assigned	assigned
+assimilate	assimilates	assimilating	assimilated	assimilated
+assist	assists	assisting	assisted	assisted
+associate	associates	associating	associated	associated
+assume	assumes	assuming	assumed	assumed
+assure	assures	assuring	assured	assured
+attach	attaches	attaching	attached	attached
+attain	attains	attaining	attained	attained
+attempt	attempts	attempting	attempted	attempted
+attend	attends	attending	attended	attended
+attract	attracts	attracting	attracted	attracted
+attribute	attributes	attributing	attributed	attributed
+auction	auctions	auctioning	auctioned	auctioned
+audit	audits	auditing	audited	audited
+author	authors	authoring	authored	authored
+authorize	authorizes	authorizing	authorized	authorized
+automate	automates	automating	automated	automated
+avoid	avoids	avoiding	avoided	avoided
+await	awaits	awaiting	awaited	awaited
+backlog	backlogs	backlogging	backlogged	backlogged
+balance	balances	balancing	balanced	balanced
+ballot	ballots	balloting	balloted	balloted
+bankrupt	bankrupts	bankrupting	bankrupted	bankrupted
+bare	bares	baring	bared	bared
+bargain	bargains	bargaining	bargained	bargained
+bark	barks	barking	barked	barked
+beam	beams	beaming	beamed	beamed
+beg	begs	begging	begged	begged
+behave	behaves	behaving	behaved	behaved
+belong	belongs	belonging	belonged	belonged
+bet	bets	betting	bet	bet
+bid	bids	bidding	bid	bid
+bind	binds	binding	bound	bound
+blame	blames	blaming	blamed	blamed
+blanket	blankets	blanketing	blanketed	blanketed
+blast	blasts	blasting	blasted	blasted
+blaze	blazes	blazing	blazed	blazed
+bless	blesses	blessing	blessed	blessed
+blink	blinks	blinking	blinked	blinked
+blur	blurs	blurring	blurred	blurred
+bolt	bolts	bolting	bolted	bolted
+boost	boosts	boosting	boosted	boosted
+bother	bothers	bothering	bothered	bothered
+bounce	bounces	bouncing	bounced	bounced
+bound	bounds	bounding	bounded	bounded
+bow	bows	bowing	bowed	bowed
+brag	brags	bragging	bragged	bragged
+break even	breaks even	breaking even	broke even	broken even
+breathe	breathes	breathing	breathed	breathed
+breed	breeds	breeding	bred	bred
+bribe	bribes	bribing	bribed	bribed
+brief	briefs	briefing	briefed	briefed
+broadcast	broadcasts	broadcasting	broadcast,broadcasted	broadcast,broadcasted
+browse	browses	browsing	browsed	browsed
+bud	buds	budding	budded	budded
+budget	budgets	budgeting	budgeted	budgeted
+buffer	buffers	buffering	buffered	buffered
+bug	bugs	bugging	bugged	bugged
+bully	bullies	bullying	bullied	bullied
+bump	bumps	bumping	bumped	bumped
+bunch	bunches	bunching	bunched	bunched
+burden	burdens	burdening	burdened	burdened
+burst	bursts	bursting	burst	burst
+butcher	butchers	butchering	butchered	butchered
+buzz	buzzes	buzzing	buzzed	buzzed
+cabin	cabins	cabining	cabined	cabined
+cable	cables	cabling	cabled	cabled
+cache	caches	caching	cached	cached
+calculate	calculates	calculating	calculated	calculated
+campaign	campaigns	campaigning	campaigned	campaigned
+canal	canals	canaling,canalling	canaled,canalled	canaled,canalled
+cancel	cancels	canceling,cancelling	canceled,cancelled	canceled,cancelled
+candle	candles	candling	candled	candled
+capture	captures	capturing	captured	captured
+caravan	caravans	caravanning,caravaning	caravaned,caravanned	caravaned,caravanned
+career	careers	careering	careered	careered
+carpool	carpools	carpooling	carpooled	carpooled
+carve	carves	carving	carved	carved
+cascade	cascades	cascading	cascaded	cascaded
+catalogue	catalogues	cataloguing	catalogued	catalogued
+caution	cautions	cautioning	cautioned	cautioned
+cave	caves	caving	caved	caved
+cc	cc's	cc'ing	cc'd,cc'ed	cc'd,cc'ed
+cease	ceases	ceasing	ceased	ceased
+certify	certifies	certifying	certified	certified
+challenge	challenges	challenging	challenged	challenged
+channel	channels	channeling,channelling	channeled,channelled	channeled,channelled
+characterize	characterizes	characterizing	characterized	characterized
+charge	charges	charging	charged	charged
+charm	charms	charming	charmed	charmed
+chart	charts	charting	charted	charted
+chase	chases	chasing	chased	chased
+cheer	cheers	cheering	cheered	cheered
+chew	chews	chewing	chewed	chewed
+chop	chops	chopping	chopped	chopped
+chunk	chunks	chunking	chunked	chunked
+churn	churns	churning	churned	churned
+circle back	circles back	circling back	circled back	circled back
+circulate	circulates	circulating	circulated	circulated
+cite	cites	citing	cited	cited
+claim	claims	claiming	claimed	claimed
+clap	claps	clapping	clapped	clapped
+clarify	clarifies	clarifying	clarified	clarified
+classify	classifies	classifying	classified	classified
+clerk	clerks	clerking	clerked	clerked
+climb	climbs	climbing	climbed	climbed
+clip	clips	clipping	clipped	clipped
+coincide	coincides	coinciding	coincided	coincided
+collapse	collapses	collapsing	collapsed	collapsed
+collar	collars	collaring	collared	collared
+comb	combs	combing	combed	combed
+combine	combines	combining	combined	combined
+comfort	comforts	comforting	comforted	comforted
+command	commands	commanding	commanded	commanded
+commence	commences	commencing	commenced	commenced
+commit	commits	committing	committed	committed
+communicate	communicates	communicating	communicated	communicated
+commute	commutes	commuting	commuted	commuted
+compact	compacts	compacting	compacted	compacted
+compare	compares	comparing	compared	compared
+compensate	compensates	compensating	compensated	compensated
+compete	competes	competing	competed	competed
+compile	compiles	compiling	compiled	compiled
+complain	complains	complaining	complained	complained
+complement	complements	complementing	complemented	complemented
+comply	complies	complying	complied	complied
+compose	composes	composing	composed	composed
+compound	compounds	compounding	compounded	compounded
+comprise	comprises	comprising	comprised	comprised
+compromise	compromises	compromising	compromised	compromised
+compute	computes	computing	computed	computed
+conceal	conceals	concealing	concealed	concealed
+concede	concedes	conceding	conceded	conceded
+conceive	conceives	conceiving	conceived	conceived
+concentrate	concentrates	concentrating	concentrated	concentrated
+concern	concerns	concerning	concerned	concerned
+conclude	concludes	concluding	concluded	concluded
+condemn	condemns	condemning	condemned	condemned
+conduct	conducts	conducting	conducted	conducted
+confer	confers	conferring	conferred	conferred
+confess	confesses	confessing	confessed	confessed
+confine	confines	confining	confined	confined
+confirm	confirms	confirming	confirmed	confirmed
+conflict	conflicts	conflicting	conflicted	conflicted
+conform	conforms	conforming	conformed	conformed
+confront	confronts	confronting	confronted	confronted
+confuse	confuses	confusing	confused	confused
+consent	consents	consenting	consented	consented
+console	consoles	consoling	consoled	consoled
+constitute	constitutes	constituting	constituted	constituted
+constrain	constrains	constraining	constrained	constrained
+construct	constructs	constructing	constructed	constructed
+consult	consults	consulting	consulted	consulted
+consume	consumes	consuming	consumed	consumed
+contain	contains	containing	contained	contained
+contaminate	contaminates	contaminating	contaminated	contaminated
+contract	contracts	contracting	contracted	contracted
+contradict	contradicts	contradicting	contradicted	contradicted
+contrast	contrasts	contrasting	contrasted	contrasted
+contribute	contributes	contributing	contributed	contributed
+convene	convenes	convening	convened	convened
+converse	converses	conversing	conversed	conversed
+convert	converts	converting	converted	converted
+convey	conveys	conveying	conveyed	conveyed
+convict	convicts	convicting	convicted	convicted
+convince	convinces	convincing	convinced	convinced
+cooperate	cooperates	cooperating	cooperated	cooperated
+coordinate	coordinates	coordinating	coordinated	coordinated
+cope	copes	coping	coped	coped
+correspond	corresponds	corresponding	corresponded	corresponded
+corrupt	corrupts	corrupting	corrupted	corrupted
+cough	coughs	coughing	coughed	coughed
+counterfeit	counterfeits	counterfeiting	counterfeited	counterfeited
+couple	couples	coupling	coupled	coupled
+crack	cracks	cracking	cracked	cracked
+crash	crashes	crashing	crashed	crashed
+crawl	crawls	crawling	crawled	crawled
+create	creates	creating	created	created
+credit	credits	crediting	credited	credited
+criticize	criticizes	criticizing	criticized	criticized
+crop	crops	cropping	cropped	cropped
+cruise	cruises	cruising	cruised	cruised
+crush	crushes	crushing	crushed	crushed
+cue	cues	cueing,cuing	cued	cued
+culminate	culminates	culminating	culminated	culminated
+cultivate	cultivates	cultivating	cultivated	cultivated
+cure	cures	curing	cured	cured
+cycle	cycles	cycling	cycled	cycled
+damage	damages	damaging	damaged	damaged
+damn	damns	damning	damned	damned
+dare	dares	daring	dared	dared
+dash	dashes	dashing	dashed	dashed
+dawn	dawns	dawning	dawned	dawned
+deal	deals	dealing	dealt	dealt
+debate	debates	debating	debated	debated
+debit	debits	debiting	debited	debited
+debounce	debounces	debouncing	debounced	debounced
+debug	debugs	debugging	debugged	debugged
+decay	decays	decaying	decayed	decayed
+deceive	deceives	deceiving	deceived	deceived
+deck	decks	decking	decked	decked
+declare	declares	declaring	declared	declared
+decline	declines	declining	declined	declined
+decorate	decorates	decorating	decorated	decorated
+decrease	decreases	decreasing	decreased	decreased
+dedicate	dedicates	dedicating	dedicated	dedicated
+deduce	deduces	deducing	deduced	deduced
+defeat	defeats	defeating	defeated	defeated
+defect	defects	defecting	defected	defected
+defend	defends	defending	defended	defended
+define	defines	defining	defined	defined
+defy	defies	defying	defied	defied
+degrade	degrades	degrading	degraded	degraded
+delay	delays	delaying	delayed	delayed
+delegate	delegates	delegating	delegated	delegated
+delete	deletes	deleting	deleted	deleted
+deliberate	deliberates	deliberating	deliberated	deliberated
+delight	delights	delighting	delighted	delighted
+deliver	delivers	delivering	delivered	delivered
+demand	demands	demanding	demanded	demanded
+demonstrate	demonstrates	demonstrating	demonstrated	demonstrated
+denormalize	denormalizes	denormalizing	denormalized	denormalized
+denote	denotes	denoting	denoted	denoted
+deny	denies	denying	denied	denied
+depart	departs	departing	departed	departed
+depend	depends	depending	depended	depended
+depict	depicts	depicting	depicted	depicted
+deplete	depletes	depleting	depleted	depleted
+deploy	deploys	deploying	deployed	deployed
+deposit	deposits	depositing	deposited	deposited
+deprecate	deprecates	deprecating	deprecated	deprecated
+depress	depresses	depressing	depressed	depressed
+deprioritize	deprioritizes	deprioritizing	deprioritized	deprioritized
+deprive	deprives	depriving	deprived	deprived
+derive	derives	deriving	derived	derived
+descend	descends	descending	descended	descended
+describe	describes	describing	described	described
+deserve	deserves	deserving	deserved	deserved
+design	designs	designing	designed	designed
+desire	desires	desiring	desired	desired
+destroy	destroys	destroying	destroyed	destroyed
+detect	detects	detecting	detected	detected
+deteriorate	deteriorates	deteriorating	deteriorated	deteriorated
+determine	determines	determining	determined	determined
+develop	develops	developing	developed	developed
+deviate	deviates	deviating	deviated	deviated
+devil	devils	devilling,deviling	devilled,deviled	devilled,deviled
+devote	devotes	devoting	devoted	devoted
+dial	dials	dialing,dialling	dialed,dialled	dialed,dialled
+die	dies	dying	died	died
+differ	differs	differing	differed	differed
+differentiate	differentiates	differentiating	differentiated	differentiated
+dig	digs	digging	dug	dug
+digest	digests	digesting	digested	digested
+digitise	digitises	digitising	digitised	digitised
+dim	dims	dimming	dimmed	dimmed
+diminish	diminishes	diminishing	diminished	diminished
+dip	dips	dipping	dipped	dipped
+direct	directs	directing	directed	directed
+disappoint	disappoints	disappointing	disappointed	disappointed
+disclose	discloses	disclosing	disclosed	disclosed
+disconnect	disconnects	disconnecting	disconnected	disconnected
+discourage	discourages	discouraging	discouraged	discouraged
+discriminate	discriminates	discriminating	discriminated	discriminated
+discuss	discusses	discussing	discussed	discussed
+disgrace	disgraces	disgracing	disgraced	disgraced
+dismiss	dismisses	dismissing	dismissed	dismissed
+dispatch	dispatches	dispatching	dispatched	dispatched
+displace	displaces	displacing	displaced	displaced
+display	displays	displaying	displayed	displayed
+dispose	disposes	disposing	disposed	disposed
+dispute	disputes	disputing	disputed	disputed
+dissolve	dissolves	dissolving	dissolved	dissolved
+distance	distances	distancing	distanced	distanced
+distinguish	distinguishes	distinguishing	distinguished	distinguished
+distort	distorts	distorting	distorted	distorted
+distract	distracts	distracting	distracted	distracted
+distribute	distributes	distributing	distributed	distributed
+district	districts	districting	districted	districted
+disturb	disturbs	disturbing	disturbed	disturbed
+dive	dives	diving	dived	dived
+divert	diverts	diverting	diverted	diverted
+divide	divides	dividing	divided	divided
+divorce	divorces	divorcing	divorced	divorced
+dock	docks	docking	docked	docked
+document	documents	documenting	documented	documented
+dominate	dominates	dominating	dominated	dominated
+doom	dooms	dooming	doomed	doomed
+dose	doses	dosing	dosed	dosed
+double	doubles	doubling	doubled	doubled
+doubt	doubts	doubting	doubted	doubted
+draft	drafts	drafting	drafted	drafted
+drag	drags	dragging	dragged	dragged
+drain	drains	draining	drained	drained
+dread	dreads	dreading	dreaded	dreaded
+drift	drifts	drifting	drifted	drifted
+drop	drops	dropping	dropped	dropped
+drown	drowns	drowning	drowned	drowned
+dump	dumps	dumping	dumped	dumped
+dwindle	dwindles	dwindling	dwindled	dwindled
+dye	dyes	dyeing	dyed	dyed
+eagle	eagles	eagling	eagled	eagled
+earn	earns	earning	earned	earned
+edit	edits	editing	edited	edited
+educate	educates	educating	educated	educated
+elaborate	elaborates	elaborating	elaborated	elaborated
+elect	elects	electing	elected	elected
+eliminate	eliminates	eliminating	eliminated	eliminated
+embarrass	embarrasses	embarrassing	embarrassed	embarrassed
+embrace	embraces	embracing	embraced	embraced
+emerge	emerges	emerging	emerged	emerged
+emphasize	emphasizes	emphasizing	emphasized	emphasized
+employ	employs	employing	employed	employed
+enable	enables	enabling	enabled	enabled
+encounter	encounters	encountering	encountered	encountered
+encrypt	encrypts	encrypting	encrypted	encrypted
+endeavour	endeavours	endeavouring	endeavoured	endeavoured
+endorse	endorses	endorsing	endorsed	endorsed
+endure	endures	enduring	endured	endured
+enforce	enforces	enforcing	enforced	enforced
+engage	engages	engaging	engaged	engaged
+enhance	enhances	enhancing	enhanced	enhanced
+enrol	enrols	enrolling	enrolled	enrolled
+ensure	ensures	ensuring	ensured	ensured
+entertain	entertains	entertaining	entertained	entertained
+entitle	entitles	entitling	entitled	entitled
+envy	envies	envying	envied	envied
+equate	equates	equating	equated	equated
+equip	equips	equipping	equipped	equipped
+erode	erodes	eroding	eroded	eroded
+erupt	erupts	erupting	erupted	erupted
+escalate	escalates	escalating	escalated	escalated
+escape	escapes	escaping	escaped	escaped
+establish	establishes	establishing	established	established
+estimate	estimates	estimating	estimated	estimated
+evaluate	evaluates	evaluating	evaluated	evaluated
+evidence	evidences	evidencing	evidenced	evidenced
+evolve	evolves	evolving	evolved	evolved
+exaggerate	exaggerates	exaggerating	exaggerated	exaggerated
+examine	examines	examining	examined	examined
+exceed	exceeds	exceeding	exceeded	exceeded
+exchange	exchanges	exchanging	exchanged	exchanged
+exclude	excludes	excluding	excluded	excluded
+excuse	excuses	excusing	excused	excused
+execute	executes	executing	executed	executed
+exhaust	exhausts	exhausting	exhausted	exhausted
+exhibit	exhibits	exhibiting	exhibited	exhibited
+exile	exiles	exiling	exiled	exiled
+exit	exits	exiting	exited	exited
+expand	expands	expanding	expanded	expanded
+expect	expects	expecting	expected	expected
+expel	expels	expelling	expelled	expelled
+expense	expenses	expensing	expensed	expensed
+exploit	exploits	exploiting	exploited	exploited
+explore	explores	exploring	explored	explored
+export	exports	exporting	exported	exported
+expose	exposes	exposing	exposed	exposed
+express	expresses	expressing	expressed	expressed
+extend	extends	extending	extended	extended
+extract	extracts	extracting	extracted	extracted
+facilitate	facilitates	facilitating	facilitated	facilitated
+factor	factors	factoring	factored	factored
+fade	fades	fading	faded	faded
+faint	faints	fainting	fainted	fainted
+fake	fakes	faking	faked	faked
+fall	falls	falling	fell	fallen
+fare	fares	faring	fared	fared
+fascinate	fascinates	fascinating	fascinated	fascinated
+favour	favours	favouring	favoured	favoured
+feather	feathers	feathering	feathered	feathered
+feature	features	featuring	featured	featured
+figure	figures	figuring	figured	figured
+file	files	filing	filed	filed
+filter	filters	filtering	filtered	filtered
+finance	finances	financing	financed	financed
+flame	flames	flaming	flamed	flamed
+flap	flaps	flapping	flapped	flapped
+flavour	flavours	flavouring	flavoured	flavoured
+fleet	fleets	fleeting	fleeted	fleeted
+flip	flips	flipping	flipped	flipped
+float	floats	floating	floated	floated
+flourish	flourishes	flourishing	flourished	flourished
+flow	flows	flowing	flowed	flowed
+fluctuate	fluctuates	fluctuating	fluctuated	fluctuated
+focus	focuses	focusing	focused	focused
+fold	folds	folding	folded	folded
+fool	fools	fooling	fooled	fooled
+forbid	forbids	forbidding	forbade	forbidden
+forecast	forecasts	forecasting	forecast,forecasted	forecast,forecasted
+forgive	forgives	forgiving	forgave	forgiven
+format	formats	formatting	formatted	formatted
+formulate	formulates	formulating	formulated	formulated
+foster	fosters	fostering	fostered	fostered
+found	founds	founding	founded	founded
+founder	founders	foundering	foundered	foundered
+fox	foxes	foxing	foxed	foxed
+fragment	fragments	fragmenting	fragmented	fragmented
+freak	freaks	freaking	freaked	freaked
+frequent	frequents	frequenting	frequented	frequented
+fuel	fuels	fueling,fuelling	fueled,fuelled	fueled
+fulfil	fulfils	fulfilling	fulfilled	fulfilled
+fulfill	fulfills	fulfilling	fulfilled	fulfilled
+function	functions	functioning	functioned	functioned
+fund	funds	funding	funded	funded
+funnel	funnels	funneling,funnelling	funneled,funnelled	funneled,funnelled
+furnish	furnishes	furnishing	furnished	furnished
+gain	gains	gaining	gained	gained
+gasp	gasps	gasping	gasped	gasped
+gaze	gazes	gazing	gazed	gazed
+gear	gears	gearing	geared	geared
+generate	generates	generating	generated	generated
+gesture	gestures	gesturing	gestured	gestured
+glance	glances	glancing	glanced	glanced
+gorge	gorges	gorging	gorged	gorged
+gossip	gossips	gossiping,gossipping	gossiped,gossipped	gossiped,gossipped
+govern	governs	governing	governed	governed
+grab	grabs	grabbing	grabbed	grabbed
+grade	grades	grading	graded	graded
+graduate	graduates	graduating	graduated	graduated
+grant	grants	granting	granted	granted
+grasp	grasps	grasping	grasped	grasped
+grin	grins	grinning	grinned	grinned
+grow	grows	growing	grew	grown
+guarantee	guarantees	guaranteeing	guaranteed	guaranteed
+gum	gums	gumming	gummed	gummed
+hail	hails	hailing	hailed	hailed
+halt	halts	halting	halted	halted
+halve	halves	halving	halved	halved
+hammer	hammers	hammering	hammered	hammered
+handle	handles	handling	handled	handled
+hang	hangs	hanging	hung	hung
+haunt	haunts	haunting	haunted	haunted
+hay	hays	haying	hayed	hayed
+headline	headlines	headlining	headlined	headlined
+heal	heals	healing	healed	healed
+heap	heaps	heaping	heaped	heaped
+hesitate	hesitates	hesitating	hesitated	hesitated
+highlight	highlights	highlighting	highlighted	highlighted
+hire	hires	hiring	hired	hired
+honor	honors	honoring	honored	honored
+hood	hoods	hooding	hooded	hooded
+hook	hooks	hooking	hooked	hooked
+humble	humbles	humbling	humbled	humbled
+humour	humours	humouring	humoured	humoured
+hush	hushes	hushing	hushed	hushed
+identify	identifies	identifying	identified	identified
+idle	idles	idling	idled	idled
+ignore	ignores	ignoring	ignored	ignored
+illustrate	illustrates	illustrating	illustrated	illustrated
+image	images	imaging	imaged	imaged
+imagine	imagines	imagining	imagined	imagined
+immigrate	immigrates	immigrating	immigrated	immigrated
+implement	implements	implementing	implemented	implemented
+implicate	implicates	implicating	implicated	implicated
+imply	implies	implying	implied	implied
+import	imports	importing	imported	imported
+impose	imposes	imposing	imposed	imposed
+impress	impresses	impressing	impressed	impressed
+improve	improves	improving	improved	improved
+inch	inches	inching	inched	inched
+incline	inclines	inclining	inclined	inclined
+include	includes	including	included	included
+incorporate	incorporates	incorporating	incorporated	incorporated
+increase	increases	increasing	increased	increased
+incur	incurs	incurring	incurred	incurred
+indicate	indicates	indicating	indicated	indicated
+induce	induces	inducing	induced	induced
+indulge	indulges	indulging	indulged	indulged
+infer	infers	inferring	inferred	inferred
+influence	influences	influencing	influenced	influenced
+inform	informs	informing	informed	informed
+inherit	inherits	inheriting	inherited	inherited
+inhibit	inhibits	inhibiting	inhibited	inhibited
+initial	initials	initialing,initialling	initialed,initialled	initialed,initialled
+initiate	initiates	initiating	initiated	initiated
+inject	injects	injecting	injected	injected
+injure	injures	injuring	injured	injured
+ink	inks	inking	inked	inked
+innovate	innovates	innovating	innovated	innovated
+input	inputs	inputting	input	input
+inquire	inquires	inquiring	inquired	inquired
+insert	inserts	inserting	inserted	inserted
+insist	insists	insisting	insisted	insisted
+inspect	inspects	inspecting	inspected	inspected
+inspire	inspires	inspiring	inspired	inspired
+install	installs	installing	installed	installed
+institute	institutes	instituting	instituted	instituted
+instruct	instructs	instructing	instructed	instructed
+insult	insults	insulting	insulted	insulted
+integrate	integrates	integrating	integrated	integrated
+intend	intends	intending	intended	intended
+interact	interacts	interacting	interacted	interacted
+interfere	interferes	interfering	interfered	interfered
+interpret	interprets	interpreting	interpreted	interpreted
+interrupt	interrupts	interrupting	interrupted	interrupted
+intervene	intervenes	intervening	intervened	intervened
+introduce	introduces	introducing	introduced	introduced
+invest	invests	investing	invested	invested
+investigate	investigates	investigating	investigated	investigated
+invoice	invoices	invoicing	invoiced	invoiced
+invoke	invokes	invoking	invoked	invoked
+involve	involves	involving	involved	involved
+isolate	isolates	isolating	isolated	isolated
+issue	issues	issuing	issued	issued
+iterate	iterates	iterating	iterated	iterated
+jail	jails	jailing	jailed	jailed
+jaw	jaws	jawing	jawed	jawed
+jet	jets	jetting	jetted	jetted
+jitter	jitters	jittering	jittered	jittered
+job	jobs	jobbing	jobbed	jobbed
+judge	judges	judging	judged	judged
+jump	jumps	jumping	jumped	jumped
+justify	justifies	justifying	justified	justified
+knock	knocks	knocking	knocked	knocked
+knot	knots	knotting	knotted	knotted
+label	labels	labeling,labelling	labeled,labelled	labeled,labelled
+labour	labours	labouring	laboured	laboured
+ladder	ladders	laddering	laddered	laddered
+lag	lags	lagging	lagged	lagged
+launch	launches	launching	launched	launched
+lay	lays	laying	laid	laid
+layer	layers	layering	layered	layered
+lead	leads	leading	led	led
+lean	leans	leaning	leaned,leant	leaned,leant
+leap	leaps	leaping	leapt	leapt
+lecture	lectures	lecturing	lectured	lectured
+legislate	legislates	legislating	legislated	legislated
+legitimate	legitimates	legitimating	legitimated	legitimated
+leverage	leverages	leveraging	leveraged	leveraged
+levy	levies	levying	levied	levied
+lift	lifts	lifting	lifted	lifted
+limit	limits	limiting	limited	limited
+lint	lints	linting	linted	linted
+load	loads	loading	loaded	loaded
+loan	loans	loaning	loaned	loaned
+lobby	lobbies	lobbying	lobbied	lobbied
+locate	locates	locating	located	located
+loop in	loops in	looping in	looped in	looped in
+loose	looses	loosing	loosed	loosed
+lower	lowers	lowering	lowered	lowered
+maintain	maintains	maintaining	maintained	maintained
+manage	manages	managing	managed	managed
+manipulate	manipulates	manipulating	manipulated	manipulated
+manufacture	manufactures	manufacturing	manufactured	manufactured
+mask	masks	masking	masked	masked
+massage	massages	massaging	massaged	massaged
+maximise	maximises	maximising	maximised	maximised
+measure	measures	measuring	measured	measured
+mediate	mediates	mediating	mediated	mediated
+melt	melts	melting	melted	melted
+mention	mentions	mentioning	mentioned	mentioned
+mentor	mentors	mentoring	mentored	mentored
+merchandise	merchandises	merchandising	merchandised	merchandised
+merge	merges	merging	merged	merged
+microwave	microwaves	microwaving	microwaved	microwaved
+migrate	migrates	migrating	migrated	migrated
+mill	mills	milling	milled	milled
+minify	minifies	minifying	minified	minified
+minimise	minimises	minimising	minimised	minimised
+mist	mists	misting	misted	misted
+mistake	mistakes	mistaking	mistook	mistaken
+mitigate	mitigates	mitigating	mitigated	mitigated
+mock	mocks	mocking	mocked	mocked
+moderate	moderates	moderating	moderated	moderated
+modify	modifies	modifying	modified	modified
+mold	molds	molding	molded	molded
+monitor	monitors	monitoring	monitored	monitored
+moonlight	moonlights	moonlighting	moonlighted	moonlighted
+mortgage	mortgages	mortgaging	mortgaged	mortgaged
+motion	motions	motioning	motioned	motioned
+motivate	motivates	motivating	motivated	motivated
+motor	motors	motoring	motored	motored
+mount	mounts	mounting	mounted	mounted
+muddy	muddies	muddying	muddied	muddied
+multiply	multiplies	multiplying	multiplied	multiplied
+muse	muses	musing	mused	mused
+mute	mutes	muting	muted	muted
+narrow	narrows	narrowing	narrowed	narrowed
+navigate	navigates	navigating	navigated	navigated
+needle	needles	needling	needled	needled
+negate	negates	negating	negated	negated
+neglect	neglects	neglecting	neglected	neglected
+negotiate	negotiates	negotiating	negotiated	negotiated
+nerve	nerves	nerving	nerved	nerved
+network	networks	networking	networked	networked
+nitpick	nitpicks	nitpicking	nitpicked	nitpicked
+nod	nods	nodding	nodded	nodded
+notice	notices	noticing	noticed	noticed
+nurture	nurtures	nurturing	nurtured	nurtured
+obey	obeys	obeying	obeyed	obeyed
+obfuscate	obfuscates	obfuscating	obfuscated	obfuscated
+object	objects	objecting	objected	objected
+observe	observes	observing	observed	observed
+obtain	obtains	obtaining	obtained	obtained
+occasion	occasions	occasioning	occasioned	occasioned
+occupy	occupies	occupying	occupied	occupied
+occur	occurs	occurring	occurred	occurred
+offend	offends	offending	offended	offended
+offset	offsets	offsetting	offset	offset
+onboard	onboards	onboarding	onboarded	onboarded
+operate	operates	operating	operated	operated
+oppose	opposes	opposing	opposed	opposed
+optimize	optimizes	optimizing	optimized	optimized
+organize	organizes	organizing	organized	organized
+orient	orients	orienting	oriented	oriented
+originate	originates	originating	originated	originated
+oscillate	oscillates	oscillating	oscillated	oscillated
+outline	outlines	outlining	outlined	outlined
+outnumber	outnumbers	outnumbering	outnumbered	outnumbered
+output	outputs	outputting	output	output
+outrage	outrages	outraging	outraged	outraged
+outsource	outsources	outsourcing	outsourced	outsourced
+overcome	overcomes	overcoming	overcame	overcome
+overlap	overlaps	overlapping	overlapped	overlapped
+overload	overloads	overloading	overloaded	overloaded
+overlook	overlooks	overlooking	overlooked	overlooked
+override	overrides	overriding	overrode	overridden
+overtake	overtakes	overtaking	overtook	overtaken
+overturn	overturns	overturning	overturned	overturned
+overwhelm	overwhelms	overwhelming	overwhelmed	overwhelmed
+owe	owes	owing	owed	owed
+pain	pains	paining	pained	pained
+palm	palms	palming	palmed	palmed
+panic	panics	panicking	panicked	panicked
+paragraph	paragraphs	paragraphing	paragraphed	paragraphed
+parallel	parallels	paralleling,parallelling	paralleled,parallelled	paralleled,parallelled
+parole	paroles	paroling	paroled	paroled
+parse	parses	parsing	parsed	parsed
+participate	participates	participating	participated	participated
+partner	partners	partnering	partnered	partnered
+pattern	patterns	patterning	patterned	patterned
+pause	pauses	pausing	paused	paused
+paw	paws	pawing	pawed	pawed
+peach	peaches	peaching	peached	peached
+peak	peaks	peaking	peaked	peaked
+pearl	pearls	pearling	pearled	pearled
+pedestrianise	pedestrianises	pedestrianising	pedestrianised	pedestrianised
+peel	peels	peeling	peeled	peeled
+peer	peers	peering	peered	peered
+penetrate	penetrates	penetrating	penetrated	penetrated
+perceive	perceives	perceiving	perceived	perceived
+perform	performs	performing	performed	performed
+permit	permits	permitting	permitted	permitted
+persist	persists	persisting	persisted	persisted
+persuade	persuades	persuading	persuaded	persuaded
+phase	phases	phasing	phased	phased
+pillow	pillows	pillowing	pillowed	pillowed
+pine	pines	pining	pined	pined
+pirate	pirates	pirating	pirated	pirated
+plateau	plateaus	plateauing	plateaued	plateaued
+plead	pleads	pleading	pleaded	pleaded
+plug	plugs	plugging	plugged	plugged
+plummet	plummets	plummeting	plummeted	plummeted
+plunge	plunges	plunging	plunged	plunged
+portion	portions	portioning	portioned	portioned
+pose	poses	posing	posed	posed
+possess	possesses	possessing	possessed	possessed
+postpone	postpones	postponing	postponed	postponed
+powder	powders	powdering	powdered	powdered
+praise	praises	praising	praised	praised
+precede	precedes	preceding	preceded	preceded
+predict	predicts	predicting	predicted	predicted
+prefer	prefers	preferring	preferred	preferred
+prejudice	prejudices	prejudicing	prejudiced	prejudiced
+prescribe	prescribes	prescribing	prescribed	prescribed
+preserve	preserves	preserving	preserved	preserved
+press	presses	pressing	pressed	pressed
+presume	presumes	presuming	presumed	presumed
+prevail	prevails	prevailing	prevailed	prevailed
+prick	pricks	pricking	pricked	pricked
+privilege	privileges	privileging	privileged	privileged
+prize	prizes	prizing	prized	prized
+proceed	proceeds	proceeding	proceeded	proceeded
+process	processes	processing	processed	processed
+profile	profiles	profiling	profiled	profiled
+profit	profits	profiting	profited	profited
+progress	progresses	progressing	progressed	progressed
+prohibit	prohibits	prohibiting	prohibited	prohibited
+project	projects	projecting	projected	projected
+promote	promotes	promoting	promoted	promoted
+prompt	prompts	prompting	prompted	prompted
+pronounce	pronounces	pronouncing	pronounced	pronounced
+proof	proofs	proofing	proofed	proofed
+proportion	proportions	proportioning	proportioned	proportioned
+propose	proposes	proposing	proposed	proposed
+prosecute	prosecutes	prosecuting	prosecuted	prosecuted
+prospect	prospects	prospecting	prospected	prospected
+prosper	prospers	prospering	prospered	prospered
+protect	protects	protecting	protected	protected
+protest	protests	protesting	protested	protested
+prove	proves	proving	proved	proved
+provision	provisions	provisioning	provisioned	provisioned
+provision access	provisions access	provisioning access	provisioned access	provisioned access
+provoke	provokes	provoking	provoked	provoked
+publish	publishes	publishing	published	published
+pulse	pulses	pulsing	pulsed	pulsed
+pump	pumps	pumping	pumped	pumped
+punch	punches	punching	punched	punched
+punish	punishes	punishing	punished	punished
+purchase	purchases	purchasing	purchased	purchased
+purge	purges	purging	purged	purged
+pursue	pursues	pursuing	pursued	pursued
+puzzle	puzzles	puzzling	puzzled	puzzled
+quadruple	quadruples	quadrupling	quadrupled	quadrupled
+qualify	qualifies	qualifying	qualified	qualified
+quarantine	quarantines	quarantining	quarantined	quarantined
+queue	queues	queuing,queueing	queued	queued
+queue up	queues up	queuing up,queueing up	queued up	queued up
+quote	quotes	quoting	quoted	quoted
+rack	racks	racking	racked	racked
+rag	rags	ragging	ragged	ragged
+raise	raises	raising	raised	raised
+ram	rams	ramming	rammed	rammed
+range	ranges	ranging	ranged	ranged
+rat	rats	ratting	ratted	ratted
+react	reacts	reacting	reacted	reacted
+realize	realizes	realizing	realized	realized
+rebel	rebels	rebelling	rebelled	rebelled
+rebuild	rebuilds	rebuilding	rebuilt	rebuilt
+recall	recalls	recalling	recalled	recalled
+recap	recaps	recapping	recapped	recapped
+reckon	reckons	reckoning	reckoned	reckoned
+recognize	recognizes	recognizing	recognized	recognized
+recommend	recommends	recommending	recommended	recommended
+reconsider	reconsiders	reconsidering	reconsidered	reconsidered
+recover	recovers	recovering	recovered	recovered
+recruit	recruits	recruiting	recruited	recruited
+recycle	recycles	recycling	recycled	recycled
+redeem	redeems	redeeming	redeemed	redeemed
+reduce	reduces	reducing	reduced	reduced
+refactor	refactors	refactoring	refactored	refactored
+referee	referees	refereeing	refereed	refereed
+refine	refines	refining	refined	refined
+reform	reforms	reforming	reformed	reformed
+refrain	refrains	refraining	refrained	refrained
+refuse	refuses	refusing	refused	refused
+regard	regards	regarding	regarded	regarded
+register	registers	registering	registered	registered
+regret	regrets	regretting	regretted	regretted
+regulate	regulates	regulating	regulated	regulated
+rehabilitate	rehabilitates	rehabilitating	rehabilitated	rehabilitated
+reimburse	reimburses	reimbursing	reimbursed	reimbursed
+reinforce	reinforces	reinforcing	reinforced	reinforced
+reject	rejects	rejecting	rejected	rejected
+relate	relates	relating	related	related
+relax	relaxes	relaxing	relaxed	relaxed
+relay	relays	relaying	relayed	relayed
+release	releases	releasing	released	released
+relieve	relieves	relieving	relieved	relieved
+rely	relies	relying	relied	relied
+remain	remains	remaining	remained	remained
+remediate	remediates	remediating	remediated	remediated
+remind	reminds	reminding	reminded	reminded
+remove	removes	removing	removed	removed
+render	renders	rendering	rendered	rendered
+renew	renews	renewing	renewed	renewed
+repair	repairs	repairing	repaired	repaired
+repay	repays	repaying	repaid	repaid
+replace	replaces	replacing	replaced	replaced
+replicate	replicates	replicating	replicated	replicated
+reply	replies	replying	replied	replied
+reply all	replies all	replying all	replied all	replied all
+report	reports	reporting	reported	reported
+represent	represents	representing	represented	represented
+reproduce	reproduces	reproducing	reproduced	reproduced
+request	requests	requesting	requested	requested
+require	requires	requiring	required	required
+reschedule	reschedules	rescheduling	rescheduled	rescheduled
+rescue	rescues	rescuing	rescued	rescued
+research	researches	researching	researched	researched
+resemble	resembles	resembling	resembled	resembled
+reside	resides	residing	resided	resided
+resign	resigns	resigning	resigned	resigned
+resist	resists	resisting	resisted	resisted
+resolve	resolves	resolving	resolved	resolved
+resort	resorts	resorting	resorted	resorted
+resource	resources	resourcing	resourced	resourced
+respect	respects	respecting	respected	respected
+respond	responds	responding	responded	responded
+restore	restores	restoring	restored	restored
+restrain	restrains	restraining	restrained	restrained
+restrict	restricts	restricting	restricted	restricted
+resume	resumes	resuming	resumed	resumed
+retail	retails	retailing	retailed	retailed
+retain	retains	retaining	retained	retained
+retrieve	retrieves	retrieving	retrieved	retrieved
+retry	retries	retrying	retried	retried
+reveal	reveals	revealing	revealed	revealed
+revenge	revenges	revenging	revenged	revenged
+reverse	reverses	reversing	reversed	reversed
+revise	revises	revising	revised	revised
+revive	revives	reviving	revived	revived
+revoke	revokes	revoking	revoked	revoked
+reward	rewards	rewarding	rewarded	rewarded
+rhyme	rhymes	rhyming	rhymed	rhymed
+rib	ribs	ribbing	ribbed	ribbed
+riddle	riddles	riddling	riddled	riddled
+rise	rises	rising	rose	risen
+risk	risks	risking	risked	risked
+rival	rivals	rivaling,rivalling	rivaled,rivalled	rivaled,rivalled
+roam	roams	roaming	roamed	roamed
+roast	roasts	roasting	roasted	roasted
+rocket	rockets	rocketing	rocketed	rocketed
+romance	romances	romancing	romanced	romanced
+route	routes	routing	routed	routed
+row	rows	rowing	rowed	rowed
+rub	rubs	rubbing	rubbed	rubbed
+ruin	ruins	ruining	ruined	ruined
+rush	rushes	rushing	rushed	rushed
+sack	sacks	sacking	sacked	sacked
+safeguard	safeguards	safeguarding	safeguarded	safeguarded
+sail	sails	sailing	sailed	sailed
+sanitize	sanitizes	sanitizing	sanitized	sanitized
+satisfy	satisfies	satisfying	satisfied	satisfied
+scaffold	scaffolds	scaffolding	scaffolded	scaffolded
+scale out	scales out	scaling out	scaled out	scaled out
+scale up	scales up	scaling up	scaled up	scaled up
+scar	scars	scarring	scarred	scarred
+scare	scares	scaring	scared	scared
+scent	scents	scenting	scented	scented
+schedule	schedules	scheduling	scheduled	scheduled
+scheme	schemes	scheming	schemed	schemed
+scope	scopes	scoping	scoped	scoped
+scope out	scopes out	scoping out	scoped out	scoped out
+score	scores	scoring	scored	scored
+scramble	scrambles	scrambling	scrambled	scrambled
+scratch	scratches	scratching	scratched	scratched
+scream	screams	screaming	screamed	screamed
+screen	screens	screening	screened	screened
+screen share	screen shares	screen sharing	screen shared	screen shared
+screw	screws	screwing	screwed	screwed
+search	searches	searching	searched	searched
+section	sections	sectioning	sectioned	sectioned
+secure	secures	securing	secured	secured
+seek	seeks	seeking	sought	sought
+segment	segments	segmenting	segmented	segmented
+seize	seizes	seizing	seized	seized
+select	selects	selecting	selected	selected
+separate	separates	separating	separated	separated
+sequence	sequences	sequencing	sequenced	sequenced
+serialize	serializes	serializing	serialized	serialized
+settle	settles	settling	settled	settled
+sex	sexes	sexing	sexed	sexed
+shade	shades	shading	shaded	shaded
+shadow	shadows	shadowing	shadowed	shadowed
+shed	sheds	shedding	shed	shed
+shelter	shelters	sheltering	sheltered	sheltered
+shield	shields	shielding	shielded	shielded
+shift	shifts	shifting	shifted	shifted
+shock	shocks	shocking	shocked	shocked
+shore	shores	shoring	shored	shored
+showcase	showcases	showcasing	showcased	showcased
+shrink	shrinks	shrinking	shrank	shrunk
+signify	signifies	signifying	signified	signified
+silence	silences	silencing	silenced	silenced
+simplify	simplifies	simplifying	simplified	simplified
+simulate	simulates	simulating	simulated	simulated
+site	sites	siting	sited	sited
+sketch	sketches	sketching	sketched	sketched
+skip	skips	skipping	skipped	skipped
+slam	slams	slamming	slammed	slammed
+slang	slangs	slanging	slanged	slanged
+slap	slaps	slapping	slapped	slapped
+slash	slashes	slashing	slashed	slashed
+slide	slides	sliding	slid	slid
+slip	slips	slipping	slipped	slipped
+slump	slumps	slumping	slumped	slumped
+smash	smashes	smashing	smashed	smashed
+snap	snaps	snapping	snapped	snapped
+soar	soars	soaring	soared	soared
+solve	solves	solving	solved	solved
+source	sources	sourcing	sourced	sourced
+spark	sparks	sparking	sparked	sparked
+specialize	specializes	specializing	specialized	specialized
+specify	specifies	specifying	specified	specified
+speculate	speculates	speculating	speculated	speculated
+spice	spices	spicing	spiced	spiced
+spill	spills	spilling	spilled,spilt	spilled,spilt
+spin	spins	spinning	spun	spun
+spite	spites	spiting	spited	spited
+splash	splashes	splashing	splashed	splashed
+split	splits	splitting	split	split
+spoil	spoils	spoiling	spoiled,spoilt	spoiled,spoilt
+sponsor	sponsors	sponsoring	sponsored	sponsored
+spray	sprays	spraying	sprayed	sprayed
+spread	spreads	spreading	spread	spread
+sprint	sprints	sprinting	sprinted	sprinted
+squash	squashes	squashing	squashed	squashed
+squeeze	squeezes	squeezing	squeezed	squeezed
+stabilise	stabilises	stabilising	stabilised	stabilised
+stagnate	stagnates	stagnating	stagnated	stagnated
+stain	stains	staining	stained	stained
+stake	stakes	staking	staked	staked
+stall	stalls	stalling	stalled	stalled
+staple	staples	stapling	stapled	stapled
+stare	stares	staring	stared	stared
+starve	starves	starving	starved	starved
+state	states	stating	stated	stated
+steam	steams	steaming	steamed	steamed
+steel	steels	steeling	steeled	steeled
+steep	steeps	steeping	steeped	steeped
+steer	steers	steering	steered	steered
+stereotype	stereotypes	stereotyping	stereotyped	stereotyped
+stick	sticks	sticking	stuck	stuck
+stimulate	stimulates	stimulating	stimulated	stimulated
+stink	stinks	stinking	stank	stunk
+stir	stirs	stirring	stirred	stirred
+stitch	stitches	stitching	stitched	stitched
+stool	stools	stooling	stooled	stooled
+strain	strains	straining	strained	strained
+stream	streams	streaming	streamed	streamed
+streamline	streamlines	streamlining	streamlined	streamlined
+strengthen	strengthens	strengthening	strengthened	strengthened
+stress	stresses	stressing	stressed	stressed
+stretch	stretches	stretching	stretched	stretched
+stride	strides	striding	strode	stridden
+strike	strikes	striking	struck	struck
+strip	strips	stripping	stripped	stripped
+strive	strives	striving	strove	striven
+structure	structures	structuring	structured	structured
+struggle	struggles	struggling	struggled	struggled
+style	styles	styling	styled	styled
+submit	submits	submitting	submitted	submitted
+substitute	substitutes	substituting	substituted	substituted
+subtitle	subtitles	subtitling	subtitled	subtitled
+succeed	succeeds	succeeding	succeeded	succeeded
+sue	sues	suing	sued	sued
+suffer	suffers	suffering	suffered	suffered
+sum	sums	summing	summed	summed
+summarize	summarizes	summarizing	summarized	summarized
+sunset	sunsets	sunsetting	sunsetted	sunsetted
+supersede	supersedes	superseding	superseded	superseded
+supervise	supervises	supervising	supervised	supervised
+supplement	supplements	supplementing	supplemented	supplemented
+supply	supplies	supplying	supplied	supplied
+support	supports	supporting	supported	supported
+suppose	supposes	supposing	supposed	supposed
+suppress	suppresses	suppressing	suppressed	suppressed
+surface	surfaces	surfacing	surfaced	surfaced
+surge	surges	surging	surged	surged
+surpass	surpasses	surpassing	surpassed	surpassed
+surrender	surrenders	surrendering	surrendered	surrendered
+surround	surrounds	surrounding	surrounded	surrounded
+survey	surveys	surveying	surveyed	surveyed
+survive	survives	surviving	survived	survived
+suspect	suspects	suspecting	suspected	suspected
+suspend	suspends	suspending	suspended	suspended
+sustain	sustains	sustaining	sustained	sustained
+swallow	swallows	swallowing	swallowed	swallowed
+swan	swans	swanning	swanned	swanned
+swear	swears	swearing	swore	sworn
+sweep	sweeps	sweeping	swept	swept
+swing	swings	swinging	swung	swung
+switch	switches	switching	switched	switched
+synchronize	synchronizes	synchronizing	synchronized	synchronized
+tackle	tackles	tackling	tackled	tackled
+tag	tags	tagging	tagged	tagged
+tap	taps	tapping	tapped	tapped
+tape	tapes	taping	taped	taped
+target	targets	targeting	targeted	targeted
+task	tasks	tasking	tasked	tasked
+tax	taxes	taxing	taxed	taxed
+team	teams	teaming	teamed	teamed
+tease	teases	teasing	teased	teased
+telescope	telescopes	telescoping	telescoped	telescoped
+tend	tends	tending	tended	tended
+terminate	terminates	terminating	terminated	terminated
+terrace	terraces	terracing	terraced	terraced
+testify	testifies	testifying	testified	testified
+theme	themes	theming	themed	themed
+threaten	threatens	threatening	threatened	threatened
+throttle	throttles	throttling	throttled	throttled
+thumb	thumbs	thumbing	thumbed	thumbed
+toggle	toggles	toggling	toggled	toggled
+toil	toils	toiling	toiled	toiled
+tolerate	tolerates	tolerating	tolerated	tolerated
+toll	tolls	tolling	tolled	tolled
+tone	tones	toning	toned	toned
+torch	torches	torching	torched	torched
+toss	tosses	tossing	tossed	tossed
+touch base	touches base	touching base	touched base	touched base
+trace	traces	tracing	traced	traced
+track	tracks	tracking	tracked	tracked
+trail	trails	trailing	trailed	trailed
+transfer	transfers	transferring	transferred	transferred
+transform	transforms	transforming	transformed	transformed
+transit	transits	transiting	transited	transited
+translate	translates	translating	translated	translated
+transmit	transmits	transmitting	transmitted	transmitted
+transport	transports	transporting	transported	transported
+trap	traps	trapping	trapped	trapped
+tread	treads	treading	trod	trodden
+treat	treats	treating	treated	treated
+trend	trends	trending	trended	trended
+triage	triages	triaging	triaged	triaged
+trigger	triggers	triggering	triggered	triggered
+triple	triples	tripling	tripled	tripled
+trust	trusts	trusting	trusted	trusted
+tune	tunes	tuning	tuned	tuned
+tunnel	tunnels	tunneling,tunnelling	tunneled,tunnelled	tunneled,tunnelled
+tutor	tutors	tutoring	tutored	tutored
+twist	twists	twisting	twisted	twisted
+underestimate	underestimates	underestimating	underestimated	underestimated
+undergo	undergoes	undergoing	underwent	undergone
+underlie	underlies	underlying	underlay	underlain
+undertake	undertakes	undertaking	undertook	undertaken
+unfold	unfolds	unfolding	unfolded	unfolded
+unify	unifies	unifying	unified	unified
+unite	unites	uniting	united	united
+upgrade	upgrades	upgrading	upgraded	upgraded
+urge	urges	urging	urged	urged
+usher	ushers	ushering	ushered	ushered
+utilise	utilises	utilising	utilised	utilised
+utilize	utilizes	utilizing	utilized	utilized
+utter	utters	uttering	uttered	uttered
+validate	validates	validating	validated	validated
+vanish	vanishes	vanishing	vanished	vanished
+vary	varies	varying	varied	varied
+verify	verifies	verifying	verified	verified
+violate	violates	violating	violated	violated
+visa	visas	visaing	visaed	visaed
+volunteer	volunteers	volunteering	volunteered	volunteered
+vow	vows	vowing	vowed	vowed
+wage	wages	waging	waged	waged
+wander	wanders	wandering	wandered	wandered
+warn	warns	warning	warned	warned
+waste	wastes	wasting	wasted	wasted
+weaken	weakens	weakening	weakened	weakened
+weave	weaves	weaving	wove	woven
+weed	weeds	weeding	weeded	weeded
+weigh	weighs	weighing	weighed	weighed
+whip	whips	whipping	whipped	whipped
+whisper	whispers	whispering	whispered	whispered
+whistle	whistles	whistling	whistled	whistled
+whiteboard	whiteboards	whiteboarding	whiteboarded	whiteboarded
+widow	widows	widowing	widowed	widowed
+wind	winds	winding	wound	wound
+wipe	wipes	wiping	wiped	wiped
+wire	wires	wiring	wired	wired
+withdraw	withdraws	withdrawing	withdrew	withdrawn
+witness	witnesses	witnessing	witnessed	witnessed
+wolf	wolfs	wolfing	wolfed	wolfed
+worm	worms	worming	wormed	wormed
+worship	worships	worshipping,worshiping	worshipped,worshiped	worshipped,worshiped
+wound	wounds	wounding	wounded	wounded
+wrap	wraps	wrapping	wrapped	wrapped
+yield	yields	yielding	yielded	yielded
+zip	zips	zipping	zipped	zipped
+zone	zones	zoning	zoned	zoned
+# Approved basic-20 supplement; manually reviewed irregular and phrasal forms.
+book	books	booking	booked	booked
+pass	passes	passing	passed	passed
+get	gets	getting	got	gotten,got
+take	takes	taking	took	taken
+make	makes	making	made	made
+keep	keeps	keeping	kept	kept
+bring	brings	bringing	brought	brought
+choose	chooses	choosing	chose	chosen
+remember	remembers	remembering	remembered	remembered
+forget	forgets	forgetting	forgot	forgotten
+refund	refunds	refunding	refunded	refunded
+follow up	follows up	following up	followed up	followed up
+figure out	figures out	figuring out	figured out	figured out
+put off	puts off	putting off	put off	put off
+run out of	runs out of	running out of	ran out of	run out of
+care	cares	caring	cared	cared
+believe	believes	believing	believed	believed
+prepare	prepares	preparing	prepared	prepared
+hope	hopes	hoping	hoped	hoped
+consist	consists	consisting	consisted	consisted
+dream	dreams	dreaming	dreamed	dreamed
+result	results	resulting	resulted	resulted
+agree	agrees	agreeing	agreed	agreed
+talk	talks	talking	talked	talked
+laugh	laughs	laughing	laughed	laughed
+smile	smiles	smiling	smiled	smiled
+arrive	arrives	arriving	arrived	arrived
+refer	refers	referring	referred	referred
+account	accounts	accounting	accounted	accounted
+count	counts	counting	counted	counted
+catch	catches	catching	caught	caught
+provide	provides	providing	provided	provided
+worry	worries	worrying	worried	worried
+decide	decides	deciding	decided	decided
+vote	votes	voting	voted	voted
+abstain	abstains	abstaining	abstained	abstained
+stem	stems	stemming	stemmed	stemmed
+collaborate	collaborates	collaborating	collaborated	collaborated
+connect	connects	connecting	connected	connected
+add	adds	adding	added	added
+amount	amounts	amounting	amounted	amounted
+know	knows	knowing	knew	known
+think	thinks	thinking	thought	thought
+ask	asks	asking	asked	asked
+tell	tells	telling	told	told
+find	finds	finding	found	found
+give	gives	giving	gave	given
+want	wants	wanting	wanted	wanted
+need	needs	needing	needed	needed
+use	uses	using	used	used
+try	tries	trying	tried	tried
+leave	leaves	leaving	left	left
+buy	buys	buying	bought	bought
+sell	sells	selling	sold	sold
+pay	pays	paying	paid	paid
+read	reads	reading	read	read
+write	writes	writing	wrote	written
+speak	speaks	speaking	spoke	spoken
+listen	listens	listening	listened	listened
+help	helps	helping	helped	helped
+work	works	working	worked	worked
+fish	fishes	fishing	fished	fished
+head	heads	heading	headed	headed
+face	faces	facing	faced	faced
+hand	hands	handing	handed	handed
+do	does	doing	did	done
+go	goes	going	went	gone
+come	comes	coming	came	come
+put	puts	putting	put	put
+let	lets	letting	let	let
+say	says	saying	said	said
+eat	eats	eating	ate	eaten
+drink	drinks	drinking	drank	drunk
+sleep	sleeps	sleeping	slept	slept
+watch	watches	watching	watched	watched
+walk	walks	walking	walked	walked
+run	runs	running	ran	run
+stand	stands	standing	stood	stood
+wear	wears	wearing	wore	worn
+drive	drives	driving	drove	driven
+ride	rides	riding	rode	ridden
+meet	meets	meeting	met	met
+start	starts	starting	started	started
+stop	stops	stopping	stopped	stopped
+wait	waits	waiting	waited	waited
+learn	learns	learning	learned,learnt	learned,learnt
+teach	teaches	teaching	taught	taught
+live	lives	living	lived	lived
+love	loves	loving	loved	loved
+like	likes	liking	liked	liked
+call	calls	calling	called	called
+move	moves	moving	moved	moved
+turn	turns	turning	turned	turned
+hold	holds	holding	held	held
+carry	carries	carrying	carried	carried
+send	sends	sending	sent	sent
+receive	receives	receiving	received	received
+win	wins	winning	won	won
+lose	loses	losing	lost	lost
+build	builds	building	built	built
+break	breaks	breaking	broke	broken
+cut	cuts	cutting	cut	cut
+show	shows	showing	showed	shown,showed
+feel	feels	feeling	felt	felt
+happen	happens	happening	happened	happened
+become	becomes	becoming	became	become
+understand	understands	understanding	understood	understood
+seem	seems	seeming	seemed	seemed
+stay	stays	staying	stayed	stayed
+return	returns	returning	returned	returned
+change	changes	changing	changed	changed
+look	looks	looking	looked	looked
+see	sees	seeing	saw	seen
+hear	hears	hearing	heard	heard
+touch	touches	touching	touched	touched
+cushion	cushions	cushioning	cushioned	cushioned
+whisk	whisks	whisking	whisked	whisked
+toast	toasts	toasting	toasted	toasted
+suit	suits	suiting	suited	suited
+ring	rings	ringing	rang	rung
+bruise	bruises	bruising	bruised	bruised
+itch	itches	itching	itched	itched
+cash	cashes	cashing	cashed	cashed
+parcel	parcels	parceling,parcelling	parceled,parcelled	parceled,parcelled
+update	updates	updating	updated	updated
+free	frees	freeing	freed	freed
+light	lights	lighting	lit,lighted	lit,lighted
+cool	cools	cooling	cooled	cooled
+host	hosts	hosting	hosted	hosted
+sneeze	sneezes	sneezing	sneezed	sneezed
+abstain from	abstains from	abstaining from	abstained from	abstained from
+account for	accounts for	accounting for	accounted for	accounted for
+adapt to	adapts to	adapting to	adapted to	adapted to
+add to	adds to	adding to	added to	added to
+adjust to	adjusts to	adjusting to	adjusted to	adjusted to
+agree on	agrees on	agreeing on	agreed on	agreed on
+agree to	agrees to	agreeing to	agreed to	agreed to
+agree with	agrees with	agreeing with	agreed with	agreed with
+allow for	allows for	allowing for	allowed for	allowed for
+amount to	amounts to	amounting to	amounted to	amounted to
+apologize for	apologizes for	apologizing for	apologized for	apologized for
+apologize to	apologizes to	apologizing to	apologized to	apologized to
+appeal to	appeals to	appealing to	appealed to	appealed to
+apply for	applies for	applying for	applied for	applied for
+approve of	approves of	approving of	approved of	approved of
+argue about	argues about	arguing about	argued about	argued about
+argue with	argues with	arguing with	argued with	argued with
+arrive at	arrives at	arriving at	arrived at	arrived at
+arrive in	arrives in	arriving in	arrived in	arrived in
+ask about	asks about	asking about	asked about	asked about
+ask after	asks after	asking after	asked after	asked after
+ask for	asks for	asking for	asked for	asked for
+attend to	attends to	attending to	attended to	attended to
+believe in	believes in	believing in	believed in	believed in
+belong to	belongs to	belonging to	belonged to	belonged to
+benefit from	benefits from	benefiting from	benefited from	benefited from
+break apart	breaks apart	breaking apart	broke apart	broken apart
+break away	breaks away	breaking away	broke away	broken away
+break away from	breaks away from	breaking away from	broke away from	broken away from
+break down	breaks down	breaking down	broke down	broken down
+break in	breaks in	breaking in	broke in	broken in
+break in on	breaks in on	breaking in on	broke in on	broken in on
+break into	breaks into	breaking into	broke into	broken into
+break off	breaks off	breaking off	broke off	broken off
+break out	breaks out	breaking out	broke out	broken out
+break out of	breaks out of	breaking out of	broke out of	broken out of
+break through	breaks through	breaking through	broke through	broken through
+break up	breaks up	breaking up	broke up	broken up
+break up with	breaks up with	breaking up with	broke up with	broken up with
+break with	breaks with	breaking with	broke with	broken with
+bring about	brings about	bringing about	brought about	brought about
+bring along	brings along	bringing along	brought along	brought along
+bring around	brings around	bringing around	brought around	brought around
+bring back	brings back	bringing back	brought back	brought back
+bring down	brings down	bringing down	brought down	brought down
+bring forward	brings forward	bringing forward	brought forward	brought forward
+bring in	brings in	bringing in	brought in	brought in
+bring off	brings off	bringing off	brought off	brought off
+bring on	brings on	bringing on	brought on	brought on
+bring out	brings out	bringing out	brought out	brought out
+bring over	brings over	bringing over	brought over	brought over
+bring together	brings together	bringing together	brought together	brought together
+bring up	brings up	bringing up	brought up	brought up
+build on	builds on	building on	built on	built on
+bump into	bumps into	bumping into	bumped into	bumped into
+call around	calls around	calling around	called around	called around
+call at	calls at	calling at	called at	called at
+call back	calls back	calling back	called back	called back
+call by	calls by	calling by	called by	called by
+call for	calls for	calling for	called for	called for
+call in	calls in	calling in	called in	called in
+call off	calls off	calling off	called off	called off
+call on	calls on	calling on	called on	called on
+call out	calls out	calling out	called out	called out
+call out for	calls out for	calling out for	called out for	called out for
+call up	calls up	calling up	called up	called up
+call upon	calls upon	calling upon	called upon	called upon
+care about	cares about	caring about	cared about	cared about
+care for	cares for	caring for	cared for	cared for
+carry away	carries away	carrying away	carried away	carried away
+carry forward	carries forward	carrying forward	carried forward	carried forward
+carry off	carries off	carrying off	carried off	carried off
+carry on with	carries on with	carrying on with	carried on with	carried on with
+carry out	carries out	carrying out	carried out	carried out
+carry over	carries over	carrying over	carried over	carried over
+carry through	carries through	carrying through	carried through	carried through
+catch on	catches on	catching on	caught on	caught on
+catch up with	catches up with	catching up with	caught up with	caught up with
+choose between	chooses between	choosing between	chose between	chosen between
+collaborate with	collaborates with	collaborating with	collaborated with	collaborated with
+come about	comes about	coming about	came about	come about
+come across	comes across	coming across	came across	come across
+come after	comes after	coming after	came after	come after
+come along	comes along	coming along	came along	come along
+come apart	comes apart	coming apart	came apart	come apart
+come around	comes around	coming around	came around	come around
+come away	comes away	coming away	came away	come away
+come back	comes back	coming back	came back	come back
+come back to	comes back to	coming back to	came back to	come back to
+come down	comes down	coming down	came down	come down
+come down to	comes down to	coming down to	came down to	come down to
+come down with	comes down with	coming down with	came down with	come down with
+come forward	comes forward	coming forward	came forward	come forward
+come from	comes from	coming from	came from	come from
+come in	comes in	coming in	came in	come in
+come in for	comes in for	coming in for	came in for	come in for
+come into	comes into	coming into	came into	come into
+come off	comes off	coming off	came off	come off
+come on	comes on	coming on	came on	come on
+come out	comes out	coming out	came out	come out
+come out of	comes out of	coming out of	came out of	come out of
+come out with	comes out with	coming out with	came out with	come out with
+come over	comes over	coming over	came over	come over
+come through	comes through	coming through	came through	come through
+come to	comes to	coming to	came to	come to
+come under	comes under	coming under	came under	come under
+come up	comes up	coming up	came up	come up
+come up against	comes up against	coming up against	came up against	come up against
+come up with	comes up with	coming up with	came up with	come up with
+comment on	comments on	commenting on	commented on	commented on
+communicate with	communicates with	communicating with	communicated with	communicated with
+compete for	competes for	competing for	competed for	competed for
+compete with	competes with	competing with	competed with	competed with
+complain about	complains about	complaining about	complained about	complained about
+concentrate on	concentrates on	concentrating on	concentrated on	concentrated on
+connect to	connects to	connecting to	connected to	connected to
+consent to	consents to	consenting to	consented to	consented to
+consist of	consists of	consisting of	consisted of	consisted of
+contribute to	contributes to	contributing to	contributed to	contributed to
+cooperate with	cooperates with	cooperating with	cooperated with	cooperated with
+cope with	copes with	coping with	coped with	coped with
+correspond to	corresponds to	corresponding to	corresponded to	corresponded to
+correspond with	corresponds with	corresponding with	corresponded with	corresponded with
+count on	counts on	counting on	counted on	counted on
+crash into	crashes into	crashing into	crashed into	crashed into
+cut across	cuts across	cutting across	cut across	cut across
+cut back	cuts back	cutting back	cut back	cut back
+cut back on	cuts back on	cutting back on	cut back on	cut back on
+cut down	cuts down	cutting down	cut down	cut down
+cut down on	cuts down on	cutting down on	cut down on	cut down on
+cut in	cuts in	cutting in	cut in	cut in
+cut in on	cuts in on	cutting in on	cut in on	cut in on
+cut off	cuts off	cutting off	cut off	cut off
+cut out	cuts out	cutting out	cut out	cut out
+cut through	cuts through	cutting through	cut through	cut through
+cut up	cuts up	cutting up	cut up	cut up
+deal with	deals with	dealing with	dealt with	dealt with
+decide against	decides against	deciding against	decided against	decided against
+decide on	decides on	deciding on	decided on	decided on
+depend on	depends on	depending on	depended on	depended on
+derive from	derives from	deriving from	derived from	derived from
+differ from	differs from	differing from	differed from	differed from
+dream of	dreams of	dreaming of	dreamed of	dreamed of
+drop away	drops away	dropping away	dropped away	dropped away
+drop back	drops back	dropping back	dropped back	dropped back
+drop by	drops by	dropping by	dropped by	dropped by
+drop in	drops in	dropping in	dropped in	dropped in
+drop in on	drops in on	dropping in on	dropped in on	dropped in on
+drop off	drops off	dropping off	dropped off	dropped off
+drop out	drops out	dropping out	dropped out	dropped out
+drop out of	drops out of	dropping out of	dropped out of	dropped out of
+drop over	drops over	dropping over	dropped over	dropped over
+eat out	eats out	eating out	ate out	eaten out
+escape from	escapes from	escaping from	escaped from	escaped from
+fall apart	falls apart	falling apart	fell apart	fallen apart
+fall away	falls away	falling away	fell away	fallen away
+fall back	falls back	falling back	fell back	fallen back
+fall back on	falls back on	falling back on	fell back on	fallen back on
+fall behind	falls behind	falling behind	fell behind	fallen behind
+fall down	falls down	falling down	fell down	fallen down
+fall for	falls for	falling for	fell for	fallen for
+fall in with	falls in with	falling in with	fell in with	fallen in with
+fall into	falls into	falling into	fell into	fallen into
+fall off	falls off	falling off	fell off	fallen off
+fall on	falls on	falling on	fell on	fallen on
+fall out	falls out	falling out	fell out	fallen out
+fall out with	falls out with	falling out with	fell out with	fallen out with
+fall over	falls over	falling over	fell over	fallen over
+fall through	falls through	falling through	fell through	fallen through
+focus on	focuses on	focusing on	focused on	focused on
+get across	gets across	getting across	got across	gotten across,got across
+get ahead	gets ahead	getting ahead	got ahead	gotten ahead,got ahead
+get along	gets along	getting along	got along	gotten along,got along
+get along with	gets along with	getting along with	got along with	gotten along with,got along with
+get around	gets around	getting around	got around	gotten around,got around
+get around to	gets around to	getting around to	got around to	gotten around to,got around to
+get away	gets away	getting away	got away	gotten away,got away
+get away from	gets away from	getting away from	got away from	gotten away from,got away from
+get away with	gets away with	getting away with	got away with	gotten away with,got away with
+get back	gets back	getting back	got back	gotten back,got back
+get back to	gets back to	getting back to	got back to	gotten back to,got back to
+get by	gets by	getting by	got by	gotten by,got by
+get down	gets down	getting down	got down	gotten down,got down
+get down to	gets down to	getting down to	got down to	gotten down to,got down to
+get in	gets in	getting in	got in	gotten in,got in
+get in on	gets in on	getting in on	got in on	gotten in on,got in on
+get into	gets into	getting into	got into	gotten into,got into
+get off	gets off	getting off	got off	gotten off,got off
+get off with	gets off with	getting off with	got off with	gotten off with,got off with
+get on	gets on	getting on	got on	gotten on,got on
+get on to	gets on to	getting on to	got on to	gotten on to,got on to
+get on with	gets on with	getting on with	got on with	gotten on with,got on with
+get out	gets out	getting out	got out	gotten out,got out
+get out of	gets out of	getting out of	got out of	gotten out of,got out of
+get over	gets over	getting over	got over	gotten over,got over
+get rid of	gets rid of	getting rid of	got rid of	gotten rid of,got rid of
+get through	gets through	getting through	got through	gotten through,got through
+get through to	gets through to	getting through to	got through to	gotten through to,got through to
+get together	gets together	getting together	got together	gotten together,got together
+get up	gets up	getting up	got up	gotten up,got up
+get up to	gets up to	getting up to	got up to	gotten up to,got up to
+give away	gives away	giving away	gave away	given away
+give back	gives back	giving back	gave back	given back
+give in	gives in	giving in	gave in	given in
+give in to	gives in to	giving in to	gave in to	given in to
+give off	gives off	giving off	gave off	given off
+give out	gives out	giving out	gave out	given out
+give over	gives over	giving over	gave over	given over
+give rise to	gives rise to	giving rise to	gave rise to	given rise to
+give up	gives up	giving up	gave up	given up
+give up on	gives up on	giving up on	gave up on	given up on
+give vent to	gives vent to	giving vent to	gave vent to	given vent to
+give way to	gives way to	giving way to	gave way to	given way to
+go after	goes after	going after	went after	gone after
+go against	goes against	going against	went against	gone against
+go ahead	goes ahead	going ahead	went ahead	gone ahead
+go along	goes along	going along	went along	gone along
+go along with	goes along with	going along with	went along with	gone along with
+go around	goes around	going around	went around	gone around
+go away	goes away	going away	went away	gone away
+go back	goes back	going back	went back	gone back
+go back on	goes back on	going back on	went back on	gone back on
+go back to	goes back to	going back to	went back to	gone back to
+go by	goes by	going by	went by	gone by
+go down	goes down	going down	went down	gone down
+go down as	goes down as	going down as	went down as	gone down as
+go down with	goes down with	going down with	went down with	gone down with
+go for	goes for	going for	went for	gone for
+go in	goes in	going in	went in	gone in
+go in for	goes in for	going in for	went in for	gone in for
+go into	goes into	going into	went into	gone into
+go off	goes off	going off	went off	gone off
+go off on	goes off on	going off on	went off on	gone off on
+go on	goes on	going on	went on	gone on
+go on about	goes on about	going on about	went on about	gone on about
+go out	goes out	going out	went out	gone out
+go out of	goes out of	going out of	went out of	gone out of
+go out with	goes out with	going out with	went out with	gone out with
+go over	goes over	going over	went over	gone over
+go over to	goes over to	going over to	went over to	gone over to
+go through	goes through	going through	went through	gone through
+go through with	goes through with	going through with	went through with	gone through with
+go under	goes under	going under	went under	gone under
+go up	goes up	going up	went up	gone up
+go without	goes without	going without	went without	gone without
+graduate from	graduates from	graduating from	graduated from	graduated from
+hand in	hands in	handing in	handed in	handed in
+hear from	hears from	hearing from	heard from	heard from
+hear of	hears of	hearing of	heard of	heard of
+help along	helps along	helping along	helped along	helped along
+help out	helps out	helping out	helped out	helped out
+help up	helps up	helping up	helped up	helped up
+help with	helps with	helping with	helped with	helped with
+hold back	holds back	holding back	held back	held back
+hold down	holds down	holding down	held down	held down
+hold off	holds off	holding off	held off	held off
+hold on	holds on	holding on	held on	held on
+hold on to	holds on to	holding on to	held on to	held on to
+hold out	holds out	holding out	held out	held out
+hold out for	holds out for	holding out for	held out for	held out for
+hold out on	holds out on	holding out on	held out on	held out on
+hold together	holds together	holding together	held together	held together
+hold up	holds up	holding up	held up	held up
+hope for	hopes for	hoping for	hoped for	hoped for
+insist on	insists on	insisting on	insisted on	insisted on
+interfere in	interferes in	interfering in	interfered in	interfered in
+interfere with	interferes with	interfering with	interfered with	interfered with
+invest in	invests in	investing in	invested in	invested in
+keep ahead of	keeps ahead of	keeping ahead of	kept ahead of	kept ahead of
+keep at	keeps at	keeping at	kept at	kept at
+keep away	keeps away	keeping away	kept away	kept away
+keep away from	keeps away from	keeping away from	kept away from	kept away from
+keep back	keeps back	keeping back	kept back	kept back
+keep down	keeps down	keeping down	kept down	kept down
+keep from	keeps from	keeping from	kept from	kept from
+keep in	keeps in	keeping in	kept in	kept in
+keep off	keeps off	keeping off	kept off	kept off
+keep on	keeps on	keeping on	kept on	kept on
+keep on at	keeps on at	keeping on at	kept on at	kept on at
+keep out	keeps out	keeping out	kept out	kept out
+keep out of	keeps out of	keeping out of	kept out of	kept out of
+keep to	keeps to	keeping to	kept to	kept to
+keep up	keeps up	keeping up	kept up	kept up
+keep up with	keeps up with	keeping up with	kept up with	kept up with
+laugh at	laughs at	laughing at	laughed at	laughed at
+lead to	leads to	leading to	led to	led to
+learn from	learns from	learning from	learned from,learnt from	learned from,learnt from
+leave aside	leaves aside	leaving aside	left aside	left aside
+leave behind	leaves behind	leaving behind	left behind	left behind
+leave for	leaves for	leaving for	left for	left for
+leave off	leaves off	leaving off	left off	left off
+leave out	leaves out	leaving out	left out	left out
+let down	lets down	letting down	let down	let down
+let go of	lets go of	letting go of	let go of	let go of
+let in	lets in	letting in	let in	let in
+let off	lets off	letting off	let off	let off
+let on	lets on	letting on	let on	let on
+let out	lets out	letting out	let out	let out
+let up	lets up	letting up	let up	let up
+listen to	listens to	listening to	listened to	listened to
+look after	looks after	looking after	looked after	looked after
+look ahead	looks ahead	looking ahead	looked ahead	looked ahead
+look ahead to	looks ahead to	looking ahead to	looked ahead to	looked ahead to
+look around	looks around	looking around	looked around	looked around
+look at	looks at	looking at	looked at	looked at
+look away	looks away	looking away	looked away	looked away
+look back	looks back	looking back	looked back	looked back
+look back on	looks back on	looking back on	looked back on	looked back on
+look down	looks down	looking down	looked down	looked down
+look down on	looks down on	looking down on	looked down on	looked down on
+look for	looks for	looking for	looked for	looked for
+look forward to	looks forward to	looking forward to	looked forward to	looked forward to
+look in	looks in	looking in	looked in	looked in
+look in on	looks in on	looking in on	looked in on	looked in on
+look into	looks into	looking into	looked into	looked into
+look on	looks on	looking on	looked on	looked on
+look out	looks out	looking out	looked out	looked out
+look out for	looks out for	looking out for	looked out for	looked out for
+look out on	looks out on	looking out on	looked out on	looked out on
+look over	looks over	looking over	looked over	looked over
+look through	looks through	looking through	looked through	looked through
+look to	looks to	looking to	looked to	looked to
+look up	looks up	looking up	looked up	looked up
+look up to	looks up to	looking up to	looked up to	looked up to
+look upon	looks upon	looking upon	looked upon	looked upon
+make do with	makes do with	making do with	made do with	made do with
+make for	makes for	making for	made for	made for
+make fun of	makes fun of	making fun of	made fun of	made fun of
+make light of	makes light of	making light of	made light of	made light of
+make off	makes off	making off	made off	made off
+make off with	makes off with	making off with	made off with	made off with
+make out	makes out	making out	made out	made out
+make over	makes over	making over	made over	made over
+make room for	makes room for	making room for	made room for	made room for
+make sense of	makes sense of	making sense of	made sense of	made sense of
+make up for	makes up for	making up for	made up for	made up for
+make use of	makes use of	making use of	made use of	made use of
+make way for	makes way for	making way for	made way for	made way for
+move along	moves along	moving along	moved along	moved along
+move away	moves away	moving away	moved away	moved away
+move away from	moves away from	moving away from	moved away from	moved away from
+move back	moves back	moving back	moved back	moved back
+move in	moves in	moving in	moved in	moved in
+move into	moves into	moving into	moved into	moved into
+move on	moves on	moving on	moved on	moved on
+move on to	moves on to	moving on to	moved on to	moved on to
+move out	moves out	moving out	moved out	moved out
+move over	moves over	moving over	moved over	moved over
+move up	moves up	moving up	moved up	moved up
+object to	objects to	objecting to	objected to	objected to
+originate from	originates from	originating from	originated from	originated from
+participate in	participates in	participating in	participated in	participated in
+pass around	passes around	passing around	passed around	passed around
+pass away	passes away	passing away	passed away	passed away
+pass by	passes by	passing by	passed by	passed by
+pass down	passes down	passing down	passed down	passed down
+pass off	passes off	passing off	passed off	passed off
+pass on	passes on	passing on	passed on	passed on
+pass on to	passes on to	passing on to	passed on to	passed on to
+pass out	passes out	passing out	passed out	passed out
+pass over	passes over	passing over	passed over	passed over
+pass through	passes through	passing through	passed through	passed through
+pass up	passes up	passing up	passed up	passed up
+pay back	pays back	paying back	paid back	paid back
+pay for	pays for	paying for	paid for	paid for
+pay off	pays off	paying off	paid off	paid off
+prepare for	prepares for	preparing for	prepared for	prepared for
+provide for	provides for	providing for	provided for	provided for
+put across	puts across	putting across	put across	put across
+put aside	puts aside	putting aside	put aside	put aside
+put away	puts away	putting away	put away	put away
+put back	puts back	putting back	put back	put back
+put down	puts down	putting down	put down	put down
+put forward	puts forward	putting forward	put forward	put forward
+put in	puts in	putting in	put in	put in
+put in for	puts in for	putting in for	put in for	put in for
+put on	puts on	putting on	put on	put on
+put out	puts out	putting out	put out	put out
+put through	puts through	putting through	put through	put through
+put together	puts together	putting together	put together	put together
+put up	puts up	putting up	put up	put up
+put up with	puts up with	putting up with	put up with	put up with
+react to	reacts to	reacting to	reacted to	reacted to
+read out	reads out	reading out	read out	read out
+read over	reads over	reading over	read over	read over
+read through	reads through	reading through	read through	read through
+read up on	reads up on	reading up on	read up on	read up on
+recover from	recovers from	recovering from	recovered from	recovered from
+refer to	refers to	referring to	referred to	referred to
+refrain from	refrains from	refraining from	refrained from	refrained from
+relate to	relates to	relating to	related to	related to
+rely on	relies on	relying on	relied on	relied on
+reply to	replies to	replying to	replied to	replied to
+resign from	resigns from	resigning from	resigned from	resigned from
+resort to	resorts to	resorting to	resorted to	resorted to
+respond to	responds to	responding to	responded to	responded to
+result from	results from	resulting from	resulted from	resulted from
+result in	results in	resulting in	resulted in	resulted in
+return to	returns to	returning to	returned to	returned to
+run across	runs across	running across	ran across	run across
+run after	runs after	running after	ran after	run after
+run against	runs against	running against	ran against	run against
+run around	runs around	running around	ran around	run around
+run away	runs away	running away	ran away	run away
+run away from	runs away from	running away from	ran away from	run away from
+run back	runs back	running back	ran back	run back
+run down	runs down	running down	ran down	run down
+run in	runs in	running in	ran in	run in
+run into	runs into	running into	ran into	run into
+run off	runs off	running off	ran off	run off
+run off with	runs off with	running off with	ran off with	run off with
+run on	runs on	running on	ran on	run on
+run out	runs out	running out	ran out	run out
+run out on	runs out on	running out on	ran out on	run out on
+run over	runs over	running over	ran over	run over
+run through	runs through	running through	ran through	run through
+run up	runs up	running up	ran up	run up
+run up against	runs up against	running up against	ran up against	run up against
+run up to	runs up to	running up to	ran up to	run up to
+search for	searches for	searching for	searched for	searched for
+search through	searches through	searching through	searched through	searched through
+see about	sees about	seeing about	saw about	seen about
+see off	sees off	seeing off	saw off	seen off
+see through	sees through	seeing through	saw through	seen through
+see to	sees to	seeing to	saw to	seen to
+send back	sends back	sending back	sent back	sent back
+send out	sends out	sending out	sent out	sent out
+show around	shows around	showing around	showed around	shown around,showed around
+show in	shows in	showing in	showed in	shown in,showed in
+show off	shows off	showing off	showed off	shown off,showed off
+show out	shows out	showing out	showed out	shown out,showed out
+show through	shows through	showing through	showed through	shown through,showed through
+show up	shows up	showing up	showed up	shown up,showed up
+smile at	smiles at	smiling at	smiled at	smiled at
+speak about	speaks about	speaking about	spoke about	spoken about
+speak for	speaks for	speaking for	spoke for	spoken for
+speak of	speaks of	speaking of	spoke of	spoken of
+speak out	speaks out	speaking out	spoke out	spoken out
+speak out against	speaks out against	speaking out against	spoke out against	spoken out against
+speak to	speaks to	speaking to	spoke to	spoken to
+speak up	speaks up	speaking up	spoke up	spoken up
+speak with	speaks with	speaking with	spoke with	spoken with
+specialize in	specializes in	specializing in	specialized in	specialized in
+stand against	stands against	standing against	stood against	stood against
+stand aside	stands aside	standing aside	stood aside	stood aside
+stand back	stands back	standing back	stood back	stood back
+stand by	stands by	standing by	stood by	stood by
+stand down	stands down	standing down	stood down	stood down
+stand for	stands for	standing for	stood for	stood for
+stand in for	stands in for	standing in for	stood in for	stood in for
+stand out	stands out	standing out	stood out	stood out
+stand out from	stands out from	standing out from	stood out from	stood out from
+stand up	stands up	standing up	stood up	stood up
+stand up for	stands up for	standing up for	stood up for	stood up for
+stand up to	stands up to	standing up to	stood up to	stood up to
+stay away	stays away	staying away	stayed away	stayed away
+stay away from	stays away from	staying away from	stayed away from	stayed away from
+stay behind	stays behind	staying behind	stayed behind	stayed behind
+stay in	stays in	staying in	stayed in	stayed in
+stay on	stays on	staying on	stayed on	stayed on
+stay out	stays out	staying out	stayed out	stayed out
+stay over	stays over	staying over	stayed over	stayed over
+stay up	stays up	staying up	stayed up	stayed up
+stem from	stems from	stemming from	stemmed from	stemmed from
+stick to	sticks to	sticking to	stuck to	stuck to
+struggle for	struggles for	struggling for	struggled for	struggled for
+struggle with	struggles with	struggling with	struggled with	struggled with
+succeed in	succeeds in	succeeding in	succeeded in	succeeded in
+suffer from	suffers from	suffering from	suffered from	suffered from
+take after	takes after	taking after	took after	taken after
+take against	takes against	taking against	took against	taken against
+take along	takes along	taking along	took along	taken along
+take apart	takes apart	taking apart	took apart	taken apart
+take away	takes away	taking away	took away	taken away
+take away from	takes away from	taking away from	took away from	taken away from
+take back	takes back	taking back	took back	taken back
+take care of	takes care of	taking care of	took care of	taken care of
+take down	takes down	taking down	took down	taken down
+take in	takes in	taking in	took in	taken in
+take off	takes off	taking off	took off	taken off
+take on	takes on	taking on	took on	taken on
+take out	takes out	taking out	took out	taken out
+take over	takes over	taking over	took over	taken over
+take over from	takes over from	taking over from	took over from	taken over from
+take to	takes to	taking to	took to	taken to
+take up	takes up	taking up	took up	taken up
+take up with	takes up with	taking up with	took up with	taken up with
+talk about	talks about	talking about	talked about	talked about
+talk back	talks back	talking back	talked back	talked back
+talk down to	talks down to	talking down to	talked down to	talked down to
+talk over	talks over	talking over	talked over	talked over
+talk through	talks through	talking through	talked through	talked through
+talk to	talks to	talking to	talked to	talked to
+talk with	talks with	talking with	talked with	talked with
+think about	thinks about	thinking about	thought about	thought about
+think of	thinks of	thinking of	thought of	thought of
+turn against	turns against	turning against	turned against	turned against
+turn around	turns around	turning around	turned around	turned around
+turn away	turns away	turning away	turned away	turned away
+turn back	turns back	turning back	turned back	turned back
+turn down	turns down	turning down	turned down	turned down
+turn in	turns in	turning in	turned in	turned in
+turn into	turns into	turning into	turned into	turned into
+turn off	turns off	turning off	turned off	turned off
+turn on	turns on	turning on	turned on	turned on
+turn out	turns out	turning out	turned out	turned out
+turn out for	turns out for	turning out for	turned out for	turned out for
+turn over	turns over	turning over	turned over	turned over
+turn over to	turns over to	turning over to	turned over to	turned over to
+turn to	turns to	turning to	turned to	turned to
+turn up	turns up	turning up	turned up	turned up
+vote against	votes against	voting against	voted against	voted against
+vote for	votes for	voting for	voted for	voted for
+wait around	waits around	waiting around	waited around	waited around
+wait behind	waits behind	waiting behind	waited behind	waited behind
+wait for	waits for	waiting for	waited for	waited for
+wait on	waits on	waiting on	waited on	waited on
+wait up	waits up	waiting up	waited up	waited up
+wait up for	waits up for	waiting up for	waited up for	waited up for
+walk away	walks away	walking away	walked away	walked away
+walk away from	walks away from	walking away from	walked away from	walked away from
+walk in	walks in	walking in	walked in	walked in
+walk off	walks off	walking off	walked off	walked off
+walk out	walks out	walking out	walked out	walked out
+walk out on	walks out on	walking out on	walked out on	walked out on
+walk over	walks over	walking over	walked over	walked over
+walk up to	walks up to	walking up to	walked up to	walked up to
+wear off	wears off	wearing off	wore off	worn off
+wear out	wears out	wearing out	wore out	worn out
+withdraw from	withdraws from	withdrawing from	withdrew from	withdrawn from
+work around	works around	working around	worked around	worked around
+work at	works at	working at	worked at	worked at
+work away	works away	working away	worked away	worked away
+work in	works in	working in	worked in	worked in
+work off	works off	working off	worked off	worked off
+work on	works on	working on	worked on	worked on
+work out	works out	working out	worked out	worked out
+work out at	works out at	working out at	worked out at	worked out at
+work through	works through	working through	worked through	worked through
+work up	works up	working up	worked up	worked up
+work up to	works up to	working up to	worked up to	worked up to
+worry about	worries about	worrying about	worried about	worried about
+write back	writes back	writing back	wrote back	written back
+write down	writes down	writing down	wrote down	written down
+write in	writes in	writing in	wrote in	written in
+write off	writes off	writing off	wrote off	written off
+write out	writes out	writing out	wrote out	written out
+write to	writes to	writing to	wrote to	written to
+write up	writes up	writing up	wrote up	written up

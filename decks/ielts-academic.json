@@ -1040,6 +1040,36 @@
     ],
     "synonyms": [
       "accessible"
+    ],
+    "phrases": [
+      {
+        "word": "available for",
+        "pos": "adjective",
+        "ipa": "/əˈveɪ.lə.bəl fər/",
+        "meaningVi": "sẵn sàng để làm hoặc sử dụng cho việc gì",
+        "example": "This room is available for private meetings.",
+        "exampleVi": "Phòng này có thể dùng cho các cuộc họp riêng.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      },
+      {
+        "word": "available to",
+        "pos": "adjective",
+        "ipa": "/əˈveɪ.lə.bəl tə/",
+        "meaningVi": "có thể được một đối tượng tiếp cận hoặc sử dụng",
+        "example": "The guide is available to all students.",
+        "exampleVi": "Mọi sinh viên đều có thể tiếp cận tài liệu hướng dẫn.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": []
+      }
     ]
   },
   {

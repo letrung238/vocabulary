@@ -1,0 +1,450 @@
+[
+  {
+    "word": "absorb",
+    "pos": "verb",
+    "meaningVi": "gánh chịu một khoản chi phí hoặc tổn thất",
+    "example": "The company will absorb the extra shipping costs.",
+    "exampleVi": "Công ty sẽ gánh chịu chi phí vận chuyển phát sinh.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "abstraction",
+    "pos": "noun",
+    "meaningVi": "sự rút ra hoặc trích xuất một phần từ tổng thể",
+    "example": "The abstraction of water from the river is strictly controlled.",
+    "exampleVi": "Việc lấy nước từ sông được kiểm soát nghiêm ngặt.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "accelerate",
+    "pos": "verb",
+    "meaningVi": "thúc đẩy để một quá trình diễn ra nhanh hơn",
+    "example": "The new policy will accelerate economic growth.",
+    "exampleVi": "Chính sách mới sẽ thúc đẩy tăng trưởng kinh tế.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "accessibility",
+    "pos": "noun",
+    "meaningVi": "khả năng sử dụng của người khuyết tật (trợ năng)",
+    "example": "The website needs better accessibility for blind users.",
+    "exampleVi": "Trang web cần cải thiện khả năng sử dụng cho người khiếm thị.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "accompany",
+    "pos": "verb",
+    "meaningVi": "đệm nhạc cho người hát hoặc nhạc cụ khác",
+    "example": "She will accompany the singer on the piano.",
+    "exampleVi": "Cô ấy sẽ đệm piano cho ca sĩ.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "acknowledge",
+    "pos": "verb",
+    "meaningVi": "xác nhận đã nhận được thư hoặc thông tin",
+    "example": "Please acknowledge receipt of this email.",
+    "exampleVi": "Vui lòng xác nhận đã nhận được email này.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "acquire",
+    "pos": "verb",
+    "meaningVi": "mắc một căn bệnh hoặc nhiễm trùng",
+    "example": "Patients can acquire an infection during treatment.",
+    "exampleVi": "Bệnh nhân có thể bị nhiễm trùng trong quá trình điều trị.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "acquisition",
+    "pos": "noun",
+    "meaningVi": "quá trình tiếp thu một ngôn ngữ hoặc kỹ năng",
+    "example": "Language acquisition begins early in childhood.",
+    "exampleVi": "Quá trình tiếp thu ngôn ngữ bắt đầu từ khi còn nhỏ.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "adapt",
+    "pos": "verb",
+    "meaningVi": "chuyển thể tác phẩm sang hình thức khác",
+    "example": "They will adapt the novel for television.",
+    "exampleVi": "Họ sẽ chuyển thể cuốn tiểu thuyết thành phim truyền hình.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "adjust",
+    "pos": "verb",
+    "meaningVi": "dần thích nghi với một hoàn cảnh mới",
+    "example": "Children need time to adjust to a new school.",
+    "exampleVi": "Trẻ em cần thời gian để thích nghi với trường mới.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "admire",
+    "pos": "verb",
+    "meaningVi": "ngắm nhìn một thứ đẹp với sự thích thú",
+    "example": "We stopped to admire the view.",
+    "exampleVi": "Chúng tôi dừng lại để ngắm cảnh.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "admit",
+    "pos": "verb",
+    "meaningVi": "cho phép một người vào nơi nào đó",
+    "example": "The museum will admit visitors until five.",
+    "exampleVi": "Bảo tàng sẽ cho khách vào đến năm giờ.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "adoption",
+    "pos": "noun",
+    "meaningVi": "việc nhận một đứa trẻ làm con nuôi",
+    "example": "They completed the adoption of a young child.",
+    "exampleVi": "Họ đã hoàn tất việc nhận một đứa trẻ làm con nuôi.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "advantage",
+    "pos": "verb",
+    "meaningVi": "mang lại lợi thế cho một người hoặc nhóm",
+    "example": "This rule may advantage larger companies.",
+    "exampleVi": "Quy định này có thể mang lại lợi thế cho các công ty lớn hơn.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "advocate",
+    "pos": "noun",
+    "meaningVi": "người công khai ủng hộ một chính sách hoặc quan điểm",
+    "example": "She is an advocate for equal access to education.",
+    "exampleVi": "Cô ấy là người công khai ủng hộ quyền tiếp cận giáo dục bình đẳng.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "afford",
+    "pos": "verb",
+    "meaningVi": "cung cấp hoặc mang lại một cơ hội",
+    "example": "The balcony will afford a clear view of the sea.",
+    "exampleVi": "Ban công sẽ mang lại tầm nhìn thoáng ra biển.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "agenda",
+    "pos": "noun",
+    "meaningVi": "động cơ riêng được giấu sau hành động công khai",
+    "example": "He seems to have a hidden agenda.",
+    "exampleVi": "Có vẻ anh ấy có một động cơ riêng được che giấu.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "aggregate",
+    "pos": "noun",
+    "meaningVi": "tổng số được gộp từ nhiều phần",
+    "example": "The aggregate of these payments is ten thousand dollars.",
+    "exampleVi": "Tổng các khoản thanh toán này là mười nghìn đô la.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "aggressive",
+    "pos": "adjective",
+    "meaningVi": "lan nhanh hoặc phát triển dữ dội như bệnh",
+    "example": "The doctor identified an aggressive form of cancer.",
+    "exampleVi": "Bác sĩ xác định đây là một dạng ung thư phát triển dữ dội.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "alignment",
+    "pos": "noun",
+    "meaningVi": "sự liên minh hoặc đồng thuận giữa các bên",
+    "example": "The parties announced their alignment on this issue.",
+    "exampleVi": "Các bên công bố sự đồng thuận về vấn đề này.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "allow",
+    "pos": "verb",
+    "meaningVi": "tính đến một yếu tố khi lập kế hoạch",
+    "example": "You should allow for delays when planning the journey.",
+    "exampleVi": "Bạn nên tính đến việc chậm trễ khi lên kế hoạch chuyến đi.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "allowance",
+    "pos": "noun",
+    "meaningVi": "khoản tiền tiêu vặt cấp định kỳ",
+    "example": "She saves half of her weekly allowance.",
+    "exampleVi": "Cô bé tiết kiệm một nửa tiền tiêu vặt hằng tuần.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "alternative",
+    "pos": "adjective",
+    "meaningVi": "khác với cách truyền thống",
+    "example": "He works at a clinic offering alternative medicine.",
+    "exampleVi": "Anh ấy làm việc tại một phòng khám cung cấp các phương pháp y học thay thế.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "analyse",
+    "pos": "verb",
+    "meaningVi": "phân tích thành phần hóa học của một mẫu",
+    "example": "Scientists will analyse the chemical composition of the sample.",
+    "exampleVi": "Các nhà khoa học sẽ phân tích thành phần hóa học của mẫu.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "announce",
+    "pos": "verb",
+    "meaningVi": "xướng tên người trước đám đông",
+    "example": "Please announce each guest as they enter.",
+    "exampleVi": "Hãy xướng tên từng vị khách khi họ bước vào.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "anticipate",
+    "pos": "verb",
+    "meaningVi": "hành động trước để chuẩn bị cho một sự việc",
+    "example": "We must anticipate problems and prepare a backup plan.",
+    "exampleVi": "Chúng ta phải lường trước các vấn đề và chuẩn bị phương án dự phòng.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "anxious",
+    "pos": "adjective",
+    "meaningVi": "rất mong chờ một việc sẽ xảy ra",
+    "example": "She is anxious to hear the results.",
+    "exampleVi": "Cô ấy rất mong được nghe kết quả.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "apparatus",
+    "pos": "noun",
+    "meaningVi": "hệ cơ quan trong cơ thể cùng thực hiện một chức năng",
+    "example": "The respiratory apparatus supplies oxygen to the body.",
+    "exampleVi": "Hệ hô hấp cung cấp ôxy cho cơ thể.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "apparent",
+    "pos": "adjective",
+    "meaningVi": "chỉ có vẻ như đúng, chưa chắc là thật",
+    "example": "His apparent confidence concealed his anxiety.",
+    "exampleVi": "Sự tự tin bề ngoài của anh ấy che giấu nỗi lo lắng.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "appendix",
+    "pos": "noun",
+    "meaningVi": "ruột thừa trong cơ thể người",
+    "example": "The surgeon removed her appendix.",
+    "exampleVi": "Bác sĩ phẫu thuật đã cắt bỏ ruột thừa của cô ấy.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "appliance",
+    "pos": "noun",
+    "meaningVi": "dụng cụ y tế hoặc nha khoa có thể tháo lắp",
+    "example": "The dentist fitted a removable appliance.",
+    "exampleVi": "Nha sĩ đã lắp một khí cụ có thể tháo rời.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "apply",
+    "pos": "verb",
+    "meaningVi": "bôi kem hoặc thuốc lên bề mặt",
+    "example": "Apply the cream to clean skin.",
+    "exampleVi": "Bôi kem lên vùng da sạch.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "appraisal",
+    "pos": "noun",
+    "meaningVi": "việc định giá tài sản",
+    "example": "The bank requested an appraisal of the house.",
+    "exampleVi": "Ngân hàng yêu cầu định giá ngôi nhà.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "appropriate",
+    "pos": "verb",
+    "meaningVi": "chiếm đoạt để dùng làm của mình",
+    "example": "They tried to appropriate public funds for private use.",
+    "exampleVi": "Họ tìm cách chiếm đoạt công quỹ để sử dụng riêng.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "approve",
+    "pos": "verb",
+    "meaningVi": "tán thành một ý tưởng hoặc hành động",
+    "example": "I approve of your decision to continue studying.",
+    "exampleVi": "Tôi tán thành quyết định tiếp tục học của bạn.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "arbitrary",
+    "pos": "adjective",
+    "meaningVi": "bất kỳ, không cố định như một biến được chọn trong toán",
+    "example": "Let x be an arbitrary positive number.",
+    "exampleVi": "Cho x là một số dương bất kỳ.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "argue",
+    "pos": "verb",
+    "meaningVi": "đưa ra bằng chứng cho thấy một kết luận có cơ sở",
+    "example": "These findings argue for a change in policy.",
+    "exampleVi": "Những kết quả này cho thấy có cơ sở để thay đổi chính sách.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "arrange",
+    "pos": "verb",
+    "meaningVi": "chuyển soạn một bản nhạc cho cách trình diễn khác",
+    "example": "He will arrange the song for a string quartet.",
+    "exampleVi": "Anh ấy sẽ chuyển soạn bài hát cho một nhóm tứ tấu đàn dây.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "arrest",
+    "pos": "verb",
+    "meaningVi": "làm ngừng hoặc chặn đứng một quá trình",
+    "example": "Early treatment can arrest the spread of the disease.",
+    "exampleVi": "Điều trị sớm có thể chặn đứng sự lan rộng của bệnh.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "articulate",
+    "pos": "adjective",
+    "meaningVi": "có khả năng diễn đạt rõ ràng",
+    "example": "She is an articulate speaker who explains ideas clearly.",
+    "exampleVi": "Cô ấy là người diễn thuyết có khả năng trình bày ý tưởng rõ ràng.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "artifact",
+    "pos": "noun",
+    "meaningVi": "hiện vật do con người tạo ra trong quá khứ",
+    "example": "The museum displays an ancient bronze artifact.",
+    "exampleVi": "Bảo tàng trưng bày một hiện vật bằng đồng cổ.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "artificial",
+    "pos": "adjective",
+    "meaningVi": "giả tạo, thiếu tự nhiên trong cách cư xử",
+    "example": "His smile seemed artificial.",
+    "exampleVi": "Nụ cười của anh ấy có vẻ giả tạo.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "assertion",
+    "pos": "noun",
+    "meaningVi": "lời khẳng định chắc chắn về một điều",
+    "example": "Her assertion that the plan would fail surprised us.",
+    "exampleVi": "Lời khẳng định của cô ấy rằng kế hoạch sẽ thất bại khiến chúng tôi ngạc nhiên.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "assist",
+    "pos": "noun",
+    "meaningVi": "pha kiến tạo dẫn đến bàn thắng trong thể thao",
+    "example": "The midfielder provided an assist for the winning goal.",
+    "exampleVi": "Tiền vệ thực hiện một pha kiến tạo dẫn đến bàn thắng quyết định.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "associate",
+    "pos": "noun",
+    "meaningVi": "cộng sự hoặc đồng nghiệp",
+    "example": "A business associate introduced us.",
+    "exampleVi": "Một cộng sự kinh doanh đã giới thiệu chúng tôi với nhau.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "assume",
+    "pos": "verb",
+    "meaningVi": "nhận hoặc đảm nhiệm một chức vụ",
+    "example": "She will assume the role of director next month.",
+    "exampleVi": "Cô ấy sẽ đảm nhiệm vai trò giám đốc vào tháng tới.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "assumption",
+    "pos": "noun",
+    "meaningVi": "việc tiếp nhận chức vụ hoặc quyền lực",
+    "example": "His assumption of office marked a new beginning.",
+    "exampleVi": "Việc ông ấy nhậm chức đánh dấu một khởi đầu mới.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "assure",
+    "pos": "verb",
+    "meaningVi": "trấn an để người khác bớt lo",
+    "example": "I can assure you that your data is safe.",
+    "exampleVi": "Tôi có thể cam đoan để bạn yên tâm rằng dữ liệu của bạn được an toàn.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "attach",
+    "pos": "verb",
+    "meaningVi": "trở nên gắn bó về tình cảm",
+    "example": "Children can attach themselves to a favourite toy.",
+    "exampleVi": "Trẻ em có thể trở nên gắn bó với một món đồ chơi yêu thích.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "attachment",
+    "pos": "noun",
+    "meaningVi": "tình cảm gắn bó với một người hoặc nơi chốn",
+    "example": "She feels a strong attachment to her hometown.",
+    "exampleVi": "Cô ấy có tình cảm gắn bó sâu sắc với quê hương.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "attempt",
+    "pos": "verb",
+    "meaningVi": "cố gắng thực hiện một việc khó",
+    "example": "They will attempt to climb the mountain tomorrow.",
+    "exampleVi": "Ngày mai họ sẽ cố gắng leo lên ngọn núi.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "attitude",
+    "pos": "noun",
+    "meaningVi": "tư thế hoặc hướng của máy bay trong không gian",
+    "example": "The pilot adjusted the aircraft's attitude.",
+    "exampleVi": "Phi công điều chỉnh tư thế của máy bay.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "attract",
+    "pos": "verb",
+    "meaningVi": "hút một vật bằng lực vật lý",
+    "example": "Magnets attract iron objects.",
+    "exampleVi": "Nam châm hút các vật bằng sắt.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "audience",
+    "pos": "noun",
+    "meaningVi": "buổi tiếp kiến một người có địa vị cao",
+    "example": "The ambassador requested an audience with the king.",
+    "exampleVi": "Đại sứ đề nghị được tiếp kiến nhà vua.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "audit",
+    "pos": "verb",
+    "meaningVi": "dự thính một khóa học mà không lấy tín chỉ",
+    "example": "Students may audit the course without earning credit.",
+    "exampleVi": "Sinh viên có thể dự thính khóa học mà không nhận tín chỉ.",
+    "sourceGroup": "seed"
+  },
+  {
+    "word": "narrow",
+    "pos": "verb",
+    "meaningVi": "thu hẹp phạm vi hoặc lựa chọn",
+    "example": "We need to narrow the search to three candidates.",
+    "exampleVi": "Chúng ta cần thu hẹp việc tìm kiếm còn ba ứng viên.",
+    "sourceGroup": "seed"
+  }
+]

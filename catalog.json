@@ -33,6 +33,12 @@
       "count": 1000
     },
     {
+      "title": "Từ gốc bổ sung và cụm với giới từ",
+      "count": 33,
+      "url": "decks/prepositions.json",
+      "description": "32 từ gốc bổ sung cùng các cụm liên quan và idiom care of. Các cụm khác nằm ngay trong từ gốc ở bộ tương ứng. Bộ offline Windows/Android nhập đủ 650 cụm."
+    },
+    {
       "title": "Thông dụng · 120 từ bổ sung",
       "count": 120,
       "url": "decks/basic-120.json",
@@ -43,12 +49,6 @@
       "count": 500,
       "url": "decks/everyday-500.json",
       "description": "500 từ/cụm trong 10 nhóm đã duyệt. IPA, ví dụ Anh–Việt theo nghĩa, dạng chia và đồng nghĩa phù hợp; có sẵn offline trên Windows/Android."
-    },
-    {
-      "title": "Từ gốc bổ sung và cụm với giới từ",
-      "count": 33,
-      "url": "decks/prepositions.json",
-      "description": "32 từ gốc mới cùng các cụm liên quan và idiom care of. Các cụm khác nằm ngay trong từ gốc ở bộ tương ứng. Bộ offline Windows/Android nhập đủ 150 cụm."
     },
     {
       "title": "B2 · 1.000 từ mới",

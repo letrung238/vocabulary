@@ -1,0 +1,19 @@
+[
+  {
+    "word": "bacterium",
+    "renameFrom": "bacteria",
+    "pos": "noun",
+    "meaningVi": "vi khuẩn",
+    "ipa": "/bækˈtɪəriəm/",
+    "example": "A bacterium is too small to see without a microscope.",
+    "exampleVi": "Một vi khuẩn quá nhỏ để có thể nhìn thấy nếu không có kính hiển vi.",
+    "plural": {
+      "word": "bacteria",
+      "types": ["plural"],
+      "ipa": "/bækˈtɪəriə/",
+      "example": "Wash your hands to remove harmful bacteria.",
+      "exampleVi": "Hãy rửa tay để loại bỏ vi khuẩn có hại."
+    },
+    "source": "https://dictionary.cambridge.org/us/dictionary/english/bacterium"
+  }
+]

@@ -977,6 +977,201 @@
             "ipa": "/tɔkt əˈbaʊt/"
           }
         ]
+      },
+      {
+        "word": "talk over",
+        "pos": "verb",
+        "ipa": "/tɔːk ˈoʊvər/",
+        "meaningVi": "thảo luận kỹ để đi đến quyết định",
+        "example": "Let us talk over the options tonight.",
+        "exampleVi": "Tối nay chúng ta hãy bàn kỹ các phương án.",
+        "topic": "common",
+        "tags": [
+          "prepositions",
+          "common"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "talks over",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/tɔːks ˈoʊvər/"
+          },
+          {
+            "word": "talking over",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/tɔːkɪŋ ˈoʊvər/"
+          },
+          {
+            "word": "talked over",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/tɔːkt ˈoʊvər/"
+          }
+        ]
+      },
+      {
+        "word": "talk through",
+        "pos": "verb",
+        "ipa": "/tɔːk θruː/",
+        "meaningVi": "cùng trao đổi lần lượt về một vấn đề",
+        "example": "We should talk through the plan together.",
+        "exampleVi": "Chúng ta nên cùng bàn lần lượt về kế hoạch.",
+        "topic": "common",
+        "tags": [
+          "prepositions",
+          "common"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "talks through",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/tɔːks θruː/"
+          },
+          {
+            "word": "talking through",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/tɔːkɪŋ θruː/"
+          },
+          {
+            "word": "talked through",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/tɔːkt θruː/"
+          }
+        ]
+      },
+      {
+        "word": "talk back",
+        "pos": "verb",
+        "ipa": "/tɔːk bæk/",
+        "meaningVi": "cãi lại một cách thiếu lễ phép",
+        "example": "Do not talk back to your parents.",
+        "exampleVi": "Đừng hỗn với cha mẹ.",
+        "topic": "common",
+        "tags": [
+          "prepositions",
+          "common"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "talks back",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/tɔːks bæk/"
+          },
+          {
+            "word": "talking back",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/tɔːkɪŋ bæk/"
+          },
+          {
+            "word": "talked back",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/tɔːkt bæk/"
+          }
+        ]
+      },
+      {
+        "word": "talk down to",
+        "pos": "verb",
+        "ipa": "/tɔːk daʊn tə/",
+        "meaningVi": "nói với ai bằng giọng coi thường",
+        "example": "Please do not talk down to me.",
+        "exampleVi": "Xin đừng nói với tôi bằng giọng coi thường.",
+        "topic": "common",
+        "tags": [
+          "prepositions",
+          "common"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "talks down to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/tɔːks daʊn tə/"
+          },
+          {
+            "word": "talking down to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/tɔːkɪŋ daʊn tə/"
+          },
+          {
+            "word": "talked down to",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/tɔːkt daʊn tə/"
+          }
+        ]
+      },
+      {
+        "word": "talk with",
+        "pos": "verb",
+        "ipa": "/tɔːk wɪð/",
+        "meaningVi": "trò chuyện hoặc trao đổi với ai",
+        "example": "I need to talk with my supervisor.",
+        "exampleVi": "Tôi cần trao đổi với người giám sát.",
+        "topic": "common",
+        "tags": [
+          "prepositions",
+          "common"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "talks with",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/tɔːks wɪð/"
+          },
+          {
+            "word": "talking with",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/tɔːkɪŋ wɪð/"
+          },
+          {
+            "word": "talked with",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/tɔːkt wɪð/"
+          }
+        ]
       }
     ]
   },
@@ -1575,6 +1770,45 @@
               "past_participle"
             ],
             "ipa": "/ˈkɑt ʌp wɪð/, /ˈkɔt ʌp wɪð/"
+          }
+        ]
+      },
+      {
+        "word": "catch on",
+        "pos": "verb",
+        "ipa": "/kætʃ ɑːn/",
+        "meaningVi": "hiểu ra; nắm được cách làm",
+        "example": "The new students will catch on quickly.",
+        "exampleVi": "Các học sinh mới sẽ nhanh chóng hiểu ra.",
+        "topic": "common",
+        "tags": [
+          "prepositions",
+          "common"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "catches on",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/kætʃɪz ɑːn/"
+          },
+          {
+            "word": "catching on",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/kætʃɪŋ ɑːn/"
+          },
+          {
+            "word": "caught on",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈkɑt ɑːn/, /ˈkɔt ɑːn/"
           }
         ]
       }
@@ -2513,6 +2747,34 @@
           "education"
         ],
         "synonyms": []
+      },
+      {
+        "word": "good for",
+        "pos": "adjective",
+        "ipa": "/ɡʊd fər/",
+        "meaningVi": "có lợi cho ai hoặc điều gì",
+        "example": "Regular exercise is good for your health.",
+        "exampleVi": "Tập thể dục thường xuyên có lợi cho sức khỏe.",
+        "topic": "common",
+        "tags": [
+          "prepositions",
+          "common"
+        ],
+        "synonyms": []
+      },
+      {
+        "word": "good with",
+        "pos": "adjective",
+        "ipa": "/ɡʊd wɪð/",
+        "meaningVi": "khéo léo hoặc giỏi khi làm việc với ai hay thứ gì",
+        "example": "She is good with young children.",
+        "exampleVi": "Cô ấy rất khéo khi làm việc với trẻ nhỏ.",
+        "topic": "common",
+        "tags": [
+          "prepositions",
+          "common"
+        ],
+        "synonyms": []
       }
     ]
   },
@@ -2540,6 +2802,34 @@
         "tags": [
           "prepositions",
           "daily"
+        ],
+        "synonyms": []
+      },
+      {
+        "word": "bad for",
+        "pos": "adjective",
+        "ipa": "/bæd fər/",
+        "meaningVi": "có hại cho ai hoặc điều gì",
+        "example": "Too much noise is bad for your hearing.",
+        "exampleVi": "Tiếng ồn quá mức có hại cho thính giác.",
+        "topic": "common",
+        "tags": [
+          "prepositions",
+          "common"
+        ],
+        "synonyms": []
+      },
+      {
+        "word": "bad with",
+        "pos": "adjective",
+        "ipa": "/bæd wɪð/",
+        "meaningVi": "không khéo hoặc không giỏi xử lý một thứ",
+        "example": "I am bad with names but remember faces.",
+        "exampleVi": "Tôi kém nhớ tên nhưng nhớ khuôn mặt.",
+        "topic": "common",
+        "tags": [
+          "prepositions",
+          "common"
         ],
         "synonyms": []
       }

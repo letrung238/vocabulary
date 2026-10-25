@@ -107,6 +107,441 @@
         "example": "We passed the station on our way home.",
         "exampleVi": "Chúng tôi đi qua nhà ga trên đường về nhà."
       }
+    ],
+    "phrases": [
+      {
+        "word": "pass out",
+        "pos": "verb",
+        "ipa": "/pæs aʊt/",
+        "meaningVi": "bất tỉnh; ngất đi",
+        "example": "The heat made him pass out.",
+        "exampleVi": "Sức nóng khiến anh ấy ngất đi.",
+        "topic": "travel",
+        "tags": [
+          "prepositions",
+          "travel"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "passes out",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/pæsɪz aʊt/"
+          },
+          {
+            "word": "passing out",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/pæsɪŋ aʊt/"
+          },
+          {
+            "word": "passed out",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/pæst aʊt/"
+          }
+        ]
+      },
+      {
+        "word": "pass away",
+        "pos": "verb",
+        "ipa": "/pæs əˈweɪ/",
+        "meaningVi": "qua đời, cách nói nhẹ nhàng",
+        "example": "Her grandfather passed away peacefully.",
+        "exampleVi": "Ông của cô ấy đã qua đời thanh thản.",
+        "topic": "travel",
+        "tags": [
+          "prepositions",
+          "travel"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "passes away",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/pæsɪz əˈweɪ/"
+          },
+          {
+            "word": "passing away",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/pæsɪŋ əˈweɪ/"
+          },
+          {
+            "word": "passed away",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/pæst əˈweɪ/",
+            "example": "Her grandfather passed away peacefully.",
+            "exampleVi": "Ông của cô ấy đã qua đời thanh thản."
+          }
+        ]
+      },
+      {
+        "word": "pass on",
+        "pos": "verb",
+        "ipa": "/pæs ɑːn/",
+        "meaningVi": "chuyển một thông tin cho người khác",
+        "example": "Please pass on the message to your team.",
+        "exampleVi": "Hãy chuyển lời nhắn cho nhóm của bạn.",
+        "topic": "travel",
+        "tags": [
+          "prepositions",
+          "travel"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "passes on",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/pæsɪz ɑːn/"
+          },
+          {
+            "word": "passing on",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/pæsɪŋ ɑːn/"
+          },
+          {
+            "word": "passed on",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/pæst ɑːn/"
+          }
+        ]
+      },
+      {
+        "word": "pass by",
+        "pos": "verb",
+        "ipa": "/pæs baɪ/",
+        "meaningVi": "đi ngang qua",
+        "example": "Many buses pass by our house.",
+        "exampleVi": "Nhiều xe buýt đi ngang qua nhà chúng tôi.",
+        "topic": "travel",
+        "tags": [
+          "prepositions",
+          "travel"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "passes by",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/pæsɪz baɪ/"
+          },
+          {
+            "word": "passing by",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/pæsɪŋ baɪ/"
+          },
+          {
+            "word": "passed by",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/pæst baɪ/"
+          }
+        ]
+      },
+      {
+        "word": "pass over",
+        "pos": "verb",
+        "ipa": "/pæs ˈoʊvər/",
+        "meaningVi": "không chọn hoặc không xem xét ai",
+        "example": "They chose to pass over an experienced candidate.",
+        "exampleVi": "Họ quyết định không chọn một ứng viên có kinh nghiệm.",
+        "topic": "travel",
+        "tags": [
+          "prepositions",
+          "travel"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "passes over",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/pæsɪz ˈoʊvər/"
+          },
+          {
+            "word": "passing over",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/pæsɪŋ ˈoʊvər/"
+          },
+          {
+            "word": "passed over",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/pæst ˈoʊvər/"
+          }
+        ]
+      },
+      {
+        "word": "pass through",
+        "pos": "verb",
+        "ipa": "/pæs θruː/",
+        "meaningVi": "đi qua một địa điểm trên đường tới nơi khác",
+        "example": "We will pass through several villages.",
+        "exampleVi": "Chúng tôi sẽ đi qua một số ngôi làng.",
+        "topic": "travel",
+        "tags": [
+          "prepositions",
+          "travel"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "passes through",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/pæsɪz θruː/"
+          },
+          {
+            "word": "passing through",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/pæsɪŋ θruː/"
+          },
+          {
+            "word": "passed through",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/pæst θruː/"
+          }
+        ]
+      },
+      {
+        "word": "pass around",
+        "pos": "verb",
+        "ipa": "/pæs əˈraʊnd/",
+        "meaningVi": "chuyền một vật lần lượt cho nhiều người",
+        "example": "Please pass around these photographs.",
+        "exampleVi": "Hãy chuyền những bức ảnh này cho mọi người.",
+        "topic": "travel",
+        "tags": [
+          "prepositions",
+          "travel"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "passes around",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/pæsɪz əˈraʊnd/"
+          },
+          {
+            "word": "passing around",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/pæsɪŋ əˈraʊnd/"
+          },
+          {
+            "word": "passed around",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/pæst əˈraʊnd/"
+          }
+        ]
+      },
+      {
+        "word": "pass down",
+        "pos": "verb",
+        "ipa": "/pæs daʊn/",
+        "meaningVi": "truyền lại cho thế hệ sau",
+        "example": "Families pass down stories across generations.",
+        "exampleVi": "Các gia đình truyền lại câu chuyện qua nhiều thế hệ.",
+        "topic": "travel",
+        "tags": [
+          "prepositions",
+          "travel"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "passes down",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/pæsɪz daʊn/"
+          },
+          {
+            "word": "passing down",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/pæsɪŋ daʊn/"
+          },
+          {
+            "word": "passed down",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/pæst daʊn/"
+          }
+        ]
+      },
+      {
+        "word": "pass off",
+        "pos": "verb",
+        "ipa": "/pæs ɔːf/",
+        "meaningVi": "diễn ra theo cách nào đó, thường dùng trong tiếng Anh–Anh",
+        "example": "The parade passed off peacefully.",
+        "exampleVi": "Cuộc diễu hành đã diễn ra yên bình.",
+        "topic": "travel",
+        "tags": [
+          "prepositions",
+          "travel"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "passes off",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/pæsɪz ɔːf/"
+          },
+          {
+            "word": "passing off",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/pæsɪŋ ɔːf/"
+          },
+          {
+            "word": "passed off",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/pæst ɔːf/",
+            "example": "The parade passed off peacefully.",
+            "exampleVi": "Cuộc diễu hành đã diễn ra yên bình."
+          }
+        ]
+      },
+      {
+        "word": "pass up",
+        "pos": "verb",
+        "ipa": "/pæs ʌp/",
+        "meaningVi": "bỏ lỡ hoặc từ chối một cơ hội",
+        "example": "Do not pass up this chance to learn.",
+        "exampleVi": "Đừng bỏ lỡ cơ hội học hỏi này.",
+        "topic": "travel",
+        "tags": [
+          "prepositions",
+          "travel"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "passes up",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/pæsɪz ʌp/"
+          },
+          {
+            "word": "passing up",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/pæsɪŋ ʌp/"
+          },
+          {
+            "word": "passed up",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/pæst ʌp/"
+          }
+        ]
+      },
+      {
+        "word": "pass on to",
+        "pos": "verb",
+        "ipa": "/pæs ɑːn tə/",
+        "meaningVi": "chuyển sang một chủ đề hoặc bước tiếp theo",
+        "example": "Let us pass on to the next question.",
+        "exampleVi": "Chúng ta hãy chuyển sang câu hỏi tiếp theo.",
+        "topic": "travel",
+        "tags": [
+          "prepositions",
+          "travel"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "passes on to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/pæsɪz ɑːn tə/"
+          },
+          {
+            "word": "passing on to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/pæsɪŋ ɑːn tə/"
+          },
+          {
+            "word": "passed on to",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/pæst ɑːn tə/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -268,6 +703,1344 @@
             "ipa": "/ˈɡɑtən rɪd əv/, /ˈɡɔtən rɪd əv/"
           }
         ]
+      },
+      {
+        "word": "get up",
+        "pos": "verb",
+        "ipa": "/ɡet ʌp/",
+        "meaningVi": "thức dậy; ra khỏi giường",
+        "example": "I get up at six every morning.",
+        "exampleVi": "Tôi thức dậy lúc sáu giờ mỗi sáng.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gets up",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡets ʌp/"
+          },
+          {
+            "word": "getting up",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡetɪŋ ʌp/"
+          },
+          {
+            "word": "got up",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑt ʌp/"
+          },
+          {
+            "word": "gotten up",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑtən ʌp/, /ˈɡɔtən ʌp/"
+          }
+        ]
+      },
+      {
+        "word": "get down",
+        "pos": "verb",
+        "ipa": "/ɡet daʊn/",
+        "meaningVi": "cúi xuống; hạ người xuống",
+        "example": "Get down before you hit your head.",
+        "exampleVi": "Cúi xuống trước khi bạn va đầu.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gets down",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡets daʊn/"
+          },
+          {
+            "word": "getting down",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡetɪŋ daʊn/"
+          },
+          {
+            "word": "got down",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑt daʊn/"
+          },
+          {
+            "word": "gotten down",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑtən daʊn/, /ˈɡɔtən daʊn/"
+          }
+        ]
+      },
+      {
+        "word": "get in",
+        "pos": "verb",
+        "ipa": "/ɡet ɪn/",
+        "meaningVi": "vào trong xe hoặc một nơi",
+        "example": "Get in the car before it rains.",
+        "exampleVi": "Hãy lên xe trước khi trời mưa.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gets in",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡets ɪn/"
+          },
+          {
+            "word": "getting in",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡetɪŋ ɪn/"
+          },
+          {
+            "word": "got in",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑt ɪn/"
+          },
+          {
+            "word": "gotten in",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑtən ɪn/, /ˈɡɔtən ɪn/"
+          }
+        ]
+      },
+      {
+        "word": "get out",
+        "pos": "verb",
+        "ipa": "/ɡet aʊt/",
+        "meaningVi": "ra khỏi một nơi",
+        "example": "Get out before the door closes.",
+        "exampleVi": "Hãy ra ngoài trước khi cửa đóng.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gets out",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡets aʊt/"
+          },
+          {
+            "word": "getting out",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡetɪŋ aʊt/"
+          },
+          {
+            "word": "got out",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑt aʊt/"
+          },
+          {
+            "word": "gotten out",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑtən aʊt/, /ˈɡɔtən aʊt/"
+          }
+        ]
+      },
+      {
+        "word": "get on",
+        "pos": "verb",
+        "ipa": "/ɡet ɑːn/",
+        "meaningVi": "lên xe buýt, tàu hoặc máy bay",
+        "example": "We get on the bus near the library.",
+        "exampleVi": "Chúng tôi lên xe buýt gần thư viện.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gets on",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡets ɑːn/"
+          },
+          {
+            "word": "getting on",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡetɪŋ ɑːn/"
+          },
+          {
+            "word": "got on",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑt ɑːn/"
+          },
+          {
+            "word": "gotten on",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑtən ɑːn/, /ˈɡɔtən ɑːn/"
+          }
+        ]
+      },
+      {
+        "word": "get off",
+        "pos": "verb",
+        "ipa": "/ɡet ɔːf/",
+        "meaningVi": "xuống xe buýt, tàu hoặc máy bay",
+        "example": "Get off at the next stop.",
+        "exampleVi": "Hãy xuống ở trạm tiếp theo.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gets off",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡets ɔːf/"
+          },
+          {
+            "word": "getting off",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡetɪŋ ɔːf/"
+          },
+          {
+            "word": "got off",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑt ɔːf/"
+          },
+          {
+            "word": "gotten off",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑtən ɔːf/, /ˈɡɔtən ɔːf/"
+          }
+        ]
+      },
+      {
+        "word": "get away",
+        "pos": "verb",
+        "ipa": "/ɡet əˈweɪ/",
+        "meaningVi": "rời đi; thoát khỏi nơi nào đó",
+        "example": "We hope to get away for the weekend.",
+        "exampleVi": "Chúng tôi hy vọng đi nghỉ xa vào cuối tuần.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gets away",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡets əˈweɪ/"
+          },
+          {
+            "word": "getting away",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡetɪŋ əˈweɪ/"
+          },
+          {
+            "word": "got away",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑt əˈweɪ/"
+          },
+          {
+            "word": "gotten away",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑtən əˈweɪ/, /ˈɡɔtən əˈweɪ/"
+          }
+        ]
+      },
+      {
+        "word": "get back",
+        "pos": "verb",
+        "ipa": "/ɡet bæk/",
+        "meaningVi": "trở về",
+        "example": "Please get back before dinner.",
+        "exampleVi": "Hãy trở về trước bữa tối.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gets back",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡets bæk/"
+          },
+          {
+            "word": "getting back",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡetɪŋ bæk/"
+          },
+          {
+            "word": "got back",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑt bæk/"
+          },
+          {
+            "word": "gotten back",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑtən bæk/, /ˈɡɔtən bæk/"
+          }
+        ]
+      },
+      {
+        "word": "get over",
+        "pos": "verb",
+        "ipa": "/ɡet ˈoʊvər/",
+        "meaningVi": "hồi phục sau bệnh hoặc cú sốc",
+        "example": "It took weeks to get over the flu.",
+        "exampleVi": "Phải mất nhiều tuần mới khỏi cúm.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gets over",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡets ˈoʊvər/"
+          },
+          {
+            "word": "getting over",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡetɪŋ ˈoʊvər/"
+          },
+          {
+            "word": "got over",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑt ˈoʊvər/"
+          },
+          {
+            "word": "gotten over",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑtən ˈoʊvər/, /ˈɡɔtən ˈoʊvər/"
+          }
+        ]
+      },
+      {
+        "word": "get through",
+        "pos": "verb",
+        "ipa": "/ɡet θruː/",
+        "meaningVi": "hoàn thành một việc khó hoặc nhiều việc",
+        "example": "We must get through these reports today.",
+        "exampleVi": "Hôm nay chúng ta phải xử lý xong các báo cáo này.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gets through",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡets θruː/"
+          },
+          {
+            "word": "getting through",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡetɪŋ θruː/"
+          },
+          {
+            "word": "got through",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑt θruː/"
+          },
+          {
+            "word": "gotten through",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑtən θruː/, /ˈɡɔtən θruː/"
+          }
+        ]
+      },
+      {
+        "word": "get along",
+        "pos": "verb",
+        "ipa": "/ɡet əˈlɔːŋ/",
+        "meaningVi": "hòa thuận với nhau",
+        "example": "The two roommates get along well.",
+        "exampleVi": "Hai người bạn cùng phòng rất hòa thuận.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gets along",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡets əˈlɔːŋ/"
+          },
+          {
+            "word": "getting along",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡetɪŋ əˈlɔːŋ/"
+          },
+          {
+            "word": "got along",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑt əˈlɔːŋ/"
+          },
+          {
+            "word": "gotten along",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑtən əˈlɔːŋ/, /ˈɡɔtən əˈlɔːŋ/"
+          }
+        ]
+      },
+      {
+        "word": "get around",
+        "pos": "verb",
+        "ipa": "/ɡet əˈraʊnd/",
+        "meaningVi": "đi lại từ nơi này đến nơi khác",
+        "example": "You can get around easily by bicycle.",
+        "exampleVi": "Bạn có thể đi lại dễ dàng bằng xe đạp.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gets around",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡets əˈraʊnd/"
+          },
+          {
+            "word": "getting around",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡetɪŋ əˈraʊnd/"
+          },
+          {
+            "word": "got around",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑt əˈraʊnd/"
+          },
+          {
+            "word": "gotten around",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑtən əˈraʊnd/, /ˈɡɔtən əˈraʊnd/"
+          }
+        ]
+      },
+      {
+        "word": "get by",
+        "pos": "verb",
+        "ipa": "/ɡet baɪ/",
+        "meaningVi": "xoay xở sống với nguồn lực hạn chế",
+        "example": "We can get by on one salary.",
+        "exampleVi": "Chúng tôi có thể xoay xở với một khoản lương.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gets by",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡets baɪ/"
+          },
+          {
+            "word": "getting by",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡetɪŋ baɪ/"
+          },
+          {
+            "word": "got by",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑt baɪ/"
+          },
+          {
+            "word": "gotten by",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑtən baɪ/, /ˈɡɔtən baɪ/"
+          }
+        ]
+      },
+      {
+        "word": "get ahead",
+        "pos": "verb",
+        "ipa": "/ɡet əˈhed/",
+        "meaningVi": "tiến bộ; thành công hơn trong công việc",
+        "example": "Learning new skills helps you get ahead.",
+        "exampleVi": "Học kỹ năng mới giúp bạn tiến xa hơn.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gets ahead",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡets əˈhed/"
+          },
+          {
+            "word": "getting ahead",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡetɪŋ əˈhed/"
+          },
+          {
+            "word": "got ahead",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑt əˈhed/"
+          },
+          {
+            "word": "gotten ahead",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑtən əˈhed/, /ˈɡɔtən əˈhed/"
+          }
+        ]
+      },
+      {
+        "word": "get together",
+        "pos": "verb",
+        "ipa": "/ɡet təˈɡeðər/",
+        "meaningVi": "gặp nhau để giao lưu",
+        "example": "We get together every Friday evening.",
+        "exampleVi": "Chúng tôi gặp nhau vào mỗi tối thứ Sáu.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gets together",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡets təˈɡeðər/"
+          },
+          {
+            "word": "getting together",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡetɪŋ təˈɡeðər/"
+          },
+          {
+            "word": "got together",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑt təˈɡeðər/"
+          },
+          {
+            "word": "gotten together",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑtən təˈɡeðər/, /ˈɡɔtən təˈɡeðər/"
+          }
+        ]
+      },
+      {
+        "word": "get across",
+        "pos": "verb",
+        "ipa": "/ɡet əˈkrɔːs/",
+        "meaningVi": "truyền đạt để người khác hiểu",
+        "example": "Pictures help get across the main idea.",
+        "exampleVi": "Hình ảnh giúp truyền đạt ý chính.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gets across",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡets əˈkrɔːs/"
+          },
+          {
+            "word": "getting across",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡetɪŋ əˈkrɔːs/"
+          },
+          {
+            "word": "got across",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑt əˈkrɔːs/"
+          },
+          {
+            "word": "gotten across",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑtən əˈkrɔːs/, /ˈɡɔtən əˈkrɔːs/"
+          }
+        ]
+      },
+      {
+        "word": "get into",
+        "pos": "verb",
+        "ipa": "/ɡet ˈɪntuː/",
+        "meaningVi": "bắt đầu hứng thú hoặc tham gia một việc",
+        "example": "I want to get into photography.",
+        "exampleVi": "Tôi muốn bắt đầu tìm hiểu nhiếp ảnh.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gets into",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡets ˈɪntuː/"
+          },
+          {
+            "word": "getting into",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡetɪŋ ˈɪntuː/"
+          },
+          {
+            "word": "got into",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑt ˈɪntuː/"
+          },
+          {
+            "word": "gotten into",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑtən ˈɪntuː/, /ˈɡɔtən ˈɪntuː/"
+          }
+        ]
+      },
+      {
+        "word": "get out of",
+        "pos": "verb",
+        "ipa": "/ɡet aʊt əv/",
+        "meaningVi": "rời khỏi một không gian hoặc phương tiện",
+        "example": "Get out of the lift on this floor.",
+        "exampleVi": "Hãy ra khỏi thang máy ở tầng này.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gets out of",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡets aʊt əv/"
+          },
+          {
+            "word": "getting out of",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡetɪŋ aʊt əv/"
+          },
+          {
+            "word": "got out of",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑt aʊt əv/"
+          },
+          {
+            "word": "gotten out of",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑtən aʊt əv/, /ˈɡɔtən aʊt əv/"
+          }
+        ]
+      },
+      {
+        "word": "get away with",
+        "pos": "verb",
+        "ipa": "/ɡet əˈweɪ wɪð/",
+        "meaningVi": "làm sai mà không bị phạt",
+        "example": "You cannot get away with cheating here.",
+        "exampleVi": "Ở đây bạn không thể gian lận mà thoát bị phạt.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gets away with",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡets əˈweɪ wɪð/"
+          },
+          {
+            "word": "getting away with",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡetɪŋ əˈweɪ wɪð/"
+          },
+          {
+            "word": "got away with",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑt əˈweɪ wɪð/"
+          },
+          {
+            "word": "gotten away with",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑtən əˈweɪ wɪð/, /ˈɡɔtən əˈweɪ wɪð/"
+          }
+        ]
+      },
+      {
+        "word": "get back to",
+        "pos": "verb",
+        "ipa": "/ɡet bæk tə/",
+        "meaningVi": "liên hệ trả lời lại cho ai",
+        "example": "I will get back to you tomorrow.",
+        "exampleVi": "Ngày mai tôi sẽ trả lời lại cho bạn.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gets back to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡets bæk tə/"
+          },
+          {
+            "word": "getting back to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡetɪŋ bæk tə/"
+          },
+          {
+            "word": "got back to",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑt bæk tə/"
+          },
+          {
+            "word": "gotten back to",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑtən bæk tə/, /ˈɡɔtən bæk tə/"
+          }
+        ]
+      },
+      {
+        "word": "get down to",
+        "pos": "verb",
+        "ipa": "/ɡet daʊn tə/",
+        "meaningVi": "bắt tay nghiêm túc vào công việc",
+        "example": "Let us get down to work.",
+        "exampleVi": "Chúng ta hãy bắt tay vào làm việc.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gets down to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡets daʊn tə/"
+          },
+          {
+            "word": "getting down to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡetɪŋ daʊn tə/"
+          },
+          {
+            "word": "got down to",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑt daʊn tə/"
+          },
+          {
+            "word": "gotten down to",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑtən daʊn tə/, /ˈɡɔtən daʊn tə/"
+          }
+        ]
+      },
+      {
+        "word": "get on with",
+        "pos": "verb",
+        "ipa": "/ɡet ɑːn wɪð/",
+        "meaningVi": "tiếp tục thực hiện một việc",
+        "example": "Please get on with your homework.",
+        "exampleVi": "Hãy tiếp tục làm bài tập về nhà.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gets on with",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡets ɑːn wɪð/"
+          },
+          {
+            "word": "getting on with",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡetɪŋ ɑːn wɪð/"
+          },
+          {
+            "word": "got on with",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑt ɑːn wɪð/"
+          },
+          {
+            "word": "gotten on with",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑtən ɑːn wɪð/, /ˈɡɔtən ɑːn wɪð/"
+          }
+        ]
+      },
+      {
+        "word": "get around to",
+        "pos": "verb",
+        "ipa": "/ɡet əˈraʊnd tə/",
+        "meaningVi": "cuối cùng cũng thu xếp làm một việc",
+        "example": "I finally got around to cleaning the attic.",
+        "exampleVi": "Cuối cùng tôi cũng thu xếp dọn được gác mái.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gets around to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡets əˈraʊnd tə/"
+          },
+          {
+            "word": "getting around to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡetɪŋ əˈraʊnd tə/"
+          },
+          {
+            "word": "got around to",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑt əˈraʊnd tə/",
+            "example": "I finally got around to cleaning the attic.",
+            "exampleVi": "Cuối cùng tôi cũng thu xếp dọn được gác mái."
+          },
+          {
+            "word": "gotten around to",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑtən əˈraʊnd tə/, /ˈɡɔtən əˈraʊnd tə/"
+          }
+        ]
+      },
+      {
+        "word": "get through to",
+        "pos": "verb",
+        "ipa": "/ɡet θruː tə/",
+        "meaningVi": "liên lạc được với ai, thường qua điện thoại",
+        "example": "I could not get through to the clinic.",
+        "exampleVi": "Tôi không gọi được cho phòng khám.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gets through to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡets θruː tə/"
+          },
+          {
+            "word": "getting through to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡetɪŋ θruː tə/"
+          },
+          {
+            "word": "got through to",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑt θruː tə/"
+          },
+          {
+            "word": "gotten through to",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑtən θruː tə/, /ˈɡɔtən θruː tə/"
+          }
+        ]
+      },
+      {
+        "word": "get away from",
+        "pos": "verb",
+        "ipa": "/ɡet əˈweɪ frəm/",
+        "meaningVi": "rời xa để tránh người hoặc điều gì",
+        "example": "We need to get away from the noise.",
+        "exampleVi": "Chúng ta cần tránh xa tiếng ồn.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gets away from",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡets əˈweɪ frəm/"
+          },
+          {
+            "word": "getting away from",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡetɪŋ əˈweɪ frəm/"
+          },
+          {
+            "word": "got away from",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑt əˈweɪ frəm/"
+          },
+          {
+            "word": "gotten away from",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑtən əˈweɪ frəm/, /ˈɡɔtən əˈweɪ frəm/"
+          }
+        ]
+      },
+      {
+        "word": "get in on",
+        "pos": "verb",
+        "ipa": "/ɡet ɪn ɑːn/",
+        "meaningVi": "tham gia một hoạt động hoặc cơ hội đang có",
+        "example": "Small firms want to get in on the project.",
+        "exampleVi": "Các công ty nhỏ muốn tham gia dự án.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gets in on",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡets ɪn ɑːn/"
+          },
+          {
+            "word": "getting in on",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡetɪŋ ɪn ɑːn/"
+          },
+          {
+            "word": "got in on",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑt ɪn ɑːn/"
+          },
+          {
+            "word": "gotten in on",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑtən ɪn ɑːn/, /ˈɡɔtən ɪn ɑːn/"
+          }
+        ]
+      },
+      {
+        "word": "get off with",
+        "pos": "verb",
+        "ipa": "/ɡet ɔːf wɪð/",
+        "meaningVi": "chỉ bị một hình phạt tương đối nhẹ",
+        "example": "He got off with a warning.",
+        "exampleVi": "Anh ấy chỉ bị cảnh cáo.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gets off with",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡets ɔːf wɪð/"
+          },
+          {
+            "word": "getting off with",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡetɪŋ ɔːf wɪð/"
+          },
+          {
+            "word": "got off with",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑt ɔːf wɪð/",
+            "example": "He got off with a warning.",
+            "exampleVi": "Anh ấy chỉ bị cảnh cáo."
+          },
+          {
+            "word": "gotten off with",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑtən ɔːf wɪð/, /ˈɡɔtən ɔːf wɪð/"
+          }
+        ]
+      },
+      {
+        "word": "get up to",
+        "pos": "verb",
+        "ipa": "/ɡet ʌp tə/",
+        "meaningVi": "làm việc gì, thường là nghịch ngợm",
+        "example": "What did the children get up to today?",
+        "exampleVi": "Hôm nay bọn trẻ đã nghịch những gì?",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gets up to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡets ʌp tə/"
+          },
+          {
+            "word": "getting up to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡetɪŋ ʌp tə/"
+          },
+          {
+            "word": "got up to",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑt ʌp tə/"
+          },
+          {
+            "word": "gotten up to",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑtən ʌp tə/, /ˈɡɔtən ʌp tə/"
+          }
+        ]
+      },
+      {
+        "word": "get on to",
+        "pos": "verb",
+        "ipa": "/ɡet ɑːn tə/",
+        "meaningVi": "liên hệ với người có thể xử lý vấn đề",
+        "example": "I will get on to the supplier today.",
+        "exampleVi": "Hôm nay tôi sẽ liên hệ nhà cung cấp.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gets on to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡets ɑːn tə/"
+          },
+          {
+            "word": "getting on to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡetɪŋ ɑːn tə/"
+          },
+          {
+            "word": "got on to",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑt ɑːn tə/"
+          },
+          {
+            "word": "gotten on to",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɑtən ɑːn tə/, /ˈɡɔtən ɑːn tə/"
+          }
+        ]
       }
     ]
   },
@@ -334,6 +2107,779 @@
         ],
         "ipa": "/ˈteɪkən/"
       }
+    ],
+    "phrases": [
+      {
+        "word": "take off",
+        "pos": "verb",
+        "ipa": "/teɪk ɔːf/",
+        "meaningVi": "cất cánh, nói về máy bay",
+        "example": "Our plane will take off at noon.",
+        "exampleVi": "Máy bay của chúng tôi sẽ cất cánh lúc trưa.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "takes off",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/teɪks ɔːf/"
+          },
+          {
+            "word": "taking off",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/teɪkɪŋ ɔːf/"
+          },
+          {
+            "word": "took off",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈtʊk ɔːf/"
+          },
+          {
+            "word": "taken off",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈteɪkən ɔːf/"
+          }
+        ]
+      },
+      {
+        "word": "take on",
+        "pos": "verb",
+        "ipa": "/teɪk ɑːn/",
+        "meaningVi": "nhận thêm công việc hoặc trách nhiệm",
+        "example": "Do not take on too much work.",
+        "exampleVi": "Đừng nhận quá nhiều việc.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "takes on",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/teɪks ɑːn/"
+          },
+          {
+            "word": "taking on",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/teɪkɪŋ ɑːn/"
+          },
+          {
+            "word": "took on",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈtʊk ɑːn/"
+          },
+          {
+            "word": "taken on",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈteɪkən ɑːn/"
+          }
+        ]
+      },
+      {
+        "word": "take over",
+        "pos": "verb",
+        "ipa": "/teɪk ˈoʊvər/",
+        "meaningVi": "tiếp quản quyền điều hành",
+        "example": "She will take over the family business.",
+        "exampleVi": "Cô ấy sẽ tiếp quản việc kinh doanh của gia đình.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "takes over",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/teɪks ˈoʊvər/"
+          },
+          {
+            "word": "taking over",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/teɪkɪŋ ˈoʊvər/"
+          },
+          {
+            "word": "took over",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈtʊk ˈoʊvər/"
+          },
+          {
+            "word": "taken over",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈteɪkən ˈoʊvər/"
+          }
+        ]
+      },
+      {
+        "word": "take up",
+        "pos": "verb",
+        "ipa": "/teɪk ʌp/",
+        "meaningVi": "bắt đầu một sở thích hoặc hoạt động",
+        "example": "I want to take up swimming.",
+        "exampleVi": "Tôi muốn bắt đầu tập bơi.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "takes up",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/teɪks ʌp/"
+          },
+          {
+            "word": "taking up",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/teɪkɪŋ ʌp/"
+          },
+          {
+            "word": "took up",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈtʊk ʌp/"
+          },
+          {
+            "word": "taken up",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈteɪkən ʌp/"
+          }
+        ]
+      },
+      {
+        "word": "take in",
+        "pos": "verb",
+        "ipa": "/teɪk ɪn/",
+        "meaningVi": "tiếp nhận và hiểu thông tin",
+        "example": "It was too much information to take in.",
+        "exampleVi": "Có quá nhiều thông tin để tiếp thu.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "takes in",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/teɪks ɪn/"
+          },
+          {
+            "word": "taking in",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/teɪkɪŋ ɪn/"
+          },
+          {
+            "word": "took in",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈtʊk ɪn/"
+          },
+          {
+            "word": "taken in",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈteɪkən ɪn/"
+          }
+        ]
+      },
+      {
+        "word": "take out",
+        "pos": "verb",
+        "ipa": "/teɪk aʊt/",
+        "meaningVi": "đưa một vật ra khỏi nơi đang chứa",
+        "example": "Please take out the rubbish.",
+        "exampleVi": "Hãy mang rác ra ngoài.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "takes out",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/teɪks aʊt/"
+          },
+          {
+            "word": "taking out",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/teɪkɪŋ aʊt/"
+          },
+          {
+            "word": "took out",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈtʊk aʊt/"
+          },
+          {
+            "word": "taken out",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈteɪkən aʊt/"
+          }
+        ]
+      },
+      {
+        "word": "take away",
+        "pos": "verb",
+        "ipa": "/teɪk əˈweɪ/",
+        "meaningVi": "lấy hoặc mang một thứ đi",
+        "example": "Please take away the empty plates.",
+        "exampleVi": "Hãy mang những chiếc đĩa không ra ngoài.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "takes away",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/teɪks əˈweɪ/"
+          },
+          {
+            "word": "taking away",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/teɪkɪŋ əˈweɪ/"
+          },
+          {
+            "word": "took away",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈtʊk əˈweɪ/"
+          },
+          {
+            "word": "taken away",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈteɪkən əˈweɪ/"
+          }
+        ]
+      },
+      {
+        "word": "take back",
+        "pos": "verb",
+        "ipa": "/teɪk bæk/",
+        "meaningVi": "rút lại điều đã nói",
+        "example": "I take back what I said yesterday.",
+        "exampleVi": "Tôi rút lại điều mình đã nói hôm qua.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "takes back",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/teɪks bæk/"
+          },
+          {
+            "word": "taking back",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/teɪkɪŋ bæk/"
+          },
+          {
+            "word": "took back",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈtʊk bæk/"
+          },
+          {
+            "word": "taken back",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈteɪkən bæk/"
+          }
+        ]
+      },
+      {
+        "word": "take down",
+        "pos": "verb",
+        "ipa": "/teɪk daʊn/",
+        "meaningVi": "ghi chép lại thông tin",
+        "example": "Please take down my new address.",
+        "exampleVi": "Hãy ghi lại địa chỉ mới của tôi.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "takes down",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/teɪks daʊn/"
+          },
+          {
+            "word": "taking down",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/teɪkɪŋ daʊn/"
+          },
+          {
+            "word": "took down",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈtʊk daʊn/"
+          },
+          {
+            "word": "taken down",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈteɪkən daʊn/"
+          }
+        ]
+      },
+      {
+        "word": "take apart",
+        "pos": "verb",
+        "ipa": "/teɪk əˈpɑːrt/",
+        "meaningVi": "tháo một vật thành các bộ phận",
+        "example": "We need to take apart the old engine.",
+        "exampleVi": "Chúng ta cần tháo rời động cơ cũ.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "takes apart",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/teɪks əˈpɑːrt/"
+          },
+          {
+            "word": "taking apart",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/teɪkɪŋ əˈpɑːrt/"
+          },
+          {
+            "word": "took apart",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈtʊk əˈpɑːrt/"
+          },
+          {
+            "word": "taken apart",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈteɪkən əˈpɑːrt/"
+          }
+        ]
+      },
+      {
+        "word": "take after",
+        "pos": "verb",
+        "ipa": "/teɪk ˈæftər/",
+        "meaningVi": "giống một người thân về ngoại hình hoặc tính cách",
+        "example": "You take after your grandfather.",
+        "exampleVi": "Bạn giống ông của mình.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "takes after",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/teɪks ˈæftər/"
+          },
+          {
+            "word": "taking after",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/teɪkɪŋ ˈæftər/"
+          },
+          {
+            "word": "took after",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈtʊk ˈæftər/"
+          },
+          {
+            "word": "taken after",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈteɪkən ˈæftər/"
+          }
+        ]
+      },
+      {
+        "word": "take to",
+        "pos": "verb",
+        "ipa": "/teɪk tə/",
+        "meaningVi": "bắt đầu thích một người hoặc hoạt động",
+        "example": "The children quickly took to their new teacher.",
+        "exampleVi": "Bọn trẻ nhanh chóng quý giáo viên mới.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "takes to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/teɪks tə/"
+          },
+          {
+            "word": "taking to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/teɪkɪŋ tə/"
+          },
+          {
+            "word": "took to",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈtʊk tə/",
+            "example": "The children quickly took to their new teacher.",
+            "exampleVi": "Bọn trẻ nhanh chóng quý giáo viên mới."
+          },
+          {
+            "word": "taken to",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈteɪkən tə/"
+          }
+        ]
+      },
+      {
+        "word": "take against",
+        "pos": "verb",
+        "ipa": "/teɪk əˈɡenst/",
+        "meaningVi": "bắt đầu không ưa ai, thường dùng trong tiếng Anh–Anh",
+        "example": "She took against him after their first meeting.",
+        "exampleVi": "Cô ấy không ưa anh ấy ngay sau lần gặp đầu.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "takes against",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/teɪks əˈɡenst/"
+          },
+          {
+            "word": "taking against",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/teɪkɪŋ əˈɡenst/"
+          },
+          {
+            "word": "took against",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈtʊk əˈɡenst/",
+            "example": "She took against him after their first meeting.",
+            "exampleVi": "Cô ấy không ưa anh ấy ngay sau lần gặp đầu."
+          },
+          {
+            "word": "taken against",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈteɪkən əˈɡenst/"
+          }
+        ]
+      },
+      {
+        "word": "take along",
+        "pos": "verb",
+        "ipa": "/teɪk əˈlɔːŋ/",
+        "meaningVi": "mang theo người hoặc đồ vật",
+        "example": "Remember to take along a warm jacket.",
+        "exampleVi": "Hãy nhớ mang theo một chiếc áo ấm.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "takes along",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/teɪks əˈlɔːŋ/"
+          },
+          {
+            "word": "taking along",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/teɪkɪŋ əˈlɔːŋ/"
+          },
+          {
+            "word": "took along",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈtʊk əˈlɔːŋ/"
+          },
+          {
+            "word": "taken along",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈteɪkən əˈlɔːŋ/"
+          }
+        ]
+      },
+      {
+        "word": "take over from",
+        "pos": "verb",
+        "ipa": "/teɪk ˈoʊvər frəm/",
+        "meaningVi": "tiếp nhận công việc từ người tiền nhiệm",
+        "example": "Mina will take over from our current manager.",
+        "exampleVi": "Mina sẽ tiếp quản công việc từ quản lý hiện tại.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "takes over from",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/teɪks ˈoʊvər frəm/"
+          },
+          {
+            "word": "taking over from",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/teɪkɪŋ ˈoʊvər frəm/"
+          },
+          {
+            "word": "took over from",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈtʊk ˈoʊvər frəm/"
+          },
+          {
+            "word": "taken over from",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈteɪkən ˈoʊvər frəm/"
+          }
+        ]
+      },
+      {
+        "word": "take up with",
+        "pos": "verb",
+        "ipa": "/teɪk ʌp wɪð/",
+        "meaningVi": "bắt đầu giao du với ai, thường không được tán thành",
+        "example": "He has taken up with a troublesome crowd.",
+        "exampleVi": "Anh ấy đã giao du với một nhóm hay gây rắc rối.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "takes up with",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/teɪks ʌp wɪð/"
+          },
+          {
+            "word": "taking up with",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/teɪkɪŋ ʌp wɪð/"
+          },
+          {
+            "word": "took up with",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈtʊk ʌp wɪð/"
+          },
+          {
+            "word": "taken up with",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈteɪkən ʌp wɪð/",
+            "example": "He has taken up with a troublesome crowd.",
+            "exampleVi": "Anh ấy đã giao du với một nhóm hay gây rắc rối."
+          }
+        ]
+      },
+      {
+        "word": "take away from",
+        "pos": "verb",
+        "ipa": "/teɪk əˈweɪ frəm/",
+        "meaningVi": "làm giảm giá trị hoặc sự hấp dẫn của điều gì",
+        "example": "The delay does not take away from their achievement.",
+        "exampleVi": "Sự chậm trễ không làm giảm giá trị thành tích của họ.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "takes away from",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/teɪks əˈweɪ frəm/"
+          },
+          {
+            "word": "taking away from",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/teɪkɪŋ əˈweɪ frəm/"
+          },
+          {
+            "word": "took away from",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈtʊk əˈweɪ frəm/"
+          },
+          {
+            "word": "taken away from",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈteɪkən əˈweɪ frəm/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -387,6 +2933,517 @@
         "ipa": "/ˈmeɪd/",
         "example": "He made a small table for the kitchen.",
         "exampleVi": "Anh ấy làm một chiếc bàn nhỏ cho nhà bếp."
+      }
+    ],
+    "phrases": [
+      {
+        "word": "make out",
+        "pos": "verb",
+        "ipa": "/meɪk aʊt/",
+        "meaningVi": "nhìn hoặc nghe đủ rõ để nhận biết",
+        "example": "I cannot make out the words on that sign.",
+        "exampleVi": "Tôi không đọc rõ chữ trên biển đó.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "makes out",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/meɪks aʊt/"
+          },
+          {
+            "word": "making out",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/meɪkɪŋ aʊt/"
+          },
+          {
+            "word": "made out",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈmeɪd aʊt/"
+          }
+        ]
+      },
+      {
+        "word": "make off",
+        "pos": "verb",
+        "ipa": "/meɪk ɔːf/",
+        "meaningVi": "vội vã bỏ đi, thường sau khi làm sai",
+        "example": "The thieves tried to make off before dawn.",
+        "exampleVi": "Những tên trộm tìm cách tẩu thoát trước bình minh.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "makes off",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/meɪks ɔːf/"
+          },
+          {
+            "word": "making off",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/meɪkɪŋ ɔːf/"
+          },
+          {
+            "word": "made off",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈmeɪd ɔːf/"
+          }
+        ]
+      },
+      {
+        "word": "make for",
+        "pos": "verb",
+        "ipa": "/meɪk fər/",
+        "meaningVi": "di chuyển hướng tới một nơi",
+        "example": "We should make for the nearest shelter.",
+        "exampleVi": "Chúng ta nên đi về phía nơi trú gần nhất.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "makes for",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/meɪks fər/"
+          },
+          {
+            "word": "making for",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/meɪkɪŋ fər/"
+          },
+          {
+            "word": "made for",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈmeɪd fər/"
+          }
+        ]
+      },
+      {
+        "word": "make over",
+        "pos": "verb",
+        "ipa": "/meɪk ˈoʊvər/",
+        "meaningVi": "thay đổi để cải thiện diện mạo một thứ",
+        "example": "They plan to make over the old kitchen.",
+        "exampleVi": "Họ dự định cải tạo lại căn bếp cũ.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "makes over",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/meɪks ˈoʊvər/"
+          },
+          {
+            "word": "making over",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/meɪkɪŋ ˈoʊvər/"
+          },
+          {
+            "word": "made over",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈmeɪd ˈoʊvər/"
+          }
+        ]
+      },
+      {
+        "word": "make up for",
+        "pos": "verb",
+        "ipa": "/meɪk ʌp fər/",
+        "meaningVi": "bù đắp một điều thiếu hụt hoặc sai sót",
+        "example": "I will make up for the lost time.",
+        "exampleVi": "Tôi sẽ bù lại thời gian đã mất.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "makes up for",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/meɪks ʌp fər/"
+          },
+          {
+            "word": "making up for",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/meɪkɪŋ ʌp fər/"
+          },
+          {
+            "word": "made up for",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈmeɪd ʌp fər/"
+          }
+        ]
+      },
+      {
+        "word": "make off with",
+        "pos": "verb",
+        "ipa": "/meɪk ɔːf wɪð/",
+        "meaningVi": "lấy trộm rồi mang đi",
+        "example": "Someone made off with my bicycle.",
+        "exampleVi": "Ai đó đã lấy trộm xe đạp của tôi.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "makes off with",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/meɪks ɔːf wɪð/"
+          },
+          {
+            "word": "making off with",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/meɪkɪŋ ɔːf wɪð/"
+          },
+          {
+            "word": "made off with",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈmeɪd ɔːf wɪð/",
+            "example": "Someone made off with my bicycle.",
+            "exampleVi": "Ai đó đã lấy trộm xe đạp của tôi."
+          }
+        ]
+      },
+      {
+        "word": "make do with",
+        "pos": "verb",
+        "ipa": "/meɪk duː wɪð/",
+        "meaningVi": "xoay xở dùng thứ sẵn có nhưng chưa lý tưởng",
+        "example": "We will make do with the chairs we have.",
+        "exampleVi": "Chúng ta sẽ tạm dùng những chiếc ghế hiện có.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "makes do with",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/meɪks duː wɪð/"
+          },
+          {
+            "word": "making do with",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/meɪkɪŋ duː wɪð/"
+          },
+          {
+            "word": "made do with",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈmeɪd duː wɪð/"
+          }
+        ]
+      },
+      {
+        "word": "make room for",
+        "pos": "verb",
+        "ipa": "/meɪk ruːm fər/",
+        "meaningVi": "dọn hoặc nhường chỗ cho ai hay thứ gì",
+        "example": "Please make room for another passenger.",
+        "exampleVi": "Hãy nhường chỗ cho thêm một hành khách.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "makes room for",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/meɪks ruːm fər/"
+          },
+          {
+            "word": "making room for",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/meɪkɪŋ ruːm fər/"
+          },
+          {
+            "word": "made room for",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈmeɪd ruːm fər/"
+          }
+        ]
+      },
+      {
+        "word": "make use of",
+        "pos": "verb",
+        "ipa": "/meɪk juːs əv/",
+        "meaningVi": "sử dụng một thứ có sẵn",
+        "example": "Students can make use of the free library.",
+        "exampleVi": "Sinh viên có thể sử dụng thư viện miễn phí.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "makes use of",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/meɪks juːs əv/"
+          },
+          {
+            "word": "making use of",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/meɪkɪŋ juːs əv/"
+          },
+          {
+            "word": "made use of",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈmeɪd juːs əv/"
+          }
+        ]
+      },
+      {
+        "word": "make fun of",
+        "pos": "verb",
+        "ipa": "/meɪk fʌn əv/",
+        "meaningVi": "chế giễu; lấy ai hoặc điều gì ra làm trò cười",
+        "example": "It is unkind to make fun of someone's accent.",
+        "exampleVi": "Chế giễu giọng nói của người khác là không tử tế.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "makes fun of",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/meɪks fʌn əv/"
+          },
+          {
+            "word": "making fun of",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/meɪkɪŋ fʌn əv/"
+          },
+          {
+            "word": "made fun of",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈmeɪd fʌn əv/"
+          }
+        ]
+      },
+      {
+        "word": "make sense of",
+        "pos": "verb",
+        "ipa": "/meɪk sens əv/",
+        "meaningVi": "hiểu được điều có vẻ khó hiểu",
+        "example": "Can you make sense of these figures?",
+        "exampleVi": "Bạn có hiểu những số liệu này không?",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "makes sense of",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/meɪks sens əv/"
+          },
+          {
+            "word": "making sense of",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/meɪkɪŋ sens əv/"
+          },
+          {
+            "word": "made sense of",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈmeɪd sens əv/"
+          }
+        ]
+      },
+      {
+        "word": "make light of",
+        "pos": "verb",
+        "ipa": "/meɪk laɪt əv/",
+        "meaningVi": "coi nhẹ điều người khác xem là nghiêm trọng",
+        "example": "Do not make light of her concerns.",
+        "exampleVi": "Đừng xem nhẹ những lo lắng của cô ấy.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "makes light of",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/meɪks laɪt əv/"
+          },
+          {
+            "word": "making light of",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/meɪkɪŋ laɪt əv/"
+          },
+          {
+            "word": "made light of",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈmeɪd laɪt əv/"
+          }
+        ]
+      },
+      {
+        "word": "make way for",
+        "pos": "verb",
+        "ipa": "/meɪk weɪ fər/",
+        "meaningVi": "tránh hoặc dọn chỗ để thứ khác xuất hiện",
+        "example": "The old hall will make way for a library.",
+        "exampleVi": "Hội trường cũ sẽ nhường chỗ cho một thư viện.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "makes way for",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/meɪks weɪ fər/"
+          },
+          {
+            "word": "making way for",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/meɪkɪŋ weɪ fər/"
+          },
+          {
+            "word": "made way for",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈmeɪd weɪ fər/"
+          }
+        ]
       }
     ]
   },
@@ -480,6 +3537,593 @@
             "ipa": "/ˈkæpt ʌp wɪð/, /ˈkɛpt ʌp wɪð/"
           }
         ]
+      },
+      {
+        "word": "keep up",
+        "pos": "verb",
+        "ipa": "/kiːp ʌp/",
+        "meaningVi": "duy trì cùng tốc độ hoặc mức độ",
+        "example": "You are walking too fast for me to keep up.",
+        "exampleVi": "Bạn đi nhanh quá khiến tôi không theo kịp.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "keeps up",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/kiːps ʌp/"
+          },
+          {
+            "word": "keeping up",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/kiːpɪŋ ʌp/"
+          },
+          {
+            "word": "kept up",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈkæpt ʌp/, /ˈkɛpt ʌp/"
+          }
+        ]
+      },
+      {
+        "word": "keep on",
+        "pos": "verb",
+        "ipa": "/kiːp ɑːn/",
+        "meaningVi": "tiếp tục làm việc gì",
+        "example": "Keep on trying even when you make mistakes.",
+        "exampleVi": "Hãy tiếp tục cố gắng ngay cả khi mắc lỗi.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "keeps on",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/kiːps ɑːn/"
+          },
+          {
+            "word": "keeping on",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/kiːpɪŋ ɑːn/"
+          },
+          {
+            "word": "kept on",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈkæpt ɑːn/, /ˈkɛpt ɑːn/"
+          }
+        ]
+      },
+      {
+        "word": "keep off",
+        "pos": "verb",
+        "ipa": "/kiːp ɔːf/",
+        "meaningVi": "không đi lên hoặc chạm vào một nơi",
+        "example": "Please keep off the wet grass.",
+        "exampleVi": "Hãy tránh đi lên bãi cỏ ướt.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "keeps off",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/kiːps ɔːf/"
+          },
+          {
+            "word": "keeping off",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/kiːpɪŋ ɔːf/"
+          },
+          {
+            "word": "kept off",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈkæpt ɔːf/, /ˈkɛpt ɔːf/"
+          }
+        ]
+      },
+      {
+        "word": "keep out",
+        "pos": "verb",
+        "ipa": "/kiːp aʊt/",
+        "meaningVi": "ngăn không cho một thứ lọt vào",
+        "example": "Thick curtains keep out the cold.",
+        "exampleVi": "Rèm dày ngăn hơi lạnh lọt vào.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "keeps out",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/kiːps aʊt/"
+          },
+          {
+            "word": "keeping out",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/kiːpɪŋ aʊt/"
+          },
+          {
+            "word": "kept out",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈkæpt aʊt/, /ˈkɛpt aʊt/"
+          }
+        ]
+      },
+      {
+        "word": "keep away",
+        "pos": "verb",
+        "ipa": "/kiːp əˈweɪ/",
+        "meaningVi": "không đến gần",
+        "example": "Please keep away while the machine is running.",
+        "exampleVi": "Hãy tránh xa khi máy đang chạy.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "keeps away",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/kiːps əˈweɪ/"
+          },
+          {
+            "word": "keeping away",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/kiːpɪŋ əˈweɪ/"
+          },
+          {
+            "word": "kept away",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈkæpt əˈweɪ/, /ˈkɛpt əˈweɪ/"
+          }
+        ]
+      },
+      {
+        "word": "keep back",
+        "pos": "verb",
+        "ipa": "/kiːp bæk/",
+        "meaningVi": "giữ lại; không bộc lộ hết",
+        "example": "She seemed to keep back some important details.",
+        "exampleVi": "Có vẻ cô ấy giấu một số chi tiết quan trọng.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "keeps back",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/kiːps bæk/"
+          },
+          {
+            "word": "keeping back",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/kiːpɪŋ bæk/"
+          },
+          {
+            "word": "kept back",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈkæpt bæk/, /ˈkɛpt bæk/"
+          }
+        ]
+      },
+      {
+        "word": "keep down",
+        "pos": "verb",
+        "ipa": "/kiːp daʊn/",
+        "meaningVi": "giữ ở mức thấp",
+        "example": "We need to keep down unnecessary expenses.",
+        "exampleVi": "Chúng ta cần hạn chế những khoản chi không cần thiết.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "keeps down",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/kiːps daʊn/"
+          },
+          {
+            "word": "keeping down",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/kiːpɪŋ daʊn/"
+          },
+          {
+            "word": "kept down",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈkæpt daʊn/, /ˈkɛpt daʊn/"
+          }
+        ]
+      },
+      {
+        "word": "keep in",
+        "pos": "verb",
+        "ipa": "/kiːp ɪn/",
+        "meaningVi": "giữ học sinh ở lại sau giờ học để phạt, cách dùng trong tiếng Anh–Anh",
+        "example": "Three students were kept in after class.",
+        "exampleVi": "Ba học sinh bị giữ lại sau giờ học.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "keeps in",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/kiːps ɪn/"
+          },
+          {
+            "word": "keeping in",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/kiːpɪŋ ɪn/"
+          },
+          {
+            "word": "kept in",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈkæpt ɪn/, /ˈkɛpt ɪn/",
+            "example": "Three students were kept in after class.",
+            "exampleVi": "Ba học sinh bị giữ lại sau giờ học."
+          }
+        ]
+      },
+      {
+        "word": "keep at",
+        "pos": "verb",
+        "ipa": "/kiːp æt/",
+        "meaningVi": "kiên trì làm việc gì",
+        "example": "Keep at the task until you finish.",
+        "exampleVi": "Hãy kiên trì làm cho đến khi xong.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "keeps at",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/kiːps æt/"
+          },
+          {
+            "word": "keeping at",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/kiːpɪŋ æt/"
+          },
+          {
+            "word": "kept at",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈkæpt æt/, /ˈkɛpt æt/"
+          }
+        ]
+      },
+      {
+        "word": "keep ahead of",
+        "pos": "verb",
+        "ipa": "/kiːp əˈhed əv/",
+        "meaningVi": "duy trì vị trí dẫn trước",
+        "example": "We must innovate to keep ahead of competitors.",
+        "exampleVi": "Chúng ta phải đổi mới để luôn đi trước đối thủ.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "keeps ahead of",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/kiːps əˈhed əv/"
+          },
+          {
+            "word": "keeping ahead of",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/kiːpɪŋ əˈhed əv/"
+          },
+          {
+            "word": "kept ahead of",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈkæpt əˈhed əv/, /ˈkɛpt əˈhed əv/"
+          }
+        ]
+      },
+      {
+        "word": "keep away from",
+        "pos": "verb",
+        "ipa": "/kiːp əˈweɪ frəm/",
+        "meaningVi": "tránh xa người hoặc điều gì",
+        "example": "Keep away from the edge of the cliff.",
+        "exampleVi": "Hãy tránh xa mép vách đá.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "keeps away from",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/kiːps əˈweɪ frəm/"
+          },
+          {
+            "word": "keeping away from",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/kiːpɪŋ əˈweɪ frəm/"
+          },
+          {
+            "word": "kept away from",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈkæpt əˈweɪ frəm/, /ˈkɛpt əˈweɪ frəm/"
+          }
+        ]
+      },
+      {
+        "word": "keep out of",
+        "pos": "verb",
+        "ipa": "/kiːp aʊt əv/",
+        "meaningVi": "không can dự hoặc không bước vào",
+        "example": "Try to keep out of their argument.",
+        "exampleVi": "Hãy cố không xen vào cuộc tranh cãi của họ.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "keeps out of",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/kiːps aʊt əv/"
+          },
+          {
+            "word": "keeping out of",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/kiːpɪŋ aʊt əv/"
+          },
+          {
+            "word": "kept out of",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈkæpt aʊt əv/, /ˈkɛpt aʊt əv/"
+          }
+        ]
+      },
+      {
+        "word": "keep on at",
+        "pos": "verb",
+        "ipa": "/kiːp ɑːn æt/",
+        "meaningVi": "liên tục thúc giục hoặc cằn nhằn ai",
+        "example": "Do not keep on at him about his clothes.",
+        "exampleVi": "Đừng cằn nhằn anh ấy mãi về quần áo.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "keeps on at",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/kiːps ɑːn æt/"
+          },
+          {
+            "word": "keeping on at",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/kiːpɪŋ ɑːn æt/"
+          },
+          {
+            "word": "kept on at",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈkæpt ɑːn æt/, /ˈkɛpt ɑːn æt/"
+          }
+        ]
+      },
+      {
+        "word": "keep to",
+        "pos": "verb",
+        "ipa": "/kiːp tə/",
+        "meaningVi": "tuân thủ hoặc không đi chệch khỏi",
+        "example": "Please keep to the marked path.",
+        "exampleVi": "Hãy đi đúng lối đã đánh dấu.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "keeps to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/kiːps tə/"
+          },
+          {
+            "word": "keeping to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/kiːpɪŋ tə/"
+          },
+          {
+            "word": "kept to",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈkæpt tə/, /ˈkɛpt tə/"
+          }
+        ]
+      },
+      {
+        "word": "keep from",
+        "pos": "verb",
+        "ipa": "/kiːp frəm/",
+        "meaningVi": "kiềm chế để không làm việc gì",
+        "example": "I could hardly keep from laughing.",
+        "exampleVi": "Tôi khó mà nhịn cười được.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "keeps from",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/kiːps frəm/"
+          },
+          {
+            "word": "keeping from",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/kiːpɪŋ frəm/"
+          },
+          {
+            "word": "kept from",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈkæpt frəm/, /ˈkɛpt frəm/"
+          }
+        ]
       }
     ]
   },
@@ -521,6 +4165,517 @@
         "ipa": "/ˈbɹɔt/",
         "example": "She brought some fruit to the meeting.",
         "exampleVi": "Cô ấy mang một ít trái cây đến cuộc họp."
+      }
+    ],
+    "phrases": [
+      {
+        "word": "bring up",
+        "pos": "verb",
+        "ipa": "/brɪŋ ʌp/",
+        "meaningVi": "nêu một chủ đề để thảo luận",
+        "example": "Please bring up this issue at the meeting.",
+        "exampleVi": "Hãy nêu vấn đề này trong cuộc họp.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "brings up",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/brɪŋz ʌp/"
+          },
+          {
+            "word": "bringing up",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/brɪŋɪŋ ʌp/"
+          },
+          {
+            "word": "brought up",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈbɹɔt ʌp/"
+          }
+        ]
+      },
+      {
+        "word": "bring down",
+        "pos": "verb",
+        "ipa": "/brɪŋ daʊn/",
+        "meaningVi": "làm giảm một mức giá hoặc số lượng",
+        "example": "Better insulation can bring down heating costs.",
+        "exampleVi": "Cách nhiệt tốt hơn có thể giảm chi phí sưởi.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "brings down",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/brɪŋz daʊn/"
+          },
+          {
+            "word": "bringing down",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/brɪŋɪŋ daʊn/"
+          },
+          {
+            "word": "brought down",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈbɹɔt daʊn/"
+          }
+        ]
+      },
+      {
+        "word": "bring in",
+        "pos": "verb",
+        "ipa": "/brɪŋ ɪn/",
+        "meaningVi": "đem lại một nguồn thu hoặc lợi ích",
+        "example": "Tourism can bring in much-needed income.",
+        "exampleVi": "Du lịch có thể đem lại nguồn thu rất cần thiết.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "brings in",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/brɪŋz ɪn/"
+          },
+          {
+            "word": "bringing in",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/brɪŋɪŋ ɪn/"
+          },
+          {
+            "word": "brought in",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈbɹɔt ɪn/"
+          }
+        ]
+      },
+      {
+        "word": "bring out",
+        "pos": "verb",
+        "ipa": "/brɪŋ aʊt/",
+        "meaningVi": "phát hành hoặc giới thiệu sản phẩm mới",
+        "example": "The company will bring out a new camera.",
+        "exampleVi": "Công ty sẽ ra mắt một chiếc máy ảnh mới.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "brings out",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/brɪŋz aʊt/"
+          },
+          {
+            "word": "bringing out",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/brɪŋɪŋ aʊt/"
+          },
+          {
+            "word": "brought out",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈbɹɔt aʊt/"
+          }
+        ]
+      },
+      {
+        "word": "bring back",
+        "pos": "verb",
+        "ipa": "/brɪŋ bæk/",
+        "meaningVi": "gợi lại ký ức hoặc cảm xúc",
+        "example": "These songs bring back happy memories.",
+        "exampleVi": "Những bài hát này gợi lại ký ức vui vẻ.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "brings back",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/brɪŋz bæk/"
+          },
+          {
+            "word": "bringing back",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/brɪŋɪŋ bæk/"
+          },
+          {
+            "word": "brought back",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈbɹɔt bæk/"
+          }
+        ]
+      },
+      {
+        "word": "bring along",
+        "pos": "verb",
+        "ipa": "/brɪŋ əˈlɔːŋ/",
+        "meaningVi": "mang ai hoặc thứ gì đi cùng",
+        "example": "You can bring along a friend.",
+        "exampleVi": "Bạn có thể dẫn theo một người bạn.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "brings along",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/brɪŋz əˈlɔːŋ/"
+          },
+          {
+            "word": "bringing along",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/brɪŋɪŋ əˈlɔːŋ/"
+          },
+          {
+            "word": "brought along",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈbɹɔt əˈlɔːŋ/"
+          }
+        ]
+      },
+      {
+        "word": "bring about",
+        "pos": "verb",
+        "ipa": "/brɪŋ əˈbaʊt/",
+        "meaningVi": "gây ra; làm cho một thay đổi xảy ra",
+        "example": "The campaign helped bring about lasting change.",
+        "exampleVi": "Chiến dịch đã giúp tạo ra thay đổi lâu dài.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "brings about",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/brɪŋz əˈbaʊt/"
+          },
+          {
+            "word": "bringing about",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/brɪŋɪŋ əˈbaʊt/"
+          },
+          {
+            "word": "brought about",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈbɹɔt əˈbaʊt/"
+          }
+        ]
+      },
+      {
+        "word": "bring around",
+        "pos": "verb",
+        "ipa": "/brɪŋ əˈraʊnd/",
+        "meaningVi": "thuyết phục ai thay đổi ý kiến",
+        "example": "He was eventually brought around to our view.",
+        "exampleVi": "Cuối cùng anh ấy cũng được thuyết phục để đồng ý với quan điểm của chúng tôi.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "brings around",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/brɪŋz əˈraʊnd/"
+          },
+          {
+            "word": "bringing around",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/brɪŋɪŋ əˈraʊnd/"
+          },
+          {
+            "word": "brought around",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈbɹɔt əˈraʊnd/",
+            "example": "He was eventually brought around to our view.",
+            "exampleVi": "Cuối cùng anh ấy cũng được thuyết phục để đồng ý với quan điểm của chúng tôi."
+          }
+        ]
+      },
+      {
+        "word": "bring forward",
+        "pos": "verb",
+        "ipa": "/brɪŋ ˈfɔːrwərd/",
+        "meaningVi": "chuyển thời điểm một việc lên sớm hơn",
+        "example": "We need to bring forward the deadline.",
+        "exampleVi": "Chúng ta cần đưa hạn chót lên sớm hơn.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "brings forward",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/brɪŋz ˈfɔːrwərd/"
+          },
+          {
+            "word": "bringing forward",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/brɪŋɪŋ ˈfɔːrwərd/"
+          },
+          {
+            "word": "brought forward",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈbɹɔt ˈfɔːrwərd/"
+          }
+        ]
+      },
+      {
+        "word": "bring together",
+        "pos": "verb",
+        "ipa": "/brɪŋ təˈɡeðər/",
+        "meaningVi": "tập hợp hoặc kết nối mọi người",
+        "example": "The festival will bring together local artists.",
+        "exampleVi": "Lễ hội sẽ quy tụ các nghệ sĩ địa phương.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "brings together",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/brɪŋz təˈɡeðər/"
+          },
+          {
+            "word": "bringing together",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/brɪŋɪŋ təˈɡeðər/"
+          },
+          {
+            "word": "brought together",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈbɹɔt təˈɡeðər/"
+          }
+        ]
+      },
+      {
+        "word": "bring over",
+        "pos": "verb",
+        "ipa": "/brɪŋ ˈoʊvər/",
+        "meaningVi": "mang đến chỗ người nói hoặc người nghe",
+        "example": "Could you bring over some extra chairs?",
+        "exampleVi": "Bạn có thể mang thêm ghế sang không?",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "brings over",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/brɪŋz ˈoʊvər/"
+          },
+          {
+            "word": "bringing over",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/brɪŋɪŋ ˈoʊvər/"
+          },
+          {
+            "word": "brought over",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈbɹɔt ˈoʊvər/"
+          }
+        ]
+      },
+      {
+        "word": "bring on",
+        "pos": "verb",
+        "ipa": "/brɪŋ ɑːn/",
+        "meaningVi": "gây ra một tình trạng, thường không mong muốn",
+        "example": "Bright lights can bring on a headache.",
+        "exampleVi": "Ánh sáng mạnh có thể gây đau đầu.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "brings on",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/brɪŋz ɑːn/"
+          },
+          {
+            "word": "bringing on",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/brɪŋɪŋ ɑːn/"
+          },
+          {
+            "word": "brought on",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈbɹɔt ɑːn/"
+          }
+        ]
+      },
+      {
+        "word": "bring off",
+        "pos": "verb",
+        "ipa": "/brɪŋ ɔːf/",
+        "meaningVi": "thực hiện thành công một việc khó",
+        "example": "The crew managed to bring off a difficult rescue.",
+        "exampleVi": "Đội đã thực hiện thành công một cuộc giải cứu khó khăn.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "brings off",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/brɪŋz ɔːf/"
+          },
+          {
+            "word": "bringing off",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/brɪŋɪŋ ɔːf/"
+          },
+          {
+            "word": "brought off",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈbɹɔt ɔːf/"
+          }
+        ]
       }
     ]
   },

@@ -1,0 +1,5498 @@
+[
+  {
+    "word": "think of",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nghĩ ra; nhớ đến một ý tưởng, tên hoặc điều gì",
+    "example": "I cannot think of a better solution right now.",
+    "exampleVi": "Lúc này tôi không nghĩ ra được giải pháp nào tốt hơn."
+  },
+  {
+    "word": "think of",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "có ý kiến; đánh giá về ai hoặc điều gì",
+    "example": "What do you think of the new design?",
+    "exampleVi": "Bạn thấy thiết kế mới thế nào?"
+  },
+  {
+    "word": "think of",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "cân nhắc; có ý định làm điều gì, theo sau bằng V-ing",
+    "example": "We are thinking of moving closer to work.",
+    "exampleVi": "Chúng tôi đang cân nhắc chuyển đến gần nơi làm việc hơn."
+  },
+  {
+    "word": "think about",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "suy nghĩ; cân nhắc về một việc",
+    "example": "We need to think about the cost before we decide.",
+    "exampleVi": "Chúng ta cần cân nhắc chi phí trước khi quyết định."
+  },
+  {
+    "word": "think about",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nghĩ đến; để tâm trí hướng về ai hoặc điều gì",
+    "example": "I often think about my family when I travel.",
+    "exampleVi": "Tôi thường nghĩ về gia đình khi đi xa."
+  },
+  {
+    "word": "care about",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "quan tâm; coi ai hoặc điều gì là quan trọng",
+    "example": "I care about your safety.",
+    "exampleVi": "Tôi quan tâm đến sự an toàn của bạn."
+  },
+  {
+    "word": "care for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chăm sóc người hoặc con vật cần được giúp đỡ",
+    "example": "They care for injured animals at the shelter.",
+    "exampleVi": "Họ chăm sóc những con vật bị thương tại trạm cứu hộ."
+  },
+  {
+    "word": "care for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "thích; muốn có hoặc dùng, thường gặp trong câu hỏi, câu phủ định hoặc lời mời",
+    "example": "Would you care for some tea?",
+    "exampleVi": "Bạn có muốn dùng chút trà không?"
+  },
+  {
+    "word": "take care of",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chăm sóc; trông nom ai hoặc điều gì",
+    "example": "Can you take care of my plants while I am away?",
+    "exampleVi": "Bạn có thể chăm sóc cây của tôi trong lúc tôi đi vắng không?"
+  },
+  {
+    "word": "take care of",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "lo liệu; xử lý một công việc hoặc vấn đề",
+    "example": "I will take care of the travel arrangements.",
+    "exampleVi": "Tôi sẽ lo việc sắp xếp chuyến đi."
+  },
+  {
+    "word": "care of",
+    "sourceGroup": "prepositions",
+    "pos": "idiom",
+    "meaningVi": "nhờ người hoặc nơi khác nhận hộ thư; dùng trong địa chỉ, viết tắt c/o",
+    "example": "Please send the letter to Lan care of the hotel manager.",
+    "exampleVi": "Hãy gửi thư cho Lan, nhờ quản lý khách sạn nhận hộ."
+  },
+  {
+    "word": "depend on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "phụ thuộc; dựa vào ai hoặc điều gì",
+    "example": "Small farms depend on a reliable water supply.",
+    "exampleVi": "Các trang trại nhỏ phụ thuộc vào nguồn nước ổn định."
+  },
+  {
+    "word": "rely on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "dựa vào; tin cậy sự giúp đỡ của ai hoặc điều gì",
+    "example": "You can rely on me when you need help.",
+    "exampleVi": "Bạn có thể dựa vào tôi khi cần giúp đỡ."
+  },
+  {
+    "word": "believe in",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tin vào khả năng hoặc giá trị của ai hay điều gì",
+    "example": "I believe in your ability to solve this problem.",
+    "exampleVi": "Tôi tin vào khả năng giải quyết vấn đề này của bạn."
+  },
+  {
+    "word": "belong to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "thuộc quyền sở hữu của ai",
+    "example": "Does this umbrella belong to you?",
+    "exampleVi": "Chiếc ô này có phải của bạn không?"
+  },
+  {
+    "word": "listen to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "lắng nghe ai hoặc điều gì",
+    "example": "Please listen to the instructions before you begin.",
+    "exampleVi": "Hãy lắng nghe hướng dẫn trước khi bắt đầu."
+  },
+  {
+    "word": "look at",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nhìn vào; hướng mắt về ai hoặc điều gì",
+    "example": "Look at the map before you choose a route.",
+    "exampleVi": "Hãy nhìn bản đồ trước khi chọn đường đi."
+  },
+  {
+    "word": "look for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tìm kiếm người hoặc vật cần tìm",
+    "example": "We need to look for a larger meeting room.",
+    "exampleVi": "Chúng ta cần tìm một phòng họp lớn hơn."
+  },
+  {
+    "word": "look after",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chăm sóc; trông nom người hoặc vật",
+    "example": "I look after my younger brother after school.",
+    "exampleVi": "Tôi trông em trai sau giờ học."
+  },
+  {
+    "word": "wait for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chờ đợi ai hoặc điều gì",
+    "example": "Please wait for me at the station entrance.",
+    "exampleVi": "Hãy chờ tôi ở lối vào nhà ga."
+  },
+  {
+    "word": "ask for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "xin; yêu cầu được nhận hoặc được cung cấp điều gì",
+    "example": "You can ask for more information at the front desk.",
+    "exampleVi": "Bạn có thể hỏi xin thêm thông tin tại quầy lễ tân."
+  },
+  {
+    "word": "pay for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "trả tiền cho hàng hóa hoặc dịch vụ",
+    "example": "Can I pay for the tickets by card?",
+    "exampleVi": "Tôi có thể trả tiền vé bằng thẻ không?"
+  },
+  {
+    "word": "apply for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nộp đơn xin việc, học bổng hoặc giấy phép",
+    "example": "She plans to apply for a scholarship next year.",
+    "exampleVi": "Cô ấy dự định nộp đơn xin học bổng vào năm tới."
+  },
+  {
+    "word": "apologize for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "xin lỗi vì một hành động hoặc sự việc",
+    "example": "I apologize for sending the wrong file.",
+    "exampleVi": "Tôi xin lỗi vì đã gửi nhầm tệp."
+  },
+  {
+    "word": "prepare for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chuẩn bị cho một sự kiện hoặc nhiệm vụ",
+    "example": "We have two weeks to prepare for the interview.",
+    "exampleVi": "Chúng ta có hai tuần để chuẩn bị cho buổi phỏng vấn."
+  },
+  {
+    "word": "search for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tìm kiếm người, vật hoặc thông tin",
+    "example": "The team will search for the missing documents.",
+    "exampleVi": "Nhóm sẽ tìm những tài liệu bị thất lạc."
+  },
+  {
+    "word": "hope for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "hy vọng nhận được hoặc đạt được điều gì",
+    "example": "We hope for better weather tomorrow.",
+    "exampleVi": "Chúng tôi hy vọng ngày mai thời tiết sẽ tốt hơn."
+  },
+  {
+    "word": "suffer from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "mắc; chịu ảnh hưởng của bệnh hoặc vấn đề kéo dài",
+    "example": "Many people suffer from seasonal allergies.",
+    "exampleVi": "Nhiều người bị dị ứng theo mùa."
+  },
+  {
+    "word": "recover from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "hồi phục sau bệnh, chấn thương hoặc biến cố",
+    "example": "She needs time to recover from the operation.",
+    "exampleVi": "Cô ấy cần thời gian để hồi phục sau ca phẫu thuật."
+  },
+  {
+    "word": "benefit from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "được lợi; hưởng lợi từ điều gì",
+    "example": "Students benefit from regular feedback.",
+    "exampleVi": "Học sinh được lợi từ việc nhận phản hồi thường xuyên."
+  },
+  {
+    "word": "approve of",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tán thành; cho rằng ai hoặc điều gì là đúng hay chấp nhận được",
+    "example": "I do not approve of sharing passwords.",
+    "exampleVi": "Tôi không tán thành việc chia sẻ mật khẩu."
+  },
+  {
+    "word": "consist of",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "gồm; được tạo thành từ những phần nào",
+    "example": "The course will consist of six short lessons.",
+    "exampleVi": "Khóa học sẽ gồm sáu bài học ngắn."
+  },
+  {
+    "word": "dream of",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "mơ ước; mong muốn làm hoặc có được điều gì",
+    "example": "They dream of opening a small cafe.",
+    "exampleVi": "Họ mơ ước mở một quán cà phê nhỏ."
+  },
+  {
+    "word": "hear of",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nghe nói đến; biết rằng ai hoặc điều gì tồn tại",
+    "example": "Did you hear of this author before today?",
+    "exampleVi": "Trước hôm nay bạn đã từng nghe nói đến tác giả này chưa?"
+  },
+  {
+    "word": "hear from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nhận được tin nhắn, thư hoặc cuộc gọi từ ai",
+    "example": "I hope to hear from you soon.",
+    "exampleVi": "Tôi hy vọng sớm nhận được tin của bạn."
+  },
+  {
+    "word": "result in",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "dẫn đến; gây ra một kết quả",
+    "example": "A small error can result in a long delay.",
+    "exampleVi": "Một lỗi nhỏ có thể dẫn đến sự chậm trễ kéo dài."
+  },
+  {
+    "word": "result from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bắt nguồn; là kết quả của một nguyên nhân",
+    "example": "These problems often result from poor communication.",
+    "exampleVi": "Những vấn đề này thường bắt nguồn từ việc trao đổi thông tin kém."
+  },
+  {
+    "word": "deal with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "xử lý; giải quyết một vấn đề hoặc tình huống",
+    "example": "We need to deal with this issue before Friday.",
+    "exampleVi": "Chúng ta cần giải quyết vấn đề này trước thứ Sáu."
+  },
+  {
+    "word": "agree with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đồng ý với ý kiến hoặc quan điểm của ai",
+    "example": "I agree with your suggestion.",
+    "exampleVi": "Tôi đồng ý với đề xuất của bạn."
+  },
+  {
+    "word": "agree on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "thống nhất về một vấn đề hoặc lựa chọn chung",
+    "example": "We need to agree on a date for the meeting.",
+    "exampleVi": "Chúng ta cần thống nhất ngày họp."
+  },
+  {
+    "word": "agree to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chấp thuận một đề nghị, yêu cầu hoặc điều kiện",
+    "example": "Did they agree to the new payment terms?",
+    "exampleVi": "Họ đã chấp thuận các điều khoản thanh toán mới chưa?"
+  },
+  {
+    "word": "talk to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nói chuyện với ai",
+    "example": "You should talk to your manager about the schedule.",
+    "exampleVi": "Bạn nên nói chuyện với quản lý về lịch làm việc."
+  },
+  {
+    "word": "talk about",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nói chuyện; trao đổi về một chủ đề",
+    "example": "Let us talk about the plan after lunch.",
+    "exampleVi": "Chúng ta hãy trao đổi về kế hoạch sau bữa trưa."
+  },
+  {
+    "word": "laugh at",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "cười vì thấy điều gì hài hước",
+    "example": "We still laugh at that old joke.",
+    "exampleVi": "Chúng tôi vẫn bật cười vì câu chuyện đùa cũ ấy."
+  },
+  {
+    "word": "smile at",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "mỉm cười với ai hoặc khi nhìn thấy điều gì",
+    "example": "She will smile at anyone who says hello.",
+    "exampleVi": "Cô ấy sẽ mỉm cười với bất kỳ ai chào mình."
+  },
+  {
+    "word": "arrive at",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đến một địa điểm cụ thể như nhà ga hoặc tòa nhà",
+    "example": "We should arrive at the airport two hours early.",
+    "exampleVi": "Chúng ta nên đến sân bay sớm hai giờ."
+  },
+  {
+    "word": "arrive in",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đến một thành phố, quốc gia hoặc khu vực lớn",
+    "example": "We will arrive in Bangkok on Monday.",
+    "exampleVi": "Chúng tôi sẽ đến Bangkok vào thứ Hai."
+  },
+  {
+    "word": "look forward to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "mong chờ; háo hức đón một việc sắp xảy ra",
+    "example": "I look forward to meeting your team.",
+    "exampleVi": "Tôi mong được gặp nhóm của bạn."
+  },
+  {
+    "word": "put up with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chịu đựng; chấp nhận một điều gây khó chịu",
+    "example": "I cannot put up with this noise any longer.",
+    "exampleVi": "Tôi không thể chịu đựng tiếng ồn này thêm nữa."
+  },
+  {
+    "word": "get along with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "hòa thuận; có quan hệ tốt với ai",
+    "example": "I get along with my new colleagues.",
+    "exampleVi": "Tôi hòa thuận với các đồng nghiệp mới."
+  },
+  {
+    "word": "get rid of",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "loại bỏ; bỏ đi thứ không mong muốn",
+    "example": "We need to get rid of these broken chairs.",
+    "exampleVi": "Chúng ta cần bỏ những chiếc ghế hỏng này đi."
+  },
+  {
+    "word": "come up with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nghĩ ra; đề xuất một ý tưởng hoặc giải pháp",
+    "example": "Can you come up with another solution?",
+    "exampleVi": "Bạn có thể nghĩ ra một giải pháp khác không?"
+  },
+  {
+    "word": "focus on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tập trung sự chú ý hoặc công sức vào điều gì",
+    "example": "We should focus on the most urgent tasks.",
+    "exampleVi": "Chúng ta nên tập trung vào những nhiệm vụ cấp bách nhất."
+  },
+  {
+    "word": "concentrate on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tập trung chú ý vào một việc",
+    "example": "I need a quiet place to concentrate on my work.",
+    "exampleVi": "Tôi cần một nơi yên tĩnh để tập trung làm việc."
+  },
+  {
+    "word": "insist on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "khăng khăng đòi; nhất quyết yêu cầu điều gì",
+    "example": "They insist on checking every detail.",
+    "exampleVi": "Họ nhất quyết kiểm tra từng chi tiết."
+  },
+  {
+    "word": "refer to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đề cập; nhắc đến ai hoặc điều gì",
+    "example": "Please refer to the project by its full name.",
+    "exampleVi": "Hãy nhắc đến dự án bằng tên đầy đủ của nó."
+  },
+  {
+    "word": "lead to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "dẫn đến; gây ra một kết quả",
+    "example": "Poor planning can lead to unnecessary delays.",
+    "exampleVi": "Việc lên kế hoạch kém có thể dẫn đến những chậm trễ không cần thiết."
+  },
+  {
+    "word": "contribute to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "góp phần tạo ra hoặc thúc đẩy điều gì",
+    "example": "Regular exercise can contribute to better sleep.",
+    "exampleVi": "Tập thể dục đều đặn có thể góp phần cải thiện giấc ngủ."
+  },
+  {
+    "word": "object to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "phản đối; không tán thành một việc",
+    "example": "Some residents object to building another car park.",
+    "exampleVi": "Một số cư dân phản đối việc xây thêm một bãi đỗ xe."
+  },
+  {
+    "word": "respond to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "trả lời; phản hồi một thông điệp hoặc yêu cầu",
+    "example": "We aim to respond to every customer email.",
+    "exampleVi": "Chúng tôi cố gắng trả lời mọi email của khách hàng."
+  },
+  {
+    "word": "reply to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "trả lời thư, tin nhắn hoặc câu hỏi",
+    "example": "Please reply to the invitation before Friday.",
+    "exampleVi": "Hãy trả lời lời mời trước thứ Sáu."
+  },
+  {
+    "word": "adapt to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "thích nghi với điều kiện hoặc hoàn cảnh mới",
+    "example": "Children often adapt to a new school quickly.",
+    "exampleVi": "Trẻ em thường nhanh chóng thích nghi với trường mới."
+  },
+  {
+    "word": "adjust to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "làm quen; thích nghi với một sự thay đổi",
+    "example": "It takes time to adjust to working at night.",
+    "exampleVi": "Cần thời gian để thích nghi với việc làm ban đêm."
+  },
+  {
+    "word": "account for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "giải thích nguyên nhân hoặc lý do của điều gì",
+    "example": "How do you account for the sudden increase in costs?",
+    "exampleVi": "Bạn giải thích thế nào về việc chi phí tăng đột ngột?"
+  },
+  {
+    "word": "allow for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tính đến; dự trù một yếu tố khi lên kế hoạch",
+    "example": "We should allow for heavy traffic on the way.",
+    "exampleVi": "Chúng ta nên tính đến khả năng giao thông đông đúc trên đường đi."
+  },
+  {
+    "word": "ask about",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "hỏi thông tin về ai hoặc điều gì",
+    "example": "You can ask about the course schedule at reception.",
+    "exampleVi": "Bạn có thể hỏi về lịch học tại quầy lễ tân."
+  },
+  {
+    "word": "ask after",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "hỏi thăm sức khỏe hoặc tình hình của ai",
+    "example": "My mother always asks after your family.",
+    "exampleVi": "Mẹ tôi luôn hỏi thăm tình hình gia đình bạn."
+  },
+  {
+    "word": "look into",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "xem xét; điều tra một vấn đề",
+    "example": "The support team will look into the error today.",
+    "exampleVi": "Nhóm hỗ trợ sẽ xem xét lỗi đó trong hôm nay."
+  },
+  {
+    "word": "stand for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "là chữ viết tắt hoặc ký hiệu đại diện cho điều gì",
+    "example": "What does this abbreviation stand for?",
+    "exampleVi": "Chữ viết tắt này có nghĩa là gì?"
+  },
+  {
+    "word": "count on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tin cậy; trông cậy vào ai hoặc điều gì",
+    "example": "You can count on us to finish the work.",
+    "exampleVi": "Bạn có thể tin cậy chúng tôi sẽ hoàn thành công việc."
+  },
+  {
+    "word": "look up to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "kính trọng; ngưỡng mộ ai",
+    "example": "Many young players look up to their coach.",
+    "exampleVi": "Nhiều cầu thủ trẻ kính trọng huấn luyện viên của mình."
+  },
+  {
+    "word": "look down on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "coi thường; cho rằng ai hoặc điều gì thấp kém",
+    "example": "We should not look down on people because of their jobs.",
+    "exampleVi": "Chúng ta không nên coi thường người khác vì nghề nghiệp của họ."
+  },
+  {
+    "word": "keep up with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "theo kịp tốc độ hoặc sự tiến triển của ai hay điều gì",
+    "example": "It is hard to keep up with every change in technology.",
+    "exampleVi": "Thật khó để theo kịp mọi thay đổi của công nghệ."
+  },
+  {
+    "word": "catch up with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bắt kịp người hoặc nhóm đang ở phía trước",
+    "example": "Run a little faster to catch up with the others.",
+    "exampleVi": "Hãy chạy nhanh hơn một chút để bắt kịp những người khác."
+  },
+  {
+    "word": "look back on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nhìn lại; hồi tưởng về một thời gian hoặc trải nghiệm đã qua",
+    "example": "I look back on my school days with affection.",
+    "exampleVi": "Tôi trìu mến nhớ lại những ngày còn đi học."
+  },
+  {
+    "word": "break into",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đột nhập vào một nơi bằng cách phá cửa hoặc dùng vũ lực",
+    "example": "Someone tried to break into the shop last night.",
+    "exampleVi": "Tối qua có người đã cố đột nhập vào cửa hàng."
+  },
+  {
+    "word": "turn into",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "biến thành; trở thành một thứ hoặc trạng thái khác",
+    "example": "Water can turn into ice when it gets cold enough.",
+    "exampleVi": "Nước có thể biến thành băng khi đủ lạnh."
+  },
+  {
+    "word": "cope with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "ứng phó; xoay xở với một tình huống khó khăn",
+    "example": "She is learning to cope with the pressure of her new job.",
+    "exampleVi": "Cô ấy đang học cách ứng phó với áp lực của công việc mới."
+  },
+  {
+    "word": "provide for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chu cấp; đáp ứng nhu cầu sinh hoạt của ai",
+    "example": "He works hard to provide for his children.",
+    "exampleVi": "Anh ấy làm việc chăm chỉ để chu cấp cho các con."
+  },
+  {
+    "word": "learn from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "rút kinh nghiệm hoặc học được điều gì từ ai hay sự việc",
+    "example": "We can learn from our mistakes.",
+    "exampleVi": "Chúng ta có thể rút kinh nghiệm từ những sai lầm của mình."
+  },
+  {
+    "word": "speak to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nói chuyện với ai",
+    "example": "May I speak to the person in charge?",
+    "exampleVi": "Tôi có thể nói chuyện với người phụ trách không?"
+  },
+  {
+    "word": "speak about",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nói; trình bày về một chủ đề",
+    "example": "The guest will speak about renewable energy.",
+    "exampleVi": "Vị khách sẽ trình bày về năng lượng tái tạo."
+  },
+  {
+    "word": "worry about",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "lo lắng về ai hoặc điều gì",
+    "example": "Try not to worry about the result tonight.",
+    "exampleVi": "Tối nay bạn hãy cố đừng lo lắng về kết quả."
+  },
+  {
+    "word": "complain about",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "phàn nàn về một việc không hài lòng",
+    "example": "Customers often complain about the long waiting time.",
+    "exampleVi": "Khách hàng thường phàn nàn về thời gian chờ đợi lâu."
+  },
+  {
+    "word": "argue about",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tranh cãi về một chủ đề hoặc vấn đề",
+    "example": "They often argue about how to spend the money.",
+    "exampleVi": "Họ thường tranh cãi về cách tiêu số tiền đó."
+  },
+  {
+    "word": "argue with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tranh cãi với ai",
+    "example": "I do not want to argue with you.",
+    "exampleVi": "Tôi không muốn tranh cãi với bạn."
+  },
+  {
+    "word": "participate in",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tham gia một hoạt động hoặc sự kiện",
+    "example": "All students can participate in the discussion.",
+    "exampleVi": "Mọi học sinh đều có thể tham gia cuộc thảo luận."
+  },
+  {
+    "word": "succeed in",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "thành công trong việc làm điều gì",
+    "example": "We hope to succeed in reducing energy use.",
+    "exampleVi": "Chúng tôi hy vọng sẽ thành công trong việc giảm sử dụng năng lượng."
+  },
+  {
+    "word": "specialize in",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chuyên về một lĩnh vực hoặc loại công việc",
+    "example": "These engineers specialize in bridge design.",
+    "exampleVi": "Những kỹ sư này chuyên về thiết kế cầu."
+  },
+  {
+    "word": "invest in",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đầu tư tiền hoặc nguồn lực vào điều gì",
+    "example": "The company plans to invest in better equipment.",
+    "exampleVi": "Công ty dự định đầu tư vào thiết bị tốt hơn."
+  },
+  {
+    "word": "work on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "dành công sức để làm hoặc cải thiện điều gì",
+    "example": "We need to work on the final report.",
+    "exampleVi": "Chúng ta cần tiếp tục làm bản báo cáo cuối cùng."
+  },
+  {
+    "word": "comment on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bình luận; đưa ra ý kiến về điều gì",
+    "example": "Could you comment on the latest proposal?",
+    "exampleVi": "Bạn có thể cho ý kiến về đề xuất mới nhất không?"
+  },
+  {
+    "word": "apologize to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "xin lỗi một người",
+    "example": "You should apologize to your colleague.",
+    "exampleVi": "Bạn nên xin lỗi đồng nghiệp của mình."
+  },
+  {
+    "word": "appeal to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "hấp dẫn; gây hứng thú cho ai",
+    "example": "This design may appeal to younger customers.",
+    "exampleVi": "Thiết kế này có thể hấp dẫn các khách hàng trẻ tuổi hơn."
+  },
+  {
+    "word": "correspond to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tương ứng; khớp với điều gì",
+    "example": "The numbers correspond to the labels on the diagram.",
+    "exampleVi": "Các con số tương ứng với những nhãn trên sơ đồ."
+  },
+  {
+    "word": "correspond with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "trao đổi thư từ hoặc thư điện tử với ai",
+    "example": "I still correspond with a friend from university.",
+    "exampleVi": "Tôi vẫn trao đổi thư từ với một người bạn thời đại học."
+  },
+  {
+    "word": "search through",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "lục tìm; xem xét kỹ bên trong một tập hợp hoặc nơi nào đó",
+    "example": "We had to search through several folders to find the invoice.",
+    "exampleVi": "Chúng tôi đã phải tìm trong nhiều thư mục mới thấy hóa đơn."
+  },
+  {
+    "word": "choose between",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "lựa chọn giữa các phương án",
+    "example": "You can choose between the morning and evening classes.",
+    "exampleVi": "Bạn có thể chọn lớp buổi sáng hoặc buổi tối."
+  },
+  {
+    "word": "decide on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chốt; lựa chọn một phương án sau khi cân nhắc",
+    "example": "We need to decide on a name for the project.",
+    "exampleVi": "Chúng ta cần chốt tên cho dự án."
+  },
+  {
+    "word": "decide against",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "quyết định không làm hoặc không chọn điều gì",
+    "example": "They may decide against buying a second car.",
+    "exampleVi": "Họ có thể quyết định không mua thêm chiếc ô tô thứ hai."
+  },
+  {
+    "word": "vote for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bỏ phiếu ủng hộ một người hoặc đề xuất",
+    "example": "Members can vote for their preferred candidate.",
+    "exampleVi": "Các thành viên có thể bỏ phiếu cho ứng viên mình muốn chọn."
+  },
+  {
+    "word": "vote against",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bỏ phiếu phản đối một người hoặc đề xuất",
+    "example": "Several members may vote against the proposal.",
+    "exampleVi": "Một số thành viên có thể bỏ phiếu phản đối đề xuất."
+  },
+  {
+    "word": "wait on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "phục vụ khách tại bàn ăn",
+    "example": "Two servers wait on the guests in this room.",
+    "exampleVi": "Hai nhân viên phục vụ các vị khách trong phòng này."
+  },
+  {
+    "word": "refrain from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "kiềm chế; chủ động không làm điều gì",
+    "example": "Please refrain from using your phone during the performance.",
+    "exampleVi": "Xin đừng sử dụng điện thoại trong buổi biểu diễn."
+  },
+  {
+    "word": "abstain from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "kiêng; tự nguyện không dùng hoặc không làm điều gì",
+    "example": "Some people abstain from alcohol for personal reasons.",
+    "exampleVi": "Một số người kiêng rượu vì lý do cá nhân."
+  },
+  {
+    "word": "escape from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "trốn thoát; thoát khỏi một nơi hoặc tình huống",
+    "example": "The cat managed to escape from its carrier.",
+    "exampleVi": "Con mèo đã thoát được khỏi lồng vận chuyển."
+  },
+  {
+    "word": "graduate from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tốt nghiệp một trường hoặc cơ sở đào tạo",
+    "example": "She will graduate from university next summer.",
+    "exampleVi": "Cô ấy sẽ tốt nghiệp đại học vào mùa hè năm sau."
+  },
+  {
+    "word": "differ from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "khác với ai hoặc điều gì",
+    "example": "The final version may differ from the original draft.",
+    "exampleVi": "Bản cuối cùng có thể khác với bản nháp ban đầu."
+  },
+  {
+    "word": "derive from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "có nguồn gốc; bắt nguồn từ điều gì",
+    "example": "Many English words derive from Latin.",
+    "exampleVi": "Nhiều từ tiếng Anh có nguồn gốc từ tiếng Latinh."
+  },
+  {
+    "word": "originate from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bắt nguồn; xuất phát từ một nơi hoặc nguồn nào đó",
+    "example": "These products originate from small farms in the region.",
+    "exampleVi": "Những sản phẩm này có xuất xứ từ các trang trại nhỏ trong vùng."
+  },
+  {
+    "word": "stem from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bắt nguồn; nảy sinh do một nguyên nhân",
+    "example": "These delays stem from a shortage of materials.",
+    "exampleVi": "Những chậm trễ này bắt nguồn từ việc thiếu vật liệu."
+  },
+  {
+    "word": "compete with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "cạnh tranh; thi đấu với ai",
+    "example": "Small shops must compete with larger chains.",
+    "exampleVi": "Các cửa hàng nhỏ phải cạnh tranh với những chuỗi cửa hàng lớn hơn."
+  },
+  {
+    "word": "compete for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "cạnh tranh để giành một thứ hoặc cơ hội",
+    "example": "Several teams will compete for the final place.",
+    "exampleVi": "Một số đội sẽ cạnh tranh để giành suất cuối cùng."
+  },
+  {
+    "word": "struggle with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "vật lộn; gặp khó khăn khi xử lý điều gì",
+    "example": "Many students struggle with the first assignment.",
+    "exampleVi": "Nhiều học sinh gặp khó khăn với bài tập đầu tiên."
+  },
+  {
+    "word": "struggle for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đấu tranh; nỗ lực để giành điều gì",
+    "example": "The workers continue to struggle for better conditions.",
+    "exampleVi": "Những người lao động tiếp tục đấu tranh để có điều kiện tốt hơn."
+  },
+  {
+    "word": "interfere with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "cản trở; làm ảnh hưởng đến hoạt động của điều gì",
+    "example": "Loud music can interfere with your concentration.",
+    "exampleVi": "Nhạc lớn có thể cản trở sự tập trung của bạn."
+  },
+  {
+    "word": "interfere in",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "can thiệp vào công việc của người khác khi không được mong muốn",
+    "example": "I do not want to interfere in their private affairs.",
+    "exampleVi": "Tôi không muốn can thiệp vào chuyện riêng của họ."
+  },
+  {
+    "word": "cooperate with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "hợp tác; phối hợp với ai",
+    "example": "The two departments need to cooperate with each other.",
+    "exampleVi": "Hai phòng ban cần phối hợp với nhau."
+  },
+  {
+    "word": "collaborate with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "cộng tác với ai trong một công việc chung",
+    "example": "We plan to collaborate with a local design team.",
+    "exampleVi": "Chúng tôi dự định cộng tác với một nhóm thiết kế địa phương."
+  },
+  {
+    "word": "communicate with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "giao tiếp; trao đổi thông tin với ai",
+    "example": "It is important to communicate with your team regularly.",
+    "exampleVi": "Việc trao đổi thường xuyên với nhóm là rất quan trọng."
+  },
+  {
+    "word": "connect to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "kết nối với một thiết bị, hệ thống hoặc mạng",
+    "example": "This laptop can connect to the office network.",
+    "exampleVi": "Máy tính xách tay này có thể kết nối với mạng văn phòng."
+  },
+  {
+    "word": "relate to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "liên quan; có mối liên hệ với điều gì",
+    "example": "These questions relate to the first chapter.",
+    "exampleVi": "Những câu hỏi này liên quan đến chương đầu tiên."
+  },
+  {
+    "word": "react to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "phản ứng trước một sự việc hoặc tác nhân",
+    "example": "People react to stress in different ways.",
+    "exampleVi": "Mỗi người phản ứng với căng thẳng theo một cách khác nhau."
+  },
+  {
+    "word": "resort to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "phải viện đến một biện pháp khi không còn cách tốt hơn",
+    "example": "We hope to solve the dispute without having to resort to legal action.",
+    "exampleVi": "Chúng tôi hy vọng giải quyết tranh chấp mà không phải viện đến hành động pháp lý."
+  },
+  {
+    "word": "add to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "làm tăng thêm số lượng, mức độ hoặc tác động của điều gì",
+    "example": "Extra fees will add to the total cost.",
+    "exampleVi": "Các khoản phí bổ sung sẽ làm tăng tổng chi phí."
+  },
+  {
+    "word": "amount to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "cộng lại thành; có tổng giá trị hoặc số lượng là",
+    "example": "The repairs could amount to several thousand dollars.",
+    "exampleVi": "Chi phí sửa chữa có thể lên tới vài nghìn đô la."
+  },
+  {
+    "word": "attend to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chú tâm xử lý hoặc chăm lo một việc cần được quan tâm",
+    "example": "Please attend to the urgent requests first.",
+    "exampleVi": "Hãy xử lý những yêu cầu cấp bách trước."
+  },
+  {
+    "word": "return to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "quay trở lại một nơi, hoạt động hoặc trạng thái",
+    "example": "We will return to the office after lunch.",
+    "exampleVi": "Chúng tôi sẽ quay lại văn phòng sau bữa trưa."
+  },
+  {
+    "word": "stick to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tuân thủ; tiếp tục làm theo một kế hoạch hoặc quy tắc",
+    "example": "We should stick to the agreed schedule.",
+    "exampleVi": "Chúng ta nên tuân thủ lịch trình đã thống nhất."
+  },
+  {
+    "word": "resign from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "từ chức; thôi giữ một chức vụ",
+    "example": "She plans to resign from the committee.",
+    "exampleVi": "Cô ấy dự định rời khỏi vị trí trong ủy ban."
+  },
+  {
+    "word": "withdraw from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "rút khỏi; ngừng tham gia một hoạt động hoặc tổ chức",
+    "example": "The team may withdraw from the competition.",
+    "exampleVi": "Đội có thể rút khỏi cuộc thi."
+  },
+  {
+    "word": "consent to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đồng ý; chấp thuận cho một việc xảy ra",
+    "example": "Did the participants consent to sharing their responses?",
+    "exampleVi": "Những người tham gia đã đồng ý cho chia sẻ câu trả lời của họ chưa?"
+  },
+  {
+    "word": "crash into",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đâm sầm vào một vật hoặc phương tiện",
+    "example": "The driver swerved to avoid crashing into the barrier.",
+    "exampleVi": "Người lái xe đánh lái để tránh đâm vào dải phân cách."
+  },
+  {
+    "word": "bump into",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tình cờ gặp một người quen",
+    "example": "You might bump into an old friend at the reunion.",
+    "exampleVi": "Bạn có thể tình cờ gặp một người bạn cũ tại buổi họp mặt."
+  },
+  {
+    "word": "look out for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chú ý tìm; để mắt nhằm phát hiện ai hoặc điều gì",
+    "example": "Please look out for the blue sign on your left.",
+    "exampleVi": "Hãy chú ý tìm biển báo màu xanh ở bên trái bạn."
+  },
+  {
+    "word": "interested in",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "quan tâm; có hứng thú với điều gì",
+    "example": "She is interested in learning another language.",
+    "exampleVi": "Cô ấy có hứng thú học thêm một ngôn ngữ khác."
+  },
+  {
+    "word": "good at",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "giỏi; làm tốt một kỹ năng hoặc hoạt động",
+    "example": "He is good at explaining difficult ideas.",
+    "exampleVi": "Anh ấy giỏi giải thích những ý tưởng khó."
+  },
+  {
+    "word": "bad at",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "kém; không làm tốt một kỹ năng hoặc hoạt động",
+    "example": "I am bad at remembering names.",
+    "exampleVi": "Tôi kém nhớ tên người khác."
+  },
+  {
+    "word": "afraid of",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "sợ ai hoặc điều gì",
+    "example": "The child is afraid of loud noises.",
+    "exampleVi": "Đứa trẻ sợ những tiếng động lớn."
+  },
+  {
+    "word": "proud of",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "tự hào về ai hoặc điều gì",
+    "example": "We are proud of the progress you have made.",
+    "exampleVi": "Chúng tôi tự hào về sự tiến bộ của bạn."
+  },
+  {
+    "word": "aware of",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "biết; nhận thức được một sự việc hoặc tình trạng",
+    "example": "Are you aware of the new safety rules?",
+    "exampleVi": "Bạn có biết các quy định an toàn mới không?"
+  },
+  {
+    "word": "responsible for",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "chịu trách nhiệm về một công việc hoặc sự việc",
+    "example": "She is responsible for training new staff.",
+    "exampleVi": "Cô ấy chịu trách nhiệm đào tạo nhân viên mới."
+  },
+  {
+    "word": "familiar with",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "quen thuộc; biết rõ điều gì qua trải nghiệm",
+    "example": "Are you familiar with this software?",
+    "exampleVi": "Bạn có quen sử dụng phần mềm này không?"
+  },
+  {
+    "word": "similar to",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "tương tự; giống với ai hoặc điều gì về một số đặc điểm",
+    "example": "The new model is similar to the previous one.",
+    "exampleVi": "Mẫu mới tương tự mẫu trước đó."
+  },
+  {
+    "word": "different from",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "khác với ai hoặc điều gì",
+    "example": "My experience was different from yours.",
+    "exampleVi": "Trải nghiệm của tôi khác với của bạn."
+  },
+  {
+    "word": "capable of",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "có khả năng thực hiện hoặc đạt được điều gì",
+    "example": "This machine is capable of lifting heavy loads.",
+    "exampleVi": "Máy này có khả năng nâng những vật nặng."
+  },
+  {
+    "word": "dependent on",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "phụ thuộc vào ai hoặc điều gì",
+    "example": "The village is dependent on tourism for income.",
+    "exampleVi": "Ngôi làng phụ thuộc vào du lịch để có thu nhập."
+  },
+  {
+    "word": "satisfied with",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "hài lòng với một kết quả hoặc điều được cung cấp",
+    "example": "Are you satisfied with the quality of the service?",
+    "exampleVi": "Bạn có hài lòng với chất lượng dịch vụ không?"
+  },
+  {
+    "word": "disappointed with",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "thất vọng; không hài lòng vì điều gì không như mong đợi",
+    "example": "We were disappointed with the final result.",
+    "exampleVi": "Chúng tôi thất vọng về kết quả cuối cùng."
+  },
+  {
+    "word": "concerned about",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "lo lắng; quan tâm đến một vấn đề đáng ngại",
+    "example": "They are concerned about the rising cost of living.",
+    "exampleVi": "Họ lo lắng về chi phí sinh hoạt đang tăng."
+  },
+  {
+    "word": "excited about",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "hào hứng; phấn khích về điều gì",
+    "example": "The children are excited about the school trip.",
+    "exampleVi": "Bọn trẻ rất hào hứng về chuyến đi của trường."
+  },
+  {
+    "word": "tired of",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "chán; cảm thấy khó chịu vì điều gì lặp lại hoặc kéo dài",
+    "example": "I am tired of hearing the same excuse.",
+    "exampleVi": "Tôi chán phải nghe mãi cùng một lời bào chữa."
+  },
+  {
+    "word": "keen on",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "rất thích; có hứng thú với điều gì",
+    "example": "She is keen on outdoor activities.",
+    "exampleVi": "Cô ấy rất thích các hoạt động ngoài trời."
+  },
+  {
+    "word": "suitable for",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "phù hợp; thích hợp cho một mục đích hoặc đối tượng",
+    "example": "This course is suitable for complete beginners.",
+    "exampleVi": "Khóa học này phù hợp với người mới bắt đầu hoàn toàn."
+  },
+  {
+    "word": "allergic to",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "bị dị ứng với một chất hoặc thực phẩm",
+    "example": "He is allergic to peanuts.",
+    "exampleVi": "Anh ấy bị dị ứng với đậu phộng."
+  },
+  {
+    "word": "get up",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "thức dậy; ra khỏi giường",
+    "example": "I get up at six every morning.",
+    "exampleVi": "Tôi thức dậy lúc sáu giờ mỗi sáng."
+  },
+  {
+    "word": "get down",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "cúi xuống; hạ người xuống",
+    "example": "Get down before you hit your head.",
+    "exampleVi": "Cúi xuống trước khi bạn va đầu."
+  },
+  {
+    "word": "get in",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "vào trong xe hoặc một nơi",
+    "example": "Get in the car before it rains.",
+    "exampleVi": "Hãy lên xe trước khi trời mưa."
+  },
+  {
+    "word": "get out",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "ra khỏi một nơi",
+    "example": "Get out before the door closes.",
+    "exampleVi": "Hãy ra ngoài trước khi cửa đóng."
+  },
+  {
+    "word": "get on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "lên xe buýt, tàu hoặc máy bay",
+    "example": "We get on the bus near the library.",
+    "exampleVi": "Chúng tôi lên xe buýt gần thư viện."
+  },
+  {
+    "word": "get off",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "xuống xe buýt, tàu hoặc máy bay",
+    "example": "Get off at the next stop.",
+    "exampleVi": "Hãy xuống ở trạm tiếp theo."
+  },
+  {
+    "word": "get away",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "rời đi; thoát khỏi nơi nào đó",
+    "example": "We hope to get away for the weekend.",
+    "exampleVi": "Chúng tôi hy vọng đi nghỉ xa vào cuối tuần."
+  },
+  {
+    "word": "get back",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "trở về",
+    "example": "Please get back before dinner.",
+    "exampleVi": "Hãy trở về trước bữa tối."
+  },
+  {
+    "word": "get over",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "hồi phục sau bệnh hoặc cú sốc",
+    "example": "It took weeks to get over the flu.",
+    "exampleVi": "Phải mất nhiều tuần mới khỏi cúm."
+  },
+  {
+    "word": "get through",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "hoàn thành một việc khó hoặc nhiều việc",
+    "example": "We must get through these reports today.",
+    "exampleVi": "Hôm nay chúng ta phải xử lý xong các báo cáo này."
+  },
+  {
+    "word": "get along",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "hòa thuận với nhau",
+    "example": "The two roommates get along well.",
+    "exampleVi": "Hai người bạn cùng phòng rất hòa thuận."
+  },
+  {
+    "word": "get around",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đi lại từ nơi này đến nơi khác",
+    "example": "You can get around easily by bicycle.",
+    "exampleVi": "Bạn có thể đi lại dễ dàng bằng xe đạp."
+  },
+  {
+    "word": "get by",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "xoay xở sống với nguồn lực hạn chế",
+    "example": "We can get by on one salary.",
+    "exampleVi": "Chúng tôi có thể xoay xở với một khoản lương."
+  },
+  {
+    "word": "get ahead",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tiến bộ; thành công hơn trong công việc",
+    "example": "Learning new skills helps you get ahead.",
+    "exampleVi": "Học kỹ năng mới giúp bạn tiến xa hơn."
+  },
+  {
+    "word": "get together",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "gặp nhau để giao lưu",
+    "example": "We get together every Friday evening.",
+    "exampleVi": "Chúng tôi gặp nhau vào mỗi tối thứ Sáu."
+  },
+  {
+    "word": "get across",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "truyền đạt để người khác hiểu",
+    "example": "Pictures help get across the main idea.",
+    "exampleVi": "Hình ảnh giúp truyền đạt ý chính."
+  },
+  {
+    "word": "eat out",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "ăn ở nhà hàng thay vì ở nhà",
+    "example": "We eat out once a month.",
+    "exampleVi": "Chúng tôi ăn nhà hàng mỗi tháng một lần."
+  },
+  {
+    "word": "get into",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bắt đầu hứng thú hoặc tham gia một việc",
+    "example": "I want to get into photography.",
+    "exampleVi": "Tôi muốn bắt đầu tìm hiểu nhiếp ảnh."
+  },
+  {
+    "word": "get out of",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "rời khỏi một không gian hoặc phương tiện",
+    "example": "Get out of the lift on this floor.",
+    "exampleVi": "Hãy ra khỏi thang máy ở tầng này."
+  },
+  {
+    "word": "get away with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "làm sai mà không bị phạt",
+    "example": "You cannot get away with cheating here.",
+    "exampleVi": "Ở đây bạn không thể gian lận mà thoát bị phạt."
+  },
+  {
+    "word": "get back to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "liên hệ trả lời lại cho ai",
+    "example": "I will get back to you tomorrow.",
+    "exampleVi": "Ngày mai tôi sẽ trả lời lại cho bạn."
+  },
+  {
+    "word": "get down to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bắt tay nghiêm túc vào công việc",
+    "example": "Let us get down to work.",
+    "exampleVi": "Chúng ta hãy bắt tay vào làm việc."
+  },
+  {
+    "word": "get on with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tiếp tục thực hiện một việc",
+    "example": "Please get on with your homework.",
+    "exampleVi": "Hãy tiếp tục làm bài tập về nhà."
+  },
+  {
+    "word": "get around to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "cuối cùng cũng thu xếp làm một việc",
+    "example": "I finally got around to cleaning the attic.",
+    "exampleVi": "Cuối cùng tôi cũng thu xếp dọn được gác mái."
+  },
+  {
+    "word": "get through to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "liên lạc được với ai, thường qua điện thoại",
+    "example": "I could not get through to the clinic.",
+    "exampleVi": "Tôi không gọi được cho phòng khám."
+  },
+  {
+    "word": "get away from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "rời xa để tránh người hoặc điều gì",
+    "example": "We need to get away from the noise.",
+    "exampleVi": "Chúng ta cần tránh xa tiếng ồn."
+  },
+  {
+    "word": "get in on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tham gia một hoạt động hoặc cơ hội đang có",
+    "example": "Small firms want to get in on the project.",
+    "exampleVi": "Các công ty nhỏ muốn tham gia dự án."
+  },
+  {
+    "word": "get off with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chỉ bị một hình phạt tương đối nhẹ",
+    "example": "He got off with a warning.",
+    "exampleVi": "Anh ấy chỉ bị cảnh cáo."
+  },
+  {
+    "word": "get up to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "làm việc gì, thường là nghịch ngợm",
+    "example": "What did the children get up to today?",
+    "exampleVi": "Hôm nay bọn trẻ đã nghịch những gì?"
+  },
+  {
+    "word": "get on to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "liên hệ với người có thể xử lý vấn đề",
+    "example": "I will get on to the supplier today.",
+    "exampleVi": "Hôm nay tôi sẽ liên hệ nhà cung cấp."
+  },
+  {
+    "word": "go up",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tăng lên",
+    "example": "Food prices may go up again.",
+    "exampleVi": "Giá thực phẩm có thể lại tăng."
+  },
+  {
+    "word": "go down",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "giảm xuống",
+    "example": "The temperature will go down tonight.",
+    "exampleVi": "Nhiệt độ sẽ giảm tối nay."
+  },
+  {
+    "word": "go in",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đi vào trong",
+    "example": "Knock before you go in.",
+    "exampleVi": "Hãy gõ cửa trước khi vào."
+  },
+  {
+    "word": "go out",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "ra ngoài để vui chơi hoặc giao lưu",
+    "example": "We rarely go out during the week.",
+    "exampleVi": "Chúng tôi hiếm khi đi chơi vào ngày thường."
+  },
+  {
+    "word": "go on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tiếp tục diễn ra hoặc tiếp tục làm",
+    "example": "The discussion will go on after lunch.",
+    "exampleVi": "Cuộc thảo luận sẽ tiếp tục sau bữa trưa."
+  },
+  {
+    "word": "go off",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "reo; phát tín hiệu báo động",
+    "example": "My alarm will go off at seven.",
+    "exampleVi": "Đồng hồ báo thức của tôi sẽ reo lúc bảy giờ."
+  },
+  {
+    "word": "go away",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đi khỏi nơi đang ở",
+    "example": "Please go away and let me rest.",
+    "exampleVi": "Hãy đi chỗ khác để tôi nghỉ."
+  },
+  {
+    "word": "go back",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "quay lại nơi trước đó",
+    "example": "We should go back before it gets dark.",
+    "exampleVi": "Chúng ta nên quay lại trước khi trời tối."
+  },
+  {
+    "word": "go over",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "xem xét hoặc ôn lại kỹ lưỡng",
+    "example": "Let us go over the instructions again.",
+    "exampleVi": "Chúng ta hãy xem lại hướng dẫn một lần nữa."
+  },
+  {
+    "word": "go through",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "trải qua một giai đoạn khó khăn",
+    "example": "Families go through many changes.",
+    "exampleVi": "Các gia đình trải qua nhiều thay đổi."
+  },
+  {
+    "word": "go along",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đi cùng; đi theo tới một nơi",
+    "example": "I can go along if you need help.",
+    "exampleVi": "Tôi có thể đi cùng nếu bạn cần giúp."
+  },
+  {
+    "word": "go around",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đủ để chia cho mọi người",
+    "example": "There are enough sandwiches to go around.",
+    "exampleVi": "Có đủ bánh mì kẹp cho mọi người."
+  },
+  {
+    "word": "go by",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "trôi qua, nói về thời gian",
+    "example": "The days go by quickly here.",
+    "exampleVi": "Ở đây ngày tháng trôi qua nhanh."
+  },
+  {
+    "word": "go ahead",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tiến hành việc đã định",
+    "example": "You can go ahead with the repairs.",
+    "exampleVi": "Bạn có thể tiến hành sửa chữa."
+  },
+  {
+    "word": "go under",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "phá sản; ngừng hoạt động kinh doanh",
+    "example": "Several small shops may go under.",
+    "exampleVi": "Một số cửa hàng nhỏ có thể phá sản."
+  },
+  {
+    "word": "go without",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "xoay xở khi không có thứ cần thiết",
+    "example": "We had to go without hot water.",
+    "exampleVi": "Chúng tôi đã phải chịu cảnh không có nước nóng."
+  },
+  {
+    "word": "go against",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đi ngược lại quy định hoặc mong muốn",
+    "example": "That decision would go against our policy.",
+    "exampleVi": "Quyết định đó sẽ trái với chính sách của chúng ta."
+  },
+  {
+    "word": "go after",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "theo đuổi để đạt được điều gì",
+    "example": "She decided to go after her dream job.",
+    "exampleVi": "Cô ấy quyết định theo đuổi công việc mơ ước."
+  },
+  {
+    "word": "go for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chọn một thứ trong các khả năng",
+    "example": "I will go for the vegetarian option.",
+    "exampleVi": "Tôi sẽ chọn món chay."
+  },
+  {
+    "word": "go into",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "xem xét hoặc trình bày chi tiết",
+    "example": "We cannot go into every detail now.",
+    "exampleVi": "Bây giờ chúng ta không thể đi sâu từng chi tiết."
+  },
+  {
+    "word": "go out with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "hẹn hò với ai",
+    "example": "She used to go out with my cousin.",
+    "exampleVi": "Cô ấy từng hẹn hò với anh họ tôi."
+  },
+  {
+    "word": "go back on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "không giữ lời hứa hoặc thỏa thuận",
+    "example": "Do not go back on your promise.",
+    "exampleVi": "Đừng thất hứa."
+  },
+  {
+    "word": "go through with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "thực hiện đến cùng một việc khó",
+    "example": "He decided to go through with the operation.",
+    "exampleVi": "Anh ấy quyết định vẫn tiến hành ca phẫu thuật."
+  },
+  {
+    "word": "go along with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đồng ý hoặc làm theo một kế hoạch",
+    "example": "I cannot go along with this proposal.",
+    "exampleVi": "Tôi không thể đồng ý với đề xuất này."
+  },
+  {
+    "word": "go in for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "thích và thường tham gia một hoạt động",
+    "example": "I do not go in for competitive sports.",
+    "exampleVi": "Tôi không thích tham gia thể thao thi đấu."
+  },
+  {
+    "word": "go off on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bắt đầu nói về một hướng ngoài chủ đề",
+    "example": "He tends to go off on a tangent.",
+    "exampleVi": "Anh ấy thường nói chệch sang chuyện khác."
+  },
+  {
+    "word": "go over to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đi sang chỗ một người hoặc một nơi",
+    "example": "I will go over to her desk.",
+    "exampleVi": "Tôi sẽ sang bàn làm việc của cô ấy."
+  },
+  {
+    "word": "go down with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "mắc một căn bệnh, thường dùng trong tiếng Anh–Anh",
+    "example": "Three students went down with the flu.",
+    "exampleVi": "Ba học sinh đã mắc cúm."
+  },
+  {
+    "word": "go back to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "trở lại hoạt động hoặc tình trạng trước",
+    "example": "I want to go back to teaching.",
+    "exampleVi": "Tôi muốn quay lại công việc giảng dạy."
+  },
+  {
+    "word": "go on about",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nói mãi về một chuyện",
+    "example": "He can go on about trains for hours.",
+    "exampleVi": "Anh ấy có thể nói mãi về tàu hỏa suốt nhiều giờ."
+  },
+  {
+    "word": "go out of",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "rời khỏi một nơi hoặc trạng thái",
+    "example": "This style may go out of fashion.",
+    "exampleVi": "Kiểu này có thể hết mốt."
+  },
+  {
+    "word": "go down as",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "được ghi nhớ với tư cách nào đó",
+    "example": "She will go down as a great leader.",
+    "exampleVi": "Bà sẽ được ghi nhớ như một nhà lãnh đạo vĩ đại."
+  },
+  {
+    "word": "come in",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đi vào nơi người nói đang ở",
+    "example": "Please come in and take a seat.",
+    "exampleVi": "Mời vào và ngồi xuống."
+  },
+  {
+    "word": "come out",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "được phát hành hoặc công bố",
+    "example": "Her new book will come out in June.",
+    "exampleVi": "Sách mới của cô ấy sẽ ra mắt vào tháng Sáu."
+  },
+  {
+    "word": "come on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bắt đầu hoạt động, nói về đèn hoặc thiết bị",
+    "example": "The lights come on at dusk.",
+    "exampleVi": "Đèn bật lên khi chạng vạng."
+  },
+  {
+    "word": "come off",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bong ra; rời khỏi chỗ đang gắn",
+    "example": "The label may come off in water.",
+    "exampleVi": "Nhãn có thể bong ra khi gặp nước."
+  },
+  {
+    "word": "come up",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "được nhắc tới hoặc xuất hiện trong thảo luận",
+    "example": "This question may come up during the interview.",
+    "exampleVi": "Câu hỏi này có thể xuất hiện trong buổi phỏng vấn."
+  },
+  {
+    "word": "come down",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "giảm xuống",
+    "example": "House prices have come down recently.",
+    "exampleVi": "Giá nhà gần đây đã giảm."
+  },
+  {
+    "word": "come back",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "trở lại chỗ người nói",
+    "example": "Please come back after lunch.",
+    "exampleVi": "Hãy quay lại sau bữa trưa."
+  },
+  {
+    "word": "come over",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "ghé thăm nhà người nói",
+    "example": "Would you like to come over tonight?",
+    "exampleVi": "Bạn có muốn ghé nhà tôi tối nay không?"
+  },
+  {
+    "word": "come through",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "vượt qua một thử thách khó khăn",
+    "example": "The team managed to come through the crisis.",
+    "exampleVi": "Nhóm đã vượt qua được cuộc khủng hoảng."
+  },
+  {
+    "word": "come along",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đi cùng người khác",
+    "example": "You can come along if you like.",
+    "exampleVi": "Bạn có thể đi cùng nếu muốn."
+  },
+  {
+    "word": "come around",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đổi ý; dần chấp nhận một quan điểm",
+    "example": "She may come around after hearing the evidence.",
+    "exampleVi": "Cô ấy có thể đổi ý sau khi nghe bằng chứng."
+  },
+  {
+    "word": "come about",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "xảy ra; hình thành do hoàn cảnh nào đó",
+    "example": "How did this change come about?",
+    "exampleVi": "Thay đổi này đã diễn ra như thế nào?"
+  },
+  {
+    "word": "come across",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tình cờ gặp hoặc tìm thấy",
+    "example": "I came across an old photograph yesterday.",
+    "exampleVi": "Hôm qua tôi tình cờ tìm thấy một bức ảnh cũ."
+  },
+  {
+    "word": "come apart",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "rời thành các bộ phận",
+    "example": "The handle may come apart if you pull it.",
+    "exampleVi": "Tay cầm có thể rời ra nếu bạn kéo."
+  },
+  {
+    "word": "come away",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "rời ra khỏi chỗ đang gắn",
+    "example": "The old paint will come away easily.",
+    "exampleVi": "Lớp sơn cũ sẽ bong ra dễ dàng."
+  },
+  {
+    "word": "come forward",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chủ động đứng ra cung cấp thông tin hoặc giúp đỡ",
+    "example": "Two witnesses decided to come forward.",
+    "exampleVi": "Hai nhân chứng quyết định đứng ra khai báo."
+  },
+  {
+    "word": "come to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tỉnh lại sau khi bất tỉnh",
+    "example": "He began to come to in the ambulance.",
+    "exampleVi": "Anh ấy bắt đầu tỉnh lại trên xe cứu thương."
+  },
+  {
+    "word": "come under",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chịu tác động, sự chỉ trích hoặc kiểm soát",
+    "example": "The plan has come under heavy criticism.",
+    "exampleVi": "Kế hoạch đã hứng chịu nhiều chỉ trích."
+  },
+  {
+    "word": "come after",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "xuất hiện hoặc xảy ra sau một thứ khác",
+    "example": "Which letter comes after Q?",
+    "exampleVi": "Chữ nào đứng sau chữ Q?"
+  },
+  {
+    "word": "come from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "có nguồn gốc hoặc xuất thân từ đâu",
+    "example": "These apples come from a local farm.",
+    "exampleVi": "Những quả táo này đến từ một trang trại địa phương."
+  },
+  {
+    "word": "come into",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "được thừa hưởng tiền hoặc tài sản",
+    "example": "She came into some money last year.",
+    "exampleVi": "Năm ngoái cô ấy được thừa hưởng một khoản tiền."
+  },
+  {
+    "word": "come out of",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "xuất hiện từ trong một nơi",
+    "example": "Smoke began to come out of the engine.",
+    "exampleVi": "Khói bắt đầu bốc ra từ động cơ."
+  },
+  {
+    "word": "come up against",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "gặp phải trở ngại hoặc sự phản đối",
+    "example": "We may come up against strong opposition.",
+    "exampleVi": "Chúng ta có thể gặp phải sự phản đối mạnh mẽ."
+  },
+  {
+    "word": "come down with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bắt đầu mắc bệnh",
+    "example": "I think I am coming down with a cold.",
+    "exampleVi": "Tôi nghĩ mình đang bắt đầu bị cảm."
+  },
+  {
+    "word": "come down to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "rốt cuộc phụ thuộc vào yếu tố chính nào đó",
+    "example": "The choice will come down to cost.",
+    "exampleVi": "Việc lựa chọn cuối cùng sẽ phụ thuộc vào chi phí."
+  },
+  {
+    "word": "come in for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nhận hoặc hứng chịu phản ứng từ người khác",
+    "example": "The report came in for sharp criticism.",
+    "exampleVi": "Bản báo cáo đã hứng chịu chỉ trích gay gắt."
+  },
+  {
+    "word": "come out with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bất ngờ nói ra một điều gì",
+    "example": "He sometimes comes out with strange ideas.",
+    "exampleVi": "Đôi khi anh ấy bất ngờ nêu những ý tưởng kỳ lạ."
+  },
+  {
+    "word": "come back to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nhớ lại sau một lúc",
+    "example": "Her name will come back to me.",
+    "exampleVi": "Rồi tôi sẽ nhớ lại tên cô ấy."
+  },
+  {
+    "word": "take off",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "cất cánh, nói về máy bay",
+    "example": "Our plane will take off at noon.",
+    "exampleVi": "Máy bay của chúng tôi sẽ cất cánh lúc trưa."
+  },
+  {
+    "word": "take on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nhận thêm công việc hoặc trách nhiệm",
+    "example": "Do not take on too much work.",
+    "exampleVi": "Đừng nhận quá nhiều việc."
+  },
+  {
+    "word": "take over",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tiếp quản quyền điều hành",
+    "example": "She will take over the family business.",
+    "exampleVi": "Cô ấy sẽ tiếp quản việc kinh doanh của gia đình."
+  },
+  {
+    "word": "take up",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bắt đầu một sở thích hoặc hoạt động",
+    "example": "I want to take up swimming.",
+    "exampleVi": "Tôi muốn bắt đầu tập bơi."
+  },
+  {
+    "word": "take in",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tiếp nhận và hiểu thông tin",
+    "example": "It was too much information to take in.",
+    "exampleVi": "Có quá nhiều thông tin để tiếp thu."
+  },
+  {
+    "word": "take out",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đưa một vật ra khỏi nơi đang chứa",
+    "example": "Please take out the rubbish.",
+    "exampleVi": "Hãy mang rác ra ngoài."
+  },
+  {
+    "word": "take away",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "lấy hoặc mang một thứ đi",
+    "example": "Please take away the empty plates.",
+    "exampleVi": "Hãy mang những chiếc đĩa không ra ngoài."
+  },
+  {
+    "word": "take back",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "rút lại điều đã nói",
+    "example": "I take back what I said yesterday.",
+    "exampleVi": "Tôi rút lại điều mình đã nói hôm qua."
+  },
+  {
+    "word": "take down",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "ghi chép lại thông tin",
+    "example": "Please take down my new address.",
+    "exampleVi": "Hãy ghi lại địa chỉ mới của tôi."
+  },
+  {
+    "word": "take apart",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tháo một vật thành các bộ phận",
+    "example": "We need to take apart the old engine.",
+    "exampleVi": "Chúng ta cần tháo rời động cơ cũ."
+  },
+  {
+    "word": "take after",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "giống một người thân về ngoại hình hoặc tính cách",
+    "example": "You take after your grandfather.",
+    "exampleVi": "Bạn giống ông của mình."
+  },
+  {
+    "word": "take to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bắt đầu thích một người hoặc hoạt động",
+    "example": "The children quickly took to their new teacher.",
+    "exampleVi": "Bọn trẻ nhanh chóng quý giáo viên mới."
+  },
+  {
+    "word": "take against",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bắt đầu không ưa ai, thường dùng trong tiếng Anh–Anh",
+    "example": "She took against him after their first meeting.",
+    "exampleVi": "Cô ấy không ưa anh ấy ngay sau lần gặp đầu."
+  },
+  {
+    "word": "take along",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "mang theo người hoặc đồ vật",
+    "example": "Remember to take along a warm jacket.",
+    "exampleVi": "Hãy nhớ mang theo một chiếc áo ấm."
+  },
+  {
+    "word": "take over from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tiếp nhận công việc từ người tiền nhiệm",
+    "example": "Mina will take over from our current manager.",
+    "exampleVi": "Mina sẽ tiếp quản công việc từ quản lý hiện tại."
+  },
+  {
+    "word": "take up with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bắt đầu giao du với ai, thường không được tán thành",
+    "example": "He has taken up with a troublesome crowd.",
+    "exampleVi": "Anh ấy đã giao du với một nhóm hay gây rắc rối."
+  },
+  {
+    "word": "take away from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "làm giảm giá trị hoặc sự hấp dẫn của điều gì",
+    "example": "The delay does not take away from their achievement.",
+    "exampleVi": "Sự chậm trễ không làm giảm giá trị thành tích của họ."
+  },
+  {
+    "word": "put on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "mặc hoặc đeo một thứ",
+    "example": "Put on your coat before going outside.",
+    "exampleVi": "Hãy mặc áo khoác trước khi ra ngoài."
+  },
+  {
+    "word": "put out",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "dập tắt lửa hoặc thuốc lá",
+    "example": "Firefighters managed to put out the fire.",
+    "exampleVi": "Lính cứu hỏa đã dập tắt được đám cháy."
+  },
+  {
+    "word": "put away",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "cất đồ về đúng chỗ",
+    "example": "Please put away your toys.",
+    "exampleVi": "Hãy cất đồ chơi đi."
+  },
+  {
+    "word": "put down",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đặt một vật xuống",
+    "example": "Put down the box beside the door.",
+    "exampleVi": "Hãy đặt chiếc hộp xuống cạnh cửa."
+  },
+  {
+    "word": "put up",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "dựng hoặc lắp một thứ lên",
+    "example": "They will put up a tent near the lake.",
+    "exampleVi": "Họ sẽ dựng lều gần hồ."
+  },
+  {
+    "word": "put back",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đặt trở lại vị trí cũ",
+    "example": "Please put back the books after reading.",
+    "exampleVi": "Hãy đặt sách lại chỗ cũ sau khi đọc."
+  },
+  {
+    "word": "put in",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "dành thời gian hoặc nỗ lực cho việc gì",
+    "example": "She puts in long hours at the hospital.",
+    "exampleVi": "Cô ấy làm việc nhiều giờ tại bệnh viện."
+  },
+  {
+    "word": "put aside",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "để dành tiền hoặc tài nguyên",
+    "example": "We put aside some money each month.",
+    "exampleVi": "Chúng tôi để dành một ít tiền mỗi tháng."
+  },
+  {
+    "word": "put together",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "lắp ráp hoặc tập hợp thành một thứ hoàn chỉnh",
+    "example": "I can put together the shelf myself.",
+    "exampleVi": "Tôi có thể tự lắp chiếc kệ."
+  },
+  {
+    "word": "put forward",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đề xuất để người khác xem xét",
+    "example": "They put forward a practical solution.",
+    "exampleVi": "Họ đưa ra một giải pháp thiết thực."
+  },
+  {
+    "word": "put across",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "truyền đạt một ý tưởng rõ ràng",
+    "example": "She can put across complex ideas simply.",
+    "exampleVi": "Cô ấy có thể diễn đạt ý tưởng phức tạp một cách đơn giản."
+  },
+  {
+    "word": "put through",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "xử lý để một giao dịch hoặc yêu cầu được thực hiện",
+    "example": "We will put through your refund today.",
+    "exampleVi": "Hôm nay chúng tôi sẽ xử lý khoản hoàn tiền của bạn."
+  },
+  {
+    "word": "put in for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nộp đơn xin một quyền lợi hoặc vị trí",
+    "example": "I plan to put in for annual leave.",
+    "exampleVi": "Tôi định nộp đơn xin nghỉ phép năm."
+  },
+  {
+    "word": "give up",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "từ bỏ; ngừng cố gắng hoặc ngừng một thói quen",
+    "example": "He decided to give up smoking.",
+    "exampleVi": "Anh ấy quyết định bỏ thuốc lá."
+  },
+  {
+    "word": "give in",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chịu nhượng bộ sau khi chống lại",
+    "example": "Do not give in just because it is difficult.",
+    "exampleVi": "Đừng đầu hàng chỉ vì việc đó khó."
+  },
+  {
+    "word": "give out",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "phân phát cho nhiều người",
+    "example": "Volunteers give out meals every evening.",
+    "exampleVi": "Tình nguyện viên phát suất ăn mỗi tối."
+  },
+  {
+    "word": "give away",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "cho miễn phí; tặng không",
+    "example": "We will give away the books we no longer need.",
+    "exampleVi": "Chúng tôi sẽ tặng những cuốn sách không còn cần."
+  },
+  {
+    "word": "give back",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "trả lại thứ đã mượn hoặc lấy",
+    "example": "Please give back my pen.",
+    "exampleVi": "Hãy trả lại bút cho tôi."
+  },
+  {
+    "word": "give off",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tỏa ra nhiệt, ánh sáng hoặc mùi",
+    "example": "These flowers give off a sweet smell.",
+    "exampleVi": "Những bông hoa này tỏa hương thơm dịu."
+  },
+  {
+    "word": "give over",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "ngừng làm việc gây phiền, cách dùng thân mật trong tiếng Anh–Anh",
+    "example": "Give over complaining and help us.",
+    "exampleVi": "Đừng phàn nàn nữa mà hãy giúp chúng tôi."
+  },
+  {
+    "word": "give up on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "không còn hy vọng vào ai hoặc điều gì",
+    "example": "Do not give up on your students.",
+    "exampleVi": "Đừng mất hy vọng ở học sinh của mình."
+  },
+  {
+    "word": "give in to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nhượng bộ trước áp lực hoặc cám dỗ",
+    "example": "We must not give in to pressure.",
+    "exampleVi": "Chúng ta không được nhượng bộ trước áp lực."
+  },
+  {
+    "word": "give way to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nhường chỗ cho người hoặc thứ khác",
+    "example": "Drivers must give way to pedestrians here.",
+    "exampleVi": "Ở đây người lái xe phải nhường người đi bộ."
+  },
+  {
+    "word": "give rise to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "gây ra; làm nảy sinh một kết quả",
+    "example": "Poor communication can give rise to conflict.",
+    "exampleVi": "Giao tiếp kém có thể làm nảy sinh xung đột."
+  },
+  {
+    "word": "give vent to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bộc lộ mạnh mẽ cảm xúc đã kìm nén",
+    "example": "She used her diary to give vent to her anger.",
+    "exampleVi": "Cô ấy dùng nhật ký để trút cơn giận."
+  },
+  {
+    "word": "make out",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nhìn hoặc nghe đủ rõ để nhận biết",
+    "example": "I cannot make out the words on that sign.",
+    "exampleVi": "Tôi không đọc rõ chữ trên biển đó."
+  },
+  {
+    "word": "make off",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "vội vã bỏ đi, thường sau khi làm sai",
+    "example": "The thieves tried to make off before dawn.",
+    "exampleVi": "Những tên trộm tìm cách tẩu thoát trước bình minh."
+  },
+  {
+    "word": "make for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "di chuyển hướng tới một nơi",
+    "example": "We should make for the nearest shelter.",
+    "exampleVi": "Chúng ta nên đi về phía nơi trú gần nhất."
+  },
+  {
+    "word": "make over",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "thay đổi để cải thiện diện mạo một thứ",
+    "example": "They plan to make over the old kitchen.",
+    "exampleVi": "Họ dự định cải tạo lại căn bếp cũ."
+  },
+  {
+    "word": "make up for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bù đắp một điều thiếu hụt hoặc sai sót",
+    "example": "I will make up for the lost time.",
+    "exampleVi": "Tôi sẽ bù lại thời gian đã mất."
+  },
+  {
+    "word": "make off with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "lấy trộm rồi mang đi",
+    "example": "Someone made off with my bicycle.",
+    "exampleVi": "Ai đó đã lấy trộm xe đạp của tôi."
+  },
+  {
+    "word": "read out",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đọc thành tiếng cho người khác nghe",
+    "example": "Please read out the first question.",
+    "exampleVi": "Hãy đọc to câu hỏi đầu tiên."
+  },
+  {
+    "word": "make do with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "xoay xở dùng thứ sẵn có nhưng chưa lý tưởng",
+    "example": "We will make do with the chairs we have.",
+    "exampleVi": "Chúng ta sẽ tạm dùng những chiếc ghế hiện có."
+  },
+  {
+    "word": "make room for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "dọn hoặc nhường chỗ cho ai hay thứ gì",
+    "example": "Please make room for another passenger.",
+    "exampleVi": "Hãy nhường chỗ cho thêm một hành khách."
+  },
+  {
+    "word": "make use of",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "sử dụng một thứ có sẵn",
+    "example": "Students can make use of the free library.",
+    "exampleVi": "Sinh viên có thể sử dụng thư viện miễn phí."
+  },
+  {
+    "word": "make fun of",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chế giễu; lấy ai hoặc điều gì ra làm trò cười",
+    "example": "It is unkind to make fun of someone's accent.",
+    "exampleVi": "Chế giễu giọng nói của người khác là không tử tế."
+  },
+  {
+    "word": "make sense of",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "hiểu được điều có vẻ khó hiểu",
+    "example": "Can you make sense of these figures?",
+    "exampleVi": "Bạn có hiểu những số liệu này không?"
+  },
+  {
+    "word": "make light of",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "coi nhẹ điều người khác xem là nghiêm trọng",
+    "example": "Do not make light of her concerns.",
+    "exampleVi": "Đừng xem nhẹ những lo lắng của cô ấy."
+  },
+  {
+    "word": "make way for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tránh hoặc dọn chỗ để thứ khác xuất hiện",
+    "example": "The old hall will make way for a library.",
+    "exampleVi": "Hội trường cũ sẽ nhường chỗ cho một thư viện."
+  },
+  {
+    "word": "bring up",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nêu một chủ đề để thảo luận",
+    "example": "Please bring up this issue at the meeting.",
+    "exampleVi": "Hãy nêu vấn đề này trong cuộc họp."
+  },
+  {
+    "word": "bring down",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "làm giảm một mức giá hoặc số lượng",
+    "example": "Better insulation can bring down heating costs.",
+    "exampleVi": "Cách nhiệt tốt hơn có thể giảm chi phí sưởi."
+  },
+  {
+    "word": "bring in",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đem lại một nguồn thu hoặc lợi ích",
+    "example": "Tourism can bring in much-needed income.",
+    "exampleVi": "Du lịch có thể đem lại nguồn thu rất cần thiết."
+  },
+  {
+    "word": "bring out",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "phát hành hoặc giới thiệu sản phẩm mới",
+    "example": "The company will bring out a new camera.",
+    "exampleVi": "Công ty sẽ ra mắt một chiếc máy ảnh mới."
+  },
+  {
+    "word": "bring back",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "gợi lại ký ức hoặc cảm xúc",
+    "example": "These songs bring back happy memories.",
+    "exampleVi": "Những bài hát này gợi lại ký ức vui vẻ."
+  },
+  {
+    "word": "bring along",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "mang ai hoặc thứ gì đi cùng",
+    "example": "You can bring along a friend.",
+    "exampleVi": "Bạn có thể dẫn theo một người bạn."
+  },
+  {
+    "word": "bring about",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "gây ra; làm cho một thay đổi xảy ra",
+    "example": "The campaign helped bring about lasting change.",
+    "exampleVi": "Chiến dịch đã giúp tạo ra thay đổi lâu dài."
+  },
+  {
+    "word": "bring around",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "thuyết phục ai thay đổi ý kiến",
+    "example": "He was eventually brought around to our view.",
+    "exampleVi": "Cuối cùng anh ấy cũng được thuyết phục để đồng ý với quan điểm của chúng tôi."
+  },
+  {
+    "word": "bring forward",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chuyển thời điểm một việc lên sớm hơn",
+    "example": "We need to bring forward the deadline.",
+    "exampleVi": "Chúng ta cần đưa hạn chót lên sớm hơn."
+  },
+  {
+    "word": "bring together",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tập hợp hoặc kết nối mọi người",
+    "example": "The festival will bring together local artists.",
+    "exampleVi": "Lễ hội sẽ quy tụ các nghệ sĩ địa phương."
+  },
+  {
+    "word": "bring over",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "mang đến chỗ người nói hoặc người nghe",
+    "example": "Could you bring over some extra chairs?",
+    "exampleVi": "Bạn có thể mang thêm ghế sang không?"
+  },
+  {
+    "word": "bring on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "gây ra một tình trạng, thường không mong muốn",
+    "example": "Bright lights can bring on a headache.",
+    "exampleVi": "Ánh sáng mạnh có thể gây đau đầu."
+  },
+  {
+    "word": "bring off",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "thực hiện thành công một việc khó",
+    "example": "The crew managed to bring off a difficult rescue.",
+    "exampleVi": "Đội đã thực hiện thành công một cuộc giải cứu khó khăn."
+  },
+  {
+    "word": "read through",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đọc toàn bộ từ đầu đến cuối",
+    "example": "Please read through the contract before signing.",
+    "exampleVi": "Hãy đọc hết hợp đồng trước khi ký."
+  },
+  {
+    "word": "read up on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đọc để tìm hiểu kỹ một chủ đề",
+    "example": "I need to read up on local history.",
+    "exampleVi": "Tôi cần đọc thêm để tìm hiểu lịch sử địa phương."
+  },
+  {
+    "word": "turn on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bật đèn hoặc thiết bị",
+    "example": "Please turn on the fan.",
+    "exampleVi": "Hãy bật quạt."
+  },
+  {
+    "word": "turn off",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tắt đèn hoặc thiết bị",
+    "example": "Remember to turn off the oven.",
+    "exampleVi": "Hãy nhớ tắt lò nướng."
+  },
+  {
+    "word": "turn up",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "xuất hiện hoặc đến, đôi khi bất ngờ",
+    "example": "He always turns up before everyone else.",
+    "exampleVi": "Anh ấy luôn đến trước mọi người."
+  },
+  {
+    "word": "turn down",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "từ chối một đề nghị hoặc lời mời",
+    "example": "She decided to turn down the offer.",
+    "exampleVi": "Cô ấy quyết định từ chối đề nghị đó."
+  },
+  {
+    "word": "turn out",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "rốt cuộc hóa ra như thế nào",
+    "example": "The trip turned out better than expected.",
+    "exampleVi": "Chuyến đi hóa ra tốt hơn dự kiến."
+  },
+  {
+    "word": "turn in",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nộp bài hoặc giao lại thứ gì",
+    "example": "Please turn in your assignments by Friday.",
+    "exampleVi": "Hãy nộp bài trước hoặc trong ngày thứ Sáu."
+  },
+  {
+    "word": "turn over",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "lật sang mặt bên kia",
+    "example": "Turn over the card to see the answer.",
+    "exampleVi": "Hãy lật thẻ để xem đáp án."
+  },
+  {
+    "word": "turn around",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "quay người hoặc đổi hướng",
+    "example": "Turn around and look behind you.",
+    "exampleVi": "Hãy quay lại và nhìn phía sau."
+  },
+  {
+    "word": "turn back",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "quay trở lại vì không thể tiếp tục",
+    "example": "We had to turn back because of snow.",
+    "exampleVi": "Chúng tôi phải quay lại vì tuyết."
+  },
+  {
+    "word": "turn away",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "từ chối cho người nào đó vào",
+    "example": "The shelter could not turn away another family.",
+    "exampleVi": "Trạm cứu trợ không thể từ chối thêm một gia đình nữa."
+  },
+  {
+    "word": "turn to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tìm đến ai hoặc điều gì để được giúp đỡ",
+    "example": "You can turn to your teacher for advice.",
+    "exampleVi": "Bạn có thể tìm đến giáo viên để xin lời khuyên."
+  },
+  {
+    "word": "turn against",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bắt đầu chống lại ai hoặc thứ gì",
+    "example": "Public opinion may turn against the plan.",
+    "exampleVi": "Dư luận có thể quay sang phản đối kế hoạch."
+  },
+  {
+    "word": "turn over to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chuyển sang một kênh truyền hình khác",
+    "example": "Can we turn over to the news?",
+    "exampleVi": "Chúng ta có thể chuyển sang bản tin không?"
+  },
+  {
+    "word": "turn out for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đến tham dự hoặc ủng hộ một sự kiện",
+    "example": "Thousands turned out for the charity walk.",
+    "exampleVi": "Hàng nghìn người đã tham gia cuộc đi bộ từ thiện."
+  },
+  {
+    "word": "keep up",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "duy trì cùng tốc độ hoặc mức độ",
+    "example": "You are walking too fast for me to keep up.",
+    "exampleVi": "Bạn đi nhanh quá khiến tôi không theo kịp."
+  },
+  {
+    "word": "keep on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tiếp tục làm việc gì",
+    "example": "Keep on trying even when you make mistakes.",
+    "exampleVi": "Hãy tiếp tục cố gắng ngay cả khi mắc lỗi."
+  },
+  {
+    "word": "keep off",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "không đi lên hoặc chạm vào một nơi",
+    "example": "Please keep off the wet grass.",
+    "exampleVi": "Hãy tránh đi lên bãi cỏ ướt."
+  },
+  {
+    "word": "keep out",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "ngăn không cho một thứ lọt vào",
+    "example": "Thick curtains keep out the cold.",
+    "exampleVi": "Rèm dày ngăn hơi lạnh lọt vào."
+  },
+  {
+    "word": "keep away",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "không đến gần",
+    "example": "Please keep away while the machine is running.",
+    "exampleVi": "Hãy tránh xa khi máy đang chạy."
+  },
+  {
+    "word": "keep back",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "giữ lại; không bộc lộ hết",
+    "example": "She seemed to keep back some important details.",
+    "exampleVi": "Có vẻ cô ấy giấu một số chi tiết quan trọng."
+  },
+  {
+    "word": "keep down",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "giữ ở mức thấp",
+    "example": "We need to keep down unnecessary expenses.",
+    "exampleVi": "Chúng ta cần hạn chế những khoản chi không cần thiết."
+  },
+  {
+    "word": "keep in",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "giữ học sinh ở lại sau giờ học để phạt, cách dùng trong tiếng Anh–Anh",
+    "example": "Three students were kept in after class.",
+    "exampleVi": "Ba học sinh bị giữ lại sau giờ học."
+  },
+  {
+    "word": "keep at",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "kiên trì làm việc gì",
+    "example": "Keep at the task until you finish.",
+    "exampleVi": "Hãy kiên trì làm cho đến khi xong."
+  },
+  {
+    "word": "keep ahead of",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "duy trì vị trí dẫn trước",
+    "example": "We must innovate to keep ahead of competitors.",
+    "exampleVi": "Chúng ta phải đổi mới để luôn đi trước đối thủ."
+  },
+  {
+    "word": "keep away from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tránh xa người hoặc điều gì",
+    "example": "Keep away from the edge of the cliff.",
+    "exampleVi": "Hãy tránh xa mép vách đá."
+  },
+  {
+    "word": "keep out of",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "không can dự hoặc không bước vào",
+    "example": "Try to keep out of their argument.",
+    "exampleVi": "Hãy cố không xen vào cuộc tranh cãi của họ."
+  },
+  {
+    "word": "keep on at",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "liên tục thúc giục hoặc cằn nhằn ai",
+    "example": "Do not keep on at him about his clothes.",
+    "exampleVi": "Đừng cằn nhằn anh ấy mãi về quần áo."
+  },
+  {
+    "word": "keep to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tuân thủ hoặc không đi chệch khỏi",
+    "example": "Please keep to the marked path.",
+    "exampleVi": "Hãy đi đúng lối đã đánh dấu."
+  },
+  {
+    "word": "keep from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "kiềm chế để không làm việc gì",
+    "example": "I could hardly keep from laughing.",
+    "exampleVi": "Tôi khó mà nhịn cười được."
+  },
+  {
+    "word": "look up",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tra cứu thông tin",
+    "example": "You can look up the word in a dictionary.",
+    "exampleVi": "Bạn có thể tra từ đó trong từ điển."
+  },
+  {
+    "word": "look down",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "hướng mắt xuống dưới",
+    "example": "Do not look down if heights make you dizzy.",
+    "exampleVi": "Đừng nhìn xuống nếu độ cao khiến bạn chóng mặt."
+  },
+  {
+    "word": "look out",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chú ý để tránh nguy hiểm",
+    "example": "Look out! A bicycle is coming.",
+    "exampleVi": "Cẩn thận! Có xe đạp đang tới."
+  },
+  {
+    "word": "look in",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "ghé thăm trong thời gian ngắn",
+    "example": "I may look in after work.",
+    "exampleVi": "Tôi có thể ghé qua sau giờ làm."
+  },
+  {
+    "word": "look on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đứng xem mà không tham gia",
+    "example": "The crowd could only look on in silence.",
+    "exampleVi": "Đám đông chỉ có thể im lặng đứng xem."
+  },
+  {
+    "word": "look over",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "xem qua để kiểm tra",
+    "example": "Could you look over my application?",
+    "exampleVi": "Bạn có thể xem qua đơn của tôi không?"
+  },
+  {
+    "word": "look through",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "xem hoặc đọc qua để tìm thông tin",
+    "example": "I need to look through these files.",
+    "exampleVi": "Tôi cần xem qua những hồ sơ này."
+  },
+  {
+    "word": "look around",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nhìn ngắm hoặc khám phá một nơi",
+    "example": "We have time to look around the museum.",
+    "exampleVi": "Chúng ta có thời gian tham quan bảo tàng."
+  },
+  {
+    "word": "look ahead",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "suy nghĩ hoặc lập kế hoạch cho tương lai",
+    "example": "We should look ahead and prepare for growth.",
+    "exampleVi": "Chúng ta nên nhìn về phía trước và chuẩn bị cho tăng trưởng."
+  },
+  {
+    "word": "look away",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "quay mắt sang hướng khác",
+    "example": "She had to look away from the bright light.",
+    "exampleVi": "Cô ấy phải quay mắt tránh ánh sáng chói."
+  },
+  {
+    "word": "look back",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nhớ lại và nghĩ về quá khứ",
+    "example": "We often look back with gratitude.",
+    "exampleVi": "Chúng tôi thường nhìn lại với lòng biết ơn."
+  },
+  {
+    "word": "look to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "trông cậy vào ai hoặc điều gì",
+    "example": "Young players look to the captain for guidance.",
+    "exampleVi": "Các cầu thủ trẻ trông cậy vào đội trưởng để được hướng dẫn."
+  },
+  {
+    "word": "look upon",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nhìn nhận; xem ai hoặc điều gì theo một cách",
+    "example": "They look upon the old tree with affection.",
+    "exampleVi": "Họ nhìn cây cổ thụ với sự trìu mến."
+  },
+  {
+    "word": "read over",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đọc lại để kiểm tra nội dung",
+    "example": "Please read over the letter before you send it.",
+    "exampleVi": "Hãy đọc lại bức thư trước khi gửi."
+  },
+  {
+    "word": "look ahead to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "hướng sự chú ý tới một thời điểm tương lai",
+    "example": "We should look ahead to next year's challenges.",
+    "exampleVi": "Chúng ta nên tính trước những thách thức của năm tới."
+  },
+  {
+    "word": "pay back",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "hoàn trả tiền đã vay",
+    "example": "I will pay back the loan next month.",
+    "exampleVi": "Tôi sẽ trả lại khoản vay vào tháng tới."
+  },
+  {
+    "word": "pay off",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "thanh toán hết một khoản nợ",
+    "example": "We hope to pay off the mortgage early.",
+    "exampleVi": "Chúng tôi hy vọng trả hết khoản vay mua nhà sớm."
+  },
+  {
+    "word": "look in on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "ghé thăm để xem ai có ổn không",
+    "example": "Could you look in on Grandma this afternoon?",
+    "exampleVi": "Chiều nay bạn có thể ghé thăm bà không?"
+  },
+  {
+    "word": "look out on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "có tầm nhìn hướng ra một nơi",
+    "example": "Our windows look out on the garden.",
+    "exampleVi": "Cửa sổ của chúng tôi nhìn ra khu vườn."
+  },
+  {
+    "word": "break up",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chấm dứt một mối quan hệ tình cảm",
+    "example": "They decided to break up after five years.",
+    "exampleVi": "Họ quyết định chia tay sau năm năm."
+  },
+  {
+    "word": "break down",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "hỏng; ngừng hoạt động",
+    "example": "Our car may break down without regular maintenance.",
+    "exampleVi": "Xe của chúng tôi có thể hỏng nếu không bảo dưỡng định kỳ."
+  },
+  {
+    "word": "break in",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đột nhập trái phép vào một nơi",
+    "example": "Someone tried to break in last night.",
+    "exampleVi": "Tối qua ai đó đã tìm cách đột nhập."
+  },
+  {
+    "word": "break out",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bùng phát, nói về chiến tranh, lửa hoặc dịch bệnh",
+    "example": "A fire could break out in the dry forest.",
+    "exampleVi": "Cháy có thể bùng phát trong khu rừng khô."
+  },
+  {
+    "word": "break off",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chấm dứt đột ngột một hoạt động hoặc quan hệ",
+    "example": "They decided to break off negotiations.",
+    "exampleVi": "Họ quyết định chấm dứt đàm phán."
+  },
+  {
+    "word": "break away",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tách ra khỏi một nhóm hoặc sự kiểm soát",
+    "example": "One runner began to break away from the pack.",
+    "exampleVi": "Một vận động viên bắt đầu bứt khỏi nhóm."
+  },
+  {
+    "word": "break through",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "vượt qua vật cản hoặc sự ngăn trở",
+    "example": "The sun began to break through the clouds.",
+    "exampleVi": "Mặt trời bắt đầu ló qua những đám mây."
+  },
+  {
+    "word": "break apart",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "vỡ hoặc tách thành nhiều mảnh",
+    "example": "The old crate began to break apart.",
+    "exampleVi": "Chiếc thùng gỗ cũ bắt đầu bung ra."
+  },
+  {
+    "word": "break with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "từ bỏ truyền thống hoặc cắt đứt quan hệ",
+    "example": "The artist chose to break with tradition.",
+    "exampleVi": "Nghệ sĩ chọn phá bỏ truyền thống."
+  },
+  {
+    "word": "break away from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "thoát khỏi hoặc tách ra khỏi một nhóm",
+    "example": "She wanted to break away from the family business.",
+    "exampleVi": "Cô ấy muốn rời việc kinh doanh của gia đình."
+  },
+  {
+    "word": "break out of",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "thoát khỏi nơi bị giam giữ hoặc một khuôn mẫu",
+    "example": "We need to break out of this routine.",
+    "exampleVi": "Chúng ta cần thoát khỏi nếp sinh hoạt này."
+  },
+  {
+    "word": "break in on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "xen vào khi người khác đang nói hoặc làm việc",
+    "example": "Sorry to break in on your conversation.",
+    "exampleVi": "Xin lỗi vì đã xen vào cuộc trò chuyện của bạn."
+  },
+  {
+    "word": "break up with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chấm dứt quan hệ yêu đương với ai",
+    "example": "He decided to break up with his girlfriend.",
+    "exampleVi": "Anh ấy quyết định chia tay bạn gái."
+  },
+  {
+    "word": "run up",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tích lũy một khoản nợ hoặc chi phí lớn",
+    "example": "Do not run up a huge phone bill.",
+    "exampleVi": "Đừng để hóa đơn điện thoại tăng vọt."
+  },
+  {
+    "word": "run down",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "cạn dần năng lượng, nói về pin hoặc thiết bị",
+    "example": "The battery will run down overnight.",
+    "exampleVi": "Pin sẽ cạn dần qua đêm."
+  },
+  {
+    "word": "run out",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "hết nguồn cung hoặc hết thời gian",
+    "example": "Our supplies may run out by Friday.",
+    "exampleVi": "Đồ dự trữ của chúng tôi có thể hết vào thứ Sáu."
+  },
+  {
+    "word": "run in",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chạy rà một động cơ mới",
+    "example": "You should run in the new engine carefully.",
+    "exampleVi": "Bạn nên chạy rà động cơ mới một cách cẩn thận."
+  },
+  {
+    "word": "run off",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chạy đi khỏi một nơi",
+    "example": "The dog may run off if you open the gate.",
+    "exampleVi": "Con chó có thể chạy mất nếu bạn mở cổng."
+  },
+  {
+    "word": "run away",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bỏ chạy; trốn đi",
+    "example": "The frightened horse tried to run away.",
+    "exampleVi": "Con ngựa hoảng sợ tìm cách chạy trốn."
+  },
+  {
+    "word": "run back",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chạy quay trở lại",
+    "example": "I had to run back for my wallet.",
+    "exampleVi": "Tôi phải chạy trở lại lấy ví."
+  },
+  {
+    "word": "run over",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đâm và cán qua người hoặc vật",
+    "example": "A truck nearly ran over the bicycle.",
+    "exampleVi": "Một xe tải suýt cán qua chiếc xe đạp."
+  },
+  {
+    "word": "run through",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tập dượt hoặc xem lại nhanh từ đầu đến cuối",
+    "example": "Let us run through the presentation once more.",
+    "exampleVi": "Chúng ta hãy tập lại bài thuyết trình một lần nữa."
+  },
+  {
+    "word": "run around",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chạy hoặc đi nhiều nơi để làm việc",
+    "example": "I spend mornings running around doing errands.",
+    "exampleVi": "Tôi dành các buổi sáng chạy đi làm việc vặt."
+  },
+  {
+    "word": "run into",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tình cờ gặp ai",
+    "example": "I might run into an old friend at the market.",
+    "exampleVi": "Tôi có thể tình cờ gặp bạn cũ ở chợ."
+  },
+  {
+    "word": "run across",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tình cờ tìm thấy hoặc gặp",
+    "example": "I ran across your letter while cleaning.",
+    "exampleVi": "Tôi tình cờ tìm thấy thư của bạn khi dọn dẹp."
+  },
+  {
+    "word": "run after",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chạy đuổi theo",
+    "example": "The little boy tried to run after the bus.",
+    "exampleVi": "Cậu bé cố chạy đuổi theo xe buýt."
+  },
+  {
+    "word": "run against",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tranh cử đối đầu với ai",
+    "example": "She will run against the current mayor.",
+    "exampleVi": "Cô ấy sẽ tranh cử với thị trưởng đương nhiệm."
+  },
+  {
+    "word": "run on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tiếp tục kéo dài hơn dự kiến",
+    "example": "The meeting may run on until six.",
+    "exampleVi": "Cuộc họp có thể kéo dài đến sáu giờ."
+  },
+  {
+    "word": "run up against",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "gặp phải khó khăn hoặc trở ngại",
+    "example": "We have run up against a technical problem.",
+    "exampleVi": "Chúng tôi đã gặp phải một vấn đề kỹ thuật."
+  },
+  {
+    "word": "run away from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "né tránh việc phải đối diện vấn đề",
+    "example": "You cannot run away from your responsibilities.",
+    "exampleVi": "Bạn không thể trốn tránh trách nhiệm của mình."
+  },
+  {
+    "word": "run off with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "lấy thứ gì rồi bỏ trốn",
+    "example": "Someone ran off with the cash box.",
+    "exampleVi": "Ai đó đã lấy hộp tiền rồi bỏ trốn."
+  },
+  {
+    "word": "run out on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bỏ rơi người đang dựa vào mình",
+    "example": "He would never run out on his family.",
+    "exampleVi": "Anh ấy sẽ không bao giờ bỏ rơi gia đình."
+  },
+  {
+    "word": "run up to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chạy đến gần ai hoặc nơi nào đó",
+    "example": "The puppy ran up to its owner.",
+    "exampleVi": "Chú chó con chạy tới chỗ chủ."
+  },
+  {
+    "word": "call up",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "gọi điện cho ai",
+    "example": "I will call up the repair shop.",
+    "exampleVi": "Tôi sẽ gọi điện cho tiệm sửa chữa."
+  },
+  {
+    "word": "call off",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "hủy một sự kiện hoặc kế hoạch",
+    "example": "They had to call off the match.",
+    "exampleVi": "Họ phải hủy trận đấu."
+  },
+  {
+    "word": "call out",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "gọi hoặc nói to",
+    "example": "Please call out your name when asked.",
+    "exampleVi": "Hãy nói to tên mình khi được hỏi."
+  },
+  {
+    "word": "call back",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "gọi điện lại",
+    "example": "Can you call back after three?",
+    "exampleVi": "Bạn có thể gọi lại sau ba giờ không?"
+  },
+  {
+    "word": "call in",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "gọi người có chuyên môn đến giúp",
+    "example": "We need to call in an electrician.",
+    "exampleVi": "Chúng ta cần gọi thợ điện đến."
+  },
+  {
+    "word": "call on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đề nghị hoặc yêu cầu ai hành động",
+    "example": "We call on leaders to protect the river.",
+    "exampleVi": "Chúng tôi kêu gọi các nhà lãnh đạo bảo vệ con sông."
+  },
+  {
+    "word": "call for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đòi hỏi; cần đến",
+    "example": "This situation calls for patience.",
+    "exampleVi": "Tình huống này đòi hỏi sự kiên nhẫn."
+  },
+  {
+    "word": "call at",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "dừng tại một nơi, thường nói về tàu trong tiếng Anh–Anh",
+    "example": "This train calls at every station.",
+    "exampleVi": "Tàu này dừng ở mọi ga."
+  },
+  {
+    "word": "call around",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "gọi nhiều nơi để hỏi thông tin",
+    "example": "I will call around to compare prices.",
+    "exampleVi": "Tôi sẽ gọi nhiều nơi để so sánh giá."
+  },
+  {
+    "word": "call by",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "ghé thăm trong thời gian ngắn",
+    "example": "I may call by on my way home.",
+    "exampleVi": "Tôi có thể ghé qua trên đường về."
+  },
+  {
+    "word": "call upon",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "trang trọng yêu cầu ai làm một việc",
+    "example": "We call upon all members to vote.",
+    "exampleVi": "Chúng tôi kêu gọi toàn thể thành viên bỏ phiếu."
+  },
+  {
+    "word": "call out for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "hét lên để xin hoặc yêu cầu điều gì",
+    "example": "The injured climber called out for help.",
+    "exampleVi": "Người leo núi bị thương kêu cứu."
+  },
+  {
+    "word": "carry out",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "thực hiện một nhiệm vụ hoặc kế hoạch",
+    "example": "The team will carry out a safety inspection.",
+    "exampleVi": "Nhóm sẽ tiến hành kiểm tra an toàn."
+  },
+  {
+    "word": "carry over",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chuyển phần còn lại sang thời kỳ tiếp theo",
+    "example": "You can carry over five days of leave.",
+    "exampleVi": "Bạn có thể chuyển năm ngày phép sang kỳ sau."
+  },
+  {
+    "word": "carry off",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "thực hiện thành công việc khó",
+    "example": "Few actors could carry off such a demanding role.",
+    "exampleVi": "Ít diễn viên có thể đảm nhận thành công vai khó như vậy."
+  },
+  {
+    "word": "carry away",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "mang một vật ra khỏi nơi nào đó",
+    "example": "The river can carry away loose branches.",
+    "exampleVi": "Dòng sông có thể cuốn đi những cành cây rời."
+  },
+  {
+    "word": "carry through",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "thực hiện một kế hoạch đến khi hoàn tất",
+    "example": "We must carry through the agreed reforms.",
+    "exampleVi": "Chúng ta phải thực hiện trọn vẹn các cải cách đã thống nhất."
+  },
+  {
+    "word": "carry forward",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chuyển một số dư hoặc kết quả sang giai đoạn sau",
+    "example": "We will carry forward the unused balance.",
+    "exampleVi": "Chúng tôi sẽ chuyển số dư chưa dùng sang kỳ sau."
+  },
+  {
+    "word": "carry on with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tiếp tục một công việc đang làm",
+    "example": "Please carry on with your reading.",
+    "exampleVi": "Hãy tiếp tục đọc sách."
+  },
+  {
+    "word": "hold on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chờ trong thời gian ngắn",
+    "example": "Hold on while I find your file.",
+    "exampleVi": "Hãy chờ một chút để tôi tìm hồ sơ của bạn."
+  },
+  {
+    "word": "hold off",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tạm chưa xảy ra, nói về thời tiết xấu",
+    "example": "I hope the rain will hold off.",
+    "exampleVi": "Tôi hy vọng trời chưa mưa vội."
+  },
+  {
+    "word": "hold out",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chịu đựng và tiếp tục chống đỡ",
+    "example": "The supplies will help us hold out longer.",
+    "exampleVi": "Đồ tiếp tế sẽ giúp chúng ta cầm cự lâu hơn."
+  },
+  {
+    "word": "hold up",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "làm chậm tiến độ hoặc gây trì hoãn",
+    "example": "Roadworks can hold up traffic for hours.",
+    "exampleVi": "Việc sửa đường có thể khiến giao thông đình trệ nhiều giờ."
+  },
+  {
+    "word": "hold back",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "kìm lại; không để bộc lộ",
+    "example": "He could not hold back his tears.",
+    "exampleVi": "Anh ấy không thể kìm được nước mắt."
+  },
+  {
+    "word": "hold down",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "giữ ổn định một công việc",
+    "example": "She managed to hold down two jobs.",
+    "exampleVi": "Cô ấy đã xoay xở làm ổn định hai công việc."
+  },
+  {
+    "word": "wear out",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bị mòn hoặc hết khả năng sử dụng",
+    "example": "Cheap shoes can wear out quickly.",
+    "exampleVi": "Giày rẻ có thể nhanh chóng bị mòn."
+  },
+  {
+    "word": "hold together",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "giữ cho một vật hoặc nhóm không tan rã",
+    "example": "These screws hold together the wooden frame.",
+    "exampleVi": "Những con vít này giữ khung gỗ liền nhau."
+  },
+  {
+    "word": "wear off",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "giảm dần rồi hết tác dụng",
+    "example": "The painkiller will wear off in a few hours.",
+    "exampleVi": "Thuốc giảm đau sẽ hết tác dụng sau vài giờ."
+  },
+  {
+    "word": "hold out for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tiếp tục chờ để có được điều tốt hơn",
+    "example": "They decided to hold out for a better offer.",
+    "exampleVi": "Họ quyết định chờ một đề nghị tốt hơn."
+  },
+  {
+    "word": "hold on to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "giữ chặt; không để mất",
+    "example": "Hold on to the rail while climbing.",
+    "exampleVi": "Hãy bám chặt tay vịn khi leo lên."
+  },
+  {
+    "word": "hold out on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "cố tình không chia sẻ thông tin hoặc thứ gì với ai",
+    "example": "Do not hold out on me about the results.",
+    "exampleVi": "Đừng giấu tôi thông tin về kết quả."
+  },
+  {
+    "word": "stand up",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đứng dậy từ tư thế ngồi",
+    "example": "Please stand up when your name is called.",
+    "exampleVi": "Hãy đứng dậy khi được gọi tên."
+  },
+  {
+    "word": "stand down",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "rời khỏi chức vụ hoặc nhiệm vụ",
+    "example": "The chair will stand down next month.",
+    "exampleVi": "Chủ tịch sẽ từ nhiệm vào tháng tới."
+  },
+  {
+    "word": "stand out",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nổi bật so với xung quanh",
+    "example": "Your experience will help you stand out.",
+    "exampleVi": "Kinh nghiệm sẽ giúp bạn nổi bật."
+  },
+  {
+    "word": "stand by",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "sẵn sàng chờ để giúp khi cần",
+    "example": "A medical team will stand by during the race.",
+    "exampleVi": "Một đội y tế sẽ túc trực trong cuộc đua."
+  },
+  {
+    "word": "stand back",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "lùi lại để giữ khoảng cách",
+    "example": "Please stand back from the platform edge.",
+    "exampleVi": "Hãy lùi xa mép sân ga."
+  },
+  {
+    "word": "stand aside",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đứng nép sang bên để nhường chỗ",
+    "example": "Stand aside and let the doctor through.",
+    "exampleVi": "Hãy tránh sang bên cho bác sĩ đi qua."
+  },
+  {
+    "word": "stand against",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "phản đối hoặc chống lại một điều",
+    "example": "We must stand against unfair treatment.",
+    "exampleVi": "Chúng ta phải chống lại sự đối xử bất công."
+  },
+  {
+    "word": "stand up for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "lên tiếng bảo vệ người hoặc nguyên tắc",
+    "example": "You should stand up for your rights.",
+    "exampleVi": "Bạn nên lên tiếng bảo vệ quyền của mình."
+  },
+  {
+    "word": "stand up to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "dũng cảm chống lại sự đe dọa hoặc áp lực",
+    "example": "She learned to stand up to bullies.",
+    "exampleVi": "Cô ấy học được cách chống lại kẻ bắt nạt."
+  },
+  {
+    "word": "stand in for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tạm thay thế người khác",
+    "example": "Could you stand in for me tomorrow?",
+    "exampleVi": "Ngày mai bạn có thể làm thay tôi không?"
+  },
+  {
+    "word": "stand out from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nổi bật khác với một nhóm",
+    "example": "This design will stand out from the rest.",
+    "exampleVi": "Thiết kế này sẽ nổi bật so với những mẫu còn lại."
+  },
+  {
+    "word": "fall down",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "ngã xuống",
+    "example": "Small children often fall down while learning to walk.",
+    "exampleVi": "Trẻ nhỏ thường bị ngã khi tập đi."
+  },
+  {
+    "word": "fall over",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "mất thăng bằng rồi ngã",
+    "example": "The vase could fall over in the wind.",
+    "exampleVi": "Chiếc bình có thể đổ vì gió."
+  },
+  {
+    "word": "fall off",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "rơi khỏi một vật hoặc một bề mặt",
+    "example": "The wheel might fall off without that bolt.",
+    "exampleVi": "Bánh xe có thể rời ra nếu thiếu bu lông đó."
+  },
+  {
+    "word": "fall out",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "cãi nhau rồi mất hòa khí",
+    "example": "The brothers often fall out over money.",
+    "exampleVi": "Hai anh em thường bất hòa vì tiền."
+  },
+  {
+    "word": "fall behind",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tụt lại; không theo kịp tiến độ",
+    "example": "She does not want to fall behind in class.",
+    "exampleVi": "Cô ấy không muốn học chậm hơn các bạn."
+  },
+  {
+    "word": "fall apart",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "rời ra; mất sự vững chắc",
+    "example": "The old shoes began to fall apart.",
+    "exampleVi": "Đôi giày cũ bắt đầu bung ra."
+  },
+  {
+    "word": "fall through",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "không thành công như dự kiến",
+    "example": "The sale could fall through at the last minute.",
+    "exampleVi": "Việc mua bán có thể đổ vỡ vào phút chót."
+  },
+  {
+    "word": "fall back",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "rút lui về vị trí phía sau",
+    "example": "The tired runners began to fall back.",
+    "exampleVi": "Những người chạy mệt bắt đầu tụt lại phía sau."
+  },
+  {
+    "word": "fall for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tin nhầm điều được dùng để lừa",
+    "example": "Do not fall for that obvious trick.",
+    "exampleVi": "Đừng mắc mưu lừa quá rõ đó."
+  },
+  {
+    "word": "fall into",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "rơi vào một tình trạng, thường không tốt",
+    "example": "It is easy to fall into bad habits.",
+    "exampleVi": "Rất dễ sa vào những thói quen xấu."
+  },
+  {
+    "word": "fall on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "rơi vào một ngày hoặc ngày tháng cụ thể",
+    "example": "My birthday falls on a Sunday this year.",
+    "exampleVi": "Sinh nhật tôi năm nay rơi vào Chủ nhật."
+  },
+  {
+    "word": "fall out with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "cãi nhau và trở nên bất hòa với ai",
+    "example": "I do not want to fall out with my neighbors.",
+    "exampleVi": "Tôi không muốn bất hòa với hàng xóm."
+  },
+  {
+    "word": "fall back on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "dựa vào một phương án khi phương án khác thất bại",
+    "example": "We can fall back on our savings.",
+    "exampleVi": "Chúng tôi có thể trông vào khoản tiết kiệm."
+  },
+  {
+    "word": "fall in with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "làm theo hoặc đồng tình với một ý tưởng",
+    "example": "She agreed to fall in with our plans.",
+    "exampleVi": "Cô ấy đồng ý làm theo kế hoạch của chúng tôi."
+  },
+  {
+    "word": "fall away",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "giảm dần về mức độ hoặc số lượng",
+    "example": "Support began to fall away after the scandal.",
+    "exampleVi": "Sự ủng hộ bắt đầu giảm sau vụ bê bối."
+  },
+  {
+    "word": "cut down",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chặt hạ cây hoặc vật cao",
+    "example": "They had to cut down the damaged tree.",
+    "exampleVi": "Họ phải chặt hạ cây bị hư hại."
+  },
+  {
+    "word": "cut off",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "ngắt kết nối hoặc nguồn cung",
+    "example": "The storm could cut off our electricity.",
+    "exampleVi": "Cơn bão có thể làm mất nguồn điện của chúng tôi."
+  },
+  {
+    "word": "cut out",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "loại bỏ điều không cần thiết",
+    "example": "We should cut out unnecessary paperwork.",
+    "exampleVi": "Chúng ta nên bỏ những thủ tục giấy tờ không cần thiết."
+  },
+  {
+    "word": "cut back",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "giảm chi tiêu hoặc mức sử dụng",
+    "example": "We need to cut back this month.",
+    "exampleVi": "Tháng này chúng ta cần giảm chi tiêu."
+  },
+  {
+    "word": "cut up",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "cắt thành những miếng nhỏ",
+    "example": "Please cut up the vegetables.",
+    "exampleVi": "Hãy cắt nhỏ rau củ."
+  },
+  {
+    "word": "cut in",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "ngắt lời; xen vào lúc người khác đang nói",
+    "example": "Do not cut in while she is speaking.",
+    "exampleVi": "Đừng ngắt lời khi cô ấy đang nói."
+  },
+  {
+    "word": "cut across",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đi băng qua theo lối ngắn hơn",
+    "example": "We can cut across the park.",
+    "exampleVi": "Chúng ta có thể đi tắt qua công viên."
+  },
+  {
+    "word": "cut through",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "cắt xuyên qua một vật",
+    "example": "This blade can cut through thick rope.",
+    "exampleVi": "Lưỡi dao này có thể cắt xuyên dây thừng dày."
+  },
+  {
+    "word": "cut down on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "giảm bớt lượng tiêu thụ hoặc tần suất",
+    "example": "I want to cut down on sugar.",
+    "exampleVi": "Tôi muốn giảm lượng đường tiêu thụ."
+  },
+  {
+    "word": "cut back on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "cắt giảm chi tiêu hoặc mức sử dụng",
+    "example": "We must cut back on fuel costs.",
+    "exampleVi": "Chúng ta phải cắt giảm chi phí nhiên liệu."
+  },
+  {
+    "word": "catch on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "hiểu ra; nắm được cách làm",
+    "example": "The new students will catch on quickly.",
+    "exampleVi": "Các học sinh mới sẽ nhanh chóng hiểu ra."
+  },
+  {
+    "word": "cut in on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "xen vào làm gián đoạn một hoạt động",
+    "example": "Sorry to cut in on your discussion.",
+    "exampleVi": "Xin lỗi vì đã xen vào cuộc thảo luận của bạn."
+  },
+  {
+    "word": "pass out",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bất tỉnh; ngất đi",
+    "example": "The heat made him pass out.",
+    "exampleVi": "Sức nóng khiến anh ấy ngất đi."
+  },
+  {
+    "word": "pass away",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "qua đời, cách nói nhẹ nhàng",
+    "example": "Her grandfather passed away peacefully.",
+    "exampleVi": "Ông của cô ấy đã qua đời thanh thản."
+  },
+  {
+    "word": "pass on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chuyển một thông tin cho người khác",
+    "example": "Please pass on the message to your team.",
+    "exampleVi": "Hãy chuyển lời nhắn cho nhóm của bạn."
+  },
+  {
+    "word": "pass by",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đi ngang qua",
+    "example": "Many buses pass by our house.",
+    "exampleVi": "Nhiều xe buýt đi ngang qua nhà chúng tôi."
+  },
+  {
+    "word": "pass over",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "không chọn hoặc không xem xét ai",
+    "example": "They chose to pass over an experienced candidate.",
+    "exampleVi": "Họ quyết định không chọn một ứng viên có kinh nghiệm."
+  },
+  {
+    "word": "pass through",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đi qua một địa điểm trên đường tới nơi khác",
+    "example": "We will pass through several villages.",
+    "exampleVi": "Chúng tôi sẽ đi qua một số ngôi làng."
+  },
+  {
+    "word": "pass around",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chuyền một vật lần lượt cho nhiều người",
+    "example": "Please pass around these photographs.",
+    "exampleVi": "Hãy chuyền những bức ảnh này cho mọi người."
+  },
+  {
+    "word": "pass down",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "truyền lại cho thế hệ sau",
+    "example": "Families pass down stories across generations.",
+    "exampleVi": "Các gia đình truyền lại câu chuyện qua nhiều thế hệ."
+  },
+  {
+    "word": "pass off",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "diễn ra theo cách nào đó, thường dùng trong tiếng Anh–Anh",
+    "example": "The parade passed off peacefully.",
+    "exampleVi": "Cuộc diễu hành đã diễn ra yên bình."
+  },
+  {
+    "word": "pass up",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bỏ lỡ hoặc từ chối một cơ hội",
+    "example": "Do not pass up this chance to learn.",
+    "exampleVi": "Đừng bỏ lỡ cơ hội học hỏi này."
+  },
+  {
+    "word": "pass on to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chuyển sang một chủ đề hoặc bước tiếp theo",
+    "example": "Let us pass on to the next question.",
+    "exampleVi": "Chúng ta hãy chuyển sang câu hỏi tiếp theo."
+  },
+  {
+    "word": "work out",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tập thể dục để rèn luyện sức khỏe",
+    "example": "I work out three times a week.",
+    "exampleVi": "Tôi tập thể dục ba lần mỗi tuần."
+  },
+  {
+    "word": "work at",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nỗ lực để cải thiện một kỹ năng",
+    "example": "You need to work at your pronunciation.",
+    "exampleVi": "Bạn cần luyện tập để cải thiện phát âm."
+  },
+  {
+    "word": "work up",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "dần tạo ra một cảm giác hoặc trạng thái",
+    "example": "Walking helps me work up an appetite.",
+    "exampleVi": "Đi bộ giúp tôi thấy ngon miệng hơn."
+  },
+  {
+    "word": "work through",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "lần lượt xử lý cho đến khi giải quyết được",
+    "example": "We need to work through these problems together.",
+    "exampleVi": "Chúng ta cần cùng nhau giải quyết lần lượt các vấn đề này."
+  },
+  {
+    "word": "work around",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tìm cách vượt qua hoặc tránh một trở ngại",
+    "example": "We can work around the scheduling conflict.",
+    "exampleVi": "Chúng ta có thể tìm cách xử lý việc trùng lịch."
+  },
+  {
+    "word": "work away",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tiếp tục làm việc chăm chỉ",
+    "example": "She kept working away at her desk.",
+    "exampleVi": "Cô ấy vẫn miệt mài làm việc tại bàn."
+  },
+  {
+    "word": "work off",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tiêu hao năng lượng hoặc giảm cảm xúc bằng hoạt động",
+    "example": "I walk to work off my lunch.",
+    "exampleVi": "Tôi đi bộ để tiêu hao năng lượng từ bữa trưa."
+  },
+  {
+    "word": "work in",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "thu xếp chèn thêm một việc vào lịch",
+    "example": "We can work in one more appointment.",
+    "exampleVi": "Chúng tôi có thể thu xếp thêm một cuộc hẹn nữa."
+  },
+  {
+    "word": "work up to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chuẩn bị dần để đạt mức khó hơn",
+    "example": "You can work up to longer runs.",
+    "exampleVi": "Bạn có thể tập dần để chạy quãng đường dài hơn."
+  },
+  {
+    "word": "work out at",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tính ra một mức tiền hoặc số lượng",
+    "example": "The cost works out at ten dollars each.",
+    "exampleVi": "Chi phí tính ra là mười đô la mỗi người."
+  },
+  {
+    "word": "move on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chuyển sang giai đoạn hoặc việc khác",
+    "example": "It is time to move on.",
+    "exampleVi": "Đã đến lúc bước tiếp."
+  },
+  {
+    "word": "move out",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chuyển khỏi nơi đang sống",
+    "example": "They will move out at the end of May.",
+    "exampleVi": "Họ sẽ chuyển đi vào cuối tháng Năm."
+  },
+  {
+    "word": "move in",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chuyển đến sống ở một nơi",
+    "example": "Our new neighbors move in tomorrow.",
+    "exampleVi": "Ngày mai hàng xóm mới của chúng tôi sẽ dọn đến."
+  },
+  {
+    "word": "move up",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tiến lên vị trí hoặc cấp bậc cao hơn",
+    "example": "She hopes to move up within the company.",
+    "exampleVi": "Cô ấy hy vọng thăng tiến trong công ty."
+  },
+  {
+    "word": "move back",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chuyển trở lại nơi từng ở",
+    "example": "We may move back next year.",
+    "exampleVi": "Có thể năm sau chúng tôi sẽ chuyển về."
+  },
+  {
+    "word": "move over",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "dịch sang bên để nhường chỗ",
+    "example": "Could you move over a little?",
+    "exampleVi": "Bạn có thể dịch sang bên một chút không?"
+  },
+  {
+    "word": "move away",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chuyển đến sống ở nơi khác",
+    "example": "Many young people move away for work.",
+    "exampleVi": "Nhiều người trẻ chuyển đi nơi khác để làm việc."
+  },
+  {
+    "word": "move along",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tiếp tục di chuyển thay vì đứng lại",
+    "example": "Please move along and keep the entrance clear.",
+    "exampleVi": "Hãy đi tiếp để lối vào được thông thoáng."
+  },
+  {
+    "word": "move into",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chuyển đến sống hoặc làm việc trong một nơi",
+    "example": "We will move into the new flat next week.",
+    "exampleVi": "Tuần sau chúng tôi sẽ chuyển vào căn hộ mới."
+  },
+  {
+    "word": "move on to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bắt đầu xử lý một việc tiếp theo",
+    "example": "We can move on to the final task.",
+    "exampleVi": "Chúng ta có thể chuyển sang nhiệm vụ cuối cùng."
+  },
+  {
+    "word": "move away from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "dần từ bỏ một cách làm hoặc quan điểm",
+    "example": "The company will move away from paper records.",
+    "exampleVi": "Công ty sẽ dần ngừng dùng hồ sơ giấy."
+  },
+  {
+    "word": "drop off",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "ngủ thiếp đi",
+    "example": "I sometimes drop off during long journeys.",
+    "exampleVi": "Đôi khi tôi ngủ thiếp đi trong những chuyến đi dài."
+  },
+  {
+    "word": "drop out",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "ngừng tham gia trước khi kết thúc",
+    "example": "Several runners had to drop out.",
+    "exampleVi": "Một số người chạy phải bỏ cuộc."
+  },
+  {
+    "word": "drop in",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "ghé thăm mà không hẹn trước",
+    "example": "Feel free to drop in after work.",
+    "exampleVi": "Bạn cứ ghé qua sau giờ làm."
+  },
+  {
+    "word": "drop by",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "ghé qua trong thời gian ngắn",
+    "example": "I might drop by tomorrow morning.",
+    "exampleVi": "Tôi có thể ghé qua vào sáng mai."
+  },
+  {
+    "word": "drop back",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tụt về phía sau một nhóm",
+    "example": "The tired cyclist began to drop back.",
+    "exampleVi": "Người đi xe đạp đã mệt và bắt đầu tụt lại."
+  },
+  {
+    "word": "drop away",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "giảm dần về số lượng hoặc mức độ",
+    "example": "Attendance began to drop away in winter.",
+    "exampleVi": "Số người tham dự bắt đầu giảm vào mùa đông."
+  },
+  {
+    "word": "drop over",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "ghé thăm nhà ai một cách thân mật",
+    "example": "Why not drop over for a coffee?",
+    "exampleVi": "Sao bạn không ghé qua uống cà phê?"
+  },
+  {
+    "word": "drop out of",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bỏ dở việc học hoặc một hoạt động",
+    "example": "He did not want to drop out of college.",
+    "exampleVi": "Anh ấy không muốn bỏ học đại học."
+  },
+  {
+    "word": "drop in on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "ghé thăm ai mà không hẹn trước",
+    "example": "We may drop in on our cousins.",
+    "exampleVi": "Chúng tôi có thể ghé thăm anh chị em họ."
+  },
+  {
+    "word": "leave out",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bỏ sót hoặc không đưa vào",
+    "example": "Do not leave out any important details.",
+    "exampleVi": "Đừng bỏ sót chi tiết quan trọng nào."
+  },
+  {
+    "word": "leave off",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "dừng một việc đang làm",
+    "example": "We will continue where we left off yesterday.",
+    "exampleVi": "Chúng ta sẽ tiếp tục từ chỗ đã dừng hôm qua."
+  },
+  {
+    "word": "leave behind",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "để lại sau khi rời đi",
+    "example": "The storm may leave behind a trail of destruction.",
+    "exampleVi": "Cơn bão có thể để lại một dải tàn phá."
+  },
+  {
+    "word": "leave aside",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tạm không xét đến một vấn đề",
+    "example": "Let us leave aside the question of cost.",
+    "exampleVi": "Chúng ta hãy tạm gác vấn đề chi phí."
+  },
+  {
+    "word": "send back",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "gửi trả lại nơi ban đầu",
+    "example": "We need to send back the damaged goods.",
+    "exampleVi": "Chúng ta cần gửi trả hàng bị hư hỏng."
+  },
+  {
+    "word": "leave for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "rời đi để tới một nơi",
+    "example": "We leave for Hanoi on Monday.",
+    "exampleVi": "Chúng tôi khởi hành đi Hà Nội vào thứ Hai."
+  },
+  {
+    "word": "let down",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "làm ai thất vọng vì không đáp ứng mong đợi",
+    "example": "I do not want to let down my team.",
+    "exampleVi": "Tôi không muốn khiến nhóm thất vọng."
+  },
+  {
+    "word": "let in",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "cho phép đi vào hoặc để một thứ lọt vào",
+    "example": "Open the curtains to let in more light.",
+    "exampleVi": "Hãy mở rèm để đón thêm ánh sáng."
+  },
+  {
+    "word": "let out",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "cho phép người hoặc vật ra ngoài",
+    "example": "Please let out the cat.",
+    "exampleVi": "Hãy cho mèo ra ngoài."
+  },
+  {
+    "word": "let off",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chỉ phạt nhẹ hoặc không phạt",
+    "example": "The officer let off the driver with a warning.",
+    "exampleVi": "Viên cảnh sát chỉ cảnh cáo người lái xe."
+  },
+  {
+    "word": "let on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "để lộ thông tin đang giữ kín",
+    "example": "Do not let on that you know the surprise.",
+    "exampleVi": "Đừng để lộ rằng bạn đã biết điều bất ngờ."
+  },
+  {
+    "word": "let up",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "giảm bớt mức độ",
+    "example": "The rain should let up soon.",
+    "exampleVi": "Mưa chắc sẽ sớm ngớt."
+  },
+  {
+    "word": "let go of",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "buông tay; không giữ chặt nữa",
+    "example": "Do not let go of the rope.",
+    "exampleVi": "Đừng buông sợi dây."
+  },
+  {
+    "word": "send out",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "gửi hoặc phân phát tới nhiều người",
+    "example": "We will send out the invitations tomorrow.",
+    "exampleVi": "Ngày mai chúng tôi sẽ gửi thiệp mời đi."
+  },
+  {
+    "word": "see off",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tiễn ai khi họ rời đi",
+    "example": "We went to see off our guests.",
+    "exampleVi": "Chúng tôi đi tiễn khách."
+  },
+  {
+    "word": "see through",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nhận ra điều gian dối hoặc ý đồ thật",
+    "example": "I can see through that excuse.",
+    "exampleVi": "Tôi nhận ra cái cớ đó là không thật."
+  },
+  {
+    "word": "see to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "lo liệu để một việc được xử lý",
+    "example": "I will see to the travel arrangements.",
+    "exampleVi": "Tôi sẽ lo việc sắp xếp chuyến đi."
+  },
+  {
+    "word": "see about",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "xem xét cách sắp xếp hoặc thực hiện một việc",
+    "example": "I will see about repairing the roof.",
+    "exampleVi": "Tôi sẽ xem cách thu xếp sửa mái nhà."
+  },
+  {
+    "word": "build on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "phát triển dựa trên nền tảng đã có",
+    "example": "We can build on last year's success.",
+    "exampleVi": "Chúng ta có thể phát triển từ thành công năm ngoái."
+  },
+  {
+    "word": "show up",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đến hoặc xuất hiện",
+    "example": "Please show up on time.",
+    "exampleVi": "Hãy đến đúng giờ."
+  },
+  {
+    "word": "show off",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "khoe khoang để gây ấn tượng",
+    "example": "He likes to show off his new watch.",
+    "exampleVi": "Anh ấy thích khoe chiếc đồng hồ mới."
+  },
+  {
+    "word": "show around",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "dẫn ai tham quan một nơi",
+    "example": "New employees are shown around on their first day.",
+    "exampleVi": "Nhân viên mới được dẫn đi tham quan vào ngày đầu."
+  },
+  {
+    "word": "show in",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "dẫn khách vào phòng",
+    "example": "Visitors will be shown in one at a time.",
+    "exampleVi": "Khách sẽ được dẫn vào từng người một."
+  },
+  {
+    "word": "show out",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "dẫn khách ra cửa khi họ ra về",
+    "example": "The guests were shown out after the meeting.",
+    "exampleVi": "Khách được tiễn ra cửa sau cuộc họp."
+  },
+  {
+    "word": "hand in",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nộp tài liệu hoặc đồ vật cho người có trách nhiệm",
+    "example": "Please hand in your forms at reception.",
+    "exampleVi": "Hãy nộp mẫu đơn ở quầy lễ tân."
+  },
+  {
+    "word": "show through",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "lộ ra dù cố che giấu",
+    "example": "Her excitement began to show through.",
+    "exampleVi": "Sự háo hức của cô ấy bắt đầu lộ ra."
+  },
+  {
+    "word": "walk away",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "rời bỏ một tình huống thay vì tiếp tục",
+    "example": "Sometimes it is better to walk away.",
+    "exampleVi": "Đôi khi bỏ đi sẽ tốt hơn."
+  },
+  {
+    "word": "walk out",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bỏ đi để thể hiện sự phản đối",
+    "example": "The workers may walk out over pay.",
+    "exampleVi": "Công nhân có thể bỏ việc để phản đối vấn đề lương."
+  },
+  {
+    "word": "walk in",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đi vào mà không cần hẹn trước",
+    "example": "You can walk in without an appointment.",
+    "exampleVi": "Bạn có thể vào mà không cần đặt hẹn."
+  },
+  {
+    "word": "walk over",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đi bộ sang chỗ khác hoặc tới chỗ ai",
+    "example": "Please walk over and join our group.",
+    "exampleVi": "Hãy đi sang đây và tham gia nhóm chúng tôi."
+  },
+  {
+    "word": "walk off",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "giảm một cảm giác khó chịu bằng cách đi bộ",
+    "example": "I tried to walk off my frustration.",
+    "exampleVi": "Tôi cố đi bộ để giải tỏa sự bực bội."
+  },
+  {
+    "word": "walk up to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đi bộ đến gần một người hoặc vật",
+    "example": "She walked up to the information desk.",
+    "exampleVi": "Cô ấy đi tới quầy thông tin."
+  },
+  {
+    "word": "walk away from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "rời bỏ một trách nhiệm hoặc tình huống",
+    "example": "He chose to walk away from a risky deal.",
+    "exampleVi": "Anh ấy chọn rút khỏi một thương vụ rủi ro."
+  },
+  {
+    "word": "walk out on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bỏ rơi người mình có trách nhiệm với họ",
+    "example": "She would never walk out on her children.",
+    "exampleVi": "Cô ấy sẽ không bao giờ bỏ rơi các con."
+  },
+  {
+    "word": "talk over",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "thảo luận kỹ để đi đến quyết định",
+    "example": "Let us talk over the options tonight.",
+    "exampleVi": "Tối nay chúng ta hãy bàn kỹ các phương án."
+  },
+  {
+    "word": "talk through",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "cùng trao đổi lần lượt về một vấn đề",
+    "example": "We should talk through the plan together.",
+    "exampleVi": "Chúng ta nên cùng bàn lần lượt về kế hoạch."
+  },
+  {
+    "word": "talk back",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "cãi lại một cách thiếu lễ phép",
+    "example": "Do not talk back to your parents.",
+    "exampleVi": "Đừng hỗn với cha mẹ."
+  },
+  {
+    "word": "talk down to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nói với ai bằng giọng coi thường",
+    "example": "Please do not talk down to me.",
+    "exampleVi": "Xin đừng nói với tôi bằng giọng coi thường."
+  },
+  {
+    "word": "talk with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "trò chuyện hoặc trao đổi với ai",
+    "example": "I need to talk with my supervisor.",
+    "exampleVi": "Tôi cần trao đổi với người giám sát."
+  },
+  {
+    "word": "help out",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "giúp khi ai đó đang thiếu người hoặc gặp khó",
+    "example": "Could you help out at the school fair?",
+    "exampleVi": "Bạn có thể phụ giúp hội chợ của trường không?"
+  },
+  {
+    "word": "help with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "giúp làm một công việc cụ thể",
+    "example": "Can you help with the dishes?",
+    "exampleVi": "Bạn có thể giúp rửa bát không?"
+  },
+  {
+    "word": "help up",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "giúp người bị ngã hoặc đang ngồi đứng dậy",
+    "example": "The fallen cyclist was helped up by a passerby.",
+    "exampleVi": "Người đi xe đạp bị ngã được một người qua đường đỡ dậy."
+  },
+  {
+    "word": "help along",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "giúp một việc tiến triển thuận lợi",
+    "example": "The project was helped along by a small grant.",
+    "exampleVi": "Một khoản tài trợ nhỏ đã giúp dự án tiến triển."
+  },
+  {
+    "word": "stay in",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "ở nhà thay vì ra ngoài",
+    "example": "We will stay in and watch a film.",
+    "exampleVi": "Chúng tôi sẽ ở nhà xem phim."
+  },
+  {
+    "word": "stay out",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "ở ngoài và chưa về nhà",
+    "example": "Do not stay out too late.",
+    "exampleVi": "Đừng ở ngoài quá khuya."
+  },
+  {
+    "word": "stay up",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "thức và chưa đi ngủ",
+    "example": "I cannot stay up all night.",
+    "exampleVi": "Tôi không thể thức cả đêm."
+  },
+  {
+    "word": "stay on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tiếp tục ở lại sau thời điểm dự định rời đi",
+    "example": "She decided to stay on for another month.",
+    "exampleVi": "Cô ấy quyết định ở lại thêm một tháng."
+  },
+  {
+    "word": "stay away",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "không đến gần hoặc không tham dự",
+    "example": "Please stay away if you are ill.",
+    "exampleVi": "Hãy không đến nếu bạn đang ốm."
+  },
+  {
+    "word": "stay behind",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "ở lại khi những người khác đã đi",
+    "example": "Two volunteers will stay behind to clean up.",
+    "exampleVi": "Hai tình nguyện viên sẽ ở lại để dọn dẹp."
+  },
+  {
+    "word": "stay over",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "ngủ lại nhà người khác",
+    "example": "You can stay over if you miss the last train.",
+    "exampleVi": "Bạn có thể ngủ lại nếu lỡ chuyến tàu cuối."
+  },
+  {
+    "word": "stay away from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tránh tiếp xúc với điều nguy hiểm hoặc không tốt",
+    "example": "Children should stay away from fireworks.",
+    "exampleVi": "Trẻ em nên tránh xa pháo hoa."
+  },
+  {
+    "word": "wait up",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "thức chờ người khác về",
+    "example": "Do not wait up; I will be late.",
+    "exampleVi": "Đừng thức chờ; tôi sẽ về muộn."
+  },
+  {
+    "word": "wait around",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đứng hoặc ngồi chờ mà chưa có việc làm",
+    "example": "We had to wait around for an hour.",
+    "exampleVi": "Chúng tôi đã phải chờ không suốt một giờ."
+  },
+  {
+    "word": "wait behind",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chờ ở phía sau một vị trí hoặc vật cản",
+    "example": "Please wait behind the yellow line.",
+    "exampleVi": "Hãy chờ phía sau vạch vàng."
+  },
+  {
+    "word": "wait up for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "thức để chờ ai về",
+    "example": "You do not need to wait up for me.",
+    "exampleVi": "Bạn không cần thức chờ tôi."
+  },
+  {
+    "word": "speak up",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nói to hơn để người khác nghe được",
+    "example": "Could you speak up a little?",
+    "exampleVi": "Bạn có thể nói to hơn một chút không?"
+  },
+  {
+    "word": "speak out",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "công khai nêu ý kiến hoặc sự phản đối",
+    "example": "More workers are willing to speak out.",
+    "exampleVi": "Nhiều người lao động hơn sẵn sàng lên tiếng."
+  },
+  {
+    "word": "speak with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nói chuyện hoặc trao đổi với ai",
+    "example": "May I speak with the manager?",
+    "exampleVi": "Tôi có thể nói chuyện với quản lý không?"
+  },
+  {
+    "word": "speak for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đại diện để phát biểu thay ai",
+    "example": "I cannot speak for the whole team.",
+    "exampleVi": "Tôi không thể phát biểu thay cả nhóm."
+  },
+  {
+    "word": "speak of",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nói đến; đề cập một điều",
+    "example": "They rarely speak of their childhood.",
+    "exampleVi": "Họ hiếm khi nói về thời thơ ấu."
+  },
+  {
+    "word": "speak out against",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "công khai lên tiếng phản đối",
+    "example": "We must speak out against discrimination.",
+    "exampleVi": "Chúng ta phải công khai phản đối sự phân biệt đối xử."
+  },
+  {
+    "word": "write down",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "ghi lại bằng chữ để khỏi quên",
+    "example": "Write down the address before you leave.",
+    "exampleVi": "Hãy ghi lại địa chỉ trước khi đi."
+  },
+  {
+    "word": "write up",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "viết thành một bản hoàn chỉnh từ ghi chép",
+    "example": "I need to write up my research notes.",
+    "exampleVi": "Tôi cần viết lại các ghi chép nghiên cứu thành bản hoàn chỉnh."
+  },
+  {
+    "word": "write out",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "viết đầy đủ thay vì dùng bản rút gọn",
+    "example": "Please write out your full name.",
+    "exampleVi": "Hãy viết đầy đủ họ tên của bạn."
+  },
+  {
+    "word": "write off",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "coi một khoản tiền là không thể thu hồi",
+    "example": "The bank may write off the debt.",
+    "exampleVi": "Ngân hàng có thể xóa khoản nợ không thể thu hồi."
+  },
+  {
+    "word": "write in",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "gửi thư cho một tổ chức hoặc chương trình",
+    "example": "Listeners can write in with their questions.",
+    "exampleVi": "Thính giả có thể gửi thư nêu câu hỏi."
+  },
+  {
+    "word": "write back",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "viết thư trả lời",
+    "example": "I will write back as soon as possible.",
+    "exampleVi": "Tôi sẽ viết thư trả lời sớm nhất có thể."
+  },
+  {
+    "word": "write to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "viết thư hoặc thông điệp gửi cho ai",
+    "example": "You should write to the admissions office.",
+    "exampleVi": "Bạn nên viết thư cho văn phòng tuyển sinh."
+  },
+  {
+    "word": "afraid for",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "lo sợ cho sự an toàn của ai",
+    "example": "I was afraid for the missing child's safety.",
+    "exampleVi": "Tôi đã lo sợ cho sự an toàn của đứa trẻ mất tích."
+  },
+  {
+    "word": "angry with",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "giận ai",
+    "example": "She was angry with her brother.",
+    "exampleVi": "Cô ấy giận anh trai."
+  },
+  {
+    "word": "angry at",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "tức giận vì một hành động hoặc tình huống",
+    "example": "He was angry at the unfair decision.",
+    "exampleVi": "Anh ấy tức giận vì quyết định bất công."
+  },
+  {
+    "word": "angry about",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "bực tức về một chuyện",
+    "example": "Residents are angry about the rising fees.",
+    "exampleVi": "Cư dân bực tức về việc phí tăng."
+  },
+  {
+    "word": "bored with",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "chán một thứ vì không còn thấy thú vị",
+    "example": "I am bored with the same routine.",
+    "exampleVi": "Tôi chán nếp sinh hoạt cứ lặp đi lặp lại."
+  },
+  {
+    "word": "bored by",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "cảm thấy chán do một điều gây ra",
+    "example": "The children were bored by the long speech.",
+    "exampleVi": "Bọn trẻ chán vì bài phát biểu quá dài."
+  },
+  {
+    "word": "careful with",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "cẩn thận khi dùng hoặc xử lý một thứ",
+    "example": "Be careful with that sharp knife.",
+    "exampleVi": "Hãy cẩn thận với con dao sắc đó."
+  },
+  {
+    "word": "careful about",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "thận trọng về một lựa chọn hoặc hành động",
+    "example": "Be careful about sharing personal information.",
+    "exampleVi": "Hãy thận trọng khi chia sẻ thông tin cá nhân."
+  },
+  {
+    "word": "friendly to",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "thân thiện trong cách đối xử với ai",
+    "example": "The staff were friendly to every visitor.",
+    "exampleVi": "Nhân viên thân thiện với mọi khách đến."
+  },
+  {
+    "word": "friendly with",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "có quan hệ thân thiện với ai",
+    "example": "She is friendly with everyone in the building.",
+    "exampleVi": "Cô ấy có quan hệ thân thiện với mọi người trong tòa nhà."
+  },
+  {
+    "word": "honest with",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "thành thật với ai",
+    "example": "Please be honest with me.",
+    "exampleVi": "Hãy thành thật với tôi."
+  },
+  {
+    "word": "honest about",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "không che giấu sự thật về một chuyện",
+    "example": "He was honest about his lack of experience.",
+    "exampleVi": "Anh ấy thành thật về việc thiếu kinh nghiệm."
+  },
+  {
+    "word": "loyal to",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "trung thành với người hoặc tổ chức",
+    "example": "She remains loyal to her friends.",
+    "exampleVi": "Cô ấy vẫn trung thành với bạn bè."
+  },
+  {
+    "word": "polite to",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "lịch sự khi đối xử với ai",
+    "example": "Always be polite to the staff.",
+    "exampleVi": "Luôn lịch sự với nhân viên."
+  },
+  {
+    "word": "rude to",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "thô lỗ khi đối xử với ai",
+    "example": "It is wrong to be rude to customers.",
+    "exampleVi": "Thô lỗ với khách hàng là sai."
+  },
+  {
+    "word": "rude about",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "nói năng thiếu tôn trọng về người hoặc thứ gì",
+    "example": "He was rude about her cooking.",
+    "exampleVi": "Anh ấy nói thiếu lịch sự về tài nấu ăn của cô ấy."
+  },
+  {
+    "word": "nervous about",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "lo lắng về một việc sắp xảy ra",
+    "example": "I am nervous about tomorrow's interview.",
+    "exampleVi": "Tôi lo về buổi phỏng vấn ngày mai."
+  },
+  {
+    "word": "nervous of",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "e ngại; thiếu tự tin khi đối diện điều gì",
+    "example": "She is nervous of speaking in public.",
+    "exampleVi": "Cô ấy e ngại việc nói trước đám đông."
+  },
+  {
+    "word": "jealous of",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "ghen tị với điều người khác có",
+    "example": "He was jealous of his sister's success.",
+    "exampleVi": "Anh ấy ghen tị với thành công của em gái."
+  },
+  {
+    "word": "suspicious of",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "nghi ngờ ý đồ hoặc độ tin cậy",
+    "example": "I am suspicious of offers that seem too good.",
+    "exampleVi": "Tôi nghi ngờ những lời mời chào nghe quá hấp dẫn."
+  },
+  {
+    "word": "conscious of",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "nhận thức được; ý thức về điều gì",
+    "example": "We are conscious of the risks.",
+    "exampleVi": "Chúng tôi nhận thức được những rủi ro."
+  },
+  {
+    "word": "ashamed of",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "xấu hổ về hành động hoặc tình trạng của mình",
+    "example": "He felt ashamed of his behavior.",
+    "exampleVi": "Anh ấy thấy xấu hổ về hành vi của mình."
+  },
+  {
+    "word": "good for",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "có lợi cho ai hoặc điều gì",
+    "example": "Regular exercise is good for your health.",
+    "exampleVi": "Tập thể dục thường xuyên có lợi cho sức khỏe."
+  },
+  {
+    "word": "good with",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "khéo léo hoặc giỏi khi làm việc với ai hay thứ gì",
+    "example": "She is good with young children.",
+    "exampleVi": "Cô ấy rất khéo khi làm việc với trẻ nhỏ."
+  },
+  {
+    "word": "bad for",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "có hại cho ai hoặc điều gì",
+    "example": "Too much noise is bad for your hearing.",
+    "exampleVi": "Tiếng ồn quá mức có hại cho thính giác."
+  },
+  {
+    "word": "bad with",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "không khéo hoặc không giỏi xử lý một thứ",
+    "example": "I am bad with names but remember faces.",
+    "exampleVi": "Tôi kém nhớ tên nhưng nhớ khuôn mặt."
+  },
+  {
+    "word": "curious about",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "tò mò; muốn tìm hiểu về điều gì",
+    "example": "The students are curious about space travel.",
+    "exampleVi": "Học sinh tò mò về du hành vũ trụ."
+  },
+  {
+    "word": "eager for",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "rất mong muốn hoặc háo hức đón nhận",
+    "example": "The team is eager for a fresh start.",
+    "exampleVi": "Nhóm háo hức mong một khởi đầu mới."
+  },
+  {
+    "word": "excited at",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "hào hứng trước một ý tưởng hoặc khả năng",
+    "example": "We were excited at the prospect of moving.",
+    "exampleVi": "Chúng tôi hào hứng trước viễn cảnh chuyển nhà."
+  },
+  {
+    "word": "excited by",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "phấn khích do điều gì đem lại",
+    "example": "The children were excited by the new playground.",
+    "exampleVi": "Bọn trẻ hào hứng vì sân chơi mới."
+  },
+  {
+    "word": "familiar to",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "quen thuộc đối với người nhận biết",
+    "example": "That melody is familiar to me.",
+    "exampleVi": "Giai điệu đó quen thuộc với tôi."
+  },
+  {
+    "word": "fond of",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "yêu thích hoặc có tình cảm trìu mến",
+    "example": "My grandfather is fond of gardening.",
+    "exampleVi": "Ông tôi thích làm vườn."
+  },
+  {
+    "word": "free from",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "không phải chịu hoặc không có điều không tốt",
+    "example": "The village is free from traffic noise.",
+    "exampleVi": "Ngôi làng không bị tiếng ồn giao thông làm phiền."
+  },
+  {
+    "word": "free of",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "không chứa hoặc không bị thứ gì",
+    "example": "This drink is free of added sugar.",
+    "exampleVi": "Đồ uống này không có đường bổ sung."
+  },
+  {
+    "word": "free with",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "hào phóng hoặc dễ dàng cho một thứ",
+    "example": "She is free with her advice.",
+    "exampleVi": "Cô ấy sẵn lòng cho lời khuyên."
+  },
+  {
+    "word": "grateful for",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "biết ơn về sự giúp đỡ hoặc điều nhận được",
+    "example": "We are grateful for your support.",
+    "exampleVi": "Chúng tôi biết ơn sự hỗ trợ của bạn."
+  },
+  {
+    "word": "grateful to",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "biết ơn một người hoặc tổ chức",
+    "example": "I am grateful to my first teacher.",
+    "exampleVi": "Tôi biết ơn người thầy đầu tiên."
+  },
+  {
+    "word": "guilty of",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "có lỗi hoặc phạm một hành vi",
+    "example": "The court found him guilty of fraud.",
+    "exampleVi": "Tòa xác định anh ta phạm tội gian lận."
+  },
+  {
+    "word": "guilty about",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "cảm thấy có lỗi về một việc",
+    "example": "I feel guilty about forgetting her birthday.",
+    "exampleVi": "Tôi thấy có lỗi vì quên sinh nhật cô ấy."
+  },
+  {
+    "word": "happy with",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "hài lòng với kết quả hoặc điều đang có",
+    "example": "Are you happy with your new job?",
+    "exampleVi": "Bạn có hài lòng với công việc mới không?"
+  },
+  {
+    "word": "happy about",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "vui mừng vì một sự việc",
+    "example": "We are happy about the good news.",
+    "exampleVi": "Chúng tôi vui mừng vì tin tốt."
+  },
+  {
+    "word": "happy for",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "vui mừng thay cho người khác",
+    "example": "I am happy for you both.",
+    "exampleVi": "Tôi vui mừng cho cả hai bạn."
+  },
+  {
+    "word": "late for",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "đến muộn so với thời điểm cần có mặt",
+    "example": "Do not be late for the meeting.",
+    "exampleVi": "Đừng đến muộn cuộc họp."
+  },
+  {
+    "word": "late with",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "chậm hoàn thành hoặc giao một thứ",
+    "example": "He was late with his final report.",
+    "exampleVi": "Anh ấy nộp báo cáo cuối cùng muộn."
+  },
+  {
+    "word": "ready for",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "sẵn sàng đón nhận hoặc thực hiện",
+    "example": "Are you ready for the next challenge?",
+    "exampleVi": "Bạn đã sẵn sàng cho thử thách tiếp theo chưa?"
+  },
+  {
+    "word": "responsible to",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "chịu trách nhiệm báo cáo với ai",
+    "example": "The director is responsible to the board.",
+    "exampleVi": "Giám đốc chịu trách nhiệm trước hội đồng quản trị."
+  },
+  {
+    "word": "safe from",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "được bảo vệ khỏi một mối nguy",
+    "example": "The documents are safe from water damage.",
+    "exampleVi": "Tài liệu được bảo vệ khỏi hư hỏng do nước."
+  },
+  {
+    "word": "safe for",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "không gây nguy hiểm cho đối tượng nào đó",
+    "example": "Is this toy safe for small children?",
+    "exampleVi": "Đồ chơi này có an toàn cho trẻ nhỏ không?"
+  },
+  {
+    "word": "satisfied by",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "được thỏa mãn hoặc giải đáp bởi điều gì",
+    "example": "I was satisfied by her clear explanation.",
+    "exampleVi": "Tôi đã thỏa mãn với lời giải thích rõ ràng của cô ấy."
+  },
+  {
+    "word": "serious about",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "thực sự có ý định hoặc coi trọng điều gì",
+    "example": "She is serious about learning English.",
+    "exampleVi": "Cô ấy nghiêm túc với việc học tiếng Anh."
+  },
+  {
+    "word": "similar in",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "giống nhau ở một đặc điểm",
+    "example": "The two phones are similar in size.",
+    "exampleVi": "Hai điện thoại giống nhau về kích thước."
+  },
+  {
+    "word": "tired from",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "mệt do một hoạt động hoặc nguyên nhân",
+    "example": "We were tired from the long walk.",
+    "exampleVi": "Chúng tôi mệt vì đi bộ đường dài."
+  },
+  {
+    "word": "worthy of",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "xứng đáng nhận được điều gì",
+    "example": "This achievement is worthy of recognition.",
+    "exampleVi": "Thành tích này xứng đáng được ghi nhận."
+  },
+  {
+    "word": "anxious about",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "lo lắng về một vấn đề",
+    "example": "Parents are anxious about the test results.",
+    "exampleVi": "Phụ huynh lo lắng về kết quả kiểm tra."
+  },
+  {
+    "word": "anxious for",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "mong mỏi một điều hoặc lo cho ai",
+    "example": "Everyone is anxious for news of the rescue.",
+    "exampleVi": "Mọi người đều mong ngóng tin cứu hộ."
+  },
+  {
+    "word": "available for",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "sẵn sàng để làm hoặc sử dụng cho việc gì",
+    "example": "This room is available for private meetings.",
+    "exampleVi": "Phòng này có thể dùng cho các cuộc họp riêng."
+  },
+  {
+    "word": "available to",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "có thể được một đối tượng tiếp cận hoặc sử dụng",
+    "example": "The guide is available to all students.",
+    "exampleVi": "Mọi sinh viên đều có thể tiếp cận tài liệu hướng dẫn."
+  },
+  {
+    "word": "busy with",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "bận làm hoặc xử lý việc gì",
+    "example": "She is busy with her final project.",
+    "exampleVi": "Cô ấy đang bận làm dự án cuối khóa."
+  },
+  {
+    "word": "concerned with",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "liên quan đến; tập trung vào một chủ đề",
+    "example": "This chapter is concerned with water pollution.",
+    "exampleVi": "Chương này tập trung vào ô nhiễm nước."
+  },
+  {
+    "word": "concerned for",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "lo lắng cho sự an toàn hoặc lợi ích của ai",
+    "example": "We are concerned for the missing hikers.",
+    "exampleVi": "Chúng tôi lo cho những người đi bộ đường dài mất tích."
+  },
+  {
+    "word": "desperate for",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "rất cần một thứ đến mức khẩn thiết",
+    "example": "The village is desperate for clean water.",
+    "exampleVi": "Ngôi làng đang rất cần nước sạch."
+  },
+  {
+    "word": "devoted to",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "tận tâm; dành nhiều tình cảm hoặc công sức",
+    "example": "He is devoted to his family.",
+    "exampleVi": "Anh ấy hết lòng vì gia đình."
+  },
+  {
+    "word": "equal to",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "bằng về giá trị, mức độ hoặc số lượng",
+    "example": "One meter is equal to one hundred centimeters.",
+    "exampleVi": "Một mét bằng một trăm xăng-ti-mét."
+  },
+  {
+    "word": "equal in",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "ngang nhau ở một đặc điểm",
+    "example": "The two groups are equal in size.",
+    "exampleVi": "Hai nhóm có quy mô bằng nhau."
+  },
+  {
+    "word": "essential for",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "cần thiết để một việc xảy ra hoặc thành công",
+    "example": "Sleep is essential for healthy development.",
+    "exampleVi": "Giấc ngủ cần thiết cho sự phát triển khỏe mạnh."
+  },
+  {
+    "word": "essential to",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "không thể thiếu đối với một hoạt động hoặc hệ thống",
+    "example": "Trust is essential to a good partnership.",
+    "exampleVi": "Sự tin cậy là điều không thể thiếu trong một quan hệ hợp tác tốt."
+  },
+  {
+    "word": "independent of",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "không phụ thuộc vào một yếu tố khác",
+    "example": "The result is independent of age.",
+    "exampleVi": "Kết quả không phụ thuộc vào tuổi tác."
+  },
+  {
+    "word": "kind to",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "tử tế trong cách đối xử với ai",
+    "example": "Please be kind to the new student.",
+    "exampleVi": "Hãy đối xử tử tế với học sinh mới."
+  },
+  {
+    "word": "kind of",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "tử tế khi làm điều gì, dùng trong cấu trúc it is kind of someone to do something",
+    "example": "It was kind of you to help us.",
+    "exampleVi": "Bạn thật tử tế khi giúp chúng tôi."
+  },
+  {
+    "word": "limited to",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "chỉ giới hạn trong một phạm vi",
+    "example": "Access is limited to registered users.",
+    "exampleVi": "Quyền truy cập chỉ dành cho người dùng đã đăng ký."
+  },
+  {
+    "word": "limited by",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "bị hạn chế bởi một yếu tố",
+    "example": "Our choices are limited by the budget.",
+    "exampleVi": "Lựa chọn của chúng ta bị ngân sách hạn chế."
+  },
+  {
+    "word": "opposed to",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "phản đối một ý tưởng hoặc hành động",
+    "example": "Many residents are opposed to the new road.",
+    "exampleVi": "Nhiều cư dân phản đối con đường mới."
+  },
+  {
+    "word": "patient with",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "kiên nhẫn khi đối xử với ai",
+    "example": "The nurse was patient with the nervous child.",
+    "exampleVi": "Y tá kiên nhẫn với đứa trẻ lo lắng."
+  },
+  {
+    "word": "qualified for",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "có đủ trình độ hoặc điều kiện cho một vị trí",
+    "example": "She is well qualified for the role.",
+    "exampleVi": "Cô ấy có đầy đủ năng lực cho vai trò đó."
+  },
+  {
+    "word": "relevant to",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "có liên quan và hữu ích đối với vấn đề nào đó",
+    "example": "Your experience is relevant to this position.",
+    "exampleVi": "Kinh nghiệm của bạn phù hợp với vị trí này."
+  },
+  {
+    "word": "sensitive to",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "nhạy cảm hoặc dễ phản ứng với tác động",
+    "example": "My skin is sensitive to strong sunlight.",
+    "exampleVi": "Da tôi nhạy cảm với ánh nắng mạnh."
+  },
+  {
+    "word": "sensitive about",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "dễ thấy khó chịu khi một chủ đề bị nhắc tới",
+    "example": "He is sensitive about his age.",
+    "exampleVi": "Anh ấy dễ khó chịu khi bị nhắc đến tuổi."
+  },
+  {
+    "word": "shocked by",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "bị sốc do một sự kiện gây ra",
+    "example": "We were shocked by the sudden closure.",
+    "exampleVi": "Chúng tôi bị sốc vì việc đóng cửa đột ngột."
+  },
+  {
+    "word": "shocked at",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "sửng sốt trước một tình huống hoặc mức độ",
+    "example": "She was shocked at the size of the bill.",
+    "exampleVi": "Cô ấy sửng sốt trước số tiền trên hóa đơn."
+  },
+  {
+    "word": "sick of",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "chán ngấy; không chịu nổi một việc lặp lại",
+    "example": "I am sick of hearing the same excuse.",
+    "exampleVi": "Tôi chán ngấy việc nghe cùng một lời bào chữa."
+  },
+  {
+    "word": "care",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "quan tâm; chăm lo",
+    "example": "I care about your safety.",
+    "exampleVi": "Tôi quan tâm đến sự an toàn của bạn."
+  },
+  {
+    "word": "believe",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tin; cho là đúng",
+    "example": "I believe your story.",
+    "exampleVi": "Tôi tin câu chuyện của bạn."
+  },
+  {
+    "word": "prepare",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chuẩn bị",
+    "example": "We prepare dinner together.",
+    "exampleVi": "Chúng tôi cùng chuẩn bị bữa tối."
+  },
+  {
+    "word": "hope",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "hy vọng",
+    "example": "I hope you feel better soon.",
+    "exampleVi": "Tôi hy vọng bạn sớm khỏe hơn."
+  },
+  {
+    "word": "consist",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bao gồm, thường đi với of",
+    "example": "The team consists of five people.",
+    "exampleVi": "Đội gồm năm người."
+  },
+  {
+    "word": "dream",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "mơ; mong ước",
+    "example": "I dream about traveling the world.",
+    "exampleVi": "Tôi mơ được đi khắp thế giới."
+  },
+  {
+    "word": "result",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "dẫn đến; xảy ra do",
+    "example": "Delays can result from bad weather.",
+    "exampleVi": "Sự chậm trễ có thể xảy ra do thời tiết xấu."
+  },
+  {
+    "word": "agree",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đồng ý; tán thành",
+    "example": "I agree with your suggestion.",
+    "exampleVi": "Tôi đồng ý với đề xuất của bạn."
+  },
+  {
+    "word": "talk",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nói chuyện; trao đổi",
+    "example": "We talk every evening.",
+    "exampleVi": "Chúng tôi nói chuyện mỗi tối."
+  },
+  {
+    "word": "laugh",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "cười",
+    "example": "The children laugh at the funny story.",
+    "exampleVi": "Lũ trẻ cười khi nghe câu chuyện vui."
+  },
+  {
+    "word": "smile",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "mỉm cười",
+    "example": "She smiles when she sees her friends.",
+    "exampleVi": "Cô ấy mỉm cười khi nhìn thấy bạn bè."
+  },
+  {
+    "word": "arrive",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đến; tới nơi",
+    "example": "We arrive before noon.",
+    "exampleVi": "Chúng tôi đến trước buổi trưa."
+  },
+  {
+    "word": "refer",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đề cập; chỉ dẫn tới",
+    "example": "Please refer to the instructions.",
+    "exampleVi": "Vui lòng xem phần hướng dẫn."
+  },
+  {
+    "word": "account",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "giải thích; chiếm một phần, thường đi với for",
+    "example": "Online sales account for half our revenue.",
+    "exampleVi": "Doanh số trực tuyến chiếm một nửa doanh thu của chúng tôi."
+  },
+  {
+    "word": "count",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đếm; tính số lượng",
+    "example": "Can you count the chairs?",
+    "exampleVi": "Bạn có thể đếm số ghế không?"
+  },
+  {
+    "word": "catch",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bắt; đón; kịp lên phương tiện",
+    "example": "We need to catch the last bus.",
+    "exampleVi": "Chúng ta cần kịp lên chuyến xe buýt cuối."
+  },
+  {
+    "word": "provide",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "cung cấp",
+    "example": "The hotel provides clean towels.",
+    "exampleVi": "Khách sạn cung cấp khăn sạch."
+  },
+  {
+    "word": "worry",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "lo lắng; làm lo lắng",
+    "example": "Please do not worry about me.",
+    "exampleVi": "Xin đừng lo cho tôi."
+  },
+  {
+    "word": "decide",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "quyết định",
+    "example": "We need to decide today.",
+    "exampleVi": "Chúng ta cần quyết định hôm nay."
+  },
+  {
+    "word": "vote",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bỏ phiếu; biểu quyết",
+    "example": "Members vote on the proposal tomorrow.",
+    "exampleVi": "Các thành viên bỏ phiếu về đề xuất vào ngày mai."
+  },
+  {
+    "word": "abstain",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "kiêng; tự nguyện không tham gia, thường đi với from",
+    "example": "Two members chose to abstain from voting.",
+    "exampleVi": "Hai thành viên chọn không tham gia bỏ phiếu."
+  },
+  {
+    "word": "stem",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bắt nguồn, thường đi với from",
+    "example": "These problems stem from poor planning.",
+    "exampleVi": "Những vấn đề này bắt nguồn từ việc lập kế hoạch kém."
+  },
+  {
+    "word": "collaborate",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "hợp tác; cộng tác",
+    "example": "The two teams collaborate on research.",
+    "exampleVi": "Hai đội hợp tác nghiên cứu."
+  },
+  {
+    "word": "connect",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "kết nối; nối lại",
+    "example": "Connect the cable to your computer.",
+    "exampleVi": "Hãy nối cáp với máy tính của bạn."
+  },
+  {
+    "word": "add",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "thêm; cộng",
+    "example": "Add a little salt to the soup.",
+    "exampleVi": "Thêm một chút muối vào món súp."
+  },
+  {
+    "word": "amount",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "lên tới; tương đương, đi với to",
+    "example": "The repairs amount to two hundred dollars.",
+    "exampleVi": "Chi phí sửa chữa lên tới hai trăm đô la."
+  },
+  {
+    "word": "interested",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "quan tâm; có hứng thú",
+    "example": "She is interested in science.",
+    "exampleVi": "Cô ấy có hứng thú với khoa học."
+  },
+  {
+    "word": "good",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "tốt; giỏi",
+    "example": "This is a good idea.",
+    "exampleVi": "Đây là một ý tưởng hay."
+  },
+  {
+    "word": "bad",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "xấu; tệ; kém",
+    "example": "The weather is bad today.",
+    "exampleVi": "Thời tiết hôm nay xấu."
+  },
+  {
+    "word": "different",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "khác; khác biệt",
+    "example": "We have different opinions.",
+    "exampleVi": "Chúng tôi có những ý kiến khác nhau."
+  },
+  {
+    "word": "disappointed",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "thất vọng",
+    "example": "She was disappointed with the result.",
+    "exampleVi": "Cô ấy thất vọng với kết quả."
+  },
+  {
+    "word": "allergic",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "bị dị ứng",
+    "example": "He is allergic to peanuts.",
+    "exampleVi": "Anh ấy bị dị ứng với đậu phộng."
+  }
+]

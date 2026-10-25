@@ -1,0 +1,4666 @@
+[
+  {
+    "word": "do",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "làm; thực hiện",
+    "example": "I did the dishes after dinner.",
+    "exampleVi": "Tôi rửa bát sau bữa tối."
+  },
+  {
+    "word": "do",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "thích hợp; đủ dùng",
+    "example": "This small table will do for our meeting.",
+    "exampleVi": "Chiếc bàn nhỏ này đủ dùng cho cuộc họp của chúng tôi."
+  },
+  {
+    "word": "go",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "đi",
+    "example": "We went to the station by bus.",
+    "exampleVi": "Chúng tôi đi xe buýt đến nhà ga."
+  },
+  {
+    "word": "go",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "diễn ra",
+    "example": "The interview went well.",
+    "exampleVi": "Buổi phỏng vấn diễn ra thuận lợi."
+  },
+  {
+    "word": "come",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "đến",
+    "example": "She came to the meeting early.",
+    "exampleVi": "Cô ấy đến cuộc họp sớm."
+  },
+  {
+    "word": "come",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "có nguồn gốc từ",
+    "example": "These oranges come from Spain.",
+    "exampleVi": "Những quả cam này có nguồn gốc từ Tây Ban Nha."
+  },
+  {
+    "word": "put",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "đặt; để",
+    "example": "He put his keys on the table.",
+    "exampleVi": "Anh ấy đặt chìa khóa lên bàn."
+  },
+  {
+    "word": "put",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "diễn đạt",
+    "example": "She put her thoughts into simple words.",
+    "exampleVi": "Cô ấy diễn đạt suy nghĩ bằng những từ đơn giản."
+  },
+  {
+    "word": "let",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "cho phép; để cho",
+    "example": "My parents let me borrow their car.",
+    "exampleVi": "Bố mẹ cho phép tôi mượn xe của họ."
+  },
+  {
+    "word": "let",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "cho thuê",
+    "example": "They let a room to a student.",
+    "exampleVi": "Họ cho một sinh viên thuê phòng."
+  },
+  {
+    "word": "say",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "nói",
+    "example": "She said that the shop was closed.",
+    "exampleVi": "Cô ấy nói rằng cửa hàng đã đóng cửa."
+  },
+  {
+    "word": "say",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "quyền tham gia ý kiến",
+    "example": "Everyone should have a say in the decision.",
+    "exampleVi": "Mọi người nên được tham gia ý kiến về quyết định."
+  },
+  {
+    "word": "eat",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "ăn",
+    "example": "We ate lunch before leaving.",
+    "exampleVi": "Chúng tôi ăn trưa trước khi rời đi."
+  },
+  {
+    "word": "drink",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "uống",
+    "example": "He drank a glass of water.",
+    "exampleVi": "Anh ấy uống một cốc nước."
+  },
+  {
+    "word": "drink",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "đồ uống",
+    "example": "Would you like a cold drink?",
+    "exampleVi": "Bạn có muốn một đồ uống lạnh không?"
+  },
+  {
+    "word": "sleep",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "ngủ",
+    "example": "The baby slept for two hours.",
+    "exampleVi": "Em bé ngủ trong hai giờ."
+  },
+  {
+    "word": "sleep",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "giấc ngủ; việc ngủ",
+    "example": "I need more sleep before the trip.",
+    "exampleVi": "Tôi cần ngủ thêm trước chuyến đi."
+  },
+  {
+    "word": "watch",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "xem; theo dõi",
+    "example": "We watched a film together.",
+    "exampleVi": "Chúng tôi cùng xem một bộ phim."
+  },
+  {
+    "word": "watch",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "đồng hồ đeo tay",
+    "example": "My watch shows the wrong time.",
+    "exampleVi": "Đồng hồ đeo tay của tôi chỉ sai giờ."
+  },
+  {
+    "word": "walk",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "đi bộ",
+    "example": "She walked to work this morning.",
+    "exampleVi": "Sáng nay cô ấy đi bộ đến nơi làm việc."
+  },
+  {
+    "word": "walk",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "cuộc đi bộ",
+    "example": "We went for a short walk after dinner.",
+    "exampleVi": "Chúng tôi đi bộ một lúc sau bữa tối."
+  },
+  {
+    "word": "run",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "chạy",
+    "example": "He ran to catch the bus.",
+    "exampleVi": "Anh ấy chạy để kịp xe buýt."
+  },
+  {
+    "word": "run",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "cuộc chạy; lần chạy bộ",
+    "example": "She goes for a run every morning.",
+    "exampleVi": "Cô ấy chạy bộ mỗi sáng."
+  },
+  {
+    "word": "stand",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "đứng",
+    "example": "We stood near the entrance.",
+    "exampleVi": "Chúng tôi đứng gần lối vào."
+  },
+  {
+    "word": "stand",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "quầy bán hàng",
+    "example": "We bought fruit from a market stand.",
+    "exampleVi": "Chúng tôi mua trái cây ở một quầy trong chợ."
+  },
+  {
+    "word": "wear",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "mặc; đeo",
+    "example": "She wore a blue shirt to the interview.",
+    "exampleVi": "Cô ấy mặc áo sơ mi xanh đến buổi phỏng vấn."
+  },
+  {
+    "word": "wear",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "sự mài mòn",
+    "example": "The old shoes show signs of wear.",
+    "exampleVi": "Đôi giày cũ có dấu hiệu mài mòn."
+  },
+  {
+    "word": "drive",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "lái xe",
+    "example": "He drove us to the airport.",
+    "exampleVi": "Anh ấy lái xe đưa chúng tôi đến sân bay."
+  },
+  {
+    "word": "drive",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "chuyến đi bằng ô tô",
+    "example": "The drive to the airport took an hour.",
+    "exampleVi": "Chuyến đi ô tô đến sân bay mất một giờ."
+  },
+  {
+    "word": "ride",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "đi xe; cưỡi",
+    "example": "She rode her bicycle to school.",
+    "exampleVi": "Cô ấy đạp xe đến trường."
+  },
+  {
+    "word": "ride",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "chuyến đi bằng phương tiện",
+    "example": "Can you give me a ride to the station?",
+    "exampleVi": "Bạn có thể cho tôi đi nhờ đến nhà ga không?"
+  },
+  {
+    "word": "meet",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "gặp",
+    "example": "I met my cousin at the station.",
+    "exampleVi": "Tôi gặp người anh em họ ở nhà ga."
+  },
+  {
+    "word": "start",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "bắt đầu",
+    "example": "The lesson started at nine.",
+    "exampleVi": "Buổi học bắt đầu lúc chín giờ."
+  },
+  {
+    "word": "start",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "sự khởi đầu",
+    "example": "The project had a slow start.",
+    "exampleVi": "Dự án có một khởi đầu chậm."
+  },
+  {
+    "word": "stop",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "dừng",
+    "example": "The bus stopped outside the school.",
+    "exampleVi": "Xe buýt dừng bên ngoài trường."
+  },
+  {
+    "word": "stop",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "điểm dừng",
+    "example": "Our stop is after the bridge.",
+    "exampleVi": "Điểm dừng của chúng tôi ở sau cây cầu."
+  },
+  {
+    "word": "wait",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "chờ",
+    "example": "We waited for the next train.",
+    "exampleVi": "Chúng tôi chờ chuyến tàu tiếp theo."
+  },
+  {
+    "word": "wait",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "khoảng thời gian chờ",
+    "example": "There was a long wait at the clinic.",
+    "exampleVi": "Phải chờ khá lâu ở phòng khám."
+  },
+  {
+    "word": "learn",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "học",
+    "example": "She learned how to use the new software.",
+    "exampleVi": "Cô ấy học cách sử dụng phần mềm mới."
+  },
+  {
+    "word": "teach",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "dạy",
+    "example": "He taught us how to make bread.",
+    "exampleVi": "Anh ấy dạy chúng tôi cách làm bánh mì."
+  },
+  {
+    "word": "live",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "sống; sinh sống",
+    "example": "They lived near the city center.",
+    "exampleVi": "Họ sống gần trung tâm thành phố."
+  },
+  {
+    "word": "live",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "trực tiếp",
+    "example": "We watched a live broadcast of the match.",
+    "exampleVi": "Chúng tôi xem buổi phát sóng trực tiếp trận đấu."
+  },
+  {
+    "word": "live",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "còn sống",
+    "example": "The market sells live fish.",
+    "exampleVi": "Chợ bán cá còn sống."
+  },
+  {
+    "word": "love",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "yêu",
+    "example": "She loves her family very much.",
+    "exampleVi": "Cô ấy rất yêu gia đình của mình."
+  },
+  {
+    "word": "love",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "tình yêu; sự yêu thương",
+    "example": "Her love for her family is clear.",
+    "exampleVi": "Tình yêu cô ấy dành cho gia đình rất rõ ràng."
+  },
+  {
+    "word": "like",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "thích",
+    "example": "I like reading before bed.",
+    "exampleVi": "Tôi thích đọc sách trước khi ngủ."
+  },
+  {
+    "word": "like",
+    "sourceGroup": "everyday-500",
+    "pos": "preposition",
+    "meaningVi": "giống như",
+    "example": "This bag looks like mine.",
+    "exampleVi": "Chiếc túi này trông giống túi của tôi."
+  },
+  {
+    "word": "call",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "gọi điện",
+    "example": "He called me after the meeting.",
+    "exampleVi": "Anh ấy gọi điện cho tôi sau cuộc họp."
+  },
+  {
+    "word": "call",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "cuộc gọi",
+    "example": "I missed your call this morning.",
+    "exampleVi": "Sáng nay tôi lỡ cuộc gọi của bạn."
+  },
+  {
+    "word": "call",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "gọi tên; gọi là",
+    "example": "People call him Tom.",
+    "exampleVi": "Mọi người gọi anh ấy là Tom."
+  },
+  {
+    "word": "move",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "di chuyển",
+    "example": "We moved the table closer to the window.",
+    "exampleVi": "Chúng tôi chuyển bàn đến gần cửa sổ hơn."
+  },
+  {
+    "word": "move",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "nước cờ",
+    "example": "That was a clever move in the game.",
+    "exampleVi": "Đó là một nước cờ thông minh trong ván chơi."
+  },
+  {
+    "word": "turn",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "rẽ",
+    "example": "Turn left at the next junction.",
+    "exampleVi": "Hãy rẽ trái ở chỗ giao đường tiếp theo."
+  },
+  {
+    "word": "turn",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "lượt",
+    "example": "It is your turn to speak.",
+    "exampleVi": "Đến lượt bạn nói."
+  },
+  {
+    "word": "turn",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "xoay",
+    "example": "Turn the handle slowly.",
+    "exampleVi": "Hãy xoay tay cầm từ từ."
+  },
+  {
+    "word": "hold",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "cầm; giữ",
+    "example": "She held the baby carefully.",
+    "exampleVi": "Cô ấy bế em bé cẩn thận."
+  },
+  {
+    "word": "carry",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "mang; vác",
+    "example": "He carried the suitcase upstairs.",
+    "exampleVi": "Anh ấy mang va li lên tầng trên."
+  },
+  {
+    "word": "send",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "gửi",
+    "example": "I sent the documents by email.",
+    "exampleVi": "Tôi gửi tài liệu qua email."
+  },
+  {
+    "word": "receive",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "nhận",
+    "example": "We received your message yesterday.",
+    "exampleVi": "Hôm qua chúng tôi nhận được tin nhắn của bạn."
+  },
+  {
+    "word": "win",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "thắng",
+    "example": "Our team won the match.",
+    "exampleVi": "Đội của chúng tôi thắng trận đấu."
+  },
+  {
+    "word": "win",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "chiến thắng",
+    "example": "The team celebrated its first win.",
+    "exampleVi": "Đội ăn mừng chiến thắng đầu tiên."
+  },
+  {
+    "word": "lose",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "mất; làm mất",
+    "example": "I lost my wallet on the bus.",
+    "exampleVi": "Tôi làm mất ví trên xe buýt."
+  },
+  {
+    "word": "lose",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "thua",
+    "example": "We lost the match by one point.",
+    "exampleVi": "Chúng tôi thua trận đấu một điểm."
+  },
+  {
+    "word": "build",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "xây dựng",
+    "example": "They built a small house near the river.",
+    "exampleVi": "Họ xây một ngôi nhà nhỏ gần sông."
+  },
+  {
+    "word": "break",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "làm vỡ; làm hỏng",
+    "example": "I broke a glass while washing it.",
+    "exampleVi": "Tôi làm vỡ một chiếc cốc khi rửa."
+  },
+  {
+    "word": "break",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "khoảng nghỉ",
+    "example": "Let us take a short break.",
+    "exampleVi": "Chúng ta nghỉ một chút nhé."
+  },
+  {
+    "word": "cut",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "cắt",
+    "example": "She cut the bread into slices.",
+    "exampleVi": "Cô ấy cắt bánh mì thành từng lát."
+  },
+  {
+    "word": "cut",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "vết cắt",
+    "example": "He has a small cut on his finger.",
+    "exampleVi": "Anh ấy có một vết cắt nhỏ ở ngón tay."
+  },
+  {
+    "word": "show",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "cho xem; chỉ cho",
+    "example": "He showed me how to use the machine.",
+    "exampleVi": "Anh ấy chỉ cho tôi cách dùng máy."
+  },
+  {
+    "word": "show",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "buổi biểu diễn",
+    "example": "We enjoyed the show last night.",
+    "exampleVi": "Chúng tôi thích buổi biểu diễn tối qua."
+  },
+  {
+    "word": "feel",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "cảm thấy",
+    "example": "I felt tired after the journey.",
+    "exampleVi": "Tôi thấy mệt sau chuyến đi."
+  },
+  {
+    "word": "happen",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "xảy ra",
+    "example": "The accident happened near the station.",
+    "exampleVi": "Tai nạn xảy ra gần nhà ga."
+  },
+  {
+    "word": "become",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "trở nên",
+    "example": "She became a teacher after college.",
+    "exampleVi": "Cô ấy trở thành giáo viên sau khi học đại học."
+  },
+  {
+    "word": "understand",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "hiểu",
+    "example": "I understood the instructions after reading them twice.",
+    "exampleVi": "Tôi hiểu hướng dẫn sau khi đọc hai lần."
+  },
+  {
+    "word": "seem",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "có vẻ",
+    "example": "The problem seems easy to solve.",
+    "exampleVi": "Vấn đề có vẻ dễ giải quyết."
+  },
+  {
+    "word": "stay",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "ở lại",
+    "example": "We stayed at a small hotel.",
+    "exampleVi": "Chúng tôi ở một khách sạn nhỏ."
+  },
+  {
+    "word": "return",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "trở về",
+    "example": "He returned home before dark.",
+    "exampleVi": "Anh ấy trở về nhà trước khi trời tối."
+  },
+  {
+    "word": "return",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "trả lại",
+    "example": "Please return the book tomorrow.",
+    "exampleVi": "Hãy trả lại sách vào ngày mai."
+  },
+  {
+    "word": "change",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "thay đổi",
+    "example": "We changed our plans because of the rain.",
+    "exampleVi": "Chúng tôi thay đổi kế hoạch vì mưa."
+  },
+  {
+    "word": "change",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "tiền thối lại; tiền lẻ",
+    "example": "The cashier gave me the correct change.",
+    "exampleVi": "Thu ngân đưa đúng tiền thối lại cho tôi."
+  },
+  {
+    "word": "change",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "sự thay đổi; thay đổi cụ thể",
+    "example": "We made several changes to the plan.",
+    "exampleVi": "Chúng tôi thực hiện vài thay đổi trong kế hoạch."
+  },
+  {
+    "word": "look",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "nhìn",
+    "example": "Look at the sign above the door.",
+    "exampleVi": "Hãy nhìn biển phía trên cửa."
+  },
+  {
+    "word": "look",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "cái nhìn; lần nhìn",
+    "example": "Have a look at this picture.",
+    "exampleVi": "Hãy xem bức ảnh này."
+  },
+  {
+    "word": "see",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "nhìn thấy",
+    "example": "I saw a bird outside the window.",
+    "exampleVi": "Tôi nhìn thấy một con chim ngoài cửa sổ."
+  },
+  {
+    "word": "see",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "hiểu; nhận ra",
+    "example": "I see what you mean now.",
+    "exampleVi": "Bây giờ tôi hiểu ý bạn."
+  },
+  {
+    "word": "hear",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "nghe thấy",
+    "example": "We heard a strange noise downstairs.",
+    "exampleVi": "Chúng tôi nghe thấy một tiếng động lạ ở tầng dưới."
+  },
+  {
+    "word": "touch",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "chạm",
+    "example": "Do not touch the hot pan.",
+    "exampleVi": "Đừng chạm vào chiếc chảo nóng."
+  },
+  {
+    "word": "touch",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "sự chạm; cái chạm",
+    "example": "The phone responds to a light touch.",
+    "exampleVi": "Điện thoại phản hồi khi chạm nhẹ."
+  },
+  {
+    "word": "cushion",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "đệm tựa; gối tựa",
+    "example": "Put a cushion behind your back.",
+    "exampleVi": "Hãy đặt một chiếc gối tựa sau lưng."
+  },
+  {
+    "word": "cushion",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "làm giảm tác động",
+    "example": "The soft material cushions the impact.",
+    "exampleVi": "Vật liệu mềm làm giảm tác động."
+  },
+  {
+    "word": "duvet",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "chăn bông có vỏ tháo rời",
+    "example": "The duvet keeps me warm at night.",
+    "exampleVi": "Chăn bông giữ ấm cho tôi vào ban đêm."
+  },
+  {
+    "word": "razor",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "dao cạo",
+    "example": "He bought a new razor this morning.",
+    "exampleVi": "Sáng nay anh ấy mua một chiếc dao cạo mới."
+  },
+  {
+    "word": "trash can",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "thùng rác",
+    "example": "Put the empty carton in the trash can.",
+    "exampleVi": "Hãy bỏ hộp giấy rỗng vào thùng rác."
+  },
+  {
+    "word": "ironing board",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "bàn để là quần áo",
+    "example": "Set up the ironing board before ironing your shirt.",
+    "exampleVi": "Hãy mở bàn để là quần áo trước khi là áo sơ mi."
+  },
+  {
+    "word": "clothes hanger",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "móc treo quần áo",
+    "example": "Hang the jacket on a clothes hanger.",
+    "exampleVi": "Hãy treo áo khoác lên móc quần áo."
+  },
+  {
+    "word": "laundry basket",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "giỏ đựng quần áo cần giặt",
+    "example": "Put the dirty towels in the laundry basket.",
+    "exampleVi": "Hãy bỏ khăn bẩn vào giỏ đựng đồ cần giặt."
+  },
+  {
+    "word": "cutting board",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "thớt",
+    "example": "Use a cutting board when chopping vegetables.",
+    "exampleVi": "Hãy dùng thớt khi thái rau."
+  },
+  {
+    "word": "can opener",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "dụng cụ mở đồ hộp",
+    "example": "I opened the tin with a can opener.",
+    "exampleVi": "Tôi mở hộp bằng dụng cụ mở đồ hộp."
+  },
+  {
+    "word": "bottle opener",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "dụng cụ mở nắp chai",
+    "example": "We need a bottle opener for these bottles.",
+    "exampleVi": "Chúng ta cần dụng cụ mở nắp cho những chai này."
+  },
+  {
+    "word": "corkscrew",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "dụng cụ mở nút chai rượu",
+    "example": "He removed the cork with a corkscrew.",
+    "exampleVi": "Anh ấy dùng dụng cụ mở nút chai để lấy nút ra."
+  },
+  {
+    "word": "colander",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "rổ dùng để ráo nước",
+    "example": "Drain the pasta in a colander.",
+    "exampleVi": "Hãy đổ mì Ý vào rổ để ráo nước."
+  },
+  {
+    "word": "strainer",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "dụng cụ lọc; rây lọc",
+    "example": "Pour the tea through a strainer.",
+    "exampleVi": "Hãy rót trà qua dụng cụ lọc."
+  },
+  {
+    "word": "ladle",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "muôi; vá múc canh",
+    "example": "Use a ladle to serve the soup.",
+    "exampleVi": "Hãy dùng muôi để múc súp."
+  },
+  {
+    "word": "spatula",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "xẻng dùng khi nấu ăn",
+    "example": "Turn the pancake with a spatula.",
+    "exampleVi": "Hãy dùng xẻng nấu ăn để lật bánh."
+  },
+  {
+    "word": "whisk",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "phới đánh trứng",
+    "example": "Mix the eggs with a whisk.",
+    "exampleVi": "Hãy dùng phới để đánh trứng."
+  },
+  {
+    "word": "whisk",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "đánh; khuấy nhanh",
+    "example": "Whisk the eggs until smooth.",
+    "exampleVi": "Hãy đánh trứng cho đều."
+  },
+  {
+    "word": "doorknob",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "tay nắm cửa dạng núm",
+    "example": "The doorknob is loose.",
+    "exampleVi": "Núm tay nắm cửa bị lỏng."
+  },
+  {
+    "word": "doorbell",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "chuông cửa",
+    "example": "Someone rang the doorbell.",
+    "exampleVi": "Có người bấm chuông cửa."
+  },
+  {
+    "word": "doormat",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "thảm chùi chân",
+    "example": "Wipe your shoes on the doormat.",
+    "exampleVi": "Hãy chùi giày trên thảm trước cửa."
+  },
+  {
+    "word": "balcony",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "ban công",
+    "example": "We ate breakfast on the balcony.",
+    "exampleVi": "Chúng tôi ăn sáng ngoài ban công."
+  },
+  {
+    "word": "stair",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "bậc cầu thang",
+    "example": "Be careful on the last stair.",
+    "exampleVi": "Hãy cẩn thận ở bậc cầu thang cuối cùng."
+  },
+  {
+    "word": "staircase",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "cầu thang gồm các bậc và kết cấu đi kèm",
+    "example": "A wooden staircase leads to the bedrooms.",
+    "exampleVi": "Một cầu thang bằng gỗ dẫn lên các phòng ngủ."
+  },
+  {
+    "word": "hallway",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "hành lang",
+    "example": "Leave your shoes in the hallway.",
+    "exampleVi": "Hãy để giày trong hành lang."
+  },
+  {
+    "word": "living room",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "phòng khách",
+    "example": "The children are playing in the living room.",
+    "exampleVi": "Bọn trẻ đang chơi trong phòng khách."
+  },
+  {
+    "word": "dining room",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "phòng ăn",
+    "example": "We put a large table in the dining room.",
+    "exampleVi": "Chúng tôi đặt một chiếc bàn lớn trong phòng ăn."
+  },
+  {
+    "word": "bathroom",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "phòng tắm; nhà vệ sinh",
+    "example": "The bathroom is at the end of the hallway.",
+    "exampleVi": "Phòng tắm ở cuối hành lang."
+  },
+  {
+    "word": "bedroom",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "phòng ngủ",
+    "example": "My bedroom has a small window.",
+    "exampleVi": "Phòng ngủ của tôi có một cửa sổ nhỏ."
+  },
+  {
+    "word": "bedside table",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "bàn nhỏ cạnh giường",
+    "example": "I keep a book on the bedside table.",
+    "exampleVi": "Tôi để một cuốn sách trên bàn cạnh giường."
+  },
+  {
+    "word": "bedsheet",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "ga trải giường",
+    "example": "Change the bedsheet before the guests arrive.",
+    "exampleVi": "Hãy thay ga giường trước khi khách đến."
+  },
+  {
+    "word": "pillowcase",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "vỏ gối",
+    "example": "This pillowcase is made of cotton.",
+    "exampleVi": "Vỏ gối này làm bằng vải bông."
+  },
+  {
+    "word": "bath mat",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "thảm trong phòng tắm",
+    "example": "Place a bath mat beside the shower.",
+    "exampleVi": "Hãy đặt thảm tắm cạnh chỗ tắm vòi sen."
+  },
+  {
+    "word": "dishcloth",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "khăn lau hoặc rửa bát",
+    "example": "Use a clean dishcloth to wipe the counter.",
+    "exampleVi": "Hãy dùng khăn sạch để lau mặt bàn bếp."
+  },
+  {
+    "word": "tea towel",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "khăn lau khô bát đĩa",
+    "example": "Dry the plates with a tea towel.",
+    "exampleVi": "Hãy dùng khăn để lau khô đĩa."
+  },
+  {
+    "word": "light bulb",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "bóng đèn",
+    "example": "The light bulb needs replacing.",
+    "exampleVi": "Bóng đèn cần được thay."
+  },
+  {
+    "word": "extension cord",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "dây điện nối dài",
+    "example": "This extension cord reaches the wall socket.",
+    "exampleVi": "Dây điện nối dài này tới được ổ cắm trên tường."
+  },
+  {
+    "word": "power strip",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "ổ cắm điện nhiều lỗ",
+    "example": "Plug the computer into the power strip.",
+    "exampleVi": "Hãy cắm máy tính vào ổ điện nhiều lỗ."
+  },
+  {
+    "word": "remote control",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "điều khiển từ xa",
+    "example": "Where is the remote control for the television?",
+    "exampleVi": "Điều khiển tivi ở đâu?"
+  },
+  {
+    "word": "alarm clock",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "đồng hồ báo thức",
+    "example": "I set the alarm clock for seven.",
+    "exampleVi": "Tôi đặt đồng hồ báo thức lúc bảy giờ."
+  },
+  {
+    "word": "trash bag",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "túi đựng rác",
+    "example": "Take the full trash bag outside.",
+    "exampleVi": "Hãy mang túi rác đầy ra ngoài."
+  },
+  {
+    "word": "housework",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "công việc nhà",
+    "example": "We share the housework at home.",
+    "exampleVi": "Chúng tôi chia nhau làm việc nhà."
+  },
+  {
+    "word": "vacuum bag",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "túi chứa bụi của máy hút bụi",
+    "example": "The vacuum bag is full of dust.",
+    "exampleVi": "Túi chứa bụi của máy hút bụi đã đầy."
+  },
+  {
+    "word": "oven mitt",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "găng tay chống nóng dùng khi nấu ăn",
+    "example": "Wear an oven mitt to lift the hot tray.",
+    "exampleVi": "Hãy đeo găng chống nóng để nhấc khay nóng."
+  },
+  {
+    "word": "apron",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "tạp dề",
+    "example": "She put on an apron before cooking.",
+    "exampleVi": "Cô ấy mặc tạp dề trước khi nấu ăn."
+  },
+  {
+    "word": "measuring cup",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "cốc đong",
+    "example": "Pour the milk into a measuring cup.",
+    "exampleVi": "Hãy đổ sữa vào cốc đong."
+  },
+  {
+    "word": "measuring spoon",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "thìa đong",
+    "example": "Use a measuring spoon for the salt.",
+    "exampleVi": "Hãy dùng thìa đong để đong muối."
+  },
+  {
+    "word": "baking tray",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "khay nướng",
+    "example": "Place the cookies on a baking tray.",
+    "exampleVi": "Hãy đặt bánh quy lên khay nướng."
+  },
+  {
+    "word": "mixing bowl",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "bát dùng để trộn nguyên liệu",
+    "example": "Put the flour in a mixing bowl.",
+    "exampleVi": "Hãy cho bột mì vào bát trộn."
+  },
+  {
+    "word": "rolling pin",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "cây cán bột",
+    "example": "Flatten the dough with a rolling pin.",
+    "exampleVi": "Hãy dùng cây cán để cán mỏng bột."
+  },
+  {
+    "word": "peeler",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "dụng cụ gọt vỏ",
+    "example": "Remove the potato skin with a peeler.",
+    "exampleVi": "Hãy dùng dụng cụ gọt vỏ để gọt khoai tây."
+  },
+  {
+    "word": "tongs",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "kẹp gắp thức ăn",
+    "example": "Use tongs to lift the hot food.",
+    "exampleVi": "Hãy dùng kẹp để gắp thức ăn nóng."
+  },
+  {
+    "word": "pepper",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "ớt; quả ớt",
+    "example": "Cut a red pepper into small pieces.",
+    "exampleVi": "Hãy thái một quả ớt đỏ thành miếng nhỏ."
+  },
+  {
+    "word": "pepper",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "hạt tiêu; tiêu xay",
+    "example": "Add a little black pepper to the soup.",
+    "exampleVi": "Hãy cho một ít tiêu đen vào súp."
+  },
+  {
+    "word": "pea",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "đậu Hà Lan",
+    "example": "There is a pea on the plate.",
+    "exampleVi": "Có một hạt đậu Hà Lan trên đĩa."
+  },
+  {
+    "word": "bean",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "đậu; hạt đậu",
+    "example": "We added beans to the soup.",
+    "exampleVi": "Chúng tôi cho đậu vào súp."
+  },
+  {
+    "word": "lentil",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "đậu lăng",
+    "example": "Rinse the lentils before cooking them.",
+    "exampleVi": "Hãy rửa đậu lăng trước khi nấu."
+  },
+  {
+    "word": "corn",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "ngô; bắp",
+    "example": "We bought some fresh corn at the market.",
+    "exampleVi": "Chúng tôi mua ít ngô tươi ở chợ."
+  },
+  {
+    "word": "shrimp",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "tôm",
+    "example": "The restaurant serves rice with shrimp.",
+    "exampleVi": "Nhà hàng phục vụ cơm với tôm."
+  },
+  {
+    "word": "shrimp",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "con tôm",
+    "example": "We saw several shrimp in the tank.",
+    "exampleVi": "Chúng tôi nhìn thấy vài con tôm trong bể."
+  },
+  {
+    "word": "salmon",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "cá hồi",
+    "example": "We had salmon for dinner.",
+    "exampleVi": "Chúng tôi ăn cá hồi vào bữa tối."
+  },
+  {
+    "word": "salmon",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "con cá hồi",
+    "example": "The salmon swam upstream.",
+    "exampleVi": "Con cá hồi bơi ngược dòng."
+  },
+  {
+    "word": "tuna",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "cá ngừ",
+    "example": "She made a sandwich with tuna.",
+    "exampleVi": "Cô ấy làm bánh mì kẹp cá ngừ."
+  },
+  {
+    "word": "tuna",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "con cá ngừ",
+    "example": "The boat passed a school of tuna.",
+    "exampleVi": "Thuyền đi qua một đàn cá ngừ."
+  },
+  {
+    "word": "cream",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "kem sữa",
+    "example": "Add a little cream to the sauce.",
+    "exampleVi": "Hãy cho một ít kem sữa vào nước sốt."
+  },
+  {
+    "word": "cream",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "kem bôi",
+    "example": "This hand cream has a mild scent.",
+    "exampleVi": "Loại kem dưỡng tay này có mùi nhẹ."
+  },
+  {
+    "word": "honey",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "mật ong",
+    "example": "He put honey in his tea.",
+    "exampleVi": "Anh ấy cho mật ong vào trà."
+  },
+  {
+    "word": "vinegar",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "giấm",
+    "example": "Mix the oil with some vinegar.",
+    "exampleVi": "Hãy trộn dầu với một ít giấm."
+  },
+  {
+    "word": "cooking oil",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "dầu ăn",
+    "example": "Heat a little cooking oil in the pan.",
+    "exampleVi": "Hãy làm nóng một ít dầu ăn trong chảo."
+  },
+  {
+    "word": "olive oil",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "dầu ô liu",
+    "example": "We use olive oil for this salad.",
+    "exampleVi": "Chúng tôi dùng dầu ô liu cho món rau trộn này."
+  },
+  {
+    "word": "soy sauce",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "nước tương",
+    "example": "Add a little soy sauce to the rice.",
+    "exampleVi": "Hãy cho một ít nước tương vào cơm."
+  },
+  {
+    "word": "mustard",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "mù tạt",
+    "example": "Would you like mustard with your sandwich?",
+    "exampleVi": "Bạn có muốn ăn mù tạt với bánh mì kẹp không?"
+  },
+  {
+    "word": "ketchup",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "tương cà",
+    "example": "The children put ketchup on their chips.",
+    "exampleVi": "Bọn trẻ cho tương cà lên khoai tây chiên."
+  },
+  {
+    "word": "mayonnaise",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "sốt mayonnaise",
+    "example": "Mix the tuna with a little mayonnaise.",
+    "exampleVi": "Hãy trộn cá ngừ với một ít sốt mayonnaise."
+  },
+  {
+    "word": "jam",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "mứt trái cây dạng phết",
+    "example": "Spread some jam on the toast.",
+    "exampleVi": "Hãy phết mứt lên bánh mì nướng."
+  },
+  {
+    "word": "jam",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "tình trạng tắc nghẽn",
+    "example": "We were stuck in a traffic jam.",
+    "exampleVi": "Chúng tôi bị kẹt trong tình trạng ùn tắc giao thông."
+  },
+  {
+    "word": "peanut butter",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "bơ đậu phộng",
+    "example": "I like peanut butter on bread.",
+    "exampleVi": "Tôi thích phết bơ đậu phộng lên bánh mì."
+  },
+  {
+    "word": "banana",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "chuối",
+    "example": "She packed a banana for lunch.",
+    "exampleVi": "Cô ấy mang một quả chuối cho bữa trưa."
+  },
+  {
+    "word": "apple",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "táo",
+    "example": "He ate an apple after the meal.",
+    "exampleVi": "Anh ấy ăn một quả táo sau bữa ăn."
+  },
+  {
+    "word": "orange",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "cam",
+    "example": "Peel the orange before eating it.",
+    "exampleVi": "Hãy bóc vỏ cam trước khi ăn."
+  },
+  {
+    "word": "orange",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "có màu cam",
+    "example": "She wore an orange jacket.",
+    "exampleVi": "Cô ấy mặc áo khoác màu cam."
+  },
+  {
+    "word": "lemon",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "chanh vàng",
+    "example": "Add a slice of lemon to the water.",
+    "exampleVi": "Hãy cho một lát chanh vàng vào nước."
+  },
+  {
+    "word": "lime",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "chanh xanh",
+    "example": "Squeeze a lime over the fish.",
+    "exampleVi": "Hãy vắt chanh xanh lên cá."
+  },
+  {
+    "word": "grape",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "nho",
+    "example": "Wash the grapes before serving them.",
+    "exampleVi": "Hãy rửa nho trước khi dọn ra."
+  },
+  {
+    "word": "strawberry",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "dâu tây",
+    "example": "She put a strawberry on the cake.",
+    "exampleVi": "Cô ấy đặt một quả dâu tây lên bánh."
+  },
+  {
+    "word": "watermelon",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "dưa hấu",
+    "example": "We shared a large watermelon.",
+    "exampleVi": "Chúng tôi cùng ăn một quả dưa hấu lớn."
+  },
+  {
+    "word": "pear",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "lê",
+    "example": "This pear is sweet and juicy.",
+    "exampleVi": "Quả lê này ngọt và mọng nước."
+  },
+  {
+    "word": "pineapple",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "dứa; thơm",
+    "example": "Cut the pineapple into slices.",
+    "exampleVi": "Hãy thái dứa thành từng lát."
+  },
+  {
+    "word": "mango",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "xoài",
+    "example": "I bought a ripe mango.",
+    "exampleVi": "Tôi mua một quả xoài chín."
+  },
+  {
+    "word": "avocado",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "quả bơ",
+    "example": "She added avocado to the salad.",
+    "exampleVi": "Cô ấy cho quả bơ vào món rau trộn."
+  },
+  {
+    "word": "almond",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "hạnh nhân",
+    "example": "There is an almond in each biscuit.",
+    "exampleVi": "Mỗi chiếc bánh quy có một hạt hạnh nhân."
+  },
+  {
+    "word": "walnut",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "óc chó",
+    "example": "Crack the walnut to remove the shell.",
+    "exampleVi": "Hãy đập quả óc chó để bỏ vỏ."
+  },
+  {
+    "word": "peanut",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "đậu phộng; lạc",
+    "example": "This sauce contains peanuts.",
+    "exampleVi": "Nước sốt này chứa đậu phộng."
+  },
+  {
+    "word": "cashew",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "hạt điều",
+    "example": "We bought a bag of cashews.",
+    "exampleVi": "Chúng tôi mua một túi hạt điều."
+  },
+  {
+    "word": "breakfast",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "bữa sáng",
+    "example": "I usually have breakfast at seven.",
+    "exampleVi": "Tôi thường ăn sáng lúc bảy giờ."
+  },
+  {
+    "word": "lunch",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "bữa trưa",
+    "example": "We had lunch near the office.",
+    "exampleVi": "Chúng tôi ăn trưa gần văn phòng."
+  },
+  {
+    "word": "dinner",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "bữa tối; bữa chính",
+    "example": "She invited us to dinner.",
+    "exampleVi": "Cô ấy mời chúng tôi ăn tối."
+  },
+  {
+    "word": "supper",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "bữa tối nhẹ",
+    "example": "We had a light supper after the concert.",
+    "exampleVi": "Chúng tôi ăn một bữa tối nhẹ sau buổi hòa nhạc."
+  },
+  {
+    "word": "snack",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "đồ ăn nhẹ",
+    "example": "I brought a snack for the journey.",
+    "exampleVi": "Tôi mang đồ ăn nhẹ cho chuyến đi."
+  },
+  {
+    "word": "dessert",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "món tráng miệng",
+    "example": "Would you like fruit for dessert?",
+    "exampleVi": "Bạn có muốn ăn trái cây tráng miệng không?"
+  },
+  {
+    "word": "sandwich",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "bánh mì kẹp",
+    "example": "He made a cheese sandwich.",
+    "exampleVi": "Anh ấy làm bánh mì kẹp phô mai."
+  },
+  {
+    "word": "soup",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "súp; canh",
+    "example": "The soup is too hot to eat.",
+    "exampleVi": "Súp nóng quá nên chưa ăn được."
+  },
+  {
+    "word": "salad",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "món rau trộn",
+    "example": "We ordered a salad with our meal.",
+    "exampleVi": "Chúng tôi gọi một phần rau trộn ăn cùng bữa."
+  },
+  {
+    "word": "omelet",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "trứng tráng",
+    "example": "She cooked an omelet for breakfast.",
+    "exampleVi": "Cô ấy làm trứng tráng cho bữa sáng."
+  },
+  {
+    "word": "porridge",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "cháo",
+    "example": "I eat porridge on cold mornings.",
+    "exampleVi": "Tôi ăn cháo vào những buổi sáng lạnh."
+  },
+  {
+    "word": "cereal",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "ngũ cốc ăn sáng",
+    "example": "He poured milk over his cereal.",
+    "exampleVi": "Anh ấy đổ sữa vào ngũ cốc ăn sáng."
+  },
+  {
+    "word": "toast",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "bánh mì nướng",
+    "example": "Put some butter on the toast.",
+    "exampleVi": "Hãy phết một ít bơ lên bánh mì nướng."
+  },
+  {
+    "word": "toast",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "nướng vàng",
+    "example": "Toast the bread before adding butter.",
+    "exampleVi": "Hãy nướng vàng bánh mì trước khi phết bơ."
+  },
+  {
+    "word": "toast",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "lời chúc khi nâng ly",
+    "example": "He made a toast to the happy couple.",
+    "exampleVi": "Anh ấy nâng ly chúc mừng đôi vợ chồng hạnh phúc."
+  },
+  {
+    "word": "sausage",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "xúc xích",
+    "example": "She grilled a sausage for lunch.",
+    "exampleVi": "Cô ấy nướng một chiếc xúc xích cho bữa trưa."
+  },
+  {
+    "word": "bacon",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "thịt lợn muối hoặc hun khói",
+    "example": "We cooked eggs with bacon.",
+    "exampleVi": "Chúng tôi nấu trứng với thịt lợn muối."
+  },
+  {
+    "word": "T-shirt",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "áo phông",
+    "example": "He wore a plain T-shirt.",
+    "exampleVi": "Anh ấy mặc một chiếc áo phông trơn."
+  },
+  {
+    "word": "blouse",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "áo kiểu nữ",
+    "example": "She chose a white blouse.",
+    "exampleVi": "Cô ấy chọn một chiếc áo kiểu nữ màu trắng."
+  },
+  {
+    "word": "hoodie",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "áo có mũ",
+    "example": "I wear a hoodie on cool evenings.",
+    "exampleVi": "Tôi mặc áo có mũ vào những buổi tối mát."
+  },
+  {
+    "word": "raincoat",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "áo mưa",
+    "example": "Take a raincoat because it may rain.",
+    "exampleVi": "Hãy mang áo mưa vì trời có thể mưa."
+  },
+  {
+    "word": "trousers",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "quần dài",
+    "example": "These trousers are too long.",
+    "exampleVi": "Chiếc quần dài này dài quá."
+  },
+  {
+    "word": "suit",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "bộ com lê; bộ vest",
+    "example": "He wore a dark suit to the wedding.",
+    "exampleVi": "Anh ấy mặc bộ vest màu tối đến đám cưới."
+  },
+  {
+    "word": "suit",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "phù hợp; hợp với",
+    "example": "This time suits everyone.",
+    "exampleVi": "Thời gian này phù hợp với mọi người."
+  },
+  {
+    "word": "sneaker",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "giày thể thao",
+    "example": "There is a small hole in my sneaker.",
+    "exampleVi": "Có một lỗ nhỏ trên giày thể thao của tôi."
+  },
+  {
+    "word": "sandal",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "dép có quai; xăng đan",
+    "example": "The strap on this sandal is broken.",
+    "exampleVi": "Quai của chiếc dép này bị đứt."
+  },
+  {
+    "word": "slipper",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "dép đi trong nhà",
+    "example": "I found one slipper under the bed.",
+    "exampleVi": "Tôi tìm thấy một chiếc dép đi trong nhà dưới giường."
+  },
+  {
+    "word": "cap",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "mũ lưỡi trai",
+    "example": "He put on a cap before going outside.",
+    "exampleVi": "Anh ấy đội mũ lưỡi trai trước khi ra ngoài."
+  },
+  {
+    "word": "cap",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "nắp",
+    "example": "Put the cap back on the bottle.",
+    "exampleVi": "Hãy đậy nắp chai lại."
+  },
+  {
+    "word": "sunglasses",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "kính râm",
+    "example": "She wore sunglasses in the bright sun.",
+    "exampleVi": "Cô ấy đeo kính râm dưới trời nắng."
+  },
+  {
+    "word": "earring",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "khuyên tai",
+    "example": "I lost one earring at the party.",
+    "exampleVi": "Tôi làm mất một chiếc khuyên tai ở bữa tiệc."
+  },
+  {
+    "word": "necklace",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "vòng cổ",
+    "example": "He gave her a necklace for her birthday.",
+    "exampleVi": "Anh ấy tặng cô ấy một chiếc vòng cổ vào dịp sinh nhật."
+  },
+  {
+    "word": "bracelet",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "vòng tay",
+    "example": "This bracelet is made of silver.",
+    "exampleVi": "Chiếc vòng tay này làm bằng bạc."
+  },
+  {
+    "word": "ring",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "nhẫn",
+    "example": "She wears a ring on her left hand.",
+    "exampleVi": "Cô ấy đeo nhẫn ở tay trái."
+  },
+  {
+    "word": "ring",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "reo; gọi điện",
+    "example": "The phone rang during the meeting.",
+    "exampleVi": "Điện thoại reo trong cuộc họp."
+  },
+  {
+    "word": "ring",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "vòng; vật có dạng vòng",
+    "example": "A ring of trees surrounds the house.",
+    "exampleVi": "Một vòng cây bao quanh ngôi nhà."
+  },
+  {
+    "word": "shoelace",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "dây giày",
+    "example": "Tie your shoelace before running.",
+    "exampleVi": "Hãy buộc dây giày trước khi chạy."
+  },
+  {
+    "word": "sleeve",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "tay áo",
+    "example": "The sleeve of my shirt is wet.",
+    "exampleVi": "Tay áo sơ mi của tôi bị ướt."
+  },
+  {
+    "word": "hem",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "gấu áo hoặc quần",
+    "example": "The tailor shortened the hem of the skirt.",
+    "exampleVi": "Thợ may chỉnh gấu váy cho ngắn hơn."
+  },
+  {
+    "word": "cotton",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "bông; vải bông",
+    "example": "This shirt is made of cotton.",
+    "exampleVi": "Chiếc áo này làm bằng vải bông."
+  },
+  {
+    "word": "wool",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "len",
+    "example": "The scarf is made of wool.",
+    "exampleVi": "Chiếc khăn quàng làm bằng len."
+  },
+  {
+    "word": "linen",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "vải lanh",
+    "example": "Linen is comfortable in hot weather.",
+    "exampleVi": "Vải lanh mặc thoải mái khi trời nóng."
+  },
+  {
+    "word": "leather",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "da thuộc",
+    "example": "These shoes are made of leather.",
+    "exampleVi": "Đôi giày này làm bằng da thuộc."
+  },
+  {
+    "word": "striped",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "có sọc",
+    "example": "She wore a striped shirt.",
+    "exampleVi": "Cô ấy mặc áo có sọc."
+  },
+  {
+    "word": "checked",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "có họa tiết kẻ ô",
+    "example": "He chose a checked jacket.",
+    "exampleVi": "Anh ấy chọn một chiếc áo khoác kẻ ô."
+  },
+  {
+    "word": "tight",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "chật; bó sát",
+    "example": "These gloves are too tight.",
+    "exampleVi": "Đôi găng tay này quá chật."
+  },
+  {
+    "word": "fashionable",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "hợp thời trang",
+    "example": "That style is fashionable this year.",
+    "exampleVi": "Kiểu đó hợp thời trang trong năm nay."
+  },
+  {
+    "word": "cardigan",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "áo len cài nút phía trước",
+    "example": "She put on a cardigan over her blouse.",
+    "exampleVi": "Cô ấy mặc áo len cài nút bên ngoài áo kiểu."
+  },
+  {
+    "word": "vest",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "áo gile",
+    "example": "He wore a vest over his shirt.",
+    "exampleVi": "Anh ấy mặc áo gile bên ngoài áo sơ mi."
+  },
+  {
+    "word": "waistcoat",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "áo gile trong bộ vest",
+    "example": "The waistcoat matches his suit.",
+    "exampleVi": "Chiếc áo gile hợp với bộ vest của anh ấy."
+  },
+  {
+    "word": "blazer",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "áo khoác kiểu vest",
+    "example": "He wore a blazer to the interview.",
+    "exampleVi": "Anh ấy mặc áo khoác kiểu vest đến buổi phỏng vấn."
+  },
+  {
+    "word": "sweatshirt",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "áo nỉ dài tay",
+    "example": "I packed a sweatshirt for the trip.",
+    "exampleVi": "Tôi mang một chiếc áo nỉ cho chuyến đi."
+  },
+  {
+    "word": "sweatpants",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "quần nỉ",
+    "example": "He changed into sweatpants after work.",
+    "exampleVi": "Anh ấy thay quần nỉ sau khi làm việc."
+  },
+  {
+    "word": "tracksuit",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "bộ đồ thể thao",
+    "example": "She wore a tracksuit to the gym.",
+    "exampleVi": "Cô ấy mặc bộ đồ thể thao đến phòng tập."
+  },
+  {
+    "word": "leggings",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "quần ôm co giãn",
+    "example": "These leggings are soft and stretchy.",
+    "exampleVi": "Chiếc quần ôm này mềm và co giãn."
+  },
+  {
+    "word": "tights",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "quần tất",
+    "example": "She wore tights under her skirt.",
+    "exampleVi": "Cô ấy mặc quần tất bên trong váy."
+  },
+  {
+    "word": "stocking",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "tất dài",
+    "example": "There is a hole in one stocking.",
+    "exampleVi": "Có một lỗ trên một chiếc tất dài."
+  },
+  {
+    "word": "bra",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "áo ngực",
+    "example": "She bought a comfortable bra.",
+    "exampleVi": "Cô ấy mua một chiếc áo ngực thoải mái."
+  },
+  {
+    "word": "undershirt",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "áo mặc bên trong",
+    "example": "He wears an undershirt beneath his shirt.",
+    "exampleVi": "Anh ấy mặc áo lót bên trong áo sơ mi."
+  },
+  {
+    "word": "bathrobe",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "áo choàng tắm",
+    "example": "I put on a bathrobe after my shower.",
+    "exampleVi": "Tôi mặc áo choàng tắm sau khi tắm."
+  },
+  {
+    "word": "dressing gown",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "áo choàng mặc trong nhà",
+    "example": "She wore a dressing gown while making breakfast.",
+    "exampleVi": "Cô ấy mặc áo choàng trong nhà khi làm bữa sáng."
+  },
+  {
+    "word": "lip",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "môi",
+    "example": "My lip feels dry in this weather.",
+    "exampleVi": "Môi tôi bị khô trong thời tiết này."
+  },
+  {
+    "word": "tongue",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "lưỡi",
+    "example": "The dentist asked me to lift my tongue.",
+    "exampleVi": "Nha sĩ bảo tôi nâng lưỡi lên."
+  },
+  {
+    "word": "tongue",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "ngôn ngữ",
+    "example": "Vietnamese is her mother tongue.",
+    "exampleVi": "Tiếng Việt là tiếng mẹ đẻ của cô ấy."
+  },
+  {
+    "word": "chest",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "ngực",
+    "example": "He held the box against his chest.",
+    "exampleVi": "Anh ấy ôm chiếc hộp sát ngực."
+  },
+  {
+    "word": "chest",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "rương; hòm",
+    "example": "They kept old letters in a wooden chest.",
+    "exampleVi": "Họ giữ thư cũ trong một chiếc rương gỗ."
+  },
+  {
+    "word": "back",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "lưng",
+    "example": "My back hurts after sitting all day.",
+    "exampleVi": "Lưng tôi đau sau khi ngồi cả ngày."
+  },
+  {
+    "word": "back",
+    "sourceGroup": "everyday-500",
+    "pos": "adverb",
+    "meaningVi": "trở lại; về lại",
+    "example": "Please come back tomorrow.",
+    "exampleVi": "Hãy quay lại vào ngày mai."
+  },
+  {
+    "word": "back",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "ở phía sau",
+    "example": "Use the back door to enter.",
+    "exampleVi": "Hãy dùng cửa phía sau để vào."
+  },
+  {
+    "word": "ankle",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "mắt cá chân",
+    "example": "She twisted her ankle while walking.",
+    "exampleVi": "Cô ấy trẹo mắt cá chân khi đi bộ."
+  },
+  {
+    "word": "toe",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "ngón chân",
+    "example": "I hurt my toe on the chair.",
+    "exampleVi": "Tôi va ngón chân vào ghế."
+  },
+  {
+    "word": "skin",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "da",
+    "example": "This soap is gentle on the skin.",
+    "exampleVi": "Loại xà phòng này dịu nhẹ với da."
+  },
+  {
+    "word": "skin",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "vỏ của một số loại quả hoặc củ",
+    "example": "Remove the potato skin before cooking.",
+    "exampleVi": "Hãy bỏ vỏ khoai tây trước khi nấu."
+  },
+  {
+    "word": "bone",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "xương",
+    "example": "The doctor checked the broken bone.",
+    "exampleVi": "Bác sĩ kiểm tra chỗ xương bị gãy."
+  },
+  {
+    "word": "muscle",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "cơ bắp",
+    "example": "He pulled a muscle during the game.",
+    "exampleVi": "Anh ấy bị căng cơ trong trận đấu."
+  },
+  {
+    "word": "blood",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "máu",
+    "example": "The nurse took a sample of blood.",
+    "exampleVi": "Y tá lấy một mẫu máu."
+  },
+  {
+    "word": "heart",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "tim",
+    "example": "Exercise helps keep the heart healthy.",
+    "exampleVi": "Vận động giúp tim khỏe mạnh."
+  },
+  {
+    "word": "kidney",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "thận",
+    "example": "The doctor examined his kidney.",
+    "exampleVi": "Bác sĩ kiểm tra thận của anh ấy."
+  },
+  {
+    "word": "liver",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "gan",
+    "example": "The scan showed a problem with the liver.",
+    "exampleVi": "Kết quả chụp cho thấy một vấn đề ở gan."
+  },
+  {
+    "word": "sneeze",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "hắt hơi",
+    "example": "Dust can make me sneeze.",
+    "exampleVi": "Bụi có thể khiến tôi hắt hơi."
+  },
+  {
+    "word": "toothache",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "đau răng",
+    "example": "She called the dentist because of a toothache.",
+    "exampleVi": "Cô ấy gọi nha sĩ vì bị đau răng."
+  },
+  {
+    "word": "stomachache",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "đau bụng",
+    "example": "He told the doctor about his stomachache.",
+    "exampleVi": "Anh ấy nói với bác sĩ về cơn đau bụng."
+  },
+  {
+    "word": "sore throat",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "đau họng",
+    "example": "I mentioned my sore throat during the appointment.",
+    "exampleVi": "Tôi nói về tình trạng đau họng trong buổi khám."
+  },
+  {
+    "word": "runny nose",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "sổ mũi",
+    "example": "The child had a runny nose.",
+    "exampleVi": "Đứa trẻ bị sổ mũi."
+  },
+  {
+    "word": "dizziness",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "chóng mặt",
+    "example": "She reported dizziness to the nurse.",
+    "exampleVi": "Cô ấy báo với y tá rằng mình bị chóng mặt."
+  },
+  {
+    "word": "nausea",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "buồn nôn",
+    "example": "He felt nausea during the journey.",
+    "exampleVi": "Anh ấy thấy buồn nôn trong chuyến đi."
+  },
+  {
+    "word": "bruise",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "vết bầm",
+    "example": "There is a bruise on my arm.",
+    "exampleVi": "Có một vết bầm trên cánh tay tôi."
+  },
+  {
+    "word": "bruise",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "làm bầm; bị bầm",
+    "example": "She bruised her arm on the door.",
+    "exampleVi": "Cô ấy va cánh tay vào cửa và bị bầm."
+  },
+  {
+    "word": "sprain",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "bong gân",
+    "example": "The doctor checked the ankle sprain.",
+    "exampleVi": "Bác sĩ kiểm tra chỗ bong gân ở mắt cá chân."
+  },
+  {
+    "word": "blister",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "vết phồng rộp",
+    "example": "A new shoe gave me a blister.",
+    "exampleVi": "Chiếc giày mới làm chân tôi phồng rộp."
+  },
+  {
+    "word": "itch",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "ngứa; cảm giác ngứa",
+    "example": "The itch kept him awake.",
+    "exampleVi": "Cảm giác ngứa khiến anh ấy không ngủ được."
+  },
+  {
+    "word": "itch",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "gây ngứa; bị ngứa",
+    "example": "My arm itches after the insect bite.",
+    "exampleVi": "Cánh tay tôi ngứa sau khi bị côn trùng đốt."
+  },
+  {
+    "word": "swelling",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "chỗ sưng; tình trạng sưng",
+    "example": "The nurse checked the swelling around the injury.",
+    "exampleVi": "Y tá kiểm tra chỗ sưng quanh vết thương."
+  },
+  {
+    "word": "ointment",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "thuốc mỡ",
+    "example": "The pharmacist explained how to use the ointment.",
+    "exampleVi": "Dược sĩ giải thích cách dùng thuốc mỡ."
+  },
+  {
+    "word": "first aid kit",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "bộ sơ cứu",
+    "example": "We keep a first aid kit in the car.",
+    "exampleVi": "Chúng tôi để bộ sơ cứu trong xe."
+  },
+  {
+    "word": "checkup",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "buổi khám kiểm tra sức khỏe",
+    "example": "She booked a routine checkup.",
+    "exampleVi": "Cô ấy đặt lịch khám kiểm tra định kỳ."
+  },
+  {
+    "word": "vaccination",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "việc tiêm chủng",
+    "example": "He brought his vaccination record to the clinic.",
+    "exampleVi": "Anh ấy mang hồ sơ tiêm chủng đến phòng khám."
+  },
+  {
+    "word": "dosage",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "liều lượng dùng thuốc",
+    "example": "The prescribed dosage is printed on the label.",
+    "exampleVi": "Liều dùng được kê ghi trên nhãn."
+  },
+  {
+    "word": "tablet",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "viên thuốc nén",
+    "example": "The pharmacist showed me the tablet.",
+    "exampleVi": "Dược sĩ cho tôi xem viên thuốc nén."
+  },
+  {
+    "word": "tablet",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "máy tính bảng",
+    "example": "He reads the news on his tablet.",
+    "exampleVi": "Anh ấy đọc tin tức trên máy tính bảng."
+  },
+  {
+    "word": "capsule",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "viên nang",
+    "example": "The medicine comes in a capsule.",
+    "exampleVi": "Thuốc được bào chế dưới dạng viên nang."
+  },
+  {
+    "word": "inhaler",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "dụng cụ dùng để hít thuốc",
+    "example": "She showed the doctor her inhaler.",
+    "exampleVi": "Cô ấy cho bác sĩ xem dụng cụ hít thuốc của mình."
+  },
+  {
+    "word": "emergency room",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "phòng cấp cứu",
+    "example": "They took him to the emergency room.",
+    "exampleVi": "Họ đưa anh ấy đến phòng cấp cứu."
+  },
+  {
+    "word": "waiting room",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "phòng chờ",
+    "example": "Please take a seat in the waiting room.",
+    "exampleVi": "Mời bạn ngồi trong phòng chờ."
+  },
+  {
+    "word": "appointment",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "cuộc hẹn; lịch hẹn khám",
+    "example": "My appointment is at ten tomorrow.",
+    "exampleVi": "Lịch hẹn của tôi là lúc mười giờ ngày mai."
+  },
+  {
+    "word": "appointment",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "việc bổ nhiệm",
+    "example": "Her appointment as manager was announced today.",
+    "exampleVi": "Việc bổ nhiệm cô ấy làm quản lý được thông báo hôm nay."
+  },
+  {
+    "word": "allergy",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "dị ứng",
+    "example": "He mentioned his allergy before the examination.",
+    "exampleVi": "Anh ấy nói về tình trạng dị ứng trước khi khám."
+  },
+  {
+    "word": "diarrhea",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "tiêu chảy",
+    "example": "The doctor asked whether she had diarrhea.",
+    "exampleVi": "Bác sĩ hỏi cô ấy có bị tiêu chảy không."
+  },
+  {
+    "word": "constipation",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "táo bón",
+    "example": "He discussed his constipation with the doctor.",
+    "exampleVi": "Anh ấy trao đổi với bác sĩ về tình trạng táo bón."
+  },
+  {
+    "word": "eyebrow",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "lông mày",
+    "example": "She raised one eyebrow in surprise.",
+    "exampleVi": "Cô ấy nhướng một bên lông mày vì ngạc nhiên."
+  },
+  {
+    "word": "eyelash",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "lông mi",
+    "example": "An eyelash fell onto my cheek.",
+    "exampleVi": "Một sợi lông mi rơi xuống má tôi."
+  },
+  {
+    "word": "eyelid",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "mí mắt",
+    "example": "The doctor examined his eyelid.",
+    "exampleVi": "Bác sĩ kiểm tra mí mắt của anh ấy."
+  },
+  {
+    "word": "chin",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "cằm",
+    "example": "He rested his chin on his hand.",
+    "exampleVi": "Anh ấy chống cằm lên bàn tay."
+  },
+  {
+    "word": "forehead",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "trán",
+    "example": "She wiped the sweat from her forehead.",
+    "exampleVi": "Cô ấy lau mồ hôi trên trán."
+  },
+  {
+    "word": "nostril",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "lỗ mũi",
+    "example": "The doctor examined each nostril.",
+    "exampleVi": "Bác sĩ kiểm tra từng lỗ mũi."
+  },
+  {
+    "word": "palate",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "vòm miệng",
+    "example": "The dentist examined her palate.",
+    "exampleVi": "Nha sĩ kiểm tra vòm miệng của cô ấy."
+  },
+  {
+    "word": "fingernail",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "móng tay",
+    "example": "I broke a fingernail while opening the box.",
+    "exampleVi": "Tôi làm gãy móng tay khi mở hộp."
+  },
+  {
+    "word": "toenail",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "móng chân",
+    "example": "He trimmed a damaged toenail.",
+    "exampleVi": "Anh ấy cắt ngắn một móng chân bị hỏng."
+  },
+  {
+    "word": "calf",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "bắp chân",
+    "example": "My calf feels sore after the walk.",
+    "exampleVi": "Bắp chân tôi bị đau sau khi đi bộ."
+  },
+  {
+    "word": "calf",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "bê; con của bò",
+    "example": "The calf stayed close to its mother.",
+    "exampleVi": "Con bê đứng gần mẹ."
+  },
+  {
+    "word": "armpit",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "nách",
+    "example": "The shirt is too tight around the armpit.",
+    "exampleVi": "Áo quá chật ở phần nách."
+  },
+  {
+    "word": "purse",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "ví",
+    "example": "She kept some coins in her purse.",
+    "exampleVi": "Cô ấy để vài đồng xu trong ví."
+  },
+  {
+    "word": "purse",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "túi xách nhỏ",
+    "example": "She carried her purse over her shoulder.",
+    "exampleVi": "Cô ấy đeo túi xách nhỏ trên vai."
+  },
+  {
+    "word": "cash",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "tiền mặt",
+    "example": "This shop accepts cash and cards.",
+    "exampleVi": "Cửa hàng này nhận tiền mặt và thẻ."
+  },
+  {
+    "word": "cash",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "đổi thành tiền mặt",
+    "example": "He cashed the check at the bank.",
+    "exampleVi": "Anh ấy đổi tấm séc lấy tiền mặt ở ngân hàng."
+  },
+  {
+    "word": "coin",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "đồng xu",
+    "example": "I found a coin on the pavement.",
+    "exampleVi": "Tôi tìm thấy một đồng xu trên vỉa hè."
+  },
+  {
+    "word": "banknote",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "tiền giấy",
+    "example": "He gave the cashier a banknote.",
+    "exampleVi": "Anh ấy đưa cho thu ngân một tờ tiền giấy."
+  },
+  {
+    "word": "price tag",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "nhãn ghi giá",
+    "example": "Check the price tag before buying it.",
+    "exampleVi": "Hãy xem nhãn giá trước khi mua."
+  },
+  {
+    "word": "shopping cart",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "xe đẩy mua hàng",
+    "example": "Put the heavy bags in the shopping cart.",
+    "exampleVi": "Hãy đặt túi nặng vào xe đẩy mua hàng."
+  },
+  {
+    "word": "shopping basket",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "giỏ mua hàng",
+    "example": "She carried a shopping basket around the store.",
+    "exampleVi": "Cô ấy mang giỏ mua hàng đi quanh cửa hàng."
+  },
+  {
+    "word": "checkout",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "quầy hoặc bước thanh toán",
+    "example": "We waited at the checkout.",
+    "exampleVi": "Chúng tôi chờ ở quầy thanh toán."
+  },
+  {
+    "word": "cashier",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "nhân viên thu ngân",
+    "example": "The cashier gave me a receipt.",
+    "exampleVi": "Thu ngân đưa cho tôi biên lai."
+  },
+  {
+    "word": "barcode",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "mã vạch",
+    "example": "The cashier scanned the barcode.",
+    "exampleVi": "Thu ngân quét mã vạch."
+  },
+  {
+    "word": "discount code",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "mã giảm giá",
+    "example": "Enter the discount code before paying.",
+    "exampleVi": "Hãy nhập mã giảm giá trước khi thanh toán."
+  },
+  {
+    "word": "coupon",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "phiếu giảm giá",
+    "example": "I used a coupon to save money.",
+    "exampleVi": "Tôi dùng phiếu giảm giá để tiết kiệm tiền."
+  },
+  {
+    "word": "loyalty card",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "thẻ khách hàng thân thiết",
+    "example": "Show your loyalty card at the checkout.",
+    "exampleVi": "Hãy đưa thẻ khách hàng thân thiết tại quầy thanh toán."
+  },
+  {
+    "word": "gift card",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "thẻ quà tặng",
+    "example": "She received a gift card for her birthday.",
+    "exampleVi": "Cô ấy nhận được thẻ quà tặng vào dịp sinh nhật."
+  },
+  {
+    "word": "store credit",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "khoản tiền được dùng mua hàng tại cửa hàng",
+    "example": "The shop offered store credit instead of a cash refund.",
+    "exampleVi": "Cửa hàng đề nghị khoản tiền mua hàng tại cửa hàng thay cho hoàn tiền mặt."
+  },
+  {
+    "word": "delivery fee",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "phí giao hàng",
+    "example": "The delivery fee is shown before payment.",
+    "exampleVi": "Phí giao hàng được hiển thị trước khi thanh toán."
+  },
+  {
+    "word": "shipping fee",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "phí vận chuyển",
+    "example": "The shipping fee depends on the parcel's weight.",
+    "exampleVi": "Phí vận chuyển phụ thuộc vào trọng lượng bưu kiện."
+  },
+  {
+    "word": "return policy",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "chính sách trả hàng",
+    "example": "Read the return policy before ordering.",
+    "exampleVi": "Hãy đọc chính sách trả hàng trước khi đặt mua."
+  },
+  {
+    "word": "price match",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "việc áp dụng giá bằng đối thủ",
+    "example": "The retailer offered a price match on the same product.",
+    "exampleVi": "Nhà bán lẻ đề nghị áp dụng giá bằng đối thủ cho cùng sản phẩm."
+  },
+  {
+    "word": "fitting room",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "phòng thử đồ",
+    "example": "You can try the jacket in the fitting room.",
+    "exampleVi": "Bạn có thể thử áo khoác trong phòng thử đồ."
+  },
+  {
+    "word": "out of stock",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "hết hàng",
+    "example": "This model is out of stock.",
+    "exampleVi": "Mẫu này đã hết hàng."
+  },
+  {
+    "word": "in stock",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "còn hàng",
+    "example": "The blue shoes are still in stock.",
+    "exampleVi": "Giày màu xanh vẫn còn hàng."
+  },
+  {
+    "word": "sold out",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "đã bán hết",
+    "example": "The tickets are sold out.",
+    "exampleVi": "Vé đã bán hết."
+  },
+  {
+    "word": "secondhand",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "đã qua sử dụng",
+    "example": "We bought a secondhand table.",
+    "exampleVi": "Chúng tôi mua một chiếc bàn đã qua sử dụng."
+  },
+  {
+    "word": "brand-new",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "mới tinh",
+    "example": "He bought a brand-new bicycle.",
+    "exampleVi": "Anh ấy mua một chiếc xe đạp mới tinh."
+  },
+  {
+    "word": "overpriced",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "có giá quá cao",
+    "example": "I think that bag is overpriced.",
+    "exampleVi": "Tôi thấy chiếc túi đó có giá quá cao."
+  },
+  {
+    "word": "wholesaler",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "người hoặc doanh nghiệp bán buôn",
+    "example": "The café buys its supplies from a wholesaler.",
+    "exampleVi": "Quán cà phê mua vật tư từ nhà bán buôn."
+  },
+  {
+    "word": "customer service",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "dịch vụ chăm sóc khách hàng",
+    "example": "Contact customer service if your order is missing.",
+    "exampleVi": "Hãy liên hệ dịch vụ chăm sóc khách hàng nếu đơn hàng bị thất lạc."
+  },
+  {
+    "word": "shop assistant",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "nhân viên bán hàng",
+    "example": "The shop assistant helped me find the right size.",
+    "exampleVi": "Nhân viên bán hàng giúp tôi tìm đúng cỡ."
+  },
+  {
+    "word": "grocery store",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "cửa hàng bán thực phẩm và nhu yếu phẩm",
+    "example": "There is a grocery store near my house.",
+    "exampleVi": "Có một cửa hàng thực phẩm gần nhà tôi."
+  },
+  {
+    "word": "convenience store",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "cửa hàng tiện lợi",
+    "example": "The convenience store stays open late.",
+    "exampleVi": "Cửa hàng tiện lợi mở cửa đến muộn."
+  },
+  {
+    "word": "department store",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "cửa hàng bách hóa lớn",
+    "example": "We bought clothes at the department store.",
+    "exampleVi": "Chúng tôi mua quần áo ở cửa hàng bách hóa lớn."
+  },
+  {
+    "word": "bakery",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "tiệm bánh",
+    "example": "The bakery sells fresh bread every morning.",
+    "exampleVi": "Tiệm bánh bán bánh mì mới làm mỗi sáng."
+  },
+  {
+    "word": "laundromat",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "tiệm giặt tự phục vụ",
+    "example": "I washed my clothes at the laundromat.",
+    "exampleVi": "Tôi giặt quần áo tại tiệm giặt tự phục vụ."
+  },
+  {
+    "word": "dry cleaner",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "tiệm giặt khô",
+    "example": "He took his suit to the dry cleaner.",
+    "exampleVi": "Anh ấy mang bộ vest đến tiệm giặt khô."
+  },
+  {
+    "word": "tailor",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "thợ may",
+    "example": "The tailor shortened my trousers.",
+    "exampleVi": "Thợ may chỉnh quần dài cho ngắn lại."
+  },
+  {
+    "word": "hairdresser",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "thợ làm tóc",
+    "example": "She has an appointment with the hairdresser.",
+    "exampleVi": "Cô ấy có lịch hẹn với thợ làm tóc."
+  },
+  {
+    "word": "barber",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "thợ cắt tóc nam",
+    "example": "He went to the barber for a haircut.",
+    "exampleVi": "Anh ấy đến thợ cắt tóc nam để cắt tóc."
+  },
+  {
+    "word": "jeweler",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "thợ hoặc người bán đồ trang sức",
+    "example": "The jeweler repaired the ring.",
+    "exampleVi": "Thợ kim hoàn sửa chiếc nhẫn."
+  },
+  {
+    "word": "parcel",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "bưu kiện",
+    "example": "The parcel arrived this morning.",
+    "exampleVi": "Bưu kiện đến vào sáng nay."
+  },
+  {
+    "word": "parcel",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "đóng gói; chia thành gói",
+    "example": "They parceled the goods for delivery.",
+    "exampleVi": "Họ đóng hàng thành gói để giao."
+  },
+  {
+    "word": "postage",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "cước bưu chính",
+    "example": "The postage is included in the price.",
+    "exampleVi": "Cước bưu chính đã được tính vào giá."
+  },
+  {
+    "word": "postbox",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "hòm thư để gửi thư",
+    "example": "Put the letter in the postbox.",
+    "exampleVi": "Hãy bỏ thư vào hòm gửi thư."
+  },
+  {
+    "word": "mailbox",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "hộp thư nhận thư",
+    "example": "I checked the mailbox after work.",
+    "exampleVi": "Tôi kiểm tra hộp thư sau khi làm việc."
+  },
+  {
+    "word": "postcode",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "mã bưu chính",
+    "example": "Write the postcode clearly on the envelope.",
+    "exampleVi": "Hãy viết rõ mã bưu chính trên phong bì."
+  },
+  {
+    "word": "cash register",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "máy tính tiền tại quầy",
+    "example": "The cashier opened the cash register.",
+    "exampleVi": "Thu ngân mở máy tính tiền."
+  },
+  {
+    "word": "card reader",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "thiết bị đọc thẻ",
+    "example": "Insert your card into the card reader.",
+    "exampleVi": "Hãy đưa thẻ vào thiết bị đọc thẻ."
+  },
+  {
+    "word": "contactless payment",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "thanh toán không tiếp xúc",
+    "example": "This shop accepts contactless payment.",
+    "exampleVi": "Cửa hàng này nhận thanh toán không tiếp xúc."
+  },
+  {
+    "word": "payment terminal",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "thiết bị thanh toán tại quầy",
+    "example": "The payment terminal printed a receipt.",
+    "exampleVi": "Thiết bị thanh toán in ra biên lai."
+  },
+  {
+    "word": "receipt printer",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "máy in biên lai",
+    "example": "The receipt printer ran out of paper.",
+    "exampleVi": "Máy in biên lai hết giấy."
+  },
+  {
+    "word": "bank transfer",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "chuyển khoản ngân hàng",
+    "example": "We paid by bank transfer.",
+    "exampleVi": "Chúng tôi thanh toán bằng chuyển khoản ngân hàng."
+  },
+  {
+    "word": "bus station",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "bến xe buýt",
+    "example": "The bus station is next to the market.",
+    "exampleVi": "Bến xe buýt ở cạnh chợ."
+  },
+  {
+    "word": "ticket office",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "quầy bán vé",
+    "example": "We bought our tickets at the ticket office.",
+    "exampleVi": "Chúng tôi mua vé ở quầy bán vé."
+  },
+  {
+    "word": "ticket machine",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "máy bán vé",
+    "example": "Use the ticket machine near the entrance.",
+    "exampleVi": "Hãy dùng máy bán vé gần lối vào."
+  },
+  {
+    "word": "round trip",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "chuyến đi khứ hồi",
+    "example": "The round trip took four hours.",
+    "exampleVi": "Chuyến đi khứ hồi mất bốn giờ."
+  },
+  {
+    "word": "one-way ticket",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "vé một chiều",
+    "example": "I bought a one-way ticket to the city.",
+    "exampleVi": "Tôi mua vé một chiều đến thành phố."
+  },
+  {
+    "word": "return ticket",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "vé khứ hồi",
+    "example": "She asked for a return ticket.",
+    "exampleVi": "Cô ấy yêu cầu một vé khứ hồi."
+  },
+  {
+    "word": "carry-on",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "hành lý xách tay",
+    "example": "My carry-on fits under the seat.",
+    "exampleVi": "Hành lý xách tay của tôi để vừa dưới ghế."
+  },
+  {
+    "word": "pedestrian crossing",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "lối hoặc vạch sang đường",
+    "example": "Use the pedestrian crossing to cross the road.",
+    "exampleVi": "Hãy dùng lối sang đường để qua đường."
+  },
+  {
+    "word": "junction",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "điểm giao nhau của các đường",
+    "example": "Turn right at the next junction.",
+    "exampleVi": "Hãy rẽ phải ở chỗ giao đường tiếp theo."
+  },
+  {
+    "word": "gas station",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "trạm xăng",
+    "example": "We stopped at a gas station.",
+    "exampleVi": "Chúng tôi dừng ở trạm xăng."
+  },
+  {
+    "word": "toll road",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "đường thu phí",
+    "example": "We took a toll road to save time.",
+    "exampleVi": "Chúng tôi đi đường thu phí để tiết kiệm thời gian."
+  },
+  {
+    "word": "taxi rank",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "điểm đón taxi",
+    "example": "There is a taxi rank outside the station.",
+    "exampleVi": "Có một điểm đón taxi bên ngoài nhà ga."
+  },
+  {
+    "word": "ride-sharing",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "dịch vụ đi chung xe hoặc kết nối chuyến xe",
+    "example": "She uses a ride-sharing service to get home.",
+    "exampleVi": "Cô ấy dùng dịch vụ kết nối chuyến xe để về nhà."
+  },
+  {
+    "word": "car rental",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "dịch vụ thuê xe",
+    "example": "The car rental office is near the airport.",
+    "exampleVi": "Văn phòng thuê xe ở gần sân bay."
+  },
+  {
+    "word": "rental car",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "xe thuê",
+    "example": "We returned the rental car on Sunday.",
+    "exampleVi": "Chúng tôi trả xe thuê vào Chủ nhật."
+  },
+  {
+    "word": "customs officer",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "nhân viên hải quan",
+    "example": "The customs officer checked my bag.",
+    "exampleVi": "Nhân viên hải quan kiểm tra túi của tôi."
+  },
+  {
+    "word": "currency exchange",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "việc hoặc nơi đổi ngoại tệ",
+    "example": "There is a currency exchange desk in the terminal.",
+    "exampleVi": "Có quầy đổi ngoại tệ trong nhà ga."
+  },
+  {
+    "word": "cancellation",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "việc hủy",
+    "example": "We received a message about the cancellation.",
+    "exampleVi": "Chúng tôi nhận được tin nhắn về việc hủy."
+  },
+  {
+    "word": "airport terminal",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "nhà ga sân bay",
+    "example": "The airport terminal is very busy today.",
+    "exampleVi": "Nhà ga sân bay hôm nay rất đông."
+  },
+  {
+    "word": "check-in counter",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "quầy làm thủ tục",
+    "example": "Show your passport at the check-in counter.",
+    "exampleVi": "Hãy đưa hộ chiếu tại quầy làm thủ tục."
+  },
+  {
+    "word": "security checkpoint",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "điểm kiểm tra an ninh",
+    "example": "We passed through the security checkpoint.",
+    "exampleVi": "Chúng tôi đi qua điểm kiểm tra an ninh."
+  },
+  {
+    "word": "passport control",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "khu hoặc bước kiểm tra hộ chiếu",
+    "example": "There was a long queue at passport control.",
+    "exampleVi": "Có một hàng dài ở khu kiểm tra hộ chiếu."
+  },
+  {
+    "word": "departure lounge",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "phòng chờ trước chuyến bay",
+    "example": "We waited in the departure lounge.",
+    "exampleVi": "Chúng tôi chờ trong phòng chờ trước chuyến bay."
+  },
+  {
+    "word": "arrival hall",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "sảnh đến",
+    "example": "My brother met me in the arrival hall.",
+    "exampleVi": "Anh trai gặp tôi ở sảnh đến."
+  },
+  {
+    "word": "baggage carousel",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "băng chuyền nhận hành lý",
+    "example": "Our bags appeared on the baggage carousel.",
+    "exampleVi": "Túi của chúng tôi xuất hiện trên băng chuyền nhận hành lý."
+  },
+  {
+    "word": "overhead bin",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "ngăn chứa hành lý phía trên ghế",
+    "example": "Place your bag in the overhead bin.",
+    "exampleVi": "Hãy đặt túi vào ngăn hành lý phía trên ghế."
+  },
+  {
+    "word": "aisle seat",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "ghế sát lối đi",
+    "example": "I prefer an aisle seat.",
+    "exampleVi": "Tôi thích ghế sát lối đi hơn."
+  },
+  {
+    "word": "window seat",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "ghế cạnh cửa sổ",
+    "example": "She chose a window seat.",
+    "exampleVi": "Cô ấy chọn ghế cạnh cửa sổ."
+  },
+  {
+    "word": "middle seat",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "ghế ở giữa",
+    "example": "He sat in the middle seat.",
+    "exampleVi": "Anh ấy ngồi ở ghế giữa."
+  },
+  {
+    "word": "connecting flight",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "chuyến bay nối chuyến",
+    "example": "We have two hours before our connecting flight.",
+    "exampleVi": "Chúng tôi có hai giờ trước chuyến bay nối chuyến."
+  },
+  {
+    "word": "direct flight",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "chuyến bay giữ cùng số hiệu, có thể có điểm dừng",
+    "example": "Our direct flight makes one scheduled stop.",
+    "exampleVi": "Chuyến bay cùng số hiệu của chúng tôi có một điểm dừng theo lịch."
+  },
+  {
+    "word": "nonstop flight",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "chuyến bay không dừng",
+    "example": "We booked a nonstop flight.",
+    "exampleVi": "Chúng tôi đặt chuyến bay không dừng."
+  },
+  {
+    "word": "flight attendant",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "tiếp viên hàng không",
+    "example": "The flight attendant helped me find my seat.",
+    "exampleVi": "Tiếp viên hàng không giúp tôi tìm ghế."
+  },
+  {
+    "word": "boarding time",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "giờ lên máy bay",
+    "example": "The boarding time is printed on the pass.",
+    "exampleVi": "Giờ lên máy bay được in trên thẻ."
+  },
+  {
+    "word": "departure time",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "giờ khởi hành",
+    "example": "Please check the departure time again.",
+    "exampleVi": "Hãy kiểm tra lại giờ khởi hành."
+  },
+  {
+    "word": "arrival time",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "giờ đến",
+    "example": "The arrival time has changed.",
+    "exampleVi": "Giờ đến đã thay đổi."
+  },
+  {
+    "word": "checked baggage",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "hành lý ký gửi",
+    "example": "My checked baggage arrived on the same flight.",
+    "exampleVi": "Hành lý ký gửi của tôi đến trên cùng chuyến bay."
+  },
+  {
+    "word": "excess baggage",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "hành lý vượt mức cho phép",
+    "example": "They charged a fee for excess baggage.",
+    "exampleVi": "Họ thu phí hành lý vượt mức."
+  },
+  {
+    "word": "baggage allowance",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "mức hành lý cho phép",
+    "example": "Check your baggage allowance before packing.",
+    "exampleVi": "Hãy kiểm tra mức hành lý cho phép trước khi chuẩn bị đồ."
+  },
+  {
+    "word": "lost property",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "đồ thất lạc",
+    "example": "Ask at the lost property office about your bag.",
+    "exampleVi": "Hãy hỏi văn phòng đồ thất lạc về túi của bạn."
+  },
+  {
+    "word": "left luggage",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "dịch vụ hoặc nơi giữ hành lý",
+    "example": "We left our bags at the left luggage counter.",
+    "exampleVi": "Chúng tôi gửi túi ở quầy giữ hành lý."
+  },
+  {
+    "word": "bus fare",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "giá vé xe buýt",
+    "example": "The bus fare is shown on the sign.",
+    "exampleVi": "Giá vé xe buýt được ghi trên biển."
+  },
+  {
+    "word": "train fare",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "giá vé tàu",
+    "example": "The train fare depends on the destination.",
+    "exampleVi": "Giá vé tàu phụ thuộc vào nơi đến."
+  },
+  {
+    "word": "bus route",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "tuyến xe buýt",
+    "example": "This bus route goes past the hospital.",
+    "exampleVi": "Tuyến xe buýt này đi qua bệnh viện."
+  },
+  {
+    "word": "subway station",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "ga tàu điện ngầm",
+    "example": "The subway station is below the shopping center.",
+    "exampleVi": "Ga tàu điện ngầm nằm dưới trung tâm mua sắm."
+  },
+  {
+    "word": "tram stop",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "điểm dừng tàu điện mặt đất",
+    "example": "There is a tram stop near the hotel.",
+    "exampleVi": "Có một điểm dừng tàu điện mặt đất gần khách sạn."
+  },
+  {
+    "word": "ferry terminal",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "bến phà",
+    "example": "We reached the ferry terminal before noon.",
+    "exampleVi": "Chúng tôi đến bến phà trước buổi trưa."
+  },
+  {
+    "word": "coach station",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "bến xe khách đường dài",
+    "example": "The coach station is outside the town center.",
+    "exampleVi": "Bến xe khách đường dài nằm ngoài trung tâm thị trấn."
+  },
+  {
+    "word": "ticket inspector",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "nhân viên kiểm tra vé",
+    "example": "The ticket inspector checked our tickets.",
+    "exampleVi": "Nhân viên kiểm tra vé kiểm tra vé của chúng tôi."
+  },
+  {
+    "word": "ticket barrier",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "cổng kiểm soát vé",
+    "example": "Scan your ticket at the ticket barrier.",
+    "exampleVi": "Hãy quét vé ở cổng kiểm soát vé."
+  },
+  {
+    "word": "sick leave",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "thời gian nghỉ do ốm",
+    "example": "He is on sick leave this week.",
+    "exampleVi": "Tuần này anh ấy nghỉ làm do ốm."
+  },
+  {
+    "word": "annual leave",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "nghỉ phép năm",
+    "example": "She booked a week of annual leave.",
+    "exampleVi": "Cô ấy đăng ký một tuần nghỉ phép năm."
+  },
+  {
+    "word": "paid leave",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "nghỉ có hưởng lương",
+    "example": "The contract includes paid leave.",
+    "exampleVi": "Hợp đồng có quy định nghỉ hưởng lương."
+  },
+  {
+    "word": "unpaid leave",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "nghỉ không hưởng lương",
+    "example": "He requested two days of unpaid leave.",
+    "exampleVi": "Anh ấy xin nghỉ không hưởng lương hai ngày."
+  },
+  {
+    "word": "probation period",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "thời gian thử việc",
+    "example": "The probation period ends next month.",
+    "exampleVi": "Thời gian thử việc kết thúc vào tháng sau."
+  },
+  {
+    "word": "notice period",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "thời hạn báo trước khi nghỉ hoặc chấm dứt việc",
+    "example": "Check the notice period in your contract.",
+    "exampleVi": "Hãy kiểm tra thời hạn báo trước trong hợp đồng."
+  },
+  {
+    "word": "dismissal",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "việc cho thôi việc",
+    "example": "His dismissal surprised the team.",
+    "exampleVi": "Việc anh ấy bị cho thôi việc khiến cả nhóm ngạc nhiên."
+  },
+  {
+    "word": "pay rise",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "việc tăng lương",
+    "example": "She asked for a pay rise.",
+    "exampleVi": "Cô ấy đề nghị tăng lương."
+  },
+  {
+    "word": "payslip",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "phiếu lương",
+    "example": "The payslip shows the deductions.",
+    "exampleVi": "Phiếu lương ghi các khoản khấu trừ."
+  },
+  {
+    "word": "overtime pay",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "tiền làm thêm giờ",
+    "example": "The overtime pay appears on this month's payslip.",
+    "exampleVi": "Tiền làm thêm giờ được ghi trên phiếu lương tháng này."
+  },
+  {
+    "word": "expense claim",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "yêu cầu thanh toán chi phí đã chi",
+    "example": "He submitted an expense claim after the trip.",
+    "exampleVi": "Anh ấy nộp yêu cầu thanh toán chi phí sau chuyến đi."
+  },
+  {
+    "word": "reimbursement",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "việc hoàn trả khoản tiền đã chi",
+    "example": "Keep your receipts for reimbursement.",
+    "exampleVi": "Hãy giữ biên lai để được hoàn trả chi phí."
+  },
+  {
+    "word": "business trip",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "chuyến công tác",
+    "example": "She is away on a business trip.",
+    "exampleVi": "Cô ấy đang đi công tác."
+  },
+  {
+    "word": "performance review",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "buổi hoặc quá trình đánh giá hiệu quả làm việc",
+    "example": "My performance review is next week.",
+    "exampleVi": "Buổi đánh giá hiệu quả làm việc của tôi diễn ra vào tuần sau."
+  },
+  {
+    "word": "job vacancy",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "vị trí tuyển dụng còn trống",
+    "example": "The company advertised a job vacancy.",
+    "exampleVi": "Công ty đăng thông báo về một vị trí đang tuyển."
+  },
+  {
+    "word": "job interview",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "buổi phỏng vấn xin việc",
+    "example": "He prepared carefully for the job interview.",
+    "exampleVi": "Anh ấy chuẩn bị kỹ cho buổi phỏng vấn xin việc."
+  },
+  {
+    "word": "cover letter",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "thư ứng tuyển kèm hồ sơ",
+    "example": "Attach a cover letter to your application.",
+    "exampleVi": "Hãy đính kèm thư ứng tuyển vào hồ sơ."
+  },
+  {
+    "word": "job offer",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "lời mời nhận việc",
+    "example": "She accepted the job offer.",
+    "exampleVi": "Cô ấy nhận lời mời làm việc."
+  },
+  {
+    "word": "employment contract",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "hợp đồng lao động",
+    "example": "Read the employment contract before signing.",
+    "exampleVi": "Hãy đọc hợp đồng lao động trước khi ký."
+  },
+  {
+    "word": "work shift",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "ca làm việc",
+    "example": "My work shift starts at six.",
+    "exampleVi": "Ca làm việc của tôi bắt đầu lúc sáu giờ."
+  },
+  {
+    "word": "flexible hours",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "giờ làm việc linh hoạt",
+    "example": "The company offers flexible hours.",
+    "exampleVi": "Công ty cho phép giờ làm việc linh hoạt."
+  },
+  {
+    "word": "remote work",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "làm việc từ xa",
+    "example": "Remote work saves me travel time.",
+    "exampleVi": "Làm việc từ xa giúp tôi tiết kiệm thời gian đi lại."
+  },
+  {
+    "word": "hybrid work",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "làm việc kết hợp tại văn phòng và từ xa",
+    "example": "Our team uses a hybrid work arrangement.",
+    "exampleVi": "Nhóm chúng tôi làm việc kết hợp tại văn phòng và từ xa."
+  },
+  {
+    "word": "team meeting",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "cuộc họp nhóm",
+    "example": "We discussed the problem at the team meeting.",
+    "exampleVi": "Chúng tôi trao đổi về vấn đề tại cuộc họp nhóm."
+  },
+  {
+    "word": "meeting minutes",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "biên bản cuộc họp",
+    "example": "Please send me the meeting minutes.",
+    "exampleVi": "Hãy gửi cho tôi biên bản cuộc họp."
+  },
+  {
+    "word": "to-do list",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "danh sách việc cần làm",
+    "example": "I added the task to my to-do list.",
+    "exampleVi": "Tôi thêm nhiệm vụ vào danh sách việc cần làm."
+  },
+  {
+    "word": "time off",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "thời gian nghỉ làm",
+    "example": "He needs some time off after the project.",
+    "exampleVi": "Anh ấy cần nghỉ làm một thời gian sau dự án."
+  },
+  {
+    "word": "time zone",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "múi giờ",
+    "example": "We work in a different time zone.",
+    "exampleVi": "Chúng tôi làm việc ở một múi giờ khác."
+  },
+  {
+    "word": "clarification",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "sự làm rõ; lời giải thích bổ sung",
+    "example": "I asked for clarification of the instructions.",
+    "exampleVi": "Tôi đề nghị làm rõ hướng dẫn."
+  },
+  {
+    "word": "clarification",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "lời giải thích bổ sung",
+    "example": "She sent two clarifications after the meeting.",
+    "exampleVi": "Cô ấy gửi hai lời giải thích bổ sung sau cuộc họp."
+  },
+  {
+    "word": "permission",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "sự cho phép",
+    "example": "You need permission to enter this room.",
+    "exampleVi": "Bạn cần được cho phép để vào phòng này."
+  },
+  {
+    "word": "update",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "thông tin cập nhật; việc cập nhật",
+    "example": "She sent an update about the project.",
+    "exampleVi": "Cô ấy gửi thông tin cập nhật về dự án."
+  },
+  {
+    "word": "update",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "cập nhật",
+    "example": "Please update the schedule after the meeting.",
+    "exampleVi": "Hãy cập nhật lịch sau cuộc họp."
+  },
+  {
+    "word": "job description",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "bản mô tả công việc",
+    "example": "The job description lists the main duties.",
+    "exampleVi": "Bản mô tả công việc liệt kê các nhiệm vụ chính."
+  },
+  {
+    "word": "job application",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "đơn hoặc hồ sơ xin việc",
+    "example": "He submitted a job application yesterday.",
+    "exampleVi": "Hôm qua anh ấy nộp hồ sơ xin việc."
+  },
+  {
+    "word": "application form",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "mẫu đơn đăng ký hoặc ứng tuyển",
+    "example": "Complete the application form online.",
+    "exampleVi": "Hãy điền mẫu đơn trên mạng."
+  },
+  {
+    "word": "reference letter",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "thư giới thiệu",
+    "example": "My former manager wrote a reference letter.",
+    "exampleVi": "Người quản lý cũ viết thư giới thiệu cho tôi."
+  },
+  {
+    "word": "recruitment agency",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "công ty tuyển dụng",
+    "example": "She found work through a recruitment agency.",
+    "exampleVi": "Cô ấy tìm được việc qua công ty tuyển dụng."
+  },
+  {
+    "word": "career change",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "việc chuyển nghề",
+    "example": "He is considering a career change.",
+    "exampleVi": "Anh ấy đang cân nhắc chuyển nghề."
+  },
+  {
+    "word": "career path",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "lộ trình nghề nghiệp",
+    "example": "We discussed my career path with the manager.",
+    "exampleVi": "Chúng tôi trao đổi với quản lý về lộ trình nghề nghiệp của tôi."
+  },
+  {
+    "word": "entry-level job",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "công việc dành cho người mới vào nghề",
+    "example": "She applied for an entry-level job.",
+    "exampleVi": "Cô ấy ứng tuyển vào một công việc dành cho người mới vào nghề."
+  },
+  {
+    "word": "work experience",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "kinh nghiệm làm việc",
+    "example": "The position requires some work experience.",
+    "exampleVi": "Vị trí này yêu cầu một ít kinh nghiệm làm việc."
+  },
+  {
+    "word": "employment history",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "lịch sử làm việc",
+    "example": "The form asks for your employment history.",
+    "exampleVi": "Mẫu đơn yêu cầu lịch sử làm việc của bạn."
+  },
+  {
+    "word": "job seeker",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "người tìm việc",
+    "example": "The workshop is useful for a job seeker.",
+    "exampleVi": "Buổi hướng dẫn hữu ích cho người tìm việc."
+  },
+  {
+    "word": "job opening",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "vị trí đang tuyển",
+    "example": "The website lists a new job opening.",
+    "exampleVi": "Trang web đăng một vị trí đang tuyển."
+  },
+  {
+    "word": "job board",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "trang hoặc bảng thông tin tuyển dụng",
+    "example": "He checks the job board every morning.",
+    "exampleVi": "Anh ấy xem trang tuyển dụng mỗi sáng."
+  },
+  {
+    "word": "orientation session",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "buổi hướng dẫn ban đầu",
+    "example": "New employees attend an orientation session.",
+    "exampleVi": "Nhân viên mới tham dự một buổi hướng dẫn ban đầu."
+  },
+  {
+    "word": "training session",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "buổi đào tạo",
+    "example": "We have a training session on Friday.",
+    "exampleVi": "Chúng tôi có một buổi đào tạo vào thứ Sáu."
+  },
+  {
+    "word": "staff meeting",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "cuộc họp nhân viên",
+    "example": "The manager announced it at the staff meeting.",
+    "exampleVi": "Quản lý thông báo việc đó tại cuộc họp nhân viên."
+  },
+  {
+    "word": "staff room",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "phòng dành cho nhân viên",
+    "example": "You can leave your bag in the staff room.",
+    "exampleVi": "Bạn có thể để túi trong phòng nhân viên."
+  },
+  {
+    "word": "meeting room",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "phòng họp",
+    "example": "The meeting room is on the second floor.",
+    "exampleVi": "Phòng họp ở tầng hai."
+  },
+  {
+    "word": "video call",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "cuộc gọi có hình ảnh",
+    "example": "We had a video call with the client.",
+    "exampleVi": "Chúng tôi gọi video cho khách hàng."
+  },
+  {
+    "word": "happy",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "vui; hạnh phúc",
+    "example": "She felt happy after the good news.",
+    "exampleVi": "Cô ấy thấy vui sau tin tốt."
+  },
+  {
+    "word": "sad",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "buồn",
+    "example": "He was sad when his friend moved away.",
+    "exampleVi": "Anh ấy buồn khi bạn chuyển đi."
+  },
+  {
+    "word": "angry",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "tức giận",
+    "example": "She was angry about the delay.",
+    "exampleVi": "Cô ấy tức giận vì việc chậm trễ."
+  },
+  {
+    "word": "afraid",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "sợ",
+    "example": "The child was afraid of the dark.",
+    "exampleVi": "Đứa trẻ sợ bóng tối."
+  },
+  {
+    "word": "tired",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "mệt",
+    "example": "I felt tired after work.",
+    "exampleVi": "Tôi thấy mệt sau khi làm việc."
+  },
+  {
+    "word": "hungry",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "đói",
+    "example": "We were hungry after the walk.",
+    "exampleVi": "Chúng tôi đói sau khi đi bộ."
+  },
+  {
+    "word": "thirsty",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "khát",
+    "example": "He was thirsty after the game.",
+    "exampleVi": "Anh ấy khát sau trận đấu."
+  },
+  {
+    "word": "sleepy",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "buồn ngủ",
+    "example": "The baby looks sleepy.",
+    "exampleVi": "Em bé trông buồn ngủ."
+  },
+  {
+    "word": "bored",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "chán",
+    "example": "She felt bored during the long wait.",
+    "exampleVi": "Cô ấy thấy chán khi phải chờ lâu."
+  },
+  {
+    "word": "excited",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "háo hức; phấn khích",
+    "example": "The children were excited about the trip.",
+    "exampleVi": "Bọn trẻ háo hức về chuyến đi."
+  },
+  {
+    "word": "calm",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "bình tĩnh",
+    "example": "Try to stay calm during the interview.",
+    "exampleVi": "Hãy cố giữ bình tĩnh trong buổi phỏng vấn."
+  },
+  {
+    "word": "proud",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "tự hào",
+    "example": "She is proud of her daughter's progress.",
+    "exampleVi": "Cô ấy tự hào về sự tiến bộ của con gái."
+  },
+  {
+    "word": "shy",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "nhút nhát; ngại ngùng",
+    "example": "He is shy around new people.",
+    "exampleVi": "Anh ấy ngại ngùng khi ở gần người mới."
+  },
+  {
+    "word": "rude",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "thô lỗ",
+    "example": "It is rude to interrupt someone.",
+    "exampleVi": "Ngắt lời người khác là bất lịch sự."
+  },
+  {
+    "word": "kind",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "tử tế",
+    "example": "It was kind of you to help us.",
+    "exampleVi": "Bạn thật tử tế khi giúp chúng tôi."
+  },
+  {
+    "word": "kind",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "loại",
+    "example": "What kind of music do you like?",
+    "exampleVi": "Bạn thích loại nhạc nào?"
+  },
+  {
+    "word": "clever",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "thông minh; lanh lợi",
+    "example": "That was a clever solution.",
+    "exampleVi": "Đó là một cách giải quyết thông minh."
+  },
+  {
+    "word": "lazy",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "lười",
+    "example": "He felt too lazy to cook.",
+    "exampleVi": "Anh ấy thấy lười nên không muốn nấu ăn."
+  },
+  {
+    "word": "friendly",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "thân thiện",
+    "example": "Our new neighbor is friendly.",
+    "exampleVi": "Người hàng xóm mới của chúng tôi thân thiện."
+  },
+  {
+    "word": "lonely",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "cô đơn",
+    "example": "She felt lonely in the new city.",
+    "exampleVi": "Cô ấy thấy cô đơn ở thành phố mới."
+  },
+  {
+    "word": "busy",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "bận",
+    "example": "I am busy this afternoon.",
+    "exampleVi": "Chiều nay tôi bận."
+  },
+  {
+    "word": "free",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "rảnh",
+    "example": "Are you free for lunch tomorrow?",
+    "exampleVi": "Ngày mai bạn có rảnh ăn trưa không?"
+  },
+  {
+    "word": "free",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "miễn phí",
+    "example": "Entry to the museum is free today.",
+    "exampleVi": "Hôm nay vào bảo tàng miễn phí."
+  },
+  {
+    "word": "free",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "giải phóng; thả ra",
+    "example": "They freed the bird from the net.",
+    "exampleVi": "Họ thả con chim ra khỏi lưới."
+  },
+  {
+    "word": "ready",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "sẵn sàng",
+    "example": "We are ready to leave.",
+    "exampleVi": "Chúng tôi đã sẵn sàng rời đi."
+  },
+  {
+    "word": "wrong",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "sai",
+    "example": "I think this answer is wrong.",
+    "exampleVi": "Tôi nghĩ câu trả lời này sai."
+  },
+  {
+    "word": "right",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "đúng",
+    "example": "You chose the right answer.",
+    "exampleVi": "Bạn chọn câu trả lời đúng."
+  },
+  {
+    "word": "right",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "ở phía phải",
+    "example": "Use the right hand to hold the handle.",
+    "exampleVi": "Hãy dùng tay phải để giữ tay cầm."
+  },
+  {
+    "word": "right",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "quyền",
+    "example": "Everyone has the right to ask questions.",
+    "exampleVi": "Mọi người có quyền đặt câu hỏi."
+  },
+  {
+    "word": "early",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "sớm",
+    "example": "We caught an early train.",
+    "exampleVi": "Chúng tôi bắt một chuyến tàu sớm."
+  },
+  {
+    "word": "late",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "muộn",
+    "example": "The bus was late again.",
+    "exampleVi": "Xe buýt lại đến muộn."
+  },
+  {
+    "word": "cheap",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "rẻ",
+    "example": "This restaurant has cheap meals.",
+    "exampleVi": "Nhà hàng này có những bữa ăn giá rẻ."
+  },
+  {
+    "word": "expensive",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "đắt",
+    "example": "The hotel is too expensive for us.",
+    "exampleVi": "Khách sạn quá đắt đối với chúng tôi."
+  },
+  {
+    "word": "wet",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "ướt",
+    "example": "My shoes are wet from the rain.",
+    "exampleVi": "Giày tôi bị ướt vì mưa."
+  },
+  {
+    "word": "dirty",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "bẩn",
+    "example": "Put the dirty clothes in the basket.",
+    "exampleVi": "Hãy bỏ quần áo bẩn vào giỏ."
+  },
+  {
+    "word": "warm",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "ấm",
+    "example": "The soup is still warm.",
+    "exampleVi": "Súp vẫn còn ấm."
+  },
+  {
+    "word": "cool",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "mát",
+    "example": "The room feels cool in the morning.",
+    "exampleVi": "Phòng mát vào buổi sáng."
+  },
+  {
+    "word": "cool",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "làm nguội; nguội đi",
+    "example": "Let the soup cool before serving it.",
+    "exampleVi": "Hãy để súp nguội trước khi dọn ra."
+  },
+  {
+    "word": "hot",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "nóng",
+    "example": "Be careful because the pan is hot.",
+    "exampleVi": "Hãy cẩn thận vì chảo đang nóng."
+  },
+  {
+    "word": "cold",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "lạnh",
+    "example": "The water is too cold for swimming.",
+    "exampleVi": "Nước quá lạnh để bơi."
+  },
+  {
+    "word": "cold",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "cảm lạnh",
+    "example": "He has a cold and stayed home.",
+    "exampleVi": "Anh ấy bị cảm lạnh và ở nhà."
+  },
+  {
+    "word": "sunny",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "có nắng",
+    "example": "It was a sunny day.",
+    "exampleVi": "Hôm đó trời có nắng."
+  },
+  {
+    "word": "windy",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "có gió",
+    "example": "The beach is windy today.",
+    "exampleVi": "Hôm nay bãi biển có gió."
+  },
+  {
+    "word": "rainy",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "có mưa",
+    "example": "We stayed home on the rainy afternoon.",
+    "exampleVi": "Chúng tôi ở nhà vào buổi chiều mưa."
+  },
+  {
+    "word": "cloudy",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "nhiều mây",
+    "example": "The sky is cloudy this morning.",
+    "exampleVi": "Sáng nay trời nhiều mây."
+  },
+  {
+    "word": "snowy",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "có tuyết",
+    "example": "We drove slowly along the snowy road.",
+    "exampleVi": "Chúng tôi lái xe chậm trên con đường có tuyết."
+  },
+  {
+    "word": "foggy",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "có sương mù",
+    "example": "It was a foggy morning.",
+    "exampleVi": "Sáng hôm đó có sương mù."
+  },
+  {
+    "word": "bright",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "sáng",
+    "example": "The room is bright because of the large windows.",
+    "exampleVi": "Phòng sáng nhờ những cửa sổ lớn."
+  },
+  {
+    "word": "bright",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "thông minh; nhanh trí",
+    "example": "She is a bright student.",
+    "exampleVi": "Cô ấy là một học sinh nhanh trí."
+  },
+  {
+    "word": "dark",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "tối",
+    "example": "The hallway is dark at night.",
+    "exampleVi": "Hành lang tối vào ban đêm."
+  },
+  {
+    "word": "noisy",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "ồn ào",
+    "example": "The café is too noisy for a meeting.",
+    "exampleVi": "Quán cà phê quá ồn để họp."
+  },
+  {
+    "word": "quiet",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "yên tĩnh",
+    "example": "We found a quiet place to study.",
+    "exampleVi": "Chúng tôi tìm được một nơi yên tĩnh để học."
+  },
+  {
+    "word": "heavy",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "nặng",
+    "example": "This suitcase is heavy.",
+    "exampleVi": "Chiếc va li này nặng."
+  },
+  {
+    "word": "light",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "nhẹ",
+    "example": "The bag is light enough to carry.",
+    "exampleVi": "Chiếc túi đủ nhẹ để mang."
+  },
+  {
+    "word": "light",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "ánh sáng",
+    "example": "The light from the window fills the room.",
+    "exampleVi": "Ánh sáng từ cửa sổ chiếu khắp phòng."
+  },
+  {
+    "word": "light",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "thắp; châm lửa",
+    "example": "She lit a candle before dinner.",
+    "exampleVi": "Cô ấy thắp một cây nến trước bữa tối."
+  },
+  {
+    "word": "soft",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "mềm",
+    "example": "The blanket feels soft.",
+    "exampleVi": "Chiếc chăn có cảm giác mềm."
+  },
+  {
+    "word": "hard",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "cứng",
+    "example": "The wooden chair is hard.",
+    "exampleVi": "Chiếc ghế gỗ cứng."
+  },
+  {
+    "word": "hard",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "khó",
+    "example": "This question is hard to answer.",
+    "exampleVi": "Câu hỏi này khó trả lời."
+  },
+  {
+    "word": "smooth",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "nhẵn; trơn",
+    "example": "The table has a smooth surface.",
+    "exampleVi": "Chiếc bàn có bề mặt nhẵn."
+  },
+  {
+    "word": "wide",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "rộng",
+    "example": "The street is wide enough for two buses.",
+    "exampleVi": "Con đường đủ rộng cho hai xe buýt."
+  },
+  {
+    "word": "deep",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "sâu",
+    "example": "The lake is deep near the center.",
+    "exampleVi": "Hồ sâu ở gần giữa."
+  },
+  {
+    "word": "tall",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "cao",
+    "example": "A tall tree stands beside the house.",
+    "exampleVi": "Một cây cao mọc bên cạnh nhà."
+  },
+  {
+    "word": "young",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "trẻ",
+    "example": "She started learning English when she was young.",
+    "exampleVi": "Cô ấy bắt đầu học tiếng Anh khi còn trẻ."
+  },
+  {
+    "word": "old",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "già",
+    "example": "My grandfather is old but still active.",
+    "exampleVi": "Ông tôi đã già nhưng vẫn năng động."
+  },
+  {
+    "word": "old",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "cũ",
+    "example": "We replaced the old washing machine.",
+    "exampleVi": "Chúng tôi thay chiếc máy giặt cũ."
+  },
+  {
+    "word": "sick",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "ốm; bị bệnh",
+    "example": "He stayed home because he was sick.",
+    "exampleVi": "Anh ấy ở nhà vì bị ốm."
+  },
+  {
+    "word": "healthy",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "khỏe mạnh",
+    "example": "Regular exercise helps me stay healthy.",
+    "exampleVi": "Vận động thường xuyên giúp tôi khỏe mạnh."
+  },
+  {
+    "word": "helpful",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "hay giúp đỡ; hữu ích",
+    "example": "The staff were very helpful.",
+    "exampleVi": "Nhân viên rất nhiệt tình giúp đỡ."
+  },
+  {
+    "word": "careful",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "cẩn thận",
+    "example": "Be careful with the glass.",
+    "exampleVi": "Hãy cẩn thận với chiếc cốc."
+  },
+  {
+    "word": "careless",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "bất cẩn",
+    "example": "That was a careless mistake.",
+    "exampleVi": "Đó là một sai sót do bất cẩn."
+  },
+  {
+    "word": "safe",
+    "sourceGroup": "everyday-500",
+    "pos": "adjective",
+    "meaningVi": "an toàn",
+    "example": "Keep your passport in a safe place.",
+    "exampleVi": "Hãy để hộ chiếu ở một nơi an toàn."
+  },
+  {
+    "word": "safe",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "két sắt",
+    "example": "Keep the documents in a safe.",
+    "exampleVi": "Hãy giữ tài liệu trong két sắt."
+  },
+  {
+    "word": "mother",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "mẹ",
+    "example": "My mother works at a school.",
+    "exampleVi": "Mẹ tôi làm việc ở một trường học."
+  },
+  {
+    "word": "father",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "cha; bố",
+    "example": "His father taught him to swim.",
+    "exampleVi": "Cha anh ấy dạy anh ấy bơi."
+  },
+  {
+    "word": "parent",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "cha hoặc mẹ",
+    "example": "A parent must sign this form.",
+    "exampleVi": "Cha hoặc mẹ phải ký mẫu đơn này."
+  },
+  {
+    "word": "brother",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "anh hoặc em trai",
+    "example": "My brother lives in another city.",
+    "exampleVi": "Anh trai tôi sống ở một thành phố khác."
+  },
+  {
+    "word": "sister",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "chị hoặc em gái",
+    "example": "Her sister is studying medicine.",
+    "exampleVi": "Em gái cô ấy đang học ngành y."
+  },
+  {
+    "word": "son",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "con trai",
+    "example": "Their son started school this year.",
+    "exampleVi": "Con trai của họ bắt đầu đi học vào năm nay."
+  },
+  {
+    "word": "daughter",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "con gái",
+    "example": "He picked up his daughter after school.",
+    "exampleVi": "Anh ấy đón con gái sau giờ học."
+  },
+  {
+    "word": "husband",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "chồng",
+    "example": "Her husband prepared dinner.",
+    "exampleVi": "Chồng cô ấy chuẩn bị bữa tối."
+  },
+  {
+    "word": "wife",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "vợ",
+    "example": "His wife called him after work.",
+    "exampleVi": "Vợ anh ấy gọi cho anh ấy sau giờ làm."
+  },
+  {
+    "word": "grandmother",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "bà",
+    "example": "My grandmother makes delicious soup.",
+    "exampleVi": "Bà tôi nấu súp rất ngon."
+  },
+  {
+    "word": "grandfather",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "ông",
+    "example": "His grandfather told us a story.",
+    "exampleVi": "Ông anh ấy kể cho chúng tôi một câu chuyện."
+  },
+  {
+    "word": "aunt",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "cô; dì; bác gái",
+    "example": "My aunt lives near the station.",
+    "exampleVi": "Dì tôi sống gần nhà ga."
+  },
+  {
+    "word": "uncle",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "chú; cậu; bác trai",
+    "example": "Her uncle helped her move.",
+    "exampleVi": "Chú cô ấy giúp cô ấy chuyển nhà."
+  },
+  {
+    "word": "cousin",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "anh chị em họ",
+    "example": "We visited our cousin at the weekend.",
+    "exampleVi": "Chúng tôi thăm người anh em họ vào cuối tuần."
+  },
+  {
+    "word": "niece",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "cháu gái gọi mình bằng cô, dì, chú hoặc bác",
+    "example": "My niece is learning to read.",
+    "exampleVi": "Cháu gái của tôi đang học đọc."
+  },
+  {
+    "word": "nephew",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "cháu trai gọi mình bằng cô, dì, chú hoặc bác",
+    "example": "His nephew loves drawing.",
+    "exampleVi": "Cháu trai của anh ấy thích vẽ."
+  },
+  {
+    "word": "family",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "gia đình",
+    "example": "Our family eats dinner together.",
+    "exampleVi": "Gia đình chúng tôi cùng ăn tối."
+  },
+  {
+    "word": "child",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "đứa trẻ; con",
+    "example": "The child is playing outside.",
+    "exampleVi": "Đứa trẻ đang chơi bên ngoài."
+  },
+  {
+    "word": "baby",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "em bé",
+    "example": "The baby is sleeping quietly.",
+    "exampleVi": "Em bé đang ngủ yên."
+  },
+  {
+    "word": "toddler",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "trẻ nhỏ mới biết đi",
+    "example": "The toddler is learning to walk.",
+    "exampleVi": "Trẻ nhỏ đang tập đi."
+  },
+  {
+    "word": "teenager",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "người từ 13 đến 19 tuổi",
+    "example": "The course is designed for a teenager.",
+    "exampleVi": "Khóa học được thiết kế cho người ở tuổi thiếu niên."
+  },
+  {
+    "word": "neighbor",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "hàng xóm",
+    "example": "Our neighbor watered the plants for us.",
+    "exampleVi": "Hàng xóm tưới cây giúp chúng tôi."
+  },
+  {
+    "word": "friend",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "bạn",
+    "example": "I called a friend to ask for help.",
+    "exampleVi": "Tôi gọi một người bạn để nhờ giúp đỡ."
+  },
+  {
+    "word": "classmate",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "bạn cùng lớp",
+    "example": "My classmate shared her notes.",
+    "exampleVi": "Bạn cùng lớp chia sẻ ghi chép của cô ấy."
+  },
+  {
+    "word": "roommate",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "người ở cùng phòng",
+    "example": "My roommate works in the evenings.",
+    "exampleVi": "Người ở cùng phòng với tôi làm việc vào buổi tối."
+  },
+  {
+    "word": "teammate",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "đồng đội; người cùng nhóm",
+    "example": "She helped a teammate finish the task.",
+    "exampleVi": "Cô ấy giúp một người cùng nhóm hoàn thành nhiệm vụ."
+  },
+  {
+    "word": "stranger",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "người lạ",
+    "example": "A stranger asked me for directions.",
+    "exampleVi": "Một người lạ hỏi đường tôi."
+  },
+  {
+    "word": "guest",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "khách",
+    "example": "We prepared a room for our guest.",
+    "exampleVi": "Chúng tôi chuẩn bị phòng cho khách."
+  },
+  {
+    "word": "host",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "chủ nhà; người đón khách",
+    "example": "The host welcomed everyone at the door.",
+    "exampleVi": "Chủ nhà chào đón mọi người ở cửa."
+  },
+  {
+    "word": "host",
+    "sourceGroup": "everyday-500",
+    "pos": "verb",
+    "meaningVi": "tổ chức; đón tiếp",
+    "example": "Our school hosted a meeting for parents.",
+    "exampleVi": "Trường chúng tôi tổ chức một cuộc họp cho phụ huynh."
+  },
+  {
+    "word": "host",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "người dẫn chương trình",
+    "example": "The host introduced the next speaker.",
+    "exampleVi": "Người dẫn chương trình giới thiệu người nói tiếp theo."
+  },
+  {
+    "word": "customer",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "khách hàng",
+    "example": "The customer asked for a refund.",
+    "exampleVi": "Khách hàng yêu cầu hoàn tiền."
+  },
+  {
+    "word": "passenger",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "hành khách",
+    "example": "Each passenger must show a ticket.",
+    "exampleVi": "Mỗi hành khách phải xuất trình vé."
+  },
+  {
+    "word": "tourist",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "du khách",
+    "example": "A tourist asked where the museum was.",
+    "exampleVi": "Một du khách hỏi bảo tàng ở đâu."
+  },
+  {
+    "word": "visitor",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "người đến thăm",
+    "example": "The visitor signed in at reception.",
+    "exampleVi": "Người đến thăm đăng ký tại quầy lễ tân."
+  },
+  {
+    "word": "grandchild",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "cháu nội hoặc ngoại",
+    "example": "She bought a book for her grandchild.",
+    "exampleVi": "Cô ấy mua một cuốn sách cho cháu nội hoặc ngoại."
+  },
+  {
+    "word": "grandparent",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "ông hoặc bà",
+    "example": "A grandparent came to the school event.",
+    "exampleVi": "Một người ông hoặc bà đến sự kiện của trường."
+  },
+  {
+    "word": "great-grandmother",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "bà cố; cụ bà",
+    "example": "My great-grandmother lived in this village.",
+    "exampleVi": "Bà cố của tôi từng sống ở làng này."
+  },
+  {
+    "word": "great-grandfather",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "ông cố; cụ ông",
+    "example": "His great-grandfather built the house.",
+    "exampleVi": "Ông cố của anh ấy xây ngôi nhà này."
+  },
+  {
+    "word": "mother-in-law",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "mẹ vợ hoặc mẹ chồng",
+    "example": "My mother-in-law is visiting us this week.",
+    "exampleVi": "Tuần này mẹ chồng đến thăm chúng tôi."
+  },
+  {
+    "word": "father-in-law",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "cha vợ hoặc cha chồng",
+    "example": "His father-in-law helped repair the fence.",
+    "exampleVi": "Cha vợ giúp anh ấy sửa hàng rào."
+  },
+  {
+    "word": "son-in-law",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "con rể",
+    "example": "She invited her son-in-law to dinner.",
+    "exampleVi": "Cô ấy mời con rể ăn tối."
+  },
+  {
+    "word": "daughter-in-law",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "con dâu",
+    "example": "He gave his daughter-in-law a birthday card.",
+    "exampleVi": "Anh ấy tặng con dâu một tấm thiệp sinh nhật."
+  },
+  {
+    "word": "brother-in-law",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "anh hoặc em rể; anh hoặc em trai của vợ/chồng",
+    "example": "My brother-in-law works at the hospital.",
+    "exampleVi": "Anh rể tôi làm việc ở bệnh viện."
+  },
+  {
+    "word": "sister-in-law",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "chị hoặc em dâu; chị hoặc em gái của vợ/chồng",
+    "example": "Her sister-in-law came to the party.",
+    "exampleVi": "Chị dâu cô ấy đến bữa tiệc."
+  },
+  {
+    "word": "stepmother",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "mẹ kế",
+    "example": "His stepmother helped him with homework.",
+    "exampleVi": "Mẹ kế giúp cậu ấy làm bài tập."
+  },
+  {
+    "word": "stepfather",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "cha dượng",
+    "example": "My stepfather taught me to ride a bicycle.",
+    "exampleVi": "Cha dượng dạy tôi đi xe đạp."
+  },
+  {
+    "word": "stepbrother",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "anh hoặc em trai là con riêng của cha/mẹ kế",
+    "example": "She shares a room with her stepbrother.",
+    "exampleVi": "Cô ấy ở chung phòng với người anh em là con riêng của cha hoặc mẹ kế."
+  },
+  {
+    "word": "stepsister",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "chị hoặc em gái là con riêng của cha/mẹ kế",
+    "example": "His stepsister is the same age as him.",
+    "exampleVi": "Người chị em là con riêng của cha hoặc mẹ kế bằng tuổi cậu ấy."
+  },
+  {
+    "word": "half-brother",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "anh hoặc em trai cùng cha hoặc cùng mẹ",
+    "example": "My half-brother has the same father as me.",
+    "exampleVi": "Người anh em cùng cha khác mẹ của tôi có cùng cha với tôi."
+  },
+  {
+    "word": "half-sister",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "chị hoặc em gái cùng cha hoặc cùng mẹ",
+    "example": "She grew up with her half-sister.",
+    "exampleVi": "Cô ấy lớn lên cùng người chị em cùng cha hoặc cùng mẹ."
+  },
+  {
+    "word": "foster parent",
+    "sourceGroup": "everyday-500",
+    "pos": "noun",
+    "meaningVi": "người nhận chăm sóc trẻ theo hình thức nuôi dưỡng thay thế",
+    "example": "He became a foster parent last year.",
+    "exampleVi": "Anh ấy trở thành người chăm sóc trẻ theo hình thức nuôi dưỡng thay thế vào năm ngoái."
+  }
+]

@@ -553,6 +553,548 @@
         ],
         "ipa": "/ˈɡɪvən/, /ˈɡɪvɪn/"
       }
+    ],
+    "phrases": [
+      {
+        "word": "give up",
+        "pos": "verb",
+        "ipa": "/ɡɪv ʌp/",
+        "meaningVi": "từ bỏ; ngừng cố gắng hoặc ngừng một thói quen",
+        "example": "He decided to give up smoking.",
+        "exampleVi": "Anh ấy quyết định bỏ thuốc lá.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gives up",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡɪvz ʌp/"
+          },
+          {
+            "word": "giving up",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡɪvɪŋ ʌp/"
+          },
+          {
+            "word": "gave up",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈɡeɪv ʌp/"
+          },
+          {
+            "word": "given up",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɪvən ʌp/, /ˈɡɪvɪn ʌp/"
+          }
+        ]
+      },
+      {
+        "word": "give in",
+        "pos": "verb",
+        "ipa": "/ɡɪv ɪn/",
+        "meaningVi": "chịu nhượng bộ sau khi chống lại",
+        "example": "Do not give in just because it is difficult.",
+        "exampleVi": "Đừng đầu hàng chỉ vì việc đó khó.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gives in",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡɪvz ɪn/"
+          },
+          {
+            "word": "giving in",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡɪvɪŋ ɪn/"
+          },
+          {
+            "word": "gave in",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈɡeɪv ɪn/"
+          },
+          {
+            "word": "given in",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɪvən ɪn/, /ˈɡɪvɪn ɪn/"
+          }
+        ]
+      },
+      {
+        "word": "give out",
+        "pos": "verb",
+        "ipa": "/ɡɪv aʊt/",
+        "meaningVi": "phân phát cho nhiều người",
+        "example": "Volunteers give out meals every evening.",
+        "exampleVi": "Tình nguyện viên phát suất ăn mỗi tối.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gives out",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡɪvz aʊt/"
+          },
+          {
+            "word": "giving out",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡɪvɪŋ aʊt/"
+          },
+          {
+            "word": "gave out",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈɡeɪv aʊt/"
+          },
+          {
+            "word": "given out",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɪvən aʊt/, /ˈɡɪvɪn aʊt/"
+          }
+        ]
+      },
+      {
+        "word": "give away",
+        "pos": "verb",
+        "ipa": "/ɡɪv əˈweɪ/",
+        "meaningVi": "cho miễn phí; tặng không",
+        "example": "We will give away the books we no longer need.",
+        "exampleVi": "Chúng tôi sẽ tặng những cuốn sách không còn cần.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gives away",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡɪvz əˈweɪ/"
+          },
+          {
+            "word": "giving away",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡɪvɪŋ əˈweɪ/"
+          },
+          {
+            "word": "gave away",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈɡeɪv əˈweɪ/"
+          },
+          {
+            "word": "given away",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɪvən əˈweɪ/, /ˈɡɪvɪn əˈweɪ/"
+          }
+        ]
+      },
+      {
+        "word": "give back",
+        "pos": "verb",
+        "ipa": "/ɡɪv bæk/",
+        "meaningVi": "trả lại thứ đã mượn hoặc lấy",
+        "example": "Please give back my pen.",
+        "exampleVi": "Hãy trả lại bút cho tôi.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gives back",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡɪvz bæk/"
+          },
+          {
+            "word": "giving back",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡɪvɪŋ bæk/"
+          },
+          {
+            "word": "gave back",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈɡeɪv bæk/"
+          },
+          {
+            "word": "given back",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɪvən bæk/, /ˈɡɪvɪn bæk/"
+          }
+        ]
+      },
+      {
+        "word": "give off",
+        "pos": "verb",
+        "ipa": "/ɡɪv ɔːf/",
+        "meaningVi": "tỏa ra nhiệt, ánh sáng hoặc mùi",
+        "example": "These flowers give off a sweet smell.",
+        "exampleVi": "Những bông hoa này tỏa hương thơm dịu.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gives off",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡɪvz ɔːf/"
+          },
+          {
+            "word": "giving off",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡɪvɪŋ ɔːf/"
+          },
+          {
+            "word": "gave off",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈɡeɪv ɔːf/"
+          },
+          {
+            "word": "given off",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɪvən ɔːf/, /ˈɡɪvɪn ɔːf/"
+          }
+        ]
+      },
+      {
+        "word": "give over",
+        "pos": "verb",
+        "ipa": "/ɡɪv ˈoʊvər/",
+        "meaningVi": "ngừng làm việc gây phiền, cách dùng thân mật trong tiếng Anh–Anh",
+        "example": "Give over complaining and help us.",
+        "exampleVi": "Đừng phàn nàn nữa mà hãy giúp chúng tôi.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gives over",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡɪvz ˈoʊvər/"
+          },
+          {
+            "word": "giving over",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡɪvɪŋ ˈoʊvər/"
+          },
+          {
+            "word": "gave over",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈɡeɪv ˈoʊvər/"
+          },
+          {
+            "word": "given over",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɪvən ˈoʊvər/, /ˈɡɪvɪn ˈoʊvər/"
+          }
+        ]
+      },
+      {
+        "word": "give up on",
+        "pos": "verb",
+        "ipa": "/ɡɪv ʌp ɑːn/",
+        "meaningVi": "không còn hy vọng vào ai hoặc điều gì",
+        "example": "Do not give up on your students.",
+        "exampleVi": "Đừng mất hy vọng ở học sinh của mình.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gives up on",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡɪvz ʌp ɑːn/"
+          },
+          {
+            "word": "giving up on",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡɪvɪŋ ʌp ɑːn/"
+          },
+          {
+            "word": "gave up on",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈɡeɪv ʌp ɑːn/"
+          },
+          {
+            "word": "given up on",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɪvən ʌp ɑːn/, /ˈɡɪvɪn ʌp ɑːn/"
+          }
+        ]
+      },
+      {
+        "word": "give in to",
+        "pos": "verb",
+        "ipa": "/ɡɪv ɪn tə/",
+        "meaningVi": "nhượng bộ trước áp lực hoặc cám dỗ",
+        "example": "We must not give in to pressure.",
+        "exampleVi": "Chúng ta không được nhượng bộ trước áp lực.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gives in to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡɪvz ɪn tə/"
+          },
+          {
+            "word": "giving in to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡɪvɪŋ ɪn tə/"
+          },
+          {
+            "word": "gave in to",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈɡeɪv ɪn tə/"
+          },
+          {
+            "word": "given in to",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɪvən ɪn tə/, /ˈɡɪvɪn ɪn tə/"
+          }
+        ]
+      },
+      {
+        "word": "give way to",
+        "pos": "verb",
+        "ipa": "/ɡɪv weɪ tə/",
+        "meaningVi": "nhường chỗ cho người hoặc thứ khác",
+        "example": "Drivers must give way to pedestrians here.",
+        "exampleVi": "Ở đây người lái xe phải nhường người đi bộ.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gives way to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡɪvz weɪ tə/"
+          },
+          {
+            "word": "giving way to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡɪvɪŋ weɪ tə/"
+          },
+          {
+            "word": "gave way to",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈɡeɪv weɪ tə/"
+          },
+          {
+            "word": "given way to",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɪvən weɪ tə/, /ˈɡɪvɪn weɪ tə/"
+          }
+        ]
+      },
+      {
+        "word": "give rise to",
+        "pos": "verb",
+        "ipa": "/ɡɪv raɪz tə/",
+        "meaningVi": "gây ra; làm nảy sinh một kết quả",
+        "example": "Poor communication can give rise to conflict.",
+        "exampleVi": "Giao tiếp kém có thể làm nảy sinh xung đột.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gives rise to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡɪvz raɪz tə/"
+          },
+          {
+            "word": "giving rise to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡɪvɪŋ raɪz tə/"
+          },
+          {
+            "word": "gave rise to",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈɡeɪv raɪz tə/"
+          },
+          {
+            "word": "given rise to",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɪvən raɪz tə/, /ˈɡɪvɪn raɪz tə/"
+          }
+        ]
+      },
+      {
+        "word": "give vent to",
+        "pos": "verb",
+        "ipa": "/ɡɪv vent tə/",
+        "meaningVi": "bộc lộ mạnh mẽ cảm xúc đã kìm nén",
+        "example": "She used her diary to give vent to her anger.",
+        "exampleVi": "Cô ấy dùng nhật ký để trút cơn giận.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "gives vent to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ɡɪvz vent tə/"
+          },
+          {
+            "word": "giving vent to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ɡɪvɪŋ vent tə/"
+          },
+          {
+            "word": "gave vent to",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈɡeɪv vent tə/"
+          },
+          {
+            "word": "given vent to",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɡɪvən vent tə/, /ˈɡɪvɪn vent tə/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -810,6 +1352,205 @@
         "example": "They left the office at six.",
         "exampleVi": "Họ rời văn phòng lúc sáu giờ."
       }
+    ],
+    "phrases": [
+      {
+        "word": "leave out",
+        "pos": "verb",
+        "ipa": "/liːv aʊt/",
+        "meaningVi": "bỏ sót hoặc không đưa vào",
+        "example": "Do not leave out any important details.",
+        "exampleVi": "Đừng bỏ sót chi tiết quan trọng nào.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "leaves out",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/liːvz aʊt/"
+          },
+          {
+            "word": "leaving out",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/liːvɪŋ aʊt/"
+          },
+          {
+            "word": "left out",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɫɛft aʊt/"
+          }
+        ]
+      },
+      {
+        "word": "leave off",
+        "pos": "verb",
+        "ipa": "/liːv ɔːf/",
+        "meaningVi": "dừng một việc đang làm",
+        "example": "We will continue where we left off yesterday.",
+        "exampleVi": "Chúng ta sẽ tiếp tục từ chỗ đã dừng hôm qua.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "leaves off",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/liːvz ɔːf/"
+          },
+          {
+            "word": "leaving off",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/liːvɪŋ ɔːf/"
+          },
+          {
+            "word": "left off",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɫɛft ɔːf/",
+            "example": "We will continue where we left off yesterday.",
+            "exampleVi": "Chúng ta sẽ tiếp tục từ chỗ đã dừng hôm qua."
+          }
+        ]
+      },
+      {
+        "word": "leave behind",
+        "pos": "verb",
+        "ipa": "/liːv bɪˈhaɪnd/",
+        "meaningVi": "để lại sau khi rời đi",
+        "example": "The storm may leave behind a trail of destruction.",
+        "exampleVi": "Cơn bão có thể để lại một dải tàn phá.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "leaves behind",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/liːvz bɪˈhaɪnd/"
+          },
+          {
+            "word": "leaving behind",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/liːvɪŋ bɪˈhaɪnd/"
+          },
+          {
+            "word": "left behind",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɫɛft bɪˈhaɪnd/"
+          }
+        ]
+      },
+      {
+        "word": "leave aside",
+        "pos": "verb",
+        "ipa": "/liːv əˈsaɪd/",
+        "meaningVi": "tạm không xét đến một vấn đề",
+        "example": "Let us leave aside the question of cost.",
+        "exampleVi": "Chúng ta hãy tạm gác vấn đề chi phí.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "leaves aside",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/liːvz əˈsaɪd/"
+          },
+          {
+            "word": "leaving aside",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/liːvɪŋ əˈsaɪd/"
+          },
+          {
+            "word": "left aside",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɫɛft əˈsaɪd/"
+          }
+        ]
+      },
+      {
+        "word": "leave for",
+        "pos": "verb",
+        "ipa": "/liːv fər/",
+        "meaningVi": "rời đi để tới một nơi",
+        "example": "We leave for Hanoi on Monday.",
+        "exampleVi": "Chúng tôi khởi hành đi Hà Nội vào thứ Hai.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "leaves for",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/liːvz fər/"
+          },
+          {
+            "word": "leaving for",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/liːvɪŋ fər/"
+          },
+          {
+            "word": "left for",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈɫɛft fər/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -984,6 +1725,84 @@
             "ipa": "/ˈpeɪd fər/"
           }
         ]
+      },
+      {
+        "word": "pay back",
+        "pos": "verb",
+        "ipa": "/peɪ bæk/",
+        "meaningVi": "hoàn trả tiền đã vay",
+        "example": "I will pay back the loan next month.",
+        "exampleVi": "Tôi sẽ trả lại khoản vay vào tháng tới.",
+        "topic": "shopping",
+        "tags": [
+          "prepositions",
+          "shopping"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "pays back",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/peɪz bæk/"
+          },
+          {
+            "word": "paying back",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/peɪɪŋ bæk/"
+          },
+          {
+            "word": "paid back",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈpeɪd bæk/"
+          }
+        ]
+      },
+      {
+        "word": "pay off",
+        "pos": "verb",
+        "ipa": "/peɪ ɔːf/",
+        "meaningVi": "thanh toán hết một khoản nợ",
+        "example": "We hope to pay off the mortgage early.",
+        "exampleVi": "Chúng tôi hy vọng trả hết khoản vay mua nhà sớm.",
+        "topic": "shopping",
+        "tags": [
+          "prepositions",
+          "shopping"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "pays off",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/peɪz ɔːf/"
+          },
+          {
+            "word": "paying off",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/peɪɪŋ ɔːf/"
+          },
+          {
+            "word": "paid off",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈpeɪd ɔːf/"
+          }
+        ]
       }
     ]
   },
@@ -1023,6 +1842,164 @@
           "past_participle"
         ],
         "ipa": "/red/"
+      }
+    ],
+    "phrases": [
+      {
+        "word": "read out",
+        "pos": "verb",
+        "ipa": "/riːd aʊt/",
+        "meaningVi": "đọc thành tiếng cho người khác nghe",
+        "example": "Please read out the first question.",
+        "exampleVi": "Hãy đọc to câu hỏi đầu tiên.",
+        "topic": "education",
+        "tags": [
+          "prepositions",
+          "education"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "reads out",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/riːdz aʊt/"
+          },
+          {
+            "word": "reading out",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/riːdɪŋ aʊt/"
+          },
+          {
+            "word": "read out",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/red aʊt/"
+          }
+        ]
+      },
+      {
+        "word": "read through",
+        "pos": "verb",
+        "ipa": "/riːd θruː/",
+        "meaningVi": "đọc toàn bộ từ đầu đến cuối",
+        "example": "Please read through the contract before signing.",
+        "exampleVi": "Hãy đọc hết hợp đồng trước khi ký.",
+        "topic": "education",
+        "tags": [
+          "prepositions",
+          "education"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "reads through",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/riːdz θruː/"
+          },
+          {
+            "word": "reading through",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/riːdɪŋ θruː/"
+          },
+          {
+            "word": "read through",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/red θruː/"
+          }
+        ]
+      },
+      {
+        "word": "read up on",
+        "pos": "verb",
+        "ipa": "/riːd ʌp ɑːn/",
+        "meaningVi": "đọc để tìm hiểu kỹ một chủ đề",
+        "example": "I need to read up on local history.",
+        "exampleVi": "Tôi cần đọc thêm để tìm hiểu lịch sử địa phương.",
+        "topic": "education",
+        "tags": [
+          "prepositions",
+          "education"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "reads up on",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/riːdz ʌp ɑːn/"
+          },
+          {
+            "word": "reading up on",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/riːdɪŋ ʌp ɑːn/"
+          },
+          {
+            "word": "read up on",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/red ʌp ɑːn/"
+          }
+        ]
+      },
+      {
+        "word": "read over",
+        "pos": "verb",
+        "ipa": "/riːd ˈoʊvər/",
+        "meaningVi": "đọc lại để kiểm tra nội dung",
+        "example": "Please read over the letter before you send it.",
+        "exampleVi": "Hãy đọc lại bức thư trước khi gửi.",
+        "topic": "education",
+        "tags": [
+          "prepositions",
+          "education"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "reads over",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/riːdz ˈoʊvər/"
+          },
+          {
+            "word": "reading over",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/riːdɪŋ ˈoʊvər/"
+          },
+          {
+            "word": "read over",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/red ˈoʊvər/"
+          }
+        ]
       }
     ]
   },
@@ -1070,6 +2047,323 @@
           "past_participle"
         ],
         "ipa": "/ˈɹɪtən/"
+      }
+    ],
+    "phrases": [
+      {
+        "word": "write down",
+        "pos": "verb",
+        "ipa": "/raɪt daʊn/",
+        "meaningVi": "ghi lại bằng chữ để khỏi quên",
+        "example": "Write down the address before you leave.",
+        "exampleVi": "Hãy ghi lại địa chỉ trước khi đi.",
+        "topic": "education",
+        "tags": [
+          "prepositions",
+          "education"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "writes down",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/raɪts daʊn/"
+          },
+          {
+            "word": "writing down",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/raɪtɪŋ daʊn/"
+          },
+          {
+            "word": "wrote down",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈɹoʊt daʊn/"
+          },
+          {
+            "word": "written down",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɹɪtən daʊn/"
+          }
+        ]
+      },
+      {
+        "word": "write up",
+        "pos": "verb",
+        "ipa": "/raɪt ʌp/",
+        "meaningVi": "viết thành một bản hoàn chỉnh từ ghi chép",
+        "example": "I need to write up my research notes.",
+        "exampleVi": "Tôi cần viết lại các ghi chép nghiên cứu thành bản hoàn chỉnh.",
+        "topic": "education",
+        "tags": [
+          "prepositions",
+          "education"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "writes up",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/raɪts ʌp/"
+          },
+          {
+            "word": "writing up",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/raɪtɪŋ ʌp/"
+          },
+          {
+            "word": "wrote up",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈɹoʊt ʌp/"
+          },
+          {
+            "word": "written up",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɹɪtən ʌp/"
+          }
+        ]
+      },
+      {
+        "word": "write out",
+        "pos": "verb",
+        "ipa": "/raɪt aʊt/",
+        "meaningVi": "viết đầy đủ thay vì dùng bản rút gọn",
+        "example": "Please write out your full name.",
+        "exampleVi": "Hãy viết đầy đủ họ tên của bạn.",
+        "topic": "education",
+        "tags": [
+          "prepositions",
+          "education"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "writes out",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/raɪts aʊt/"
+          },
+          {
+            "word": "writing out",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/raɪtɪŋ aʊt/"
+          },
+          {
+            "word": "wrote out",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈɹoʊt aʊt/"
+          },
+          {
+            "word": "written out",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɹɪtən aʊt/"
+          }
+        ]
+      },
+      {
+        "word": "write off",
+        "pos": "verb",
+        "ipa": "/raɪt ɔːf/",
+        "meaningVi": "coi một khoản tiền là không thể thu hồi",
+        "example": "The bank may write off the debt.",
+        "exampleVi": "Ngân hàng có thể xóa khoản nợ không thể thu hồi.",
+        "topic": "education",
+        "tags": [
+          "prepositions",
+          "education"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "writes off",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/raɪts ɔːf/"
+          },
+          {
+            "word": "writing off",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/raɪtɪŋ ɔːf/"
+          },
+          {
+            "word": "wrote off",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈɹoʊt ɔːf/"
+          },
+          {
+            "word": "written off",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɹɪtən ɔːf/"
+          }
+        ]
+      },
+      {
+        "word": "write in",
+        "pos": "verb",
+        "ipa": "/raɪt ɪn/",
+        "meaningVi": "gửi thư cho một tổ chức hoặc chương trình",
+        "example": "Listeners can write in with their questions.",
+        "exampleVi": "Thính giả có thể gửi thư nêu câu hỏi.",
+        "topic": "education",
+        "tags": [
+          "prepositions",
+          "education"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "writes in",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/raɪts ɪn/"
+          },
+          {
+            "word": "writing in",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/raɪtɪŋ ɪn/"
+          },
+          {
+            "word": "wrote in",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈɹoʊt ɪn/"
+          },
+          {
+            "word": "written in",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɹɪtən ɪn/"
+          }
+        ]
+      },
+      {
+        "word": "write back",
+        "pos": "verb",
+        "ipa": "/raɪt bæk/",
+        "meaningVi": "viết thư trả lời",
+        "example": "I will write back as soon as possible.",
+        "exampleVi": "Tôi sẽ viết thư trả lời sớm nhất có thể.",
+        "topic": "education",
+        "tags": [
+          "prepositions",
+          "education"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "writes back",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/raɪts bæk/"
+          },
+          {
+            "word": "writing back",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/raɪtɪŋ bæk/"
+          },
+          {
+            "word": "wrote back",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈɹoʊt bæk/"
+          },
+          {
+            "word": "written back",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɹɪtən bæk/"
+          }
+        ]
+      },
+      {
+        "word": "write to",
+        "pos": "verb",
+        "ipa": "/raɪt tə/",
+        "meaningVi": "viết thư hoặc thông điệp gửi cho ai",
+        "example": "You should write to the admissions office.",
+        "exampleVi": "Bạn nên viết thư cho văn phòng tuyển sinh.",
+        "topic": "education",
+        "tags": [
+          "prepositions",
+          "education"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "writes to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/raɪts tə/"
+          },
+          {
+            "word": "writing to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/raɪtɪŋ tə/"
+          },
+          {
+            "word": "wrote to",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈɹoʊt tə/"
+          },
+          {
+            "word": "written to",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈɹɪtən tə/"
+          }
+        ]
       }
     ]
   },
@@ -1226,6 +2520,276 @@
             "ipa": "/ˈspoʊkən əˈbaʊt/"
           }
         ]
+      },
+      {
+        "word": "speak up",
+        "pos": "verb",
+        "ipa": "/spiːk ʌp/",
+        "meaningVi": "nói to hơn để người khác nghe được",
+        "example": "Could you speak up a little?",
+        "exampleVi": "Bạn có thể nói to hơn một chút không?",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "speaks up",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/spiːks ʌp/"
+          },
+          {
+            "word": "speaking up",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/spiːkɪŋ ʌp/"
+          },
+          {
+            "word": "spoke up",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈspoʊk ʌp/"
+          },
+          {
+            "word": "spoken up",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈspoʊkən ʌp/"
+          }
+        ]
+      },
+      {
+        "word": "speak out",
+        "pos": "verb",
+        "ipa": "/spiːk aʊt/",
+        "meaningVi": "công khai nêu ý kiến hoặc sự phản đối",
+        "example": "More workers are willing to speak out.",
+        "exampleVi": "Nhiều người lao động hơn sẵn sàng lên tiếng.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "speaks out",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/spiːks aʊt/"
+          },
+          {
+            "word": "speaking out",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/spiːkɪŋ aʊt/"
+          },
+          {
+            "word": "spoke out",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈspoʊk aʊt/"
+          },
+          {
+            "word": "spoken out",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈspoʊkən aʊt/"
+          }
+        ]
+      },
+      {
+        "word": "speak with",
+        "pos": "verb",
+        "ipa": "/spiːk wɪð/",
+        "meaningVi": "nói chuyện hoặc trao đổi với ai",
+        "example": "May I speak with the manager?",
+        "exampleVi": "Tôi có thể nói chuyện với quản lý không?",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "speaks with",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/spiːks wɪð/"
+          },
+          {
+            "word": "speaking with",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/spiːkɪŋ wɪð/"
+          },
+          {
+            "word": "spoke with",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈspoʊk wɪð/"
+          },
+          {
+            "word": "spoken with",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈspoʊkən wɪð/"
+          }
+        ]
+      },
+      {
+        "word": "speak for",
+        "pos": "verb",
+        "ipa": "/spiːk fər/",
+        "meaningVi": "đại diện để phát biểu thay ai",
+        "example": "I cannot speak for the whole team.",
+        "exampleVi": "Tôi không thể phát biểu thay cả nhóm.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "speaks for",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/spiːks fər/"
+          },
+          {
+            "word": "speaking for",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/spiːkɪŋ fər/"
+          },
+          {
+            "word": "spoke for",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈspoʊk fər/"
+          },
+          {
+            "word": "spoken for",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈspoʊkən fər/"
+          }
+        ]
+      },
+      {
+        "word": "speak of",
+        "pos": "verb",
+        "ipa": "/spiːk əv/",
+        "meaningVi": "nói đến; đề cập một điều",
+        "example": "They rarely speak of their childhood.",
+        "exampleVi": "Họ hiếm khi nói về thời thơ ấu.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "speaks of",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/spiːks əv/"
+          },
+          {
+            "word": "speaking of",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/spiːkɪŋ əv/"
+          },
+          {
+            "word": "spoke of",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈspoʊk əv/"
+          },
+          {
+            "word": "spoken of",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈspoʊkən əv/"
+          }
+        ]
+      },
+      {
+        "word": "speak out against",
+        "pos": "verb",
+        "ipa": "/spiːk aʊt əˈɡenst/",
+        "meaningVi": "công khai lên tiếng phản đối",
+        "example": "We must speak out against discrimination.",
+        "exampleVi": "Chúng ta phải công khai phản đối sự phân biệt đối xử.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "speaks out against",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/spiːks aʊt əˈɡenst/"
+          },
+          {
+            "word": "speaking out against",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/spiːkɪŋ aʊt əˈɡenst/"
+          },
+          {
+            "word": "spoke out against",
+            "types": [
+              "past_simple"
+            ],
+            "ipa": "/ˈspoʊk aʊt əˈɡenst/"
+          },
+          {
+            "word": "spoken out against",
+            "types": [
+              "past_participle"
+            ],
+            "ipa": "/ˈspoʊkən aʊt əˈɡenst/"
+          }
+        ]
       }
     ]
   },
@@ -1361,6 +2925,168 @@
         "example": "He helped me carry the suitcase.",
         "exampleVi": "Anh ấy giúp tôi mang va li."
       }
+    ],
+    "phrases": [
+      {
+        "word": "help out",
+        "pos": "verb",
+        "ipa": "/help aʊt/",
+        "meaningVi": "giúp khi ai đó đang thiếu người hoặc gặp khó",
+        "example": "Could you help out at the school fair?",
+        "exampleVi": "Bạn có thể phụ giúp hội chợ của trường không?",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "helps out",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/helps aʊt/"
+          },
+          {
+            "word": "helping out",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/helpɪŋ aʊt/"
+          },
+          {
+            "word": "helped out",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/helpt aʊt/"
+          }
+        ]
+      },
+      {
+        "word": "help with",
+        "pos": "verb",
+        "ipa": "/help wɪð/",
+        "meaningVi": "giúp làm một công việc cụ thể",
+        "example": "Can you help with the dishes?",
+        "exampleVi": "Bạn có thể giúp rửa bát không?",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "helps with",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/helps wɪð/"
+          },
+          {
+            "word": "helping with",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/helpɪŋ wɪð/"
+          },
+          {
+            "word": "helped with",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/helpt wɪð/"
+          }
+        ]
+      },
+      {
+        "word": "help up",
+        "pos": "verb",
+        "ipa": "/help ʌp/",
+        "meaningVi": "giúp người bị ngã hoặc đang ngồi đứng dậy",
+        "example": "The fallen cyclist was helped up by a passerby.",
+        "exampleVi": "Người đi xe đạp bị ngã được một người qua đường đỡ dậy.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "helps up",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/helps ʌp/"
+          },
+          {
+            "word": "helping up",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/helpɪŋ ʌp/"
+          },
+          {
+            "word": "helped up",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/helpt ʌp/",
+            "example": "The fallen cyclist was helped up by a passerby.",
+            "exampleVi": "Người đi xe đạp bị ngã được một người qua đường đỡ dậy."
+          }
+        ]
+      },
+      {
+        "word": "help along",
+        "pos": "verb",
+        "ipa": "/help əˈlɔːŋ/",
+        "meaningVi": "giúp một việc tiến triển thuận lợi",
+        "example": "The project was helped along by a small grant.",
+        "exampleVi": "Một khoản tài trợ nhỏ đã giúp dự án tiến triển.",
+        "topic": "daily",
+        "tags": [
+          "prepositions",
+          "daily"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "helps along",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/helps əˈlɔːŋ/"
+          },
+          {
+            "word": "helping along",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/helpɪŋ əˈlɔːŋ/"
+          },
+          {
+            "word": "helped along",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/helpt əˈlɔːŋ/",
+            "example": "The project was helped along by a small grant.",
+            "exampleVi": "Một khoản tài trợ nhỏ đã giúp dự án tiến triển."
+          }
+        ]
+      }
     ]
   },
   {
@@ -1458,6 +3184,400 @@
               "past_participle"
             ],
             "ipa": "/wɜrkt ɑn/"
+          }
+        ]
+      },
+      {
+        "word": "work out",
+        "pos": "verb",
+        "ipa": "/wɜrk aʊt/",
+        "meaningVi": "tập thể dục để rèn luyện sức khỏe",
+        "example": "I work out three times a week.",
+        "exampleVi": "Tôi tập thể dục ba lần mỗi tuần.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "works out",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/wɜrks aʊt/"
+          },
+          {
+            "word": "working out",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/wɜrkɪŋ aʊt/"
+          },
+          {
+            "word": "worked out",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/wɜrkt aʊt/"
+          }
+        ]
+      },
+      {
+        "word": "work at",
+        "pos": "verb",
+        "ipa": "/wɜrk æt/",
+        "meaningVi": "nỗ lực để cải thiện một kỹ năng",
+        "example": "You need to work at your pronunciation.",
+        "exampleVi": "Bạn cần luyện tập để cải thiện phát âm.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "works at",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/wɜrks æt/"
+          },
+          {
+            "word": "working at",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/wɜrkɪŋ æt/"
+          },
+          {
+            "word": "worked at",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/wɜrkt æt/"
+          }
+        ]
+      },
+      {
+        "word": "work up",
+        "pos": "verb",
+        "ipa": "/wɜrk ʌp/",
+        "meaningVi": "dần tạo ra một cảm giác hoặc trạng thái",
+        "example": "Walking helps me work up an appetite.",
+        "exampleVi": "Đi bộ giúp tôi thấy ngon miệng hơn.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "works up",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/wɜrks ʌp/"
+          },
+          {
+            "word": "working up",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/wɜrkɪŋ ʌp/"
+          },
+          {
+            "word": "worked up",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/wɜrkt ʌp/"
+          }
+        ]
+      },
+      {
+        "word": "work through",
+        "pos": "verb",
+        "ipa": "/wɜrk θruː/",
+        "meaningVi": "lần lượt xử lý cho đến khi giải quyết được",
+        "example": "We need to work through these problems together.",
+        "exampleVi": "Chúng ta cần cùng nhau giải quyết lần lượt các vấn đề này.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "works through",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/wɜrks θruː/"
+          },
+          {
+            "word": "working through",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/wɜrkɪŋ θruː/"
+          },
+          {
+            "word": "worked through",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/wɜrkt θruː/"
+          }
+        ]
+      },
+      {
+        "word": "work around",
+        "pos": "verb",
+        "ipa": "/wɜrk əˈraʊnd/",
+        "meaningVi": "tìm cách vượt qua hoặc tránh một trở ngại",
+        "example": "We can work around the scheduling conflict.",
+        "exampleVi": "Chúng ta có thể tìm cách xử lý việc trùng lịch.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "works around",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/wɜrks əˈraʊnd/"
+          },
+          {
+            "word": "working around",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/wɜrkɪŋ əˈraʊnd/"
+          },
+          {
+            "word": "worked around",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/wɜrkt əˈraʊnd/"
+          }
+        ]
+      },
+      {
+        "word": "work away",
+        "pos": "verb",
+        "ipa": "/wɜrk əˈweɪ/",
+        "meaningVi": "tiếp tục làm việc chăm chỉ",
+        "example": "She kept working away at her desk.",
+        "exampleVi": "Cô ấy vẫn miệt mài làm việc tại bàn.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "works away",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/wɜrks əˈweɪ/"
+          },
+          {
+            "word": "working away",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/wɜrkɪŋ əˈweɪ/",
+            "example": "She kept working away at her desk.",
+            "exampleVi": "Cô ấy vẫn miệt mài làm việc tại bàn."
+          },
+          {
+            "word": "worked away",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/wɜrkt əˈweɪ/"
+          }
+        ]
+      },
+      {
+        "word": "work off",
+        "pos": "verb",
+        "ipa": "/wɜrk ɔːf/",
+        "meaningVi": "tiêu hao năng lượng hoặc giảm cảm xúc bằng hoạt động",
+        "example": "I walk to work off my lunch.",
+        "exampleVi": "Tôi đi bộ để tiêu hao năng lượng từ bữa trưa.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "works off",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/wɜrks ɔːf/"
+          },
+          {
+            "word": "working off",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/wɜrkɪŋ ɔːf/"
+          },
+          {
+            "word": "worked off",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/wɜrkt ɔːf/"
+          }
+        ]
+      },
+      {
+        "word": "work in",
+        "pos": "verb",
+        "ipa": "/wɜrk ɪn/",
+        "meaningVi": "thu xếp chèn thêm một việc vào lịch",
+        "example": "We can work in one more appointment.",
+        "exampleVi": "Chúng tôi có thể thu xếp thêm một cuộc hẹn nữa.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "works in",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/wɜrks ɪn/"
+          },
+          {
+            "word": "working in",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/wɜrkɪŋ ɪn/"
+          },
+          {
+            "word": "worked in",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/wɜrkt ɪn/"
+          }
+        ]
+      },
+      {
+        "word": "work up to",
+        "pos": "verb",
+        "ipa": "/wɜrk ʌp tə/",
+        "meaningVi": "chuẩn bị dần để đạt mức khó hơn",
+        "example": "You can work up to longer runs.",
+        "exampleVi": "Bạn có thể tập dần để chạy quãng đường dài hơn.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "works up to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/wɜrks ʌp tə/"
+          },
+          {
+            "word": "working up to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/wɜrkɪŋ ʌp tə/"
+          },
+          {
+            "word": "worked up to",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/wɜrkt ʌp tə/"
+          }
+        ]
+      },
+      {
+        "word": "work out at",
+        "pos": "verb",
+        "ipa": "/wɜrk aʊt æt/",
+        "meaningVi": "tính ra một mức tiền hoặc số lượng",
+        "example": "The cost works out at ten dollars each.",
+        "exampleVi": "Chi phí tính ra là mười đô la mỗi người.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "work"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "works out at",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/wɜrks aʊt æt/",
+            "example": "The cost works out at ten dollars each.",
+            "exampleVi": "Chi phí tính ra là mười đô la mỗi người."
+          },
+          {
+            "word": "working out at",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/wɜrkɪŋ aʊt æt/"
+          },
+          {
+            "word": "worked out at",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/wɜrkt aʊt æt/"
           }
         ]
       }
@@ -3109,6 +5229,47 @@
         "ipa": "/hændɪd/",
         "example": "She handed me the boarding pass.",
         "exampleVi": "Cô ấy đưa cho tôi thẻ lên máy bay."
+      }
+    ],
+    "phrases": [
+      {
+        "word": "hand in",
+        "pos": "verb",
+        "ipa": "/hænd ɪn/",
+        "meaningVi": "nộp tài liệu hoặc đồ vật cho người có trách nhiệm",
+        "example": "Please hand in your forms at reception.",
+        "exampleVi": "Hãy nộp mẫu đơn ở quầy lễ tân.",
+        "topic": "health",
+        "tags": [
+          "prepositions",
+          "health"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "hands in",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/hændz ɪn/"
+          },
+          {
+            "word": "handing in",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/hændɪŋ ɪn/"
+          },
+          {
+            "word": "handed in",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/hændɪd ɪn/"
+          }
+        ]
       }
     ]
   },
