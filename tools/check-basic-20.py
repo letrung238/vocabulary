@@ -18,7 +18,7 @@ assert [{k:v for k,v in w.items() if k not in {'forms','phrases'}} for w in deck
 old = {w['word'] for p in [ROOT/'seed_words.json', *sorted((ROOT/'decks').glob('*.json'))]
        if p.name!='basic-20.json' for w in owned_entries(p, read(p))}
 assert not old.intersection(approved), 'Addition duplicates existing root'
-assert len(old)==6648-sum(len(w.get('phrases',[])) for w in deck)
+assert len(old)==6766-sum(len(w.get('phrases',[])) for w in deck)
 normalize = lambda word: word.replace('-', ' ').lower()
 assert {normalize(w) for w in old}&{normalize(w) for w in approved} == {'follow up'}
 by_word = {w['word']:w for w in deck}

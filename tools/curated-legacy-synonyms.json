@@ -1,0 +1,848 @@
+[
+  {
+    "word": "afford",
+    "pos": "verb",
+    "meaningVi": "đủ khả năng chi trả",
+    "synonyms": [
+      "be able to pay for"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "apologize",
+    "pos": "verb",
+    "meaningVi": "xin lỗi",
+    "synonyms": [
+      "say sorry"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "convenient",
+    "pos": "adjective",
+    "meaningVi": "tiện lợi",
+    "synonyms": [
+      "handy"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "disappoint",
+    "pos": "verb",
+    "meaningVi": "làm thất vọng",
+    "synonyms": [
+      "let down"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "familiar",
+    "pos": "adjective",
+    "meaningVi": "quen thuộc",
+    "synonyms": [
+      "well-known"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "inspire",
+    "pos": "verb",
+    "meaningVi": "truyền cảm hứng",
+    "synonyms": [
+      "motivate"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "outsource",
+    "pos": "verb",
+    "meaningVi": "thuê ngoài",
+    "synonyms": [
+      "contract out"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "persuade",
+    "pos": "verb",
+    "meaningVi": "thuyết phục ai làm gì",
+    "synonyms": [
+      "convince"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "prefer",
+    "pos": "verb",
+    "meaningVi": "thích hơn",
+    "synonyms": [
+      "favor"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "remind",
+    "pos": "verb",
+    "meaningVi": "nhắc nhở",
+    "synonyms": [
+      "prompt"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "replace",
+    "pos": "verb",
+    "meaningVi": "thay thế",
+    "synonyms": [
+      "substitute"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "reschedule",
+    "pos": "verb",
+    "meaningVi": "dời lịch",
+    "synonyms": [
+      "rearrange"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "supply",
+    "pos": "noun",
+    "meaningVi": "nguồn cung",
+    "synonyms": [
+      "provision"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "tend",
+    "pos": "verb",
+    "meaningVi": "có xu hướng",
+    "synonyms": [
+      "be inclined"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "translate",
+    "pos": "verb",
+    "meaningVi": "dịch",
+    "synonyms": [
+      "render"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "accomplish",
+    "pos": "verb",
+    "meaningVi": "hoàn thành, thực hiện",
+    "synonyms": [
+      "carry out"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "reliable",
+    "pos": "adjective",
+    "meaningVi": "đáng tin cậy",
+    "synonyms": [
+      "trustworthy"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "improve",
+    "pos": "verb",
+    "meaningVi": "cải thiện",
+    "synonyms": [
+      "better"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "available",
+    "pos": "adjective",
+    "meaningVi": "sẵn có để dùng",
+    "synonyms": [
+      "obtainable"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "obvious",
+    "pos": "adjective",
+    "meaningVi": "hiển nhiên, dễ thấy",
+    "synonyms": [
+      "clear"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "relationship",
+    "pos": "noun",
+    "meaningVi": "mối quan hệ",
+    "synonyms": [
+      "association"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "achieve",
+    "pos": "verb",
+    "meaningVi": "đạt được sau nỗ lực",
+    "synonyms": [
+      "reach"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "mention",
+    "pos": "verb",
+    "meaningVi": "đề cập; nhắc đến",
+    "synonyms": [
+      "bring up"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "accurate",
+    "pos": "adjective",
+    "meaningVi": "chính xác",
+    "synonyms": [
+      "exact"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "adequate",
+    "pos": "adjective",
+    "meaningVi": "đủ, tạm ổn",
+    "synonyms": [
+      "satisfactory"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "alleviate",
+    "pos": "verb",
+    "meaningVi": "làm dịu bớt",
+    "synonyms": [
+      "lessen"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "allocate",
+    "pos": "verb",
+    "meaningVi": "phân bổ",
+    "synonyms": [
+      "allot"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "amaze",
+    "pos": "verb",
+    "meaningVi": "làm kinh ngạc",
+    "synonyms": [
+      "astound"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "ambiguous",
+    "pos": "adjective",
+    "meaningVi": "mơ hồ, nhập nhằng",
+    "synonyms": [
+      "open to interpretation"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "annoy",
+    "pos": "verb",
+    "meaningVi": "làm phiền, chọc tức",
+    "synonyms": [
+      "bother"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "authentic",
+    "pos": "adjective",
+    "meaningVi": "chính gốc, xác thực",
+    "synonyms": [
+      "real"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "cautious",
+    "pos": "adjective",
+    "meaningVi": "thận trọng",
+    "synonyms": [
+      "wary"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "cease",
+    "pos": "verb",
+    "meaningVi": "ngừng, chấm dứt",
+    "synonyms": [
+      "discontinue"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "cheerful",
+    "pos": "adjective",
+    "meaningVi": "vui vẻ",
+    "synonyms": [
+      "upbeat"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "complicated",
+    "pos": "adjective",
+    "meaningVi": "rắc rối",
+    "synonyms": [
+      "intricate"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "comply",
+    "pos": "verb",
+    "meaningVi": "tuân thủ",
+    "synonyms": [
+      "obey"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "crucial",
+    "pos": "adjective",
+    "meaningVi": "then chốt, cốt yếu",
+    "synonyms": [
+      "vital"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "deceive",
+    "pos": "verb",
+    "meaningVi": "lừa dối",
+    "synonyms": [
+      "mislead"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "destroy",
+    "pos": "verb",
+    "meaningVi": "phá huỷ",
+    "synonyms": [
+      "ruin"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "deteriorate",
+    "pos": "verb",
+    "meaningVi": "xấu đi",
+    "synonyms": [
+      "decline"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "deviate",
+    "pos": "verb",
+    "meaningVi": "đi chệch",
+    "synonyms": [
+      "depart"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "eager",
+    "pos": "adjective",
+    "meaningVi": "háo hức",
+    "synonyms": [
+      "enthusiastic"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "enhance",
+    "pos": "verb",
+    "meaningVi": "nâng cao",
+    "synonyms": [
+      "strengthen"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "enormous",
+    "pos": "adjective",
+    "meaningVi": "khổng lồ",
+    "synonyms": [
+      "immense"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "ensure",
+    "pos": "verb",
+    "meaningVi": "đảm bảo",
+    "synonyms": [
+      "make certain"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "eventually",
+    "pos": "adverb",
+    "meaningVi": "cuối cùng thì",
+    "synonyms": [
+      "in the end"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "exceed",
+    "pos": "verb",
+    "meaningVi": "vượt quá",
+    "synonyms": [
+      "go beyond"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "fascinate",
+    "pos": "verb",
+    "meaningVi": "mê hoặc",
+    "synonyms": [
+      "intrigue"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "feasible",
+    "pos": "adjective",
+    "meaningVi": "khả thi, làm được trên thực tế",
+    "synonyms": [
+      "practicable"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "grateful",
+    "pos": "adjective",
+    "meaningVi": "biết ơn",
+    "synonyms": [
+      "appreciative"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "halt",
+    "pos": "verb",
+    "meaningVi": "dừng lại",
+    "synonyms": [
+      "cease"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "hesitate",
+    "pos": "verb",
+    "meaningVi": "do dự",
+    "synonyms": [
+      "pause"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "illegal",
+    "pos": "adjective",
+    "meaningVi": "bất hợp pháp",
+    "synonyms": [
+      "illicit"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "inherent",
+    "pos": "adjective",
+    "meaningVi": "vốn có",
+    "synonyms": [
+      "built-in"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "inhibit",
+    "pos": "verb",
+    "meaningVi": "kìm hãm",
+    "synonyms": [
+      "hinder"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "intend",
+    "pos": "verb",
+    "meaningVi": "dự định",
+    "synonyms": [
+      "mean"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "loyal",
+    "pos": "adjective",
+    "meaningVi": "trung thành",
+    "synonyms": [
+      "devoted"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "mandatory",
+    "pos": "adjective",
+    "meaningVi": "bắt buộc",
+    "synonyms": [
+      "required"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "mitigate",
+    "pos": "verb",
+    "meaningVi": "giảm thiểu rủi ro",
+    "synonyms": [
+      "alleviate"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "obsolete",
+    "pos": "adjective",
+    "meaningVi": "lỗi thời",
+    "synonyms": [
+      "outmoded"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "obtain",
+    "pos": "verb",
+    "meaningVi": "có được, thu được",
+    "synonyms": [
+      "get"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "optimal",
+    "pos": "adjective",
+    "meaningVi": "tối ưu",
+    "synonyms": [
+      "ideal"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "polite",
+    "pos": "adjective",
+    "meaningVi": "lịch sự",
+    "synonyms": [
+      "well-mannered"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "postpone",
+    "pos": "verb",
+    "meaningVi": "hoãn lại",
+    "synonyms": [
+      "put off"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "predict",
+    "pos": "verb",
+    "meaningVi": "dự đoán",
+    "synonyms": [
+      "foresee"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "provisional",
+    "pos": "adjective",
+    "meaningVi": "tạm thời",
+    "synonyms": [
+      "interim"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "prosper",
+    "pos": "verb",
+    "meaningVi": "thịnh vượng",
+    "synonyms": [
+      "flourish"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "punish",
+    "pos": "verb",
+    "meaningVi": "trừng phạt",
+    "synonyms": [
+      "discipline"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "rarely",
+    "pos": "adverb",
+    "meaningVi": "hiếm khi",
+    "synonyms": [
+      "infrequently"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "relevant",
+    "pos": "adjective",
+    "meaningVi": "liên quan, phù hợp",
+    "synonyms": [
+      "applicable"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "reluctant",
+    "pos": "adjective",
+    "meaningVi": "miễn cưỡng",
+    "synonyms": [
+      "hesitant"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "require",
+    "pos": "verb",
+    "meaningVi": "yêu cầu, đòi hỏi",
+    "synonyms": [
+      "call for"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "restrict",
+    "pos": "verb",
+    "meaningVi": "hạn chế",
+    "synonyms": [
+      "constrain"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "scarce",
+    "pos": "adjective",
+    "meaningVi": "khan hiếm",
+    "synonyms": [
+      "in short supply"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "shortage",
+    "pos": "noun",
+    "meaningVi": "sự khan hiếm nguồn cung",
+    "synonyms": [
+      "shortfall"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "similar",
+    "pos": "adjective",
+    "meaningVi": "tương tự",
+    "synonyms": [
+      "comparable"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "sincere",
+    "pos": "adjective",
+    "meaningVi": "chân thành",
+    "synonyms": [
+      "heartfelt"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "solve",
+    "pos": "verb",
+    "meaningVi": "giải (bài toán, vấn đề)",
+    "synonyms": [
+      "work out"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "strict",
+    "pos": "adjective",
+    "meaningVi": "nghiêm khắc",
+    "synonyms": [
+      "firm"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "stringent",
+    "pos": "adjective",
+    "meaningVi": "khắt khe",
+    "synonyms": [
+      "rigorous"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "sufficient",
+    "pos": "adjective",
+    "meaningVi": "đủ",
+    "synonyms": [
+      "enough"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "suitable",
+    "pos": "adjective",
+    "meaningVi": "phù hợp",
+    "synonyms": [
+      "fitting"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "summarize",
+    "pos": "verb",
+    "meaningVi": "tóm tắt",
+    "synonyms": [
+      "recap"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "supersede",
+    "pos": "verb",
+    "meaningVi": "thay thế, thế chỗ",
+    "synonyms": [
+      "displace"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "surround",
+    "pos": "verb",
+    "meaningVi": "bao quanh",
+    "synonyms": [
+      "enclose"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "urgent",
+    "pos": "adjective",
+    "meaningVi": "khẩn cấp",
+    "synonyms": [
+      "immediate"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "utilize",
+    "pos": "verb",
+    "meaningVi": "sử dụng, khai thác",
+    "synonyms": [
+      "employ"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "vague",
+    "pos": "adjective",
+    "meaningVi": "mơ hồ",
+    "synonyms": [
+      "imprecise"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "verify",
+    "pos": "verb",
+    "meaningVi": "xác minh",
+    "synonyms": [
+      "check"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "wealthy",
+    "pos": "adjective",
+    "meaningVi": "giàu có",
+    "synonyms": [
+      "affluent"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "widespread",
+    "pos": "adjective",
+    "meaningVi": "lan rộng, phổ biến",
+    "synonyms": [
+      "extensive"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "willing",
+    "pos": "adjective",
+    "meaningVi": "sẵn lòng",
+    "synonyms": [
+      "prepared"
+    ],
+    "mode": "append"
+  },
+  {
+    "word": "suspect",
+    "pos": "verb",
+    "meaningVi": "nghi ngờ",
+    "synonyms": [
+      "suppose"
+    ],
+    "mode": "replace"
+  },
+  {
+    "word": "conversely",
+    "pos": "adverb",
+    "meaningVi": "ngược lại",
+    "synonyms": [
+      "by contrast"
+    ],
+    "mode": "replace"
+  }
+]

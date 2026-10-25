@@ -5494,5 +5494,869 @@
     "meaningVi": "bị dị ứng",
     "example": "He is allergic to peanuts.",
     "exampleVi": "Anh ấy bị dị ứng với đậu phộng."
+  },
+  {
+    "word": "accountable for",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "chịu trách nhiệm về kết quả hoặc hành động",
+    "example": "Managers are accountable for their decisions.",
+    "exampleVi": "Người quản lý chịu trách nhiệm về các quyết định của mình."
+  },
+  {
+    "word": "accountable to",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "có trách nhiệm giải trình với ai",
+    "example": "The director is accountable to the board.",
+    "exampleVi": "Giám đốc có trách nhiệm giải trình với hội đồng quản trị."
+  },
+  {
+    "word": "adequate for",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "đủ đáp ứng một nhu cầu",
+    "example": "The room is adequate for a small meeting.",
+    "exampleVi": "Phòng đủ cho một cuộc họp nhỏ."
+  },
+  {
+    "word": "adequate to",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "đủ sức đáp ứng một nhiệm vụ",
+    "example": "Our resources are adequate to the task.",
+    "exampleVi": "Nguồn lực của chúng tôi đủ đáp ứng nhiệm vụ."
+  },
+  {
+    "word": "adjacent to",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "nằm sát hoặc ngay cạnh",
+    "example": "The library is adjacent to the school.",
+    "exampleVi": "Thư viện nằm ngay cạnh trường."
+  },
+  {
+    "word": "accuse of",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "buộc tội ai làm việc gì; thường theo sau bằng V-ing",
+    "example": "He was accused of stealing the documents.",
+    "exampleVi": "Anh ấy bị buộc tội đánh cắp tài liệu."
+  },
+  {
+    "word": "acknowledge as",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "công nhận ai hoặc điều gì là",
+    "example": "She is acknowledged as an expert in this field.",
+    "exampleVi": "Cô ấy được công nhận là chuyên gia trong lĩnh vực này."
+  },
+  {
+    "word": "acquire from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "thu nhận hoặc mua được từ một nguồn",
+    "example": "The painting was acquired from a local collector.",
+    "exampleVi": "Bức tranh được mua từ một nhà sưu tập địa phương."
+  },
+  {
+    "word": "adapt for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chuyển thể hoặc điều chỉnh để phù hợp một mục đích",
+    "example": "The novel was adapted for television.",
+    "exampleVi": "Cuốn tiểu thuyết được chuyển thể cho truyền hình."
+  },
+  {
+    "word": "adjust for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "điều chỉnh để tính đến một yếu tố",
+    "example": "The figures were adjusted for inflation.",
+    "exampleVi": "Các số liệu được điều chỉnh để tính đến lạm phát."
+  },
+  {
+    "word": "admire for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "ngưỡng mộ ai vì một phẩm chất hoặc hành động",
+    "example": "She is admired for her courage.",
+    "exampleVi": "Cô ấy được ngưỡng mộ vì lòng dũng cảm."
+  },
+  {
+    "word": "admit to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "thừa nhận một hành động hoặc sự việc; có thể theo sau bằng V-ing",
+    "example": "He admitted to making a mistake.",
+    "exampleVi": "Anh ấy thừa nhận đã mắc lỗi."
+  },
+  {
+    "word": "advocate for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "công khai vận động ủng hộ ai hoặc điều gì",
+    "example": "They advocate for equal access to education.",
+    "exampleVi": "Họ vận động vì quyền tiếp cận giáo dục bình đẳng."
+  },
+  {
+    "word": "allocate to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "phân bổ nguồn lực cho một người hoặc mục đích",
+    "example": "More funding was allocated to public transport.",
+    "exampleVi": "Nhiều kinh phí hơn được phân bổ cho giao thông công cộng."
+  },
+  {
+    "word": "apply to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "áp dụng cho hoặc có hiệu lực đối với",
+    "example": "These rules apply to all employees.",
+    "exampleVi": "Những quy định này áp dụng cho mọi nhân viên."
+  },
+  {
+    "word": "approach to",
+    "sourceGroup": "prepositions",
+    "pos": "noun",
+    "meaningVi": "cách tiếp cận một vấn đề hoặc công việc",
+    "example": "We need a different approach to the problem.",
+    "exampleVi": "Chúng ta cần một cách tiếp cận khác đối với vấn đề."
+  },
+  {
+    "word": "argue for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đưa ra lý lẽ ủng hộ một phương án",
+    "example": "The report argues for better public transport.",
+    "exampleVi": "Báo cáo đưa ra lý lẽ ủng hộ việc cải thiện giao thông công cộng."
+  },
+  {
+    "word": "argue against",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đưa ra lý lẽ phản đối một phương án",
+    "example": "She argued against closing the library.",
+    "exampleVi": "Cô ấy đưa ra lý lẽ phản đối việc đóng cửa thư viện."
+  },
+  {
+    "word": "arrange for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "thu xếp để một việc được thực hiện",
+    "example": "We arranged for a taxi to collect them.",
+    "exampleVi": "Chúng tôi thu xếp để taxi đến đón họ."
+  },
+  {
+    "word": "aspire to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "khao khát đạt một vị trí hoặc mục tiêu",
+    "example": "She aspires to a career in medicine.",
+    "exampleVi": "Cô ấy khao khát theo đuổi sự nghiệp y khoa."
+  },
+  {
+    "word": "associate with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "giao du hoặc làm việc cùng ai",
+    "example": "He associates with people from many backgrounds.",
+    "exampleVi": "Anh ấy giao du với những người từ nhiều hoàn cảnh."
+  },
+  {
+    "word": "attach to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "gắn hoặc đính kèm vào một vật hay thông điệp",
+    "example": "The file is attached to the email.",
+    "exampleVi": "Tệp được đính kèm vào email."
+  },
+  {
+    "word": "attempt at",
+    "sourceGroup": "prepositions",
+    "pos": "noun",
+    "meaningVi": "nỗ lực thử làm một việc",
+    "example": "This is my first attempt at baking bread.",
+    "exampleVi": "Đây là lần đầu tôi thử làm bánh mì."
+  },
+  {
+    "word": "attract to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "thu hút ai đến một nơi hoặc điều gì",
+    "example": "Visitors are attracted to the island by its beaches.",
+    "exampleVi": "Du khách bị thu hút đến hòn đảo bởi những bãi biển."
+  },
+  {
+    "word": "benefit to",
+    "sourceGroup": "prepositions",
+    "pos": "noun",
+    "meaningVi": "lợi ích mang lại cho một người hoặc nhóm",
+    "example": "The park is a benefit to the whole community.",
+    "exampleVi": "Công viên mang lại lợi ích cho cả cộng đồng."
+  },
+  {
+    "word": "blame for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đổ lỗi cho ai về một việc",
+    "example": "He was blamed for the delay.",
+    "exampleVi": "Anh ấy bị đổ lỗi về sự chậm trễ."
+  },
+  {
+    "word": "blame on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "quy nguyên nhân của điều xấu cho ai hoặc điều gì",
+    "example": "The delay was blamed on bad weather.",
+    "exampleVi": "Sự chậm trễ được quy cho thời tiết xấu."
+  },
+  {
+    "word": "capacity for",
+    "sourceGroup": "prepositions",
+    "pos": "noun",
+    "meaningVi": "khả năng làm hoặc tiếp nhận điều gì",
+    "example": "She has a remarkable capacity for learning languages.",
+    "exampleVi": "Cô ấy có khả năng học ngoại ngữ đáng kinh ngạc."
+  },
+  {
+    "word": "claim to",
+    "sourceGroup": "prepositions",
+    "pos": "noun",
+    "meaningVi": "quyền hoặc cơ sở để đòi một thứ",
+    "example": "Both families have a claim to the land.",
+    "exampleVi": "Cả hai gia đình đều có cơ sở đòi quyền đối với mảnh đất."
+  },
+  {
+    "word": "compare with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "so sánh với để xem điểm giống và khác",
+    "example": "This result was compared with last year's figure.",
+    "exampleVi": "Kết quả này được so sánh với số liệu năm ngoái."
+  },
+  {
+    "word": "compare to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "so sánh với hoặc ví như",
+    "example": "Her voice was compared to music by the poet.",
+    "exampleVi": "Giọng nói của cô ấy được nhà thơ ví như âm nhạc."
+  },
+  {
+    "word": "compensate for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bù đắp cho một sự thiếu hụt hoặc bất lợi",
+    "example": "The lower price compensates for the longer journey.",
+    "exampleVi": "Giá thấp hơn bù lại quãng đường đi dài hơn."
+  },
+  {
+    "word": "compete against",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "thi đấu hoặc cạnh tranh với một đối thủ",
+    "example": "We compete against teams from other schools.",
+    "exampleVi": "Chúng tôi thi đấu với các đội từ những trường khác."
+  },
+  {
+    "word": "complain to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "phàn nàn với người hoặc cơ quan có thể xử lý",
+    "example": "She complained to the manager.",
+    "exampleVi": "Cô ấy phàn nàn với người quản lý."
+  },
+  {
+    "word": "comply with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tuân thủ một quy định hoặc yêu cầu",
+    "example": "All suppliers must comply with the safety rules.",
+    "exampleVi": "Mọi nhà cung cấp phải tuân thủ quy định an toàn."
+  },
+  {
+    "word": "conceive of",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "hình dung hoặc nghĩ ra một điều",
+    "example": "I cannot conceive of a better solution.",
+    "exampleVi": "Tôi không thể hình dung một giải pháp tốt hơn."
+  },
+  {
+    "word": "confine to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "giới hạn ai hoặc điều gì trong một phạm vi",
+    "example": "The discussion was confined to practical issues.",
+    "exampleVi": "Cuộc thảo luận được giới hạn ở các vấn đề thực tế."
+  },
+  {
+    "word": "conform to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "phù hợp hoặc tuân theo một tiêu chuẩn",
+    "example": "The product must conform to safety standards.",
+    "exampleVi": "Sản phẩm phải phù hợp với các tiêu chuẩn an toàn."
+  },
+  {
+    "word": "consistent with",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "phù hợp, không mâu thuẫn với",
+    "example": "The evidence is consistent with her account.",
+    "exampleVi": "Bằng chứng phù hợp với lời kể của cô ấy."
+  },
+  {
+    "word": "convenient for",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "thuận tiện cho một người hoặc mục đích",
+    "example": "Is Friday convenient for you?",
+    "exampleVi": "Thứ Sáu có thuận tiện cho bạn không?"
+  },
+  {
+    "word": "dedicate to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "dành tặng hoặc dành công sức cho",
+    "example": "The book is dedicated to her parents.",
+    "exampleVi": "Cuốn sách được dành tặng cha mẹ cô ấy."
+  },
+  {
+    "word": "depend upon",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "phụ thuộc hoặc trông cậy vào; tương đương depend on",
+    "example": "Success depends upon careful planning.",
+    "exampleVi": "Thành công phụ thuộc vào việc lên kế hoạch cẩn thận."
+  },
+  {
+    "word": "devote to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "dành thời gian hoặc nguồn lực cho",
+    "example": "More time was devoted to training.",
+    "exampleVi": "Nhiều thời gian hơn được dành cho đào tạo."
+  },
+  {
+    "word": "differ in",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "khác nhau về một phương diện",
+    "example": "The two products differ in size.",
+    "exampleVi": "Hai sản phẩm khác nhau về kích thước."
+  },
+  {
+    "word": "distinguish between",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "phân biệt giữa hai hoặc nhiều đối tượng",
+    "example": "Children learn to distinguish between fact and opinion.",
+    "exampleVi": "Trẻ học cách phân biệt giữa sự thật và ý kiến."
+  },
+  {
+    "word": "distinguish from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "phân biệt một thứ với một thứ khác",
+    "example": "The original can be distinguished from the copy by its signature.",
+    "exampleVi": "Có thể phân biệt bản gốc với bản sao qua chữ ký."
+  },
+  {
+    "word": "divide into",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chia thành các phần hoặc nhóm",
+    "example": "The class was divided into three groups.",
+    "exampleVi": "Lớp được chia thành ba nhóm."
+  },
+  {
+    "word": "eager to",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "háo hức muốn làm việc gì; theo sau bằng động từ nguyên thể",
+    "example": "She is eager to begin the course.",
+    "exampleVi": "Cô ấy háo hức muốn bắt đầu khóa học."
+  },
+  {
+    "word": "elaborate on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "giải thích hoặc trình bày thêm chi tiết về",
+    "example": "Could you elaborate on that point?",
+    "exampleVi": "Bạn có thể giải thích thêm về điểm đó không?"
+  },
+  {
+    "word": "emerge from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "xuất hiện hoặc đi ra từ",
+    "example": "A deer emerged from the forest.",
+    "exampleVi": "Một con hươu đi ra từ khu rừng."
+  },
+  {
+    "word": "entitle to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "cho ai quyền được hưởng một thứ",
+    "example": "Ticket holders are entitled to a free drink.",
+    "exampleVi": "Người có vé được quyền nhận một đồ uống miễn phí."
+  },
+  {
+    "word": "equip with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "trang bị cho ai hoặc vật một công cụ",
+    "example": "The room is equipped with a projector.",
+    "exampleVi": "Phòng được trang bị máy chiếu."
+  },
+  {
+    "word": "exclude from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "loại hoặc không cho tham gia",
+    "example": "Late entries were excluded from the competition.",
+    "exampleVi": "Các bài gửi muộn bị loại khỏi cuộc thi."
+  },
+  {
+    "word": "expand on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "trình bày chi tiết thêm về một ý",
+    "example": "Please expand on your proposal.",
+    "exampleVi": "Hãy trình bày chi tiết thêm về đề xuất của bạn."
+  },
+  {
+    "word": "forbid from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "cấm ai làm một việc; thường dùng ở dạng bị động",
+    "example": "Employees are forbidden from sharing passwords.",
+    "exampleVi": "Nhân viên bị cấm chia sẻ mật khẩu."
+  },
+  {
+    "word": "hesitate about",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "do dự hoặc chưa chắc chắn về một việc",
+    "example": "She hesitated about accepting the offer.",
+    "exampleVi": "Cô ấy do dự về việc nhận lời đề nghị."
+  },
+  {
+    "word": "impose on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "áp đặt một nghĩa vụ hoặc gánh nặng lên",
+    "example": "A new tax was imposed on imported goods.",
+    "exampleVi": "Một loại thuế mới được áp lên hàng nhập khẩu."
+  },
+  {
+    "word": "include in",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đưa vào một nhóm, danh sách hoặc hoạt động",
+    "example": "Lunch is included in the price.",
+    "exampleVi": "Bữa trưa đã được tính trong giá."
+  },
+  {
+    "word": "incorporate into",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "kết hợp hoặc đưa vào một chỉnh thể",
+    "example": "The changes were incorporated into the final report.",
+    "exampleVi": "Những thay đổi được đưa vào báo cáo cuối cùng."
+  },
+  {
+    "word": "inherent in",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "vốn có trong bản chất của",
+    "example": "There are risks inherent in any investment.",
+    "exampleVi": "Mọi khoản đầu tư đều có những rủi ro vốn có."
+  },
+  {
+    "word": "insist that",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "khăng khăng yêu cầu hoặc khẳng định; theo sau bằng mệnh đề",
+    "example": "She insists that everyone wear a helmet.",
+    "exampleVi": "Cô ấy kiên quyết yêu cầu mọi người đội mũ bảo hiểm."
+  },
+  {
+    "word": "inspire to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "truyền cảm hứng để ai làm việc gì",
+    "example": "I was inspired to study biology by my teacher.",
+    "exampleVi": "Tôi được giáo viên truyền cảm hứng để học sinh học."
+  },
+  {
+    "word": "intend for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "dự định dành cho một người hoặc mục đích",
+    "example": "These seats are intended for older passengers.",
+    "exampleVi": "Những ghế này được dành cho hành khách cao tuổi."
+  },
+  {
+    "word": "liable for",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "chịu trách nhiệm pháp lý về một khoản tiền hoặc thiệt hại",
+    "example": "The tenant is liable for any damage.",
+    "exampleVi": "Người thuê chịu trách nhiệm pháp lý về mọi thiệt hại."
+  },
+  {
+    "word": "liable to",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "có khả năng gặp điều bất lợi; theo sau bằng động từ nguyên thể",
+    "example": "The old engine is liable to overheat.",
+    "exampleVi": "Động cơ cũ dễ bị quá nhiệt."
+  },
+  {
+    "word": "maintain that",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "khẳng định một điều vẫn là đúng; theo sau bằng mệnh đề",
+    "example": "He maintains that the decision was fair.",
+    "exampleVi": "Anh ấy vẫn khẳng định quyết định đó là công bằng."
+  },
+  {
+    "word": "owe to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "có được nhờ một người hoặc yếu tố",
+    "example": "Our success is owed to careful preparation.",
+    "exampleVi": "Thành công của chúng tôi có được nhờ sự chuẩn bị cẩn thận."
+  },
+  {
+    "word": "persist in",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "kiên trì hoặc tiếp tục làm dù gặp phản đối; theo sau bằng V-ing",
+    "example": "He persisted in asking the same question.",
+    "exampleVi": "Anh ấy cứ tiếp tục hỏi cùng một câu."
+  },
+  {
+    "word": "persuade into",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "thuyết phục ai làm một việc; theo sau bằng V-ing",
+    "example": "She was persuaded into joining the club.",
+    "exampleVi": "Cô ấy được thuyết phục tham gia câu lạc bộ."
+  },
+  {
+    "word": "prefer to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "thích làm một việc hơn; theo sau bằng động từ nguyên thể",
+    "example": "I prefer to travel by train.",
+    "exampleVi": "Tôi thích đi tàu hơn."
+  },
+  {
+    "word": "prohibit from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "cấm ai làm việc gì; theo sau bằng V-ing",
+    "example": "Visitors are prohibited from taking photographs.",
+    "exampleVi": "Khách tham quan bị cấm chụp ảnh."
+  },
+  {
+    "word": "protect against",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bảo vệ khỏi một nguy cơ",
+    "example": "The coating protects against rust.",
+    "exampleVi": "Lớp phủ bảo vệ khỏi gỉ sắt."
+  },
+  {
+    "word": "protect from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "bảo vệ ai hoặc vật khỏi điều gây hại",
+    "example": "The plants were protected from the frost.",
+    "exampleVi": "Cây được bảo vệ khỏi sương giá."
+  },
+  {
+    "word": "regret to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "lấy làm tiếc khi phải thông báo điều gì; theo sau bằng động từ nguyên thể",
+    "example": "We regret to inform you that the event is canceled.",
+    "exampleVi": "Chúng tôi rất tiếc phải thông báo sự kiện bị hủy."
+  },
+  {
+    "word": "remind about",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nhắc ai nhớ một việc cần làm",
+    "example": "I was reminded about the deadline.",
+    "exampleVi": "Tôi được nhắc về hạn chót."
+  },
+  {
+    "word": "remind of",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "làm ai nhớ đến người hoặc điều gì",
+    "example": "I was reminded of my childhood by the old photograph.",
+    "exampleVi": "Bức ảnh cũ khiến tôi nhớ đến tuổi thơ."
+  },
+  {
+    "word": "replace with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "thay một vật bằng vật khác",
+    "example": "The old chairs were replaced with new ones.",
+    "exampleVi": "Những chiếc ghế cũ được thay bằng ghế mới."
+  },
+  {
+    "word": "separate from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "tách một thứ khỏi một thứ khác",
+    "example": "The seeds are separated from the fruit.",
+    "exampleVi": "Hạt được tách khỏi quả."
+  },
+  {
+    "word": "speculate about",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "phỏng đoán khi chưa có đủ thông tin",
+    "example": "We can only speculate about the cause.",
+    "exampleVi": "Chúng ta chỉ có thể phỏng đoán về nguyên nhân."
+  },
+  {
+    "word": "submit to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chấp nhận chịu sự kiểm soát hoặc một thủ tục",
+    "example": "He refused to submit to the search.",
+    "exampleVi": "Anh ấy từ chối chấp nhận việc khám xét."
+  },
+  {
+    "word": "succeed to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "kế vị hoặc kế thừa một chức vị hay tài sản",
+    "example": "She succeeded to the throne at a young age.",
+    "exampleVi": "Cô ấy kế vị ngai vàng khi còn trẻ."
+  },
+  {
+    "word": "supply with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "cung cấp cho ai thứ cần thiết",
+    "example": "The village was supplied with clean water.",
+    "exampleVi": "Ngôi làng được cung cấp nước sạch."
+  },
+  {
+    "word": "suspect of",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nghi ai đã làm một việc sai",
+    "example": "He was suspected of leaking the information.",
+    "exampleVi": "Anh ấy bị nghi làm rò rỉ thông tin."
+  },
+  {
+    "word": "tend to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "có xu hướng làm việc gì; theo sau bằng động từ nguyên thể",
+    "example": "Prices tend to rise in summer.",
+    "exampleVi": "Giá cả có xu hướng tăng vào mùa hè."
+  },
+  {
+    "word": "translate into",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "chuyển dịch sang ngôn ngữ khác hoặc biến thành kết quả",
+    "example": "The novel was translated into Spanish.",
+    "exampleVi": "Cuốn tiểu thuyết được dịch sang tiếng Tây Ban Nha."
+  },
+  {
+    "word": "treat as",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "đối xử hoặc xem như một loại người hay vật",
+    "example": "The information must be treated as confidential.",
+    "exampleVi": "Thông tin phải được coi là bí mật."
+  },
+  {
+    "word": "vary with",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "thay đổi theo một yếu tố",
+    "example": "Demand varies with the season.",
+    "exampleVi": "Nhu cầu thay đổi theo mùa."
+  },
+  {
+    "word": "accomplish through",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "hoàn thành nhờ một phương pháp hoặc nỗ lực",
+    "example": "Much can be accomplished through cooperation.",
+    "exampleVi": "Có thể hoàn thành nhiều việc nhờ hợp tác."
+  },
+  {
+    "word": "improve on",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "làm tốt hơn một kết quả hoặc phiên bản trước",
+    "example": "The new model improves on the original design.",
+    "exampleVi": "Mẫu mới cải tiến so với thiết kế ban đầu."
+  },
+  {
+    "word": "improve upon",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "cải thiện so với một chuẩn hoặc thành quả trước",
+    "example": "They hope to improve upon last year's results.",
+    "exampleVi": "Họ hy vọng đạt kết quả tốt hơn năm ngoái."
+  },
+  {
+    "word": "opportunity for",
+    "sourceGroup": "prepositions",
+    "pos": "noun",
+    "meaningVi": "cơ hội dành cho ai hoặc cho một hoạt động",
+    "example": "The course offers an opportunity for discussion.",
+    "exampleVi": "Khóa học tạo cơ hội thảo luận."
+  },
+  {
+    "word": "opportunity to",
+    "sourceGroup": "prepositions",
+    "pos": "noun",
+    "meaningVi": "cơ hội làm việc gì; theo sau bằng động từ nguyên thể",
+    "example": "This is an opportunity to learn from experts.",
+    "exampleVi": "Đây là cơ hội học hỏi từ chuyên gia."
+  },
+  {
+    "word": "confident about",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "tự tin hoặc yên tâm về một việc",
+    "example": "She feels confident about the interview.",
+    "exampleVi": "Cô ấy cảm thấy tự tin về buổi phỏng vấn."
+  },
+  {
+    "word": "confident of",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "tin chắc vào một kết quả",
+    "example": "We are confident of success.",
+    "exampleVi": "Chúng tôi tin chắc vào thành công."
+  },
+  {
+    "word": "confident in",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "tin tưởng vào năng lực hoặc độ tin cậy của",
+    "example": "I am confident in her ability.",
+    "exampleVi": "Tôi tin tưởng vào năng lực của cô ấy."
+  },
+  {
+    "word": "confident that",
+    "sourceGroup": "prepositions",
+    "pos": "adjective",
+    "meaningVi": "tin chắc một điều; theo sau bằng mệnh đề",
+    "example": "We are confident that the plan will work.",
+    "exampleVi": "Chúng tôi tin chắc kế hoạch sẽ có hiệu quả."
+  },
+  {
+    "word": "suggest to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "gợi ý một điều với ai; không dùng suggest someone to do",
+    "example": "The idea was suggested to me by a colleague.",
+    "exampleVi": "Ý tưởng đó được một đồng nghiệp gợi ý cho tôi."
+  },
+  {
+    "word": "decision on",
+    "sourceGroup": "prepositions",
+    "pos": "noun",
+    "meaningVi": "quyết định về một vấn đề",
+    "example": "We need a decision on the budget.",
+    "exampleVi": "Chúng ta cần một quyết định về ngân sách."
+  },
+  {
+    "word": "decision to",
+    "sourceGroup": "prepositions",
+    "pos": "noun",
+    "meaningVi": "quyết định làm việc gì; theo sau bằng động từ nguyên thể",
+    "example": "Her decision to leave surprised us.",
+    "exampleVi": "Quyết định ra đi của cô ấy khiến chúng tôi ngạc nhiên."
+  },
+  {
+    "word": "encourage to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "khuyến khích ai làm việc gì; theo sau bằng động từ nguyên thể",
+    "example": "Students are encouraged to ask questions.",
+    "exampleVi": "Sinh viên được khuyến khích đặt câu hỏi."
+  },
+  {
+    "word": "experience in",
+    "sourceGroup": "prepositions",
+    "pos": "noun",
+    "meaningVi": "kinh nghiệm trong một lĩnh vực hoặc hoạt động",
+    "example": "She has experience in project management.",
+    "exampleVi": "Cô ấy có kinh nghiệm quản lý dự án."
+  },
+  {
+    "word": "experience of",
+    "sourceGroup": "prepositions",
+    "pos": "noun",
+    "meaningVi": "kinh nghiệm hoặc hiểu biết do trực tiếp trải qua",
+    "example": "He has experience of working abroad.",
+    "exampleVi": "Anh ấy có kinh nghiệm làm việc ở nước ngoài."
+  },
+  {
+    "word": "prevent from",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "ngăn ai làm việc gì; theo sau bằng V-ing",
+    "example": "We were prevented from entering the building.",
+    "exampleVi": "Chúng tôi bị ngăn vào tòa nhà."
+  },
+  {
+    "word": "relationship with",
+    "sourceGroup": "prepositions",
+    "pos": "noun",
+    "meaningVi": "mối quan hệ với một người hoặc tổ chức",
+    "example": "We have a good relationship with our suppliers.",
+    "exampleVi": "Chúng tôi có quan hệ tốt với các nhà cung cấp."
+  },
+  {
+    "word": "relationship between",
+    "sourceGroup": "prepositions",
+    "pos": "noun",
+    "meaningVi": "mối quan hệ hoặc liên hệ giữa các bên",
+    "example": "The study examines the relationship between sleep and memory.",
+    "exampleVi": "Nghiên cứu xem xét mối liên hệ giữa giấc ngủ và trí nhớ."
+  },
+  {
+    "word": "afford to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "có đủ tiền, thời gian hoặc khả năng để làm; theo sau bằng động từ nguyên thể",
+    "example": "We cannot afford to replace the car yet.",
+    "exampleVi": "Chúng tôi chưa đủ khả năng thay xe."
+  },
+  {
+    "word": "mention to",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "nhắc một điều với ai",
+    "example": "The problem was mentioned to the manager.",
+    "exampleVi": "Vấn đề đã được nhắc với người quản lý."
+  },
+  {
+    "word": "consider for",
+    "sourceGroup": "prepositions",
+    "pos": "verb",
+    "meaningVi": "cân nhắc một người hoặc vật cho một vị trí hay mục đích",
+    "example": "She is being considered for the promotion.",
+    "exampleVi": "Cô ấy đang được cân nhắc để thăng chức."
   }
 ]

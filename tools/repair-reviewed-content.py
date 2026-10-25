@@ -42,6 +42,10 @@ def main():
         write(IT, read('decks/it-advanced.json'))
     files = [SEED] + [p.relative_to(ROOT).as_posix() for p in source_decks(ROOT)]
     decks = {file: read(file) for file in files}
+    frozen_synonyms = {(r['word'],r['pos'],r['meaningVi']):r['synonyms'] for r in read('learning/synonyms.json')}
+    for data in decks.values():
+        for word in tree_entries(data):
+            word.setdefault('synonyms', copy.deepcopy(frozen_synonyms.get((word['word'],word['pos'],word['meaningVi']), [])))
     originals = copy.deepcopy(decks)
     existing_manifest = read('learning/content-corrections.json') if MANIFEST.exists() else []
     for record in existing_manifest:
@@ -303,6 +307,9 @@ warm-up|noun|bài khởi động trước khi vận động hoặc thi đấu|Th
             record.update(synonyms=entry(task1, record['word'])['synonyms'], reason='', source='gpt-edited')
     write('learning/synonyms.json', synonym_records)
 
+    from legacy_enrichment import apply as apply_legacy
+    apply_legacy(decks, edit)
+
     # Build exact before/after records once; preserve the historical preimage on later runs.
     previous = {(r['file'], r['word']): r for r in existing_manifest}
     manifest = []
@@ -387,7 +394,7 @@ warm-up|noun|bài khởi động trước khi vận động hoặc thi đấu|Th
         write('tools/' + name, updated)
         records.extend(updated)
     supplements = sum((read('tools/' + name) for name in ['curated-basic-20-examples.json',
-        'curated-basic-120-examples.json','curated-everyday-500-examples.json','curated-prepositions-examples.json']), [])
+        'curated-basic-120-examples.json','curated-everyday-500-examples.json','curated-prepositions-examples.json','curated-legacy-examples.json']), [])
     authored = {identity(r['word'], r) for r in records + supplements}
     extra = []
     for patch in manifest:
@@ -402,7 +409,7 @@ warm-up|noun|bài khởi động trước khi vận động hoặc thi đấu|Th
     multi = sum(bool(w.get('senses')) for w in decks[SEED])
     for file in ['catalog.json']:
         catalog = read(file)
-        catalog['files'][0]['description'] = f"1.002 từ thông dụng và công việc/IT. {multi} từ có nghĩa phụ."
+        catalog['files'][0]['description'] = f"{len(decks[SEED]):,} từ thông dụng và công việc/IT, gồm các từ khôi phục từ bản đầu. {multi} từ có nghĩa phụ."
         if file == 'catalog.json' and not any(f['url'] == IT for f in catalog['files']):
             catalog['files'].append(dict(title='IT chuyên sâu', description='151 thuật ngữ chuyên sâu với ví dụ Anh–Việt và nghĩa khác khi có.', url=IT, count=len(decks[IT])))
         write(file, catalog)

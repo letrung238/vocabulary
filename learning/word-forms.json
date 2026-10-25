@@ -177,9 +177,28 @@
       {
         "word": "abstracts",
         "types": [
+          "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/ˈæb.strækts/"
+        "ipa": "/æbˈstrækts/, /ˈæb.strækts/"
+      },
+      {
+        "word": "abstracting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/æbˈstræktɪŋ/"
+      },
+      {
+        "word": "abstracted",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/æbˈstræktɪd/",
+        "example": "The researchers abstracted key facts from the reports.",
+        "exampleVi": "Các nhà nghiên cứu trích xuất những dữ kiện chính từ các báo cáo."
       }
     ]
   },
@@ -419,6 +438,36 @@
     ]
   },
   {
+    "word": "accomplish through",
+    "forms": [
+      {
+        "word": "accomplishes through",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/əˈkʌmplɪʃɪz θruː/"
+      },
+      {
+        "word": "accomplishing through",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/əˈkʌmplɪʃɪŋ θruː/"
+      },
+      {
+        "word": "accomplished through",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/əˈkʌmplɪʃt θruː/",
+        "example": "Much can be accomplished through cooperation.",
+        "exampleVi": "Có thể hoàn thành nhiều việc nhờ hợp tác."
+      }
+    ]
+  },
+  {
     "word": "account",
     "forms": [
       {
@@ -595,6 +644,36 @@
     ]
   },
   {
+    "word": "accuse of",
+    "forms": [
+      {
+        "word": "accuses of",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/əˈkjuːzɪz əv/"
+      },
+      {
+        "word": "accusing of",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/əˈkjuːzɪŋ əv/"
+      },
+      {
+        "word": "accused of",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/əˈkjuːzd əv/",
+        "example": "He was accused of stealing the documents.",
+        "exampleVi": "Anh ấy bị buộc tội đánh cắp tài liệu."
+      }
+    ]
+  },
+  {
     "word": "ache",
     "forms": [
       {
@@ -710,6 +789,36 @@
     ]
   },
   {
+    "word": "acknowledge as",
+    "forms": [
+      {
+        "word": "acknowledges as",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/əkˈnɒl.ɪdʒɪz æz/"
+      },
+      {
+        "word": "acknowledging as",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/əkˈnɒl.ɪdʒɪŋ æz/"
+      },
+      {
+        "word": "acknowledged as",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/əkˈnɒl.ɪdʒd æz/",
+        "example": "She is acknowledged as an expert in this field.",
+        "exampleVi": "Cô ấy được công nhận là chuyên gia trong lĩnh vực này."
+      }
+    ]
+  },
+  {
     "word": "acquire",
     "forms": [
       {
@@ -736,6 +845,36 @@
         "ipa": "/əˈkwaɪərd/",
         "example": "He acquired the skill through practice.",
         "exampleVi": "Anh ấy có được kỹ năng đó nhờ luyện tập."
+      }
+    ]
+  },
+  {
+    "word": "acquire from",
+    "forms": [
+      {
+        "word": "acquires from",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/əˈkwaɪərz frəm/"
+      },
+      {
+        "word": "acquiring from",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/əˈkwaɪərɪŋ frəm/"
+      },
+      {
+        "word": "acquired from",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/əˈkwaɪərd frəm/",
+        "example": "The painting was acquired from a local collector.",
+        "exampleVi": "Bức tranh được mua từ một nhà sưu tập địa phương."
       }
     ]
   },
@@ -913,6 +1052,36 @@
           "past_participle"
         ],
         "ipa": "/əˈdæptɪd/"
+      }
+    ]
+  },
+  {
+    "word": "adapt for",
+    "forms": [
+      {
+        "word": "adapts for",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/əˈdæpts fər/"
+      },
+      {
+        "word": "adapting for",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/əˈdæptɪŋ fər/"
+      },
+      {
+        "word": "adapted for",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/əˈdæptɪd fər/",
+        "example": "The novel was adapted for television.",
+        "exampleVi": "Cuốn tiểu thuyết được chuyển thể cho truyền hình."
       }
     ]
   },
@@ -1137,6 +1306,36 @@
     ]
   },
   {
+    "word": "adjust for",
+    "forms": [
+      {
+        "word": "adjusts for",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/əˈdʒʌsts fər/"
+      },
+      {
+        "word": "adjusting for",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/əˈdʒʌstɪŋ fər/"
+      },
+      {
+        "word": "adjusted for",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/əˈdʒʌstɪd fər/",
+        "example": "The figures were adjusted for inflation.",
+        "exampleVi": "Các số liệu được điều chỉnh để tính đến lạm phát."
+      }
+    ]
+  },
+  {
     "word": "adjust to",
     "forms": [
       {
@@ -1287,6 +1486,36 @@
     ]
   },
   {
+    "word": "admire for",
+    "forms": [
+      {
+        "word": "admires for",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ədˈmaɪərz fər/"
+      },
+      {
+        "word": "admiring for",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ədˈmaɪərɪŋ fər/"
+      },
+      {
+        "word": "admired for",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ədˈmaɪərd fər/",
+        "example": "She is admired for her courage.",
+        "exampleVi": "Cô ấy được ngưỡng mộ vì lòng dũng cảm."
+      }
+    ]
+  },
+  {
     "word": "admission",
     "forms": [
       {
@@ -1325,6 +1554,36 @@
         "ipa": "/ədˈmɪtɪd/",
         "example": "He admitted that he was wrong.",
         "exampleVi": "Anh ấy thừa nhận mình đã sai."
+      }
+    ]
+  },
+  {
+    "word": "admit to",
+    "forms": [
+      {
+        "word": "admits to",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ədˈmɪts tə/"
+      },
+      {
+        "word": "admitting to",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ədˈmɪtɪŋ tə/"
+      },
+      {
+        "word": "admitted to",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ədˈmɪtɪd tə/",
+        "example": "He admitted to making a mistake.",
+        "exampleVi": "Anh ấy thừa nhận đã mắc lỗi."
       }
     ]
   },
@@ -1496,6 +1755,34 @@
     ]
   },
   {
+    "word": "advocate for",
+    "forms": [
+      {
+        "word": "advocates for",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈæd.və.keɪts fər/"
+      },
+      {
+        "word": "advocating for",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈæd.və.keɪtɪŋ fər/"
+      },
+      {
+        "word": "advocated for",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈæd.və.keɪtɪd fər/"
+      }
+    ]
+  },
+  {
     "word": "affair",
     "forms": [
       {
@@ -1560,6 +1847,34 @@
           "past_participle"
         ],
         "ipa": "/əˈfɔːdɪd/"
+      }
+    ]
+  },
+  {
+    "word": "afford to",
+    "forms": [
+      {
+        "word": "affords to",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/əˈfɔːdz tə/"
+      },
+      {
+        "word": "affording to",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/əˈfɔːdɪŋ tə/"
+      },
+      {
+        "word": "afforded to",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/əˈfɔːdɪd tə/"
       }
     ]
   },
@@ -2052,6 +2367,36 @@
         "ipa": "/ˈæl.ə.keɪtɪd/",
         "example": "We allocated two engineers to the task.",
         "exampleVi": "Chúng tôi phân bổ hai kỹ sư cho nhiệm vụ này."
+      }
+    ]
+  },
+  {
+    "word": "allocate to",
+    "forms": [
+      {
+        "word": "allocates to",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈæl.ə.keɪts tə/"
+      },
+      {
+        "word": "allocating to",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈæl.ə.keɪtɪŋ tə/"
+      },
+      {
+        "word": "allocated to",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈæl.ə.keɪtɪd tə/",
+        "example": "More funding was allocated to public transport.",
+        "exampleVi": "Nhiều kinh phí hơn được phân bổ cho giao thông công cộng."
       }
     ]
   },
@@ -2676,7 +3021,9 @@
         "types": [
           "plural"
         ],
-        "ipa": "/ˌæn.əˈteɪ.ʃənz/"
+        "ipa": "/ˌæn.əˈteɪ.ʃənz/",
+        "example": "The edition includes annotations explaining difficult passages.",
+        "exampleVi": "Ấn bản có các chú giải giải thích những đoạn khó."
       }
     ]
   },
@@ -3272,6 +3619,34 @@
     ]
   },
   {
+    "word": "apply to",
+    "forms": [
+      {
+        "word": "applies to",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/əˈplaɪz tə/"
+      },
+      {
+        "word": "applying to",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/əˈplaɪɪŋ tə/"
+      },
+      {
+        "word": "applied to",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/əˈplaɪd tə/"
+      }
+    ]
+  },
+  {
     "word": "appoint",
     "forms": [
       {
@@ -3393,6 +3768,18 @@
         "ipa": "/əˈprəʊtʃt/",
         "example": "He approached the desk quietly.",
         "exampleVi": "Anh ấy tiến lại bàn một cách lặng lẽ."
+      }
+    ]
+  },
+  {
+    "word": "approach to",
+    "forms": [
+      {
+        "word": "approaches to",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/əˈprəʊtʃɪz tə/"
       }
     ]
   },
@@ -3656,6 +4043,66 @@
     ]
   },
   {
+    "word": "argue against",
+    "forms": [
+      {
+        "word": "argues against",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈɑː.ɡjuːz əˈɡenst/"
+      },
+      {
+        "word": "arguing against",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈɑː.ɡjuːɪŋ əˈɡenst/"
+      },
+      {
+        "word": "argued against",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈɑː.ɡjuːd əˈɡenst/",
+        "example": "She argued against closing the library.",
+        "exampleVi": "Cô ấy đưa ra lý lẽ phản đối việc đóng cửa thư viện."
+      }
+    ]
+  },
+  {
+    "word": "argue for",
+    "forms": [
+      {
+        "word": "argues for",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈɑː.ɡjuːz fər/",
+        "example": "The report argues for better public transport.",
+        "exampleVi": "Báo cáo đưa ra lý lẽ ủng hộ việc cải thiện giao thông công cộng."
+      },
+      {
+        "word": "arguing for",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈɑː.ɡjuːɪŋ fər/"
+      },
+      {
+        "word": "argued for",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈɑː.ɡjuːd fər/"
+      }
+    ]
+  },
+  {
     "word": "argue with",
     "forms": [
       {
@@ -3794,6 +4241,36 @@
           "past_participle"
         ],
         "ipa": "/əˈreɪndʒd/"
+      }
+    ]
+  },
+  {
+    "word": "arrange for",
+    "forms": [
+      {
+        "word": "arranges for",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/əˈreɪndʒɪz fər/"
+      },
+      {
+        "word": "arranging for",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/əˈreɪndʒɪŋ fər/"
+      },
+      {
+        "word": "arranged for",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/əˈreɪndʒd fər/",
+        "example": "We arranged for a taxi to collect them.",
+        "exampleVi": "Chúng tôi thu xếp để taxi đến đón họ."
       }
     ]
   },
@@ -4270,6 +4747,36 @@
     ]
   },
   {
+    "word": "aspire to",
+    "forms": [
+      {
+        "word": "aspires to",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/əˈspaɪərz tə/",
+        "example": "She aspires to a career in medicine.",
+        "exampleVi": "Cô ấy khao khát theo đuổi sự nghiệp y khoa."
+      },
+      {
+        "word": "aspiring to",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/əˈspaɪərɪŋ tə/"
+      },
+      {
+        "word": "aspired to",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/əˈspaɪərd tə/"
+      }
+    ]
+  },
+  {
     "word": "assault",
     "forms": [
       {
@@ -4560,6 +5067,36 @@
     ]
   },
   {
+    "word": "associate with",
+    "forms": [
+      {
+        "word": "associates with",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/əˈsəʊ.si.eɪts wɪð/",
+        "example": "He associates with people from many backgrounds.",
+        "exampleVi": "Anh ấy giao du với những người từ nhiều hoàn cảnh."
+      },
+      {
+        "word": "associating with",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/əˈsəʊ.si.eɪtɪŋ wɪð/"
+      },
+      {
+        "word": "associated with",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/əˈsəʊ.si.eɪtɪd wɪð/"
+      }
+    ]
+  },
+  {
     "word": "association",
     "forms": [
       {
@@ -4720,6 +5257,36 @@
     ]
   },
   {
+    "word": "attach to",
+    "forms": [
+      {
+        "word": "attaches to",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/əˈtætʃɪz tə/"
+      },
+      {
+        "word": "attaching to",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/əˈtætʃɪŋ tə/"
+      },
+      {
+        "word": "attached to",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/əˈtætʃt tə/",
+        "example": "The file is attached to the email.",
+        "exampleVi": "Tệp được đính kèm vào email."
+      }
+    ]
+  },
+  {
     "word": "attachment",
     "forms": [
       {
@@ -4823,6 +5390,18 @@
           "past_participle"
         ],
         "ipa": "/əˈtemptɪd/"
+      }
+    ]
+  },
+  {
+    "word": "attempt at",
+    "forms": [
+      {
+        "word": "attempts at",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/əˈtempts æt/"
       }
     ]
   },
@@ -4957,6 +5536,36 @@
           "past_participle"
         ],
         "ipa": "/əˈtræktɪd/"
+      }
+    ]
+  },
+  {
+    "word": "attract to",
+    "forms": [
+      {
+        "word": "attracts to",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/əˈtrækts tə/"
+      },
+      {
+        "word": "attracting to",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/əˈtræktɪŋ tə/"
+      },
+      {
+        "word": "attracted to",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/əˈtræktɪd tə/",
+        "example": "Visitors are attracted to the island by its beaches.",
+        "exampleVi": "Du khách bị thu hút đến hòn đảo bởi những bãi biển."
       }
     ]
   },
@@ -6609,9 +7218,28 @@
       {
         "word": "benchmarks",
         "types": [
+          "present_third_person_singular",
           "plural"
         ],
         "ipa": "/ˈbentʃ.mɑːks/"
+      },
+      {
+        "word": "benchmarking",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈbentʃ.mɑːkɪŋ/"
+      },
+      {
+        "word": "benchmarked",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈbentʃ.mɑːkt/",
+        "example": "We benchmarked the two computers using the same workload.",
+        "exampleVi": "Chúng tôi đo so sánh hiệu năng hai máy tính bằng cùng một tải công việc."
       }
     ]
   },
@@ -6701,6 +7329,18 @@
     ]
   },
   {
+    "word": "benefit to",
+    "forms": [
+      {
+        "word": "benefits to",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈben.ɪ.fɪts tə/"
+      }
+    ]
+  },
+  {
     "word": "bent",
     "forms": [
       {
@@ -6783,9 +7423,26 @@
       {
         "word": "biases",
         "types": [
+          "present_third_person_singular",
           "plural"
         ],
         "ipa": "/ˈbaɪ.əsɪz/"
+      },
+      {
+        "word": "biasing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈbaɪ.əsɪŋ/"
+      },
+      {
+        "word": "biased",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈbaɪ.əst/"
       }
     ]
   },
@@ -6979,6 +7636,66 @@
           "past_participle"
         ],
         "ipa": "/bleɪmd/"
+      }
+    ]
+  },
+  {
+    "word": "blame for",
+    "forms": [
+      {
+        "word": "blames for",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/bleɪmz fər/"
+      },
+      {
+        "word": "blaming for",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/bleɪmɪŋ fər/"
+      },
+      {
+        "word": "blamed for",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/bleɪmd fər/",
+        "example": "He was blamed for the delay.",
+        "exampleVi": "Anh ấy bị đổ lỗi về sự chậm trễ."
+      }
+    ]
+  },
+  {
+    "word": "blame on",
+    "forms": [
+      {
+        "word": "blames on",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/bleɪmz ɑːn/"
+      },
+      {
+        "word": "blaming on",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/bleɪmɪŋ ɑːn/"
+      },
+      {
+        "word": "blamed on",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/bleɪmd ɑːn/",
+        "example": "The delay was blamed on bad weather.",
+        "exampleVi": "Sự chậm trễ được quy cho thời tiết xấu."
       }
     ]
   },
@@ -7508,7 +8225,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/bʊks/"
+        "ipa": "/bʊks/",
+        "example": "I borrowed two books from the library.",
+        "exampleVi": "Tôi mượn hai cuốn sách từ thư viện."
       },
       {
         "word": "booking",
@@ -7961,9 +8680,28 @@
       {
         "word": "branches",
         "types": [
+          "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/brɑːntʃɪz/"
+        "ipa": "/brɑːntʃɪz/",
+        "example": "The road branches just beyond the village.",
+        "exampleVi": "Con đường chia nhánh ngay sau ngôi làng."
+      },
+      {
+        "word": "branching",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/brɑːntʃɪŋ/"
+      },
+      {
+        "word": "branched",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/brɑːntʃt/"
       }
     ]
   },
@@ -8021,9 +8759,28 @@
       {
         "word": "breaches",
         "types": [
+          "present_third_person_singular",
           "plural"
         ],
         "ipa": "/briːtʃɪz/"
+      },
+      {
+        "word": "breaching",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/briːtʃɪŋ/"
+      },
+      {
+        "word": "breached",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/briːtʃt/",
+        "example": "The company breached the terms of the contract.",
+        "exampleVi": "Công ty vi phạm các điều khoản hợp đồng."
       }
     ]
   },
@@ -11280,6 +12037,18 @@
     ]
   },
   {
+    "word": "capacity for",
+    "forms": [
+      {
+        "word": "capacities for",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kəˈpæs.ə.tiz fər/"
+      }
+    ]
+  },
+  {
     "word": "capacity forecast",
     "forms": [
       {
@@ -12744,7 +13513,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/tʃeɪndʒɪz/"
+        "ipa": "/tʃeɪndʒɪz/",
+        "example": "We made several changes to the plan.",
+        "exampleVi": "Chúng tôi thực hiện vài thay đổi trong kế hoạch."
       },
       {
         "word": "changing",
@@ -13741,7 +14512,8 @@
       {
         "word": "claims",
         "types": [
-          "present_third_person_singular"
+          "present_third_person_singular",
+          "plural"
         ],
         "ipa": "/kleɪmz/",
         "example": "He claims that he saw the accident.",
@@ -13762,6 +14534,18 @@
           "past_participle"
         ],
         "ipa": "/kleɪmd/"
+      }
+    ]
+  },
+  {
+    "word": "claim to",
+    "forms": [
+      {
+        "word": "claims to",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kleɪmz tə/"
       }
     ]
   },
@@ -15939,9 +16723,26 @@
       {
         "word": "comments",
         "types": [
+          "present_third_person_singular",
           "plural"
         ],
         "ipa": "/ˈkɒm.ents/"
+      },
+      {
+        "word": "commenting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈkɒm.entɪŋ/"
+      },
+      {
+        "word": "commented",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈkɒm.entɪd/"
       }
     ]
   },
@@ -16279,6 +17080,66 @@
     ]
   },
   {
+    "word": "compare to",
+    "forms": [
+      {
+        "word": "compares to",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/kəmˈpeərz tə/"
+      },
+      {
+        "word": "comparing to",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/kəmˈpeərɪŋ tə/"
+      },
+      {
+        "word": "compared to",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/kəmˈpeərd tə/",
+        "example": "Her voice was compared to music by the poet.",
+        "exampleVi": "Giọng nói của cô ấy được nhà thơ ví như âm nhạc."
+      }
+    ]
+  },
+  {
+    "word": "compare with",
+    "forms": [
+      {
+        "word": "compares with",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/kəmˈpeərz wɪð/"
+      },
+      {
+        "word": "comparing with",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/kəmˈpeərɪŋ wɪð/"
+      },
+      {
+        "word": "compared with",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/kəmˈpeərd wɪð/",
+        "example": "This result was compared with last year's figure.",
+        "exampleVi": "Kết quả này được so sánh với số liệu năm ngoái."
+      }
+    ]
+  },
+  {
     "word": "comparison",
     "forms": [
       {
@@ -16321,6 +17182,36 @@
     ]
   },
   {
+    "word": "compensate for",
+    "forms": [
+      {
+        "word": "compensates for",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈkɒm.pən.seɪts fər/",
+        "example": "The lower price compensates for the longer journey.",
+        "exampleVi": "Giá thấp hơn bù lại quãng đường đi dài hơn."
+      },
+      {
+        "word": "compensating for",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈkɒm.pən.seɪtɪŋ fər/"
+      },
+      {
+        "word": "compensated for",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈkɒm.pən.seɪtɪd fər/"
+      }
+    ]
+  },
+  {
     "word": "compensation",
     "forms": [
       {
@@ -16357,6 +17248,34 @@
           "past_participle"
         ],
         "ipa": "/kəmˈpiːtɪd/"
+      }
+    ]
+  },
+  {
+    "word": "compete against",
+    "forms": [
+      {
+        "word": "competes against",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/kəmˈpiːts əˈɡenst/"
+      },
+      {
+        "word": "competing against",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/kəmˈpiːtɪŋ əˈɡenst/"
+      },
+      {
+        "word": "competed against",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/kəmˈpiːtɪd əˈɡenst/"
       }
     ]
   },
@@ -16589,6 +17508,36 @@
     ]
   },
   {
+    "word": "complain to",
+    "forms": [
+      {
+        "word": "complains to",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/kəmˈpleɪnz tə/"
+      },
+      {
+        "word": "complaining to",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/kəmˈpleɪnɪŋ tə/"
+      },
+      {
+        "word": "complained to",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/kəmˈpleɪnd tə/",
+        "example": "She complained to the manager.",
+        "exampleVi": "Cô ấy phàn nàn với người quản lý."
+      }
+    ]
+  },
+  {
     "word": "complement",
     "forms": [
       {
@@ -16690,6 +17639,34 @@
           "past_participle"
         ],
         "ipa": "/kəmˈplaɪd/"
+      }
+    ]
+  },
+  {
+    "word": "comply with",
+    "forms": [
+      {
+        "word": "complies with",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/kəmˈplaɪz wɪð/"
+      },
+      {
+        "word": "complying with",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/kəmˈplaɪɪŋ wɪð/"
+      },
+      {
+        "word": "complied with",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/kəmˈplaɪd wɪð/"
       }
     ]
   },
@@ -17011,6 +17988,34 @@
           "past_participle"
         ],
         "ipa": "/kənˈsiːvd/"
+      }
+    ]
+  },
+  {
+    "word": "conceive of",
+    "forms": [
+      {
+        "word": "conceives of",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/kənˈsiːvz əv/"
+      },
+      {
+        "word": "conceiving of",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/kənˈsiːvɪŋ əv/"
+      },
+      {
+        "word": "conceived of",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/kənˈsiːvd əv/"
       }
     ]
   },
@@ -17409,6 +18414,36 @@
     ]
   },
   {
+    "word": "confine to",
+    "forms": [
+      {
+        "word": "confines to",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/kənˈfaɪnz tə/"
+      },
+      {
+        "word": "confining to",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/kənˈfaɪnɪŋ tə/"
+      },
+      {
+        "word": "confined to",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/kənˈfaɪnd tə/",
+        "example": "The discussion was confined to practical issues.",
+        "exampleVi": "Cuộc thảo luận được giới hạn ở các vấn đề thực tế."
+      }
+    ]
+  },
+  {
     "word": "confirm",
     "forms": [
       {
@@ -17516,6 +18551,34 @@
           "past_participle"
         ],
         "ipa": "/kənˈfɔːmd/"
+      }
+    ]
+  },
+  {
+    "word": "conform to",
+    "forms": [
+      {
+        "word": "conforms to",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/kənˈfɔːmz tə/"
+      },
+      {
+        "word": "conforming to",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/kənˈfɔːmɪŋ tə/"
+      },
+      {
+        "word": "conformed to",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/kənˈfɔːmd tə/"
       }
     ]
   },
@@ -17796,6 +18859,64 @@
         "ipa": "/ˈkɒn.sɪ.kwənsɪz/",
         "example": "He had to face the consequences of his choice.",
         "exampleVi": "Anh ta phải đối mặt với hậu quả của lựa chọn của mình."
+      }
+    ]
+  },
+  {
+    "word": "consider",
+    "forms": [
+      {
+        "word": "considers",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/kənˈsɪd.ərz/"
+      },
+      {
+        "word": "considering",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/kənˈsɪd.ərɪŋ/"
+      },
+      {
+        "word": "considered",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/kənˈsɪd.ərd/"
+      }
+    ]
+  },
+  {
+    "word": "consider for",
+    "forms": [
+      {
+        "word": "considers for",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/kənˈsɪd.ərz fər/"
+      },
+      {
+        "word": "considering for",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/kənˈsɪd.ərɪŋ fər/"
+      },
+      {
+        "word": "considered for",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/kənˈsɪd.ərd fər/",
+        "example": "She is being considered for the promotion.",
+        "exampleVi": "Cô ấy đang được cân nhắc để thăng chức."
       }
     ]
   },
@@ -21974,6 +23095,42 @@
     ]
   },
   {
+    "word": "decision",
+    "forms": [
+      {
+        "word": "decisions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/dɪˈsɪʒ.ənz/"
+      }
+    ]
+  },
+  {
+    "word": "decision on",
+    "forms": [
+      {
+        "word": "decisions on",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/dɪˈsɪʒ.ənz ɑːn/"
+      }
+    ]
+  },
+  {
+    "word": "decision to",
+    "forms": [
+      {
+        "word": "decisions to",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/dɪˈsɪʒ.ənz tə/"
+      }
+    ]
+  },
+  {
     "word": "deck",
     "forms": [
       {
@@ -22170,6 +23327,36 @@
         "ipa": "/ˈded.ɪ.keɪtɪd/",
         "example": "She dedicated her life to teaching.",
         "exampleVi": "Cô ấy cống hiến cả đời cho việc dạy học."
+      }
+    ]
+  },
+  {
+    "word": "dedicate to",
+    "forms": [
+      {
+        "word": "dedicates to",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈded.ɪ.keɪts tə/"
+      },
+      {
+        "word": "dedicating to",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈded.ɪ.keɪtɪŋ tə/"
+      },
+      {
+        "word": "dedicated to",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈded.ɪ.keɪtɪd tə/",
+        "example": "The book is dedicated to her parents.",
+        "exampleVi": "Cuốn sách được dành tặng cha mẹ cô ấy."
       }
     ]
   },
@@ -23069,6 +24256,36 @@
           "past_participle"
         ],
         "ipa": "/dɪˈpendɪd ɑn/"
+      }
+    ]
+  },
+  {
+    "word": "depend upon",
+    "forms": [
+      {
+        "word": "depends upon",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/dɪˈpendz əˈpɑːn/",
+        "example": "Success depends upon careful planning.",
+        "exampleVi": "Thành công phụ thuộc vào việc lên kế hoạch cẩn thận."
+      },
+      {
+        "word": "depending upon",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/dɪˈpendɪŋ əˈpɑːn/"
+      },
+      {
+        "word": "depended upon",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/dɪˈpendɪd əˈpɑːn/"
       }
     ]
   },
@@ -24097,6 +25314,36 @@
     ]
   },
   {
+    "word": "devote to",
+    "forms": [
+      {
+        "word": "devotes to",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/dɪˈvəʊts tə/"
+      },
+      {
+        "word": "devoting to",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/dɪˈvəʊtɪŋ tə/"
+      },
+      {
+        "word": "devoted to",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/dɪˈvəʊtɪd tə/",
+        "example": "More time was devoted to training.",
+        "exampleVi": "Nhiều thời gian hơn được dành cho đào tạo."
+      }
+    ]
+  },
+  {
     "word": "diagnosis",
     "forms": [
       {
@@ -24287,6 +25534,34 @@
           "past_participle"
         ],
         "ipa": "/ˈdɪfərd frəm/"
+      }
+    ]
+  },
+  {
+    "word": "differ in",
+    "forms": [
+      {
+        "word": "differs in",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈdɪf.ərz ɪn/"
+      },
+      {
+        "word": "differing in",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈdɪf.ərɪŋ ɪn/"
+      },
+      {
+        "word": "differed in",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈdɪf.ərd ɪn/"
       }
     ]
   },
@@ -24773,9 +26048,28 @@
       {
         "word": "disciplines",
         "types": [
+          "present_third_person_singular",
           "plural"
         ],
         "ipa": "/ˈdɪs.ə.plɪnz/"
+      },
+      {
+        "word": "disciplining",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈdɪs.ə.plɪnɪŋ/"
+      },
+      {
+        "word": "disciplined",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈdɪs.ə.plɪnd/",
+        "example": "The school disciplined the students for cheating.",
+        "exampleVi": "Nhà trường kỷ luật những học sinh gian lận."
       }
     ]
   },
@@ -25367,6 +26661,64 @@
     ]
   },
   {
+    "word": "distinguish between",
+    "forms": [
+      {
+        "word": "distinguishes between",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/dɪˈstɪŋ.ɡwɪʃɪz bɪˈtwiːn/"
+      },
+      {
+        "word": "distinguishing between",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/dɪˈstɪŋ.ɡwɪʃɪŋ bɪˈtwiːn/"
+      },
+      {
+        "word": "distinguished between",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/dɪˈstɪŋ.ɡwɪʃt bɪˈtwiːn/"
+      }
+    ]
+  },
+  {
+    "word": "distinguish from",
+    "forms": [
+      {
+        "word": "distinguishes from",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/dɪˈstɪŋ.ɡwɪʃɪz frəm/"
+      },
+      {
+        "word": "distinguishing from",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/dɪˈstɪŋ.ɡwɪʃɪŋ frəm/"
+      },
+      {
+        "word": "distinguished from",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/dɪˈstɪŋ.ɡwɪʃt frəm/",
+        "example": "The original can be distinguished from the copy by its signature.",
+        "exampleVi": "Có thể phân biệt bản gốc với bản sao qua chữ ký."
+      }
+    ]
+  },
+  {
     "word": "distort",
     "forms": [
       {
@@ -25511,7 +26863,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/ˈdɪstrɪkts/"
+        "ipa": "/ˈdɪstrɪkts/",
+        "example": "Roppongi and Kabukicho are Tokyo's main entertainment districts.",
+        "exampleVi": "Roppongi và Kabukicho là hai khu vực giải trí chính của Tokyo."
       },
       {
         "word": "districting",
@@ -25678,6 +27032,36 @@
           "past_participle"
         ],
         "ipa": "/dɪˈvaɪdɪd/"
+      }
+    ]
+  },
+  {
+    "word": "divide into",
+    "forms": [
+      {
+        "word": "divides into",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/dɪˈvaɪdz ˈɪntuː/"
+      },
+      {
+        "word": "dividing into",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/dɪˈvaɪdɪŋ ˈɪntuː/"
+      },
+      {
+        "word": "divided into",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/dɪˈvaɪdɪd ˈɪntuː/",
+        "example": "The class was divided into three groups.",
+        "exampleVi": "Lớp được chia thành ba nhóm."
       }
     ]
   },
@@ -27642,6 +29026,34 @@
     ]
   },
   {
+    "word": "elaborate on",
+    "forms": [
+      {
+        "word": "elaborates on",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/iˈlæb.ə.reɪts ɑːn/"
+      },
+      {
+        "word": "elaborating on",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/iˈlæb.ə.reɪtɪŋ ɑːn/"
+      },
+      {
+        "word": "elaborated on",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/iˈlæb.ə.reɪtɪd ɑːn/"
+      }
+    ]
+  },
+  {
     "word": "elastic",
     "forms": [
       {
@@ -27932,6 +29344,36 @@
     ]
   },
   {
+    "word": "emerge from",
+    "forms": [
+      {
+        "word": "emerges from",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ɪˈmɜːdʒɪz frəm/"
+      },
+      {
+        "word": "emerging from",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɪˈmɜːdʒɪŋ frəm/"
+      },
+      {
+        "word": "emerged from",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɪˈmɜːdʒd frəm/",
+        "example": "A deer emerged from the forest.",
+        "exampleVi": "Một con hươu đi ra từ khu rừng."
+      }
+    ]
+  },
+  {
     "word": "emergency",
     "forms": [
       {
@@ -28095,9 +29537,26 @@
       {
         "word": "empties",
         "types": [
+          "present_third_person_singular",
           "plural"
         ],
         "ipa": "/ˈemp.tiz/"
+      },
+      {
+        "word": "emptying",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈemp.tiɪŋ/"
+      },
+      {
+        "word": "emptied",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈemp.tid/"
       }
     ]
   },
@@ -28183,6 +29642,66 @@
         "ipa": "/ɪnˈkaʊn.tərd/",
         "example": "We encountered several problems.",
         "exampleVi": "Chúng tôi gặp phải vài vấn đề."
+      }
+    ]
+  },
+  {
+    "word": "encourage",
+    "forms": [
+      {
+        "word": "encourages",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ɪnˈkʌr.ɪdʒɪz/"
+      },
+      {
+        "word": "encouraging",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɪnˈkʌr.ɪdʒɪŋ/"
+      },
+      {
+        "word": "encouraged",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɪnˈkʌr.ɪdʒd/",
+        "example": "My teacher encouraged me to keep trying.",
+        "exampleVi": "Thầy tôi đã động viên tôi tiếp tục cố gắng."
+      }
+    ]
+  },
+  {
+    "word": "encourage to",
+    "forms": [
+      {
+        "word": "encourages to",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ɪnˈkʌr.ɪdʒɪz tə/"
+      },
+      {
+        "word": "encouraging to",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɪnˈkʌr.ɪdʒɪŋ tə/"
+      },
+      {
+        "word": "encouraged to",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɪnˈkʌr.ɪdʒd tə/",
+        "example": "Students are encouraged to ask questions.",
+        "exampleVi": "Sinh viên được khuyến khích đặt câu hỏi."
       }
     ]
   },
@@ -28604,6 +30123,36 @@
     ]
   },
   {
+    "word": "entitle to",
+    "forms": [
+      {
+        "word": "entitles to",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ɪnˈtaɪ.təlz tə/"
+      },
+      {
+        "word": "entitling to",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɪnˈtaɪ.təlɪŋ tə/"
+      },
+      {
+        "word": "entitled to",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɪnˈtaɪ.təld tə/",
+        "example": "Ticket holders are entitled to a free drink.",
+        "exampleVi": "Người có vé được quyền nhận một đồ uống miễn phí."
+      }
+    ]
+  },
+  {
     "word": "entity",
     "forms": [
       {
@@ -28794,6 +30343,36 @@
         "ipa": "/ɪˈkwɪpt/",
         "example": "The room is equipped with air conditioning.",
         "exampleVi": "Căn phòng được trang bị điều hoà."
+      }
+    ]
+  },
+  {
+    "word": "equip with",
+    "forms": [
+      {
+        "word": "equips with",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ɪˈkwɪps wɪð/"
+      },
+      {
+        "word": "equipping with",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɪˈkwɪpɪŋ wɪð/"
+      },
+      {
+        "word": "equipped with",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɪˈkwɪpt wɪð/",
+        "example": "The room is equipped with a projector.",
+        "exampleVi": "Phòng được trang bị máy chiếu."
       }
     ]
   },
@@ -29488,6 +31067,36 @@
     ]
   },
   {
+    "word": "exclude from",
+    "forms": [
+      {
+        "word": "excludes from",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ɪkˈskluːdz frəm/"
+      },
+      {
+        "word": "excluding from",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɪkˈskluːdɪŋ frəm/"
+      },
+      {
+        "word": "excluded from",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɪkˈskluːdɪd frəm/",
+        "example": "Late entries were excluded from the competition.",
+        "exampleVi": "Các bài gửi muộn bị loại khỏi cuộc thi."
+      }
+    ]
+  },
+  {
     "word": "exclusion",
     "forms": [
       {
@@ -29774,6 +31383,34 @@
     ]
   },
   {
+    "word": "expand on",
+    "forms": [
+      {
+        "word": "expands on",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ɪkˈspændz ɑːn/"
+      },
+      {
+        "word": "expanding on",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɪkˈspændɪŋ ɑːn/"
+      },
+      {
+        "word": "expanded on",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɪkˈspændɪd ɑːn/"
+      }
+    ]
+  },
+  {
     "word": "expansion",
     "forms": [
       {
@@ -29888,7 +31525,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/ɪkˈspensɪz/"
+        "ipa": "/ɪkˈspensɪz/",
+        "example": "The company covers travel expenses.",
+        "exampleVi": "Công ty chi trả chi phí đi lại."
       },
       {
         "word": "expensing",
@@ -29929,6 +31568,61 @@
           "plural"
         ],
         "ipa": "/ɪkˈspɛns ˈɹeɪʃiˌoʊz/"
+      }
+    ]
+  },
+  {
+    "word": "experience",
+    "forms": [
+      {
+        "word": "experiences",
+        "types": [
+          "present_third_person_singular",
+          "plural"
+        ],
+        "ipa": "/ɪkˈspɪə.ri.ənsɪz/"
+      },
+      {
+        "word": "experiencing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɪkˈspɪə.ri.ənsɪŋ/"
+      },
+      {
+        "word": "experienced",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɪkˈspɪə.ri.ənst/",
+        "example": "The company experienced a sudden rise in demand.",
+        "exampleVi": "Công ty trải qua một đợt tăng nhu cầu đột ngột."
+      }
+    ]
+  },
+  {
+    "word": "experience in",
+    "forms": [
+      {
+        "word": "experiences in",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɪkˈspɪə.ri.ənsɪz ɪn/"
+      }
+    ]
+  },
+  {
+    "word": "experience of",
+    "forms": [
+      {
+        "word": "experiences of",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɪkˈspɪə.ri.ənsɪz əv/"
       }
     ]
   },
@@ -31273,9 +32967,26 @@
       {
         "word": "faults",
         "types": [
+          "present_third_person_singular",
           "plural"
         ],
         "ipa": "/fɒlts/"
+      },
+      {
+        "word": "faulting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/fɒltɪŋ/"
+      },
+      {
+        "word": "faulted",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/fɒltɪd/"
       }
     ]
   },
@@ -31615,7 +33326,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/ˈfɪɡ.ərz/"
+        "ipa": "/ˈfɪɡ.ərz/",
+        "example": "The latest figures show an increase.",
+        "exampleVi": "Các con số mới nhất cho thấy sự gia tăng."
       },
       {
         "word": "figuring",
@@ -31674,7 +33387,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/faɪlz/"
+        "ipa": "/faɪlz/",
+        "example": "Patient files are kept for thirty years.",
+        "exampleVi": "Hồ sơ bệnh nhân được lưu giữ trong ba mươi năm."
       },
       {
         "word": "filing",
@@ -32623,6 +34338,42 @@
           "past_participle"
         ],
         "ipa": "/ˈfɔɹbɪdən/, /fɝɹˈbɪdən/"
+      }
+    ]
+  },
+  {
+    "word": "forbid from",
+    "forms": [
+      {
+        "word": "forbids from",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/fəˈbɪdz frəm/"
+      },
+      {
+        "word": "forbidding from",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/fəˈbɪdɪŋ frəm/"
+      },
+      {
+        "word": "forbade from",
+        "types": [
+          "past_simple"
+        ],
+        "ipa": "/fɝˈbeɪd frəm/"
+      },
+      {
+        "word": "forbidden from",
+        "types": [
+          "past_participle"
+        ],
+        "ipa": "/ˈfɔɹbɪdən frəm/, /fɝɹˈbɪdən frəm/",
+        "example": "Employees are forbidden from sharing passwords.",
+        "exampleVi": "Nhân viên bị cấm chia sẻ mật khẩu."
       }
     ]
   },
@@ -37251,7 +39002,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/ɡreɪdz/"
+        "ipa": "/ɡreɪdz/",
+        "example": "Grades alone reveal little about a student's progress.",
+        "exampleVi": "Điểm xếp loại đơn thuần cho biết rất ít về tiến bộ của học sinh."
       },
       {
         "word": "grading",
@@ -39154,6 +40907,36 @@
     ]
   },
   {
+    "word": "hesitate about",
+    "forms": [
+      {
+        "word": "hesitates about",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈhez.ɪ.teɪts əˈbaʊt/"
+      },
+      {
+        "word": "hesitating about",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈhez.ɪ.teɪtɪŋ əˈbaʊt/"
+      },
+      {
+        "word": "hesitated about",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈhez.ɪ.teɪtɪd əˈbaʊt/",
+        "example": "She hesitated about accepting the offer.",
+        "exampleVi": "Cô ấy do dự về việc nhận lời đề nghị."
+      }
+    ]
+  },
+  {
     "word": "hesitation",
     "forms": [
       {
@@ -40410,7 +42193,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/ˈɪm.ɪdʒɪz/"
+        "ipa": "/ˈɪm.ɪdʒɪz/",
+        "example": "Satellite images revealed the extent of the flooding.",
+        "exampleVi": "Hình ảnh vệ tinh cho thấy mức độ ngập lụt."
       },
       {
         "word": "imaging",
@@ -40769,6 +42554,36 @@
     ]
   },
   {
+    "word": "impose on",
+    "forms": [
+      {
+        "word": "imposes on",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ɪmˈpəʊzɪz ɑːn/"
+      },
+      {
+        "word": "imposing on",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɪmˈpəʊzɪŋ ɑːn/"
+      },
+      {
+        "word": "imposed on",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɪmˈpəʊzd ɑːn/",
+        "example": "A new tax was imposed on imported goods.",
+        "exampleVi": "Một loại thuế mới được áp lên hàng nhập khẩu."
+      }
+    ]
+  },
+  {
     "word": "impress",
     "forms": [
       {
@@ -40837,6 +42652,64 @@
         "ipa": "/ɪmˈpruːvd/",
         "example": "His English has improved a lot.",
         "exampleVi": "Tiếng Anh của anh ấy đã cải thiện nhiều."
+      }
+    ]
+  },
+  {
+    "word": "improve on",
+    "forms": [
+      {
+        "word": "improves on",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ɪmˈpruːvz ɑːn/",
+        "example": "The new model improves on the original design.",
+        "exampleVi": "Mẫu mới cải tiến so với thiết kế ban đầu."
+      },
+      {
+        "word": "improving on",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɪmˈpruːvɪŋ ɑːn/"
+      },
+      {
+        "word": "improved on",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɪmˈpruːvd ɑːn/"
+      }
+    ]
+  },
+  {
+    "word": "improve upon",
+    "forms": [
+      {
+        "word": "improves upon",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ɪmˈpruːvz əˈpɑːn/"
+      },
+      {
+        "word": "improving upon",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɪmˈpruːvɪŋ əˈpɑːn/"
+      },
+      {
+        "word": "improved upon",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɪmˈpruːvd əˈpɑːn/"
       }
     ]
   },
@@ -41025,6 +42898,36 @@
     ]
   },
   {
+    "word": "include in",
+    "forms": [
+      {
+        "word": "includes in",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ɪnˈkluːdz ɪn/"
+      },
+      {
+        "word": "including in",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɪnˈkluːdɪŋ ɪn/"
+      },
+      {
+        "word": "included in",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɪnˈkluːdɪd ɪn/",
+        "example": "Lunch is included in the price.",
+        "exampleVi": "Bữa trưa đã được tính trong giá."
+      }
+    ]
+  },
+  {
     "word": "income inequality",
     "forms": [
       {
@@ -41075,6 +42978,36 @@
         "ipa": "/ɪnˈkɔː.pər.eɪtɪd/",
         "example": "We incorporated your feedback.",
         "exampleVi": "Chúng tôi đã đưa phản hồi của bạn vào."
+      }
+    ]
+  },
+  {
+    "word": "incorporate into",
+    "forms": [
+      {
+        "word": "incorporates into",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ɪnˈkɔː.pər.eɪts ˈɪntuː/"
+      },
+      {
+        "word": "incorporating into",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɪnˈkɔː.pər.eɪtɪŋ ˈɪntuː/"
+      },
+      {
+        "word": "incorporated into",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɪnˈkɔː.pər.eɪtɪd ˈɪntuː/",
+        "example": "The changes were incorporated into the final report.",
+        "exampleVi": "Những thay đổi được đưa vào báo cáo cuối cùng."
       }
     ]
   },
@@ -42106,6 +44039,36 @@
     ]
   },
   {
+    "word": "insist that",
+    "forms": [
+      {
+        "word": "insists that",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ɪnˈsɪsts ðæt/",
+        "example": "She insists that everyone wear a helmet.",
+        "exampleVi": "Cô ấy kiên quyết yêu cầu mọi người đội mũ bảo hiểm."
+      },
+      {
+        "word": "insisting that",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɪnˈsɪstɪŋ ðæt/"
+      },
+      {
+        "word": "insisted that",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɪnˈsɪstɪd ðæt/"
+      }
+    ]
+  },
+  {
     "word": "inspect",
     "forms": [
       {
@@ -42184,6 +44147,36 @@
         "ipa": "/ɪnˈspaɪərd/",
         "example": "Her story inspired many young people.",
         "exampleVi": "Câu chuyện của cô ấy truyền cảm hứng cho nhiều bạn trẻ."
+      }
+    ]
+  },
+  {
+    "word": "inspire to",
+    "forms": [
+      {
+        "word": "inspires to",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ɪnˈspaɪərz tə/"
+      },
+      {
+        "word": "inspiring to",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɪnˈspaɪərɪŋ tə/"
+      },
+      {
+        "word": "inspired to",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɪnˈspaɪərd tə/",
+        "example": "I was inspired to study biology by my teacher.",
+        "exampleVi": "Tôi được giáo viên truyền cảm hứng để học sinh học."
       }
     ]
   },
@@ -42512,6 +44505,36 @@
           "past_participle"
         ],
         "ipa": "/ɪnˈtendɪd/"
+      }
+    ]
+  },
+  {
+    "word": "intend for",
+    "forms": [
+      {
+        "word": "intends for",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ɪnˈtendz fər/"
+      },
+      {
+        "word": "intending for",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɪnˈtendɪŋ fər/"
+      },
+      {
+        "word": "intended for",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɪnˈtendɪd fər/",
+        "example": "These seats are intended for older passengers.",
+        "exampleVi": "Những ghế này được dành cho hành khách cao tuổi."
       }
     ]
   },
@@ -43570,7 +45593,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/dʒɒbz/"
+        "ipa": "/dʒɒbz/",
+        "example": "Automation will reshape jobs rather than abolish them.",
+        "exampleVi": "Tự động hóa sẽ định hình lại các công việc chứ không xóa bỏ chúng."
       },
       {
         "word": "jobbing",
@@ -45100,7 +47125,8 @@
       {
         "word": "launches",
         "types": [
-          "present_third_person_singular"
+          "present_third_person_singular",
+          "plural"
         ],
         "ipa": "/lɔːntʃɪz/"
       },
@@ -45776,7 +47802,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/ˈlek.tʃərz/"
+        "ipa": "/ˈlek.tʃərz/",
+        "example": "Recorded lectures have not reduced attendance.",
+        "exampleVi": "Bài giảng ghi hình không làm giảm số người tới lớp."
       },
       {
         "word": "lecturing",
@@ -48116,6 +50144,36 @@
     ]
   },
   {
+    "word": "maintain that",
+    "forms": [
+      {
+        "word": "maintains that",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/meɪnˈteɪnz ðæt/",
+        "example": "He maintains that the decision was fair.",
+        "exampleVi": "Anh ấy vẫn khẳng định quyết định đó là công bằng."
+      },
+      {
+        "word": "maintaining that",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/meɪnˈteɪnɪŋ ðæt/"
+      },
+      {
+        "word": "maintained that",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/meɪnˈteɪnd ðæt/"
+      }
+    ]
+  },
+  {
     "word": "major",
     "forms": [
       {
@@ -49151,7 +51209,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/ˈmeʒ.ərz/"
+        "ipa": "/ˈmeʒ.ərz/",
+        "example": "Strict measures were put in place.",
+        "exampleVi": "Các biện pháp nghiêm ngặt đã được áp dụng."
       },
       {
         "word": "measuring",
@@ -49580,6 +51640,36 @@
           "past_participle"
         ],
         "ipa": "/ˈmen.ʃənd/"
+      }
+    ]
+  },
+  {
+    "word": "mention to",
+    "forms": [
+      {
+        "word": "mentions to",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈmen.ʃənz tə/"
+      },
+      {
+        "word": "mentioning to",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈmen.ʃənɪŋ tə/"
+      },
+      {
+        "word": "mentioned to",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈmen.ʃənd tə/",
+        "example": "The problem was mentioned to the manager.",
+        "exampleVi": "Vấn đề đã được nhắc với người quản lý."
       }
     ]
   },
@@ -50212,7 +52302,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/mɪˈsteɪks/"
+        "ipa": "/mɪˈsteɪks/",
+        "example": "Everyone makes mistakes.",
+        "exampleVi": "Ai cũng mắc sai lầm."
       },
       {
         "word": "mistaking",
@@ -50572,7 +52664,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/ˈmɒn.ɪ.tərz/"
+        "ipa": "/ˈmɒn.ɪ.tərz/",
+        "example": "He works with two monitors.",
+        "exampleVi": "Anh ấy làm việc với hai màn hình."
       },
       {
         "word": "monitoring",
@@ -52734,7 +54828,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/əˈkeɪ.ʒənz/"
+        "ipa": "/əˈkeɪ.ʒənz/",
+        "example": "We only use these plates on special occasions.",
+        "exampleVi": "Chúng tôi chỉ dùng bộ đĩa này vào dịp đặc biệt."
       },
       {
         "word": "occasioning",
@@ -53204,6 +55300,42 @@
           "plural"
         ],
         "ipa": "/əˈpəʊnənts/"
+      }
+    ]
+  },
+  {
+    "word": "opportunity",
+    "forms": [
+      {
+        "word": "opportunities",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌɒp.əˈtjuː.nə.tiz/"
+      }
+    ]
+  },
+  {
+    "word": "opportunity for",
+    "forms": [
+      {
+        "word": "opportunities for",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌɒp.əˈtjuː.nə.tiz fər/"
+      }
+    ]
+  },
+  {
+    "word": "opportunity to",
+    "forms": [
+      {
+        "word": "opportunities to",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌɒp.əˈtjuː.nə.tiz tə/"
       }
     ]
   },
@@ -54264,6 +56396,36 @@
     ]
   },
   {
+    "word": "owe to",
+    "forms": [
+      {
+        "word": "owes to",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/əʊz tə/"
+      },
+      {
+        "word": "owing to",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/əʊɪŋ tə/"
+      },
+      {
+        "word": "owed to",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/əʊd tə/",
+        "example": "Our success is owed to careful preparation.",
+        "exampleVi": "Thành công của chúng tôi có được nhờ sự chuẩn bị cẩn thận."
+      }
+    ]
+  },
+  {
     "word": "owner",
     "forms": [
       {
@@ -55018,7 +57180,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/ˈpɑːt.nərz/"
+        "ipa": "/ˈpɑːt.nərz/",
+        "example": "The university works with industrial partners abroad.",
+        "exampleVi": "Trường đại học hợp tác với các đối tác công nghiệp ở nước ngoài."
       },
       {
         "word": "partnering",
@@ -56516,6 +58680,36 @@
     ]
   },
   {
+    "word": "persist in",
+    "forms": [
+      {
+        "word": "persists in",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/pəˈsɪsts ɪn/"
+      },
+      {
+        "word": "persisting in",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/pəˈsɪstɪŋ ɪn/"
+      },
+      {
+        "word": "persisted in",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/pəˈsɪstɪd ɪn/",
+        "example": "He persisted in asking the same question.",
+        "exampleVi": "Anh ấy cứ tiếp tục hỏi cùng một câu."
+      }
+    ]
+  },
+  {
     "word": "persistent volume",
     "forms": [
       {
@@ -56566,6 +58760,36 @@
         "ipa": "/pəˈsweɪdɪd/",
         "example": "We persuaded him to stay one more night.",
         "exampleVi": "Chúng tôi thuyết phục anh ấy ở lại thêm một đêm."
+      }
+    ]
+  },
+  {
+    "word": "persuade into",
+    "forms": [
+      {
+        "word": "persuades into",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/pəˈsweɪdz ˈɪntuː/"
+      },
+      {
+        "word": "persuading into",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/pəˈsweɪdɪŋ ˈɪntuː/"
+      },
+      {
+        "word": "persuaded into",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/pəˈsweɪdɪd ˈɪntuː/",
+        "example": "She was persuaded into joining the club.",
+        "exampleVi": "Cô ấy được thuyết phục tham gia câu lạc bộ."
       }
     ]
   },
@@ -56907,9 +59131,28 @@
       {
         "word": "pitches",
         "types": [
+          "present_third_person_singular",
           "plural"
         ],
         "ipa": "/pɪtʃɪz/"
+      },
+      {
+        "word": "pitching",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/pɪtʃɪŋ/"
+      },
+      {
+        "word": "pitched",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/pɪtʃt/",
+        "example": "She pitched the idea to several investors.",
+        "exampleVi": "Cô ấy trình bày ý tưởng để thuyết phục một số nhà đầu tư."
       }
     ]
   },
@@ -57388,7 +59631,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/ˈpɔː.ʃənz/"
+        "ipa": "/ˈpɔː.ʃənz/",
+        "example": "Restaurant portions have doubled since the seventies.",
+        "exampleVi": "Khẩu phần ở nhà hàng đã tăng gấp đôi từ những năm bảy mươi."
       },
       {
         "word": "portioning",
@@ -57883,6 +60128,34 @@
     ]
   },
   {
+    "word": "prefer to",
+    "forms": [
+      {
+        "word": "prefers to",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/prɪˈfɜːrz tə/"
+      },
+      {
+        "word": "preferring to",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/prɪˈfɜːrɪŋ tə/"
+      },
+      {
+        "word": "preferred to",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/prɪˈfɜːrd tə/"
+      }
+    ]
+  },
+  {
     "word": "preference",
     "forms": [
       {
@@ -58242,6 +60515,66 @@
         "ipa": "/prɪˈveɪld/",
         "example": "Common sense finally prevailed.",
         "exampleVi": "Cuối cùng lẽ phải cũng thắng thế."
+      }
+    ]
+  },
+  {
+    "word": "prevent",
+    "forms": [
+      {
+        "word": "prevents",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/prɪˈvents/",
+        "example": "Washing your hands prevents many illnesses.",
+        "exampleVi": "Rửa tay giúp phòng ngừa nhiều bệnh."
+      },
+      {
+        "word": "preventing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/prɪˈventɪŋ/"
+      },
+      {
+        "word": "prevented",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/prɪˈventɪd/"
+      }
+    ]
+  },
+  {
+    "word": "prevent from",
+    "forms": [
+      {
+        "word": "prevents from",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/prɪˈvents frəm/"
+      },
+      {
+        "word": "preventing from",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/prɪˈventɪŋ frəm/"
+      },
+      {
+        "word": "prevented from",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/prɪˈventɪd frəm/",
+        "example": "We were prevented from entering the building.",
+        "exampleVi": "Chúng tôi bị ngăn vào tòa nhà."
       }
     ]
   },
@@ -58902,6 +61235,36 @@
     ]
   },
   {
+    "word": "prohibit from",
+    "forms": [
+      {
+        "word": "prohibits from",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/prəˈhɪb.ɪts frəm/"
+      },
+      {
+        "word": "prohibiting from",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/prəˈhɪb.ɪtɪŋ frəm/"
+      },
+      {
+        "word": "prohibited from",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/prəˈhɪb.ɪtɪd frəm/",
+        "example": "Visitors are prohibited from taking photographs.",
+        "exampleVi": "Khách tham quan bị cấm chụp ảnh."
+      }
+    ]
+  },
+  {
     "word": "project",
     "forms": [
       {
@@ -59328,6 +61691,66 @@
           "past_participle"
         ],
         "ipa": "/prəˈtektɪd/"
+      }
+    ]
+  },
+  {
+    "word": "protect against",
+    "forms": [
+      {
+        "word": "protects against",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/prəˈtekts əˈɡenst/",
+        "example": "The coating protects against rust.",
+        "exampleVi": "Lớp phủ bảo vệ khỏi gỉ sắt."
+      },
+      {
+        "word": "protecting against",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/prəˈtektɪŋ əˈɡenst/"
+      },
+      {
+        "word": "protected against",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/prəˈtektɪd əˈɡenst/"
+      }
+    ]
+  },
+  {
+    "word": "protect from",
+    "forms": [
+      {
+        "word": "protects from",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/prəˈtekts frəm/"
+      },
+      {
+        "word": "protecting from",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/prəˈtektɪŋ frəm/"
+      },
+      {
+        "word": "protected from",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/prəˈtektɪd frəm/",
+        "example": "The plants were protected from the frost.",
+        "exampleVi": "Cây được bảo vệ khỏi sương giá."
       }
     ]
   },
@@ -60690,11 +63113,30 @@
       {
         "word": "queries",
         "types": [
+          "present_third_person_singular",
           "plural"
         ],
         "ipa": "/ˈkwɪə.riz/",
         "example": "Send any queries to my inbox.",
         "exampleVi": "Có thắc mắc gì thì gửi vào hộp thư của tôi."
+      },
+      {
+        "word": "querying",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈkwɪə.riɪŋ/"
+      },
+      {
+        "word": "queried",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈkwɪə.rid/",
+        "example": "The customer queried a charge on the bill.",
+        "exampleVi": "Khách hàng thắc mắc về một khoản phí trên hóa đơn."
       }
     ]
   },
@@ -61875,7 +64317,8 @@
       {
         "word": "recalls",
         "types": [
-          "present_third_person_singular"
+          "present_third_person_singular",
+          "plural"
         ],
         "ipa": "/rɪˈkɔːlz/"
       },
@@ -62966,6 +65409,34 @@
     ]
   },
   {
+    "word": "regret to",
+    "forms": [
+      {
+        "word": "regrets to",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/rɪˈɡrets tə/"
+      },
+      {
+        "word": "regretting to",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/rɪˈɡretɪŋ tə/"
+      },
+      {
+        "word": "regretted to",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/rɪˈɡretɪd tə/"
+      }
+    ]
+  },
+  {
     "word": "regulate",
     "forms": [
       {
@@ -63245,6 +65716,30 @@
           "plural"
         ],
         "ipa": "/rɪˈleɪ.ʃən.ʃɪps/"
+      }
+    ]
+  },
+  {
+    "word": "relationship between",
+    "forms": [
+      {
+        "word": "relationships between",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/rɪˈleɪ.ʃən.ʃɪps bɪˈtwiːn/"
+      }
+    ]
+  },
+  {
+    "word": "relationship with",
+    "forms": [
+      {
+        "word": "relationships with",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/rɪˈleɪ.ʃən.ʃɪps wɪð/"
       }
     ]
   },
@@ -63622,6 +66117,66 @@
     ]
   },
   {
+    "word": "remind about",
+    "forms": [
+      {
+        "word": "reminds about",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/rɪˈmaɪndz əˈbaʊt/"
+      },
+      {
+        "word": "reminding about",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/rɪˈmaɪndɪŋ əˈbaʊt/"
+      },
+      {
+        "word": "reminded about",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/rɪˈmaɪndɪd əˈbaʊt/",
+        "example": "I was reminded about the deadline.",
+        "exampleVi": "Tôi được nhắc về hạn chót."
+      }
+    ]
+  },
+  {
+    "word": "remind of",
+    "forms": [
+      {
+        "word": "reminds of",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/rɪˈmaɪndz əv/"
+      },
+      {
+        "word": "reminding of",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/rɪˈmaɪndɪŋ əv/"
+      },
+      {
+        "word": "reminded of",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/rɪˈmaɪndɪd əv/",
+        "example": "I was reminded of my childhood by the old photograph.",
+        "exampleVi": "Bức ảnh cũ khiến tôi nhớ đến tuổi thơ."
+      }
+    ]
+  },
+  {
     "word": "reminder",
     "forms": [
       {
@@ -63937,6 +66492,36 @@
           "past_participle"
         ],
         "ipa": "/rɪˈpleɪst/"
+      }
+    ]
+  },
+  {
+    "word": "replace with",
+    "forms": [
+      {
+        "word": "replaces with",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/rɪˈpleɪsɪz wɪð/"
+      },
+      {
+        "word": "replacing with",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/rɪˈpleɪsɪŋ wɪð/"
+      },
+      {
+        "word": "replaced with",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/rɪˈpleɪst wɪð/",
+        "example": "The old chairs were replaced with new ones.",
+        "exampleVi": "Những chiếc ghế cũ được thay bằng ghế mới."
       }
     ]
   },
@@ -64754,7 +67339,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/rɪˈzɔːsɪz/"
+        "ipa": "/rɪˈzɔːsɪz/",
+        "example": "We do not have the resources for that.",
+        "exampleVi": "Chúng tôi không có nguồn lực cho việc đó."
       },
       {
         "word": "resourcing",
@@ -65581,9 +68168,26 @@
       {
         "word": "reviews",
         "types": [
+          "present_third_person_singular",
           "plural"
         ],
         "ipa": "/rɪˈvjuːz/"
+      },
+      {
+        "word": "reviewing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/rɪˈvjuːɪŋ/"
+      },
+      {
+        "word": "reviewed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/rɪˈvjuːd/"
       }
     ]
   },
@@ -66602,7 +69206,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/rəʊz/"
+        "ipa": "/rəʊz/",
+        "example": "Delete the empty rows.",
+        "exampleVi": "Hãy xoá các dòng trống."
       },
       {
         "word": "rowing",
@@ -69651,6 +72257,36 @@
     ]
   },
   {
+    "word": "separate from",
+    "forms": [
+      {
+        "word": "separates from",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈsep.ər.eɪts frəm/"
+      },
+      {
+        "word": "separating from",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈsep.ər.eɪtɪŋ frəm/"
+      },
+      {
+        "word": "separated from",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈsep.ər.eɪtɪd frəm/",
+        "example": "The seeds are separated from the fruit.",
+        "exampleVi": "Hạt được tách khỏi quả."
+      }
+    ]
+  },
+  {
     "word": "sequence",
     "forms": [
       {
@@ -70272,7 +72908,9 @@
           "past_simple",
           "past_participle"
         ],
-        "ipa": "/ʃɪftɪd/"
+        "ipa": "/ʃɪftɪd/",
+        "example": "The discussion shifted to the budget.",
+        "exampleVi": "Cuộc thảo luận chuyển sang ngân sách."
       }
     ]
   },
@@ -73046,6 +75684,34 @@
           "past_participle"
         ],
         "ipa": "/ˈspek.jə.leɪtɪd/"
+      }
+    ]
+  },
+  {
+    "word": "speculate about",
+    "forms": [
+      {
+        "word": "speculates about",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈspek.jə.leɪts əˈbaʊt/"
+      },
+      {
+        "word": "speculating about",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈspek.jə.leɪtɪŋ əˈbaʊt/"
+      },
+      {
+        "word": "speculated about",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈspek.jə.leɪtɪd əˈbaʊt/"
       }
     ]
   },
@@ -76288,6 +78954,34 @@
     ]
   },
   {
+    "word": "submit to",
+    "forms": [
+      {
+        "word": "submits to",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/səbˈmɪts tə/"
+      },
+      {
+        "word": "submitting to",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/səbˈmɪtɪŋ tə/"
+      },
+      {
+        "word": "submitted to",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/səbˈmɪtɪd tə/"
+      }
+    ]
+  },
+  {
     "word": "subnet mask",
     "forms": [
       {
@@ -76540,6 +79234,36 @@
     ]
   },
   {
+    "word": "succeed to",
+    "forms": [
+      {
+        "word": "succeeds to",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/səkˈsiːdz tə/"
+      },
+      {
+        "word": "succeeding to",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/səkˈsiːdɪŋ tə/"
+      },
+      {
+        "word": "succeeded to",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/səkˈsiːdɪd tə/",
+        "example": "She succeeded to the throne at a young age.",
+        "exampleVi": "Cô ấy kế vị ngai vàng khi còn trẻ."
+      }
+    ]
+  },
+  {
     "word": "successor",
     "forms": [
       {
@@ -76644,6 +79368,66 @@
           "plural"
         ],
         "ipa": "/ˈsʌfərɪŋz/"
+      }
+    ]
+  },
+  {
+    "word": "suggest",
+    "forms": [
+      {
+        "word": "suggests",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/səˈdʒests/",
+        "example": "The evidence suggests that the door was left open.",
+        "exampleVi": "Bằng chứng cho thấy cửa đã bị để mở."
+      },
+      {
+        "word": "suggesting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/səˈdʒestɪŋ/"
+      },
+      {
+        "word": "suggested",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/səˈdʒestɪd/"
+      }
+    ]
+  },
+  {
+    "word": "suggest to",
+    "forms": [
+      {
+        "word": "suggests to",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/səˈdʒests tə/"
+      },
+      {
+        "word": "suggesting to",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/səˈdʒestɪŋ tə/"
+      },
+      {
+        "word": "suggested to",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/səˈdʒestɪd tə/",
+        "example": "The idea was suggested to me by a colleague.",
+        "exampleVi": "Ý tưởng đó được một đồng nghiệp gợi ý cho tôi."
       }
     ]
   },
@@ -76987,6 +79771,36 @@
           "plural"
         ],
         "ipa": "/səˈplaɪ tʃeɪnz/"
+      }
+    ]
+  },
+  {
+    "word": "supply with",
+    "forms": [
+      {
+        "word": "supplies with",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/səˈplaɪz wɪð/"
+      },
+      {
+        "word": "supplying with",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/səˈplaɪɪŋ wɪð/"
+      },
+      {
+        "word": "supplied with",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/səˈplaɪd wɪð/",
+        "example": "The village was supplied with clean water.",
+        "exampleVi": "Ngôi làng được cung cấp nước sạch."
       }
     ]
   },
@@ -77356,6 +80170,36 @@
           "past_participle"
         ],
         "ipa": "/səˈspektɪd/"
+      }
+    ]
+  },
+  {
+    "word": "suspect of",
+    "forms": [
+      {
+        "word": "suspects of",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/səˈspekts əv/"
+      },
+      {
+        "word": "suspecting of",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/səˈspektɪŋ əv/"
+      },
+      {
+        "word": "suspected of",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/səˈspektɪd əv/",
+        "example": "He was suspected of leaking the information.",
+        "exampleVi": "Anh ấy bị nghi làm rò rỉ thông tin."
       }
     ]
   },
@@ -79486,6 +82330,34 @@
     ]
   },
   {
+    "word": "tend to",
+    "forms": [
+      {
+        "word": "tends to",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/tendz tə/"
+      },
+      {
+        "word": "tending to",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/tendɪŋ tə/"
+      },
+      {
+        "word": "tended to",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/tendɪd tə/"
+      }
+    ]
+  },
+  {
     "word": "tendency",
     "forms": [
       {
@@ -80697,7 +83569,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/təʊnz/"
+        "ipa": "/təʊnz/",
+        "example": "Warm tones make the room feel more welcoming.",
+        "exampleVi": "Các tông màu ấm khiến căn phòng có cảm giác thân thiện hơn."
       },
       {
         "word": "toning",
@@ -81449,6 +84323,36 @@
     ]
   },
   {
+    "word": "translate into",
+    "forms": [
+      {
+        "word": "translates into",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/trænzˈleɪts ˈɪntuː/"
+      },
+      {
+        "word": "translating into",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/trænzˈleɪtɪŋ ˈɪntuː/"
+      },
+      {
+        "word": "translated into",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/trænzˈleɪtɪd ˈɪntuː/",
+        "example": "The novel was translated into Spanish.",
+        "exampleVi": "Cuốn tiểu thuyết được dịch sang tiếng Tây Ban Nha."
+      }
+    ]
+  },
+  {
     "word": "translation",
     "forms": [
       {
@@ -81696,7 +84600,8 @@
       {
         "word": "treats",
         "types": [
-          "present_third_person_singular"
+          "present_third_person_singular",
+          "plural"
         ],
         "ipa": "/triːts/"
       },
@@ -81717,6 +84622,36 @@
         "ipa": "/triːtɪd/",
         "example": "They treated us like family.",
         "exampleVi": "Họ đối xử với chúng tôi như người nhà."
+      }
+    ]
+  },
+  {
+    "word": "treat as",
+    "forms": [
+      {
+        "word": "treats as",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/triːts æz/"
+      },
+      {
+        "word": "treating as",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/triːtɪŋ æz/"
+      },
+      {
+        "word": "treated as",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/triːtɪd æz/",
+        "example": "The information must be treated as confidential.",
+        "exampleVi": "Thông tin phải được coi là bí mật."
       }
     ]
   },
@@ -82073,7 +85008,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/traɪz/"
+        "ipa": "/traɪz/",
+        "example": "It took three tries to open the jar.",
+        "exampleVi": "Phải thử ba lần mới mở được chiếc lọ."
       },
       {
         "word": "trying",
@@ -83380,7 +86317,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/juːzɪz/, /juːsɪz/"
+        "ipa": "/juːzɪz/, /juːsɪz/",
+        "example": "This tool has several useful uses.",
+        "exampleVi": "Dụng cụ này có vài công dụng hữu ích."
       },
       {
         "word": "using",
@@ -83848,6 +86787,36 @@
           "past_participle"
         ],
         "ipa": "/ˈveə.rid/"
+      }
+    ]
+  },
+  {
+    "word": "vary with",
+    "forms": [
+      {
+        "word": "varies with",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈveə.riz wɪð/",
+        "example": "Demand varies with the season.",
+        "exampleVi": "Nhu cầu thay đổi theo mùa."
+      },
+      {
+        "word": "varying with",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈveə.riɪŋ wɪð/"
+      },
+      {
+        "word": "varied with",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈveə.rid wɪð/"
       }
     ]
   },
@@ -84375,7 +87344,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/ˌvɒl.ənˈtɪərz/"
+        "ipa": "/ˌvɒl.ənˈtɪərz/",
+        "example": "The charity needs more volunteers.",
+        "exampleVi": "Tổ chức từ thiện cần thêm tình nguyện viên."
       },
       {
         "word": "volunteering",
@@ -84579,7 +87550,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/weɪdʒɪz/"
+        "ipa": "/weɪdʒɪz/",
+        "example": "Wages have not kept pace with housing costs.",
+        "exampleVi": "Tiền công theo giờ hoặc tuần không theo kịp chi phí nhà ở."
       },
       {
         "word": "waging",
@@ -86200,7 +89173,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/ˈwɪt.nəsɪz/"
+        "ipa": "/ˈwɪt.nəsɪz/",
+        "example": "There were no witnesses to the accident.",
+        "exampleVi": "Không có nhân chứng nào cho vụ tai nạn."
       },
       {
         "word": "witnessing",

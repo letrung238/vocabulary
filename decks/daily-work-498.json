@@ -4682,7 +4682,58 @@
       }
     ],
     "synonyms": [
-      "connection"
+      "connection",
+      "association"
+    ],
+    "phrases": [
+      {
+        "word": "relationship with",
+        "pos": "noun",
+        "ipa": "/rɪˈleɪ.ʃən.ʃɪp wɪð/",
+        "meaningVi": "mối quan hệ với một người hoặc tổ chức",
+        "example": "We have a good relationship with our suppliers.",
+        "exampleVi": "Chúng tôi có quan hệ tốt với các nhà cung cấp.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "legacy-reviewed",
+          "work"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "relationships with",
+            "types": [
+              "plural"
+            ],
+            "ipa": "/rɪˈleɪ.ʃən.ʃɪps wɪð/"
+          }
+        ]
+      },
+      {
+        "word": "relationship between",
+        "pos": "noun",
+        "ipa": "/rɪˈleɪ.ʃən.ʃɪp bɪˈtwiːn/",
+        "meaningVi": "mối quan hệ hoặc liên hệ giữa các bên",
+        "example": "The study examines the relationship between sleep and memory.",
+        "exampleVi": "Nghiên cứu xem xét mối liên hệ giữa giấc ngủ và trí nhớ.",
+        "topic": "work",
+        "tags": [
+          "prepositions",
+          "legacy-reviewed",
+          "work"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "relationships between",
+            "types": [
+              "plural"
+            ],
+            "ipa": "/rɪˈleɪ.ʃən.ʃɪps bɪˈtwiːn/"
+          }
+        ]
+      }
     ]
   },
   {
@@ -6609,6 +6660,9 @@
         "ipa": "/ˈdɛɫt/"
       }
     ],
+    "synonyms": [
+      "handle"
+    ],
     "phrases": [
       {
         "word": "deal with",
@@ -6651,9 +6705,6 @@
           }
         ]
       }
-    ],
-    "synonyms": [
-      "handle"
     ]
   },
   {
@@ -6765,6 +6816,9 @@
         "ipa": "/əˈtendɪd/"
       }
     ],
+    "synonyms": [
+      "participate in"
+    ],
     "phrases": [
       {
         "word": "attend to",
@@ -6807,9 +6861,6 @@
           }
         ]
       }
-    ],
-    "synonyms": [
-      "participate in"
     ]
   },
   {
@@ -6902,6 +6953,12 @@
         "example": "Her design received an honorable mention.",
         "exampleVi": "Thiết kế của cô ấy được ghi nhận bằng lời khen trong giải thưởng.",
         "ipa": "/ˈmen.ʃən/"
+      },
+      {
+        "pos": "noun",
+        "meaningVi": "việc nhắc đến một người hoặc sự việc",
+        "example": "There was no mention of a price increase.",
+        "exampleVi": "Không có việc nhắc đến tăng giá."
       }
     ],
     "forms": [
@@ -6931,7 +6988,52 @@
       }
     ],
     "synonyms": [
-      "refer to"
+      "refer to",
+      "bring up"
+    ],
+    "phrases": [
+      {
+        "word": "mention to",
+        "pos": "verb",
+        "ipa": "/ˈmen.ʃən tə/",
+        "meaningVi": "nhắc một điều với ai",
+        "example": "The problem was mentioned to the manager.",
+        "exampleVi": "Vấn đề đã được nhắc với người quản lý.",
+        "topic": "communication",
+        "tags": [
+          "prepositions",
+          "legacy-reviewed",
+          "communication"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "mentions to",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/ˈmen.ʃənz tə/"
+          },
+          {
+            "word": "mentioning to",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/ˈmen.ʃənɪŋ tə/"
+          },
+          {
+            "word": "mentioned to",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/ˈmen.ʃənd tə/",
+            "example": "The problem was mentioned to the manager.",
+            "exampleVi": "Vấn đề đã được nhắc với người quản lý."
+          }
+        ]
+      }
     ]
   },
   {
@@ -6974,6 +7076,9 @@
         "ipa": "/ˈsʌf.əd/"
       }
     ],
+    "synonyms": [
+      "endure"
+    ],
     "phrases": [
       {
         "word": "suffer from",
@@ -7014,9 +7119,6 @@
           }
         ]
       }
-    ],
-    "synonyms": [
-      "endure"
     ]
   },
   {
@@ -7075,6 +7177,9 @@
         "ipa": "/rɪˈleɪtɪd/"
       }
     ],
+    "synonyms": [
+      "connect"
+    ],
     "phrases": [
       {
         "word": "relate to",
@@ -7115,9 +7220,6 @@
           }
         ]
       }
-    ],
-    "synonyms": [
-      "connect"
     ]
   },
   {
@@ -7666,6 +7768,9 @@
         "ipa": "/əbˈdʒektɪd/"
       }
     ],
+    "synonyms": [
+      "protest"
+    ],
     "phrases": [
       {
         "word": "object to",
@@ -7708,9 +7813,6 @@
           }
         ]
       }
-    ],
-    "synonyms": [
-      "protest"
     ]
   },
   {
@@ -7752,6 +7854,9 @@
         ],
         "ipa": "/sɜːtʃt/"
       }
+    ],
+    "synonyms": [
+      "look for"
     ],
     "phrases": [
       {
@@ -7834,9 +7939,6 @@
           }
         ]
       }
-    ],
-    "synonyms": [
-      "look for"
     ]
   },
   {
@@ -8354,6 +8456,9 @@
         "ipa": "/ˈstək/"
       }
     ],
+    "synonyms": [
+      "paste"
+    ],
     "phrases": [
       {
         "word": "stick to",
@@ -8396,9 +8501,6 @@
           }
         ]
       }
-    ],
-    "synonyms": [
-      "paste"
     ]
   },
   {
@@ -9212,6 +9314,9 @@
         "ipa": "/rɪˈplaɪd/"
       }
     ],
+    "synonyms": [
+      "respond"
+    ],
     "phrases": [
       {
         "word": "reply to",
@@ -9254,9 +9359,6 @@
           }
         ]
       }
-    ],
-    "synonyms": [
-      "respond"
     ]
   },
   {
@@ -9363,6 +9465,9 @@
         "exampleVi": "Nhóm chúng tôi khởi xướng ý tưởng."
       }
     ],
+    "synonyms": [
+      "derive"
+    ],
     "phrases": [
       {
         "word": "originate from",
@@ -9403,9 +9508,6 @@
           }
         ]
       }
-    ],
-    "synonyms": [
-      "derive"
     ]
   },
   {
@@ -9926,6 +10028,9 @@
         "ipa": "/bʌmpt/"
       }
     ],
+    "synonyms": [
+      "knock"
+    ],
     "phrases": [
       {
         "word": "bump into",
@@ -9968,9 +10073,6 @@
           }
         ]
       }
-    ],
-    "synonyms": [
-      "knock"
     ]
   },
   {
@@ -11967,6 +12069,9 @@
         "ipa": "/ˈsɪə.ri.əs/"
       }
     ],
+    "synonyms": [
+      "grave"
+    ],
     "phrases": [
       {
         "word": "serious about",
@@ -11982,9 +12087,6 @@
         ],
         "synonyms": []
       }
-    ],
-    "synonyms": [
-      "grave"
     ]
   },
   {
@@ -12188,7 +12290,8 @@
       "work"
     ],
     "synonyms": [
-      "dependable"
+      "dependable",
+      "trustworthy"
     ]
   },
   {
@@ -12773,6 +12876,9 @@
         "ipa": "/kiːn/"
       }
     ],
+    "synonyms": [
+      "eager"
+    ],
     "phrases": [
       {
         "word": "keen on",
@@ -12788,9 +12894,6 @@
         ],
         "synonyms": []
       }
-    ],
-    "synonyms": [
-      "eager"
     ]
   },
   {
@@ -12853,6 +12956,9 @@
         "ipa": "/ˈkwɒl.ɪ.faɪd/"
       }
     ],
+    "synonyms": [
+      "competent"
+    ],
     "phrases": [
       {
         "word": "qualified for",
@@ -12868,9 +12974,6 @@
         ],
         "synonyms": []
       }
-    ],
-    "synonyms": [
-      "competent"
     ]
   },
   {
@@ -12964,6 +13067,9 @@
       "daily-work-498",
       "work"
     ],
+    "synonyms": [
+      "deserving"
+    ],
     "phrases": [
       {
         "word": "worthy of",
@@ -12979,9 +13085,6 @@
         ],
         "synonyms": []
       }
-    ],
-    "synonyms": [
-      "deserving"
     ]
   },
   {

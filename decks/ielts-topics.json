@@ -286,7 +286,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/ˈwɪt.nəsɪz/"
+        "ipa": "/ˈwɪt.nəsɪz/",
+        "example": "There were no witnesses to the accident.",
+        "exampleVi": "Không có nhân chứng nào cho vụ tai nạn."
       },
       {
         "word": "witnessing",
@@ -3553,7 +3555,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/ˈpɔː.ʃənz/"
+        "ipa": "/ˈpɔː.ʃənz/",
+        "example": "Restaurant portions have doubled since the seventies.",
+        "exampleVi": "Khẩu phần ở nhà hàng đã tăng gấp đôi từ những năm bảy mươi."
       },
       {
         "word": "portioning",
@@ -8158,7 +8162,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/weɪdʒɪz/"
+        "ipa": "/weɪdʒɪz/",
+        "example": "Wages have not kept pace with housing costs.",
+        "exampleVi": "Tiền công theo giờ hoặc tuần không theo kịp chi phí nhà ở."
       },
       {
         "word": "waging",

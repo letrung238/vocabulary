@@ -7,7 +7,7 @@ from pathlib import Path
 from ielts_bundles import ROOT, IELTS_DECKS, RETIRED_DECKS, read, refresh, source_decks
 
 # Captured before deleting the old files; covers every field of every record.
-ORIGINAL_CONTENT_SHA256 = '01c2e5a7876cc056e1224957d610477fe5c06fa9aab09de5c9ed0522e241bbe4'
+ORIGINAL_CONTENT_SHA256 = '668185ffbe3a5b32498365afa8898535b95db05bd18e969d2ac1dea84961f26f'
 
 
 def check_catalog(folder):
@@ -26,13 +26,13 @@ def check_catalog(folder):
 def main():
     combined = [w for name in IELTS_DECKS for w in read(ROOT / 'decks' / name)]
     assert len(combined) == len({w['word'].strip().lower() for w in combined}) == 708
-    assert sum(len(w.get('senses', [])) for w in combined) == 466
+    assert sum(len(w.get('senses', [])) for w in combined) == 467
     assert sum(len(w.get('forms', [])) for w in combined) == 939
     content = json.dumps(sorted(({k:v for k,v in w.items() if k != 'phrases'} for w in combined), key=lambda w: w['word']), sort_keys=True,
                          ensure_ascii=False, separators=(',', ':')).encode('utf-8')
     assert hashlib.sha256(content).hexdigest() == ORIGINAL_CONTENT_SHA256, 'Original IELTS vocabulary changed'
     assert len({w['word'] for p in source_decks(ROOT) for w in read(p)} |
-               {w['word'] for w in read(ROOT / 'seed_words.json')}) == 6019
+               {w['word'] for w in read(ROOT / 'seed_words.json')}) == 6029
     check_catalog(ROOT)
     generated = [ROOT / 'decks' / name for name in IELTS_DECKS] + [ROOT / 'catalog.json']
     before = {p: p.read_bytes() for p in generated}

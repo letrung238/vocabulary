@@ -36,7 +36,8 @@ def build():
         lookup[word].setdefault('senses', []).append(dict(pos='verb', meaningVi=meaning,
             example=example, exampleVi=translation, ipa=lookup[word]['ipa']))
     assert len(words) == len(lookup) == 150
-    return words + additional_phrases()
+    from legacy_enrichment import phrases as legacy_phrases
+    return words + additional_phrases() + legacy_phrases()
 
 
 def additional_phrases():
@@ -128,7 +129,7 @@ def main():
         catalog = read(path)
         catalog['files'] = [e for e in catalog['files'] if e['url'] not in {'decks/'+DECK,'decks/prepositions-50.json'}]
         catalog['files'].insert(4, dict(title='Từ gốc bổ sung và cụm với giới từ', count=count, url='decks/'+DECK,
-            description='32 từ gốc bổ sung cùng các cụm liên quan và idiom care of. Các cụm khác nằm ngay trong từ gốc ở bộ tương ứng. Bộ offline Windows/Android nhập đủ 650 cụm.'))
+            description=f'32 từ gốc bổ sung cùng các cụm liên quan và idiom care of. Các cụm khác nằm ngay trong từ gốc ở bộ tương ứng. Bộ offline Windows/Android nhập đủ {len(data)} cụm.'))
         write(path, catalog)
     forms = runpy.run_path(str(ROOT/'tools/build-word-forms.py'))
     payload = forms['build_payload']()

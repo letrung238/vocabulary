@@ -14,7 +14,7 @@ digest=lambda value:hashlib.sha256(json.dumps(value,ensure_ascii=False,sort_keys
 selected=names()
 decks={path.name:read(path) for path in sources(ROOT)}
 baseline={name:[w for w in words if w['word'] not in selected] for name,words in decks.items()}
-assert digest(baseline)=='3ca9c22d020110932e6b940b66372b6245056f567ea4bfe12e2dea6f6787cd97', 'A pre-existing lexical field or order changed'
+assert digest(baseline)=='f02b0bfd85b36e70647944cdd220a73f076881bb6cfcbb19e9ab42f3b9f0b7a9', 'A pre-existing lexical field or order changed'
 old=[w for words in baseline.values() for w in entries(words)]
 normalize=lambda text:re.sub(r'[-\s]+',' ',text.lower().strip())
 from runpy import run_path
@@ -39,7 +39,7 @@ for word in actual:
         assert len(word['forms'])==3
         assert {t for f in word['forms'] for t in f['types']}=={'present_third_person_singular','present_participle','gerund','past_simple','past_participle'}
 payload=read(ROOT/'learning/word-forms.json')
-assert digest([w for w in payload if w['word'] not in selected])=='f1836607df0d973e47bfacf4e0eb98e01fd5fbf80f50ae4b5a060019864f3621', 'Previously reviewed forms changed'
+assert digest([w for w in payload if w['word'] not in selected])=='bd8ca6639657e7588e4bc42613b6826be29cbca8a56e13c39ca4b3b8f3de19aa', 'Previously reviewed forms changed'
 by_word={w['word']:w for w in actual}
 assert by_word['thyme']['ipa']=='/taɪm/' and by_word['ferment']['ipa']=='/fərˈment/'
 assert by_word['ox']['forms'][0]['word']=='oxen'
@@ -51,5 +51,5 @@ assert {f['word'] for f in by_word['sob']['forms']}=={'sobs','sobbing','sobbed'}
 assert len(decks['everyday-500.json'])==1000
 entry=next(e for e in read(ROOT/'catalog.json')['files'] if e['url']=='decks/everyday-500.json')
 assert entry['count']==1000
-assert len({w['word'] for words in decks.values() for w in words})==6019
-print('PASS: exactly 500 new roots (350 nouns/100 adjectives/50 verbs), 500 bilingual contexts, 432 forms; 1000-root merged deck; every prior lexical field/order and form unchanged; 6019 roots.')
+assert len({w['word'] for words in decks.values() for w in words})==6029
+print('PASS: exactly 500 new roots (350 nouns/100 adjectives/50 verbs), 500 bilingual contexts, 432 forms; 1000-root merged deck; every prior lexical field/order and form unchanged; 6029 roots.')

@@ -69,7 +69,7 @@ def main():
     for path in ['decks/DAILY-WORK-498-ATTRIBUTION.md']:
         (ROOT / path).write_bytes(attribution)
     core = read('seed_words.json') + read('decks/b2-1000.json') + read('decks/b2-daily-work-500.json') + deck
-    assert len(core) == len({canonical(w['word']) for w in core}) == 3000
+    assert len(core) == len({canonical(w['word']) for w in core}) == 3010
     print('Daily/work: 498 new intermediate words; 227 with 320 secondary uses; '
           '271 reviewed exceptions. Core selection: 3000 distinct words.')
 

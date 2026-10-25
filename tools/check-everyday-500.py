@@ -24,7 +24,7 @@ old=[w for path in [ROOT/'seed_words.json',*sorted((ROOT/'decks').glob('*.json')
 known={norm(w['word']) for w in old}|{norm(f['word']) for w in old for f in w.get('forms',[])}
 assert not {norm(w['word']) for w in deck}&known
 assert not {norm(w['word']).replace(' ','') for w in deck}&{w.replace(' ','') for w in known}
-assert len({w['word'] for w in old})==5668-sum(len(w.get('phrases',[])) for w in deck)
+assert len({w['word'] for w in old})==5786-sum(len(w.get('phrases',[])) for w in deck)
 assert sum(len(w.get('forms',[])) for w in deck)==528
 examples=[s for w in deck for s in [w]+w.get('senses',[])]
 assert len(examples)==583 and all(s['example'].strip() and s['exampleVi'].strip() for s in examples)

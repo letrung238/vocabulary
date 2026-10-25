@@ -1,0 +1,82 @@
+[
+  {
+    "word": "opportunity",
+    "sourceGroup": "legacy-v1",
+    "pos": "noun",
+    "meaningVi": "cơ hội",
+    "example": "This job is a great opportunity for you.",
+    "exampleVi": "Công việc này là một cơ hội tốt cho bạn."
+  },
+  {
+    "word": "confident",
+    "sourceGroup": "legacy-v1",
+    "pos": "adjective",
+    "meaningVi": "tự tin",
+    "example": "She feels confident about the interview.",
+    "exampleVi": "Cô ấy cảm thấy tự tin về buổi phỏng vấn."
+  },
+  {
+    "word": "suggest",
+    "sourceGroup": "legacy-v1",
+    "pos": "verb",
+    "meaningVi": "đề nghị, gợi ý",
+    "example": "I suggest we leave early to avoid traffic.",
+    "exampleVi": "Tôi đề nghị chúng ta đi sớm để tránh kẹt xe."
+  },
+  {
+    "word": "although",
+    "sourceGroup": "legacy-v1",
+    "pos": "conjunction",
+    "meaningVi": "mặc dù",
+    "example": "Although it was raining, we went out.",
+    "exampleVi": "Mặc dù trời mưa, chúng tôi vẫn ra ngoài."
+  },
+  {
+    "word": "decision",
+    "sourceGroup": "legacy-v1",
+    "pos": "noun",
+    "meaningVi": "quyết định",
+    "example": "It was a difficult decision to make.",
+    "exampleVi": "Đó là một quyết định khó khăn."
+  },
+  {
+    "word": "encourage",
+    "sourceGroup": "legacy-v1",
+    "pos": "verb",
+    "meaningVi": "khuyến khích, động viên",
+    "example": "My teacher encouraged me to keep trying.",
+    "exampleVi": "Thầy tôi đã động viên tôi tiếp tục cố gắng."
+  },
+  {
+    "word": "experience",
+    "sourceGroup": "legacy-v1",
+    "pos": "noun",
+    "meaningVi": "kinh nghiệm, trải nghiệm",
+    "example": "She has five years of experience in design.",
+    "exampleVi": "Cô ấy có năm năm kinh nghiệm trong lĩnh vực thiết kế."
+  },
+  {
+    "word": "prevent",
+    "sourceGroup": "legacy-v1",
+    "pos": "verb",
+    "meaningVi": "ngăn chặn, phòng ngừa",
+    "example": "Washing your hands prevents many illnesses.",
+    "exampleVi": "Rửa tay giúp phòng ngừa nhiều bệnh."
+  },
+  {
+    "word": "recently",
+    "sourceGroup": "legacy-v1",
+    "pos": "adverb",
+    "meaningVi": "gần đây",
+    "example": "I recently moved to a new apartment.",
+    "exampleVi": "Gần đây tôi mới chuyển đến một căn hộ mới."
+  },
+  {
+    "word": "consider",
+    "sourceGroup": "legacy-v1",
+    "pos": "verb",
+    "meaningVi": "cân nhắc, xem xét",
+    "example": "Please consider my offer carefully.",
+    "exampleVi": "Xin hãy cân nhắc kỹ đề nghị của tôi."
+  }
+]

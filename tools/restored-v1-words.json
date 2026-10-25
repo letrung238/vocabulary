@@ -1,0 +1,158 @@
+[
+  {
+    "word": "opportunity",
+    "ipa": "/ˌɒp.əˈtjuː.nə.ti/",
+    "pos": "noun",
+    "meaningVi": "cơ hội",
+    "example": "This job is a great opportunity for you.",
+    "exampleVi": "Công việc này là một cơ hội tốt cho bạn.",
+    "synonyms": [
+      "chance"
+    ],
+    "topic": "common",
+    "tags": [
+      "legacy-v1-restored"
+    ]
+  },
+  {
+    "word": "confident",
+    "ipa": "/ˈkɒn.fɪ.dənt/",
+    "pos": "adjective",
+    "meaningVi": "tự tin",
+    "example": "She feels confident about the interview.",
+    "exampleVi": "Cô ấy cảm thấy tự tin về buổi phỏng vấn.",
+    "synonyms": [
+      "self-assured"
+    ],
+    "topic": "common",
+    "tags": [
+      "legacy-v1-restored"
+    ]
+  },
+  {
+    "word": "suggest",
+    "ipa": "/səˈdʒest/",
+    "pos": "verb",
+    "meaningVi": "đề nghị, gợi ý",
+    "example": "I suggest we leave early to avoid traffic.",
+    "exampleVi": "Tôi đề nghị chúng ta đi sớm để tránh kẹt xe.",
+    "synonyms": [
+      "propose",
+      "recommend"
+    ],
+    "topic": "common",
+    "tags": [
+      "legacy-v1-restored"
+    ]
+  },
+  {
+    "word": "although",
+    "ipa": "/ɔːlˈðəʊ/",
+    "pos": "conjunction",
+    "meaningVi": "mặc dù",
+    "example": "Although it was raining, we went out.",
+    "exampleVi": "Mặc dù trời mưa, chúng tôi vẫn ra ngoài.",
+    "synonyms": [
+      "though",
+      "even though"
+    ],
+    "topic": "common",
+    "tags": [
+      "legacy-v1-restored"
+    ]
+  },
+  {
+    "word": "decision",
+    "ipa": "/dɪˈsɪʒ.ən/",
+    "pos": "noun",
+    "meaningVi": "quyết định",
+    "example": "It was a difficult decision to make.",
+    "exampleVi": "Đó là một quyết định khó khăn.",
+    "synonyms": [
+      "choice"
+    ],
+    "topic": "common",
+    "tags": [
+      "legacy-v1-restored"
+    ]
+  },
+  {
+    "word": "encourage",
+    "ipa": "/ɪnˈkʌr.ɪdʒ/",
+    "pos": "verb",
+    "meaningVi": "khuyến khích, động viên",
+    "example": "My teacher encouraged me to keep trying.",
+    "exampleVi": "Thầy tôi đã động viên tôi tiếp tục cố gắng.",
+    "synonyms": [
+      "motivate",
+      "urge"
+    ],
+    "topic": "common",
+    "tags": [
+      "legacy-v1-restored"
+    ]
+  },
+  {
+    "word": "experience",
+    "ipa": "/ɪkˈspɪə.ri.əns/",
+    "pos": "noun",
+    "meaningVi": "kinh nghiệm, trải nghiệm",
+    "example": "She has five years of experience in design.",
+    "exampleVi": "Cô ấy có năm năm kinh nghiệm trong lĩnh vực thiết kế.",
+    "synonyms": [
+      "practical knowledge"
+    ],
+    "topic": "common",
+    "tags": [
+      "legacy-v1-restored"
+    ]
+  },
+  {
+    "word": "prevent",
+    "ipa": "/prɪˈvent/",
+    "pos": "verb",
+    "meaningVi": "ngăn chặn, phòng ngừa",
+    "example": "Washing your hands prevents many illnesses.",
+    "exampleVi": "Rửa tay giúp phòng ngừa nhiều bệnh.",
+    "synonyms": [
+      "stop",
+      "avert"
+    ],
+    "topic": "common",
+    "tags": [
+      "legacy-v1-restored"
+    ]
+  },
+  {
+    "word": "recently",
+    "ipa": "/ˈriː.sənt.li/",
+    "pos": "adverb",
+    "meaningVi": "gần đây",
+    "example": "I recently moved to a new apartment.",
+    "exampleVi": "Gần đây tôi mới chuyển đến một căn hộ mới.",
+    "synonyms": [
+      "lately",
+      "not long ago"
+    ],
+    "topic": "common",
+    "tags": [
+      "legacy-v1-restored"
+    ]
+  },
+  {
+    "word": "consider",
+    "ipa": "/kənˈsɪd.ər/",
+    "pos": "verb",
+    "meaningVi": "cân nhắc, xem xét",
+    "example": "Please consider my offer carefully.",
+    "exampleVi": "Xin hãy cân nhắc kỹ đề nghị của tôi.",
+    "synonyms": [
+      "think about",
+      "weigh"
+    ],
+    "topic": "common",
+    "tags": [
+      "legacy-v1-restored"
+    ]
+  }
+]

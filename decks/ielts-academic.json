@@ -146,7 +146,8 @@
     "level": "B1",
     "synonyms": [
       "attain",
-      "accomplish"
+      "accomplish",
+      "reach"
     ],
     "family": [
       "achievement"
@@ -1036,10 +1037,17 @@
         "meaningVi": "rảnh và có thể gặp hoặc làm việc",
         "example": "I am available for a meeting on Friday.",
         "exampleVi": "Tôi rảnh để họp vào thứ Sáu."
+      },
+      {
+        "pos": "adjective",
+        "meaningVi": "chưa có người yêu hoặc chưa kết hôn và có thể hẹn hò",
+        "example": "He asked whether she was available.",
+        "exampleVi": "Anh ấy hỏi liệu cô ấy có đang độc thân không."
       }
     ],
     "synonyms": [
-      "accessible"
+      "accessible",
+      "obtainable"
     ],
     "phrases": [
       {
@@ -4465,7 +4473,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/faɪlz/"
+        "ipa": "/faɪlz/",
+        "example": "Patient files are kept for thirty years.",
+        "exampleVi": "Hồ sơ bệnh nhân được lưu giữ trong ba mươi năm."
       },
       {
         "word": "filing",
@@ -5091,7 +5101,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/ɡreɪdz/"
+        "ipa": "/ɡreɪdz/",
+        "example": "Grades alone reveal little about a student's progress.",
+        "exampleVi": "Điểm xếp loại đơn thuần cho biết rất ít về tiến bộ của học sinh."
       },
       {
         "word": "grading",
@@ -5335,7 +5347,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/ˈɪm.ɪdʒɪz/"
+        "ipa": "/ˈɪm.ɪdʒɪz/",
+        "example": "Satellite images revealed the extent of the flooding.",
+        "exampleVi": "Hình ảnh vệ tinh cho thấy mức độ ngập lụt."
       },
       {
         "word": "imaging",
@@ -6418,7 +6432,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/dʒɒbz/"
+        "ipa": "/dʒɒbz/",
+        "example": "Automation will reshape jobs rather than abolish them.",
+        "exampleVi": "Tự động hóa sẽ định hình lại các công việc chứ không xóa bỏ chúng."
       },
       {
         "word": "jobbing",
@@ -6669,7 +6685,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/ˈlek.tʃərz/"
+        "ipa": "/ˈlek.tʃərz/",
+        "example": "Recorded lectures have not reduced attendance.",
+        "exampleVi": "Bài giảng ghi hình không làm giảm số người tới lớp."
       },
       {
         "word": "lecturing",
@@ -7808,7 +7826,8 @@
       "obviously"
     ],
     "synonyms": [
-      "evident"
+      "evident",
+      "clear"
     ]
   },
   {
@@ -8277,7 +8296,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/ˈpɑːt.nərz/"
+        "ipa": "/ˈpɑːt.nərz/",
+        "example": "The university works with industrial partners abroad.",
+        "exampleVi": "Trường đại học hợp tác với các đối tác công nghiệp ở nước ngoài."
       },
       {
         "word": "partnering",

@@ -4,9 +4,9 @@
   "files": [
     {
       "title": "Bộ chính — thông dụng + công việc/IT",
-      "description": "1.002 từ thông dụng và công việc/IT. 672 từ có nghĩa phụ.",
+      "description": "1,012 từ thông dụng và công việc/IT, gồm các từ khôi phục từ bản đầu. 677 từ có nghĩa phụ.",
       "url": "seed_words.json",
-      "count": 1002
+      "count": 1012
     },
     {
       "title": "Thông dụng · 20 từ bổ sung",
@@ -36,7 +36,7 @@
       "title": "Từ gốc bổ sung và cụm với giới từ",
       "count": 33,
       "url": "decks/prepositions.json",
-      "description": "32 từ gốc bổ sung cùng các cụm liên quan và idiom care of. Các cụm khác nằm ngay trong từ gốc ở bộ tương ứng. Bộ offline Windows/Android nhập đủ 650 cụm."
+      "description": "32 từ gốc bổ sung cùng các cụm liên quan và idiom care of. Các cụm khác nằm ngay trong từ gốc ở bộ tương ứng. Bộ offline Windows/Android nhập đủ 758 cụm."
     },
     {
       "title": "Thông dụng · 120 từ bổ sung",

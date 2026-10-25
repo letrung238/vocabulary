@@ -28,7 +28,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/bʊks/"
+        "ipa": "/bʊks/",
+        "example": "I borrowed two books from the library.",
+        "exampleVi": "Tôi mượn hai cuốn sách từ thư viện."
       },
       {
         "word": "booking",

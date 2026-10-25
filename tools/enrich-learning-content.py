@@ -65,6 +65,8 @@ audit|Students may audit the course without earning credit.|Sinh viên có thể
 narrow|We need to narrow the search to three candidates.|Chúng ta cần thu hẹp việc tìm kiếm còn ba ứng viên.'''
 
 def main():
+    from legacy_enrichment import prepare as prepare_legacy
+    prepare_legacy()
     from everyday_extension import apply as apply_extension
     apply_extension()
     catalog_order = {path: {entry['url']: i for i, entry in enumerate(json.loads(path.read_text(encoding='utf-8'))['files'])}
@@ -98,7 +100,8 @@ def main():
         (ROOT / 'tools/curated-basic-20-examples.json').read_text(encoding='utf-8')) + json.loads(
         (ROOT / 'tools/curated-basic-120-examples.json').read_text(encoding='utf-8')) + json.loads(
         (ROOT / 'tools/curated-everyday-500-examples.json').read_text(encoding='utf-8')) + json.loads(
-        (ROOT / 'tools/curated-prepositions-examples.json').read_text(encoding='utf-8'))
+        (ROOT / 'tools/curated-prepositions-examples.json').read_text(encoding='utf-8')) + json.loads(
+        (ROOT / 'tools/curated-legacy-examples.json').read_text(encoding='utf-8'))
     # Correct only known source definitions; repeated runs also accept the corrected identity.
     b2_path = ROOT / 'decks/b2-1000.json'
     b2 = json.loads(b2_path.read_text(encoding='utf-8'))

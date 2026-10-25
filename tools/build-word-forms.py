@@ -23,7 +23,7 @@ REVIEWED_PLURAL_IPA = json.loads(_PLURAL_IPA_FILE.read_text(encoding='utf-8')) i
 TAGS = ('VBZ', 'VBG', 'VBD', 'VBN')
 TYPES = dict(VBZ=['present_third_person_singular'], VBG=['present_participle', 'gerund'],
              VBD=['past_simple'], VBN=['past_participle'])
-EXCLUDED = {'promising', 'worrying'}
+from morphology_rules import EXCLUDED_VERBS as EXCLUDED
 # Dictionary alternatives that depend on meaning are selected against the source
 # definitions. Other overrides cover reviewed specialist verbs absent in the dictionary.
 OVERRIDES = {
@@ -313,6 +313,10 @@ def build_payload():
             old = next((f for f in row['forms'] if f['word'] == surface), None)
             if old:
                 old['types'].append('plural')
+                # A new verb sense can share a surface with an existing plural.
+                # Keep its authored noun context when no verb context was found.
+                if not old.get('example') and not old.get('exampleVi') and form.get('example'):
+                    old.update(example=form['example'], exampleVi=form['exampleVi'])
                 # Both readings are useful for noun/verb heteronyms.
                 if old['ipa'] != form['ipa']:
                     old['ipa'] = ', '.join(dict.fromkeys(re.findall(r'/[^/]+/', old['ipa'] + ', ' + form['ipa'])))

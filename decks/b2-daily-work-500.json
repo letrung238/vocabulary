@@ -6709,6 +6709,9 @@
       "b2-daily-work",
       "communication"
     ],
+    "synonyms": [
+      "content"
+    ],
     "phrases": [
       {
         "word": "satisfied with",
@@ -6740,9 +6743,6 @@
         ],
         "synonyms": []
       }
-    ],
-    "synonyms": [
-      "content"
     ]
   },
   {
@@ -6758,6 +6758,9 @@
       "b2",
       "b2-daily-work",
       "daily"
+    ],
+    "synonyms": [
+      "stunned"
     ],
     "phrases": [
       {
@@ -6788,9 +6791,6 @@
         ],
         "synonyms": []
       }
-    ],
-    "synonyms": [
-      "stunned"
     ]
   },
   {
@@ -10238,6 +10238,9 @@
         "ipa": "/əˈpəʊzd/"
       }
     ],
+    "synonyms": [
+      "against"
+    ],
     "phrases": [
       {
         "word": "opposed to",
@@ -10253,9 +10256,6 @@
         ],
         "synonyms": []
       }
-    ],
-    "synonyms": [
-      "against"
     ]
   },
   {
@@ -10784,7 +10784,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/təʊnz/"
+        "ipa": "/təʊnz/",
+        "example": "Warm tones make the room feel more welcoming.",
+        "exampleVi": "Các tông màu ấm khiến căn phòng có cảm giác thân thiện hơn."
       },
       {
         "word": "toning",

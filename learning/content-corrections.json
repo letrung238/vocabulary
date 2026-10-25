@@ -1,6 +1,36 @@
 [
   {
     "file": "decks/b2-1000.json",
+    "word": "accomplish",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "hoàn thành, thực hiện",
+      "example": "You can accomplish your goals with hard work.",
+      "exampleVi": "Bạn có thể đạt được mục tiêu của mình bằng cách làm việc chăm chỉ.",
+      "ipa": "/əˈkʌmplɪʃ/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "hoàn thành, thực hiện",
+      "example": "You can accomplish your goals with hard work.",
+      "exampleVi": "Bạn có thể đạt được mục tiêu của mình bằng cách làm việc chăm chỉ.",
+      "ipa": "/əˈkʌmplɪʃ/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "complete",
+      "achieve"
+    ],
+    "afterSynonyms": [
+      "complete",
+      "achieve",
+      "carry out"
+    ]
+  },
+  {
+    "file": "decks/b2-1000.json",
     "word": "addict",
     "reason": "Add the verified pronunciation of this secondary meaning.",
     "before": {
@@ -2782,6 +2812,129 @@
     ]
   },
   {
+    "file": "decks/daily-work-498.json",
+    "word": "mention",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "đề cập; nhắc đến",
+      "example": "Did you mention the delivery problem?",
+      "exampleVi": "Bạn đã đề cập đến vấn đề giao hàng chưa?",
+      "ipa": "/ˈmen.ʃən/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "đề cập; nhắc đến",
+      "example": "Did you mention the delivery problem?",
+      "exampleVi": "Bạn đã đề cập đến vấn đề giao hàng chưa?",
+      "ipa": "/ˈmen.ʃən/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sự ghi nhận hoặc khen ngợi trong giải thưởng",
+        "example": "Her design received an honorable mention.",
+        "exampleVi": "Thiết kế của cô ấy được ghi nhận bằng lời khen trong giải thưởng.",
+        "ipa": "/ˈmen.ʃən/"
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sự ghi nhận hoặc khen ngợi trong giải thưởng",
+        "example": "Her design received an honorable mention.",
+        "exampleVi": "Thiết kế của cô ấy được ghi nhận bằng lời khen trong giải thưởng.",
+        "ipa": "/ˈmen.ʃən/"
+      },
+      {
+        "pos": "noun",
+        "meaningVi": "việc nhắc đến một người hoặc sự việc",
+        "example": "There was no mention of a price increase.",
+        "exampleVi": "Không có việc nhắc đến tăng giá.",
+        "ipa": ""
+      }
+    ],
+    "beforeSynonyms": [
+      "refer to"
+    ],
+    "afterSynonyms": [
+      "refer to",
+      "bring up"
+    ]
+  },
+  {
+    "file": "decks/daily-work-498.json",
+    "word": "relationship",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "mối quan hệ",
+      "example": "We have a good relationship with our suppliers.",
+      "exampleVi": "Chúng tôi có quan hệ tốt với các nhà cung cấp.",
+      "ipa": "/rɪˈleɪ.ʃən.ʃɪp/"
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "mối quan hệ",
+      "example": "We have a good relationship with our suppliers.",
+      "exampleVi": "Chúng tôi có quan hệ tốt với các nhà cung cấp.",
+      "ipa": "/rɪˈleɪ.ʃən.ʃɪp/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "mối tương quan giữa các yếu tố",
+        "example": "We studied the relationship between price and demand.",
+        "exampleVi": "Chúng tôi nghiên cứu tương quan giữa giá và nhu cầu.",
+        "ipa": "/rɪˈleɪ.ʃən.ʃɪp/"
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "mối tương quan giữa các yếu tố",
+        "example": "We studied the relationship between price and demand.",
+        "exampleVi": "Chúng tôi nghiên cứu tương quan giữa giá và nhu cầu.",
+        "ipa": "/rɪˈleɪ.ʃən.ʃɪp/"
+      }
+    ],
+    "beforeSynonyms": [
+      "connection"
+    ],
+    "afterSynonyms": [
+      "connection",
+      "association"
+    ]
+  },
+  {
+    "file": "decks/daily-work-498.json",
+    "word": "reliable",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "đáng tin cậy",
+      "example": "We need reliable information before deciding.",
+      "exampleVi": "Chúng tôi cần thông tin đáng tin cậy trước khi quyết định.",
+      "ipa": "/rɪˈlaɪ.ə.bəl/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "đáng tin cậy",
+      "example": "We need reliable information before deciding.",
+      "exampleVi": "Chúng tôi cần thông tin đáng tin cậy trước khi quyết định.",
+      "ipa": "/rɪˈlaɪ.ə.bəl/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "dependable"
+    ],
+    "afterSynonyms": [
+      "dependable",
+      "trustworthy"
+    ]
+  },
+  {
     "file": "decks/everyday-500.json",
     "word": "baggage carousel",
     "reason": "Reviewed everyday vocabulary correction",
@@ -3386,6 +3539,36 @@
   },
   {
     "file": "decks/ielts-academic.json",
+    "word": "achieve",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "đạt được sau nỗ lực",
+      "example": "Few countries achieved the targets set out in the treaty.",
+      "exampleVi": "Rất ít quốc gia đạt được các mục tiêu nêu trong hiệp ước.",
+      "ipa": "/əˈtʃiːv/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "đạt được sau nỗ lực",
+      "example": "Few countries achieved the targets set out in the treaty.",
+      "exampleVi": "Rất ít quốc gia đạt được các mục tiêu nêu trong hiệp ước.",
+      "ipa": "/əˈtʃiːv/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "attain",
+      "accomplish"
+    ],
+    "afterSynonyms": [
+      "attain",
+      "accomplish",
+      "reach"
+    ]
+  },
+  {
+    "file": "decks/ielts-academic.json",
     "word": "affect",
     "reason": "Add the verified pronunciation of this secondary meaning.",
     "before": {
@@ -3530,6 +3713,57 @@
         "exampleVi": "Kiên nhẫn là một phẩm chất quan trọng của giáo viên giỏi.",
         "ipa": "/ˈæt.rɪ.bjuːt/"
       }
+    ]
+  },
+  {
+    "file": "decks/ielts-academic.json",
+    "word": "available",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "sẵn có để dùng",
+      "example": "Full data are available on the ministry website.",
+      "exampleVi": "Dữ liệu đầy đủ sẵn có để dùng trên trang của bộ.",
+      "ipa": "/əˈveɪ.lə.bəl/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "sẵn có để dùng",
+      "example": "Full data are available on the ministry website.",
+      "exampleVi": "Dữ liệu đầy đủ sẵn có để dùng trên trang của bộ.",
+      "ipa": "/əˈveɪ.lə.bəl/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "rảnh và có thể gặp hoặc làm việc",
+        "example": "I am available for a meeting on Friday.",
+        "exampleVi": "Tôi rảnh để họp vào thứ Sáu.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "rảnh và có thể gặp hoặc làm việc",
+        "example": "I am available for a meeting on Friday.",
+        "exampleVi": "Tôi rảnh để họp vào thứ Sáu.",
+        "ipa": ""
+      },
+      {
+        "pos": "adjective",
+        "meaningVi": "chưa có người yêu hoặc chưa kết hôn và có thể hẹn hò",
+        "example": "He asked whether she was available.",
+        "exampleVi": "Anh ấy hỏi liệu cô ấy có đang độc thân không.",
+        "ipa": ""
+      }
+    ],
+    "beforeSynonyms": [
+      "accessible"
+    ],
+    "afterSynonyms": [
+      "accessible",
+      "obtainable"
     ]
   },
   {
@@ -4576,6 +4810,34 @@
         "exampleVi": "Kế hoạch có điểm yếu; dù vậy chúng tôi vẫn ủng hộ nó.",
         "ipa": ""
       }
+    ]
+  },
+  {
+    "file": "decks/ielts-academic.json",
+    "word": "obvious",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "hiển nhiên, dễ thấy",
+      "example": "There is no obvious explanation for the sudden drop.",
+      "exampleVi": "Không có lời giải thích hiển nhiên nào cho cú sụt đột ngột.",
+      "ipa": "/ˈɒb.vi.əs/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "hiển nhiên, dễ thấy",
+      "example": "There is no obvious explanation for the sudden drop.",
+      "exampleVi": "Không có lời giải thích hiển nhiên nào cho cú sụt đột ngột.",
+      "ipa": "/ˈɒb.vi.əs/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "evident"
+    ],
+    "afterSynonyms": [
+      "evident",
+      "clear"
     ]
   },
   {
@@ -11253,6 +11515,108 @@
   },
   {
     "file": "seed_words.json",
+    "word": "abstract",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "trừu tượng",
+      "example": "Freedom is an abstract concept.",
+      "exampleVi": "Tự do là một khái niệm trừu tượng.",
+      "ipa": "/ˈæb.strækt/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "trừu tượng",
+      "example": "Freedom is an abstract concept.",
+      "exampleVi": "Tự do là một khái niệm trừu tượng.",
+      "ipa": "/ˈæb.strækt/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "bản tóm tắt (bài báo khoa học)",
+        "example": "Read the abstract before the full paper.",
+        "exampleVi": "Đọc bản tóm tắt trước khi đọc cả bài.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "bản tóm tắt (bài báo khoa học)",
+        "example": "Read the abstract before the full paper.",
+        "exampleVi": "Đọc bản tóm tắt trước khi đọc cả bài.",
+        "ipa": ""
+      },
+      {
+        "pos": "verb",
+        "meaningVi": "rút ra hoặc trích xuất thông tin từ một nguồn",
+        "example": "The researchers abstracted key facts from the reports.",
+        "exampleVi": "Các nhà nghiên cứu trích xuất những dữ kiện chính từ các báo cáo.",
+        "ipa": "/æbˈstrækt/"
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "accurate",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "chính xác",
+      "example": "The report was accurate in every detail.",
+      "exampleVi": "Bản báo cáo chính xác đến từng chi tiết.",
+      "ipa": "/ˈæk.jə.rət/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "chính xác",
+      "example": "The report was accurate in every detail.",
+      "exampleVi": "Bản báo cáo chính xác đến từng chi tiết.",
+      "ipa": "/ˈæk.jə.rət/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "correct",
+      "precise"
+    ],
+    "afterSynonyms": [
+      "correct",
+      "precise",
+      "exact"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "adequate",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "đủ, tạm ổn",
+      "example": "The room was small but adequate for one person.",
+      "exampleVi": "Căn phòng nhỏ nhưng đủ cho một người.",
+      "ipa": "/ˈæd.ə.kwət/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "đủ, tạm ổn",
+      "example": "The room was small but adequate for one person.",
+      "exampleVi": "Căn phòng nhỏ nhưng đủ cho một người.",
+      "ipa": "/ˈæd.ə.kwət/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "sufficient"
+    ],
+    "afterSynonyms": [
+      "sufficient",
+      "satisfactory"
+    ]
+  },
+  {
+    "file": "seed_words.json",
     "word": "advocate",
     "reason": "Add the verified pronunciation of this secondary meaning.",
     "before": {
@@ -11290,6 +11654,47 @@
   },
   {
     "file": "seed_words.json",
+    "word": "afford",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "đủ khả năng chi trả",
+      "example": "We cannot afford a new car right now.",
+      "exampleVi": "Hiện giờ chúng tôi chưa đủ tiền mua xe mới.",
+      "ipa": "/əˈfɔːd/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "đủ khả năng chi trả",
+      "example": "We cannot afford a new car right now.",
+      "exampleVi": "Hiện giờ chúng tôi chưa đủ tiền mua xe mới.",
+      "ipa": "/əˈfɔːd/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "cung cấp hoặc mang lại một cơ hội",
+        "example": "The balcony will afford a clear view of the sea.",
+        "exampleVi": "Ban công sẽ mang lại tầm nhìn thoáng ra biển.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "cung cấp hoặc mang lại một cơ hội",
+        "example": "The balcony will afford a clear view of the sea.",
+        "exampleVi": "Ban công sẽ mang lại tầm nhìn thoáng ra biển.",
+        "ipa": ""
+      }
+    ],
+    "beforeSynonyms": [],
+    "afterSynonyms": [
+      "be able to pay for"
+    ]
+  },
+  {
+    "file": "seed_words.json",
     "word": "aggregate",
     "reason": "Add the verified pronunciation of this secondary meaning.",
     "before": {
@@ -11322,6 +11727,338 @@
         "example": "The aggregate of these payments is ten thousand dollars.",
         "exampleVi": "Tổng các khoản thanh toán này là mười nghìn đô la.",
         "ipa": "/ˈæɡ.rɪ.ɡət/"
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "alignment",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "sự thống nhất quan điểm",
+      "example": "Let us get alignment before we build.",
+      "exampleVi": "Hãy thống nhất quan điểm trước khi bắt tay làm.",
+      "ipa": "/əˈlaɪn.mənt/"
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "sự thống nhất quan điểm",
+      "example": "Let us get alignment before we build.",
+      "exampleVi": "Hãy thống nhất quan điểm trước khi bắt tay làm.",
+      "ipa": "/əˈlaɪn.mənt/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sự liên minh hoặc đồng thuận giữa các bên",
+        "example": "The parties announced their alignment on this issue.",
+        "exampleVi": "Các bên công bố sự đồng thuận về vấn đề này.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sự liên minh hoặc đồng thuận giữa các bên",
+        "example": "The parties announced their alignment on this issue.",
+        "exampleVi": "Các bên công bố sự đồng thuận về vấn đề này.",
+        "ipa": ""
+      },
+      {
+        "pos": "noun",
+        "meaningVi": "sự sắp xếp các vật theo một đường hoặc vị trí đúng",
+        "example": "The mechanic checked the alignment of the wheels.",
+        "exampleVi": "Thợ máy kiểm tra độ thẳng hàng của các bánh xe.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "alleviate",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "làm dịu bớt",
+      "example": "The medicine alleviates the pain.",
+      "exampleVi": "Thuốc làm dịu cơn đau.",
+      "ipa": "/əˈliː.vi.eɪt/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "làm dịu bớt",
+      "example": "The medicine alleviates the pain.",
+      "exampleVi": "Thuốc làm dịu cơn đau.",
+      "ipa": "/əˈliː.vi.eɪt/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "ease",
+      "relieve"
+    ],
+    "afterSynonyms": [
+      "ease",
+      "relieve",
+      "lessen"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "allocate",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "phân bổ",
+      "example": "We allocated two engineers to the task.",
+      "exampleVi": "Chúng tôi phân bổ hai kỹ sư cho nhiệm vụ này.",
+      "ipa": "/ˈæl.ə.keɪt/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "phân bổ",
+      "example": "We allocated two engineers to the task.",
+      "exampleVi": "Chúng tôi phân bổ hai kỹ sư cho nhiệm vụ này.",
+      "ipa": "/ˈæl.ə.keɪt/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "assign",
+      "apportion"
+    ],
+    "afterSynonyms": [
+      "assign",
+      "apportion",
+      "allot"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "allowance",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "phụ cấp",
+      "example": "There is a monthly travel allowance.",
+      "exampleVi": "Có phụ cấp đi lại hằng tháng.",
+      "ipa": "/əˈlaʊ.əns/"
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "phụ cấp",
+      "example": "There is a monthly travel allowance.",
+      "exampleVi": "Có phụ cấp đi lại hằng tháng.",
+      "ipa": "/əˈlaʊ.əns/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "khoản tiền tiêu vặt cấp định kỳ",
+        "example": "She saves half of her weekly allowance.",
+        "exampleVi": "Cô bé tiết kiệm một nửa tiền tiêu vặt hằng tuần.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "khoản tiền tiêu vặt cấp định kỳ",
+        "example": "She saves half of her weekly allowance.",
+        "exampleVi": "Cô bé tiết kiệm một nửa tiền tiêu vặt hằng tuần.",
+        "ipa": ""
+      },
+      {
+        "pos": "noun",
+        "meaningVi": "khoản được miễn trừ khi tính thuế",
+        "example": "Her income was below the annual tax allowance.",
+        "exampleVi": "Thu nhập của cô ấy thấp hơn mức miễn trừ thuế hằng năm.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "amaze",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "làm kinh ngạc",
+      "example": "Her memory amazes me.",
+      "exampleVi": "Trí nhớ của cô ấy làm tôi kinh ngạc.",
+      "ipa": "/əˈmeɪz/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "làm kinh ngạc",
+      "example": "Her memory amazes me.",
+      "exampleVi": "Trí nhớ của cô ấy làm tôi kinh ngạc.",
+      "ipa": "/əˈmeɪz/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "astonish"
+    ],
+    "afterSynonyms": [
+      "astonish",
+      "astound"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "ambiguous",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "mơ hồ, nhập nhằng",
+      "example": "The wording was ambiguous.",
+      "exampleVi": "Câu chữ khá nhập nhằng.",
+      "ipa": "/æmˈbɪɡ.ju.əs/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "mơ hồ, nhập nhằng",
+      "example": "The wording was ambiguous.",
+      "exampleVi": "Câu chữ khá nhập nhằng.",
+      "ipa": "/æmˈbɪɡ.ju.əs/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "unclear",
+      "equivocal"
+    ],
+    "afterSynonyms": [
+      "unclear",
+      "equivocal",
+      "open to interpretation"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "annotation",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "chú giải trong mã",
+      "example": "Add the annotation above the class.",
+      "exampleVi": "Thêm chú giải phía trên lớp đó.",
+      "ipa": "/ˌæn.əˈteɪ.ʃən/"
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "chú giải trong mã",
+      "example": "Add the annotation above the class.",
+      "exampleVi": "Thêm chú giải phía trên lớp đó.",
+      "ipa": "/ˌæn.əˈteɪ.ʃən/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "ghi chú giải thích hoặc nhận xét đi kèm văn bản",
+        "example": "The edition includes annotations explaining difficult passages.",
+        "exampleVi": "Ấn bản có các chú giải giải thích những đoạn khó.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "annoy",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "làm phiền, chọc tức",
+      "example": "The noise upstairs really annoys me.",
+      "exampleVi": "Tiếng ồn ở tầng trên thực sự làm tôi khó chịu.",
+      "ipa": "/əˈnɔɪ/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "làm phiền, chọc tức",
+      "example": "The noise upstairs really annoys me.",
+      "exampleVi": "Tiếng ồn ở tầng trên thực sự làm tôi khó chịu.",
+      "ipa": "/əˈnɔɪ/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "irritate"
+    ],
+    "afterSynonyms": [
+      "irritate",
+      "bother"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "apologize",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "xin lỗi",
+      "example": "He apologized for being late.",
+      "exampleVi": "Anh ấy xin lỗi vì đã đến muộn.",
+      "ipa": "/əˈpɒl.ə.dʒaɪz/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "xin lỗi",
+      "example": "He apologized for being late.",
+      "exampleVi": "Anh ấy xin lỗi vì đã đến muộn.",
+      "ipa": "/əˈpɒl.ə.dʒaɪz/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [],
+    "afterSynonyms": [
+      "say sorry"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "approach",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "cách tiếp cận",
+      "example": "We need a different approach to this problem.",
+      "exampleVi": "Chúng ta cần một cách tiếp cận khác cho vấn đề này.",
+      "ipa": "/əˈprəʊtʃ/"
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "cách tiếp cận",
+      "example": "We need a different approach to this problem.",
+      "exampleVi": "Chúng ta cần một cách tiếp cận khác cho vấn đề này.",
+      "ipa": "/əˈprəʊtʃ/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "tiến lại gần",
+        "example": "He approached the desk quietly.",
+        "exampleVi": "Anh ấy tiến lại bàn một cách lặng lẽ.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "tiến lại gần",
+        "example": "He approached the desk quietly.",
+        "exampleVi": "Anh ấy tiến lại bàn một cách lặng lẽ.",
+        "ipa": ""
+      },
+      {
+        "pos": "noun",
+        "meaningVi": "lối hoặc đường dẫn đến một nơi",
+        "example": "The northern approach to the bridge was closed.",
+        "exampleVi": "Lối phía bắc dẫn đến cầu bị đóng.",
+        "ipa": ""
       }
     ]
   },
@@ -11401,6 +12138,50 @@
   },
   {
     "file": "seed_words.json",
+    "word": "asset",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "tài nguyên (ảnh, font...)",
+      "example": "All assets are bundled with the app.",
+      "exampleVi": "Toàn bộ tài nguyên được đóng gói cùng ứng dụng.",
+      "ipa": "/ˈæs.et/"
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "tài nguyên (ảnh, font...)",
+      "example": "All assets are bundled with the app.",
+      "exampleVi": "Toàn bộ tài nguyên được đóng gói cùng ứng dụng.",
+      "ipa": "/ˈæs.et/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "người hoặc thứ quý giá",
+        "example": "She is a real asset to the team.",
+        "exampleVi": "Cô ấy thật sự là người quý giá của nhóm.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "người hoặc thứ quý giá",
+        "example": "She is a real asset to the team.",
+        "exampleVi": "Cô ấy thật sự là người quý giá của nhóm.",
+        "ipa": ""
+      },
+      {
+        "pos": "noun",
+        "meaningVi": "tài sản có giá trị kinh tế thuộc sở hữu của cá nhân hoặc tổ chức",
+        "example": "The company sold an asset to repay its loan.",
+        "exampleVi": "Công ty bán một tài sản để trả khoản vay.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
     "word": "associate",
     "reason": "Add the verified pronunciation of this secondary meaning.",
     "before": {
@@ -11434,6 +12215,122 @@
         "exampleVi": "Một cộng sự kinh doanh đã giới thiệu chúng tôi với nhau.",
         "ipa": "/əˈsəʊ.ʃi.ət/"
       }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "attempt",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "nỗ lực, lần thử",
+      "example": "She passed the exam on her second attempt.",
+      "exampleVi": "Cô ấy đỗ kỳ thi ở lần thử thứ hai.",
+      "ipa": "/əˈtempt/"
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "nỗ lực, lần thử",
+      "example": "She passed the exam on her second attempt.",
+      "exampleVi": "Cô ấy đỗ kỳ thi ở lần thử thứ hai.",
+      "ipa": "/əˈtempt/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "cố gắng thực hiện một việc khó",
+        "example": "They will attempt to climb the mountain tomorrow.",
+        "exampleVi": "Ngày mai họ sẽ cố gắng leo lên ngọn núi.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "cố gắng thực hiện một việc khó",
+        "example": "They will attempt to climb the mountain tomorrow.",
+        "exampleVi": "Ngày mai họ sẽ cố gắng leo lên ngọn núi.",
+        "ipa": ""
+      },
+      {
+        "pos": "noun",
+        "meaningVi": "lần thử hoặc nỗ lực thực hiện một việc",
+        "example": "Her first attempt failed.",
+        "exampleVi": "Lần thử đầu tiên của cô ấy thất bại.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "audit",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "cuộc kiểm toán",
+      "example": "We passed the security audit.",
+      "exampleVi": "Chúng tôi vượt qua cuộc kiểm toán bảo mật.",
+      "ipa": "/ˈɔː.dɪt/"
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "cuộc kiểm toán",
+      "example": "We passed the security audit.",
+      "exampleVi": "Chúng tôi vượt qua cuộc kiểm toán bảo mật.",
+      "ipa": "/ˈɔː.dɪt/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "dự thính một khóa học mà không lấy tín chỉ",
+        "example": "Students may audit the course without earning credit.",
+        "exampleVi": "Sinh viên có thể dự thính khóa học mà không nhận tín chỉ.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "dự thính một khóa học mà không lấy tín chỉ",
+        "example": "Students may audit the course without earning credit.",
+        "exampleVi": "Sinh viên có thể dự thính khóa học mà không nhận tín chỉ.",
+        "ipa": ""
+      },
+      {
+        "pos": "verb",
+        "meaningVi": "kiểm tra độc lập sổ sách hoặc hoạt động của một tổ chức",
+        "example": "An outside firm will audit the accounts.",
+        "exampleVi": "Một công ty bên ngoài sẽ kiểm toán sổ sách.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "authentic",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "chính gốc, xác thực",
+      "example": "This is an authentic Italian recipe.",
+      "exampleVi": "Đây là công thức Ý chính gốc.",
+      "ipa": "/ɔːˈθen.tɪk/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "chính gốc, xác thực",
+      "example": "This is an authentic Italian recipe.",
+      "exampleVi": "Đây là công thức Ý chính gốc.",
+      "ipa": "/ɔːˈθen.tɪk/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "genuine"
+    ],
+    "afterSynonyms": [
+      "genuine",
+      "real"
     ]
   },
   {
@@ -11489,6 +12386,368 @@
   },
   {
     "file": "seed_words.json",
+    "word": "benchmark",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "mốc chuẩn so sánh",
+      "example": "Our response time beats the industry benchmark.",
+      "exampleVi": "Thời gian phản hồi của chúng tôi vượt mốc chuẩn ngành.",
+      "ipa": "/ˈbentʃ.mɑːk/"
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "mốc chuẩn so sánh",
+      "example": "Our response time beats the industry benchmark.",
+      "exampleVi": "Thời gian phản hồi của chúng tôi vượt mốc chuẩn ngành.",
+      "ipa": "/ˈbentʃ.mɑːk/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "mốc đo độ cao cố định trong khảo sát",
+        "example": "The surveyor measured the height of the bridge from a nearby benchmark.",
+        "exampleVi": "Người đo đạc xác định độ cao của cây cầu từ một mốc cao độ gần đó.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "mốc đo độ cao cố định trong khảo sát",
+        "example": "The surveyor measured the height of the bridge from a nearby benchmark.",
+        "exampleVi": "Người đo đạc xác định độ cao của cây cầu từ một mốc cao độ gần đó.",
+        "ipa": ""
+      },
+      {
+        "pos": "verb",
+        "meaningVi": "đo và so sánh hiệu năng với một chuẩn",
+        "example": "We benchmarked the two computers using the same workload.",
+        "exampleVi": "Chúng tôi đo so sánh hiệu năng hai máy tính bằng cùng một tải công việc.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "bias",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "thiên kiến",
+      "example": "The report shows a clear bias.",
+      "exampleVi": "Bản báo cáo cho thấy thiên kiến rõ rệt.",
+      "ipa": "/ˈbaɪ.əs/"
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "thiên kiến",
+      "example": "The report shows a clear bias.",
+      "exampleVi": "Bản báo cáo cho thấy thiên kiến rõ rệt.",
+      "ipa": "/ˈbaɪ.əs/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "độ lệch (thống kê, mô hình)",
+        "example": "The model shows bias toward recent data.",
+        "exampleVi": "Mô hình bị lệch về phía dữ liệu mới.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "độ lệch (thống kê, mô hình)",
+        "example": "The model shows bias toward recent data.",
+        "exampleVi": "Mô hình bị lệch về phía dữ liệu mới.",
+        "ipa": ""
+      },
+      {
+        "pos": "verb",
+        "meaningVi": "làm thiên lệch ý kiến hoặc kết quả",
+        "example": "The wording of the question may bias the answers.",
+        "exampleVi": "Cách diễn đạt câu hỏi có thể làm các câu trả lời thiên lệch.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "binary",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "tệp nhị phân",
+      "example": "Ship the binary, not the source.",
+      "exampleVi": "Hãy phát hành tệp nhị phân, không phải mã nguồn.",
+      "ipa": "/ˈbaɪ.nər.i/"
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "tệp nhị phân",
+      "example": "Ship the binary, not the source.",
+      "exampleVi": "Hãy phát hành tệp nhị phân, không phải mã nguồn.",
+      "ipa": "/ˈbaɪ.nər.i/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "hệ sao đôi gồm hai ngôi sao",
+        "example": "The telescope revealed a binary whose two stars orbit each other.",
+        "exampleVi": "Kính thiên văn phát hiện một hệ sao đôi có hai ngôi sao quay quanh nhau.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "hệ sao đôi gồm hai ngôi sao",
+        "example": "The telescope revealed a binary whose two stars orbit each other.",
+        "exampleVi": "Kính thiên văn phát hiện một hệ sao đôi có hai ngôi sao quay quanh nhau.",
+        "ipa": ""
+      },
+      {
+        "pos": "adjective",
+        "meaningVi": "thuộc hệ nhị phân chỉ dùng hai giá trị hoặc ký hiệu",
+        "example": "The file stores each value as a binary number.",
+        "exampleVi": "Tệp lưu mỗi giá trị dưới dạng một số nhị phân.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "branch",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "nhánh mã nguồn",
+      "example": "Create a branch for each feature.",
+      "exampleVi": "Tạo một nhánh cho mỗi tính năng.",
+      "ipa": "/brɑːntʃ/"
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "nhánh mã nguồn",
+      "example": "Create a branch for each feature.",
+      "exampleVi": "Tạo một nhánh cho mỗi tính năng.",
+      "ipa": "/brɑːntʃ/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "chi nhánh",
+        "example": "The bank opened a new branch.",
+        "exampleVi": "Ngân hàng mở chi nhánh mới.",
+        "ipa": ""
+      },
+      {
+        "pos": "noun",
+        "meaningVi": "cành cây",
+        "example": "A branch fell on the road.",
+        "exampleVi": "Một cành cây rơi xuống đường.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "chi nhánh",
+        "example": "The bank opened a new branch.",
+        "exampleVi": "Ngân hàng mở chi nhánh mới.",
+        "ipa": ""
+      },
+      {
+        "pos": "noun",
+        "meaningVi": "cành cây",
+        "example": "A branch fell on the road.",
+        "exampleVi": "Một cành cây rơi xuống đường.",
+        "ipa": ""
+      },
+      {
+        "pos": "verb",
+        "meaningVi": "chia hoặc tách ra thành các nhánh",
+        "example": "The road branches just beyond the village.",
+        "exampleVi": "Con đường chia nhánh ngay sau ngôi làng.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "breach",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "vụ rò rỉ dữ liệu",
+      "example": "They reported the breach within 72 hours.",
+      "exampleVi": "Họ báo cáo vụ rò rỉ trong vòng 72 giờ.",
+      "ipa": "/briːtʃ/"
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "vụ rò rỉ dữ liệu",
+      "example": "They reported the breach within 72 hours.",
+      "exampleVi": "Họ báo cáo vụ rò rỉ trong vòng 72 giờ.",
+      "ipa": "/briːtʃ/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sự vi phạm (hợp đồng, quy định)",
+        "example": "That is a breach of contract.",
+        "exampleVi": "Đó là vi phạm hợp đồng.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sự vi phạm (hợp đồng, quy định)",
+        "example": "That is a breach of contract.",
+        "exampleVi": "Đó là vi phạm hợp đồng.",
+        "ipa": ""
+      },
+      {
+        "pos": "verb",
+        "meaningVi": "vi phạm một thỏa thuận, nghĩa vụ hoặc quy định",
+        "example": "The company breached the terms of the contract.",
+        "exampleVi": "Công ty vi phạm các điều khoản hợp đồng.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "cautious",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "thận trọng",
+      "example": "Be cautious when crossing the road.",
+      "exampleVi": "Hãy thận trọng khi qua đường.",
+      "ipa": "/ˈkɔː.ʃəs/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "thận trọng",
+      "example": "Be cautious when crossing the road.",
+      "exampleVi": "Hãy thận trọng khi qua đường.",
+      "ipa": "/ˈkɔː.ʃəs/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "careful"
+    ],
+    "afterSynonyms": [
+      "careful",
+      "wary"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "cease",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "ngừng, chấm dứt",
+      "example": "The rain finally ceased.",
+      "exampleVi": "Cuối cùng mưa cũng tạnh.",
+      "ipa": "/siːs/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "ngừng, chấm dứt",
+      "example": "The rain finally ceased.",
+      "exampleVi": "Cuối cùng mưa cũng tạnh.",
+      "ipa": "/siːs/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "stop"
+    ],
+    "afterSynonyms": [
+      "stop",
+      "discontinue"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "cheerful",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "vui vẻ",
+      "example": "She is always cheerful in the morning.",
+      "exampleVi": "Cô ấy luôn vui vẻ vào buổi sáng.",
+      "ipa": "/ˈtʃɪə.fəl/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "vui vẻ",
+      "example": "She is always cheerful in the morning.",
+      "exampleVi": "Cô ấy luôn vui vẻ vào buổi sáng.",
+      "ipa": "/ˈtʃɪə.fəl/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "happy"
+    ],
+    "afterSynonyms": [
+      "happy",
+      "upbeat"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "claim",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "tuyên bố, đòi hỏi",
+      "example": "He claims that he saw the accident.",
+      "exampleVi": "Anh ta khẳng định mình đã thấy vụ tai nạn.",
+      "ipa": "/kleɪm/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "tuyên bố, đòi hỏi",
+      "example": "He claims that he saw the accident.",
+      "exampleVi": "Anh ta khẳng định mình đã thấy vụ tai nạn.",
+      "ipa": "/kleɪm/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "đòi, yêu cầu bồi thường",
+        "example": "You can claim the travel cost.",
+        "exampleVi": "Bạn có thể yêu cầu hoàn tiền đi lại.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "đòi, yêu cầu bồi thường",
+        "example": "You can claim the travel cost.",
+        "exampleVi": "Bạn có thể yêu cầu hoàn tiền đi lại.",
+        "ipa": ""
+      },
+      {
+        "pos": "noun",
+        "meaningVi": "quyền hoặc yêu cầu đòi một thứ được cho là thuộc về mình",
+        "example": "The family submitted a claim to the land.",
+        "exampleVi": "Gia đình nộp yêu cầu đòi quyền đối với mảnh đất.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
     "word": "combine",
     "reason": "Add the verified pronunciation of this secondary meaning.",
     "before": {
@@ -11526,6 +12785,223 @@
   },
   {
     "file": "seed_words.json",
+    "word": "comment",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "nhận xét",
+      "example": "He made no comment on the result.",
+      "exampleVi": "Anh ấy không đưa ra nhận xét gì về kết quả.",
+      "ipa": "/ˈkɒm.ent/"
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "nhận xét",
+      "example": "He made no comment on the result.",
+      "exampleVi": "Anh ấy không đưa ra nhận xét gì về kết quả.",
+      "ipa": "/ˈkɒm.ent/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "dòng chú thích trong mã nguồn",
+        "example": "A comment in the source code explains why the calculation rounds upward.",
+        "exampleVi": "Một dòng chú thích trong mã nguồn giải thích vì sao phép tính làm tròn lên.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "dòng chú thích trong mã nguồn",
+        "example": "A comment in the source code explains why the calculation rounds upward.",
+        "exampleVi": "Một dòng chú thích trong mã nguồn giải thích vì sao phép tính làm tròn lên.",
+        "ipa": ""
+      },
+      {
+        "pos": "verb",
+        "meaningVi": "đưa ra nhận xét hoặc ý kiến",
+        "example": "She declined to comment on the proposal.",
+        "exampleVi": "Cô ấy từ chối bình luận về đề xuất.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "complex",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "phức tạp",
+      "example": "This is a complex issue with no easy answer.",
+      "exampleVi": "Đây là vấn đề phức tạp không có câu trả lời dễ dàng.",
+      "ipa": "/ˈkɒm.pleks/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "phức tạp",
+      "example": "This is a complex issue with no easy answer.",
+      "exampleVi": "Đây là vấn đề phức tạp không có câu trả lời dễ dàng.",
+      "ipa": "/ˈkɒm.pleks/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "khu liên hợp",
+        "example": "They work in an office complex.",
+        "exampleVi": "Họ làm trong một khu văn phòng liên hợp.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "khu liên hợp",
+        "example": "They work in an office complex.",
+        "exampleVi": "Họ làm trong một khu văn phòng liên hợp.",
+        "ipa": ""
+      },
+      {
+        "pos": "noun",
+        "meaningVi": "mặc cảm hoặc một nhóm cảm xúc lo âu ảnh hưởng hành vi",
+        "example": "He developed an inferiority complex at school.",
+        "exampleVi": "Anh ấy hình thành mặc cảm tự ti khi còn đi học.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "complicated",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "rắc rối",
+      "example": "The process is more complicated than it looks.",
+      "exampleVi": "Quy trình rắc rối hơn vẻ ngoài của nó.",
+      "ipa": "/ˈkɒm.plɪ.keɪ.tɪd/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "rắc rối",
+      "example": "The process is more complicated than it looks.",
+      "exampleVi": "Quy trình rắc rối hơn vẻ ngoài của nó.",
+      "ipa": "/ˈkɒm.plɪ.keɪ.tɪd/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "complex"
+    ],
+    "afterSynonyms": [
+      "complex",
+      "intricate"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "comply",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "tuân thủ",
+      "example": "All staff must comply with the rules.",
+      "exampleVi": "Tất cả nhân viên phải tuân thủ quy định.",
+      "ipa": "/kəmˈplaɪ/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "tuân thủ",
+      "example": "All staff must comply with the rules.",
+      "exampleVi": "Tất cả nhân viên phải tuân thủ quy định.",
+      "ipa": "/kəmˈplaɪ/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "conform"
+    ],
+    "afterSynonyms": [
+      "conform",
+      "obey"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "concern",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "mối lo ngại",
+      "example": "Safety is our main concern.",
+      "exampleVi": "An toàn là mối quan tâm chính của chúng tôi.",
+      "ipa": "/kənˈsɜːn/"
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "mối lo ngại",
+      "example": "Safety is our main concern.",
+      "exampleVi": "An toàn là mối quan tâm chính của chúng tôi.",
+      "ipa": "/kənˈsɜːn/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "liên quan tới",
+        "example": "This memo concerns everyone.",
+        "exampleVi": "Bản ghi nhớ này liên quan tới tất cả mọi người.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "liên quan tới",
+        "example": "This memo concerns everyone.",
+        "exampleVi": "Bản ghi nhớ này liên quan tới tất cả mọi người.",
+        "ipa": ""
+      },
+      {
+        "pos": "noun",
+        "meaningVi": "doanh nghiệp hoặc cơ sở kinh doanh",
+        "example": "The factory is still a going concern.",
+        "exampleVi": "Nhà máy vẫn là một cơ sở kinh doanh đang hoạt động.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "confident",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "tự tin",
+      "example": "She feels confident about the interview.",
+      "exampleVi": "Cô ấy cảm thấy tự tin về buổi phỏng vấn.",
+      "ipa": "/ˈkɒn.fɪ.dənt/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "tự tin",
+      "example": "She feels confident about the interview.",
+      "exampleVi": "Cô ấy cảm thấy tự tin về buổi phỏng vấn.",
+      "ipa": "/ˈkɒn.fɪ.dənt/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "tin chắc một điều hoặc kết quả là đúng",
+        "example": "We are confident that the repairs will work.",
+        "exampleVi": "Chúng tôi tin chắc việc sửa chữa sẽ có hiệu quả.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
     "word": "conflict",
     "reason": "Add the verified pronunciation of this secondary meaning.",
     "before": {
@@ -11558,6 +13034,42 @@
         "example": "Your explanation seems to conflict with the evidence on camera.",
         "exampleVi": "Lời giải thích của bạn có vẻ mâu thuẫn với bằng chứng trên camera.",
         "ipa": "/kənˈflɪkt/"
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "consider",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "cân nhắc, xem xét",
+      "example": "Please consider my offer carefully.",
+      "exampleVi": "Xin hãy cân nhắc kỹ đề nghị của tôi.",
+      "ipa": "/kənˈsɪd.ər/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "cân nhắc, xem xét",
+      "example": "Please consider my offer carefully.",
+      "exampleVi": "Xin hãy cân nhắc kỹ đề nghị của tôi.",
+      "ipa": "/kənˈsɪd.ər/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "coi hoặc đánh giá ai hay điều gì là",
+        "example": "We consider her an expert.",
+        "exampleVi": "Chúng tôi coi cô ấy là chuyên gia.",
+        "ipa": ""
+      },
+      {
+        "pos": "verb",
+        "meaningVi": "nghĩ đến và quan tâm nhu cầu hoặc cảm xúc của người khác",
+        "example": "Please consider the neighbors when playing music.",
+        "exampleVi": "Hãy nghĩ đến hàng xóm khi mở nhạc.",
+        "ipa": ""
       }
     ]
   },
@@ -11609,6 +13121,13 @@
         "example": "He contracted the flu last week.",
         "exampleVi": "Anh ấy nhiễm cúm tuần trước.",
         "ipa": "/kənˈtrækt/"
+      },
+      {
+        "pos": "verb",
+        "meaningVi": "ký hợp đồng hoặc thỏa thuận thực hiện một việc",
+        "example": "The firm contracted to build the new school.",
+        "exampleVi": "Công ty ký hợp đồng xây dựng trường mới.",
+        "ipa": "/kənˈtrækt/"
       }
     ]
   },
@@ -11647,6 +13166,114 @@
         "exampleVi": "Đối chiếu quý này với quý trước.",
         "ipa": "/kənˈtrɑːst/"
       }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "convenient",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "tiện lợi",
+      "example": "Would Friday be convenient for you?",
+      "exampleVi": "Thứ Sáu có tiện cho bạn không?",
+      "ipa": "/kənˈviː.ni.ənt/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "tiện lợi",
+      "example": "Would Friday be convenient for you?",
+      "exampleVi": "Thứ Sáu có tiện cho bạn không?",
+      "ipa": "/kənˈviː.ni.ənt/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [],
+    "afterSynonyms": [
+      "handy"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "conversely",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adverb",
+      "meaningVi": "ngược lại",
+      "example": "Conversely, sales rose in the south.",
+      "exampleVi": "Ngược lại, doanh số tăng ở miền Nam.",
+      "ipa": "/kənˈvɜː.sli/"
+    },
+    "after": {
+      "pos": "adverb",
+      "meaningVi": "ngược lại",
+      "example": "Conversely, sales rose in the south.",
+      "exampleVi": "Ngược lại, doanh số tăng ở miền Nam.",
+      "ipa": "/kənˈvɜː.sli/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "on the contrary"
+    ],
+    "afterSynonyms": [
+      "by contrast"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "crucial",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "then chốt, cốt yếu",
+      "example": "The first year is crucial for a child.",
+      "exampleVi": "Năm đầu đời là giai đoạn then chốt với một đứa trẻ.",
+      "ipa": "/ˈkruː.ʃəl/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "then chốt, cốt yếu",
+      "example": "The first year is crucial for a child.",
+      "exampleVi": "Năm đầu đời là giai đoạn then chốt với một đứa trẻ.",
+      "ipa": "/ˈkruː.ʃəl/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "essential"
+    ],
+    "afterSynonyms": [
+      "essential",
+      "vital"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "deceive",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "lừa dối",
+      "example": "He deceived his own family.",
+      "exampleVi": "Anh ta lừa dối chính gia đình mình.",
+      "ipa": "/dɪˈsiːv/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "lừa dối",
+      "example": "He deceived his own family.",
+      "exampleVi": "Anh ta lừa dối chính gia đình mình.",
+      "ipa": "/dɪˈsiːv/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "trick"
+    ],
+    "afterSynonyms": [
+      "trick",
+      "mislead"
     ]
   },
   {
@@ -11762,6 +13389,289 @@
   },
   {
     "file": "seed_words.json",
+    "word": "destroy",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "phá huỷ",
+      "example": "The fire destroyed three houses.",
+      "exampleVi": "Đám cháy phá huỷ ba ngôi nhà.",
+      "ipa": "/dɪˈstrɔɪ/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "phá huỷ",
+      "example": "The fire destroyed three houses.",
+      "exampleVi": "Đám cháy phá huỷ ba ngôi nhà.",
+      "ipa": "/dɪˈstrɔɪ/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "demolish"
+    ],
+    "afterSynonyms": [
+      "demolish",
+      "ruin"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "deteriorate",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "xấu đi",
+      "example": "His health deteriorated quickly.",
+      "exampleVi": "Sức khoẻ của ông ấy xấu đi nhanh chóng.",
+      "ipa": "/dɪˈtɪə.ri.ə.reɪt/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "xấu đi",
+      "example": "His health deteriorated quickly.",
+      "exampleVi": "Sức khoẻ của ông ấy xấu đi nhanh chóng.",
+      "ipa": "/dɪˈtɪə.ri.ə.reɪt/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "worsen"
+    ],
+    "afterSynonyms": [
+      "worsen",
+      "decline"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "deviate",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "đi chệch",
+      "example": "Do not deviate from the plan.",
+      "exampleVi": "Đừng đi chệch khỏi kế hoạch.",
+      "ipa": "/ˈdiː.vi.eɪt/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "đi chệch",
+      "example": "Do not deviate from the plan.",
+      "exampleVi": "Đừng đi chệch khỏi kế hoạch.",
+      "ipa": "/ˈdiː.vi.eɪt/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "diverge"
+    ],
+    "afterSynonyms": [
+      "diverge",
+      "depart"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "disappoint",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "làm thất vọng",
+      "example": "I do not want to disappoint my parents.",
+      "exampleVi": "Tôi không muốn làm bố mẹ thất vọng.",
+      "ipa": "/ˌdɪs.əˈpɔɪnt/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "làm thất vọng",
+      "example": "I do not want to disappoint my parents.",
+      "exampleVi": "Tôi không muốn làm bố mẹ thất vọng.",
+      "ipa": "/ˌdɪs.əˈpɔɪnt/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [],
+    "afterSynonyms": [
+      "let down"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "discipline",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "kỷ luật",
+      "example": "Learning a language requires discipline.",
+      "exampleVi": "Học ngôn ngữ đòi hỏi kỷ luật.",
+      "ipa": "/ˈdɪs.ə.plɪn/"
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "kỷ luật",
+      "example": "Learning a language requires discipline.",
+      "exampleVi": "Học ngôn ngữ đòi hỏi kỷ luật.",
+      "ipa": "/ˈdɪs.ə.plɪn/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "ngành, bộ môn",
+        "example": "Design is a discipline of its own.",
+        "exampleVi": "Thiết kế là một bộ môn riêng.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "ngành, bộ môn",
+        "example": "Design is a discipline of its own.",
+        "exampleVi": "Thiết kế là một bộ môn riêng.",
+        "ipa": ""
+      },
+      {
+        "pos": "verb",
+        "meaningVi": "rèn luyện hoặc xử lý kỷ luật để kiểm soát hành vi",
+        "example": "The school disciplined the students for cheating.",
+        "exampleVi": "Nhà trường kỷ luật những học sinh gian lận.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "display",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "trưng bày, hiển thị",
+      "example": "The shop displays new items every week.",
+      "exampleVi": "Cửa hàng trưng bày hàng mới mỗi tuần.",
+      "ipa": "/dɪˈspleɪ/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "trưng bày, hiển thị",
+      "example": "The shop displays new items every week.",
+      "exampleVi": "Cửa hàng trưng bày hàng mới mỗi tuần.",
+      "ipa": "/dɪˈspleɪ/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "màn hình, thiết bị hiển thị",
+        "example": "The display went black.",
+        "exampleVi": "Màn hình tối đen.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "màn hình, thiết bị hiển thị",
+        "example": "The display went black.",
+        "exampleVi": "Màn hình tối đen.",
+        "ipa": ""
+      },
+      {
+        "pos": "noun",
+        "meaningVi": "cách sắp đặt hoặc khu trưng bày các vật",
+        "example": "The museum has a display of ancient coins.",
+        "exampleVi": "Bảo tàng có một khu trưng bày tiền xu cổ.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "draft",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "bản nháp",
+      "example": "This is only the first draft.",
+      "exampleVi": "Đây mới chỉ là bản nháp đầu tiên.",
+      "ipa": "/drɑːft/"
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "bản nháp",
+      "example": "This is only the first draft.",
+      "exampleVi": "Đây mới chỉ là bản nháp đầu tiên.",
+      "ipa": "/drɑːft/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "soạn thảo",
+        "example": "He drafted the contract overnight.",
+        "exampleVi": "Anh ấy soạn hợp đồng qua đêm.",
+        "ipa": ""
+      },
+      {
+        "pos": "noun",
+        "meaningVi": "gió lùa",
+        "example": "There is a cold draft from the window.",
+        "exampleVi": "Có gió lạnh lùa vào từ cửa sổ.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "soạn thảo",
+        "example": "He drafted the contract overnight.",
+        "exampleVi": "Anh ấy soạn hợp đồng qua đêm.",
+        "ipa": ""
+      },
+      {
+        "pos": "noun",
+        "meaningVi": "gió lùa",
+        "example": "There is a cold draft from the window.",
+        "exampleVi": "Có gió lạnh lùa vào từ cửa sổ.",
+        "ipa": ""
+      },
+      {
+        "pos": "verb",
+        "meaningVi": "gọi nhập ngũ theo nghĩa vụ quân sự",
+        "example": "He was drafted into the army at eighteen.",
+        "exampleVi": "Anh ấy được gọi nhập ngũ khi mười tám tuổi.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "eager",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "háo hức",
+      "example": "The students were eager to start.",
+      "exampleVi": "Các học viên háo hức muốn bắt đầu.",
+      "ipa": "/ˈiː.ɡər/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "háo hức",
+      "example": "The students were eager to start.",
+      "exampleVi": "Các học viên háo hức muốn bắt đầu.",
+      "ipa": "/ˈiː.ɡər/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "keen"
+    ],
+    "afterSynonyms": [
+      "keen",
+      "enthusiastic"
+    ]
+  },
+  {
+    "file": "seed_words.json",
     "word": "elaborate",
     "reason": "Add the verified pronunciation of this secondary meaning.",
     "before": {
@@ -11799,6 +13709,266 @@
   },
   {
     "file": "seed_words.json",
+    "word": "elastic",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "co giãn tự động",
+      "example": "The cluster is elastic and grows on demand.",
+      "exampleVi": "Cụm máy co giãn tự động theo nhu cầu.",
+      "ipa": "/ɪˈlæs.tɪk/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "co giãn tự động",
+      "example": "The cluster is elastic and grows on demand.",
+      "exampleVi": "Cụm máy co giãn tự động theo nhu cầu.",
+      "ipa": "/ɪˈlæs.tɪk/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "dây thun co giãn",
+        "example": "The waistband has elastic to keep the trousers comfortable.",
+        "exampleVi": "Cạp quần có dây thun để tạo cảm giác thoải mái khi mặc.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "dây thun co giãn",
+        "example": "The waistband has elastic to keep the trousers comfortable.",
+        "exampleVi": "Cạp quần có dây thun để tạo cảm giác thoải mái khi mặc.",
+        "ipa": ""
+      },
+      {
+        "pos": "adjective",
+        "meaningVi": "có thể kéo giãn rồi trở lại hình dạng ban đầu",
+        "example": "The fabric is elastic enough to stretch comfortably.",
+        "exampleVi": "Vải đủ co giãn để kéo căng một cách thoải mái.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "empty",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "trống rỗng",
+      "example": "The street was empty at midnight.",
+      "exampleVi": "Con phố vắng tanh lúc nửa đêm.",
+      "ipa": "/ˈemp.ti/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "trống rỗng",
+      "example": "The street was empty at midnight.",
+      "exampleVi": "Con phố vắng tanh lúc nửa đêm.",
+      "ipa": "/ˈemp.ti/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "chai hoặc đồ đựng đã dùng hết",
+        "example": "Put each empty in the crate so the bottles can be returned.",
+        "exampleVi": "Hãy đặt từng chai rỗng vào thùng để có thể đem trả lại.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "chai hoặc đồ đựng đã dùng hết",
+        "example": "Put each empty in the crate so the bottles can be returned.",
+        "exampleVi": "Hãy đặt từng chai rỗng vào thùng để có thể đem trả lại.",
+        "ipa": ""
+      },
+      {
+        "pos": "verb",
+        "meaningVi": "lấy hoặc đổ hết đồ bên trong một vật chứa",
+        "example": "Please empty the bin before you leave.",
+        "exampleVi": "Hãy đổ hết rác trong thùng trước khi rời đi.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "engagement",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "mức độ tương tác",
+      "example": "Engagement dropped over the holidays.",
+      "exampleVi": "Mức độ tương tác giảm trong kỳ nghỉ.",
+      "ipa": "/ɪnˈɡeɪdʒ.mənt/"
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "mức độ tương tác",
+      "example": "Engagement dropped over the holidays.",
+      "exampleVi": "Mức độ tương tác giảm trong kỳ nghỉ.",
+      "ipa": "/ɪnˈɡeɪdʒ.mənt/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "lễ đính hôn",
+        "example": "They announced their engagement.",
+        "exampleVi": "Họ công bố lễ đính hôn.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "lễ đính hôn",
+        "example": "They announced their engagement.",
+        "exampleVi": "Họ công bố lễ đính hôn.",
+        "ipa": ""
+      },
+      {
+        "pos": "noun",
+        "meaningVi": "cuộc hẹn hoặc cam kết tham dự đã sắp xếp trước",
+        "example": "I cannot attend because I have a previous engagement.",
+        "exampleVi": "Tôi không thể tham dự vì đã có một cuộc hẹn trước.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "enhance",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "nâng cao",
+      "example": "Good lighting enhances the photo.",
+      "exampleVi": "Ánh sáng tốt làm bức ảnh đẹp hơn.",
+      "ipa": "/ɪnˈhɑːns/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "nâng cao",
+      "example": "Good lighting enhances the photo.",
+      "exampleVi": "Ánh sáng tốt làm bức ảnh đẹp hơn.",
+      "ipa": "/ɪnˈhɑːns/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "improve"
+    ],
+    "afterSynonyms": [
+      "improve",
+      "strengthen"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "enormous",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "khổng lồ",
+      "example": "They live in an enormous house.",
+      "exampleVi": "Họ sống trong một ngôi nhà khổng lồ.",
+      "ipa": "/ɪˈnɔː.məs/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "khổng lồ",
+      "example": "They live in an enormous house.",
+      "exampleVi": "Họ sống trong một ngôi nhà khổng lồ.",
+      "ipa": "/ɪˈnɔː.məs/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "huge"
+    ],
+    "afterSynonyms": [
+      "huge",
+      "immense"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "ensure",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "đảm bảo",
+      "example": "Please ensure the door is locked.",
+      "exampleVi": "Vui lòng đảm bảo cửa đã khoá.",
+      "ipa": "/ɪnˈʃɔːr/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "đảm bảo",
+      "example": "Please ensure the door is locked.",
+      "exampleVi": "Vui lòng đảm bảo cửa đã khoá.",
+      "ipa": "/ɪnˈʃɔːr/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "guarantee"
+    ],
+    "afterSynonyms": [
+      "guarantee",
+      "make certain"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "equity",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "cổ phần",
+      "example": "Employees receive equity after a year.",
+      "exampleVi": "Nhân viên nhận cổ phần sau một năm.",
+      "ipa": "/ˈek.wɪ.ti/"
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "cổ phần",
+      "example": "Employees receive equity after a year.",
+      "exampleVi": "Nhân viên nhận cổ phần sau một năm.",
+      "ipa": "/ˈek.wɪ.ti/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sự công bằng",
+        "example": "The policy aims at equity, not just equality.",
+        "exampleVi": "Chính sách hướng tới sự công bằng, không chỉ là bình đẳng.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sự công bằng",
+        "example": "The policy aims at equity, not just equality.",
+        "exampleVi": "Chính sách hướng tới sự công bằng, không chỉ là bình đẳng.",
+        "ipa": ""
+      },
+      {
+        "pos": "noun",
+        "meaningVi": "giá trị ròng của tài sản sau khi trừ khoản nợ liên quan",
+        "example": "They used the equity in their home to secure a loan.",
+        "exampleVi": "Họ dùng phần giá trị ròng của căn nhà để bảo đảm khoản vay.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
     "word": "estimate",
     "reason": "Add the verified pronunciation of this secondary meaning.",
     "before": {
@@ -11831,6 +14001,98 @@
         "example": "The builder gave us an estimate of three thousand dollars for the repairs.",
         "exampleVi": "Thợ xây đưa ra mức ước tính ba nghìn đô la cho việc sửa chữa.",
         "ipa": "/ˈes.tɪ.mət/"
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "eventually",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adverb",
+      "meaningVi": "cuối cùng thì",
+      "example": "He eventually agreed to help.",
+      "exampleVi": "Cuối cùng anh ấy cũng đồng ý giúp.",
+      "ipa": "/ɪˈven.tʃu.ə.li/"
+    },
+    "after": {
+      "pos": "adverb",
+      "meaningVi": "cuối cùng thì",
+      "example": "He eventually agreed to help.",
+      "exampleVi": "Cuối cùng anh ấy cũng đồng ý giúp.",
+      "ipa": "/ɪˈven.tʃu.ə.li/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "ultimately"
+    ],
+    "afterSynonyms": [
+      "ultimately",
+      "in the end"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "exceed",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "vượt quá",
+      "example": "Do not exceed the speed limit.",
+      "exampleVi": "Đừng vượt quá tốc độ cho phép.",
+      "ipa": "/ɪkˈsiːd/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "vượt quá",
+      "example": "Do not exceed the speed limit.",
+      "exampleVi": "Đừng vượt quá tốc độ cho phép.",
+      "ipa": "/ɪkˈsiːd/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "surpass"
+    ],
+    "afterSynonyms": [
+      "surpass",
+      "go beyond"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "experience",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "kinh nghiệm, trải nghiệm",
+      "example": "She has five years of experience in design.",
+      "exampleVi": "Cô ấy có năm năm kinh nghiệm trong lĩnh vực thiết kế.",
+      "ipa": "/ɪkˈspɪə.ri.əns/"
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "kinh nghiệm, trải nghiệm",
+      "example": "She has five years of experience in design.",
+      "exampleVi": "Cô ấy có năm năm kinh nghiệm trong lĩnh vực thiết kế.",
+      "ipa": "/ɪkˈspɪə.ri.əns/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "trực tiếp trải qua một sự việc hoặc cảm giác",
+        "example": "The company experienced a sudden rise in demand.",
+        "exampleVi": "Công ty trải qua một đợt tăng nhu cầu đột ngột.",
+        "ipa": ""
+      },
+      {
+        "pos": "noun",
+        "meaningVi": "một sự việc mà một người trực tiếp trải qua",
+        "example": "The trip was an unforgettable experience.",
+        "exampleVi": "Chuyến đi là một trải nghiệm khó quên.",
+        "ipa": ""
       }
     ]
   },
@@ -11905,6 +14167,196 @@
         "example": "The teacher read an extract from the novel to the class.",
         "exampleVi": "Giáo viên đọc một đoạn trích trong tiểu thuyết cho cả lớp nghe.",
         "ipa": "/ˈek.strækt/"
+      },
+      {
+        "pos": "noun",
+        "meaningVi": "chất chiết xuất cô đặc từ nguyên liệu",
+        "example": "Add a few drops of vanilla extract.",
+        "exampleVi": "Thêm vài giọt chiết xuất vani.",
+        "ipa": "/ˈek.strækt/"
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "familiar",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "quen thuộc",
+      "example": "His face looks familiar.",
+      "exampleVi": "Khuôn mặt anh ta trông quen quen.",
+      "ipa": "/fəˈmɪl.i.ər/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "quen thuộc",
+      "example": "His face looks familiar.",
+      "exampleVi": "Khuôn mặt anh ta trông quen quen.",
+      "ipa": "/fəˈmɪl.i.ər/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [],
+    "afterSynonyms": [
+      "well-known"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "fascinate",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "mê hoặc",
+      "example": "Space has always fascinated me.",
+      "exampleVi": "Vũ trụ luôn mê hoặc tôi.",
+      "ipa": "/ˈfæs.ɪ.neɪt/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "mê hoặc",
+      "example": "Space has always fascinated me.",
+      "exampleVi": "Vũ trụ luôn mê hoặc tôi.",
+      "ipa": "/ˈfæs.ɪ.neɪt/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "captivate"
+    ],
+    "afterSynonyms": [
+      "captivate",
+      "intrigue"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "fault",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "lỗi, khuyết điểm",
+      "example": "It was my fault, not yours.",
+      "exampleVi": "Đó là lỗi của tôi, không phải của bạn.",
+      "ipa": "/fɒlt/"
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "lỗi, khuyết điểm",
+      "example": "It was my fault, not yours.",
+      "exampleVi": "Đó là lỗi của tôi, không phải của bạn.",
+      "ipa": "/fɒlt/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "đứt gãy trong lớp vỏ Trái Đất",
+        "example": "The earthquake occurred along a fault beneath the valley.",
+        "exampleVi": "Trận động đất xảy ra dọc một đứt gãy bên dưới thung lũng.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "đứt gãy trong lớp vỏ Trái Đất",
+        "example": "The earthquake occurred along a fault beneath the valley.",
+        "exampleVi": "Trận động đất xảy ra dọc một đứt gãy bên dưới thung lũng.",
+        "ipa": ""
+      },
+      {
+        "pos": "verb",
+        "meaningVi": "chỉ trích hoặc tìm lỗi ở ai hay điều gì",
+        "example": "I cannot fault her attention to detail.",
+        "exampleVi": "Tôi không thể chê trách sự chú ý đến chi tiết của cô ấy.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "feasible",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "khả thi, làm được trên thực tế",
+      "example": "Is this plan feasible in six months?",
+      "exampleVi": "Kế hoạch này có khả thi trong sáu tháng không?",
+      "ipa": "/ˈfiː.zə.bəl/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "khả thi, làm được trên thực tế",
+      "example": "Is this plan feasible in six months?",
+      "exampleVi": "Kế hoạch này có khả thi trong sáu tháng không?",
+      "ipa": "/ˈfiː.zə.bəl/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "viable"
+    ],
+    "afterSynonyms": [
+      "viable",
+      "practicable"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "figure",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "con số, hình dáng",
+      "example": "The latest figures show an increase.",
+      "exampleVi": "Các con số mới nhất cho thấy sự gia tăng.",
+      "ipa": "/ˈfɪɡ.ər/"
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "con số, hình dáng",
+      "example": "The latest figures show an increase.",
+      "exampleVi": "Các con số mới nhất cho thấy sự gia tăng.",
+      "ipa": "/ˈfɪɡ.ər/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "cho rằng, đoán",
+        "example": "I figure she will agree.",
+        "exampleVi": "Tôi đoán cô ấy sẽ đồng ý.",
+        "ipa": ""
+      },
+      {
+        "pos": "noun",
+        "meaningVi": "nhân vật, người có tiếng",
+        "example": "She is a key figure in the team.",
+        "exampleVi": "Cô ấy là nhân vật chủ chốt trong nhóm.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "cho rằng, đoán",
+        "example": "I figure she will agree.",
+        "exampleVi": "Tôi đoán cô ấy sẽ đồng ý.",
+        "ipa": ""
+      },
+      {
+        "pos": "noun",
+        "meaningVi": "nhân vật, người có tiếng",
+        "example": "She is a key figure in the team.",
+        "exampleVi": "Cô ấy là nhân vật chủ chốt trong nhóm.",
+        "ipa": ""
+      },
+      {
+        "pos": "verb",
+        "meaningVi": "tính toán ra một con số hoặc số tiền",
+        "example": "We need to figure the total cost before ordering.",
+        "exampleVi": "Chúng ta cần tính tổng chi phí trước khi đặt hàng.",
+        "ipa": ""
       }
     ]
   },
@@ -11947,6 +14399,118 @@
   },
   {
     "file": "seed_words.json",
+    "word": "grateful",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "biết ơn",
+      "example": "I am grateful for everything you did.",
+      "exampleVi": "Tôi biết ơn mọi điều bạn đã làm.",
+      "ipa": "/ˈɡreɪt.fəl/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "biết ơn",
+      "example": "I am grateful for everything you did.",
+      "exampleVi": "Tôi biết ơn mọi điều bạn đã làm.",
+      "ipa": "/ˈɡreɪt.fəl/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "thankful"
+    ],
+    "afterSynonyms": [
+      "thankful",
+      "appreciative"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "halt",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "dừng lại",
+      "example": "Work halted because of the storm.",
+      "exampleVi": "Công việc dừng lại vì cơn bão.",
+      "ipa": "/hɒlt/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "dừng lại",
+      "example": "Work halted because of the storm.",
+      "exampleVi": "Công việc dừng lại vì cơn bão.",
+      "ipa": "/hɒlt/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "stop"
+    ],
+    "afterSynonyms": [
+      "stop",
+      "cease"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "hesitate",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "do dự",
+      "example": "Do not hesitate to call me.",
+      "exampleVi": "Đừng ngần ngại gọi cho tôi.",
+      "ipa": "/ˈhez.ɪ.teɪt/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "do dự",
+      "example": "Do not hesitate to call me.",
+      "exampleVi": "Đừng ngần ngại gọi cho tôi.",
+      "ipa": "/ˈhez.ɪ.teɪt/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "waver"
+    ],
+    "afterSynonyms": [
+      "waver",
+      "pause"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "illegal",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "bất hợp pháp",
+      "example": "Parking here is illegal.",
+      "exampleVi": "Đỗ xe ở đây là bất hợp pháp.",
+      "ipa": "/ɪˈliː.ɡəl/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "bất hợp pháp",
+      "example": "Parking here is illegal.",
+      "exampleVi": "Đỗ xe ở đây là bất hợp pháp.",
+      "ipa": "/ɪˈliː.ɡəl/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "unlawful"
+    ],
+    "afterSynonyms": [
+      "unlawful",
+      "illicit"
+    ]
+  },
+  {
+    "file": "seed_words.json",
     "word": "implement",
     "reason": "Add the verified pronunciation of this secondary meaning.",
     "before": {
@@ -11984,6 +14548,143 @@
   },
   {
     "file": "seed_words.json",
+    "word": "improve",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "cải thiện",
+      "example": "His English has improved a lot.",
+      "exampleVi": "Tiếng Anh của anh ấy đã cải thiện nhiều.",
+      "ipa": "/ɪmˈpruːv/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "cải thiện",
+      "example": "His English has improved a lot.",
+      "exampleVi": "Tiếng Anh của anh ấy đã cải thiện nhiều.",
+      "ipa": "/ɪmˈpruːv/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "enhance"
+    ],
+    "afterSynonyms": [
+      "enhance",
+      "better"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "inherent",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "vốn có",
+      "example": "There are risks inherent in the job.",
+      "exampleVi": "Có những rủi ro vốn có trong công việc này.",
+      "ipa": "/ɪnˈher.ənt/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "vốn có",
+      "example": "There are risks inherent in the job.",
+      "exampleVi": "Có những rủi ro vốn có trong công việc này.",
+      "ipa": "/ɪnˈher.ənt/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "intrinsic"
+    ],
+    "afterSynonyms": [
+      "intrinsic",
+      "built-in"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "inhibit",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "kìm hãm",
+      "example": "Fear can inhibit learning.",
+      "exampleVi": "Nỗi sợ có thể kìm hãm việc học.",
+      "ipa": "/ɪnˈhɪb.ɪt/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "kìm hãm",
+      "example": "Fear can inhibit learning.",
+      "exampleVi": "Nỗi sợ có thể kìm hãm việc học.",
+      "ipa": "/ɪnˈhɪb.ɪt/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "restrain"
+    ],
+    "afterSynonyms": [
+      "restrain",
+      "hinder"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "inspire",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "truyền cảm hứng",
+      "example": "Her story inspired many young people.",
+      "exampleVi": "Câu chuyện của cô ấy truyền cảm hứng cho nhiều bạn trẻ.",
+      "ipa": "/ɪnˈspaɪər/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "truyền cảm hứng",
+      "example": "Her story inspired many young people.",
+      "exampleVi": "Câu chuyện của cô ấy truyền cảm hứng cho nhiều bạn trẻ.",
+      "ipa": "/ɪnˈspaɪər/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [],
+    "afterSynonyms": [
+      "motivate"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "intend",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "dự định",
+      "example": "I intend to apply for that job.",
+      "exampleVi": "Tôi dự định ứng tuyển công việc đó.",
+      "ipa": "/ɪnˈtend/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "dự định",
+      "example": "I intend to apply for that job.",
+      "exampleVi": "Tôi dự định ứng tuyển công việc đó.",
+      "ipa": "/ɪnˈtend/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "plan"
+    ],
+    "afterSynonyms": [
+      "plan",
+      "mean"
+    ]
+  },
+  {
+    "file": "seed_words.json",
     "word": "interrupt",
     "reason": "Add the verified pronunciation of this secondary meaning.",
     "before": {
@@ -12016,6 +14717,108 @@
         "example": "An interrupt tells the processor that the keyboard needs attention.",
         "exampleVi": "Một tín hiệu ngắt báo cho bộ xử lý biết rằng bàn phím cần được xử lý.",
         "ipa": "/ˈɪn.təˌrʌpt/"
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "launch",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "ra mắt, khởi động",
+      "example": "They will launch the product in May.",
+      "exampleVi": "Họ sẽ ra mắt sản phẩm vào tháng Năm.",
+      "ipa": "/lɔːntʃ/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "ra mắt, khởi động",
+      "example": "They will launch the product in May.",
+      "exampleVi": "Họ sẽ ra mắt sản phẩm vào tháng Năm.",
+      "ipa": "/lɔːntʃ/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "phóng (tên lửa, tàu)",
+        "example": "They launched the rocket at dawn.",
+        "exampleVi": "Họ phóng tên lửa lúc rạng sáng.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "phóng (tên lửa, tàu)",
+        "example": "They launched the rocket at dawn.",
+        "exampleVi": "Họ phóng tên lửa lúc rạng sáng.",
+        "ipa": ""
+      },
+      {
+        "pos": "noun",
+        "meaningVi": "sự ra mắt hoặc khởi động một sản phẩm hay dự án",
+        "example": "The product launch attracted hundreds of visitors.",
+        "exampleVi": "Buổi ra mắt sản phẩm thu hút hàng trăm khách tham dự.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "lead",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "khách hàng tiềm năng",
+      "example": "We got fifty leads from the event.",
+      "exampleVi": "Chúng tôi thu được năm mươi khách tiềm năng từ sự kiện.",
+      "ipa": "/liːd/"
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "khách hàng tiềm năng",
+      "example": "We got fifty leads from the event.",
+      "exampleVi": "Chúng tôi thu được năm mươi khách tiềm năng từ sự kiện.",
+      "ipa": "/liːd/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "dẫn dắt, đi đầu",
+        "example": "She leads the design team.",
+        "exampleVi": "Cô ấy dẫn dắt nhóm thiết kế.",
+        "ipa": ""
+      },
+      {
+        "pos": "noun",
+        "meaningVi": "trưởng nhóm",
+        "example": "Ask the lead before merging.",
+        "exampleVi": "Hỏi trưởng nhóm trước khi merge.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "dẫn dắt, đi đầu",
+        "example": "She leads the design team.",
+        "exampleVi": "Cô ấy dẫn dắt nhóm thiết kế.",
+        "ipa": ""
+      },
+      {
+        "pos": "noun",
+        "meaningVi": "trưởng nhóm",
+        "example": "Ask the lead before merging.",
+        "exampleVi": "Hỏi trưởng nhóm trước khi merge.",
+        "ipa": ""
+      },
+      {
+        "pos": "noun",
+        "meaningVi": "chì, một kim loại nặng mềm màu xám",
+        "example": "The old pipe contains lead.",
+        "exampleVi": "Ống cũ có chứa chì.",
+        "ipa": "/led/"
       }
     ]
   },
@@ -12058,6 +14861,62 @@
   },
   {
     "file": "seed_words.json",
+    "word": "loyal",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "trung thành",
+      "example": "He has been a loyal friend for years.",
+      "exampleVi": "Anh ấy là một người bạn trung thành nhiều năm nay.",
+      "ipa": "/ˈlɔɪ.əl/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "trung thành",
+      "example": "He has been a loyal friend for years.",
+      "exampleVi": "Anh ấy là một người bạn trung thành nhiều năm nay.",
+      "ipa": "/ˈlɔɪ.əl/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "faithful"
+    ],
+    "afterSynonyms": [
+      "faithful",
+      "devoted"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "mandatory",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "bắt buộc",
+      "example": "Attendance is mandatory.",
+      "exampleVi": "Việc có mặt là bắt buộc.",
+      "ipa": "/ˈmæn.də.tər.i/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "bắt buộc",
+      "example": "Attendance is mandatory.",
+      "exampleVi": "Việc có mặt là bắt buộc.",
+      "ipa": "/ˈmæn.də.tər.i/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "compulsory"
+    ],
+    "afterSynonyms": [
+      "compulsory",
+      "required"
+    ]
+  },
+  {
+    "file": "seed_words.json",
     "word": "mature",
     "reason": "Correct reviewed definition, pronunciation or bilingual context.",
     "before": {
@@ -12089,6 +14948,13 @@
         "meaningVi": "đáo hạn (trái phiếu, khoản vay)",
         "example": "The bond matures in five years.",
         "exampleVi": "Trái phiếu đáo hạn sau năm năm.",
+        "ipa": ""
+      },
+      {
+        "pos": "verb",
+        "meaningVi": "phát triển đến trạng thái trưởng thành hoặc hoàn thiện",
+        "example": "Children mature at different rates.",
+        "exampleVi": "Trẻ em trưởng thành với tốc độ khác nhau.",
         "ipa": ""
       }
     ]
@@ -12132,6 +14998,34 @@
   },
   {
     "file": "seed_words.json",
+    "word": "mitigate",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "giảm thiểu rủi ro",
+      "example": "We added a cache to mitigate the load.",
+      "exampleVi": "Chúng tôi thêm bộ đệm để giảm tải.",
+      "ipa": "/ˈmɪt.ɪ.ɡeɪt/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "giảm thiểu rủi ro",
+      "example": "We added a cache to mitigate the load.",
+      "exampleVi": "Chúng tôi thêm bộ đệm để giảm tải.",
+      "ipa": "/ˈmɪt.ɪ.ɡeɪt/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "reduce"
+    ],
+    "afterSynonyms": [
+      "reduce",
+      "alleviate"
+    ]
+  },
+  {
+    "file": "seed_words.json",
     "word": "moderate",
     "reason": "Add the verified pronunciation of this secondary meaning.",
     "before": {
@@ -12165,6 +15059,106 @@
         "exampleVi": "Cô ấy kiểm duyệt diễn đàn.",
         "ipa": "/ˈmɒd.ər.eɪt/"
       }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "notice",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "nhận thấy",
+      "example": "Did you notice anything strange?",
+      "exampleVi": "Bạn có nhận thấy điều gì lạ không?",
+      "ipa": "/ˈnəʊ.tɪs/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "nhận thấy",
+      "example": "Did you notice anything strange?",
+      "exampleVi": "Bạn có nhận thấy điều gì lạ không?",
+      "ipa": "/ˈnəʊ.tɪs/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "thông báo, thời hạn báo trước",
+        "example": "She gave two weeks notice.",
+        "exampleVi": "Cô ấy báo trước hai tuần.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "thông báo, thời hạn báo trước",
+        "example": "She gave two weeks notice.",
+        "exampleVi": "Cô ấy báo trước hai tuần.",
+        "ipa": ""
+      },
+      {
+        "pos": "noun",
+        "meaningVi": "sự chú ý hoặc nhận biết",
+        "example": "The small error escaped our notice.",
+        "exampleVi": "Lỗi nhỏ đó không được chúng tôi nhận ra.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "obsolete",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "lỗi thời",
+      "example": "That format is now obsolete.",
+      "exampleVi": "Định dạng đó giờ đã lỗi thời.",
+      "ipa": "/ˈɒb.sə.liːt/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "lỗi thời",
+      "example": "That format is now obsolete.",
+      "exampleVi": "Định dạng đó giờ đã lỗi thời.",
+      "ipa": "/ˈɒb.sə.liːt/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "outdated"
+    ],
+    "afterSynonyms": [
+      "outdated",
+      "outmoded"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "obtain",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "có được, thu được",
+      "example": "You must obtain permission first.",
+      "exampleVi": "Bạn phải xin phép trước.",
+      "ipa": "/əbˈteɪn/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "có được, thu được",
+      "example": "You must obtain permission first.",
+      "exampleVi": "Bạn phải xin phép trước.",
+      "ipa": "/əbˈteɪn/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "acquire"
+    ],
+    "afterSynonyms": [
+      "acquire",
+      "get"
     ]
   },
   {
@@ -12206,6 +15200,34 @@
   },
   {
     "file": "seed_words.json",
+    "word": "optimal",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "tối ưu",
+      "example": "This is the optimal temperature.",
+      "exampleVi": "Đây là nhiệt độ tối ưu.",
+      "ipa": "/ˈɒp.tɪ.məl/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "tối ưu",
+      "example": "This is the optimal temperature.",
+      "exampleVi": "Đây là nhiệt độ tối ưu.",
+      "ipa": "/ˈɒp.tɪ.məl/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "best"
+    ],
+    "afterSynonyms": [
+      "best",
+      "ideal"
+    ]
+  },
+  {
+    "file": "seed_words.json",
     "word": "outlier",
     "reason": "Correct reviewed definition, pronunciation or bilingual context.",
     "before": {
@@ -12239,6 +15261,274 @@
         "exampleVi": "Là nghệ sĩ duy nhất trong gia đình toàn kỹ sư, cô ấy là một trường hợp khác biệt.",
         "ipa": ""
       }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "outsource",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "thuê ngoài",
+      "example": "They outsource customer support.",
+      "exampleVi": "Họ thuê ngoài bộ phận hỗ trợ khách hàng.",
+      "ipa": "/ˈaʊt.sɔːs/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "thuê ngoài",
+      "example": "They outsource customer support.",
+      "exampleVi": "Họ thuê ngoài bộ phận hỗ trợ khách hàng.",
+      "ipa": "/ˈaʊt.sɔːs/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [],
+    "afterSynonyms": [
+      "contract out"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "persuade",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "thuyết phục ai làm gì",
+      "example": "We persuaded him to stay one more night.",
+      "exampleVi": "Chúng tôi thuyết phục anh ấy ở lại thêm một đêm.",
+      "ipa": "/pəˈsweɪd/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "thuyết phục ai làm gì",
+      "example": "We persuaded him to stay one more night.",
+      "exampleVi": "Chúng tôi thuyết phục anh ấy ở lại thêm một đêm.",
+      "ipa": "/pəˈsweɪd/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [],
+    "afterSynonyms": [
+      "convince"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "pitch",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "bài thuyết trình chào hàng",
+      "example": "The pitch lasted fifteen minutes.",
+      "exampleVi": "Bài thuyết trình kéo dài mười lăm phút.",
+      "ipa": "/pɪtʃ/"
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "bài thuyết trình chào hàng",
+      "example": "The pitch lasted fifteen minutes.",
+      "exampleVi": "Bài thuyết trình kéo dài mười lăm phút.",
+      "ipa": "/pɪtʃ/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sân bóng",
+        "example": "The pitch was wet after the rain.",
+        "exampleVi": "Sân bóng ướt sau cơn mưa.",
+        "ipa": ""
+      },
+      {
+        "pos": "noun",
+        "meaningVi": "cao độ (âm thanh)",
+        "example": "Her voice rose in pitch.",
+        "exampleVi": "Giọng cô ấy lên cao dần.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "sân bóng",
+        "example": "The pitch was wet after the rain.",
+        "exampleVi": "Sân bóng ướt sau cơn mưa.",
+        "ipa": ""
+      },
+      {
+        "pos": "noun",
+        "meaningVi": "cao độ (âm thanh)",
+        "example": "Her voice rose in pitch.",
+        "exampleVi": "Giọng cô ấy lên cao dần.",
+        "ipa": ""
+      },
+      {
+        "pos": "verb",
+        "meaningVi": "trình bày một ý tưởng nhằm thuyết phục người nghe",
+        "example": "She pitched the idea to several investors.",
+        "exampleVi": "Cô ấy trình bày ý tưởng để thuyết phục một số nhà đầu tư.",
+        "ipa": ""
+      },
+      {
+        "pos": "verb",
+        "meaningVi": "ném hoặc chuyền một vật, đặc biệt là bóng",
+        "example": "The player pitched the ball toward home plate.",
+        "exampleVi": "Cầu thủ ném bóng về phía gôn nhà.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "polite",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "lịch sự",
+      "example": "He was polite but not friendly.",
+      "exampleVi": "Anh ta lịch sự nhưng không thân thiện.",
+      "ipa": "/pəˈlaɪt/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "lịch sự",
+      "example": "He was polite but not friendly.",
+      "exampleVi": "Anh ta lịch sự nhưng không thân thiện.",
+      "ipa": "/pəˈlaɪt/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "courteous"
+    ],
+    "afterSynonyms": [
+      "courteous",
+      "well-mannered"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "postpone",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "hoãn lại",
+      "example": "The match was postponed until Sunday.",
+      "exampleVi": "Trận đấu bị hoãn tới Chủ nhật.",
+      "ipa": "/pəʊstˈpəʊn/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "hoãn lại",
+      "example": "The match was postponed until Sunday.",
+      "exampleVi": "Trận đấu bị hoãn tới Chủ nhật.",
+      "ipa": "/pəʊstˈpəʊn/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "delay"
+    ],
+    "afterSynonyms": [
+      "delay",
+      "put off"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "potential",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "tiềm năng",
+      "example": "She has great potential as a writer.",
+      "exampleVi": "Cô ấy có tiềm năng lớn để trở thành nhà văn.",
+      "ipa": "/pəˈten.ʃəl/"
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "tiềm năng",
+      "example": "She has great potential as a writer.",
+      "exampleVi": "Cô ấy có tiềm năng lớn để trở thành nhà văn.",
+      "ipa": "/pəˈten.ʃəl/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "hiệu điện thế trong vật lý",
+        "example": "The voltmeter measures the electric potential difference between these two points.",
+        "exampleVi": "Vôn kế đo hiệu điện thế giữa hai điểm này.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "hiệu điện thế trong vật lý",
+        "example": "The voltmeter measures the electric potential difference between these two points.",
+        "exampleVi": "Vôn kế đo hiệu điện thế giữa hai điểm này.",
+        "ipa": ""
+      },
+      {
+        "pos": "adjective",
+        "meaningVi": "có thể xảy ra hoặc trở thành hiện thực trong tương lai",
+        "example": "We discussed the potential risks.",
+        "exampleVi": "Chúng tôi thảo luận những rủi ro có thể xảy ra.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "predict",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "dự đoán",
+      "example": "No one can predict the weather perfectly.",
+      "exampleVi": "Không ai dự đoán được thời tiết hoàn hảo.",
+      "ipa": "/prɪˈdɪkt/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "dự đoán",
+      "example": "No one can predict the weather perfectly.",
+      "exampleVi": "Không ai dự đoán được thời tiết hoàn hảo.",
+      "ipa": "/prɪˈdɪkt/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "forecast"
+    ],
+    "afterSynonyms": [
+      "forecast",
+      "foresee"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "prefer",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "thích hơn",
+      "example": "I prefer tea to coffee.",
+      "exampleVi": "Tôi thích trà hơn cà phê.",
+      "ipa": "/prɪˈfɜːr/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "thích hơn",
+      "example": "I prefer tea to coffee.",
+      "exampleVi": "Tôi thích trà hơn cà phê.",
+      "ipa": "/prɪˈfɜːr/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [],
+    "afterSynonyms": [
+      "favor"
     ]
   },
   {
@@ -12312,6 +15602,264 @@
         "example": "The company plans to prospect for copper in the northern hills.",
         "exampleVi": "Công ty dự định thăm dò đồng ở vùng đồi phía bắc.",
         "ipa": "/prəˈspekt/"
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "prosper",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "thịnh vượng",
+      "example": "The town prospered after the railway came.",
+      "exampleVi": "Thị trấn thịnh vượng sau khi có đường sắt.",
+      "ipa": "/ˈprɒs.pər/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "thịnh vượng",
+      "example": "The town prospered after the railway came.",
+      "exampleVi": "Thị trấn thịnh vượng sau khi có đường sắt.",
+      "ipa": "/ˈprɒs.pər/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "thrive"
+    ],
+    "afterSynonyms": [
+      "thrive",
+      "flourish"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "provisional",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "tạm thời",
+      "example": "This is a provisional schedule.",
+      "exampleVi": "Đây là lịch tạm thời.",
+      "ipa": "/prəˈvɪʒ.ən.əl/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "tạm thời",
+      "example": "This is a provisional schedule.",
+      "exampleVi": "Đây là lịch tạm thời.",
+      "ipa": "/prəˈvɪʒ.ən.əl/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "temporary"
+    ],
+    "afterSynonyms": [
+      "temporary",
+      "interim"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "punish",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "trừng phạt",
+      "example": "The child was punished for lying.",
+      "exampleVi": "Đứa trẻ bị phạt vì nói dối.",
+      "ipa": "/ˈpʌn.ɪʃ/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "trừng phạt",
+      "example": "The child was punished for lying.",
+      "exampleVi": "Đứa trẻ bị phạt vì nói dối.",
+      "ipa": "/ˈpʌn.ɪʃ/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "penalize"
+    ],
+    "afterSynonyms": [
+      "penalize",
+      "discipline"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "query",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "câu truy vấn",
+      "example": "This query takes three seconds to run.",
+      "exampleVi": "Câu truy vấn này chạy mất ba giây.",
+      "ipa": "/ˈkwɪə.ri/"
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "câu truy vấn",
+      "example": "This query takes three seconds to run.",
+      "exampleVi": "Câu truy vấn này chạy mất ba giây.",
+      "ipa": "/ˈkwɪə.ri/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "câu hỏi, thắc mắc",
+        "example": "Send any queries to my inbox.",
+        "exampleVi": "Có thắc mắc gì thì gửi vào hộp thư của tôi.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "câu hỏi, thắc mắc",
+        "example": "Send any queries to my inbox.",
+        "exampleVi": "Có thắc mắc gì thì gửi vào hộp thư của tôi.",
+        "ipa": ""
+      },
+      {
+        "pos": "verb",
+        "meaningVi": "đặt câu hỏi hoặc bày tỏ nghi ngờ về tính đúng đắn",
+        "example": "The customer queried a charge on the bill.",
+        "exampleVi": "Khách hàng thắc mắc về một khoản phí trên hóa đơn.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "raise",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "việc tăng lương",
+      "example": "She asked for a raise.",
+      "exampleVi": "Cô ấy đề nghị tăng lương.",
+      "ipa": "/reɪz/"
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "việc tăng lương",
+      "example": "She asked for a raise.",
+      "exampleVi": "Cô ấy đề nghị tăng lương.",
+      "ipa": "/reɪz/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "nâng lên, giơ lên",
+        "example": "Raise your hand if you agree.",
+        "exampleVi": "Giơ tay nếu bạn đồng ý.",
+        "ipa": ""
+      },
+      {
+        "pos": "verb",
+        "meaningVi": "nuôi dạy (con cái)",
+        "example": "They raised three children here.",
+        "exampleVi": "Họ nuôi ba đứa con lớn lên ở đây.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "nâng lên, giơ lên",
+        "example": "Raise your hand if you agree.",
+        "exampleVi": "Giơ tay nếu bạn đồng ý.",
+        "ipa": ""
+      },
+      {
+        "pos": "verb",
+        "meaningVi": "nuôi dạy (con cái)",
+        "example": "They raised three children here.",
+        "exampleVi": "Họ nuôi ba đứa con lớn lên ở đây.",
+        "ipa": ""
+      },
+      {
+        "pos": "verb",
+        "meaningVi": "quyên góp hoặc huy động tiền",
+        "example": "The event raised money for the hospital.",
+        "exampleVi": "Sự kiện gây quỹ cho bệnh viện.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "rarely",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adverb",
+      "meaningVi": "hiếm khi",
+      "example": "He rarely goes out during the week.",
+      "exampleVi": "Anh ấy hiếm khi ra ngoài trong tuần.",
+      "ipa": "/ˈreə.li/"
+    },
+    "after": {
+      "pos": "adverb",
+      "meaningVi": "hiếm khi",
+      "example": "He rarely goes out during the week.",
+      "exampleVi": "Anh ấy hiếm khi ra ngoài trong tuần.",
+      "ipa": "/ˈreə.li/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "seldom"
+    ],
+    "afterSynonyms": [
+      "seldom",
+      "infrequently"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "recall",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "nhớ lại",
+      "example": "I cannot recall his name.",
+      "exampleVi": "Tôi không nhớ nổi tên anh ta.",
+      "ipa": "/rɪˈkɔːl/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "nhớ lại",
+      "example": "I cannot recall his name.",
+      "exampleVi": "Tôi không nhớ nổi tên anh ta.",
+      "ipa": "/rɪˈkɔːl/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "thu hồi (sản phẩm lỗi)",
+        "example": "The maker recalled ten thousand units.",
+        "exampleVi": "Nhà sản xuất thu hồi mười nghìn sản phẩm.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "thu hồi (sản phẩm lỗi)",
+        "example": "The maker recalled ten thousand units.",
+        "exampleVi": "Nhà sản xuất thu hồi mười nghìn sản phẩm.",
+        "ipa": ""
+      },
+      {
+        "pos": "noun",
+        "meaningVi": "đợt thu hồi sản phẩm do có vấn đề hoặc không an toàn",
+        "example": "The manufacturer announced a recall of the faulty batteries.",
+        "exampleVi": "Nhà sản xuất công bố đợt thu hồi những viên pin lỗi.",
+        "ipa": ""
       }
     ]
   },
@@ -12391,6 +15939,455 @@
   },
   {
     "file": "seed_words.json",
+    "word": "relevant",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "liên quan, phù hợp",
+      "example": "Please keep your comments relevant.",
+      "exampleVi": "Xin giữ các ý kiến đúng trọng tâm.",
+      "ipa": "/ˈrel.ə.vənt/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "liên quan, phù hợp",
+      "example": "Please keep your comments relevant.",
+      "exampleVi": "Xin giữ các ý kiến đúng trọng tâm.",
+      "ipa": "/ˈrel.ə.vənt/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "pertinent"
+    ],
+    "afterSynonyms": [
+      "pertinent",
+      "applicable"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "reluctant",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "miễn cưỡng",
+      "example": "He was reluctant to talk about it.",
+      "exampleVi": "Anh ấy miễn cưỡng khi nói về chuyện đó.",
+      "ipa": "/rɪˈlʌk.tənt/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "miễn cưỡng",
+      "example": "He was reluctant to talk about it.",
+      "exampleVi": "Anh ấy miễn cưỡng khi nói về chuyện đó.",
+      "ipa": "/rɪˈlʌk.tənt/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "unwilling"
+    ],
+    "afterSynonyms": [
+      "unwilling",
+      "hesitant"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "remind",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "nhắc nhở",
+      "example": "Remind me to call the doctor.",
+      "exampleVi": "Nhắc tôi gọi bác sĩ nhé.",
+      "ipa": "/rɪˈmaɪnd/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "nhắc nhở",
+      "example": "Remind me to call the doctor.",
+      "exampleVi": "Nhắc tôi gọi bác sĩ nhé.",
+      "ipa": "/rɪˈmaɪnd/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [],
+    "afterSynonyms": [
+      "prompt"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "remote",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "làm việc từ xa",
+      "example": "The role is fully remote.",
+      "exampleVi": "Vị trí này làm việc từ xa hoàn toàn.",
+      "ipa": "/rɪˈməʊt/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "làm việc từ xa",
+      "example": "The role is fully remote.",
+      "exampleVi": "Vị trí này làm việc từ xa hoàn toàn.",
+      "ipa": "/rɪˈməʊt/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "hẻo lánh, xa xôi",
+        "example": "A remote village in the north.",
+        "exampleVi": "Một ngôi làng hẻo lánh ở phía bắc.",
+        "ipa": ""
+      },
+      {
+        "pos": "noun",
+        "meaningVi": "điều khiển từ xa",
+        "example": "The remote needs new batteries.",
+        "exampleVi": "Cái điều khiển cần thay pin.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "adjective",
+        "meaningVi": "hẻo lánh, xa xôi",
+        "example": "A remote village in the north.",
+        "exampleVi": "Một ngôi làng hẻo lánh ở phía bắc.",
+        "ipa": ""
+      },
+      {
+        "pos": "noun",
+        "meaningVi": "điều khiển từ xa",
+        "example": "The remote needs new batteries.",
+        "exampleVi": "Cái điều khiển cần thay pin.",
+        "ipa": ""
+      },
+      {
+        "pos": "adjective",
+        "meaningVi": "rất ít khả năng xảy ra",
+        "example": "There is only a remote chance of rain.",
+        "exampleVi": "Khả năng có mưa là rất thấp.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "render",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "kết xuất, vẽ ra",
+      "example": "The list renders in under a frame.",
+      "exampleVi": "Danh sách được vẽ ra trong chưa tới một khung hình.",
+      "ipa": "/ˈren.dər/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "kết xuất, vẽ ra",
+      "example": "The list renders in under a frame.",
+      "exampleVi": "Danh sách được vẽ ra trong chưa tới một khung hình.",
+      "ipa": "/ˈren.dər/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "làm cho trở nên",
+        "example": "The bug rendered the app unusable.",
+        "exampleVi": "Lỗi đó khiến ứng dụng không dùng được.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "làm cho trở nên",
+        "example": "The bug rendered the app unusable.",
+        "exampleVi": "Lỗi đó khiến ứng dụng không dùng được.",
+        "ipa": ""
+      },
+      {
+        "pos": "verb",
+        "meaningVi": "dịch hoặc thể hiện một nội dung sang ngôn ngữ khác",
+        "example": "The poem was rendered into English.",
+        "exampleVi": "Bài thơ được dịch sang tiếng Anh.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "replace",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "thay thế",
+      "example": "We need to replace the old printer.",
+      "exampleVi": "Chúng ta cần thay chiếc máy in cũ.",
+      "ipa": "/rɪˈpleɪs/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "thay thế",
+      "example": "We need to replace the old printer.",
+      "exampleVi": "Chúng ta cần thay chiếc máy in cũ.",
+      "ipa": "/rɪˈpleɪs/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [],
+    "afterSynonyms": [
+      "substitute"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "require",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "yêu cầu, đòi hỏi",
+      "example": "This job requires a driving licence.",
+      "exampleVi": "Công việc này yêu cầu bằng lái xe.",
+      "ipa": "/rɪˈkwaɪər/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "yêu cầu, đòi hỏi",
+      "example": "This job requires a driving licence.",
+      "exampleVi": "Công việc này yêu cầu bằng lái xe.",
+      "ipa": "/rɪˈkwaɪər/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "need"
+    ],
+    "afterSynonyms": [
+      "need",
+      "call for"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "reschedule",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "dời lịch",
+      "example": "Can we reschedule to Thursday?",
+      "exampleVi": "Chúng ta dời sang thứ Năm được không?",
+      "ipa": "/ˌriːˈʃed.juːl/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "dời lịch",
+      "example": "Can we reschedule to Thursday?",
+      "exampleVi": "Chúng ta dời sang thứ Năm được không?",
+      "ipa": "/ˌriːˈʃed.juːl/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [],
+    "afterSynonyms": [
+      "rearrange"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "resilience",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "khả năng chịu lỗi",
+      "example": "We tested the system for resilience.",
+      "exampleVi": "Chúng tôi kiểm tra khả năng chịu lỗi của hệ thống.",
+      "ipa": "/rɪˈzɪl.i.əns/"
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "khả năng chịu lỗi",
+      "example": "We tested the system for resilience.",
+      "exampleVi": "Chúng tôi kiểm tra khả năng chịu lỗi của hệ thống.",
+      "ipa": "/rɪˈzɪl.i.əns/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "khả năng bật trở lại của vật liệu sau khi bị nén",
+        "example": "The foam's resilience allows it to recover its shape after compression.",
+        "exampleVi": "Tính đàn hồi của bọt xốp giúp nó lấy lại hình dạng sau khi bị nén.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "khả năng bật trở lại của vật liệu sau khi bị nén",
+        "example": "The foam's resilience allows it to recover its shape after compression.",
+        "exampleVi": "Tính đàn hồi của bọt xốp giúp nó lấy lại hình dạng sau khi bị nén.",
+        "ipa": ""
+      },
+      {
+        "pos": "noun",
+        "meaningVi": "khả năng hồi phục và thích nghi sau khó khăn hoặc tổn thất",
+        "example": "Her resilience helped her rebuild her life.",
+        "exampleVi": "Sự kiên cường giúp cô ấy xây dựng lại cuộc sống.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "restrict",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "hạn chế",
+      "example": "Access is restricted to staff.",
+      "exampleVi": "Chỉ nhân viên mới được vào.",
+      "ipa": "/rɪˈstrɪkt/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "hạn chế",
+      "example": "Access is restricted to staff.",
+      "exampleVi": "Chỉ nhân viên mới được vào.",
+      "ipa": "/rɪˈstrɪkt/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "limit"
+    ],
+    "afterSynonyms": [
+      "limit",
+      "constrain"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "review",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "buổi rà soát mã",
+      "example": "Your pull request needs one more review.",
+      "exampleVi": "Pull request của bạn cần thêm một lượt rà soát.",
+      "ipa": "/rɪˈvjuː/"
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "buổi rà soát mã",
+      "example": "Your pull request needs one more review.",
+      "exampleVi": "Pull request của bạn cần thêm một lượt rà soát.",
+      "ipa": "/rɪˈvjuː/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "bài phê bình, bài đánh giá",
+        "example": "The film got a harsh review.",
+        "exampleVi": "Bộ phim nhận một bài phê bình gay gắt.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "bài phê bình, bài đánh giá",
+        "example": "The film got a harsh review.",
+        "exampleVi": "Bộ phim nhận một bài phê bình gay gắt.",
+        "ipa": ""
+      },
+      {
+        "pos": "verb",
+        "meaningVi": "xem xét hoặc đánh giá lại một nội dung",
+        "example": "We will review the plan next week.",
+        "exampleVi": "Chúng tôi sẽ xem xét lại kế hoạch vào tuần sau.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "scarce",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "khan hiếm",
+      "example": "Clean water is scarce in the region.",
+      "exampleVi": "Nước sạch khan hiếm ở vùng này.",
+      "ipa": "/skeəs/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "khan hiếm",
+      "example": "Clean water is scarce in the region.",
+      "exampleVi": "Nước sạch khan hiếm ở vùng này.",
+      "ipa": "/skeəs/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "rare"
+    ],
+    "afterSynonyms": [
+      "rare",
+      "in short supply"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "secure",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "an toàn, chắc chắn",
+      "example": "Make sure the ladder is secure.",
+      "exampleVi": "Hãy chắc chắn cái thang được cố định chắc.",
+      "ipa": "/sɪˈkjʊər/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "an toàn, chắc chắn",
+      "example": "Make sure the ladder is secure.",
+      "exampleVi": "Hãy chắc chắn cái thang được cố định chắc.",
+      "ipa": "/sɪˈkjʊər/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "giành được, đảm bảo có được",
+        "example": "They secured the contract.",
+        "exampleVi": "Họ giành được hợp đồng.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "giành được, đảm bảo có được",
+        "example": "They secured the contract.",
+        "exampleVi": "Họ giành được hợp đồng.",
+        "ipa": ""
+      },
+      {
+        "pos": "verb",
+        "meaningVi": "buộc hoặc cố định chắc chắn",
+        "example": "Secure the ladder before climbing.",
+        "exampleVi": "Cố định thang chắc chắn trước khi leo.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
     "word": "segment",
     "reason": "Add the verified pronunciation of this secondary meaning.",
     "before": {
@@ -12460,7 +16457,480 @@
         "example": "This jacket is sold as a separate, so you can pair it with different trousers.",
         "exampleVi": "Chiếc áo khoác này được bán riêng, nên bạn có thể phối với những chiếc quần khác nhau.",
         "ipa": "/ˈsep.ər.ət/"
+      },
+      {
+        "pos": "adjective",
+        "meaningVi": "riêng biệt, không nối hoặc gộp với nhau",
+        "example": "The two teams have separate offices.",
+        "exampleVi": "Hai nhóm có văn phòng riêng biệt.",
+        "ipa": "/ˈsep.ər.ət/"
       }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "shift",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "ca làm, sự chuyển dịch",
+      "example": "He works the night shift.",
+      "exampleVi": "Anh ấy làm ca đêm.",
+      "ipa": "/ʃɪft/"
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "ca làm, sự chuyển dịch",
+      "example": "He works the night shift.",
+      "exampleVi": "Anh ấy làm ca đêm.",
+      "ipa": "/ʃɪft/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "chuyển số khi lái xe",
+        "example": "Shift into a lower gear before driving down the steep hill.",
+        "exampleVi": "Hãy chuyển sang số thấp hơn trước khi lái xe xuống dốc đứng.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "chuyển số khi lái xe",
+        "example": "Shift into a lower gear before driving down the steep hill.",
+        "exampleVi": "Hãy chuyển sang số thấp hơn trước khi lái xe xuống dốc đứng.",
+        "ipa": ""
+      },
+      {
+        "pos": "verb",
+        "meaningVi": "di chuyển hoặc thay đổi vị trí, hướng hay trọng tâm",
+        "example": "The discussion shifted to the budget.",
+        "exampleVi": "Cuộc thảo luận chuyển sang ngân sách.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "shortage",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "sự khan hiếm nguồn cung",
+      "example": "There is a shortage of nurses.",
+      "exampleVi": "Đang thiếu hụt y tá.",
+      "ipa": "/ˈʃɔː.tɪdʒ/"
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "sự khan hiếm nguồn cung",
+      "example": "There is a shortage of nurses.",
+      "exampleVi": "Đang thiếu hụt y tá.",
+      "ipa": "/ˈʃɔː.tɪdʒ/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "scarcity"
+    ],
+    "afterSynonyms": [
+      "scarcity",
+      "shortfall"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "similar",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "tương tự",
+      "example": "Our opinions are quite similar.",
+      "exampleVi": "Quan điểm của chúng tôi khá tương tự nhau.",
+      "ipa": "/ˈsɪm.ɪ.lər/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "tương tự",
+      "example": "Our opinions are quite similar.",
+      "exampleVi": "Quan điểm của chúng tôi khá tương tự nhau.",
+      "ipa": "/ˈsɪm.ɪ.lər/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "alike"
+    ],
+    "afterSynonyms": [
+      "alike",
+      "comparable"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "sincere",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "chân thành",
+      "example": "Please accept my sincere apologies.",
+      "exampleVi": "Xin nhận lời xin lỗi chân thành của tôi.",
+      "ipa": "/sɪnˈsɪər/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "chân thành",
+      "example": "Please accept my sincere apologies.",
+      "exampleVi": "Xin nhận lời xin lỗi chân thành của tôi.",
+      "ipa": "/sɪnˈsɪər/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "genuine"
+    ],
+    "afterSynonyms": [
+      "genuine",
+      "heartfelt"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "solve",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "giải (bài toán, vấn đề)",
+      "example": "We solved the problem in an hour.",
+      "exampleVi": "Chúng tôi giải quyết vấn đề trong một giờ.",
+      "ipa": "/sɒlv/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "giải (bài toán, vấn đề)",
+      "example": "We solved the problem in an hour.",
+      "exampleVi": "Chúng tôi giải quyết vấn đề trong một giờ.",
+      "ipa": "/sɒlv/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "resolve"
+    ],
+    "afterSynonyms": [
+      "resolve",
+      "work out"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "strict",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "nghiêm khắc",
+      "example": "My parents were very strict.",
+      "exampleVi": "Bố mẹ tôi rất nghiêm khắc.",
+      "ipa": "/strɪkt/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "nghiêm khắc",
+      "example": "My parents were very strict.",
+      "exampleVi": "Bố mẹ tôi rất nghiêm khắc.",
+      "ipa": "/strɪkt/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "stern"
+    ],
+    "afterSynonyms": [
+      "stern",
+      "firm"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "stringent",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "khắt khe",
+      "example": "The rules are quite stringent.",
+      "exampleVi": "Các quy định khá khắt khe.",
+      "ipa": "/ˈstrɪn.dʒənt/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "khắt khe",
+      "example": "The rules are quite stringent.",
+      "exampleVi": "Các quy định khá khắt khe.",
+      "ipa": "/ˈstrɪn.dʒənt/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "strict"
+    ],
+    "afterSynonyms": [
+      "strict",
+      "rigorous"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "sufficient",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "đủ",
+      "example": "We do not have sufficient evidence.",
+      "exampleVi": "Chúng ta không có đủ bằng chứng.",
+      "ipa": "/səˈfɪʃ.ənt/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "đủ",
+      "example": "We do not have sufficient evidence.",
+      "exampleVi": "Chúng ta không có đủ bằng chứng.",
+      "ipa": "/səˈfɪʃ.ənt/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "adequate"
+    ],
+    "afterSynonyms": [
+      "adequate",
+      "enough"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "suggest",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "đề nghị, gợi ý",
+      "example": "I suggest we leave early to avoid traffic.",
+      "exampleVi": "Tôi đề nghị chúng ta đi sớm để tránh kẹt xe.",
+      "ipa": "/səˈdʒest/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "đề nghị, gợi ý",
+      "example": "I suggest we leave early to avoid traffic.",
+      "exampleVi": "Tôi đề nghị chúng ta đi sớm để tránh kẹt xe.",
+      "ipa": "/səˈdʒest/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "cho thấy hoặc hàm ý một điều mà không nói trực tiếp",
+        "example": "The evidence suggests that the door was left open.",
+        "exampleVi": "Bằng chứng cho thấy cửa đã bị để mở.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "suitable",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "phù hợp",
+      "example": "This film is not suitable for children.",
+      "exampleVi": "Bộ phim này không phù hợp với trẻ em.",
+      "ipa": "/ˈsuː.tə.bəl/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "phù hợp",
+      "example": "This film is not suitable for children.",
+      "exampleVi": "Bộ phim này không phù hợp với trẻ em.",
+      "ipa": "/ˈsuː.tə.bəl/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "appropriate"
+    ],
+    "afterSynonyms": [
+      "appropriate",
+      "fitting"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "summarize",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "tóm tắt",
+      "example": "Could you summarize the article?",
+      "exampleVi": "Bạn tóm tắt bài báo được không?",
+      "ipa": "/ˈsʌm.ər.aɪz/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "tóm tắt",
+      "example": "Could you summarize the article?",
+      "exampleVi": "Bạn tóm tắt bài báo được không?",
+      "ipa": "/ˈsʌm.ər.aɪz/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "sum up"
+    ],
+    "afterSynonyms": [
+      "sum up",
+      "recap"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "supersede",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "thay thế, thế chỗ",
+      "example": "This version supersedes the old one.",
+      "exampleVi": "Phiên bản này thay thế bản cũ.",
+      "ipa": "/ˌsuː.pəˈsiːd/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "thay thế, thế chỗ",
+      "example": "This version supersedes the old one.",
+      "exampleVi": "Phiên bản này thay thế bản cũ.",
+      "ipa": "/ˌsuː.pəˈsiːd/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "replace"
+    ],
+    "afterSynonyms": [
+      "replace",
+      "displace"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "supply",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "noun",
+      "meaningVi": "nguồn cung",
+      "example": "The water supply was cut off.",
+      "exampleVi": "Nguồn cung cấp nước đã bị cắt.",
+      "ipa": "/səˈplaɪ/"
+    },
+    "after": {
+      "pos": "noun",
+      "meaningVi": "nguồn cung",
+      "example": "The water supply was cut off.",
+      "exampleVi": "Nguồn cung cấp nước đã bị cắt.",
+      "ipa": "/səˈplaɪ/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "cung cấp",
+        "example": "They supply parts to three plants.",
+        "exampleVi": "Họ cung cấp linh kiện cho ba nhà máy.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "cung cấp",
+        "example": "They supply parts to three plants.",
+        "exampleVi": "Họ cung cấp linh kiện cho ba nhà máy.",
+        "ipa": ""
+      }
+    ],
+    "beforeSynonyms": [],
+    "afterSynonyms": [
+      "provision"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "support",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "ủng hộ, hỗ trợ",
+      "example": "My family supported my decision.",
+      "exampleVi": "Gia đình ủng hộ quyết định của tôi.",
+      "ipa": "/səˈpɔːt/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "ủng hộ, hỗ trợ",
+      "example": "My family supported my decision.",
+      "exampleVi": "Gia đình ủng hộ quyết định của tôi.",
+      "ipa": "/səˈpɔːt/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "bộ phận hỗ trợ khách hàng",
+        "example": "Contact support about the error.",
+        "exampleVi": "Liên hệ bộ phận hỗ trợ về lỗi đó.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "bộ phận hỗ trợ khách hàng",
+        "example": "Contact support about the error.",
+        "exampleVi": "Liên hệ bộ phận hỗ trợ về lỗi đó.",
+        "ipa": ""
+      },
+      {
+        "pos": "noun",
+        "meaningVi": "vật hoặc kết cấu dùng để chống đỡ",
+        "example": "The shelf needs an extra support.",
+        "exampleVi": "Kệ cần thêm một giá đỡ.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "surround",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "bao quanh",
+      "example": "Trees surround the house.",
+      "exampleVi": "Cây cối bao quanh ngôi nhà.",
+      "ipa": "/səˈraʊnd/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "bao quanh",
+      "example": "Trees surround the house.",
+      "exampleVi": "Cây cối bao quanh ngôi nhà.",
+      "ipa": "/səˈraʊnd/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "encircle"
+    ],
+    "afterSynonyms": [
+      "encircle",
+      "enclose"
     ]
   },
   {
@@ -12498,6 +16968,53 @@
         "exampleVi": "Cảnh sát thả nghi phạm.",
         "ipa": "/ˈsʌs.pekt/"
       }
+    ],
+    "beforeSynonyms": [
+      "doubt"
+    ],
+    "afterSynonyms": [
+      "suppose"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "tend",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "có xu hướng",
+      "example": "People tend to eat more in winter.",
+      "exampleVi": "Người ta có xu hướng ăn nhiều hơn vào mùa đông.",
+      "ipa": "/tend/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "có xu hướng",
+      "example": "People tend to eat more in winter.",
+      "exampleVi": "Người ta có xu hướng ăn nhiều hơn vào mùa đông.",
+      "ipa": "/tend/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "chăm sóc người bệnh hoặc cây cối",
+        "example": "The nurse stayed late to tend the injured patient.",
+        "exampleVi": "Y tá ở lại muộn để chăm sóc bệnh nhân bị thương.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "chăm sóc người bệnh hoặc cây cối",
+        "example": "The nurse stayed late to tend the injured patient.",
+        "exampleVi": "Y tá ở lại muộn để chăm sóc bệnh nhân bị thương.",
+        "ipa": ""
+      }
+    ],
+    "beforeSynonyms": [],
+    "afterSynonyms": [
+      "be inclined"
     ]
   },
   {
@@ -12549,6 +17066,331 @@
         "exampleVi": "Học sinh mới chuyển đến gia nhập lớp chúng tôi vào thứ Hai.",
         "ipa": "/ˈtræns.fɜː/"
       }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "translate",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "dịch",
+      "example": "Can you translate this into Vietnamese?",
+      "exampleVi": "Bạn dịch cái này sang tiếng Việt được không?",
+      "ipa": "/trænzˈleɪt/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "dịch",
+      "example": "Can you translate this into Vietnamese?",
+      "exampleVi": "Bạn dịch cái này sang tiếng Việt được không?",
+      "ipa": "/trænzˈleɪt/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "dịch chuyển một hình trong hình học",
+        "example": "Translate the triangle three units to the right without rotating it.",
+        "exampleVi": "Hãy tịnh tiến tam giác sang phải ba đơn vị mà không xoay nó.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "dịch chuyển một hình trong hình học",
+        "example": "Translate the triangle three units to the right without rotating it.",
+        "exampleVi": "Hãy tịnh tiến tam giác sang phải ba đơn vị mà không xoay nó.",
+        "ipa": ""
+      }
+    ],
+    "beforeSynonyms": [],
+    "afterSynonyms": [
+      "render"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "treat",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "đối xử, điều trị",
+      "example": "They treated us like family.",
+      "exampleVi": "Họ đối xử với chúng tôi như người nhà.",
+      "ipa": "/triːt/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "đối xử, điều trị",
+      "example": "They treated us like family.",
+      "exampleVi": "Họ đối xử với chúng tôi như người nhà.",
+      "ipa": "/triːt/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "chiêu đãi, mời",
+        "example": "Let me treat you to lunch.",
+        "exampleVi": "Để tôi mời bạn bữa trưa.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "verb",
+        "meaningVi": "chiêu đãi, mời",
+        "example": "Let me treat you to lunch.",
+        "exampleVi": "Để tôi mời bạn bữa trưa.",
+        "ipa": ""
+      },
+      {
+        "pos": "noun",
+        "meaningVi": "điều thú vị hoặc món quà đặc biệt để thưởng thức",
+        "example": "A trip to the theater was a special treat.",
+        "exampleVi": "Chuyến đi xem kịch là một niềm vui đặc biệt.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "trust",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "tin tưởng",
+      "example": "I trust her completely.",
+      "exampleVi": "Tôi hoàn toàn tin tưởng cô ấy.",
+      "ipa": "/trʌst/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "tin tưởng",
+      "example": "I trust her completely.",
+      "exampleVi": "Tôi hoàn toàn tin tưởng cô ấy.",
+      "ipa": "/trʌst/"
+    },
+    "beforeSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "quỹ tín thác",
+        "example": "The money is held in trust.",
+        "exampleVi": "Số tiền được giữ trong quỹ tín thác.",
+        "ipa": ""
+      }
+    ],
+    "afterSenses": [
+      {
+        "pos": "noun",
+        "meaningVi": "quỹ tín thác",
+        "example": "The money is held in trust.",
+        "exampleVi": "Số tiền được giữ trong quỹ tín thác.",
+        "ipa": ""
+      },
+      {
+        "pos": "noun",
+        "meaningVi": "niềm tin vào sự trung thực hoặc khả năng của ai",
+        "example": "It takes time to build trust.",
+        "exampleVi": "Cần có thời gian để xây dựng lòng tin.",
+        "ipa": ""
+      }
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "urgent",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "khẩn cấp",
+      "example": "This is an urgent matter.",
+      "exampleVi": "Đây là chuyện khẩn cấp.",
+      "ipa": "/ˈɜː.dʒənt/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "khẩn cấp",
+      "example": "This is an urgent matter.",
+      "exampleVi": "Đây là chuyện khẩn cấp.",
+      "ipa": "/ˈɜː.dʒənt/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "pressing"
+    ],
+    "afterSynonyms": [
+      "pressing",
+      "immediate"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "utilize",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "sử dụng, khai thác",
+      "example": "We should utilize the empty space.",
+      "exampleVi": "Chúng ta nên tận dụng khoảng trống đó.",
+      "ipa": "/ˈjuː.tɪ.laɪz/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "sử dụng, khai thác",
+      "example": "We should utilize the empty space.",
+      "exampleVi": "Chúng ta nên tận dụng khoảng trống đó.",
+      "ipa": "/ˈjuː.tɪ.laɪz/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "use"
+    ],
+    "afterSynonyms": [
+      "use",
+      "employ"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "vague",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "mơ hồ",
+      "example": "His answer was rather vague.",
+      "exampleVi": "Câu trả lời của anh ta khá mơ hồ.",
+      "ipa": "/veɪɡ/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "mơ hồ",
+      "example": "His answer was rather vague.",
+      "exampleVi": "Câu trả lời của anh ta khá mơ hồ.",
+      "ipa": "/veɪɡ/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "unclear"
+    ],
+    "afterSynonyms": [
+      "unclear",
+      "imprecise"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "verify",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "verb",
+      "meaningVi": "xác minh",
+      "example": "Please verify your email address.",
+      "exampleVi": "Vui lòng xác minh địa chỉ email của bạn.",
+      "ipa": "/ˈver.ɪ.faɪ/"
+    },
+    "after": {
+      "pos": "verb",
+      "meaningVi": "xác minh",
+      "example": "Please verify your email address.",
+      "exampleVi": "Vui lòng xác minh địa chỉ email của bạn.",
+      "ipa": "/ˈver.ɪ.faɪ/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "confirm"
+    ],
+    "afterSynonyms": [
+      "confirm",
+      "check"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "wealthy",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "giàu có",
+      "example": "He comes from a wealthy family.",
+      "exampleVi": "Anh ấy xuất thân từ một gia đình giàu có.",
+      "ipa": "/ˈwel.θi/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "giàu có",
+      "example": "He comes from a wealthy family.",
+      "exampleVi": "Anh ấy xuất thân từ một gia đình giàu có.",
+      "ipa": "/ˈwel.θi/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "rich"
+    ],
+    "afterSynonyms": [
+      "rich",
+      "affluent"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "widespread",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "lan rộng, phổ biến",
+      "example": "The disease is now widespread.",
+      "exampleVi": "Căn bệnh giờ đã lan rộng.",
+      "ipa": "/ˈwaɪd.spred/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "lan rộng, phổ biến",
+      "example": "The disease is now widespread.",
+      "exampleVi": "Căn bệnh giờ đã lan rộng.",
+      "ipa": "/ˈwaɪd.spred/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "prevalent"
+    ],
+    "afterSynonyms": [
+      "prevalent",
+      "extensive"
+    ]
+  },
+  {
+    "file": "seed_words.json",
+    "word": "willing",
+    "reason": "Correct reviewed definition, pronunciation or bilingual context.",
+    "before": {
+      "pos": "adjective",
+      "meaningVi": "sẵn lòng",
+      "example": "She is willing to help us.",
+      "exampleVi": "Cô ấy sẵn lòng giúp chúng tôi.",
+      "ipa": "/ˈwɪl.ɪŋ/"
+    },
+    "after": {
+      "pos": "adjective",
+      "meaningVi": "sẵn lòng",
+      "example": "She is willing to help us.",
+      "exampleVi": "Cô ấy sẵn lòng giúp chúng tôi.",
+      "ipa": "/ˈwɪl.ɪŋ/"
+    },
+    "beforeSenses": [],
+    "afterSenses": [],
+    "beforeSynonyms": [
+      "ready"
+    ],
+    "afterSynonyms": [
+      "ready",
+      "prepared"
     ]
   }
 ]

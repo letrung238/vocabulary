@@ -42,18 +42,18 @@ def main():
     frozen = [w for w in payload if w['word'] not in additions]
     fingerprint = hashlib.sha256(json.dumps(frozen, ensure_ascii=False, sort_keys=True,
         separators=(',', ':')).encode('utf-8')).hexdigest()
-    assert fingerprint == '1594bd4706c2008f6e6d115043b2bc7375bfbdf76dbd381963ca4cba83b2fdb9', 'Previous forms changed'
+    assert fingerprint == 'a4ed1ee53c83dd2ca13652c1f4c8388d2aa9231df294f0f14405117ab516c2f5', 'Previous forms changed'
     new_words={w['word'] for w in read(ROOT/'decks/everyday-500.json')} | phrase_additions
     previous=[w for w in payload if w['word'] not in new_words]
     previous_hash=hashlib.sha256(json.dumps(previous,ensure_ascii=False,sort_keys=True,separators=(',',':')).encode()).hexdigest()
-    assert previous_hash=='906c8f457a4a187f064460e952dea6d49c664154eb7fca82c21d3f391a966837', 'Pre-500 forms changed'
-    assert len(payload) == 4521
-    assert sum(len(w['forms']) for w in payload) == 8526
-    assert len(builder.nouns()) == 4260
-    assert sum('plural' in f['types'] for w in payload for f in w['forms']) == 3212
+    assert previous_hash=='ec3405266c1c184ebffc732436e7e49fa667a0d61d25a241b74aaf1206c42f2b', 'Pre-500 forms changed'
+    assert len(payload) == 4621
+    assert sum(len(w['forms']) for w in payload) == 8821
+    assert len(builder.nouns()) == 4280
+    assert sum('plural' in f['types'] for w in payload for f in w['forms']) == 3232
     verb_payload = [{**w, 'forms': [dict(f, types=[t for t in f['types'] if t != 'plural']) for f in w['forms'] if any(t != 'plural' for t in f['types'])]} for w in payload]
-    assert sum(bool(w['forms']) for w in verb_payload) == 1849
-    assert sum(len(w['forms']) for w in verb_payload) == 5837
+    assert sum(bool(w['forms']) for w in verb_payload) == 1946
+    assert sum(len(w['forms']) for w in verb_payload) == 6129
     lookup = {w['word']: w['forms'] for w in payload}
     words = set()
     secondary = 0
@@ -71,8 +71,8 @@ def main():
         for word in tree_entries(data):
             expected = builder.applicable_forms(word, lookup.get(word['word'], []))
             assert word.get('forms', []) == expected, (path, word['word'])
-    assert len(words) == 6668
-    assert secondary == 3244
+    assert len(words) == 6786
+    assert secondary == 3300
     verb_lemmas = set(builder.verbs())
     for word in payload:
         assert len(word['forms']) == len({f['word'] for f in word['forms']}), word
@@ -100,7 +100,7 @@ def main():
                  'leftovers','minutes','saving','graphics','integrated graphics','lessons learned',
                  'ethics','refuse','hail','cocoa']:
         assert not plural(base), (base, plural(base))
-    print(f'PASS: 6668 lexical items including nested phrases / 3244 original secondary meanings; 4260 noun entries, 3212 plural forms; 1849 verb lemmas / 5837 verb forms; all previous forms preserved; {paired} bilingual contexts; public payload and frozen rebuild match.')
+    print(f'PASS: 6786 lexical items including nested phrases / 3300 original secondary meanings; 4280 noun entries, 3232 plural forms; 1946 verb lemmas / 6129 verb forms; all previous forms preserved; {paired} bilingual contexts; public payload and frozen rebuild match.')
 
 
 if __name__ == '__main__':

@@ -9,7 +9,8 @@
     "take care of"
   ],
   "depend": [
-    "depend on"
+    "depend on",
+    "depend upon"
   ],
   "rely": [
     "rely on"
@@ -69,7 +70,8 @@
     "pay off"
   ],
   "apply": [
-    "apply for"
+    "apply for",
+    "apply to"
   ],
   "apologize": [
     "apologize for",
@@ -92,7 +94,8 @@
     "recover from"
   ],
   "benefit": [
-    "benefit from"
+    "benefit from",
+    "benefit to"
   ],
   "approve": [
     "approve of"
@@ -225,7 +228,8 @@
     "concentrate on"
   ],
   "insist": [
-    "insist on"
+    "insist on",
+    "insist that"
   ],
   "refer": [
     "refer to"
@@ -246,10 +250,12 @@
     "reply to"
   ],
   "adapt": [
-    "adapt to"
+    "adapt to",
+    "adapt for"
   ],
   "adjust": [
-    "adjust to"
+    "adjust to",
+    "adjust for"
   ],
   "account": [
     "account for"
@@ -352,17 +358,21 @@
     "worry about"
   ],
   "complain": [
-    "complain about"
+    "complain about",
+    "complain to"
   ],
   "argue": [
     "argue about",
-    "argue with"
+    "argue with",
+    "argue for",
+    "argue against"
   ],
   "participate": [
     "participate in"
   ],
   "succeed": [
-    "succeed in"
+    "succeed in",
+    "succeed to"
   ],
   "specialize": [
     "specialize in"
@@ -417,7 +427,8 @@
     "graduate from"
   ],
   "differ": [
-    "differ from"
+    "differ from",
+    "differ in"
   ],
   "derive": [
     "derive from"
@@ -430,7 +441,8 @@
   ],
   "compete": [
     "compete with",
-    "compete for"
+    "compete for",
+    "compete against"
   ],
   "struggle": [
     "struggle with",
@@ -925,7 +937,8 @@
     "curious about"
   ],
   "eager": [
-    "eager for"
+    "eager for",
+    "eager to"
   ],
   "fond": [
     "fond of"
@@ -1023,5 +1036,258 @@
   ],
   "sick": [
     "sick of"
+  ],
+  "accountable": [
+    "accountable for",
+    "accountable to"
+  ],
+  "adequate": [
+    "adequate for",
+    "adequate to"
+  ],
+  "adjacent": [
+    "adjacent to"
+  ],
+  "accuse": [
+    "accuse of"
+  ],
+  "acknowledge": [
+    "acknowledge as"
+  ],
+  "acquire": [
+    "acquire from"
+  ],
+  "admire": [
+    "admire for"
+  ],
+  "admit": [
+    "admit to"
+  ],
+  "advocate": [
+    "advocate for"
+  ],
+  "allocate": [
+    "allocate to"
+  ],
+  "approach": [
+    "approach to"
+  ],
+  "arrange": [
+    "arrange for"
+  ],
+  "aspire": [
+    "aspire to"
+  ],
+  "associate": [
+    "associate with"
+  ],
+  "attach": [
+    "attach to"
+  ],
+  "attempt": [
+    "attempt at"
+  ],
+  "attract": [
+    "attract to"
+  ],
+  "blame": [
+    "blame for",
+    "blame on"
+  ],
+  "capacity": [
+    "capacity for"
+  ],
+  "claim": [
+    "claim to"
+  ],
+  "compare": [
+    "compare with",
+    "compare to"
+  ],
+  "compensate": [
+    "compensate for"
+  ],
+  "comply": [
+    "comply with"
+  ],
+  "conceive": [
+    "conceive of"
+  ],
+  "confine": [
+    "confine to"
+  ],
+  "conform": [
+    "conform to"
+  ],
+  "consistent": [
+    "consistent with"
+  ],
+  "convenient": [
+    "convenient for"
+  ],
+  "dedicate": [
+    "dedicate to"
+  ],
+  "devote": [
+    "devote to"
+  ],
+  "distinguish": [
+    "distinguish between",
+    "distinguish from"
+  ],
+  "divide": [
+    "divide into"
+  ],
+  "elaborate": [
+    "elaborate on"
+  ],
+  "emerge": [
+    "emerge from"
+  ],
+  "entitle": [
+    "entitle to"
+  ],
+  "equip": [
+    "equip with"
+  ],
+  "exclude": [
+    "exclude from"
+  ],
+  "expand": [
+    "expand on"
+  ],
+  "forbid": [
+    "forbid from"
+  ],
+  "hesitate": [
+    "hesitate about"
+  ],
+  "impose": [
+    "impose on"
+  ],
+  "include": [
+    "include in"
+  ],
+  "incorporate": [
+    "incorporate into"
+  ],
+  "inherent": [
+    "inherent in"
+  ],
+  "inspire": [
+    "inspire to"
+  ],
+  "intend": [
+    "intend for"
+  ],
+  "liable": [
+    "liable for",
+    "liable to"
+  ],
+  "maintain": [
+    "maintain that"
+  ],
+  "owe": [
+    "owe to"
+  ],
+  "persist": [
+    "persist in"
+  ],
+  "persuade": [
+    "persuade into"
+  ],
+  "prefer": [
+    "prefer to"
+  ],
+  "prohibit": [
+    "prohibit from"
+  ],
+  "protect": [
+    "protect against",
+    "protect from"
+  ],
+  "regret": [
+    "regret to"
+  ],
+  "remind": [
+    "remind about",
+    "remind of"
+  ],
+  "replace": [
+    "replace with"
+  ],
+  "separate": [
+    "separate from"
+  ],
+  "speculate": [
+    "speculate about"
+  ],
+  "submit": [
+    "submit to"
+  ],
+  "supply": [
+    "supply with"
+  ],
+  "suspect": [
+    "suspect of"
+  ],
+  "tend": [
+    "tend to"
+  ],
+  "translate": [
+    "translate into"
+  ],
+  "treat": [
+    "treat as"
+  ],
+  "vary": [
+    "vary with"
+  ],
+  "accomplish": [
+    "accomplish through"
+  ],
+  "improve": [
+    "improve on",
+    "improve upon"
+  ],
+  "opportunity": [
+    "opportunity for",
+    "opportunity to"
+  ],
+  "confident": [
+    "confident about",
+    "confident of",
+    "confident in",
+    "confident that"
+  ],
+  "suggest": [
+    "suggest to"
+  ],
+  "decision": [
+    "decision on",
+    "decision to"
+  ],
+  "encourage": [
+    "encourage to"
+  ],
+  "experience": [
+    "experience in",
+    "experience of"
+  ],
+  "prevent": [
+    "prevent from"
+  ],
+  "relationship": [
+    "relationship with",
+    "relationship between"
+  ],
+  "afford": [
+    "afford to"
+  ],
+  "mention": [
+    "mention to"
+  ],
+  "consider": [
+    "consider for"
   ]
 }

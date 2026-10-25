@@ -21,11 +21,11 @@ def main():
         data = json.loads(path.read_text(encoding='utf-8'))
         assert len(data) == row['count'], row['url']
         words.extend(data)
-    assert len({w['word'] for w in words}) == 6019
-    assert len({w['word'] for w in entries(words)}) == 6668
-    assert sum(len(w.get('phrases',[])) for w in words) == 649
+    assert len({w['word'] for w in words}) == 6029
+    assert len({w['word'] for w in entries(words)}) == 6786
+    assert sum(len(w.get('phrases',[])) for w in words) == 757
     view = refresh_offline(ROOT)
-    assert len(view) == 189 and sum(len(w.get('phrases',[])) for w in view) == 649
+    assert len(view) == 268 and sum(len(w.get('phrases',[])) for w in view) == 757
     by_hash = defaultdict(list)
     for folder in ['decks','learning','tools','practice','pronunciation']:
         for path in (ROOT/folder).rglob('*'):
@@ -34,7 +34,7 @@ def main():
     assert all(len(paths)==1 for paths in by_hash.values()), [paths for paths in by_hash.values() if len(paths)>1]
     assert not (ROOT/'it_advanced.json').exists()
     assert len(json.loads((ROOT/'decks/prepositions.json').read_text(encoding='utf-8'))) == 33
-    print(f'PASS: single public source; {len(urls)} catalog sources, 6019 roots / 649 nested phrases; 189-parent phrase view; no byte-identical data copies.')
+    print(f'PASS: single public source; {len(urls)} catalog sources, 6029 roots / 757 nested phrases; 268-parent phrase view; no byte-identical data copies.')
 
 if __name__ == '__main__':
     main()

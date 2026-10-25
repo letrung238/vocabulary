@@ -193,7 +193,52 @@
     ],
     "synonyms": [
       "complete",
-      "achieve"
+      "achieve",
+      "carry out"
+    ],
+    "phrases": [
+      {
+        "word": "accomplish through",
+        "pos": "verb",
+        "ipa": "/əˈkʌmplɪʃ θruː/",
+        "meaningVi": "hoàn thành nhờ một phương pháp hoặc nỗ lực",
+        "example": "Much can be accomplished through cooperation.",
+        "exampleVi": "Có thể hoàn thành nhiều việc nhờ hợp tác.",
+        "topic": "common",
+        "tags": [
+          "prepositions",
+          "legacy-reviewed",
+          "common"
+        ],
+        "synonyms": [],
+        "forms": [
+          {
+            "word": "accomplishes through",
+            "types": [
+              "present_third_person_singular"
+            ],
+            "ipa": "/əˈkʌmplɪʃɪz θruː/"
+          },
+          {
+            "word": "accomplishing through",
+            "types": [
+              "present_participle",
+              "gerund"
+            ],
+            "ipa": "/əˈkʌmplɪʃɪŋ θruː/"
+          },
+          {
+            "word": "accomplished through",
+            "types": [
+              "past_simple",
+              "past_participle"
+            ],
+            "ipa": "/əˈkʌmplɪʃt θruː/",
+            "example": "Much can be accomplished through cooperation.",
+            "exampleVi": "Có thể hoàn thành nhiều việc nhờ hợp tác."
+          }
+        ]
+      }
     ]
   },
   {
@@ -9448,7 +9493,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/ˈdɪstrɪkts/"
+        "ipa": "/ˈdɪstrɪkts/",
+        "example": "Roppongi and Kabukicho are Tokyo's main entertainment districts.",
+        "exampleVi": "Roppongi và Kabukicho là hai khu vực giải trí chính của Tokyo."
       },
       {
         "word": "districting",

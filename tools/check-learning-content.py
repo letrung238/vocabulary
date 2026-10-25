@@ -18,7 +18,7 @@ def identity(word, sense):
 def main():
     records = sum((read('tools/' + name) for name in ['curated-sense-examples.json', 'curated-awl-examples.json',
                    'curated-b2-examples.json', 'curated-core-examples.json', 'curated-b2-daily-work-examples.json', 'curated-daily-work-498-examples.json',
-                   'curated-professional-examples.json', 'curated-reviewed-examples.json', 'curated-basic-20-examples.json', 'curated-basic-120-examples.json', 'curated-everyday-500-examples.json','curated-prepositions-examples.json']), [])
+                   'curated-professional-examples.json', 'curated-reviewed-examples.json', 'curated-basic-20-examples.json', 'curated-basic-120-examples.json', 'curated-everyday-500-examples.json','curated-prepositions-examples.json','curated-legacy-examples.json']), [])
     assert records == read('learning/sense-examples.json'), 'Offline content payload drifted'
     lookup = {(r['word'], r['pos'], r['meaningVi']): r for r in records}
     assert len(lookup) == len(records), 'Duplicate authored identity'
@@ -29,7 +29,7 @@ def main():
         words = json.loads(path.read_text(encoding='utf-8'))
         if path.name == 'ielts-academic.json':
             assert len(words) == 317
-            assert sum(len(w.get('senses', [])) for w in words) == 241
+            assert sum(len(w.get('senses', [])) for w in words) == 242
         if path.name == 'b2-1000.json':
             assert len(words) == 1000
             assert sum(len(w.get('senses', [])) for w in words) == 1226
@@ -40,7 +40,7 @@ def main():
         if path.name == 'daily-work-498.json':
             assert len(words) == 498
             assert sum(bool(w.get('senses')) for w in words) == 227
-            assert sum(len(w.get('senses', [])) for w in words) == 320
+            assert sum(len(w.get('senses', [])) for w in words) == 321
         owned = {w['word'] for w in owned_entries(path, words)}
         for word in tree_entries(words):
             for sense in [word] + word.get('senses', []):
@@ -64,7 +64,7 @@ def main():
     assert len(read('tools/curated-basic-20-examples.json')) == 32
     assert len(read('tools/curated-basic-120-examples.json')) == 150
     assert len(read('tools/curated-everyday-500-examples.json')) == 1083
-    assert complete == total == 3244, 'Canonical secondary-context coverage changed'
+    assert complete == total == 3300, 'Canonical secondary-context coverage changed'
     print('B2: 1000/1000 main meanings and 1226/1226 secondary meanings have bilingual examples.')
     print('B2 daily/work: 500/500 main meanings and 331/331 secondary meanings have bilingual examples; 236 reviewed exceptions.')
     print('Daily/work extra: 498/498 main meanings and 320/320 secondary uses are bilingual; 271 reviewed exceptions.')

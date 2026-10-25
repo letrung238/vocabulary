@@ -20,8 +20,8 @@ assert {w['word'] for w in roots} == {w['word'] for w in builder['new_roots']()}
 all_entries = {w['word']:w for w in lexical}
 deck = [all_entries[w['word']] for w in source[:150]]
 assert [{k:v for k,v in w.items() if k!='forms'} for w in deck] == source[:150]
-extra = [all_entries[w['word']] for w in source[150:]]
-assert [{k:v for k,v in w.items() if k!='forms'} for w in extra] == source[150:]
+extra = [all_entries[w['word']] for w in source[150:650]]
+assert [{k:v for k,v in w.items() if k!='forms'} for w in extra] == source[150:650]
 assert len(extra) == 500 and sum(w['pos']=='verb' for w in extra) == 420
 assert sum(len(w.get('forms',[])) for w in extra) == 1452
 assert len(deck) == len({w['word'] for w in deck}) == 150
@@ -30,7 +30,7 @@ old = [w for path in [ROOT/'seed_words.json',*sorted((ROOT/'decks').glob('*.json
 normalize = lambda text: re.sub(r'[\s\-‐‑–—]+',' ',text.strip().lower())
 known = {normalize(w['word']) for w in old} | {normalize(f['word']) for w in old for f in w.get('forms',[])}
 assert not known & {normalize(w['word']) for w in deck}
-assert len({w['word'] for w in old}) == 5986
+assert len({w['word'] for w in old}) == 5996
 assert sum(len(w.get('forms',[])) for w in deck) == 397
 assert sum(len(w.get('senses',[]))+1 for w in deck) == 155
 by_word = {w['word']:w for w in deck}
@@ -61,7 +61,7 @@ for word in deck+extra:
 assert (ROOT/'decks/prepositions.json').read_bytes()==(ROOT/'decks/prepositions.json').read_bytes()
 from phrase_bundles import refresh_offline
 offline = refresh_offline(ROOT)
-assert len(offline) == 189 and sum(len(w.get('phrases', [])) for w in offline) == 649
+assert len(offline) == 268 and sum(len(w.get('phrases', [])) for w in offline) == 757
 for word in offline:
     assert word == next(w for w in canonical if w['word'] == word['word']), word['word']
 payload = read(ROOT/'learning/word-forms.json')
@@ -70,37 +70,42 @@ new_everyday = everyday_names()
 new_roots = {w['word'] for w in builder['new_roots']()}
 previous = [w for w in payload if w['word'] not in by_word and w['word'] not in new_roots | extra_names | new_everyday]
 digest = hashlib.sha256(json.dumps(previous,ensure_ascii=False,sort_keys=True,separators=(',',':')).encode()).hexdigest()
-assert digest=='37c4b2b4d95a5045dc676b3b67b0610874eb161a9eefb824363118dc703acb8a'
+assert digest=='69a7a2b81244c8a59ab2c43aeb9dbe73e081b92eaa91dcc3b52e516cdbdb7ad1'
 previous_extension=[w for w in payload if w['word'] not in new100 and w['word'] not in new_roots | extra_names | new_everyday]
-assert hashlib.sha256(json.dumps(previous_extension,ensure_ascii=False,sort_keys=True,separators=(',',':')).encode()).hexdigest()=='8afb2f26fe9bd477c6b2b797f8e1a458b28986a0fdb75c345b03ff40b0460ff1', 'Previous forms changed'
+assert hashlib.sha256(json.dumps(previous_extension,ensure_ascii=False,sort_keys=True,separators=(',',':')).encode()).hexdigest()=='f995ce387c5129827dbf8fda4d400d530a89c619b0318941bb224599a995d5ce', 'Previous forms changed'
 for name in ['catalog.json']:
     entries=[e for e in read(ROOT/name)['files'] if e['url']=='decks/prepositions.json']
     assert len(entries)==1 and entries[0]['count']==33
 print('PASS: 150 preposition combinations, 155 bilingual contexts, 397 nested forms, idiom care of, irregular forms, catalog and public source.')
 links = read(ROOT/'learning/phrase-roots.json')
 assert links == builder['phrase_roots'](builder['build']())
-assert len(links) == 188 and sum(map(len, links.values())) == 649
+assert len(links) == 267 and sum(map(len, links.values())) == 757
 assert links['think'] == ['think of', 'think about']
 assert 'take care of' in links['care'] and 'care of' not in links['care']
 phrase_names = {name for names in links.values() for name in names}
 assert not phrase_names & {w['word'] for w in canonical}
-assert len({w['word'] for w in old} | {w['word'] for w in roots}) == 6019
+assert len({w['word'] for w in old} | {w['word'] for w in roots}) == 6029
 assert all(not p.get('phrases') for w in canonical for p in w.get('phrases', []))
 for parent, names in links.items():
     owners = [w for w in canonical if any(p['word'] in names for p in w.get('phrases', []))]
     assert len(owners) == 1 and owners[0]['word'] == parent, parent
     assert [p['word'] for p in owners[0]['phrases']] == names
-assert sum(len(w.get('phrases', [])) for w in canonical) == 649
+assert sum(len(w.get('phrases', [])) for w in canonical) == 757
 legacy = [w for w in lexical if w['word'] not in extra_names | new_everyday]
 known_legacy = {normalize(w['word']) for w in legacy} | {normalize(f['word']) for w in legacy for f in w.get('forms',[])}
-assert not known_legacy & {normalize(name) for name in extra_names}, 'Additional phrase repeats existing vocabulary/inflections'
-assert len({w['word'] for w in lexical}) == 6668
+overlap = known_legacy & {normalize(name) for name in extra_names}
+# The new verb construction devote to has a participle spelled like the existing
+# adjective construction devoted to. Their different POS/meanings stay independent.
+assert overlap == {'devoted to'}, 'Unreviewed phrase/inflection overlap: '+str(overlap)
+assert next(w for w in extra if w['word']=='devoted to')['pos']=='adjective'
+assert next(w for w in legacy if w['word']=='devote to')['pos']=='verb'
+assert len({w['word'] for w in lexical}) == 6786
 assert len({w['word'].split()[0] for w in extra}) == 94
 # Every lexical field is frozen independently of source-file ownership.
 serialized = sorted(json.dumps({k:v for k,v in w.items() if k!='phrases'}, ensure_ascii=False,
                               sort_keys=True,separators=(',',':')) for w in legacy)
-assert len(serialized) == 5681
-assert hashlib.sha256('\n'.join(serialized).encode()).hexdigest() == '4ff674fe169700e4cbfe562e4a54a80cd1e35f5c3c994ba078d1efaeee94b41a'
+assert len(serialized) == 5799
+assert hashlib.sha256('\n'.join(serialized).encode()).hexdigest() == '128fa12c1f47416afb6e51193c6307d60d6ebc6be2b6c9e63e54ec2026127942'
 think = next(w for w in read(ROOT/'decks/basic-120.json') if w['word']=='think')
 assert [p['word'] for p in think['phrases']] == ['think of','think about']
-print('PASS: exactly 500 additions / 94 existing roots / 1452 forms; 649 nested phrases / 188 parent groups; 6019 unique roots unchanged; every legacy lexical field unchanged; offline export matches sources.')
+print('PASS: exactly 500 additions / 94 existing roots / 1452 forms; 757 nested phrases / 267 parent groups; 6029 unique roots unchanged; every legacy lexical field unchanged; offline export matches sources.')

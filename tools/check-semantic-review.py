@@ -43,7 +43,7 @@ def main():
     args=parser.parse_args()
     decks={p.relative_to(ROOT).as_posix():read(p) for p in sources(ROOT)}
     by={w['word']:w for data in decks.values() for w in data}
-    assert 'criteria' not in by and len(by)==6019
+    assert 'criteria' not in by and len(by)==6029
     assert {'awl','education'} <= set(by['criterion']['tags'])
     form=next(f for f in by['criterion']['forms'] if f['word']=='criteria')
     assert form['example']=='Applicants are ranked against five published criteria.'

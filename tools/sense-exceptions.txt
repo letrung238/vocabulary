@@ -82,6 +82,7 @@ allocate
 almond
 aloof
 alternatively
+although
 amaze
 ambient occlusion
 ambiguity
@@ -101,7 +102,6 @@ angry
 anisotropic filtering
 ankle
 anniversary
-annotation
 announcement
 annoy
 annual leave
@@ -826,6 +826,7 @@ deceitful
 deceive
 deceptive
 decide
+decision
 decorative
 deduce
 deep
@@ -1050,6 +1051,7 @@ employment contract
 employment history
 emulator
 encoder decoder
+encourage
 encrypt
 encryption
 encryption at rest
@@ -1991,6 +1993,7 @@ operating model
 operating profit
 operational
 operator overloading
+opportunity
 oppose
 optical image stabilization
 optical zoom
@@ -2222,6 +2225,7 @@ premium tier
 prepare
 prestigious
 presumably
+prevent
 prevention
 preventive action
 previous
@@ -2373,6 +2377,7 @@ receipt
 receipt printer
 receivable turnover
 receive
+recently
 reckless
 recollection
 recommend

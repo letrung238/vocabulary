@@ -1220,7 +1220,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/juːzɪz/, /juːsɪz/"
+        "ipa": "/juːzɪz/, /juːsɪz/",
+        "example": "This tool has several useful uses.",
+        "exampleVi": "Dụng cụ này có vài công dụng hữu ích."
       },
       {
         "word": "using",
@@ -1273,7 +1275,9 @@
           "present_third_person_singular",
           "plural"
         ],
-        "ipa": "/traɪz/"
+        "ipa": "/traɪz/",
+        "example": "It took three tries to open the jar.",
+        "exampleVi": "Phải thử ba lần mới mở được chiếc lọ."
       },
       {
         "word": "trying",

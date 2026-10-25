@@ -331,9 +331,18 @@
     "meaningVi": "hoàn thành, thực hiện",
     "synonyms": [
       "complete",
-      "achieve"
+      "achieve",
+      "carry out"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "accomplish through",
+    "pos": "verb",
+    "meaningVi": "hoàn thành nhờ một phương pháp hoặc nỗ lực",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -372,6 +381,22 @@
       "answerable"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "accountable for",
+    "pos": "adjective",
+    "meaningVi": "chịu trách nhiệm về kết quả hoặc hành động",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "accountable to",
+    "pos": "adjective",
+    "meaningVi": "có trách nhiệm giải trình với ai",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -443,7 +468,8 @@
     "meaningVi": "chính xác",
     "synonyms": [
       "correct",
-      "precise"
+      "precise",
+      "exact"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -480,6 +506,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "accuse of",
+    "pos": "verb",
+    "meaningVi": "buộc tội ai làm việc gì; thường theo sau bằng V-ing",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "ache",
     "pos": "verb",
     "meaningVi": "đau nhức",
@@ -495,7 +529,8 @@
     "meaningVi": "đạt được sau nỗ lực",
     "synonyms": [
       "attain",
-      "accomplish"
+      "accomplish",
+      "reach"
     ],
     "reason": "",
     "source": "existing-editorial"
@@ -530,6 +565,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "acknowledge as",
+    "pos": "verb",
+    "meaningVi": "công nhận ai hoặc điều gì là",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "acquire",
     "pos": "verb",
     "meaningVi": "đạt được, mua lại",
@@ -537,6 +580,14 @@
       "obtain"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "acquire from",
+    "pos": "verb",
+    "meaningVi": "thu nhận hoặc mua được từ một nguồn",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -673,6 +724,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "adapt for",
+    "pos": "verb",
+    "meaningVi": "chuyển thể hoặc điều chỉnh để phù hợp một mục đích",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "adapt to",
     "pos": "verb",
     "meaningVi": "thích nghi với điều kiện hoặc hoàn cảnh mới",
@@ -799,9 +858,26 @@
     "pos": "adjective",
     "meaningVi": "đủ, tạm ổn",
     "synonyms": [
-      "sufficient"
+      "sufficient",
+      "satisfactory"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "adequate for",
+    "pos": "adjective",
+    "meaningVi": "đủ đáp ứng một nhu cầu",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "adequate to",
+    "pos": "adjective",
+    "meaningVi": "đủ sức đáp ứng một nhiệm vụ",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -835,6 +911,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "adjacent to",
+    "pos": "adjective",
+    "meaningVi": "nằm sát hoặc ngay cạnh",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "adjust",
     "pos": "verb",
     "meaningVi": "chỉnh, điều chỉnh",
@@ -842,6 +926,14 @@
       "modify"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "adjust for",
+    "pos": "verb",
+    "meaningVi": "điều chỉnh để tính đến một yếu tố",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -931,6 +1023,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "admire for",
+    "pos": "verb",
+    "meaningVi": "ngưỡng mộ ai vì một phẩm chất hoặc hành động",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "admission",
     "pos": "noun",
     "meaningVi": "quyền hoặc việc được vào; phí vào cửa",
@@ -949,6 +1049,14 @@
       "confess"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "admit to",
+    "pos": "verb",
+    "meaningVi": "thừa nhận một hành động hoặc sự việc; có thể theo sau bằng V-ing",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -1106,6 +1214,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "advocate for",
+    "pos": "verb",
+    "meaningVi": "công khai vận động ủng hộ ai hoặc điều gì",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "affair",
     "pos": "noun",
     "meaningVi": "chuyện tình; ngoại tình",
@@ -1150,8 +1266,18 @@
     "word": "afford",
     "pos": "verb",
     "meaningVi": "đủ khả năng chi trả",
+    "synonyms": [
+      "be able to pay for"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "afford to",
+    "pos": "verb",
+    "meaningVi": "có đủ tiền, thời gian hoặc khả năng để làm; theo sau bằng động từ nguyên thể",
     "synonyms": [],
-    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -1489,7 +1615,8 @@
     "meaningVi": "làm dịu bớt",
     "synonyms": [
       "ease",
-      "relieve"
+      "relieve",
+      "lessen"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -1500,9 +1627,18 @@
     "meaningVi": "phân bổ",
     "synonyms": [
       "assign",
-      "apportion"
+      "apportion",
+      "allot"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "allocate to",
+    "pos": "verb",
+    "meaningVi": "phân bổ nguồn lực cho một người hoặc mục đích",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -1621,6 +1757,17 @@
     "source": "gpt-edited"
   },
   {
+    "word": "although",
+    "pos": "conjunction",
+    "meaningVi": "mặc dù",
+    "synonyms": [
+      "though",
+      "even though"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "altitude",
     "pos": "noun",
     "meaningVi": "độ cao (so với mực nước biển)",
@@ -1655,7 +1802,8 @@
     "pos": "verb",
     "meaningVi": "làm kinh ngạc",
     "synonyms": [
-      "astonish"
+      "astonish",
+      "astound"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -1692,7 +1840,8 @@
     "meaningVi": "mơ hồ, nhập nhằng",
     "synonyms": [
       "unclear",
-      "equivocal"
+      "equivocal",
+      "open to interpretation"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -2011,7 +2160,8 @@
     "pos": "verb",
     "meaningVi": "làm phiền, chọc tức",
     "synonyms": [
-      "irritate"
+      "irritate",
+      "bother"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -2234,8 +2384,10 @@
     "word": "apologize",
     "pos": "verb",
     "meaningVi": "xin lỗi",
-    "synonyms": [],
-    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "synonyms": [
+      "say sorry"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -2410,6 +2562,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "apply to",
+    "pos": "verb",
+    "meaningVi": "áp dụng cho hoặc có hiệu lực đối với",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "appoint",
     "pos": "verb",
     "meaningVi": "bổ nhiệm",
@@ -2483,6 +2643,14 @@
       "method"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "approach to",
+    "pos": "noun",
+    "meaningVi": "cách tiếp cận một vấn đề hoặc công việc",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -2676,6 +2844,22 @@
     "source": "gpt-edited"
   },
   {
+    "word": "argue against",
+    "pos": "verb",
+    "meaningVi": "đưa ra lý lẽ phản đối một phương án",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "argue for",
+    "pos": "verb",
+    "meaningVi": "đưa ra lý lẽ ủng hộ một phương án",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "argue with",
     "pos": "verb",
     "meaningVi": "tranh cãi với ai",
@@ -2745,6 +2929,14 @@
       "organize"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "arrange for",
+    "pos": "verb",
+    "meaningVi": "thu xếp để một việc được thực hiện",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -3041,6 +3233,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "aspire to",
+    "pos": "verb",
+    "meaningVi": "khao khát đạt một vị trí hoặc mục tiêu",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "assault",
     "pos": "noun",
     "meaningVi": "sự tấn công; cuộc tấn công",
@@ -3211,6 +3411,14 @@
       "connect"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "associate with",
+    "pos": "verb",
+    "meaningVi": "giao du hoặc làm việc cùng ai",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -3386,6 +3594,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "attach to",
+    "pos": "verb",
+    "meaningVi": "gắn hoặc đính kèm vào một vật hay thông điệp",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "attached",
     "pos": "adjective",
     "meaningVi": "gắn bó, đính kèm",
@@ -3448,6 +3664,14 @@
       "try"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "attempt at",
+    "pos": "noun",
+    "meaningVi": "nỗ lực thử làm một việc",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -3524,6 +3748,14 @@
       "draw"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "attract to",
+    "pos": "verb",
+    "meaningVi": "thu hút ai đến một nơi hoặc điều gì",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -3657,7 +3889,8 @@
     "pos": "adjective",
     "meaningVi": "chính gốc, xác thực",
     "synonyms": [
-      "genuine"
+      "genuine",
+      "real"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -3809,7 +4042,8 @@
     "pos": "adjective",
     "meaningVi": "sẵn có để dùng",
     "synonyms": [
-      "accessible"
+      "accessible",
+      "obtainable"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -4927,6 +5161,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "benefit to",
+    "pos": "noun",
+    "meaningVi": "lợi ích mang lại cho một người hoặc nhóm",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "bent",
     "pos": "adjective",
     "meaningVi": "bị cong",
@@ -5142,6 +5384,22 @@
       "fault"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "blame for",
+    "pos": "verb",
+    "meaningVi": "đổ lỗi cho ai về một việc",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "blame on",
+    "pos": "verb",
+    "meaningVi": "quy nguyên nhân của điều xấu cho ai hoặc điều gì",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -7455,6 +7713,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "capacity for",
+    "pos": "noun",
+    "meaningVi": "khả năng làm hoặc tiếp nhận điều gì",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "capacity forecast",
     "pos": "noun",
     "meaningVi": "dự báo nhu cầu năng lực xử lý",
@@ -8129,7 +8395,8 @@
     "pos": "adjective",
     "meaningVi": "thận trọng",
     "synonyms": [
-      "careful"
+      "careful",
+      "wary"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -8157,7 +8424,8 @@
     "pos": "verb",
     "meaningVi": "ngừng, chấm dứt",
     "synonyms": [
-      "stop"
+      "stop",
+      "discontinue"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -8702,7 +8970,8 @@
     "pos": "adjective",
     "meaningVi": "vui vẻ",
     "synonyms": [
-      "happy"
+      "happy",
+      "upbeat"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -9046,6 +9315,14 @@
       "assert"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "claim to",
+    "pos": "noun",
+    "meaningVi": "quyền hoặc cơ sở để đòi một thứ",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -10413,6 +10690,22 @@
     "source": "gpt-edited"
   },
   {
+    "word": "compare to",
+    "pos": "verb",
+    "meaningVi": "so sánh với hoặc ví như",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "compare with",
+    "pos": "verb",
+    "meaningVi": "so sánh với để xem điểm giống và khác",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "comparison",
     "pos": "noun",
     "meaningVi": "sự so sánh",
@@ -10467,6 +10760,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "compensate for",
+    "pos": "verb",
+    "meaningVi": "bù đắp cho một sự thiếu hụt hoặc bất lợi",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "compensation",
     "pos": "noun",
     "meaningVi": "tiền bồi thường; sự đền bù",
@@ -10484,6 +10785,14 @@
       "contend"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "compete against",
+    "pos": "verb",
+    "meaningVi": "thi đấu hoặc cạnh tranh với một đối thủ",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -10611,6 +10920,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "complain to",
+    "pos": "verb",
+    "meaningVi": "phàn nàn với người hoặc cơ quan có thể xử lý",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "complement",
     "pos": "verb",
     "meaningVi": "bổ trợ cho nhau",
@@ -10683,7 +11000,8 @@
     "pos": "adjective",
     "meaningVi": "rắc rối",
     "synonyms": [
-      "complex"
+      "complex",
+      "intricate"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -10693,9 +11011,18 @@
     "pos": "verb",
     "meaningVi": "tuân thủ",
     "synonyms": [
-      "conform"
+      "conform",
+      "obey"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "comply with",
+    "pos": "verb",
+    "meaningVi": "tuân thủ một quy định hoặc yêu cầu",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -10917,6 +11244,14 @@
       "envisage"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "conceive of",
+    "pos": "verb",
+    "meaningVi": "hình dung hoặc nghĩ ra một điều",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -11160,6 +11495,48 @@
     "source": "gpt-edited"
   },
   {
+    "word": "confident",
+    "pos": "adjective",
+    "meaningVi": "tự tin",
+    "synonyms": [
+      "self-assured"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "confident about",
+    "pos": "adjective",
+    "meaningVi": "tự tin hoặc yên tâm về một việc",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "confident in",
+    "pos": "adjective",
+    "meaningVi": "tin tưởng vào năng lực hoặc độ tin cậy của",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "confident of",
+    "pos": "adjective",
+    "meaningVi": "tin chắc vào một kết quả",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "confident that",
+    "pos": "adjective",
+    "meaningVi": "tin chắc một điều; theo sau bằng mệnh đề",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "configuration",
     "pos": "noun",
     "meaningVi": "cấu hình thiết bị hoặc hệ thống máy tính",
@@ -11177,6 +11554,14 @@
       "restrict"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "confine to",
+    "pos": "verb",
+    "meaningVi": "giới hạn ai hoặc điều gì trong một phạm vi",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -11223,6 +11608,14 @@
       "comply"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "conform to",
+    "pos": "verb",
+    "meaningVi": "phù hợp hoặc tuân theo một tiêu chuẩn",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -11496,6 +11889,25 @@
     "source": "gpt-edited"
   },
   {
+    "word": "consider",
+    "pos": "verb",
+    "meaningVi": "cân nhắc, xem xét",
+    "synonyms": [
+      "think about",
+      "weigh"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "consider for",
+    "pos": "verb",
+    "meaningVi": "cân nhắc một người hoặc vật cho một vị trí hay mục đích",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "considerable",
     "pos": "adjective",
     "meaningVi": "khá lớn",
@@ -11568,6 +11980,14 @@
     "meaningVi": "băm nhất quán để chia lại ít dữ liệu",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "consistent with",
+    "pos": "adjective",
+    "meaningVi": "phù hợp, không mâu thuẫn với",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -12166,8 +12586,18 @@
     "word": "convenient",
     "pos": "adjective",
     "meaningVi": "tiện lợi",
+    "synonyms": [
+      "handy"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "convenient for",
+    "pos": "adjective",
+    "meaningVi": "thuận tiện cho một người hoặc mục đích",
     "synonyms": [],
-    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -12215,7 +12645,7 @@
     "pos": "adverb",
     "meaningVi": "ngược lại",
     "synonyms": [
-      "on the contrary"
+      "by contrast"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -13399,7 +13829,8 @@
     "pos": "adjective",
     "meaningVi": "then chốt, cốt yếu",
     "synonyms": [
-      "essential"
+      "essential",
+      "vital"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -14509,7 +14940,8 @@
     "pos": "verb",
     "meaningVi": "lừa dối",
     "synonyms": [
-      "trick"
+      "trick",
+      "mislead"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -14556,6 +14988,32 @@
     "meaningVi": "chốt; lựa chọn một phương án sau khi cân nhắc",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "decision",
+    "pos": "noun",
+    "meaningVi": "quyết định",
+    "synonyms": [
+      "choice"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "decision on",
+    "pos": "noun",
+    "meaningVi": "quyết định về một vấn đề",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "decision to",
+    "pos": "noun",
+    "meaningVi": "quyết định làm việc gì; theo sau bằng động từ nguyên thể",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -14656,6 +15114,14 @@
       "devote"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "dedicate to",
+    "pos": "verb",
+    "meaningVi": "dành tặng hoặc dành công sức cho",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -15227,6 +15693,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "depend upon",
+    "pos": "verb",
+    "meaningVi": "phụ thuộc hoặc trông cậy vào; tương đương depend on",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "dependable",
     "pos": "adjective",
     "meaningVi": "đáng tin cậy",
@@ -15697,7 +16171,8 @@
     "pos": "verb",
     "meaningVi": "phá huỷ",
     "synonyms": [
-      "demolish"
+      "demolish",
+      "ruin"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -15773,7 +16248,8 @@
     "pos": "verb",
     "meaningVi": "xấu đi",
     "synonyms": [
-      "worsen"
+      "worsen",
+      "decline"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -15855,7 +16331,8 @@
     "pos": "verb",
     "meaningVi": "đi chệch",
     "synonyms": [
-      "diverge"
+      "diverge",
+      "depart"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -15898,6 +16375,14 @@
       "dedicate"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "devote to",
+    "pos": "verb",
+    "meaningVi": "dành thời gian hoặc nguồn lực cho",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -15998,6 +16483,14 @@
     "meaningVi": "khác với ai hoặc điều gì",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "differ in",
+    "pos": "verb",
+    "meaningVi": "khác nhau về một phương diện",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -16345,8 +16838,10 @@
     "word": "disappoint",
     "pos": "verb",
     "meaningVi": "làm thất vọng",
-    "synonyms": [],
-    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "synonyms": [
+      "let down"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -16830,6 +17325,22 @@
     "source": "gpt-edited"
   },
   {
+    "word": "distinguish between",
+    "pos": "verb",
+    "meaningVi": "phân biệt giữa hai hoặc nhiều đối tượng",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "distinguish from",
+    "pos": "verb",
+    "meaningVi": "phân biệt một thứ với một thứ khác",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "distinguished",
     "pos": "adjective",
     "meaningVi": "xuất sắc; lỗi lạc; ưu tú",
@@ -17009,6 +17520,14 @@
       "split"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "divide into",
+    "pos": "verb",
+    "meaningVi": "chia thành các phần hoặc nhóm",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -17937,7 +18456,8 @@
     "pos": "adjective",
     "meaningVi": "háo hức",
     "synonyms": [
-      "keen"
+      "keen",
+      "enthusiastic"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -17956,6 +18476,14 @@
     "meaningVi": "nạp sẵn trước khi dùng",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "eager to",
+    "pos": "adjective",
+    "meaningVi": "háo hức muốn làm việc gì; theo sau bằng động từ nguyên thể",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -18345,6 +18873,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "elaborate on",
+    "pos": "verb",
+    "meaningVi": "giải thích hoặc trình bày thêm chi tiết về",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "elastic",
     "pos": "adjective",
     "meaningVi": "co giãn tự động",
@@ -18601,6 +19137,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "emerge from",
+    "pos": "verb",
+    "meaningVi": "xuất hiện hoặc đi ra từ",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "emergence",
     "pos": "noun",
     "meaningVi": "sự xuất hiện; sự nổi lên",
@@ -18810,6 +19354,25 @@
       "meet"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "encourage",
+    "pos": "verb",
+    "meaningVi": "khuyến khích, động viên",
+    "synonyms": [
+      "motivate",
+      "urge"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "encourage to",
+    "pos": "verb",
+    "meaningVi": "khuyến khích ai làm việc gì; theo sau bằng động từ nguyên thể",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -19053,7 +19616,8 @@
     "pos": "verb",
     "meaningVi": "nâng cao",
     "synonyms": [
-      "improve"
+      "improve",
+      "strengthen"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -19073,7 +19637,8 @@
     "pos": "adjective",
     "meaningVi": "khổng lồ",
     "synonyms": [
-      "huge"
+      "huge",
+      "immense"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -19103,7 +19668,8 @@
     "pos": "verb",
     "meaningVi": "đảm bảo",
     "synonyms": [
-      "guarantee"
+      "guarantee",
+      "make certain"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -19196,6 +19762,14 @@
       "authorize"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "entitle to",
+    "pos": "verb",
+    "meaningVi": "cho ai quyền được hưởng một thứ",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -19356,6 +19930,14 @@
       "outfit"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "equip with",
+    "pos": "verb",
+    "meaningVi": "trang bị cho ai hoặc vật một công cụ",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -19737,7 +20319,8 @@
     "pos": "adverb",
     "meaningVi": "cuối cùng thì",
     "synonyms": [
-      "ultimately"
+      "ultimately",
+      "in the end"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -19869,7 +20452,8 @@
     "pos": "verb",
     "meaningVi": "vượt quá",
     "synonyms": [
-      "surpass"
+      "surpass",
+      "go beyond"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -20014,6 +20598,14 @@
       "omit"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "exclude from",
+    "pos": "verb",
+    "meaningVi": "loại hoặc không cho tham gia",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -20199,6 +20791,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "expand on",
+    "pos": "verb",
+    "meaningVi": "trình bày chi tiết thêm về một ý",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "expansion",
     "pos": "noun",
     "meaningVi": "sự mở rộng, sự phát triển",
@@ -20296,6 +20896,32 @@
       "costly"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "experience",
+    "pos": "noun",
+    "meaningVi": "kinh nghiệm, trải nghiệm",
+    "synonyms": [
+      "practical knowledge"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "experience in",
+    "pos": "noun",
+    "meaningVi": "kinh nghiệm trong một lĩnh vực hoặc hoạt động",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "experience of",
+    "pos": "noun",
+    "meaningVi": "kinh nghiệm hoặc hiểu biết do trực tiếp trải qua",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -20949,8 +21575,10 @@
     "word": "familiar",
     "pos": "adjective",
     "meaningVi": "quen thuộc",
-    "synonyms": [],
-    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "synonyms": [
+      "well-known"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -21018,7 +21646,8 @@
     "pos": "verb",
     "meaningVi": "mê hoặc",
     "synonyms": [
-      "captivate"
+      "captivate",
+      "intrigue"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -21162,7 +21791,8 @@
     "pos": "adjective",
     "meaningVi": "khả thi, làm được trên thực tế",
     "synonyms": [
-      "viable"
+      "viable",
+      "practicable"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -22034,6 +22664,14 @@
       "prohibit"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "forbid from",
+    "pos": "verb",
+    "meaningVi": "cấm ai làm một việc; thường dùng ở dạng bị động",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -24490,7 +25128,8 @@
     "pos": "adjective",
     "meaningVi": "biết ơn",
     "synonyms": [
-      "thankful"
+      "thankful",
+      "appreciative"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -24976,7 +25615,8 @@
     "pos": "verb",
     "meaningVi": "dừng lại",
     "synonyms": [
-      "stop"
+      "stop",
+      "cease"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -25721,9 +26361,18 @@
     "pos": "verb",
     "meaningVi": "do dự",
     "synonyms": [
-      "waver"
+      "waver",
+      "pause"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "hesitate about",
+    "pos": "verb",
+    "meaningVi": "do dự hoặc chưa chắc chắn về một việc",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -26667,7 +27316,8 @@
     "pos": "adjective",
     "meaningVi": "bất hợp pháp",
     "synonyms": [
-      "unlawful"
+      "unlawful",
+      "illicit"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -27011,6 +27661,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "impose on",
+    "pos": "verb",
+    "meaningVi": "áp đặt một nghĩa vụ hoặc gánh nặng lên",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "impress",
     "pos": "verb",
     "meaningVi": "gây ấn tượng",
@@ -27063,9 +27721,26 @@
     "pos": "verb",
     "meaningVi": "cải thiện",
     "synonyms": [
-      "enhance"
+      "enhance",
+      "better"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "improve on",
+    "pos": "verb",
+    "meaningVi": "làm tốt hơn một kết quả hoặc phiên bản trước",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "improve upon",
+    "pos": "verb",
+    "meaningVi": "cải thiện so với một chuẩn hoặc thành quả trước",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -27247,6 +27922,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "include in",
+    "pos": "verb",
+    "meaningVi": "đưa vào một nhóm, danh sách hoặc hoạt động",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "inclusive",
     "pos": "adjective",
     "meaningVi": "bao gồm mọi người; không loại trừ",
@@ -27300,6 +27983,14 @@
       "integrate"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "incorporate into",
+    "pos": "verb",
+    "meaningVi": "kết hợp hoặc đưa vào một chỉnh thể",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -27808,9 +28499,18 @@
     "pos": "adjective",
     "meaningVi": "vốn có",
     "synonyms": [
-      "intrinsic"
+      "intrinsic",
+      "built-in"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "inherent in",
+    "pos": "adjective",
+    "meaningVi": "vốn có trong bản chất của",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -27834,7 +28534,8 @@
     "pos": "verb",
     "meaningVi": "kìm hãm",
     "synonyms": [
-      "restrain"
+      "restrain",
+      "hinder"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -28086,6 +28787,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "insist that",
+    "pos": "verb",
+    "meaningVi": "khăng khăng yêu cầu hoặc khẳng định; theo sau bằng mệnh đề",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "insomnia",
     "pos": "noun",
     "meaningVi": "chứng mất ngủ",
@@ -28129,8 +28838,18 @@
     "word": "inspire",
     "pos": "verb",
     "meaningVi": "truyền cảm hứng",
+    "synonyms": [
+      "motivate"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "inspire to",
+    "pos": "verb",
+    "meaningVi": "truyền cảm hứng để ai làm việc gì",
     "synonyms": [],
-    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -28442,9 +29161,18 @@
     "pos": "verb",
     "meaningVi": "dự định",
     "synonyms": [
-      "plan"
+      "plan",
+      "mean"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "intend for",
+    "pos": "verb",
+    "meaningVi": "dự định dành cho một người hoặc mục đích",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -30944,6 +31672,22 @@
     "source": "gpt-edited"
   },
   {
+    "word": "liable for",
+    "pos": "adjective",
+    "meaningVi": "chịu trách nhiệm pháp lý về một khoản tiền hoặc thiệt hại",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "liable to",
+    "pos": "adjective",
+    "meaningVi": "có khả năng gặp điều bất lợi; theo sau bằng động từ nguyên thể",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "liberal",
     "pos": "adjective",
     "meaningVi": "phóng khoáng, cởi mở",
@@ -31914,7 +32658,8 @@
     "pos": "adjective",
     "meaningVi": "trung thành",
     "synonyms": [
-      "faithful"
+      "faithful",
+      "devoted"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -32107,6 +32852,14 @@
       "preserve"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "maintain that",
+    "pos": "verb",
+    "meaningVi": "khẳng định một điều vẫn là đúng; theo sau bằng mệnh đề",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -32359,7 +33112,8 @@
     "pos": "adjective",
     "meaningVi": "bắt buộc",
     "synonyms": [
-      "compulsory"
+      "compulsory",
+      "required"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -33199,9 +33953,18 @@
     "pos": "verb",
     "meaningVi": "đề cập; nhắc đến",
     "synonyms": [
-      "refer to"
+      "refer to",
+      "bring up"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "mention to",
+    "pos": "verb",
+    "meaningVi": "nhắc một điều với ai",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -33758,7 +34521,8 @@
     "pos": "verb",
     "meaningVi": "giảm thiểu rủi ro",
     "synonyms": [
-      "reduce"
+      "reduce",
+      "alleviate"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -35745,7 +36509,8 @@
     "pos": "adjective",
     "meaningVi": "lỗi thời",
     "synonyms": [
-      "outdated"
+      "outdated",
+      "outmoded"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -35775,7 +36540,8 @@
     "pos": "verb",
     "meaningVi": "có được, thu được",
     "synonyms": [
-      "acquire"
+      "acquire",
+      "get"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -35785,7 +36551,8 @@
     "pos": "adjective",
     "meaningVi": "hiển nhiên, dễ thấy",
     "synonyms": [
-      "evident"
+      "evident",
+      "clear"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -36289,6 +37056,32 @@
     "source": "gpt-edited"
   },
   {
+    "word": "opportunity",
+    "pos": "noun",
+    "meaningVi": "cơ hội",
+    "synonyms": [
+      "chance"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "opportunity for",
+    "pos": "noun",
+    "meaningVi": "cơ hội dành cho ai hoặc cho một hoạt động",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "opportunity to",
+    "pos": "noun",
+    "meaningVi": "cơ hội làm việc gì; theo sau bằng động từ nguyên thể",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "oppose",
     "pos": "verb",
     "meaningVi": "chống đối",
@@ -36359,7 +37152,8 @@
     "pos": "adjective",
     "meaningVi": "tối ưu",
     "synonyms": [
-      "best"
+      "best",
+      "ideal"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -36889,8 +37683,10 @@
     "word": "outsource",
     "pos": "verb",
     "meaningVi": "thuê ngoài",
-    "synonyms": [],
-    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "synonyms": [
+      "contract out"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -37183,6 +37979,14 @@
     "meaningVi": "nợ",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "owe to",
+    "pos": "verb",
+    "meaningVi": "có được nhờ một người hoặc yếu tố",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -38724,6 +39528,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "persist in",
+    "pos": "verb",
+    "meaningVi": "kiên trì hoặc tiếp tục làm dù gặp phản đối; theo sau bằng V-ing",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "persistence",
     "pos": "noun",
     "meaningVi": "việc lưu trữ lâu dài",
@@ -38781,8 +39593,18 @@
     "word": "persuade",
     "pos": "verb",
     "meaningVi": "thuyết phục ai làm gì",
+    "synonyms": [
+      "convince"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "persuade into",
+    "pos": "verb",
+    "meaningVi": "thuyết phục ai làm một việc; theo sau bằng V-ing",
     "synonyms": [],
-    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -39443,7 +40265,8 @@
     "pos": "adjective",
     "meaningVi": "lịch sự",
     "synonyms": [
-      "courteous"
+      "courteous",
+      "well-mannered"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -39750,7 +40573,8 @@
     "pos": "verb",
     "meaningVi": "hoãn lại",
     "synonyms": [
-      "delay"
+      "delay",
+      "put off"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -39968,7 +40792,8 @@
     "pos": "verb",
     "meaningVi": "dự đoán",
     "synonyms": [
-      "forecast"
+      "forecast",
+      "foresee"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -40003,8 +40828,18 @@
     "word": "prefer",
     "pos": "verb",
     "meaningVi": "thích hơn",
+    "synonyms": [
+      "favor"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "prefer to",
+    "pos": "verb",
+    "meaningVi": "thích làm một việc hơn; theo sau bằng động từ nguyên thể",
     "synonyms": [],
-    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -40239,6 +41074,25 @@
       "triumph"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "prevent",
+    "pos": "verb",
+    "meaningVi": "ngăn chặn, phòng ngừa",
+    "synonyms": [
+      "stop",
+      "avert"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "prevent from",
+    "pos": "verb",
+    "meaningVi": "ngăn ai làm việc gì; theo sau bằng V-ing",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -40872,6 +41726,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "prohibit from",
+    "pos": "verb",
+    "meaningVi": "cấm ai làm việc gì; theo sau bằng V-ing",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "project",
     "pos": "verb",
     "meaningVi": "dự phóng, dự tính trước",
@@ -41112,7 +41974,8 @@
     "pos": "verb",
     "meaningVi": "thịnh vượng",
     "synonyms": [
-      "thrive"
+      "thrive",
+      "flourish"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -41125,6 +41988,22 @@
       "safeguard"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "protect against",
+    "pos": "verb",
+    "meaningVi": "bảo vệ khỏi một nguy cơ",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "protect from",
+    "pos": "verb",
+    "meaningVi": "bảo vệ ai hoặc vật khỏi điều gây hại",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -41278,7 +42157,8 @@
     "pos": "adjective",
     "meaningVi": "tạm thời",
     "synonyms": [
-      "temporary"
+      "temporary",
+      "interim"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -41556,7 +42436,8 @@
     "pos": "verb",
     "meaningVi": "trừng phạt",
     "synonyms": [
-      "penalize"
+      "penalize",
+      "discipline"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -42416,7 +43297,8 @@
     "pos": "adverb",
     "meaningVi": "hiếm khi",
     "synonyms": [
-      "seldom"
+      "seldom",
+      "infrequently"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -42876,6 +43758,17 @@
     "meaningVi": "người nhận",
     "synonyms": [
       "recipient"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "recently",
+    "pos": "adverb",
+    "meaningVi": "gần đây",
+    "synonyms": [
+      "lately",
+      "not long ago"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -43437,6 +44330,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "regret to",
+    "pos": "verb",
+    "meaningVi": "lấy làm tiếc khi phải thông báo điều gì; theo sau bằng động từ nguyên thể",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "regularization",
     "pos": "noun",
     "meaningVi": "biện pháp hạn chế độ phức tạp để cải thiện khả năng tổng quát hóa",
@@ -43629,9 +44530,26 @@
     "pos": "noun",
     "meaningVi": "mối quan hệ",
     "synonyms": [
-      "connection"
+      "connection",
+      "association"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "relationship between",
+    "pos": "noun",
+    "meaningVi": "mối quan hệ hoặc liên hệ giữa các bên",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "relationship with",
+    "pos": "noun",
+    "meaningVi": "mối quan hệ với một người hoặc tổ chức",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -43721,7 +44639,8 @@
     "pos": "adjective",
     "meaningVi": "liên quan, phù hợp",
     "synonyms": [
-      "pertinent"
+      "pertinent",
+      "applicable"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -43739,7 +44658,8 @@
     "pos": "adjective",
     "meaningVi": "đáng tin cậy",
     "synonyms": [
-      "dependable"
+      "dependable",
+      "trustworthy"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -43785,7 +44705,8 @@
     "pos": "adjective",
     "meaningVi": "miễn cưỡng",
     "synonyms": [
-      "unwilling"
+      "unwilling",
+      "hesitant"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -43904,8 +44825,26 @@
     "word": "remind",
     "pos": "verb",
     "meaningVi": "nhắc nhở",
+    "synonyms": [
+      "prompt"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "remind about",
+    "pos": "verb",
+    "meaningVi": "nhắc ai nhớ một việc cần làm",
     "synonyms": [],
-    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "remind of",
+    "pos": "verb",
+    "meaningVi": "làm ai nhớ đến người hoặc điều gì",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -44086,8 +45025,18 @@
     "word": "replace",
     "pos": "verb",
     "meaningVi": "thay thế",
+    "synonyms": [
+      "substitute"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "replace with",
+    "pos": "verb",
+    "meaningVi": "thay một vật bằng vật khác",
     "synonyms": [],
-    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -44259,7 +45208,8 @@
     "pos": "verb",
     "meaningVi": "yêu cầu, đòi hỏi",
     "synonyms": [
-      "need"
+      "need",
+      "call for"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -44278,8 +45228,10 @@
     "word": "reschedule",
     "pos": "verb",
     "meaningVi": "dời lịch",
-    "synonyms": [],
-    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "synonyms": [
+      "rearrange"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -44721,7 +45673,8 @@
     "pos": "verb",
     "meaningVi": "hạn chế",
     "synonyms": [
-      "limit"
+      "limit",
+      "constrain"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -46658,7 +47611,8 @@
     "pos": "adjective",
     "meaningVi": "khan hiếm",
     "synonyms": [
-      "rare"
+      "rare",
+      "in short supply"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -47497,6 +48451,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "separate from",
+    "pos": "verb",
+    "meaningVi": "tách một thứ khỏi một thứ khác",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "separately",
     "pos": "adverb",
     "meaningVi": "riêng biệt; tách riêng",
@@ -48186,7 +49148,8 @@
     "pos": "noun",
     "meaningVi": "sự khan hiếm nguồn cung",
     "synonyms": [
-      "scarcity"
+      "scarcity",
+      "shortfall"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -48630,7 +49593,8 @@
     "pos": "adjective",
     "meaningVi": "tương tự",
     "synonyms": [
-      "alike"
+      "alike",
+      "comparable"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -48738,7 +49702,8 @@
     "pos": "adjective",
     "meaningVi": "chân thành",
     "synonyms": [
-      "genuine"
+      "genuine",
+      "heartfelt"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -49493,7 +50458,8 @@
     "pos": "verb",
     "meaningVi": "giải (bài toán, vấn đề)",
     "synonyms": [
-      "resolve"
+      "resolve",
+      "work out"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -49932,6 +50898,14 @@
       "conjecture"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "speculate about",
+    "pos": "verb",
+    "meaningVi": "phỏng đoán khi chưa có đủ thông tin",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -51497,7 +52471,8 @@
     "pos": "adjective",
     "meaningVi": "nghiêm khắc",
     "synonyms": [
-      "stern"
+      "stern",
+      "firm"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -51545,7 +52520,8 @@
     "pos": "adjective",
     "meaningVi": "khắt khe",
     "synonyms": [
-      "strict"
+      "strict",
+      "rigorous"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -51714,6 +52690,14 @@
       "hand in"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "submit to",
+    "pos": "verb",
+    "meaningVi": "chấp nhận chịu sự kiểm soát hoặc một thủ tục",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -51889,6 +52873,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "succeed to",
+    "pos": "verb",
+    "meaningVi": "kế vị hoặc kế thừa một chức vị hay tài sản",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "successor",
     "pos": "noun",
     "meaningVi": "người kế nhiệm",
@@ -51949,7 +52941,8 @@
     "pos": "adjective",
     "meaningVi": "đủ",
     "synonyms": [
-      "adequate"
+      "adequate",
+      "enough"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -51965,6 +52958,25 @@
     "source": "gpt-edited"
   },
   {
+    "word": "suggest",
+    "pos": "verb",
+    "meaningVi": "đề nghị, gợi ý",
+    "synonyms": [
+      "propose",
+      "recommend"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "suggest to",
+    "pos": "verb",
+    "meaningVi": "gợi ý một điều với ai; không dùng suggest someone to do",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "suit",
     "pos": "noun",
     "meaningVi": "bộ com lê; bộ vest",
@@ -51977,7 +52989,8 @@
     "pos": "adjective",
     "meaningVi": "phù hợp",
     "synonyms": [
-      "appropriate"
+      "appropriate",
+      "fitting"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -52025,7 +53038,8 @@
     "pos": "verb",
     "meaningVi": "tóm tắt",
     "synonyms": [
-      "sum up"
+      "sum up",
+      "recap"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -52109,7 +53123,8 @@
     "pos": "verb",
     "meaningVi": "thay thế, thế chỗ",
     "synonyms": [
-      "replace"
+      "replace",
+      "displace"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -52202,8 +53217,10 @@
     "word": "supply",
     "pos": "noun",
     "meaningVi": "nguồn cung",
-    "synonyms": [],
-    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "synonyms": [
+      "provision"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -52212,6 +53229,14 @@
     "meaningVi": "chuỗi cung ứng phần mềm",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "supply with",
+    "pos": "verb",
+    "meaningVi": "cung cấp cho ai thứ cần thiết",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -52335,7 +53360,8 @@
     "pos": "verb",
     "meaningVi": "bao quanh",
     "synonyms": [
-      "encircle"
+      "encircle",
+      "enclose"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -52401,9 +53427,17 @@
     "pos": "verb",
     "meaningVi": "nghi ngờ",
     "synonyms": [
-      "doubt"
+      "suppose"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "suspect of",
+    "pos": "verb",
+    "meaningVi": "nghi ai đã làm một việc sai",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -53563,8 +54597,18 @@
     "word": "tend",
     "pos": "verb",
     "meaningVi": "có xu hướng",
+    "synonyms": [
+      "be inclined"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "tend to",
+    "pos": "verb",
+    "meaningVi": "có xu hướng làm việc gì; theo sau bằng động từ nguyên thể",
     "synonyms": [],
-    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -55235,8 +56279,18 @@
     "word": "translate",
     "pos": "verb",
     "meaningVi": "dịch",
+    "synonyms": [
+      "render"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "translate into",
+    "pos": "verb",
+    "meaningVi": "chuyển dịch sang ngôn ngữ khác hoặc biến thành kết quả",
     "synonyms": [],
-    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -55419,6 +56473,14 @@
     "meaningVi": "đối xử, điều trị",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "treat as",
+    "pos": "verb",
+    "meaningVi": "đối xử hoặc xem như một loại người hay vật",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
     "source": "gpt-edited"
   },
   {
@@ -56892,7 +57954,8 @@
     "pos": "adjective",
     "meaningVi": "khẩn cấp",
     "synonyms": [
-      "pressing"
+      "pressing",
+      "immediate"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -56986,7 +58049,8 @@
     "pos": "verb",
     "meaningVi": "sử dụng, khai thác",
     "synonyms": [
-      "use"
+      "use",
+      "employ"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -57070,7 +58134,8 @@
     "pos": "adjective",
     "meaningVi": "mơ hồ",
     "synonyms": [
-      "unclear"
+      "unclear",
+      "imprecise"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -57298,6 +58363,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "vary with",
+    "pos": "verb",
+    "meaningVi": "thay đổi theo một yếu tố",
+    "synonyms": [],
+    "reason": "Chưa có từ đồng nghĩa phổ biến phù hợp đúng nghĩa và từ loại.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "vast",
     "pos": "adjective",
     "meaningVi": "rất lớn; mênh mông",
@@ -57448,7 +58521,8 @@
     "pos": "verb",
     "meaningVi": "xác minh",
     "synonyms": [
-      "confirm"
+      "confirm",
+      "check"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -58400,7 +59474,8 @@
     "pos": "adjective",
     "meaningVi": "giàu có",
     "synonyms": [
-      "rich"
+      "rich",
+      "affluent"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -58682,7 +59757,8 @@
     "pos": "adjective",
     "meaningVi": "lan rộng, phổ biến",
     "synonyms": [
-      "prevalent"
+      "prevalent",
+      "extensive"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -58724,7 +59800,8 @@
     "pos": "adjective",
     "meaningVi": "sẵn lòng",
     "synonyms": [
-      "ready"
+      "ready",
+      "prepared"
     ],
     "reason": "",
     "source": "gpt-edited"
