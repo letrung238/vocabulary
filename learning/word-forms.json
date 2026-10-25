@@ -945,6 +945,18 @@
     ]
   },
   {
+    "word": "adapter",
+    "forms": [
+      {
+        "word": "adapters",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/əˈdæptərz/"
+      }
+    ]
+  },
+  {
     "word": "add",
     "forms": [
       {
@@ -1081,6 +1093,18 @@
           "past_participle"
         ],
         "ipa": "/əˈdrest/"
+      }
+    ]
+  },
+  {
+    "word": "adhesive",
+    "forms": [
+      {
+        "word": "adhesives",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ədˈhiːsɪvz/"
       }
     ]
   },
@@ -1536,6 +1560,18 @@
           "past_participle"
         ],
         "ipa": "/əˈfɔːdɪd/"
+      }
+    ]
+  },
+  {
+    "word": "aftershock",
+    "forms": [
+      {
+        "word": "aftershocks",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈæftərʃɑːks/"
       }
     ]
   },
@@ -2516,6 +2552,18 @@
     ]
   },
   {
+    "word": "anchovy",
+    "forms": [
+      {
+        "word": "anchovies",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈæntʃoʊviz/"
+      }
+    ]
+  },
+  {
     "word": "angel investor",
     "forms": [
       {
@@ -2777,6 +2825,18 @@
           "past_participle"
         ],
         "ipa": "/əˈnɒn.ɪ.maɪzd/"
+      }
+    ]
+  },
+  {
+    "word": "antelope",
+    "forms": [
+      {
+        "word": "antelope",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈæntəloʊp/"
       }
     ]
   },
@@ -3451,6 +3511,18 @@
     ]
   },
   {
+    "word": "apricot",
+    "forms": [
+      {
+        "word": "apricots",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈeɪprɪkɑːts/"
+      }
+    ]
+  },
+  {
     "word": "apron",
     "forms": [
       {
@@ -3914,6 +3986,18 @@
     ]
   },
   {
+    "word": "artichoke",
+    "forms": [
+      {
+        "word": "artichokes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɑːrtɪtʃoʊks/"
+      }
+    ]
+  },
+  {
     "word": "articulate",
     "forms": [
       {
@@ -3976,6 +4060,18 @@
           "plural"
         ],
         "ipa": "/ˈɑːtwɜːks/"
+      }
+    ]
+  },
+  {
+    "word": "ashtray",
+    "forms": [
+      {
+        "word": "ashtrays",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈæʃtreɪz/"
       }
     ]
   },
@@ -4811,6 +4907,18 @@
     ]
   },
   {
+    "word": "attic",
+    "forms": [
+      {
+        "word": "attics",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈætɪks/"
+      }
+    ]
+  },
+  {
     "word": "attitude",
     "forms": [
       {
@@ -5171,6 +5279,18 @@
     ]
   },
   {
+    "word": "avalanche",
+    "forms": [
+      {
+        "word": "avalanches",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈævəlæntʃɪz/"
+      }
+    ]
+  },
+  {
     "word": "avenue",
     "forms": [
       {
@@ -5408,6 +5528,18 @@
     ]
   },
   {
+    "word": "badger",
+    "forms": [
+      {
+        "word": "badgers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈbædʒərz/"
+      }
+    ]
+  },
+  {
     "word": "baggage allowance",
     "forms": [
       {
@@ -5610,6 +5742,18 @@
     ]
   },
   {
+    "word": "banister",
+    "forms": [
+      {
+        "word": "banisters",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈbænɪstərz/"
+      }
+    ]
+  },
+  {
     "word": "bank transfer",
     "forms": [
       {
@@ -5682,6 +5826,18 @@
           "plural"
         ],
         "ipa": "/ˈbæŋkrʌptsiz/"
+      }
+    ]
+  },
+  {
+    "word": "barbecue",
+    "forms": [
+      {
+        "word": "barbecues",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈbɑːrbɪkjuːz/"
       }
     ]
   },
@@ -5843,6 +5999,18 @@
     ]
   },
   {
+    "word": "basin",
+    "forms": [
+      {
+        "word": "basins",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈbeɪsənz/"
+      }
+    ]
+  },
+  {
     "word": "basis",
     "forms": [
       {
@@ -5863,6 +6031,34 @@
           "plural"
         ],
         "ipa": "/ˈbɑːskɪts/"
+      }
+    ]
+  },
+  {
+    "word": "baste",
+    "forms": [
+      {
+        "word": "bastes",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/beɪsts/"
+      },
+      {
+        "word": "basting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/beɪstɪŋ/"
+      },
+      {
+        "word": "basted",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/beɪstɪd/"
       }
     ]
   },
@@ -5937,6 +6133,18 @@
           "plural"
         ],
         "ipa": "/ˈbæˌθrumz/"
+      }
+    ]
+  },
+  {
+    "word": "battery",
+    "forms": [
+      {
+        "word": "batteries",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈbætəriz/"
       }
     ]
   },
@@ -6020,6 +6228,46 @@
     ]
   },
   {
+    "word": "beaver",
+    "forms": [
+      {
+        "word": "beavers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈbiːvərz/"
+      }
+    ]
+  },
+  {
+    "word": "beckon",
+    "forms": [
+      {
+        "word": "beckons",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈbekənz/"
+      },
+      {
+        "word": "beckoning",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈbekənɪŋ/"
+      },
+      {
+        "word": "beckoned",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈbekənd/"
+      }
+    ]
+  },
+  {
     "word": "become",
     "forms": [
       {
@@ -6092,6 +6340,18 @@
     ]
   },
   {
+    "word": "bedspread",
+    "forms": [
+      {
+        "word": "bedspreads",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈbedspredz/"
+      }
+    ]
+  },
+  {
     "word": "beg",
     "forms": [
       {
@@ -6160,6 +6420,34 @@
           "plural"
         ],
         "ipa": "/ˈbiːɪŋz/"
+      }
+    ]
+  },
+  {
+    "word": "belch",
+    "forms": [
+      {
+        "word": "belches",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/beltʃɪz/"
+      },
+      {
+        "word": "belching",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/beltʃɪŋ/"
+      },
+      {
+        "word": "belched",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/beltʃt/"
       }
     ]
   },
@@ -6300,6 +6588,18 @@
           "plural"
         ],
         "ipa": "/belts/"
+      }
+    ]
+  },
+  {
+    "word": "bench",
+    "forms": [
+      {
+        "word": "benches",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/bentʃɪz/"
       }
     ]
   },
@@ -6531,6 +6831,18 @@
     ]
   },
   {
+    "word": "bin",
+    "forms": [
+      {
+        "word": "bins",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/bɪnz/"
+      }
+    ]
+  },
+  {
     "word": "binary",
     "forms": [
       {
@@ -6607,6 +6919,30 @@
     ]
   },
   {
+    "word": "bison",
+    "forms": [
+      {
+        "word": "bison",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈbaɪsən/"
+      }
+    ]
+  },
+  {
+    "word": "blackberry",
+    "forms": [
+      {
+        "word": "blackberries",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈblækberiz/"
+      }
+    ]
+  },
+  {
     "word": "blade",
     "forms": [
       {
@@ -6643,6 +6979,34 @@
           "past_participle"
         ],
         "ipa": "/bleɪmd/"
+      }
+    ]
+  },
+  {
+    "word": "blanch",
+    "forms": [
+      {
+        "word": "blanches",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/blæntʃɪz/"
+      },
+      {
+        "word": "blanching",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/blæntʃɪŋ/"
+      },
+      {
+        "word": "blanched",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/blæntʃt/"
       }
     ]
   },
@@ -6777,6 +7141,18 @@
     ]
   },
   {
+    "word": "blender",
+    "forms": [
+      {
+        "word": "blenders",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈblendərz/"
+      }
+    ]
+  },
+  {
     "word": "bless",
     "forms": [
       {
@@ -6898,6 +7274,18 @@
     ]
   },
   {
+    "word": "blueberry",
+    "forms": [
+      {
+        "word": "blueberries",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈbluːberiz/"
+      }
+    ]
+  },
+  {
     "word": "bluetooth codec",
     "forms": [
       {
@@ -6935,6 +7323,18 @@
           "past_participle"
         ],
         "ipa": "/blɜː(r)d/"
+      }
+    ]
+  },
+  {
+    "word": "boar",
+    "forms": [
+      {
+        "word": "boars",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/bɔːrz/"
       }
     ]
   },
@@ -6995,6 +7395,42 @@
           "plural"
         ],
         "ipa": "/ˈbɔrdɪŋ ˈtaɪmz/"
+      }
+    ]
+  },
+  {
+    "word": "bobcat",
+    "forms": [
+      {
+        "word": "bobcats",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈbɑːbkæts/"
+      }
+    ]
+  },
+  {
+    "word": "bog",
+    "forms": [
+      {
+        "word": "bogs",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/bɑːɡz/"
+      }
+    ]
+  },
+  {
+    "word": "bolster",
+    "forms": [
+      {
+        "word": "bolsters",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈboʊlstərz/"
       }
     ]
   },
@@ -7091,6 +7527,18 @@
         "ipa": "/bʊkt/",
         "example": "We booked a room for two nights.",
         "exampleVi": "Chúng tôi đặt phòng cho hai đêm."
+      }
+    ]
+  },
+  {
+    "word": "bookcase",
+    "forms": [
+      {
+        "word": "bookcases",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈbʊkkeɪsɪz/"
       }
     ]
   },
@@ -7476,6 +7924,34 @@
           "plural"
         ],
         "ipa": "/breɪnz/"
+      }
+    ]
+  },
+  {
+    "word": "braise",
+    "forms": [
+      {
+        "word": "braises",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/breɪzɪz/"
+      },
+      {
+        "word": "braising",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/breɪzɪŋ/"
+      },
+      {
+        "word": "braised",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/breɪzd/"
       }
     ]
   },
@@ -8135,6 +8611,18 @@
     ]
   },
   {
+    "word": "breaker",
+    "forms": [
+      {
+        "word": "breakers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈbreɪkərz/"
+      }
+    ]
+  },
+  {
     "word": "breakfast",
     "forms": [
       {
@@ -8756,6 +9244,18 @@
     ]
   },
   {
+    "word": "brisket",
+    "forms": [
+      {
+        "word": "briskets",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈbrɪskɪts/"
+      }
+    ]
+  },
+  {
     "word": "broadcast",
     "forms": [
       {
@@ -8813,6 +9313,46 @@
           "plural"
         ],
         "ipa": "/ˈbrəʊʃəz/"
+      }
+    ]
+  },
+  {
+    "word": "broil",
+    "forms": [
+      {
+        "word": "broils",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/brɔɪlz/"
+      },
+      {
+        "word": "broiling",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/brɔɪlɪŋ/"
+      },
+      {
+        "word": "broiled",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/brɔɪld/"
+      }
+    ]
+  },
+  {
+    "word": "brook",
+    "forms": [
+      {
+        "word": "brooks",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/brʊks/"
       }
     ]
   },
@@ -8924,6 +9464,18 @@
     ]
   },
   {
+    "word": "bucket",
+    "forms": [
+      {
+        "word": "buckets",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈbʌkɪts/"
+      }
+    ]
+  },
+  {
     "word": "bud",
     "forms": [
       {
@@ -9006,6 +9558,18 @@
         "ipa": "/ˈbʌdʒ.ɪt kʌts/",
         "example": "Budget cuts affected every team.",
         "exampleVi": "Việc cắt giảm ngân sách ảnh hưởng tới mọi đội."
+      }
+    ]
+  },
+  {
+    "word": "buffalo",
+    "forms": [
+      {
+        "word": "buffaloes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈbʌfəloʊz/"
       }
     ]
   },
@@ -9162,6 +9726,18 @@
     ]
   },
   {
+    "word": "bulb",
+    "forms": [
+      {
+        "word": "bulbs",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/bʌlbz/"
+      }
+    ]
+  },
+  {
     "word": "bulkhead",
     "forms": [
       {
@@ -9314,6 +9890,18 @@
     ]
   },
   {
+    "word": "bunk",
+    "forms": [
+      {
+        "word": "bunks",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/bʌŋks/"
+      }
+    ]
+  },
+  {
     "word": "burden",
     "forms": [
       {
@@ -9387,6 +9975,34 @@
           "plural"
         ],
         "ipa": "/ˈbɜːn.aʊts/"
+      }
+    ]
+  },
+  {
+    "word": "burp",
+    "forms": [
+      {
+        "word": "burps",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/bɜːrps/"
+      },
+      {
+        "word": "burping",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/bɜːrpɪŋ/"
+      },
+      {
+        "word": "burped",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/bɜːrpt/"
       }
     ]
   },
@@ -9720,6 +10336,18 @@
           "past_participle"
         ],
         "ipa": "/ˈbəzd/"
+      }
+    ]
+  },
+  {
+    "word": "cabbage",
+    "forms": [
+      {
+        "word": "cabbages",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkæbɪdʒɪz/"
       }
     ]
   },
@@ -10568,6 +11196,18 @@
     ]
   },
   {
+    "word": "canister",
+    "forms": [
+      {
+        "word": "canisters",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkænɪstərz/"
+      }
+    ]
+  },
+  {
     "word": "canon",
     "forms": [
       {
@@ -10576,6 +11216,30 @@
           "plural"
         ],
         "ipa": "/ˈkænənz/"
+      }
+    ]
+  },
+  {
+    "word": "cantaloupe",
+    "forms": [
+      {
+        "word": "cantaloupes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkæntəloʊps/"
+      }
+    ]
+  },
+  {
+    "word": "canyon",
+    "forms": [
+      {
+        "word": "canyons",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkænjənz/"
       }
     ]
   },
@@ -10726,6 +11390,34 @@
         "ipa": "/ˈkæptʃə(r)d/",
         "example": "The police captured the suspect.",
         "exampleVi": "Cảnh sát đã bắt được nghi phạm."
+      }
+    ]
+  },
+  {
+    "word": "caramelize",
+    "forms": [
+      {
+        "word": "caramelizes",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈkærəməlaɪzɪz/"
+      },
+      {
+        "word": "caramelizing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈkærəməlaɪzɪŋ/"
+      },
+      {
+        "word": "caramelized",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈkærəməlaɪzd/"
       }
     ]
   },
@@ -10982,6 +11674,18 @@
           "plural"
         ],
         "ipa": "/ˈkɑː.nɪ.vəlz/"
+      }
+    ]
+  },
+  {
+    "word": "carp",
+    "forms": [
+      {
+        "word": "carp",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kɑːrp/"
       }
     ]
   },
@@ -11499,6 +12203,18 @@
     ]
   },
   {
+    "word": "casserole",
+    "forms": [
+      {
+        "word": "casseroles",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkæsəroʊlz/"
+      }
+    ]
+  },
+  {
     "word": "cast",
     "forms": [
       {
@@ -11646,6 +12362,18 @@
           "plural"
         ],
         "ipa": "/kəˈθiːdrəlz/"
+      }
+    ]
+  },
+  {
+    "word": "cauliflower",
+    "forms": [
+      {
+        "word": "cauliflowers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkɔːliflaʊərz/"
       }
     ]
   },
@@ -11801,6 +12529,18 @@
           "plural"
         ],
         "ipa": "/selz/"
+      }
+    ]
+  },
+  {
+    "word": "cellar",
+    "forms": [
+      {
+        "word": "cellars",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈselərz/"
       }
     ]
   },
@@ -12425,6 +13165,18 @@
     ]
   },
   {
+    "word": "cheetah",
+    "forms": [
+      {
+        "word": "cheetahs",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtʃiːtəz/"
+      }
+    ]
+  },
+  {
     "word": "chemical",
     "forms": [
       {
@@ -12459,6 +13211,18 @@
           "plural"
         ],
         "ipa": "/ˈtʃests/"
+      }
+    ]
+  },
+  {
+    "word": "chestnut",
+    "forms": [
+      {
+        "word": "chestnuts",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtʃesnʌts/"
       }
     ]
   },
@@ -12590,6 +13354,30 @@
     ]
   },
   {
+    "word": "chipmunk",
+    "forms": [
+      {
+        "word": "chipmunks",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtʃɪpmʌŋks/"
+      }
+    ]
+  },
+  {
+    "word": "chisel",
+    "forms": [
+      {
+        "word": "chisels",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtʃɪzəlz/"
+      }
+    ]
+  },
+  {
     "word": "choir",
     "forms": [
       {
@@ -12598,6 +13386,34 @@
           "plural"
         ],
         "ipa": "/ˈkwaɪəz/"
+      }
+    ]
+  },
+  {
+    "word": "choke",
+    "forms": [
+      {
+        "word": "chokes",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/tʃoʊks/"
+      },
+      {
+        "word": "choking",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/tʃoʊkɪŋ/"
+      },
+      {
+        "word": "choked",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/tʃoʊkt/"
       }
     ]
   },
@@ -12697,6 +13513,18 @@
           "past_participle"
         ],
         "ipa": "/tʃɒpt/"
+      }
+    ]
+  },
+  {
+    "word": "chopstick",
+    "forms": [
+      {
+        "word": "chopsticks",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtʃɑːpstɪks/"
       }
     ]
   },
@@ -12938,6 +13766,30 @@
     ]
   },
   {
+    "word": "clam",
+    "forms": [
+      {
+        "word": "clams",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/klæmz/"
+      }
+    ]
+  },
+  {
+    "word": "clamp",
+    "forms": [
+      {
+        "word": "clamps",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/klæmps/"
+      }
+    ]
+  },
+  {
     "word": "clap",
     "forms": [
       {
@@ -13118,6 +13970,18 @@
           "plural"
         ],
         "ipa": "/ˈkɫin ˈɑɹkəˌtɛktʃɝz/"
+      }
+    ]
+  },
+  {
+    "word": "clementine",
+    "forms": [
+      {
+        "word": "clementines",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkleməntaɪnz/"
       }
     ]
   },
@@ -13331,6 +14195,18 @@
     ]
   },
   {
+    "word": "clove",
+    "forms": [
+      {
+        "word": "cloves",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kloʊvz/"
+      }
+    ]
+  },
+  {
     "word": "cluster",
     "forms": [
       {
@@ -13367,6 +14243,18 @@
     ]
   },
   {
+    "word": "coaster",
+    "forms": [
+      {
+        "word": "coasters",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkoʊstərz/"
+      }
+    ]
+  },
+  {
     "word": "coastline",
     "forms": [
       {
@@ -13391,6 +14279,46 @@
     ]
   },
   {
+    "word": "coax",
+    "forms": [
+      {
+        "word": "coaxes",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/koʊksɪz/"
+      },
+      {
+        "word": "coaxing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/koʊksɪŋ/"
+      },
+      {
+        "word": "coaxed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/koʊkst/"
+      }
+    ]
+  },
+  {
+    "word": "cobweb",
+    "forms": [
+      {
+        "word": "cobwebs",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkɑːbwebz/"
+      }
+    ]
+  },
+  {
     "word": "cocktail",
     "forms": [
       {
@@ -13411,6 +14339,18 @@
           "plural"
         ],
         "ipa": "/ˈkoʊkənʌts/"
+      }
+    ]
+  },
+  {
+    "word": "cod",
+    "forms": [
+      {
+        "word": "cod",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kɑːd/"
       }
     ]
   },
@@ -13762,6 +14702,18 @@
           "plural"
         ],
         "ipa": "/ˈkəɫɝ ˈɡæməts/"
+      }
+    ]
+  },
+  {
+    "word": "colt",
+    "forms": [
+      {
+        "word": "colts",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/koʊlts/"
       }
     ]
   },
@@ -18070,6 +19022,18 @@
     ]
   },
   {
+    "word": "cord",
+    "forms": [
+      {
+        "word": "cords",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kɔːrdz/"
+      }
+    ]
+  },
+  {
     "word": "core",
     "forms": [
       {
@@ -18090,6 +19054,18 @@
           "plural"
         ],
         "ipa": "/ˈkɔɹ ˈkɑmpətɪnsiz/"
+      }
+    ]
+  },
+  {
+    "word": "cork",
+    "forms": [
+      {
+        "word": "corks",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kɔːrks/"
       }
     ]
   },
@@ -18350,6 +19326,18 @@
     ]
   },
   {
+    "word": "cot",
+    "forms": [
+      {
+        "word": "cots",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kɑːts/"
+      }
+    ]
+  },
+  {
     "word": "cottage",
     "forms": [
       {
@@ -18358,6 +19346,18 @@
           "plural"
         ],
         "ipa": "/ˈkɒt.ɪdʒɪz/"
+      }
+    ]
+  },
+  {
+    "word": "cougar",
+    "forms": [
+      {
+        "word": "cougars",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkuːɡərz/"
       }
     ]
   },
@@ -18578,6 +19578,18 @@
     ]
   },
   {
+    "word": "courtyard",
+    "forms": [
+      {
+        "word": "courtyards",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkɔːrtjɑːrdz/"
+      }
+    ]
+  },
+  {
     "word": "cousin",
     "forms": [
       {
@@ -18586,6 +19598,18 @@
           "plural"
         ],
         "ipa": "/ˈkʌzənz/"
+      }
+    ]
+  },
+  {
+    "word": "cove",
+    "forms": [
+      {
+        "word": "coves",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/koʊvz/"
       }
     ]
   },
@@ -18633,6 +19657,18 @@
     ]
   },
   {
+    "word": "crab",
+    "forms": [
+      {
+        "word": "crabs",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kræbz/"
+      }
+    ]
+  },
+  {
     "word": "crack",
     "forms": [
       {
@@ -18669,6 +19705,18 @@
           "plural"
         ],
         "ipa": "/krɑːfts/"
+      }
+    ]
+  },
+  {
+    "word": "cranberry",
+    "forms": [
+      {
+        "word": "cranberries",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkrænberiz/"
       }
     ]
   },
@@ -18873,6 +19921,18 @@
     ]
   },
   {
+    "word": "creek",
+    "forms": [
+      {
+        "word": "creeks",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kriːks/"
+      }
+    ]
+  },
+  {
     "word": "crew",
     "forms": [
       {
@@ -18881,6 +19941,18 @@
           "plural"
         ],
         "ipa": "/kruːz/"
+      }
+    ]
+  },
+  {
+    "word": "crib",
+    "forms": [
+      {
+        "word": "cribs",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/krɪbz/"
       }
     ]
   },
@@ -18928,8 +20000,23 @@
         "types": [
           "plural"
         ],
-        "ipa": "/kraɪˈtɪəriə/"
+        "ipa": "/kraɪˈtɪə.ri.ə/",
+        "example": "Applicants are ranked against five published criteria.",
+        "exampleVi": "Ứng viên được xếp hạng theo năm tiêu chí đã công bố."
       }
+    ],
+    "renameFrom": "criteria",
+    "pos": "noun",
+    "meaningVi": "các tiêu chí",
+    "lemmaMeaningVi": "tiêu chí",
+    "ipa": "/kraɪˈtɪəriən/",
+    "example": "Price is only one criterion when choosing a supplier.",
+    "exampleVi": "Giá chỉ là một tiêu chí khi chọn nhà cung cấp.",
+    "sourceSynonyms": [
+      "standards"
+    ],
+    "lemmaSynonyms": [
+      "standard"
     ]
   },
   {
@@ -19076,6 +20163,18 @@
     ]
   },
   {
+    "word": "crowbar",
+    "forms": [
+      {
+        "word": "crowbars",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkroʊbɑːrz/"
+      }
+    ]
+  },
+  {
     "word": "cruise",
     "forms": [
       {
@@ -19101,6 +20200,18 @@
           "past_participle"
         ],
         "ipa": "/kruːzd/"
+      }
+    ]
+  },
+  {
+    "word": "crumb",
+    "forms": [
+      {
+        "word": "crumbs",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/krʌmz/"
       }
     ]
   },
@@ -19146,6 +20257,34 @@
     ]
   },
   {
+    "word": "crystallize",
+    "forms": [
+      {
+        "word": "crystallizes",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈkrɪstəlaɪzɪz/"
+      },
+      {
+        "word": "crystallizing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈkrɪstəlaɪzɪŋ/"
+      },
+      {
+        "word": "crystallized",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈkrɪstəlaɪzd/"
+      }
+    ]
+  },
+  {
     "word": "cucumber",
     "forms": [
       {
@@ -19154,6 +20293,34 @@
           "plural"
         ],
         "ipa": "/ˈkjuːkʌmbərz/"
+      }
+    ]
+  },
+  {
+    "word": "cuddle",
+    "forms": [
+      {
+        "word": "cuddles",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈkʌdəlz/"
+      },
+      {
+        "word": "cuddling",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈkʌdəlɪŋ/"
+      },
+      {
+        "word": "cuddled",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈkʌdəld/"
       }
     ]
   },
@@ -19990,6 +21157,18 @@
     ]
   },
   {
+    "word": "dam",
+    "forms": [
+      {
+        "word": "dams",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/dæmz/"
+      }
+    ]
+  },
+  {
     "word": "damage",
     "forms": [
       {
@@ -20394,6 +21573,18 @@
           "plural"
         ],
         "ipa": "/ded ˈlet.ər kjuːz/"
+      }
+    ]
+  },
+  {
+    "word": "deadbolt",
+    "forms": [
+      {
+        "word": "deadbolts",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈdedboʊlts/"
       }
     ]
   },
@@ -21035,6 +22226,18 @@
     ]
   },
   {
+    "word": "deer",
+    "forms": [
+      {
+        "word": "deer",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/dɪr/"
+      }
+    ]
+  },
+  {
     "word": "default route",
     "forms": [
       {
@@ -21201,6 +22404,34 @@
           "past_participle"
         ],
         "ipa": "/dɪˈfaɪnd/"
+      }
+    ]
+  },
+  {
+    "word": "defrost",
+    "forms": [
+      {
+        "word": "defrosts",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˌdiːˈfrɔːsts/"
+      },
+      {
+        "word": "defrosting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˌdiːˈfrɔːstɪŋ/"
+      },
+      {
+        "word": "defrosted",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˌdiːˈfrɔːstɪd/"
       }
     ]
   },
@@ -21475,6 +22706,18 @@
     ]
   },
   {
+    "word": "delta",
+    "forms": [
+      {
+        "word": "deltas",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈdeltəz/"
+      }
+    ]
+  },
+  {
     "word": "demand",
     "forms": [
       {
@@ -21626,6 +22869,18 @@
           "plural"
         ],
         "ipa": "/ˈdɛns ˈmɑdəɫz/"
+      }
+    ]
+  },
+  {
+    "word": "dent",
+    "forms": [
+      {
+        "word": "dents",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/dents/"
       }
     ]
   },
@@ -22907,6 +24162,34 @@
           "plural"
         ],
         "ipa": "/ˈdaɪ.ə.lekts/"
+      }
+    ]
+  },
+  {
+    "word": "dice",
+    "forms": [
+      {
+        "word": "dices",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/daɪsɪz/"
+      },
+      {
+        "word": "dicing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/daɪsɪŋ/"
+      },
+      {
+        "word": "diced",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/daɪst/"
       }
     ]
   },
@@ -24664,6 +25947,18 @@
     ]
   },
   {
+    "word": "donkey",
+    "forms": [
+      {
+        "word": "donkeys",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈdɑːŋkiz/"
+      }
+    ]
+  },
+  {
     "word": "donor",
     "forms": [
       {
@@ -24736,6 +26031,18 @@
           "plural"
         ],
         "ipa": "/ˈdɔrˌmæts/"
+      }
+    ]
+  },
+  {
+    "word": "doorstep",
+    "forms": [
+      {
+        "word": "doorsteps",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈdɔːrsteps/"
       }
     ]
   },
@@ -25113,6 +26420,18 @@
     ]
   },
   {
+    "word": "dresser",
+    "forms": [
+      {
+        "word": "dressers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈdresərz/"
+      }
+    ]
+  },
+  {
     "word": "dressing gown",
     "forms": [
       {
@@ -25121,6 +26440,34 @@
           "plural"
         ],
         "ipa": "/ˈdresɪŋ ˈɡaʊnz/"
+      }
+    ]
+  },
+  {
+    "word": "dribble",
+    "forms": [
+      {
+        "word": "dribbles",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈdrɪbəlz/"
+      },
+      {
+        "word": "dribbling",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈdrɪbəlɪŋ/"
+      },
+      {
+        "word": "dribbled",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈdrɪbəld/"
       }
     ]
   },
@@ -25149,6 +26496,18 @@
           "past_participle"
         ],
         "ipa": "/drɪftɪd/"
+      }
+    ]
+  },
+  {
+    "word": "drill",
+    "forms": [
+      {
+        "word": "drills",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/drɪlz/"
       }
     ]
   },
@@ -25235,6 +26594,74 @@
           "plural"
         ],
         "ipa": "/ˈdraɪ.vərz/"
+      }
+    ]
+  },
+  {
+    "word": "driveway",
+    "forms": [
+      {
+        "word": "driveways",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈdraɪvweɪz/"
+      }
+    ]
+  },
+  {
+    "word": "drizzle",
+    "forms": [
+      {
+        "word": "drizzles",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈdrɪzəlz/"
+      },
+      {
+        "word": "drizzling",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈdrɪzəlɪŋ/"
+      },
+      {
+        "word": "drizzled",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈdrɪzəld/"
+      }
+    ]
+  },
+  {
+    "word": "drool",
+    "forms": [
+      {
+        "word": "drools",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/druːlz/"
+      },
+      {
+        "word": "drooling",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/druːlɪŋ/"
+      },
+      {
+        "word": "drooled",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/druːld/"
       }
     ]
   },
@@ -25629,6 +27056,18 @@
     ]
   },
   {
+    "word": "dune",
+    "forms": [
+      {
+        "word": "dunes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/duːnz/"
+      }
+    ]
+  },
+  {
     "word": "duplicate",
     "forms": [
       {
@@ -25649,6 +27088,18 @@
           "plural"
         ],
         "ipa": "/djɔːˈreɪ.ʃənz/"
+      }
+    ]
+  },
+  {
+    "word": "dustbin",
+    "forms": [
+      {
+        "word": "dustbins",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈdʌstbɪnz/"
       }
     ]
   },
@@ -26103,6 +27554,18 @@
     ]
   },
   {
+    "word": "eel",
+    "forms": [
+      {
+        "word": "eels",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/iːlz/"
+      }
+    ]
+  },
+  {
     "word": "efficiency core",
     "forms": [
       {
@@ -26135,6 +27598,18 @@
           "plural"
         ],
         "ipa": "/eɡz/"
+      }
+    ]
+  },
+  {
+    "word": "eggplant",
+    "forms": [
+      {
+        "word": "eggplants",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈeɡplænts/"
       }
     ]
   },
@@ -26243,6 +27718,18 @@
     ]
   },
   {
+    "word": "elephant",
+    "forms": [
+      {
+        "word": "elephants",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈeləfənts/"
+      }
+    ]
+  },
+  {
     "word": "elevator pitch",
     "forms": [
       {
@@ -26291,6 +27778,30 @@
           "plural"
         ],
         "ipa": "/eɪˈliːts/"
+      }
+    ]
+  },
+  {
+    "word": "elk",
+    "forms": [
+      {
+        "word": "elk",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/elk/"
+      }
+    ]
+  },
+  {
+    "word": "embankment",
+    "forms": [
+      {
+        "word": "embankments",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɪmˈbæŋkmənts/"
       }
     ]
   },
@@ -27586,6 +29097,18 @@
     ]
   },
   {
+    "word": "estuary",
+    "forms": [
+      {
+        "word": "estuaries",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈestʃueriz/"
+      }
+    ]
+  },
+  {
     "word": "ethic",
     "forms": [
       {
@@ -27742,6 +29265,18 @@
         "ipa": "/ɪˈvɒlvd/",
         "example": "The festival evolved from a small village fair.",
         "exampleVi": "Lễ hội tiến hoá dần dần từ một hội chợ làng nhỏ."
+      }
+    ]
+  },
+  {
+    "word": "ewe",
+    "forms": [
+      {
+        "word": "ewes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/juːz/"
       }
     ]
   },
@@ -29721,6 +31256,18 @@
     ]
   },
   {
+    "word": "faucet",
+    "forms": [
+      {
+        "word": "faucets",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈfɔːsɪts/"
+      }
+    ]
+  },
+  {
     "word": "fault",
     "forms": [
       {
@@ -29960,6 +31507,46 @@
     ]
   },
   {
+    "word": "fence",
+    "forms": [
+      {
+        "word": "fences",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/fensɪz/"
+      }
+    ]
+  },
+  {
+    "word": "ferment",
+    "forms": [
+      {
+        "word": "ferments",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/fərˈments/"
+      },
+      {
+        "word": "fermenting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/fərˈmentɪŋ/"
+      },
+      {
+        "word": "fermented",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/fərˈmentɪd/"
+      }
+    ]
+  },
+  {
     "word": "ferry terminal",
     "forms": [
       {
@@ -30004,6 +31591,18 @@
           "plural"
         ],
         "ipa": "/fəˈduʃiˌɛɹi ˈdjutiz/"
+      }
+    ]
+  },
+  {
+    "word": "fig",
+    "forms": [
+      {
+        "word": "figs",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/fɪɡz/"
       }
     ]
   },
@@ -30092,6 +31691,18 @@
           "past_participle"
         ],
         "ipa": "/faɪld/"
+      }
+    ]
+  },
+  {
+    "word": "filly",
+    "forms": [
+      {
+        "word": "fillies",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈfɪliz/"
       }
     ]
   },
@@ -30445,6 +32056,30 @@
     ]
   },
   {
+    "word": "flashlight",
+    "forms": [
+      {
+        "word": "flashlights",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈflæʃlaɪts/"
+      }
+    ]
+  },
+  {
+    "word": "flask",
+    "forms": [
+      {
+        "word": "flasks",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/flæsks/"
+      }
+    ]
+  },
+  {
     "word": "flavour",
     "forms": [
       {
@@ -30523,6 +32158,34 @@
           "plural"
         ],
         "ipa": "/ˈflaɪt əˈtendənts/"
+      }
+    ]
+  },
+  {
+    "word": "flinch",
+    "forms": [
+      {
+        "word": "flinches",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/flɪntʃɪz/"
+      },
+      {
+        "word": "flinching",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/flɪntʃɪŋ/"
+      },
+      {
+        "word": "flinched",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/flɪntʃt/"
       }
     ]
   },
@@ -30680,6 +32343,18 @@
         "ipa": "/ˌflʌk.tʃuˈeɪ.ʃənz/",
         "example": "Seasonal fluctuations make the yearly average misleading.",
         "exampleVi": "Sự dao động lên xuống theo mùa khiến số trung bình năm dễ gây hiểu nhầm."
+      }
+    ]
+  },
+  {
+    "word": "foal",
+    "forms": [
+      {
+        "word": "foals",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/foʊlz/"
       }
     ]
   },
@@ -30876,6 +32551,18 @@
         "ipa": "/ˈfit/",
         "example": "The shelf is three feet long.",
         "exampleVi": "Chiếc kệ dài ba foot."
+      }
+    ]
+  },
+  {
+    "word": "foothill",
+    "forms": [
+      {
+        "word": "foothills",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈfʊthɪlz/"
       }
     ]
   },
@@ -31675,6 +33362,46 @@
     ]
   },
   {
+    "word": "frown",
+    "forms": [
+      {
+        "word": "frowns",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/fraʊnz/"
+      },
+      {
+        "word": "frowning",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/fraʊnɪŋ/"
+      },
+      {
+        "word": "frowned",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/fraʊnd/"
+      }
+    ]
+  },
+  {
+    "word": "fryer",
+    "forms": [
+      {
+        "word": "fryers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈfraɪərz/"
+      }
+    ]
+  },
+  {
     "word": "fuel",
     "forms": [
       {
@@ -31994,6 +33721,18 @@
     ]
   },
   {
+    "word": "fuse",
+    "forms": [
+      {
+        "word": "fuses",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/fjuːzɪz/"
+      }
+    ]
+  },
+  {
     "word": "gadget",
     "forms": [
       {
@@ -32073,6 +33812,18 @@
     ]
   },
   {
+    "word": "garage",
+    "forms": [
+      {
+        "word": "garages",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɡəˈrɑːʒɪz/"
+      }
+    ]
+  },
+  {
     "word": "gardener",
     "forms": [
       {
@@ -32093,6 +33844,34 @@
           "plural"
         ],
         "ipa": "/ˈɡɑː.mənts/"
+      }
+    ]
+  },
+  {
+    "word": "garnish",
+    "forms": [
+      {
+        "word": "garnishes",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈɡɑːrnɪʃɪz/"
+      },
+      {
+        "word": "garnishing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈɡɑːrnɪʃɪŋ/"
+      },
+      {
+        "word": "garnished",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈɡɑːrnɪʃt/"
       }
     ]
   },
@@ -32187,6 +33966,18 @@
           "past_participle"
         ],
         "ipa": "/ɡeɪzd/"
+      }
+    ]
+  },
+  {
+    "word": "gazelle",
+    "forms": [
+      {
+        "word": "gazelles",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɡəˈzelz/"
       }
     ]
   },
@@ -32320,6 +34111,18 @@
           "plural"
         ],
         "ipa": "/ˈʒɒrəz/"
+      }
+    ]
+  },
+  {
+    "word": "gerbil",
+    "forms": [
+      {
+        "word": "gerbils",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈdʒɜːrbəlz/"
       }
     ]
   },
@@ -33537,6 +35340,18 @@
           "plural"
         ],
         "ipa": "/ɡɪɡz/"
+      }
+    ]
+  },
+  {
+    "word": "giraffe",
+    "forms": [
+      {
+        "word": "giraffes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/dʒəˈræfs/"
       }
     ]
   },
@@ -35213,6 +37028,30 @@
     ]
   },
   {
+    "word": "goat",
+    "forms": [
+      {
+        "word": "goats",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɡoʊts/"
+      }
+    ]
+  },
+  {
+    "word": "goblet",
+    "forms": [
+      {
+        "word": "goblets",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɡɑːbləts/"
+      }
+    ]
+  },
+  {
     "word": "going concern",
     "forms": [
       {
@@ -35221,6 +37060,18 @@
           "plural"
         ],
         "ipa": "/ˈɡoʊɪn kənˈsɝnz/"
+      }
+    ]
+  },
+  {
+    "word": "gooseberry",
+    "forms": [
+      {
+        "word": "gooseberries",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɡuːsberiz/"
       }
     ]
   },
@@ -35307,6 +37158,18 @@
           "plural"
         ],
         "ipa": "/ˈɡɒs.ɪp ˈprəʊ.tə.kɒlz/"
+      }
+    ]
+  },
+  {
+    "word": "gourd",
+    "forms": [
+      {
+        "word": "gourds",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɡʊrdz/"
       }
     ]
   },
@@ -35557,6 +37420,18 @@
     ]
   },
   {
+    "word": "grapefruit",
+    "forms": [
+      {
+        "word": "grapefruits",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɡreɪpfruːts/"
+      }
+    ]
+  },
+  {
     "word": "graph database",
     "forms": [
       {
@@ -35631,6 +37506,46 @@
         "ipa": "/ɡrɑːspt/",
         "example": "He quickly grasped the idea.",
         "exampleVi": "Anh ấy nhanh chóng nắm bắt được ý tưởng."
+      }
+    ]
+  },
+  {
+    "word": "grate",
+    "forms": [
+      {
+        "word": "grates",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ɡreɪts/"
+      },
+      {
+        "word": "grating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ɡreɪtɪŋ/"
+      },
+      {
+        "word": "grated",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ɡreɪtɪd/"
+      }
+    ]
+  },
+  {
+    "word": "grater",
+    "forms": [
+      {
+        "word": "graters",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɡreɪtərz/"
       }
     ]
   },
@@ -35724,6 +37639,18 @@
     ]
   },
   {
+    "word": "grinder",
+    "forms": [
+      {
+        "word": "grinders",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɡraɪndərz/"
+      }
+    ]
+  },
+  {
     "word": "grip",
     "forms": [
       {
@@ -35780,6 +37707,18 @@
           "plural"
         ],
         "ipa": "/ˈɡɹaʊndɪd ɹiˈspɑnsɪz/"
+      }
+    ]
+  },
+  {
+    "word": "grove",
+    "forms": [
+      {
+        "word": "groves",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɡroʊvz/"
       }
     ]
   },
@@ -35859,6 +37798,18 @@
     ]
   },
   {
+    "word": "guava",
+    "forms": [
+      {
+        "word": "guavas",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɡwɑːvəz/"
+      }
+    ]
+  },
+  {
     "word": "guest",
     "forms": [
       {
@@ -35897,6 +37848,18 @@
     ]
   },
   {
+    "word": "gulf",
+    "forms": [
+      {
+        "word": "gulfs",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ɡʌlfs/"
+      }
+    ]
+  },
+  {
     "word": "gum",
     "forms": [
       {
@@ -35926,6 +37889,18 @@
     ]
   },
   {
+    "word": "gutter",
+    "forms": [
+      {
+        "word": "gutters",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɡʌtərz/"
+      }
+    ]
+  },
+  {
     "word": "habit",
     "forms": [
       {
@@ -35946,6 +37921,18 @@
           "plural"
         ],
         "ipa": "/ˈhæk.ərz/"
+      }
+    ]
+  },
+  {
+    "word": "haddock",
+    "forms": [
+      {
+        "word": "haddock",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈhædək/"
       }
     ]
   },
@@ -36012,6 +37999,18 @@
           "plural"
         ],
         "ipa": "/ˈhæf sɪstərz/"
+      }
+    ]
+  },
+  {
+    "word": "halibut",
+    "forms": [
+      {
+        "word": "halibut",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈhælɪbət/"
       }
     ]
   },
@@ -36112,6 +38111,30 @@
           "past_participle"
         ],
         "ipa": "/ˈhæmə(r)d/"
+      }
+    ]
+  },
+  {
+    "word": "hammock",
+    "forms": [
+      {
+        "word": "hammocks",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈhæməks/"
+      }
+    ]
+  },
+  {
+    "word": "hamster",
+    "forms": [
+      {
+        "word": "hamsters",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈhæmstərz/"
       }
     ]
   },
@@ -36266,6 +38289,18 @@
     ]
   },
   {
+    "word": "handrail",
+    "forms": [
+      {
+        "word": "handrails",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈhændreɪlz/"
+      }
+    ]
+  },
+  {
     "word": "handshake",
     "forms": [
       {
@@ -36384,6 +38419,18 @@
     ]
   },
   {
+    "word": "hare",
+    "forms": [
+      {
+        "word": "hares",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/herz/"
+      }
+    ]
+  },
+  {
     "word": "harmful output",
     "forms": [
       {
@@ -36476,6 +38523,18 @@
     ]
   },
   {
+    "word": "hazelnut",
+    "forms": [
+      {
+        "word": "hazelnuts",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈheɪzəlnʌts/"
+      }
+    ]
+  },
+  {
     "word": "head",
     "forms": [
       {
@@ -36515,6 +38574,18 @@
           "plural"
         ],
         "ipa": "/ˈhedeɪks/"
+      }
+    ]
+  },
+  {
+    "word": "headboard",
+    "forms": [
+      {
+        "word": "headboards",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈhedbɔːrdz/"
       }
     ]
   },
@@ -36777,6 +38848,18 @@
     ]
   },
   {
+    "word": "heath",
+    "forms": [
+      {
+        "word": "heaths",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/hiːθs/"
+      }
+    ]
+  },
+  {
     "word": "heaven",
     "forms": [
       {
@@ -36809,6 +38892,18 @@
           "plural"
         ],
         "ipa": "/ˈhɛdʒ ˈfəndz/"
+      }
+    ]
+  },
+  {
+    "word": "hedgehog",
+    "forms": [
+      {
+        "word": "hedgehogs",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈhedʒhɑːɡz/"
       }
     ]
   },
@@ -37019,6 +39114,18 @@
     ]
   },
   {
+    "word": "herring",
+    "forms": [
+      {
+        "word": "herring",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈherɪŋ/"
+      }
+    ]
+  },
+  {
     "word": "hesitate",
     "forms": [
       {
@@ -37138,6 +39245,30 @@
     ]
   },
   {
+    "word": "hillside",
+    "forms": [
+      {
+        "word": "hillsides",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈhɪlsaɪdz/"
+      }
+    ]
+  },
+  {
+    "word": "hinge",
+    "forms": [
+      {
+        "word": "hinges",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/hɪndʒɪz/"
+      }
+    ]
+  },
+  {
     "word": "hinge mechanism",
     "forms": [
       {
@@ -37170,6 +39301,18 @@
           "plural"
         ],
         "ipa": "/hɪps/"
+      }
+    ]
+  },
+  {
+    "word": "hippopotamus",
+    "forms": [
+      {
+        "word": "hippopotamuses",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌhɪpəˈpɑːtəməsɪz/"
       }
     ]
   },
@@ -37584,6 +39727,18 @@
     ]
   },
   {
+    "word": "honeydew",
+    "forms": [
+      {
+        "word": "honeydews",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈhʌniduːz/"
+      }
+    ]
+  },
+  {
     "word": "honor",
     "forms": [
       {
@@ -37734,6 +39889,18 @@
           "past_participle"
         ],
         "ipa": "/hoʊpt fər/"
+      }
+    ]
+  },
+  {
+    "word": "hose",
+    "forms": [
+      {
+        "word": "hoses",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/hoʊzɪz/"
       }
     ]
   },
@@ -38019,6 +40186,18 @@
           "plural"
         ],
         "ipa": "/haɪˈpɒθəsiːz/"
+      }
+    ]
+  },
+  {
+    "word": "iceberg",
+    "forms": [
+      {
+        "word": "icebergs",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈaɪsbɜːrɡz/"
       }
     ]
   },
@@ -39667,6 +41846,18 @@
     ]
   },
   {
+    "word": "inlet",
+    "forms": [
+      {
+        "word": "inlets",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɪnlets/"
+      }
+    ]
+  },
+  {
     "word": "innocent",
     "forms": [
       {
@@ -41195,6 +43386,18 @@
     ]
   },
   {
+    "word": "jaguar",
+    "forms": [
+      {
+        "word": "jaguars",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈdʒæɡwɑːrz/"
+      }
+    ]
+  },
+  {
     "word": "jail",
     "forms": [
       {
@@ -41244,6 +43447,18 @@
           "plural"
         ],
         "ipa": "/ˈdʒæmz/"
+      }
+    ]
+  },
+  {
+    "word": "jar",
+    "forms": [
+      {
+        "word": "jars",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/dʒɑːrz/"
       }
     ]
   },
@@ -41561,6 +43776,18 @@
     ]
   },
   {
+    "word": "jug",
+    "forms": [
+      {
+        "word": "jugs",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/dʒʌɡz/"
+      }
+    ]
+  },
+  {
     "word": "jump",
     "forms": [
       {
@@ -41600,6 +43827,18 @@
           "plural"
         ],
         "ipa": "/ˈdʒʌŋkʃənz/"
+      }
+    ]
+  },
+  {
+    "word": "jungle",
+    "forms": [
+      {
+        "word": "jungles",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈdʒʌŋɡəlz/"
       }
     ]
   },
@@ -42208,6 +44447,18 @@
     ]
   },
   {
+    "word": "keyhole",
+    "forms": [
+      {
+        "word": "keyholes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkiːhoʊlz/"
+      }
+    ]
+  },
+  {
     "word": "kidney",
     "forms": [
       {
@@ -42264,6 +44515,46 @@
           "plural"
         ],
         "ipa": "/kɪts/"
+      }
+    ]
+  },
+  {
+    "word": "kiwi",
+    "forms": [
+      {
+        "word": "kiwis",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkiːwiːz/"
+      }
+    ]
+  },
+  {
+    "word": "knead",
+    "forms": [
+      {
+        "word": "kneads",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/niːdz/"
+      },
+      {
+        "word": "kneading",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/niːdɪŋ/"
+      },
+      {
+        "word": "kneaded",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/niːdɪd/"
       }
     ]
   },
@@ -42383,6 +44674,18 @@
           "plural"
         ],
         "ipa": "/ˈnɒl.ɪdʒ beɪsɪz/"
+      }
+    ]
+  },
+  {
+    "word": "kumquat",
+    "forms": [
+      {
+        "word": "kumquats",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈkʌmkwɑːts/"
       }
     ]
   },
@@ -42544,6 +44847,18 @@
     ]
   },
   {
+    "word": "lagoon",
+    "forms": [
+      {
+        "word": "lagoons",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ləˈɡuːnz/"
+      }
+    ]
+  },
+  {
     "word": "lambda expression",
     "forms": [
       {
@@ -42628,6 +44943,18 @@
     ]
   },
   {
+    "word": "landslide",
+    "forms": [
+      {
+        "word": "landslides",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈlændslaɪdz/"
+      }
+    ]
+  },
+  {
     "word": "lane",
     "forms": [
       {
@@ -42636,6 +44963,18 @@
           "plural"
         ],
         "ipa": "/leɪnz/"
+      }
+    ]
+  },
+  {
+    "word": "lantern",
+    "forms": [
+      {
+        "word": "lanterns",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈlæntərnz/"
       }
     ]
   },
@@ -42672,6 +45011,18 @@
           "plural"
         ],
         "ipa": "/ˈɫæs ˈɫɛvəɫ ˈkæʃɪz/"
+      }
+    ]
+  },
+  {
+    "word": "latch",
+    "forms": [
+      {
+        "word": "latches",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/lætʃɪz/"
       }
     ]
   },
@@ -43446,6 +45797,18 @@
     ]
   },
   {
+    "word": "leek",
+    "forms": [
+      {
+        "word": "leeks",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/liːks/"
+      }
+    ]
+  },
+  {
     "word": "leg",
     "forms": [
       {
@@ -43572,6 +45935,18 @@
         "ipa": "/ˈlentəlz/",
         "example": "Rinse the lentils before cooking them.",
         "exampleVi": "Hãy rửa đậu lăng trước khi nấu."
+      }
+    ]
+  },
+  {
+    "word": "leopard",
+    "forms": [
+      {
+        "word": "leopards",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈlepərdz/"
       }
     ]
   },
@@ -43800,6 +46175,18 @@
     ]
   },
   {
+    "word": "levee",
+    "forms": [
+      {
+        "word": "levees",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈleviz/"
+      }
+    ]
+  },
+  {
     "word": "leverage",
     "forms": [
       {
@@ -44020,6 +46407,18 @@
     ]
   },
   {
+    "word": "lighter",
+    "forms": [
+      {
+        "word": "lighters",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈlaɪtərz/"
+      }
+    ]
+  },
+  {
     "word": "like",
     "forms": [
       {
@@ -44173,6 +46572,18 @@
           "past_participle"
         ],
         "ipa": "/lɪntɪd/"
+      }
+    ]
+  },
+  {
+    "word": "lion",
+    "forms": [
+      {
+        "word": "lions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈlaɪənz/"
       }
     ]
   },
@@ -44484,6 +46895,18 @@
     ]
   },
   {
+    "word": "lobster",
+    "forms": [
+      {
+        "word": "lobsters",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈlɑːbstərz/"
+      }
+    ]
+  },
+  {
     "word": "locate",
     "forms": [
       {
@@ -44522,6 +46945,18 @@
           "plural"
         ],
         "ipa": "/ləʊˈkeɪ.ʃənz/"
+      }
+    ]
+  },
+  {
+    "word": "loft",
+    "forms": [
+      {
+        "word": "lofts",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/lɔːfts/"
       }
     ]
   },
@@ -45569,6 +48004,18 @@
     ]
   },
   {
+    "word": "lynx",
+    "forms": [
+      {
+        "word": "lynxes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/lɪŋksɪz/"
+      }
+    ]
+  },
+  {
     "word": "lyric",
     "forms": [
       {
@@ -45577,6 +48024,30 @@
           "plural"
         ],
         "ipa": "/ˈlɪrɪks/"
+      }
+    ]
+  },
+  {
+    "word": "macadamia",
+    "forms": [
+      {
+        "word": "macadamias",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌmækəˈdeɪmiəz/"
+      }
+    ]
+  },
+  {
+    "word": "mackerel",
+    "forms": [
+      {
+        "word": "mackerel",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈmækərəl/"
       }
     ]
   },
@@ -46079,6 +48550,18 @@
     ]
   },
   {
+    "word": "mallet",
+    "forms": [
+      {
+        "word": "mallets",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈmælɪts/"
+      }
+    ]
+  },
+  {
     "word": "mama",
     "forms": [
       {
@@ -46141,6 +48624,18 @@
           "plural"
         ],
         "ipa": "/ˈmænədʒmənt ˈbaɪˌaʊts/"
+      }
+    ]
+  },
+  {
+    "word": "mandarin",
+    "forms": [
+      {
+        "word": "mandarins",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈmændərɪnz/"
       }
     ]
   },
@@ -46252,6 +48747,18 @@
     ]
   },
   {
+    "word": "mare",
+    "forms": [
+      {
+        "word": "mares",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/merz/"
+      }
+    ]
+  },
+  {
     "word": "margin",
     "forms": [
       {
@@ -46260,6 +48767,18 @@
           "plural"
         ],
         "ipa": "/ˈmɑː.dʒɪnz/"
+      }
+    ]
+  },
+  {
+    "word": "marinade",
+    "forms": [
+      {
+        "word": "marinades",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌmærɪˈneɪdz/"
       }
     ]
   },
@@ -46320,6 +48839,46 @@
           "plural"
         ],
         "ipa": "/ˈmær.ɪdʒɪz/"
+      }
+    ]
+  },
+  {
+    "word": "marsh",
+    "forms": [
+      {
+        "word": "marshes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/mɑːrʃɪz/"
+      }
+    ]
+  },
+  {
+    "word": "mash",
+    "forms": [
+      {
+        "word": "mashes",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/mæʃɪz/"
+      },
+      {
+        "word": "mashing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/mæʃɪŋ/"
+      },
+      {
+        "word": "mashed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/mæʃt/"
       }
     ]
   },
@@ -46430,6 +48989,18 @@
     ]
   },
   {
+    "word": "match",
+    "forms": [
+      {
+        "word": "matches",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/mætʃɪz/"
+      }
+    ]
+  },
+  {
     "word": "matching principle",
     "forms": [
       {
@@ -46478,6 +49049,48 @@
     ]
   },
   {
+    "word": "mattress",
+    "forms": [
+      {
+        "word": "mattresses",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈmætrəsɪz/"
+      }
+    ]
+  },
+  {
+    "word": "mature",
+    "forms": [
+      {
+        "word": "matures",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/məˈtʃʊərz/",
+        "example": "The bond matures in five years.",
+        "exampleVi": "Trái phiếu đáo hạn sau năm năm."
+      },
+      {
+        "word": "maturing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/məˈtʃʊərɪŋ/"
+      },
+      {
+        "word": "matured",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/məˈtʃʊərd/"
+      }
+    ]
+  },
+  {
     "word": "maximise",
     "forms": [
       {
@@ -46502,6 +49115,18 @@
           "past_participle"
         ],
         "ipa": "/ˈmæk.sɪ.maɪzd/"
+      }
+    ]
+  },
+  {
+    "word": "meadow",
+    "forms": [
+      {
+        "word": "meadows",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈmedoʊz/"
       }
     ]
   },
@@ -46742,6 +49367,18 @@
           "plural"
         ],
         "ipa": "/ˈmelədiz/"
+      }
+    ]
+  },
+  {
+    "word": "melon",
+    "forms": [
+      {
+        "word": "melons",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈmelənz/"
       }
     ]
   },
@@ -47336,6 +49973,18 @@
     ]
   },
   {
+    "word": "mincer",
+    "forms": [
+      {
+        "word": "mincers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈmɪnsərz/"
+      }
+    ]
+  },
+  {
     "word": "mineral",
     "forms": [
       {
@@ -47614,6 +50263,30 @@
           "past_participle"
         ],
         "ipa": "/ˈmɪt.ɪ.ɡeɪtɪd/"
+      }
+    ]
+  },
+  {
+    "word": "mitt",
+    "forms": [
+      {
+        "word": "mitts",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/mɪts/"
+      }
+    ]
+  },
+  {
+    "word": "mixer",
+    "forms": [
+      {
+        "word": "mixers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈmɪksərz/"
       }
     ]
   },
@@ -48004,6 +50677,30 @@
           "past_participle"
         ],
         "ipa": "/ˈmuːnlaɪtɪd/"
+      }
+    ]
+  },
+  {
+    "word": "moor",
+    "forms": [
+      {
+        "word": "moors",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/mʊrz/"
+      }
+    ]
+  },
+  {
+    "word": "moose",
+    "forms": [
+      {
+        "word": "moose",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/muːs/"
       }
     ]
   },
@@ -48626,6 +51323,54 @@
     ]
   },
   {
+    "word": "mudslide",
+    "forms": [
+      {
+        "word": "mudslides",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈmʌdslaɪdz/"
+      }
+    ]
+  },
+  {
+    "word": "mug",
+    "forms": [
+      {
+        "word": "mugs",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/mʌɡz/"
+      }
+    ]
+  },
+  {
+    "word": "mulberry",
+    "forms": [
+      {
+        "word": "mulberries",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈmʌlberiz/"
+      }
+    ]
+  },
+  {
+    "word": "mule",
+    "forms": [
+      {
+        "word": "mules",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/mjuːlz/"
+      }
+    ]
+  },
+  {
     "word": "multi chip module",
     "forms": [
       {
@@ -48743,6 +51488,18 @@
     ]
   },
   {
+    "word": "mussel",
+    "forms": [
+      {
+        "word": "mussels",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈmʌsəlz/"
+      }
+    ]
+  },
+  {
     "word": "mute",
     "forms": [
       {
@@ -48803,6 +51560,30 @@
           "plural"
         ],
         "ipa": "/mɪθs/"
+      }
+    ]
+  },
+  {
+    "word": "nail",
+    "forms": [
+      {
+        "word": "nails",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/neɪlz/"
+      }
+    ]
+  },
+  {
+    "word": "napkin",
+    "forms": [
+      {
+        "word": "napkins",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈnæpkɪnz/"
       }
     ]
   },
@@ -50058,6 +52839,18 @@
     ]
   },
   {
+    "word": "octopus",
+    "forms": [
+      {
+        "word": "octopuses",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɑːktəpəsɪz/"
+      }
+    ]
+  },
+  {
     "word": "offence",
     "forms": [
       {
@@ -50521,6 +53314,18 @@
     ]
   },
   {
+    "word": "orchard",
+    "forms": [
+      {
+        "word": "orchards",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɔːrtʃərdz/"
+      }
+    ]
+  },
+  {
     "word": "orchestra",
     "forms": [
       {
@@ -50785,6 +53590,30 @@
         "ipa": "/ˈɒs.ɪ.leɪtɪd/",
         "example": "The figure oscillated between 40 and 60 throughout the period.",
         "exampleVi": "Con số lên xuống quanh khoảng từ 40 đến 60 trong suốt giai đoạn này."
+      }
+    ]
+  },
+  {
+    "word": "otter",
+    "forms": [
+      {
+        "word": "otters",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɑːtərz/"
+      }
+    ]
+  },
+  {
+    "word": "ottoman",
+    "forms": [
+      {
+        "word": "ottomans",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɑːtəmənz/"
       }
     ]
   },
@@ -51459,6 +54288,30 @@
     ]
   },
   {
+    "word": "ox",
+    "forms": [
+      {
+        "word": "oxen",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɑksən/"
+      }
+    ]
+  },
+  {
+    "word": "oyster",
+    "forms": [
+      {
+        "word": "oysters",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈɔɪstərz/"
+      }
+    ]
+  },
+  {
     "word": "pace",
     "forms": [
       {
@@ -51545,6 +54398,30 @@
     ]
   },
   {
+    "word": "paddock",
+    "forms": [
+      {
+        "word": "paddocks",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpædəks/"
+      }
+    ]
+  },
+  {
+    "word": "padlock",
+    "forms": [
+      {
+        "word": "padlocks",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpædlɑːks/"
+      }
+    ]
+  },
+  {
     "word": "pain",
     "forms": [
       {
@@ -51582,6 +54459,18 @@
           "plural"
         ],
         "ipa": "/ˈpeɪnˌkɪlərz/"
+      }
+    ]
+  },
+  {
+    "word": "paintbrush",
+    "forms": [
+      {
+        "word": "paintbrushes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpeɪntbrʌʃɪz/"
       }
     ]
   },
@@ -51688,6 +54577,42 @@
           "past_participle"
         ],
         "ipa": "/ˈpænɪkt/"
+      }
+    ]
+  },
+  {
+    "word": "panther",
+    "forms": [
+      {
+        "word": "panthers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpænθərz/"
+      }
+    ]
+  },
+  {
+    "word": "pantry",
+    "forms": [
+      {
+        "word": "pantries",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpæntriz/"
+      }
+    ]
+  },
+  {
+    "word": "papaya",
+    "forms": [
+      {
+        "word": "papayas",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/pəˈpaɪəz/"
       }
     ]
   },
@@ -52540,6 +55465,34 @@
     ]
   },
   {
+    "word": "pasteurize",
+    "forms": [
+      {
+        "word": "pasteurizes",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈpæstʃəraɪzɪz/"
+      },
+      {
+        "word": "pasteurizing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈpæstʃəraɪzɪŋ/"
+      },
+      {
+        "word": "pasteurized",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈpæstʃəraɪzd/"
+      }
+    ]
+  },
+  {
     "word": "pastor",
     "forms": [
       {
@@ -52548,6 +55501,18 @@
           "plural"
         ],
         "ipa": "/ˈpɑːstə(r)z/"
+      }
+    ]
+  },
+  {
+    "word": "pasture",
+    "forms": [
+      {
+        "word": "pastures",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpæstʃərz/"
       }
     ]
   },
@@ -52572,6 +55537,18 @@
           "plural"
         ],
         "ipa": "/ˈpeɪ.ʃənts/"
+      }
+    ]
+  },
+  {
+    "word": "patio",
+    "forms": [
+      {
+        "word": "patios",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpætioʊz/"
       }
     ]
   },
@@ -52996,6 +55973,30 @@
           "past_participle"
         ],
         "ipa": "/pɜːld/"
+      }
+    ]
+  },
+  {
+    "word": "pebble",
+    "forms": [
+      {
+        "word": "pebbles",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpebəlz/"
+      }
+    ]
+  },
+  {
+    "word": "pecan",
+    "forms": [
+      {
+        "word": "pecans",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/pɪˈkɑːnz/"
       }
     ]
   },
@@ -53694,6 +56695,18 @@
     ]
   },
   {
+    "word": "piglet",
+    "forms": [
+      {
+        "word": "piglets",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpɪɡləts/"
+      }
+    ]
+  },
+  {
     "word": "pile",
     "forms": [
       {
@@ -53877,6 +56890,18 @@
     ]
   },
   {
+    "word": "pistachio",
+    "forms": [
+      {
+        "word": "pistachios",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/pɪˈstæʃioʊz/"
+      }
+    ]
+  },
+  {
     "word": "pitch",
     "forms": [
       {
@@ -53897,6 +56922,18 @@
           "plural"
         ],
         "ipa": "/ˈpɪtʃ ˈdɛks/"
+      }
+    ]
+  },
+  {
+    "word": "pitcher",
+    "forms": [
+      {
+        "word": "pitchers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpɪtʃərz/"
       }
     ]
   },
@@ -53949,6 +56986,18 @@
     ]
   },
   {
+    "word": "placemat",
+    "forms": [
+      {
+        "word": "placemats",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpleɪsmæts/"
+      }
+    ]
+  },
+  {
     "word": "placement",
     "forms": [
       {
@@ -53969,6 +57018,18 @@
           "plural"
         ],
         "ipa": "/pleɪɡz/"
+      }
+    ]
+  },
+  {
+    "word": "plantation",
+    "forms": [
+      {
+        "word": "plantations",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/plænˈteɪʃənz/"
       }
     ]
   },
@@ -54012,6 +57073,18 @@
           "plural"
         ],
         "ipa": "/ˈplæt.fɔːmz/"
+      }
+    ]
+  },
+  {
+    "word": "platter",
+    "forms": [
+      {
+        "word": "platters",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈplætərz/"
       }
     ]
   },
@@ -54169,6 +57242,34 @@
     ]
   },
   {
+    "word": "poach",
+    "forms": [
+      {
+        "word": "poaches",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/poʊtʃɪz/"
+      },
+      {
+        "word": "poaching",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/poʊtʃɪŋ/"
+      },
+      {
+        "word": "poached",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/poʊtʃt/"
+      }
+    ]
+  },
+  {
     "word": "pocket",
     "forms": [
       {
@@ -54219,6 +57320,42 @@
     ]
   },
   {
+    "word": "pomegranate",
+    "forms": [
+      {
+        "word": "pomegranates",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpɑːməɡrænɪts/"
+      }
+    ]
+  },
+  {
+    "word": "pond",
+    "forms": [
+      {
+        "word": "ponds",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/pɑːndz/"
+      }
+    ]
+  },
+  {
+    "word": "pony",
+    "forms": [
+      {
+        "word": "ponies",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpoʊniz/"
+      }
+    ]
+  },
+  {
     "word": "porch",
     "forms": [
       {
@@ -54227,6 +57364,18 @@
           "plural"
         ],
         "ipa": "/pɔːtʃɪz/"
+      }
+    ]
+  },
+  {
+    "word": "porcupine",
+    "forms": [
+      {
+        "word": "porcupines",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpɔːrkjəpaɪnz/"
       }
     ]
   },
@@ -54487,6 +57636,34 @@
     ]
   },
   {
+    "word": "pout",
+    "forms": [
+      {
+        "word": "pouts",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/paʊts/"
+      },
+      {
+        "word": "pouting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/paʊtɪŋ/"
+      },
+      {
+        "word": "pouted",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/paʊtɪd/"
+      }
+    ]
+  },
+  {
     "word": "powder",
     "forms": [
       {
@@ -54542,6 +57719,18 @@
     ]
   },
   {
+    "word": "prairie",
+    "forms": [
+      {
+        "word": "prairies",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpreriz/"
+      }
+    ]
+  },
+  {
     "word": "praise",
     "forms": [
       {
@@ -54568,6 +57757,18 @@
         "ipa": "/preɪzd/",
         "example": "The teacher praised his hard work.",
         "exampleVi": "Giáo viên khen ngợi sự chăm chỉ của cậu ấy."
+      }
+    ]
+  },
+  {
+    "word": "prawn",
+    "forms": [
+      {
+        "word": "prawns",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/prɔːnz/"
       }
     ]
   },
@@ -55838,6 +59039,18 @@
     ]
   },
   {
+    "word": "prong",
+    "forms": [
+      {
+        "word": "prongs",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/prɔːŋz/"
+      }
+    ]
+  },
+  {
     "word": "pronounce",
     "forms": [
       {
@@ -56407,6 +59620,18 @@
     ]
   },
   {
+    "word": "prune",
+    "forms": [
+      {
+        "word": "prunes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/pruːnz/"
+      }
+    ]
+  },
+  {
     "word": "psychologist",
     "forms": [
       {
@@ -56511,6 +59736,18 @@
     ]
   },
   {
+    "word": "puddle",
+    "forms": [
+      {
+        "word": "puddles",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpʌdəlz/"
+      }
+    ]
+  },
+  {
     "word": "pull request",
     "forms": [
       {
@@ -56577,6 +59814,18 @@
           "past_participle"
         ],
         "ipa": "/pʌmpt/"
+      }
+    ]
+  },
+  {
+    "word": "pumpkin",
+    "forms": [
+      {
+        "word": "pumpkins",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈpʌmpkɪnz/"
       }
     ]
   },
@@ -57599,6 +60848,58 @@
     ]
   },
   {
+    "word": "quilt",
+    "forms": [
+      {
+        "word": "quilts",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kwɪlts/"
+      }
+    ]
+  },
+  {
+    "word": "quince",
+    "forms": [
+      {
+        "word": "quinces",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/kwɪnsɪz/"
+      }
+    ]
+  },
+  {
+    "word": "quiver",
+    "forms": [
+      {
+        "word": "quivers",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈkwɪvərz/"
+      },
+      {
+        "word": "quivering",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈkwɪvərɪŋ/"
+      },
+      {
+        "word": "quivered",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈkwɪvərd/"
+      }
+    ]
+  },
+  {
     "word": "quorum",
     "forms": [
       {
@@ -57666,6 +60967,30 @@
     ]
   },
   {
+    "word": "rabbit",
+    "forms": [
+      {
+        "word": "rabbits",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈræbɪts/"
+      }
+    ]
+  },
+  {
+    "word": "raccoon",
+    "forms": [
+      {
+        "word": "raccoons",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ræˈkuːnz/"
+      }
+    ]
+  },
+  {
     "word": "race condition",
     "forms": [
       {
@@ -57707,6 +61032,18 @@
     ]
   },
   {
+    "word": "radiator",
+    "forms": [
+      {
+        "word": "radiators",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈreɪdieɪtərz/"
+      }
+    ]
+  },
+  {
     "word": "radical",
     "forms": [
       {
@@ -57715,6 +61052,18 @@
           "plural"
         ],
         "ipa": "/ˈræd.ɪ.kəlz/"
+      }
+    ]
+  },
+  {
+    "word": "radish",
+    "forms": [
+      {
+        "word": "radishes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈrædɪʃɪz/"
       }
     ]
   },
@@ -57784,6 +61133,18 @@
     ]
   },
   {
+    "word": "rainforest",
+    "forms": [
+      {
+        "word": "rainforests",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈreɪnfɔːrɪsts/"
+      }
+    ]
+  },
+  {
     "word": "raise",
     "forms": [
       {
@@ -57811,6 +61172,30 @@
         "ipa": "/reɪzd/",
         "example": "They raised three children here.",
         "exampleVi": "Họ nuôi ba đứa con lớn lên ở đây."
+      }
+    ]
+  },
+  {
+    "word": "raisin",
+    "forms": [
+      {
+        "word": "raisins",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈreɪzənz/"
+      }
+    ]
+  },
+  {
+    "word": "rake",
+    "forms": [
+      {
+        "word": "rakes",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/reɪks/"
       }
     ]
   },
@@ -57957,6 +61342,18 @@
     ]
   },
   {
+    "word": "raspberry",
+    "forms": [
+      {
+        "word": "raspberries",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈræzberiz/"
+      }
+    ]
+  },
+  {
     "word": "rasterization pipeline",
     "forms": [
       {
@@ -58042,6 +61439,18 @@
           "plural"
         ],
         "ipa": "/ˌræʃ.əˈnɑːlz/"
+      }
+    ]
+  },
+  {
+    "word": "ravine",
+    "forms": [
+      {
+        "word": "ravines",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/rəˈviːnz/"
       }
     ]
   },
@@ -59282,6 +62691,34 @@
     ]
   },
   {
+    "word": "refrigerate",
+    "forms": [
+      {
+        "word": "refrigerates",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/rɪˈfrɪdʒəreɪts/"
+      },
+      {
+        "word": "refrigerating",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/rɪˈfrɪdʒəreɪtɪŋ/"
+      },
+      {
+        "word": "refrigerated",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/rɪˈfrɪdʒəreɪtɪd/"
+      }
+    ]
+  },
+  {
     "word": "refuge",
     "forms": [
       {
@@ -59633,6 +63070,18 @@
           "past_participle"
         ],
         "ipa": "/ˌriː.ɪmˈbɜːst/"
+      }
+    ]
+  },
+  {
+    "word": "reindeer",
+    "forms": [
+      {
+        "word": "reindeer",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈreɪndɪr/"
       }
     ]
   },
@@ -62292,6 +65741,18 @@
     ]
   },
   {
+    "word": "rhinoceros",
+    "forms": [
+      {
+        "word": "rhinoceroses",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/raɪˈnɑːsərəsɪz/"
+      }
+    ]
+  },
+  {
     "word": "rhyme",
     "forms": [
       {
@@ -62475,6 +65936,18 @@
     ]
   },
   {
+    "word": "rind",
+    "forms": [
+      {
+        "word": "rinds",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/raɪndz/"
+      }
+    ]
+  },
+  {
     "word": "ring",
     "forms": [
       {
@@ -62508,6 +65981,34 @@
           "past_participle"
         ],
         "ipa": "/ˈɹəŋ/"
+      }
+    ]
+  },
+  {
+    "word": "rinse",
+    "forms": [
+      {
+        "word": "rinses",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/rɪnsɪz/"
+      },
+      {
+        "word": "rinsing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/rɪnsɪŋ/"
+      },
+      {
+        "word": "rinsed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/rɪnst/"
       }
     ]
   },
@@ -62803,6 +66304,18 @@
           "plural"
         ],
         "ipa": "/ˈrəʊl.bæk plænz/"
+      }
+    ]
+  },
+  {
+    "word": "roller",
+    "forms": [
+      {
+        "word": "rollers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈroʊlərz/"
       }
     ]
   },
@@ -64349,6 +67862,18 @@
     ]
   },
   {
+    "word": "sandbar",
+    "forms": [
+      {
+        "word": "sandbars",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsændbɑːrz/"
+      }
+    ]
+  },
+  {
     "word": "sandbox",
     "forms": [
       {
@@ -64401,6 +67926,18 @@
     ]
   },
   {
+    "word": "sardine",
+    "forms": [
+      {
+        "word": "sardines",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/sɑːrˈdiːnz/"
+      }
+    ]
+  },
+  {
     "word": "satellite",
     "forms": [
       {
@@ -64449,6 +67986,18 @@
           "plural"
         ],
         "ipa": "/ˈsɔspænz/"
+      }
+    ]
+  },
+  {
+    "word": "saucer",
+    "forms": [
+      {
+        "word": "saucers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsɔːsərz/"
       }
     ]
   },
@@ -64592,6 +68141,30 @@
           "past_participle"
         ],
         "ipa": "/skeɪld ʌp/"
+      }
+    ]
+  },
+  {
+    "word": "scallion",
+    "forms": [
+      {
+        "word": "scallions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈskæljənz/"
+      }
+    ]
+  },
+  {
+    "word": "scallop",
+    "forms": [
+      {
+        "word": "scallops",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈskɑːləps/"
       }
     ]
   },
@@ -64917,6 +68490,34 @@
     ]
   },
   {
+    "word": "scowl",
+    "forms": [
+      {
+        "word": "scowls",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/skaʊlz/"
+      },
+      {
+        "word": "scowling",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/skaʊlɪŋ/"
+      },
+      {
+        "word": "scowled",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/skaʊld/"
+      }
+    ]
+  },
+  {
     "word": "scramble",
     "forms": [
       {
@@ -65102,6 +68703,18 @@
     ]
   },
   {
+    "word": "scrubber",
+    "forms": [
+      {
+        "word": "scrubbers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈskrʌbərz/"
+      }
+    ]
+  },
+  {
     "word": "seal",
     "forms": [
       {
@@ -65110,6 +68723,34 @@
           "plural"
         ],
         "ipa": "/siːlz/"
+      }
+    ]
+  },
+  {
+    "word": "sear",
+    "forms": [
+      {
+        "word": "sears",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/sɪrz/"
+      },
+      {
+        "word": "searing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/sɪrɪŋ/"
+      },
+      {
+        "word": "seared",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/sɪrd/"
       }
     ]
   },
@@ -65194,6 +68835,18 @@
           "past_participle"
         ],
         "ipa": "/sɜrtʃt θruː/"
+      }
+    ]
+  },
+  {
+    "word": "seashore",
+    "forms": [
+      {
+        "word": "seashores",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsiːʃɔːrz/"
       }
     ]
   },
@@ -66501,6 +70154,18 @@
     ]
   },
   {
+    "word": "sheep",
+    "forms": [
+      {
+        "word": "sheep",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ʃiːp/"
+      }
+    ]
+  },
+  {
     "word": "sheet",
     "forms": [
       {
@@ -66632,6 +70297,34 @@
           "plural"
         ],
         "ipa": "/ʃɜrts/"
+      }
+    ]
+  },
+  {
+    "word": "shiver",
+    "forms": [
+      {
+        "word": "shivers",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈʃɪvərz/"
+      },
+      {
+        "word": "shivering",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈʃɪvərɪŋ/"
+      },
+      {
+        "word": "shivered",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈʃɪvərd/"
       }
     ]
   },
@@ -66810,6 +70503,18 @@
           "plural"
         ],
         "ipa": "/ˈʃoʊldərz/"
+      }
+    ]
+  },
+  {
+    "word": "shovel",
+    "forms": [
+      {
+        "word": "shovels",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈʃʌvəlz/"
       }
     ]
   },
@@ -67097,6 +70802,34 @@
     ]
   },
   {
+    "word": "shred",
+    "forms": [
+      {
+        "word": "shreds",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ʃredz/"
+      },
+      {
+        "word": "shredding",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ʃredɪŋ/"
+      },
+      {
+        "word": "shredded",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ʃredɪd/"
+      }
+    ]
+  },
+  {
     "word": "shrimp",
     "forms": [
       {
@@ -67144,6 +70877,62 @@
     ]
   },
   {
+    "word": "shrug",
+    "forms": [
+      {
+        "word": "shrugs",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ʃrʌɡz/"
+      },
+      {
+        "word": "shrugging",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ʃrʌɡɪŋ/"
+      },
+      {
+        "word": "shrugged",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ʃrʌɡd/"
+      }
+    ]
+  },
+  {
+    "word": "shudder",
+    "forms": [
+      {
+        "word": "shudders",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈʃʌdərz/"
+      },
+      {
+        "word": "shuddering",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈʃʌdərɪŋ/"
+      },
+      {
+        "word": "shuddered",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈʃʌdərd/"
+      }
+    ]
+  },
+  {
     "word": "shutdown hook",
     "forms": [
       {
@@ -67152,6 +70941,18 @@
           "plural"
         ],
         "ipa": "/ˈʃətˌdaʊn ˈhʊks/"
+      }
+    ]
+  },
+  {
+    "word": "shutter",
+    "forms": [
+      {
+        "word": "shutters",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈʃʌtərz/"
       }
     ]
   },
@@ -67240,6 +71041,46 @@
           "plural"
         ],
         "ipa": "/ˈsaɪd.wɔːks/"
+      }
+    ]
+  },
+  {
+    "word": "sieve",
+    "forms": [
+      {
+        "word": "sieves",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/sɪvz/"
+      }
+    ]
+  },
+  {
+    "word": "sigh",
+    "forms": [
+      {
+        "word": "sighs",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/saɪz/"
+      },
+      {
+        "word": "sighing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/saɪɪŋ/"
+      },
+      {
+        "word": "sighed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/saɪd/"
       }
     ]
   },
@@ -67344,6 +71185,34 @@
           "plural"
         ],
         "ipa": "/ˈsɪɫəkən ˈweɪfɝz/"
+      }
+    ]
+  },
+  {
+    "word": "simmer",
+    "forms": [
+      {
+        "word": "simmers",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈsɪmərz/"
+      },
+      {
+        "word": "simmering",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈsɪmərɪŋ/"
+      },
+      {
+        "word": "simmered",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈsɪmərd/"
       }
     ]
   },
@@ -67548,6 +71417,30 @@
     ]
   },
   {
+    "word": "skewer",
+    "forms": [
+      {
+        "word": "skewers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈskjuːərz/"
+      }
+    ]
+  },
+  {
+    "word": "skillet",
+    "forms": [
+      {
+        "word": "skillets",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈskɪlɪts/"
+      }
+    ]
+  },
+  {
     "word": "skin",
     "forms": [
       {
@@ -67596,6 +71489,30 @@
           "plural"
         ],
         "ipa": "/skɜrts/"
+      }
+    ]
+  },
+  {
+    "word": "skunk",
+    "forms": [
+      {
+        "word": "skunks",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/skʌŋks/"
+      }
+    ]
+  },
+  {
+    "word": "skylight",
+    "forms": [
+      {
+        "word": "skylights",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈskaɪlaɪts/"
       }
     ]
   },
@@ -67993,6 +71910,34 @@
     ]
   },
   {
+    "word": "smirk",
+    "forms": [
+      {
+        "word": "smirks",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/smɜːrks/"
+      },
+      {
+        "word": "smirking",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/smɜːrkɪŋ/"
+      },
+      {
+        "word": "smirked",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/smɜːrkt/"
+      }
+    ]
+  },
+  {
     "word": "smoke test",
     "forms": [
       {
@@ -68097,6 +72042,34 @@
     ]
   },
   {
+    "word": "sniff",
+    "forms": [
+      {
+        "word": "sniffs",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/snɪfs/"
+      },
+      {
+        "word": "sniffing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/snɪfɪŋ/"
+      },
+      {
+        "word": "sniffed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/snɪft/"
+      }
+    ]
+  },
+  {
     "word": "snippet",
     "forms": [
       {
@@ -68171,6 +72144,34 @@
         "ipa": "/sɔːrd/",
         "example": "Fuel costs soared after the supply agreement collapsed.",
         "exampleVi": "Chi phí nhiên liệu vọt lên rất cao sau khi thoả thuận cung ứng đổ vỡ."
+      }
+    ]
+  },
+  {
+    "word": "sob",
+    "forms": [
+      {
+        "word": "sobs",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/sɑːbz/"
+      },
+      {
+        "word": "sobbing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/sɑːbɪŋ/"
+      },
+      {
+        "word": "sobbed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/sɑːbd/"
       }
     ]
   },
@@ -68428,6 +72429,18 @@
     ]
   },
   {
+    "word": "soybean",
+    "forms": [
+      {
+        "word": "soybeans",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsɔɪbiːnz/"
+      }
+    ]
+  },
+  {
     "word": "spa",
     "forms": [
       {
@@ -68436,6 +72449,18 @@
           "plural"
         ],
         "ipa": "/spɑːz/"
+      }
+    ]
+  },
+  {
+    "word": "spade",
+    "forms": [
+      {
+        "word": "spades",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/speɪdz/"
       }
     ]
   },
@@ -69237,6 +73262,18 @@
     ]
   },
   {
+    "word": "splinter",
+    "forms": [
+      {
+        "word": "splinters",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsplɪntərz/"
+      }
+    ]
+  },
+  {
     "word": "split",
     "forms": [
       {
@@ -69385,6 +73422,18 @@
     ]
   },
   {
+    "word": "spout",
+    "forms": [
+      {
+        "word": "spouts",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/spaʊts/"
+      }
+    ]
+  },
+  {
     "word": "sprain",
     "forms": [
       {
@@ -69463,6 +73512,46 @@
           "plural"
         ],
         "ipa": "/ˈspred.ʃiːts/"
+      }
+    ]
+  },
+  {
+    "word": "sprinkle",
+    "forms": [
+      {
+        "word": "sprinkles",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈsprɪŋkəlz/"
+      },
+      {
+        "word": "sprinkling",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈsprɪŋkəlɪŋ/"
+      },
+      {
+        "word": "sprinkled",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈsprɪŋkəld/"
+      }
+    ]
+  },
+  {
+    "word": "sprinkler",
+    "forms": [
+      {
+        "word": "sprinklers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsprɪŋklərz/"
       }
     ]
   },
@@ -69573,6 +73662,30 @@
           "past_participle"
         ],
         "ipa": "/skwiːzd/"
+      }
+    ]
+  },
+  {
+    "word": "squid",
+    "forms": [
+      {
+        "word": "squid",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/skwɪd/"
+      }
+    ]
+  },
+  {
+    "word": "squirrel",
+    "forms": [
+      {
+        "word": "squirrels",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈskwɜːrəlz/"
       }
     ]
   },
@@ -69774,6 +73887,18 @@
     ]
   },
   {
+    "word": "stairway",
+    "forms": [
+      {
+        "word": "stairways",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsterweɪz/"
+      }
+    ]
+  },
+  {
     "word": "stake",
     "forms": [
       {
@@ -69842,6 +73967,18 @@
           "past_participle"
         ],
         "ipa": "/stɔːld/"
+      }
+    ]
+  },
+  {
+    "word": "stallion",
+    "forms": [
+      {
+        "word": "stallions",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈstæljənz/"
       }
     ]
   },
@@ -70799,6 +74936,18 @@
     ]
   },
   {
+    "word": "steamer",
+    "forms": [
+      {
+        "word": "steamers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈstiːmərz/"
+      }
+    ]
+  },
+  {
     "word": "steel",
     "forms": [
       {
@@ -70963,6 +75112,18 @@
     ]
   },
   {
+    "word": "stepladder",
+    "forms": [
+      {
+        "word": "stepladders",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsteplædərz/"
+      }
+    ]
+  },
+  {
     "word": "stepmother",
     "forms": [
       {
@@ -71012,6 +75173,34 @@
           "past_participle"
         ],
         "ipa": "/ˈster.i.əʊ.taɪpt/"
+      }
+    ]
+  },
+  {
+    "word": "sterilize",
+    "forms": [
+      {
+        "word": "sterilizes",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈsterəlaɪzɪz/"
+      },
+      {
+        "word": "sterilizing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈsterəlaɪzɪŋ/"
+      },
+      {
+        "word": "sterilized",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈsterəlaɪzd/"
       }
     ]
   },
@@ -71388,6 +75577,18 @@
     ]
   },
   {
+    "word": "stopper",
+    "forms": [
+      {
+        "word": "stoppers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈstɑːpərz/"
+      }
+    ]
+  },
+  {
     "word": "storage capacity",
     "forms": [
       {
@@ -71432,6 +75633,18 @@
           "plural"
         ],
         "ipa": "/ˈstɔɹd pɹəˈsidʒɝz/"
+      }
+    ]
+  },
+  {
+    "word": "storeroom",
+    "forms": [
+      {
+        "word": "storerooms",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈstɔːrruːmz/"
       }
     ]
   },
@@ -72547,6 +76760,18 @@
     ]
   },
   {
+    "word": "summit",
+    "forms": [
+      {
+        "word": "summits",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈsʌmɪts/"
+      }
+    ]
+  },
+  {
     "word": "sunset",
     "forms": [
       {
@@ -73234,6 +77459,18 @@
     ]
   },
   {
+    "word": "swamp",
+    "forms": [
+      {
+        "word": "swamps",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/swɑːmps/"
+      }
+    ]
+  },
+  {
     "word": "swan",
     "forms": [
       {
@@ -73259,6 +77496,34 @@
           "past_participle"
         ],
         "ipa": "/swɒnd/"
+      }
+    ]
+  },
+  {
+    "word": "sway",
+    "forms": [
+      {
+        "word": "sways",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/sweɪz/"
+      },
+      {
+        "word": "swaying",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/sweɪɪŋ/"
+      },
+      {
+        "word": "swayed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/sweɪd/"
       }
     ]
   },
@@ -73573,6 +77838,30 @@
           "plural"
         ],
         "ipa": "/ˈteɪbəɫ ˈskænz/"
+      }
+    ]
+  },
+  {
+    "word": "tablecloth",
+    "forms": [
+      {
+        "word": "tablecloths",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈteɪbəlklɔːθs/"
+      }
+    ]
+  },
+  {
+    "word": "tablespoon",
+    "forms": [
+      {
+        "word": "tablespoons",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈteɪbəlspuːnz/"
       }
     ]
   },
@@ -74602,6 +78891,18 @@
     ]
   },
   {
+    "word": "tangerine",
+    "forms": [
+      {
+        "word": "tangerines",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˌtændʒəˈriːnz/"
+      }
+    ]
+  },
+  {
     "word": "tap",
     "forms": [
       {
@@ -74949,6 +79250,18 @@
     ]
   },
   {
+    "word": "teapot",
+    "forms": [
+      {
+        "word": "teapots",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtiːpɑːts/"
+      }
+    ]
+  },
+  {
     "word": "tease",
     "forms": [
       {
@@ -74974,6 +79287,18 @@
           "past_participle"
         ],
         "ipa": "/tiːzd/"
+      }
+    ]
+  },
+  {
+    "word": "teaspoon",
+    "forms": [
+      {
+        "word": "teaspoons",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtiːspuːnz/"
       }
     ]
   },
@@ -75468,6 +79793,34 @@
     ]
   },
   {
+    "word": "thaw",
+    "forms": [
+      {
+        "word": "thaws",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/θɔːz/"
+      },
+      {
+        "word": "thawing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/θɔːɪŋ/"
+      },
+      {
+        "word": "thawed",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/θɔːd/"
+      }
+    ]
+  },
+  {
     "word": "theme",
     "forms": [
       {
@@ -75545,6 +79898,30 @@
     ]
   },
   {
+    "word": "thermos",
+    "forms": [
+      {
+        "word": "thermoses",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈθɜːrməsɪz/"
+      }
+    ]
+  },
+  {
+    "word": "thermostat",
+    "forms": [
+      {
+        "word": "thermostats",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈθɜːrməstæts/"
+      }
+    ]
+  },
+  {
     "word": "thesis",
     "forms": [
       {
@@ -75553,6 +79930,18 @@
           "plural"
         ],
         "ipa": "/ˈθiːsiːz/"
+      }
+    ]
+  },
+  {
+    "word": "thicket",
+    "forms": [
+      {
+        "word": "thickets",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈθɪkɪts/"
       }
     ]
   },
@@ -75941,6 +80330,30 @@
     ]
   },
   {
+    "word": "tiger",
+    "forms": [
+      {
+        "word": "tigers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtaɪɡərz/"
+      }
+    ]
+  },
+  {
+    "word": "tile",
+    "forms": [
+      {
+        "word": "tiles",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/taɪlz/"
+      }
+    ]
+  },
+  {
     "word": "time series database",
     "forms": [
       {
@@ -76050,6 +80463,18 @@
           "past_participle"
         ],
         "ipa": "/ˈtoʊstɪd/"
+      }
+    ]
+  },
+  {
+    "word": "toaster",
+    "forms": [
+      {
+        "word": "toasters",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtoʊstərz/"
       }
     ]
   },
@@ -76337,6 +80762,18 @@
           "plural"
         ],
         "ipa": "/ˈtuːθbrʌʃɪz/"
+      }
+    ]
+  },
+  {
+    "word": "toothpick",
+    "forms": [
+      {
+        "word": "toothpicks",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtuːθpɪks/"
       }
     ]
   },
@@ -77308,6 +81745,46 @@
     ]
   },
   {
+    "word": "tremble",
+    "forms": [
+      {
+        "word": "trembles",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈtrembəlz/"
+      },
+      {
+        "word": "trembling",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈtrembəlɪŋ/"
+      },
+      {
+        "word": "trembled",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈtrembəld/"
+      }
+    ]
+  },
+  {
+    "word": "tremor",
+    "forms": [
+      {
+        "word": "tremors",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtremərz/"
+      }
+    ]
+  },
+  {
     "word": "trend",
     "forms": [
       {
@@ -77397,6 +81874,18 @@
           "plural"
         ],
         "ipa": "/ˈtraɪæŋɡlz/"
+      }
+    ]
+  },
+  {
+    "word": "tributary",
+    "forms": [
+      {
+        "word": "tributaries",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtrɪbjəteriz/"
       }
     ]
   },
@@ -77511,6 +82000,30 @@
     ]
   },
   {
+    "word": "trout",
+    "forms": [
+      {
+        "word": "trout",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/traʊt/"
+      }
+    ]
+  },
+  {
+    "word": "truffle",
+    "forms": [
+      {
+        "word": "truffles",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtrʌfəlz/"
+      }
+    ]
+  },
+  {
     "word": "trunk",
     "forms": [
       {
@@ -77603,6 +82116,18 @@
           "plural"
         ],
         "ipa": "/ˈtəɡz/"
+      }
+    ]
+  },
+  {
+    "word": "tumbler",
+    "forms": [
+      {
+        "word": "tumblers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtʌmblərz/"
       }
     ]
   },
@@ -78172,6 +82697,18 @@
     ]
   },
   {
+    "word": "turnip",
+    "forms": [
+      {
+        "word": "turnips",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈtɜːrnɪps/"
+      }
+    ]
+  },
+  {
     "word": "turnover",
     "forms": [
       {
@@ -78250,6 +82787,34 @@
           "past_participle"
         ],
         "ipa": "/twɪstɪd/"
+      }
+    ]
+  },
+  {
+    "word": "twitch",
+    "forms": [
+      {
+        "word": "twitches",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/twɪtʃɪz/"
+      },
+      {
+        "word": "twitching",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/twɪtʃɪŋ/"
+      },
+      {
+        "word": "twitched",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/twɪtʃt/"
       }
     ]
   },
@@ -78987,6 +83552,18 @@
     ]
   },
   {
+    "word": "vacuum",
+    "forms": [
+      {
+        "word": "vacuums",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈvækjuːmz/"
+      }
+    ]
+  },
+  {
     "word": "vacuum bag",
     "forms": [
       {
@@ -79071,6 +83648,18 @@
           "plural"
         ],
         "ipa": "/ˌvæɫəˈdeɪʃən ˈdeɪtəˌsɛts/"
+      }
+    ]
+  },
+  {
+    "word": "valley",
+    "forms": [
+      {
+        "word": "valleys",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈvæliz/"
       }
     ]
   },
@@ -79571,6 +84160,18 @@
           "plural"
         ],
         "ipa": "/ˈvjuː.pɔːts/"
+      }
+    ]
+  },
+  {
+    "word": "vineyard",
+    "forms": [
+      {
+        "word": "vineyards",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈvɪnjərdz/"
       }
     ]
   },
@@ -80635,6 +85236,18 @@
     ]
   },
   {
+    "word": "washer",
+    "forms": [
+      {
+        "word": "washers",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈwɑːʃərz/"
+      }
+    ]
+  },
+  {
     "word": "washing machine",
     "forms": [
       {
@@ -80702,6 +85315,18 @@
         "ipa": "/wɑtʃt/",
         "example": "We watched a film together.",
         "exampleVi": "Chúng tôi cùng xem một bộ phim."
+      }
+    ]
+  },
+  {
+    "word": "waterfall",
+    "forms": [
+      {
+        "word": "waterfalls",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈwɔːtərfɔːlz/"
       }
     ]
   },
@@ -80909,6 +85534,18 @@
     ]
   },
   {
+    "word": "wedge",
+    "forms": [
+      {
+        "word": "wedges",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/wedʒɪz/"
+      }
+    ]
+  },
+  {
     "word": "weed",
     "forms": [
       {
@@ -80980,6 +85617,30 @@
     ]
   },
   {
+    "word": "wetland",
+    "forms": [
+      {
+        "word": "wetlands",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈwetləndz/"
+      }
+    ]
+  },
+  {
+    "word": "wheelbarrow",
+    "forms": [
+      {
+        "word": "wheelbarrows",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈwiːlbæroʊz/"
+      }
+    ]
+  },
+  {
     "word": "whip",
     "forms": [
       {
@@ -81004,6 +85665,18 @@
           "past_participle"
         ],
         "ipa": "/wɪpt/"
+      }
+    ]
+  },
+  {
+    "word": "whirlpool",
+    "forms": [
+      {
+        "word": "whirlpools",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈwɜːrlpuːlz/"
       }
     ]
   },
@@ -81546,6 +86219,46 @@
         "ipa": "/ˈwɪt.nəst/",
         "example": "She witnessed the whole thing.",
         "exampleVi": "Cô ấy chứng kiến toàn bộ sự việc."
+      }
+    ]
+  },
+  {
+    "word": "wobble",
+    "forms": [
+      {
+        "word": "wobbles",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/ˈwɑːbəlz/"
+      },
+      {
+        "word": "wobbling",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/ˈwɑːbəlɪŋ/"
+      },
+      {
+        "word": "wobbled",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/ˈwɑːbəld/"
+      }
+    ]
+  },
+  {
+    "word": "wok",
+    "forms": [
+      {
+        "word": "woks",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/wɑːks/"
       }
     ]
   },
@@ -82260,6 +86973,18 @@
     ]
   },
   {
+    "word": "wrench",
+    "forms": [
+      {
+        "word": "wrenches",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/rentʃɪz/"
+      }
+    ]
+  },
+  {
     "word": "wrist",
     "forms": [
       {
@@ -82582,6 +87307,58 @@
     ]
   },
   {
+    "word": "yak",
+    "forms": [
+      {
+        "word": "yaks",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/jæks/"
+      }
+    ]
+  },
+  {
+    "word": "yam",
+    "forms": [
+      {
+        "word": "yams",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/jæmz/"
+      }
+    ]
+  },
+  {
+    "word": "yawn",
+    "forms": [
+      {
+        "word": "yawns",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/jɔːnz/"
+      },
+      {
+        "word": "yawning",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/jɔːnɪŋ/"
+      },
+      {
+        "word": "yawned",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/jɔːnd/"
+      }
+    ]
+  },
+  {
     "word": "yield",
     "forms": [
       {
@@ -82613,6 +87390,18 @@
     ]
   },
   {
+    "word": "zebra",
+    "forms": [
+      {
+        "word": "zebras",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/ˈziːbrəz/"
+      }
+    ]
+  },
+  {
     "word": "zero-day",
     "forms": [
       {
@@ -82621,6 +87410,34 @@
           "plural"
         ],
         "ipa": "/ˌzɪə.rəʊ ˈdeɪz/"
+      }
+    ]
+  },
+  {
+    "word": "zest",
+    "forms": [
+      {
+        "word": "zests",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/zests/"
+      },
+      {
+        "word": "zesting",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/zestɪŋ/"
+      },
+      {
+        "word": "zested",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/zestɪd/"
       }
     ]
   },
@@ -82690,6 +87507,18 @@
           "past_participle"
         ],
         "ipa": "/zəʊnd/"
+      }
+    ]
+  },
+  {
+    "word": "zucchini",
+    "forms": [
+      {
+        "word": "zucchinis",
+        "types": [
+          "plural"
+        ],
+        "ipa": "/zuːˈkiːniz/"
       }
     ]
   }

@@ -26,7 +26,7 @@ assert [{k:v for k,v in w.items() if k not in {'forms','phrases'}} for w in deck
 prior=[w for p in [ROOT/'seed_words.json',*sorted((ROOT/'decks').glob('*.json'))] if p.name!='basic-120.json' for w in owned_entries(p, read(p))]
 known={norm(w['word']) for w in prior}|{norm(f['word']) for w in prior for f in w.get('forms',[])}
 assert not known&set(map(norm,expected)), 'Existing vocabulary or inflection duplicated'
-assert len({w['word'] for w in prior})==6049-sum(len(w.get('phrases',[])) for w in deck)
+assert len({w['word'] for w in prior})==6548-sum(len(w.get('phrases',[])) for w in deck)
 by_word={w['word']:w for w in deck}
 forms=lambda word:{f['word'] for f in by_word[word].get('forms',[])}
 assert forms('tooth')=={'teeth'} and forms('foot')=={'feet'}

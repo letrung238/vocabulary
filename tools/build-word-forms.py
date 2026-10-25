@@ -121,6 +121,8 @@ def normalize_nouns(records):
         assert (word['pos'], word['meaningVi']) == (r['pos'], r['meaningVi'])
         assert not word.get('senses'), 'Rename needs a separate review of secondary meanings'
         word.update({k: r[k] for k in ('word', 'ipa', 'example', 'exampleVi')})
+        if r.get('lemmaMeaningVi'):
+            word['meaningVi'] = r['lemmaMeaningVi']
     return records
 
 

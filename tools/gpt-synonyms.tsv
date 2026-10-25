@@ -1,12 +1,9 @@
-# GPT editing against the exact primary meaning and POS in sorted canonical entries.
-# Reviewed ranges are half-open. Unlisted entries within them have an explicit
-# no-confirmed-common-synonym status, never a manufactured lexical equivalent.
-# reviewed 0:400
+# Frozen GPT-reviewed primary-sense synonyms; indices follow the reviewed current identity list.
+# reviewed 0:4855
 0|split test
 1|desert;forsake
 2|deserted;disused
 3|unusual;atypical
-4|sudden
 5|suddenly
 6|nonattendance
 7|complete;total
@@ -155,7 +152,6 @@
 219|consent
 220|authorize
 221|rough
-222|roughly
 224|capricious
 225|ADR
 226|repository
@@ -268,7 +264,6 @@
 396|existence
 397|conviction
 399|possessions
-# reviewed 400:1100
 400|standard
 405|advantageous
 406|advantage
@@ -395,7 +390,6 @@
 662|bill
 666|appeal
 667|enchanting
-668|graph
 669|pursue
 673|applaud
 674|happy
@@ -420,7 +414,6 @@
 706|provision
 708|office worker
 709|customer
-711|ascend
 715|clock rate
 716|carefully
 717|ending balance
@@ -448,7 +441,6 @@
 770|funny
 771|order
 772|CQS
-773|begin
 774|remark
 775|comment
 776|trade
@@ -484,7 +476,6 @@
 822|conformity
 824|complex
 825|conform
-826|constituent
 828|write
 830|combined
 831|multicolumn index
@@ -534,7 +525,6 @@
 898|therefore
 899|preservation
 900|traditional
-901|substantial
 902|substantially
 903|deliberation
 904|uniform
@@ -626,2080 +616,2037 @@
 1049|team
 1050|offense
 1052|emergency
-1053|standards
-1054|standard
-1056|crucial
-1059|crucially
+1053|standard
+1055|crucial
+1058|crucially
+1059|censure
 1060|censure
-1061|censure
-1063|harvest
-1068|XSS
-1069|intersection
-1070|essential
-1071|merciless
-1073|pulverize
-1075|signal
-1078|climax
-1079|foster
-1084|heal
-1085|inquisitiveness
-1086|inquisitive
-1090|present
-1092|at present
-1093|syllabus
-1094|bend
-1095|bent
-1096|detention
-1097|CAC
-1098|CLV;LTV
-# reviewed 1100:1800
-1100|silverware
-1102|cyber security
-1104|bike lane
-1106|bicyclist
-1108|background process
-1110|harm
-1111|curse
-1115|dark
-1116|dear
-1119|information
-1122|data cleaning
-1147|daybreak
-1149|DLQ
-1150|due date
-1152|lethal
-1153|handle
-1154|trader
-1155|discussion
-1159|D/E ratio
-1162|rot
-1163|trick
-1164|respectable
-1165|misleading
-1166|conclusive
-1167|pack of cards
-1168|proclamation
-1169|announce
-1170|refuse
-1171|adorn
-1172|ornament
-1173|ornamental
-1174|reduce
-1175|devote
-1176|devotion
-1177|infer
-1178|tax deduction
-1180|profoundly
-1182|beat
-1183|desert
-1184|faulty
-1185|defense
-1186|justify
-1187|protector
-1189|shortfall
-1191|certain
-1192|certainly
-1193|forest clearance
-1194|resist
-1195|deteriorate
-1196|postponement
-1197|entrust
-1198|remove
-1199|intentional
-1200|intentionally
-1201|fragile
-1202|please
-1203|pleased
-1205|dispatch
-1207|dispatch
-1208|requirement
-1209|exacting
-1211|show
-1212|demo
-1215|signify
-1216|thick
-1218|thickly
-1221|leave
-1222|division
-1224|rely
-1225|reliable
-1229|DI
-1233|reliant
-1234|portray
-1235|exhaust
-1240|down payment
-1245|lower
-1246|despondent
-1247|disheartening
-1249|downgrade
-1252|second-in-command
-1253|derivative instrument
-1254|originate
-1255|go down
-1256|offspring
-1257|depict
-1261|merit
-1262|plan
-1265|wanted
-1266|wish
-1267|desktop computer
-1268|hopeless
-1269|frantically
-1270|in spite of
-1272|fate
-1273|demolish
-1274|devastation
-1275|damaging
-1276|aloofness
-1277|thorough
-1278|discover
-1280|worsen
-1281|ascertainment
-1282|establish
-1285|grow
-1288|diverge
-1289|apparatus
-1290|demon
-1291|dedicate
-1292|dedicated
-1299|vary
-1300|distinguish
-1302|excavate
-1303|summary
-1310|digitize
-1311|self-respect
-1312|predicament
-1314|faint
-1316|aspect
-1317|decrease
-1318|fall briefly
-1319|qualification certificate
-1320|guide
-1321|DMA
-1322|without intermediaries
-1326|dispute
-1330|objection
-1332|disk
-1333|release
-1335|reveal
-1336|unplug
-1337|DCF
-1338|dishearten
-1340|tactful
-1341|separate
-1342|dedicated graphics
-1345|talk about
-1346|shame
-1348|deceitful
-1349|reject
-1350|ailment
-1351|shipment
-1352|oust
-1353|show
-1358|discarding
-1359|discard
-1360|temperament
-1361|conflict
-1362|neglect
-1363|discontent
-1364|thesis
-1367|remote
-1368|knowledge distillation
-1369|different
-1370|difference
-1371|clearly
-1372|differentiate
-1373|eminent
-1374|misrepresent
-1375|deformation
-1376|divert
-1377|diversion
-1378|allocate
-1382|area
-1383|bother
-1384|disruption
-1386|varied
-1387|pastime
-1388|variety
-1389|redirect
-1390|divestment
+1062|harvest
+1067|XSS
+1068|intersection
+1069|essential
+1070|merciless
+1072|pulverize
+1074|signal
+1078|foster
+1083|heal
+1084|inquisitiveness
+1085|inquisitive
+1089|present
+1091|at present
+1092|syllabus
+1093|bend
+1094|bent
+1095|detention
+1096|CAC
+1097|CLV;LTV
+1099|silverware
+1101|cyber security
+1103|bike lane
+1105|bicyclist
+1107|background process
+1109|harm
+1110|curse
+1114|dark
+1115|dear
+1118|information
+1121|data cleaning
+1146|daybreak
+1148|DLQ
+1149|due date
+1151|lethal
+1152|handle
+1153|trader
+1154|discussion
+1158|D/E ratio
+1161|rot
+1162|trick
+1163|respectable
+1164|misleading
+1165|conclusive
+1166|pack of cards
+1167|proclamation
+1168|announce
+1169|refuse
+1170|adorn
+1171|ornament
+1172|ornamental
+1173|reduce
+1174|devote
+1175|devotion
+1176|infer
+1177|tax deduction
+1179|profoundly
+1181|beat
+1182|desert
+1183|faulty
+1184|defense
+1185|justify
+1186|protector
+1188|shortfall
+1190|certain
+1191|certainly
+1192|forest clearance
+1193|resist
+1194|deteriorate
+1195|postponement
+1196|entrust
+1197|remove
+1198|intentional
+1199|intentionally
+1200|fragile
+1201|please
+1202|pleased
+1204|dispatch
+1206|dispatch
+1207|requirement
+1208|exacting
+1210|show
+1211|demo
+1214|signify
+1215|thick
+1217|thickly
+1220|leave
+1221|division
+1223|rely
+1224|reliable
+1228|DI
+1232|reliant
+1233|portray
+1234|exhaust
+1239|down payment
+1244|lower
+1245|despondent
+1246|disheartening
+1248|downgrade
+1251|second-in-command
+1252|derivative instrument
+1253|originate
+1254|go down
+1255|offspring
+1256|depict
+1260|merit
+1261|plan
+1264|wanted
+1265|wish
+1266|desktop computer
+1267|hopeless
+1268|frantically
+1269|in spite of
+1271|fate
+1272|demolish
+1273|devastation
+1274|damaging
+1275|aloofness
+1276|thorough
+1277|discover
+1279|worsen
+1280|ascertainment
+1281|establish
+1284|grow
+1287|diverge
+1288|apparatus
+1289|demon
+1290|dedicate
+1291|dedicated
+1298|vary
+1299|distinguish
+1301|excavate
+1302|summary
+1309|digitize
+1310|self-respect
+1311|predicament
+1313|faint
+1315|aspect
+1316|decrease
+1318|qualification certificate
+1319|guide
+1320|DMA
+1321|without intermediaries
+1325|dispute
+1329|objection
+1331|disk
+1332|release
+1334|reveal
+1335|unplug
+1336|DCF
+1337|dishearten
+1339|tactful
+1340|separate
+1341|dedicated graphics
+1344|talk about
+1345|shame
+1347|deceitful
+1348|reject
+1349|ailment
+1350|shipment
+1351|oust
+1352|show
+1357|discarding
+1358|discard
+1359|temperament
+1360|conflict
+1361|neglect
+1362|discontent
+1363|thesis
+1366|remote
+1367|knowledge distillation
+1368|different
+1369|difference
+1370|clearly
+1371|differentiate
+1372|eminent
+1373|misrepresent
+1374|deformation
+1375|divert
+1376|diversion
+1377|allocate
+1381|area
+1382|bother
+1383|disruption
+1385|varied
+1386|pastime
+1387|variety
+1388|redirect
+1389|divestment
+1390|split
 1391|split
-1392|split
-1398|wharf
-1399|record
-1404|DDD
-1405|DNS
-1406|internal
-1407|prevailing
-1408|rule
-1409|contribution
-1410|benefactor
-1411|ruin
-1415|point
-1417|double-entry accounting
-1419|uncertainty
-1420|dubious
-1421|collapse
-1423|outage
-1424|city center
-1425|downward
-1427|rough copy
-1429|pull
-1432|striking
-1433|sharply
-1434|fear
-1435|terrible
-1437|device driver
-1438|fall
-1441|trial run
-1444|deadline
-1445|blunt
-1446|properly
-1447|stupid
-1448|discard
-1449|copy
-1450|replication
-1451|long-lasting
-1452|timespan
-1453|obligation
-1455|diminish
-1457|changing
-1459|DRAM
-1461|keen
-1463|keenly
-1466|make
-1467|income
-1470|EPS
-1472|comfort
-1474|frugal
-1483|eatable
-1484|revise
-1485|revision
-1486|issue
-1488|teach
-1489|educationist
-1495|exertion
-1496|intricate
-1500|aged
-1501|vote in
-1505|EIS
-1507|grace
-1508|graceful
-1509|component
-1510|basic
-1513|remove
-1515|articulate
-1517|make uncomfortable
-1521|welcome
-1522|appear
-1523|appearance
-1524|crisis
-1526|feeling
-1527|sensitive
+1397|wharf
+1398|record
+1403|DDD
+1404|DNS
+1405|internal
+1406|prevailing
+1407|rule
+1408|contribution
+1409|benefactor
+1410|ruin
+1414|point
+1415|increase twofold
+1416|double-entry accounting
+1418|uncertainty
+1419|dubious
+1420|collapse
+1422|outage
+1423|city center
+1424|downward
+1426|rough copy
+1428|pull
+1432|sharply
+1433|fear
+1434|terrible
+1436|device driver
+1440|trial run
+1443|deadline
+1444|blunt
+1445|properly
+1446|stupid
+1447|discard
+1448|copy
+1449|replication
+1450|long-lasting
+1451|timespan
+1452|obligation
+1456|changing
+1458|DRAM
+1460|keen
+1462|keenly
+1465|make
+1466|income
+1469|EPS
+1471|comfort
+1473|frugal
+1482|eatable
+1483|revise
+1484|revision
+1485|issue
+1487|teach
+1488|educationist
+1494|exertion
+1495|intricate
+1499|aged
+1500|vote in
+1504|EIS
+1506|grace
+1507|graceful
+1508|component
+1509|basic
+1512|remove
+1514|articulate
+1516|make uncomfortable
+1520|welcome
+1521|appear
+1522|appearance
+1523|crisis
+1525|feeling
+1526|sensitive
+1528|stress
 1529|stress
-1530|stress
-1531|observational
-1532|experimental
-1533|hire
-1534|worker
-1536|work
-1537|vacant
-1539|allow
-1542|meet
-1543|encipher
-1544|encipherment
-1547|EOL
-1548|EOS
-1549|E2EE
-1551|threatened
-1552|effort
-1553|endeavor
-1554|unceasingly
-1555|support
-1558|stamina
-1559|tolerate
-1560|lasting
-1562|implement
-1563|implementation
-1564|participate
-1565|interaction
-1567|improve
-1568|pleasant
-1569|huge
-1570|inquiry
-1571|enroll
-1572|guarantee
-1573|business
-1574|EV
-1575|amuse
-1576|amusing
-1577|eagerness
-1578|eager
-1579|whole
-1580|completely
-1581|authorize
-1588|surroundings
-1589|be jealous of
-1590|temporary storage
-1591|outbreak
-1592|equivalent
-1593|parity
-1594|evenly
-1596|outfit
-1597|apparatus
-1598|shares
-1601|equal
-1602|age
-1603|upright
-1604|wear away
-1606|mistake
-1608|ECC memory
-1609|break out
-1613|get away
-1615|necessary
-1616|fundamentally
-1617|set up
-1619|approximate
-1621|moral
-1623|morals
-1627|assess
-1628|assessment
-1631|uniformly
-1635|ultimately
-1636|eternal
-1637|proof
-1639|obvious
-1640|clearly
-1641|development
-1642|develop
-1645|overstate
-1646|inspection
-1647|inspect
-1648|surpass
-1652|outstanding
-1653|unusually
-1654|inordinate
-1655|swap
-1657|ETF
-1658|enthusiasm
-1659|omit
-1660|omission
-1661|restricted
-1662|solely
-1663|outing
-1664|pretext
-1665|carry out
-1666|manager
-1668|exhaust fumes
-1669|worn out
-1670|fatigue
-1671|display
-1673|being
-1674|current
-1675|way out
-1678|enlarge
-1679|enlargement
-1680|anticipate
-1681|anticipation
-1684|spending
-1685|cost
-1688|seasoned
-1689|specialist
-1691|specialist knowledge
-1692|clear
-1693|expressly
-1694|utilize
-1695|discovery
-1696|investigate
-1702|reveal
-1704|articulate
-1705|prolong
-1707|enlargement
-1708|vast
-1709|widely
-1710|scope
-1711|outside
-1714|remove
-1716|remarkable
-1717|wasteful
-1718|exceedingly
-1719|cloth
-1720|wonderful
-1721|enable
-1723|element
-1725|ability
-1726|wane
-1728|defeat
-1729|pass out
-1731|belief
-1732|loyally
-1733|counterfeit
-1734|decline
-1735|backup option
-1737|renown
-1739|starvation
-1740|daydream
-1742|captivate
-1743|captivated
-1744|captivating
-1745|captivation
-1747|lethal
-1748|defect
-1750|defective
-1751|favourable
-1752|kindness
-1753|viable
-1755|characteristic
-1757|feature toggle
-1760|feature flag
-1762|charge
-1764|comments
-1768|fibre
-1769|imaginary
-1771|ferocious
-1772|number
-1775|last
-1780|discovery
-1783|limited
-1786|resolute
-1787|resolutely
-1789|financial year
-1798|flavor
-1799|defect
-# reviewed 1800:2500
-1802|adaptability
-1803|adaptable
-1804|turn over
-1806|thrive
-1808|vary
-1809|variation
-1810|flexible
-1811|concentrate
-1814|foldable
-1817|adherent
-1818|affectionate
-1820|idiot
-1823|prohibit
-1824|prediction
-1825|forex;FX
-1827|supervisor
-1828|pardon
-1829|official
-1830|officially
-1831|layout
-1832|establishment
-1834|previously
-1835|intimidating
-1837|devise
-1838|upcoming
-1839|lucky
-1840|luck
-1845|encourage
-1846|unpleasant
-1847|establish
-1848|basis
-1850|based
-1851|originator
-1856|piece
-1859|frame frequency
-1861|structure
-1862|honestly
-1863|deception
-1864|panic
-1865|FCF
-1866|liberty
-1867|self-employed
-1868|without restriction
-1871|regular
-1872|often
-1874|front end
-1875|border
-1876|exasperated
-1879|fulfill
-1880|satisfy
-1884|completely
-1885|purpose
-1886|FaaS
-1887|closure
-1890|features
-1891|finance
-1892|basic
-1893|basically
-1894|financing
-1897|panic
-1899|enraged
-1901|moreover
-1902|fuzzing
-1903|gizmo
-1904|obtain
-1905|betting
-1908|group
-1909|opening
-1910|GC
-1912|article of clothing
-1914|entrance
-1915|meter
-1916|homosexual
-1917|stare
-1918|equipment
-1920|GA
-1923|usually
-1924|produce
-1928|liberality
-1929|bighearted
-1932|category
-1933|softly
-1934|sincere
-1935|truly
-1936|microbe
-1938|escape
-1940|talented
-1941|performance
-1943|take a quick look
-1944|delight
-1946|globalization
-1947|worldwide
-1948|world
-1952|objective
-1955|benevolence
-1956|ravine
-1957|beautiful
-1958|chat
-1960|regulate
-1962|seize
-1965|mark
-1967|incremental
-1968|progressively
-1970|magnificent
-1974|illustration
-1975|imagery
-1978|understand
-1979|thankful
-1980|thankfulness
-1981|considerably
-1982|hothouse
-1984|lattice
-1985|traffic standstill
-1986|sorrow
-1987|resolute
-1989|hold
-1991|backlog refinement
-1992|total
-1996|increase
-1997|increasing
-1998|increase
-2000|ensure
-2002|guidance
-2003|remorseful
-2004|gingiva
-2008|call
-2009|hirsute
-2010|stop
-2013|disability
-2014|manage
-2016|handover
-2017|handoff
-2020|useful
-2021|suspend
-2022|harbor
-2023|HDD
-2026|HSM
-2027|damage
-2028|damaging
-2030|innocuous
-2033|hurriedly
-2036|dangerous
-2039|heading
-2040|head office
-2042|advance warning
-2043|cure
-2044|health check
-2045|medical care
-2046|pile
-2049|sky
-2055|therefore
-2057|legacy
-2058|waver
-2059|indecision
-2061|ports and adapters architecture
-2062|concealed
-2064|HBM
-2065|HDR
-2067|emphasize
-2068|very
-2069|main road
-2070|very funny
-2072|clue
-2074|employ
-2076|pastime
-2078|empty
-2079|massacre
-2080|sacred
-2084|truthful
-2085|truthfully
-2086|truthfulness
-2087|honour
-2088|honorable
-2089|bonnet
-2092|scale-out
-2095|antagonistic
-2098|emergency patch
-2099|hot path
-2101|family unit
-2103|accommodation
-2105|HITL
-2107|compassionate
-2108|modest
-2109|funny
-2110|humor
-2113|silence
-2118|virtual machine monitor
-2119|theory
-2120|symbol
-2121|frozen
-2125|exactly alike
-2126|ID
-2127|recognize
-2130|inactive
-2133|uninformed
-2134|disregard
-2135|unlawful
-2136|sickness
-2137|mirage
-2138|demonstrate
-2139|drawing
-2140|picture
-2146|ISP
-2150|envisage
-2151|copy
-2152|instant
-2153|instantly
-2157|undying
-2159|unchangeable
-2161|effect
-2162|restless
-2163|necessity
-2164|carry out
-2165|incriminate
-2167|unstated
-2168|suggest
-2171|make an impression on
-2172|admiring
-2174|striking
-2175|incorrectly
-2176|enhance
-2177|enhanced
-2178|enhancement
-2179|urge
-2181|internal
-2182|insufficient
-2184|motivation
-2187|event
-2190|by the way
-2191|lean
-2192|disposed
-2193|contain
-2195|earnings
-2197|profit and loss statement
-2198|unfinished
-2199|integrate
-2200|wrong
-2201|raise
-2205|autonomy
-2206|autonomous
-2208|autonomously
-2212|show
-2213|sign
-2215|apathetic
+1530|observational
+1531|experimental
+1532|hire
+1533|worker
+1535|work
+1536|vacant
+1538|allow
+1541|meet
+1542|encipher
+1543|encipherment
+1546|EOL
+1547|EOS
+1548|E2EE
+1550|threatened
+1551|effort
+1552|endeavor
+1553|unceasingly
+1554|support
+1557|stamina
+1558|tolerate
+1559|lasting
+1561|implement
+1562|implementation
+1563|participate
+1564|interaction
+1566|improve
+1567|pleasant
+1568|huge
+1569|inquiry
+1570|enroll
+1571|guarantee
+1572|business
+1573|EV
+1574|amuse
+1575|amusing
+1576|eagerness
+1577|eager
+1578|whole
+1579|completely
+1580|authorize
+1587|surroundings
+1588|be jealous of
+1589|temporary storage
+1590|outbreak
+1591|equivalent
+1592|parity
+1593|evenly
+1595|outfit
+1596|apparatus
+1597|shares
+1600|equal
+1601|age
+1602|upright
+1603|wear away
+1605|mistake
+1607|ECC memory
+1608|break out
+1612|get away
+1614|necessary
+1615|fundamentally
+1616|set up
+1618|approximate
+1620|moral
+1622|morals
+1626|assess
+1627|assessment
+1630|uniformly
+1634|ultimately
+1635|eternal
+1636|proof
+1638|obvious
+1639|clearly
+1640|development
+1641|develop
+1644|overstate
+1645|inspection
+1646|inspect
+1647|surpass
+1651|outstanding
+1652|unusually
+1653|inordinate
+1654|swap
+1656|ETF
+1657|enthusiasm
+1658|omit
+1659|omission
+1660|restricted
+1661|solely
+1662|outing
+1663|pretext
+1664|carry out
+1665|manager
+1667|exhaust fumes
+1668|worn out
+1669|fatigue
+1670|display
+1672|being
+1673|current
+1674|way out
+1677|enlarge
+1678|enlargement
+1679|anticipate
+1680|anticipation
+1683|spending
+1684|cost
+1687|seasoned
+1688|specialist
+1690|specialist knowledge
+1691|clear
+1692|expressly
+1693|utilize
+1694|discovery
+1695|investigate
+1701|reveal
+1703|articulate
+1704|prolong
+1706|enlargement
+1707|vast
+1708|widely
+1709|scope
+1710|outside
+1713|remove
+1715|remarkable
+1716|wasteful
+1717|exceedingly
+1718|cloth
+1719|wonderful
+1720|enable
+1722|element
+1724|ability
+1725|wane
+1727|defeat
+1728|pass out
+1730|belief
+1731|loyally
+1732|counterfeit
+1734|backup option
+1736|renown
+1738|starvation
+1739|daydream
+1741|captivate
+1742|captivated
+1743|captivating
+1744|captivation
+1746|lethal
+1747|defect
+1749|defective
+1750|favourable
+1751|kindness
+1752|viable
+1754|characteristic
+1756|feature toggle
+1759|feature flag
+1761|charge
+1763|comments
+1767|fibre
+1768|imaginary
+1770|ferocious
+1771|number
+1774|last
+1779|discovery
+1782|limited
+1785|resolute
+1786|resolutely
+1788|financial year
+1797|flavor
+1798|defect
+1801|adaptability
+1802|adaptable
+1803|turn over
+1805|thrive
+1807|vary
+1809|flexible
+1810|concentrate
+1813|foldable
+1816|adherent
+1817|affectionate
+1819|idiot
+1822|prohibit
+1823|prediction
+1824|forex;FX
+1826|supervisor
+1827|pardon
+1828|official
+1829|officially
+1830|layout
+1831|establishment
+1833|previously
+1834|intimidating
+1836|devise
+1837|upcoming
+1838|lucky
+1839|luck
+1844|encourage
+1845|unpleasant
+1846|establish
+1847|basis
+1849|based
+1850|originator
+1855|piece
+1858|frame frequency
+1860|structure
+1861|honestly
+1862|deception
+1863|panic
+1864|FCF
+1865|liberty
+1866|self-employed
+1867|without restriction
+1870|regular
+1871|often
+1873|front end
+1874|border
+1875|exasperated
+1878|fulfill
+1879|satisfy
+1883|completely
+1884|purpose
+1885|FaaS
+1886|closure
+1889|features
+1890|finance
+1891|basic
+1892|basically
+1893|financing
+1896|panic
+1898|enraged
+1901|fuzzing
+1902|gizmo
+1903|obtain
+1904|betting
+1907|group
+1908|opening
+1909|GC
+1911|article of clothing
+1913|entrance
+1914|meter
+1915|homosexual
+1916|stare
+1917|equipment
+1919|GA
+1922|usually
+1923|produce
+1927|liberality
+1928|bighearted
+1931|category
+1932|softly
+1933|sincere
+1934|truly
+1935|microbe
+1937|escape
+1939|talented
+1940|performance
+1942|take a quick look
+1943|delight
+1945|globalization
+1946|worldwide
+1947|world
+1951|objective
+1954|benevolence
+1955|ravine
+1956|beautiful
+1957|chat
+1959|regulate
+1961|seize
+1964|mark
+1967|progressively
+1969|magnificent
+1973|illustration
+1974|imagery
+1977|understand
+1978|thankful
+1979|thankfulness
+1980|considerably
+1981|hothouse
+1983|lattice
+1984|traffic standstill
+1985|sorrow
+1986|resolute
+1988|hold
+1990|backlog refinement
+1991|total
+1996|increasing
+1999|ensure
+2001|guidance
+2002|remorseful
+2003|gingiva
+2007|call
+2008|hirsute
+2009|stop
+2012|disability
+2013|manage
+2015|handover
+2016|handoff
+2019|useful
+2020|suspend
+2021|harbor
+2022|HDD
+2025|HSM
+2026|damage
+2027|damaging
+2029|innocuous
+2032|hurriedly
+2035|dangerous
+2038|heading
+2039|head office
+2041|advance warning
+2042|cure
+2043|health check
+2044|medical care
+2045|pile
+2048|sky
+2056|legacy
+2057|waver
+2058|indecision
+2060|ports and adapters architecture
+2061|concealed
+2063|HBM
+2064|HDR
+2066|emphasize
+2067|very
+2068|main road
+2069|very funny
+2071|clue
+2073|employ
+2075|pastime
+2077|empty
+2078|massacre
+2079|sacred
+2083|truthful
+2084|truthfully
+2085|truthfulness
+2086|honour
+2087|honorable
+2088|bonnet
+2091|scale-out
+2094|antagonistic
+2097|emergency patch
+2098|hot path
+2100|family unit
+2102|accommodation
+2104|HITL
+2106|compassionate
+2107|modest
+2108|funny
+2109|humor
+2112|silence
+2117|virtual machine monitor
+2118|theory
+2119|symbol
+2120|frozen
+2124|exactly alike
+2125|ID
+2126|recognize
+2129|inactive
+2132|uninformed
+2133|disregard
+2134|unlawful
+2135|sickness
+2136|mirage
+2137|demonstrate
+2138|drawing
+2139|picture
+2145|ISP
+2149|envisage
+2150|copy
+2151|instant
+2152|instantly
+2156|undying
+2158|unchangeable
+2160|effect
+2161|restless
+2162|necessity
+2163|carry out
+2164|incriminate
+2166|unstated
+2167|suggest
+2170|make an impression on
+2171|admiring
+2173|striking
+2174|incorrectly
+2175|enhance
+2176|enhanced
+2177|enhancement
+2178|urge
+2180|internal
+2181|insufficient
+2183|motivation
+2186|event
+2189|by the way
+2190|lean
+2191|disposed
+2192|contain
+2194|earnings
+2196|profit and loss statement
+2197|unfinished
+2198|integrate
+2199|wrong
+2204|autonomy
+2205|autonomous
+2207|autonomously
+2211|show
+2212|sign
+2214|apathetic
+2215|native
 2216|native
-2217|native
-2220|person
-2221|separately
-2222|cause
-2223|pamper
-2227|ineffectual
-2229|unavoidable
-2230|unavoidably
-2231|unseasoned
-2232|baby
-2234|contagious
-2235|deduce
-2236|deduction
-2243|effect
-2245|notify
-2246|casual
-2248|IaaS
-2249|IaC
-2250|violation
-2251|intrinsic
-2254|restrain
-2256|first
-2257|IPO
-2258|at first
-2259|start
-2263|hurt
-2264|wound
-2266|interior
-2267|blameless
-2270|inventive
-2271|contribution
-2275|IOPS
-2276|enquire
-2277|put in
-2278|understanding
-2279|persist
-2280|sleeplessness
-2281|examine
-2282|examination
-2283|examiner
-2285|set up
-2287|installment
-2289|immediate
-2290|immediately
-2294|direct
-2295|direction
-2303|IPC
-2304|trainer
-2305|inadequate
-2306|slur
-2308|undamaged
-2309|essential
-2310|combine
-2311|combined
-2315|honesty
-2317|smart
-2318|plan
-2319|deliberate
-2320|extreme
-2321|strength
-2322|concentrated
-2323|absorbed
-2324|purpose
-2325|deliberate
-2326|deliberately
-2335|meddle
-2336|temporary
-2339|inner
-2345|explain
-2346|explanation
-2348|disrupt
-2349|disruption
-2350|junction
-2351|gap
-2353|closeness
-2354|close
-2355|inherent
-2358|incursion
-2361|user-friendly
-2362|always
-2364|IoC
-2366|inquire into
-2367|inquiry
-2371|unseen
-2373|bill
-2374|cite
-2375|include
-2376|participation
-2378|unreasonable
-2379|compelling
-2381|annoyance
-2382|separate
-2383|secluded
-2385|question
-2387|repeat
-2388|cycle
-2389|travel schedule
-2390|prison
-2393|envious
-2394|jet aircraft
-2397|employment
-2398|shared
-2400|together
-2401|periodical
-2404|delight
-2405|assess
-2406|judgment
-2407|leap
-2410|fairness
-2412|underage
-2413|eager
-2414|custodian
-2421|benevolence
-2422|family relationship
-2423|set
-2424|tap
-2427|understanding
-2430|tag
-2431|lab
-2432|labor
-2433|shortage
-2435|delay
-2437|weak
-2438|spear
-2439|rubbish dump
-2443|scenery
-2444|alley
-2447|LLM
-2448|mainly
-2449|LLC
-2450|recently
-2451|delay
-2453|introduce
-2458|civil action
-2459|attorney
-2460|place
-2463|arrangement
-2464|stopover
-2467|prospect
-2474|flyer
-2477|tilt
-2479|jump
-2481|lead
-2485|old-generation
-2486|juridical
-2487|lawfully
-2488|myth
-2491|laws
-2493|lawful
-2494|free time
-2495|long
-2498|capitalize on
-2499|LBO
-# reviewed 2500:3200
-2500|tax
-2501|legally responsible
-2502|open-minded
-2504|license
-2505|cover
-2506|life expectancy
-2508|raise
-2510|similarly
-2512|boundary
-2513|restriction
-2514|restricted
-2516|heather
-2517|connection
-2520|winding up
-2524|word-for-word
-2525|word for word
-2527|liter
-2529|animated
-2531|burden
-2536|foyer
-2538|situate
-2539|place
-2542|system journal
-2547|rational
-2548|rationally
-2549|emblem
-2550|lonesomeness
-2554|LTS
-2556|bring in
-2558|slackly
-2565|drop
-2566|faithful
-2567|fidelity
-2569|luxuriant
-2570|lavish
-2571|song text
-2572|ML
-2574|insanity
-2575|splendid
-2576|scale
-2578|preserve
-2580|principal
-2582|cosmetics
-2583|production
-2585|malicious software
-2586|mom
-2587|succeed
-2589|administration
-2590|MBO
-2591|compulsory
-2594|produce
-2595|producer
-2596|production
-2598|profit margin
-2599|negligible
-2600|felt-tip pen
-2601|market cap
-2606|promotion
-2607|matrimony
-2608|military
-2612|public transportation
-2614|huge
-2615|expert
-2618|proficiency
-2619|corresponding
-2621|deck officer
-2626|mathematical inference
-2628|grown-up
-2629|maximize
-2630|highest
-2633|method
-2634|in the meantime
-2642|press
-2643|arbitrate
-2645|medicine
-2646|channel
-2647|tune
-2648|liquefy
-2650|memorandum
-2652|unforgettable
-2653|monument
-2656|memory fence
-2669|psychological
-2671|refer to
-2672|adviser
-2673|goods
-2674|compassion
-2675|simple
-2676|only
-2677|combine
-2682|MAC
-2685|courier
-2689|procedure
-2691|measure
-2693|mic
-2698|powerful
-2701|gentle
-2702|landmark
-2707|tiny
-2709|minimum
-2710|minimize
-2712|MVP
-2715|lesser
-2718|meeting record
-2719|wretched
-2720|bad luck
-2722|deceptive
-2723|assignment
-2724|haze
-2725|error
-2727|reduce
-2728|blended
-2729|blend
-2730|MoE
-2737|mock-up
-2738|method
-2747|reasonable
-2748|reasonably
-2749|modernisation
-2750|humble
-2751|alteration
-2752|adjust
-2754|mould
-2755|fleeting
-2756|watch
-2757|monolithic application
-2762|MRR
-2763|memorial
-2764|temperamental
-2766|ethical
-2769|furthermore
-2771|death rate
-2772|home loan
-2773|movement
-2774|inspire
-2775|driven
-2776|incentive
-2777|reason
-2778|engine
-2779|motorbike
-2780|install
-2781|motion
-2784|MCM
-2786|MHA
-2790|numerous
-2792|ponder
-2794|silence
-2795|mutual exclusion lock
-2796|reciprocal
-2799|reciprocally
-2800|enigmatic
-2801|misconception
-2804|slender
-2806|unpleasant
-2807|countrywide
-2814|NFC
-2815|close by
-2816|tidy
-2817|tidily
-2819|need
-2822|impoverished
-2823|nullify
-2824|adversely
-2825|disregard
-2826|bargain
-2827|bargaining
-2828|neighbourhood
-2830|anxiety
-2831|anxious
-2833|net profit margin
-2834|net income
-2836|NAT
-2844|artificial neural network
-2845|NPU
-2846|impartial
-2847|nonetheless
-2848|recently
-2849|bad dream
-2850|quibble
-2851|honorable
-2854|noisy neighbor
-2858|nevertheless
-2860|standard
-2861|usual
-2863|usually
-2864|exercise book
-2865|observe
-2866|idea
-2867|despite
-2870|these days
-2873|pest
-2877|numeric
-2878|many
-2879|day nursery
-2882|nourish
-2883|foster
-2886|comply with
-2888|protest
-2890|goal
-2891|duty
-2893|remark
-2894|watch
-2895|watcher
-2899|outdated
-2900|barrier
-2901|acquire
-2902|evident
-2903|clearly
-2905|infrequent
-2906|sometimes
-2907|profession
-2909|take up
-2910|happen
-2911|event
-2912|strange
-2914|offense
-2915|insult
-2916|criminal
-2917|insulting
-2918|formally
-2920|counterbalance
-2923|descendants
-2928|on-premises
-2930|induction
-2934|continuing
-2935|OCP
-2936|gap
-2937|beginning balance
-2938|publicly
-2940|run
-2944|operating income
+2219|person
+2220|separately
+2221|cause
+2222|pamper
+2226|ineffectual
+2228|unavoidable
+2229|unavoidably
+2230|unseasoned
+2231|baby
+2233|contagious
+2234|deduce
+2235|deduction
+2242|effect
+2244|notify
+2245|casual
+2247|IaaS
+2248|IaC
+2249|violation
+2250|intrinsic
+2253|restrain
+2255|first
+2256|IPO
+2257|at first
+2258|start
+2262|hurt
+2263|wound
+2265|interior
+2266|blameless
+2269|inventive
+2270|contribution
+2274|IOPS
+2275|enquire
+2276|put in
+2277|understanding
+2278|persist
+2279|sleeplessness
+2280|examine
+2281|examination
+2282|examiner
+2284|set up
+2286|installment
+2288|immediate
+2289|immediately
+2293|direct
+2294|direction
+2302|IPC
+2303|trainer
+2304|inadequate
+2305|slur
+2307|undamaged
+2308|essential
+2309|combine
+2310|combined
+2314|honesty
+2316|smart
+2317|plan
+2318|deliberate
+2319|extreme
+2320|strength
+2321|concentrated
+2322|absorbed
+2323|purpose
+2324|deliberate
+2325|deliberately
+2334|meddle
+2335|temporary
+2338|inner
+2344|explain
+2345|explanation
+2347|disrupt
+2348|disruption
+2349|junction
+2352|closeness
+2353|close
+2354|inherent
+2357|incursion
+2360|user-friendly
+2361|always
+2363|IoC
+2365|inquire into
+2366|inquiry
+2370|unseen
+2372|bill
+2373|cite
+2374|include
+2375|participation
+2377|unreasonable
+2378|compelling
+2380|annoyance
+2381|separate
+2382|secluded
+2384|question
+2386|repeat
+2387|cycle
+2388|travel schedule
+2389|prison
+2392|envious
+2393|jet aircraft
+2396|employment
+2397|shared
+2399|together
+2400|periodical
+2403|delight
+2404|assess
+2405|judgment
+2409|fairness
+2411|underage
+2412|eager
+2413|custodian
+2420|benevolence
+2421|family relationship
+2422|set
+2423|tap
+2426|understanding
+2429|tag
+2430|lab
+2431|labor
+2432|shortage
+2434|delay
+2436|weak
+2437|spear
+2438|rubbish dump
+2442|scenery
+2443|alley
+2446|LLM
+2447|mainly
+2448|LLC
+2449|recently
+2450|delay
+2452|introduce
+2457|civil action
+2458|attorney
+2459|place
+2462|arrangement
+2463|stopover
+2466|prospect
+2473|flyer
+2476|tilt
+2480|lead
+2484|old-generation
+2485|juridical
+2486|lawfully
+2487|myth
+2490|laws
+2492|lawful
+2493|free time
+2494|long
+2497|capitalize on
+2498|LBO
+2499|tax
+2500|legally responsible
+2501|open-minded
+2503|license
+2504|cover
+2505|life expectancy
+2507|raise
+2509|similarly
+2511|boundary
+2512|restriction
+2513|restricted
+2515|heather
+2516|connection
+2519|winding up
+2523|word-for-word
+2524|word for word
+2526|liter
+2528|animated
+2530|burden
+2535|foyer
+2537|situate
+2538|place
+2541|system journal
+2546|rational
+2547|rationally
+2548|emblem
+2549|lonesomeness
+2553|LTS
+2555|bring in
+2557|slackly
+2564|drop
+2565|faithful
+2566|fidelity
+2568|luxuriant
+2569|lavish
+2570|song text
+2571|ML
+2573|insanity
+2574|splendid
+2575|scale
+2577|preserve
+2579|principal
+2581|cosmetics
+2582|production
+2584|malicious software
+2585|mom
+2586|succeed
+2588|administration
+2589|MBO
+2590|compulsory
+2593|produce
+2594|producer
+2595|production
+2597|profit margin
+2598|negligible
+2599|felt-tip pen
+2600|market cap
+2605|promotion
+2606|matrimony
+2607|military
+2611|public transportation
+2613|huge
+2614|expert
+2617|proficiency
+2618|corresponding
+2620|deck officer
+2625|mathematical inference
+2627|grown-up
+2628|maximize
+2629|highest
+2632|method
+2633|in the meantime
+2641|press
+2642|arbitrate
+2644|medicine
+2645|channel
+2646|tune
+2647|liquefy
+2649|memorandum
+2651|unforgettable
+2652|monument
+2655|memory fence
+2668|psychological
+2670|refer to
+2671|adviser
+2672|goods
+2673|compassion
+2674|simple
+2675|only
+2676|combine
+2681|MAC
+2684|courier
+2688|procedure
+2690|measure
+2692|mic
+2697|powerful
+2700|gentle
+2701|landmark
+2706|tiny
+2708|minimum
+2709|minimize
+2711|MVP
+2714|lesser
+2717|meeting record
+2718|wretched
+2719|bad luck
+2721|deceptive
+2722|assignment
+2723|haze
+2724|error
+2726|reduce
+2727|blended
+2728|blend
+2729|MoE
+2736|mock-up
+2737|method
+2746|reasonable
+2747|reasonably
+2748|modernisation
+2749|humble
+2750|alteration
+2751|adjust
+2753|mould
+2754|fleeting
+2755|watch
+2756|monolithic application
+2761|MRR
+2762|memorial
+2763|temperamental
+2765|ethical
+2768|furthermore
+2770|death rate
+2771|home loan
+2772|movement
+2773|inspire
+2774|driven
+2775|incentive
+2776|reason
+2777|engine
+2778|motorbike
+2779|install
+2780|motion
+2783|MCM
+2785|MHA
+2789|numerous
+2791|ponder
+2793|silence
+2794|mutual exclusion lock
+2795|reciprocal
+2798|reciprocally
+2799|enigmatic
+2800|misconception
+2803|slender
+2805|unpleasant
+2806|countrywide
+2813|NFC
+2814|close by
+2815|tidy
+2816|tidily
+2818|need
+2821|impoverished
+2822|nullify
+2823|adversely
+2824|disregard
+2825|bargain
+2826|bargaining
+2827|neighbourhood
+2829|anxiety
+2830|anxious
+2832|net profit margin
+2833|net income
+2835|NAT
+2843|artificial neural network
+2844|NPU
+2845|impartial
+2846|nonetheless
+2847|recently
+2848|bad dream
+2849|quibble
+2850|honorable
+2853|noisy neighbor
+2857|nevertheless
+2859|standard
+2860|usual
+2862|usually
+2863|exercise book
+2864|observe
+2865|idea
+2866|despite
+2869|these days
+2872|pest
+2876|numeric
+2877|many
+2878|day nursery
+2881|nourish
+2882|foster
+2885|comply with
+2887|protest
+2889|goal
+2890|duty
+2892|remark
+2893|watch
+2894|watcher
+2898|outdated
+2899|barrier
+2900|acquire
+2901|evident
+2902|clearly
+2904|infrequent
+2905|sometimes
+2906|profession
+2908|take up
+2909|happen
+2910|event
+2911|strange
+2913|offense
+2914|insult
+2915|criminal
+2916|insulting
+2917|formally
+2919|counterbalance
+2922|descendants
+2927|on-premises
+2929|induction
+2933|continuing
+2934|OCP
+2935|gap
+2936|beginning balance
+2937|publicly
+2939|run
+2943|operating income
+2944|functioning
 2945|functioning
-2946|functioning
-2949|adversary
-2950|resist
-2951|against
-2952|contrary
-2953|resistance
-2954|OIS
-2956|best
-2958|hopeful
-2961|choice
-2963|elective
-2964|spoken
-2966|coordination
-2967|normal
-2970|organisation
-2971|organisational
-2973|organise
-2974|organiser
-2977|source
-2979|uniqueness
-2980|initially
-2981|derive
-2982|fluctuate
-2984|OOD
-2985|OOO
-2987|service interruption
-2989|result
-2990|external
-2991|ensemble
-2992|excursion
-2993|retail store
-2995|contour
-2996|perspective
-2999|production
-3001|indignation
-3002|shocking
-3006|exceptional
-3008|elliptical
-3013|surmount
-3015|late
-3018|extra expense
-3019|overheads
-3022|miss
-3023|excessively
-3026|abroad
-3027|pass
-3030|topple
-3033|person in charge
-3034|possession
-3038|tempo
-3040|package holiday
-3041|crowded
-3047|notepad
-3049|ache
-3050|sore
-3055|committee
-3056|terror
-3058|procession
-3059|model
-3065|boundary
-3072|incomplete
-3073|partly
-3074|attendee
-3075|take part
-3076|involvement
-3078|specific
-3079|especially
-3080|adherent
-3082|partially
-3083|associate
-3084|alliance
-3086|corridor
-3087|enthusiastic
-3088|inactive
-3092|minister
-3096|forbearance
-3097|forbearing
-3098|regular customer
-3101|stop briefly
-3102|sidewalk
-3108|tranquilly
-3113|high season
-3115|teaching method
-3117|walker
-3118|pedestrianize
-3119|rind
-3120|equal
-3123|punishment
-3124|awaiting action
-3125|pierce
-3126|pentest
-3127|pentesting
-3129|discern
-3130|per cent
-3133|awareness
-3143|interval
-3145|lasting
-3146|for good
-3147|allow
-3148|persevere
-3150|persevering
-3153|staff
-3154|viewpoint
-3157|relevant
-3160|low-ranking
-3161|chemist
-3162|stage
-3165|creed
-3167|bodily
-3168|fitness
-3169|doctor
-3171|heap
-3172|tablet
-3176|automated workflow
-3180|buccaneer
-3181|sales presentation
-3183|compassion
-3186|fragment shader
-3188|positioning
-3191|clear
-3193|level off
-3195|PaaS
-3196|credible
-3197|argue a case
-3198|stop up
-# reviewed 3200:3900
-3201|drop sharply
-3202|plummet
-3203|advantage
-3206|sharp
-3208|blunt
-3211|luster
-3212|courteous
-3215|contaminant
-3218|veranda
-3222|serving
-3223|part
-3224|present
-3226|favorable
-3227|favorably
-3228|own
-3230|ownership
-3231|chance
-3236|post-incident review
-3237|delay
-3238|powerful
-3241|destitution
-3247|almost
-3249|commend
-3251|come before
-3252|valuable
-3253|exact
-3254|exactly
-3256|forecast
-3258|dominant
-3265|bias
-3266|initial
-3268|readiness
-3271|attendance
-3272|talk
-3273|speaker
-3275|conserve
-3278|push
-3280|status
-3281|reputable
-3282|probably
-3283|assume
-3284|triumph
-3286|preventative
-3288|earlier
-3289|formerly
-3290|price reduction
-3291|P/E ratio
-3292|price increase
-3294|pierce
-3295|self-respect
-3296|mainly
-3297|main
-3299|chief
-3300|main
-3301|mainly
-3302|rule
-3303|previous
-3312|prerogative
-3314|award
-3315|likelihood
-3316|likely
-3317|trial period
-3319|method
-3320|go ahead
-3321|procedure
-3328|purchasing
-3331|PMF
-3336|fruitful
-3339|biographical sketch
-3342|earnings
-3345|lucrative
-3346|deep
-3347|coding
-3348|advancement
-3349|forward-looking
-3350|forbid
+2948|adversary
+2949|resist
+2950|against
+2951|contrary
+2952|resistance
+2953|OIS
+2955|best
+2957|hopeful
+2960|choice
+2962|elective
+2963|spoken
+2965|coordination
+2966|normal
+2969|organisation
+2970|organisational
+2972|organise
+2973|organiser
+2976|source
+2978|uniqueness
+2979|initially
+2980|derive
+2983|OOD
+2984|OOO
+2986|service interruption
+2988|result
+2989|external
+2990|ensemble
+2991|excursion
+2992|retail store
+2994|contour
+2995|perspective
+2998|production
+3000|indignation
+3001|shocking
+3005|exceptional
+3007|elliptical
+3012|surmount
+3014|late
+3017|extra expense
+3018|overheads
+3021|miss
+3022|excessively
+3025|abroad
+3029|topple
+3032|person in charge
+3033|possession
+3037|tempo
+3039|package holiday
+3040|crowded
+3046|notepad
+3048|ache
+3049|sore
+3054|committee
+3055|terror
+3057|procession
+3058|model
+3064|boundary
+3071|incomplete
+3072|partly
+3073|attendee
+3074|take part
+3075|involvement
+3077|specific
+3078|especially
+3079|adherent
+3081|partially
+3082|associate
+3083|alliance
+3085|corridor
+3086|enthusiastic
+3087|inactive
+3091|minister
+3095|forbearance
+3096|forbearing
+3097|regular customer
+3100|stop briefly
+3101|sidewalk
+3107|tranquilly
+3112|high season
+3114|teaching method
+3116|walker
+3117|pedestrianize
+3118|rind
+3119|equal
+3122|punishment
+3123|awaiting action
+3124|pierce
+3125|pentest
+3126|pentesting
+3128|discern
+3129|per cent
+3132|awareness
+3142|interval
+3144|lasting
+3145|for good
+3146|allow
+3147|persevere
+3149|persevering
+3152|staff
+3153|viewpoint
+3156|relevant
+3159|low-ranking
+3160|chemist
+3161|stage
+3164|creed
+3166|bodily
+3167|fitness
+3168|doctor
+3170|heap
+3171|tablet
+3175|automated workflow
+3179|buccaneer
+3180|sales presentation
+3182|compassion
+3185|fragment shader
+3187|positioning
+3190|clear
+3194|PaaS
+3195|credible
+3196|argue a case
+3197|stop up
+3202|advantage
+3205|sharp
+3207|blunt
+3210|luster
+3211|courteous
+3214|contaminant
+3217|veranda
+3221|serving
+3222|part
+3223|present
+3225|favorable
+3226|favorably
+3227|own
+3229|ownership
+3230|chance
+3235|post-incident review
+3236|delay
+3237|powerful
+3240|destitution
+3246|almost
+3248|commend
+3250|come before
+3251|valuable
+3252|exact
+3253|exactly
+3255|forecast
+3257|dominant
+3264|bias
+3265|initial
+3267|readiness
+3270|attendance
+3271|talk
+3272|speaker
+3274|conserve
+3277|push
+3279|status
+3280|reputable
+3281|probably
+3282|assume
+3283|triumph
+3285|preventative
+3287|earlier
+3288|formerly
+3289|price reduction
+3290|P/E ratio
+3291|price increase
+3293|pierce
+3294|self-respect
+3295|mainly
+3296|main
+3298|chief
+3299|main
+3300|mainly
+3301|rule
+3302|previous
+3311|prerogative
+3313|award
+3314|likelihood
+3315|likely
+3316|trial period
+3318|method
+3319|go ahead
+3320|procedure
+3327|purchasing
+3330|PMF
+3335|fruitful
+3338|biographical sketch
+3341|earnings
+3344|lucrative
+3345|deep
+3346|coding
+3347|advancement
+3348|forward-looking
+3349|forbid
+3350|forecast
 3351|forecast
-3352|forecast
-3353|notability
-3354|notable
-3355|encouraging
-3356|advance
-3358|swift
-3361|swiftly
-3363|evidence
-3364|PoC
-3365|correctly
-3366|assets
-3368|ratio
-3369|suggestion
-3370|suggest
-3371|proposal
-3373|lead
-3374|potential
-3375|thrive
-3376|safeguard
-3377|defense
-3380|demonstration
-3384|demonstrate
-3385|verified
-3388|allocate
-3390|temporary
-3393|incite
-3394|nearness
-3395|proxy server
-3396|proxy
-3398|mental
-3404|public transportation
-3406|promotion
-3407|openly
-3408|release
-3409|pub-sub
-3412|merge request
-3413|heartbeat
-3415|hit
-3416|penalize
-3417|penalty
-3418|hoodlum
-3419|student
-3420|buy
-3421|buyer
-3422|procurement
-3424|unadulterated
-3426|solely
-3427|clear
-3428|follow
-3430|enigma
-3432|credential
-3433|competent
-3434|be eligible
-3437|QA
-3438|QC
-3439|QMS
-3441|amount
-3443|isolation
-3446|gay
-3452|line
-3454|line up
-3455|acid-test ratio
-3457|allowance
-3459|price quote
-3460|cite
-3463|fundamental
-3464|fundamentally
-3468|pay rise
-3472|RAM
-3478|row
-3479|fast
-3480|quickly
-3481|seldom
-3482|reckless
-3485|assessment
-3487|reasonable
-3488|justification
-3489|uncooked
-3492|respond
-3493|response
-3497|easily
-3499|RTOS
-3501|practical
-3502|actuality
-3503|awareness
-3504|recognize
-3505|back
-3506|sensible
-3507|moderately
-3510|insurgent
-3511|reconstruct
-3512|remember
-3514|summary
-3517|recipient
-3518|economic downturn
-3520|suppose
-3521|acknowledgment
-3522|identify
-3523|memory
-3524|suggest
-3525|suggestion
-3526|rethink
-3528|recuperate
-3529|recuperation
-3530|leisure activity
-3531|hire
-3532|recruitment
-3533|recruiting
+3352|notability
+3353|notable
+3354|encouraging
+3355|advance
+3357|swift
+3360|swiftly
+3362|evidence
+3363|PoC
+3364|correctly
+3365|assets
+3367|ratio
+3368|suggestion
+3369|suggest
+3370|proposal
+3372|lead
+3373|potential
+3374|thrive
+3375|safeguard
+3376|defense
+3379|demonstration
+3383|demonstrate
+3384|verified
+3387|allocate
+3389|temporary
+3392|incite
+3393|nearness
+3394|proxy server
+3395|proxy
+3397|mental
+3403|public transportation
+3405|promotion
+3406|openly
+3407|release
+3408|pub-sub
+3411|merge request
+3412|heartbeat
+3414|hit
+3415|penalize
+3416|penalty
+3417|hoodlum
+3418|student
+3419|buy
+3420|buyer
+3421|procurement
+3423|unadulterated
+3425|solely
+3426|clear
+3427|follow
+3429|enigma
+3430|increase fourfold
+3431|credential
+3432|competent
+3433|be eligible
+3436|QA
+3437|QC
+3438|QMS
+3440|amount
+3442|isolation
+3445|gay
+3451|line
+3453|line up
+3454|acid-test ratio
+3456|allowance
+3458|price quote
+3459|cite
+3462|fundamental
+3463|fundamentally
+3467|pay rise
+3471|RAM
+3477|row
+3479|quickly
+3480|seldom
+3481|reckless
+3484|assessment
+3486|reasonable
+3487|justification
+3488|uncooked
+3491|respond
+3492|response
+3496|easily
+3498|RTOS
+3500|practical
+3501|actuality
+3502|awareness
+3503|recognize
+3504|back
+3505|sensible
+3506|moderately
+3509|insurgent
+3510|reconstruct
+3511|remember
+3513|summary
+3516|recipient
+3517|economic downturn
+3519|suppose
+3520|acknowledgment
+3521|identify
+3522|memory
+3523|suggest
+3524|suggestion
+3525|rethink
+3527|recuperate
+3528|recuperation
+3529|leisure activity
+3530|hire
+3531|recruitment
+3532|recruiting
+3538|decrease
 3539|decrease
-3540|decrease
-3541|layoff
-3542|superfluous
-3544|umpire
-3549|improve
-3550|thoughtful
-3553|chorus
-3555|shelter
-3559|decline
-3560|consider
-3561|anyway
-3562|government
-3563|area
-3565|enroll
-3572|rule
-3577|practice
-3578|repay
-3579|strengthen
-3580|backup
-3581|RL
-3582|refuse
-3583|refusal
-3584|connect
-3585|connected
-3588|connection
-3590|comparatively
-3591|ease
-3592|rest
-3594|publish
-3596|RC
-3598|pertinent
-3599|dependable
-3601|alleviate
-3603|unwillingness
-3604|unwilling
-3605|depend
-3606|stay
-3607|leftover
-3608|relics
-3609|comment
-3610|notable
-3611|strikingly
-3612|rectify
-3613|cure
-3617|eliminate
-3622|extend
-3625|fix
-3628|pay back
-3629|again and again
-3630|stock
-3631|recurrence
-3633|substitute
-3634|copy
-3635|repeat
-3636|respond
-3640|repo
-3644|recreate
-3646|replica
-3647|standing
-3648|ask for
-3650|need
-3651|requisite
-3653|save
-3654|study
-3655|look like
-3656|booking
-3657|stockpile
-3660|live
-3661|home
-3662|inhabitant
-3665|quit
-3666|departure from office
-3667|fault tolerance
-3668|robust
-3669|oppose
-3670|opposition
-3674|settle
-3682|esteem
-3683|deferentially
-3688|duty
-3689|accountable
-3692|reinstate
-3693|curb
-3694|limit
-3695|constraint
-3696|continue
-3699|keep
-3704|withdrawal
-3705|RAG
-3706|recover
-3708|try again
-3711|ROA
-3712|ROE
-3713|ROIC
-3714|ROI
-3715|disclose
-3716|disclosure
-3717|vengeance
-3718|sales
-3723|invert
-3726|share consolidation
-3727|code review
-3728|amend
-3729|amendment
-3730|resurgence
-3731|resuscitate
-3732|withdraw
-3734|groundbreaking
-3735|prize
-3737|beat
-3739|puzzle
-3743|absurd
-3744|correctly
-3745|inflexible
-3746|strict
-3748|uprising
-3749|increase
-3750|danger
-3754|hazardous
-3755|ceremony
-3756|competitor
-3757|competition
-3760|wander
-3761|roasted
-3763|soar
-3765|function
-3766|RBAC
-3771|deployment
-3774|love affair
-3776|underlying cause
-3777|RCA
-3780|roster
-3781|RoPE
-3783|coarse
-3784|approximately
-3786|path
-3787|regular
-3789|line
-3793|mat
-3794|wreck
-3798|cash runway
-3799|country
-3800|hurry
-3801|peak hour
-3803|plunder
-3804|protect
-3806|security
-3810|wise person
-3812|pay
-3828|contentment
-3829|acceptable
-3830|content
-3831|please
-3832|economizing
-3838|horizontally scale
-3839|vertically scale
-3840|disgrace
-3842|rare
-3843|frighten
-3844|situation
-3846|fragrance
-3847|timetable
-3848|planned
-3852|plan
-3855|extent
-3857|survey
-3861|shriek
-3862|display
-3863|burn-in
-3867|twist
-3869|look for
-3872|subsidiary
-3874|part
-3875|industry
-3876|safe
-3879|safety
-3889|seed capital
-3890|look for
-3892|section
-3893|grab
-3894|rarely
-3895|choose
-3896|choice
-3898|ego
-# reviewed 3900:4600
-3900|autonomous
-3901|vendor
-3903|SemVer
-3907|older
-3908|feeling
-3909|reasonable
-3912|divide
-3913|individually
-3914|division
-3915|SoC
-3916|order
-3919|sequential
-3924|grave
-3930|SLA
-3931|SLI
-3932|SLO
-3934|SOA
-3937|reversal
-3938|subside
-3941|serious
-3942|seriously
-3944|wastewater
-3946|seductive
-3952|unsteady
-3954|embarrassment
-3956|stock repurchase
-3959|stockholder
-3961|stockholders' meeting
-3962|steep
-3963|steeply
-3964|hut
-3966|refuge
-3968|change
-3969|freight transport
-3970|surprise
-3971|stunned
-3972|startling
-3974|coast
-3976|scarcity
-3977|soon
-3978|photo
-3980|contract
-3983|illness
-3988|pavement
-3990|final approval
-3994|SNR
-3996|importance
-3997|considerable
-3998|considerably
-3999|denote
-4000|quiet
-4003|alike
-4004|likewise
-4007|imitate
-4009|concurrent
-4010|SMT
-4011|at the same time
-4012|genuine
-4013|genuineness
-4014|SRP
-4016|location
-4017|circumstance
-4018|outline
-4019|proficient
-4020|omit
-4022|argot
-4024|solidus
-4025|massacre
-4026|glide
-4027|minor
-4028|a little
-4029|slide
-4030|catchphrase
-4031|incline
-4032|careless
-4033|plunge
-4035|strike
-4039|break
-4043|code fragment
-4044|alleged
-4048|drenched
-4050|skyrocket
-4054|SaaS
-4055|SBOM
-4059|only
-4060|exclusively
-4062|SSD
-4063|unaccompanied
-4064|resolve
-4068|rather
-4069|advanced
-4070|origin
-4071|version control
-4072|memento
-4076|slender
-4078|glittering
-4081|expert
-4084|speciality
-4085|particular
-4087|spec
-4088|stipulate
-4089|sample
-4090|sight
-4091|magnificent
-4092|onlooker
+3540|layoff
+3541|superfluous
+3543|umpire
+3548|improve
+3549|thoughtful
+3552|chorus
+3554|shelter
+3558|decline
+3559|consider
+3560|anyway
+3561|government
+3562|area
+3564|enroll
+3571|rule
+3576|practice
+3577|repay
+3578|strengthen
+3579|backup
+3580|RL
+3581|refuse
+3582|refusal
+3583|connect
+3584|connected
+3587|connection
+3589|comparatively
+3590|ease
+3591|rest
+3593|publish
+3595|RC
+3597|pertinent
+3598|dependable
+3600|alleviate
+3602|unwillingness
+3603|unwilling
+3604|depend
+3605|stay
+3606|leftover
+3607|relics
+3608|comment
+3609|notable
+3610|strikingly
+3611|rectify
+3612|cure
+3616|eliminate
+3621|extend
+3624|fix
+3627|pay back
+3628|again and again
+3629|stock
+3630|recurrence
+3632|substitute
+3633|copy
+3634|repeat
+3635|respond
+3639|repo
+3643|recreate
+3645|replica
+3646|standing
+3647|ask for
+3649|need
+3650|requisite
+3652|save
+3653|study
+3654|look like
+3655|booking
+3656|stockpile
+3659|live
+3660|home
+3661|inhabitant
+3664|quit
+3665|departure from office
+3666|fault tolerance
+3667|robust
+3668|oppose
+3669|opposition
+3673|settle
+3681|esteem
+3682|deferentially
+3687|duty
+3688|accountable
+3691|reinstate
+3692|curb
+3693|limit
+3694|constraint
+3695|continue
+3698|keep
+3703|withdrawal
+3704|RAG
+3705|recover
+3707|try again
+3710|ROA
+3711|ROE
+3712|ROIC
+3713|ROI
+3714|disclose
+3715|disclosure
+3716|vengeance
+3717|sales
+3722|invert
+3725|share consolidation
+3726|code review
+3727|amend
+3728|amendment
+3729|resurgence
+3730|resuscitate
+3731|withdraw
+3733|groundbreaking
+3734|prize
+3736|beat
+3738|puzzle
+3742|absurd
+3743|correctly
+3744|inflexible
+3745|strict
+3747|uprising
+3749|danger
+3753|hazardous
+3754|ceremony
+3755|competitor
+3756|competition
+3759|wander
+3760|roasted
+3764|function
+3765|RBAC
+3770|deployment
+3773|love affair
+3775|underlying cause
+3776|RCA
+3779|roster
+3780|RoPE
+3782|coarse
+3785|path
+3786|regular
+3788|line
+3792|mat
+3793|wreck
+3797|cash runway
+3798|country
+3799|hurry
+3800|peak hour
+3802|plunder
+3803|protect
+3805|security
+3809|wise person
+3811|pay
+3827|contentment
+3828|acceptable
+3829|content
+3830|please
+3831|economizing
+3837|horizontally scale
+3838|vertically scale
+3839|disgrace
+3841|rare
+3842|frighten
+3843|situation
+3845|fragrance
+3846|timetable
+3847|planned
+3851|plan
+3854|extent
+3856|survey
+3860|shriek
+3861|display
+3862|burn-in
+3866|twist
+3868|look for
+3871|subsidiary
+3873|part
+3874|industry
+3875|safe
+3878|safety
+3888|seed capital
+3889|look for
+3891|section
+3892|grab
+3893|rarely
+3894|choose
+3895|choice
+3897|ego
+3899|autonomous
+3900|vendor
+3902|SemVer
+3906|older
+3907|feeling
+3908|reasonable
+3911|divide
+3912|individually
+3913|division
+3914|SoC
+3915|order
+3918|sequential
+3923|grave
+3929|SLA
+3930|SLI
+3931|SLO
+3933|SOA
+3936|reversal
+3937|subside
+3940|serious
+3941|seriously
+3943|wastewater
+3945|seductive
+3951|unsteady
+3953|embarrassment
+3955|stock repurchase
+3958|stockholder
+3960|stockholders' meeting
+3962|steeply
+3963|hut
+3965|refuge
+3967|change
+3968|freight transport
+3969|surprise
+3970|stunned
+3971|startling
+3973|coast
+3975|scarcity
+3976|soon
+3977|photo
+3979|contract
+3982|illness
+3987|pavement
+3989|final approval
+3993|SNR
+3995|importance
+3996|considerable
+3997|considerably
+3998|denote
+3999|quiet
+4002|alike
+4003|likewise
+4006|imitate
+4008|concurrent
+4009|SMT
+4010|at the same time
+4011|genuine
+4012|genuineness
+4013|SRP
+4015|location
+4016|circumstance
+4017|outline
+4018|proficient
+4019|omit
+4021|argot
+4023|solidus
+4024|massacre
+4025|glide
+4027|a little
+4028|slide
+4029|catchphrase
+4030|incline
+4031|careless
+4034|strike
+4038|break
+4042|code fragment
+4043|alleged
+4047|drenched
+4053|SaaS
+4054|SBOM
+4058|only
+4059|exclusively
+4061|SSD
+4062|unaccompanied
+4063|resolve
+4067|rather
+4068|advanced
+4069|origin
+4070|version control
+4071|memento
+4075|slender
+4077|glittering
+4080|expert
+4083|speciality
+4084|particular
+4086|spec
+4087|stipulate
+4088|sample
+4089|sight
+4090|magnificent
+4091|onlooker
+4092|conjecture
 4093|conjecture
-4094|conjecture
-4096|ASR
-4099|domain
-4102|rotate
-4103|backbone
-4105|malice
-4107|cleave
-4109|pamper
-4111|fund
-4112|funding
-4113|unplanned
-4114|sportsmanlike
-4115|fair play
-4118|propagate
-4124|compress
-4125|stabilize
-4127|steady
-4128|technology stack
-4131|stack trace
-4133|stand still
-4134|blemish
-4138|booth
-4139|endurance
-4140|position
-4141|usual
-4142|SOP
-4143|reserve
-4144|daily scrum
-4146|gaze
-4152|declare
-4154|statement of changes in equity
-4157|SRAM
-4162|standing
-4164|consistently
-4165|stable
-4168|precipitous
-4169|guide
-4171|strict
-4173|paste
-4174|adhesive
-4175|rigid
-4178|encourage
-4180|reek
-4183|shares
-4194|simple
-4195|strive
-4197|thread
-4203|plan
-4204|brook
-4206|simplify
-4208|reinforce
-4209|emphasize
-4211|extend
-4212|stern
-4213|absolutely
-4215|hit
-4216|remarkable
-4217|strict
-4219|endeavor
-4222|organization
-4225|strive
-4228|gorgeous
-4230|hairdresser
-4232|hand in
-4234|inferior
-4238|following
-4239|afterwards
-4240|subsidiary company
-4241|subledger
-4242|government grant
-4244|considerable
-4245|replace
-4247|delicate
-4251|abruptly
-4252|bring an action against
-4253|endure
-4254|distress
-4255|adequate
-4256|adequately
-4257|appropriate
-4258|appropriately
-4259|total
-4260|sum up
-4261|synopsis
+4095|ASR
+4098|domain
+4101|rotate
+4102|backbone
+4104|malice
+4106|cleave
+4108|pamper
+4110|fund
+4111|funding
+4112|unplanned
+4113|sportsmanlike
+4114|fair play
+4117|propagate
+4123|compress
+4126|steady
+4127|technology stack
+4130|stack trace
+4133|blemish
+4137|booth
+4138|endurance
+4139|position
+4140|usual
+4141|SOP
+4142|reserve
+4143|daily scrum
+4145|gaze
+4151|declare
+4153|statement of changes in equity
+4156|SRAM
+4161|standing
+4163|consistently
+4168|guide
+4170|strict
+4172|paste
+4173|adhesive
+4174|rigid
+4177|encourage
+4179|reek
+4182|shares
+4193|simple
+4194|strive
+4196|thread
+4202|plan
+4203|brook
+4205|simplify
+4207|reinforce
+4208|emphasize
+4210|extend
+4211|stern
+4212|absolutely
+4214|hit
+4215|remarkable
+4216|strict
+4218|endeavor
+4221|organization
+4224|strive
+4227|gorgeous
+4229|hairdresser
+4231|hand in
+4233|inferior
+4237|following
+4238|afterwards
+4239|subsidiary company
+4240|subledger
+4241|government grant
+4243|considerable
+4244|replace
+4246|delicate
+4250|abruptly
+4251|bring an action against
+4252|endure
+4253|distress
+4254|adequate
+4255|adequately
+4256|appropriate
+4257|appropriately
+4258|total
+4259|sum up
+4260|synopsis
+4262|excellent
 4263|excellent
-4264|excellent
-4265|manager
-4266|replace
-4268|oversee
-4270|oversight
-4271|overseer
-4272|add to
-4273|vendor
-4276|assist
-4277|presume
-4278|allegedly
-4279|quell
-4281|jump
-4283|operation
-4284|outdo
-4285|excess
-4287|yield
-4288|encircle
-4289|adjacent
-4290|environment
-4291|monitoring
-4292|poll
-4295|doubt
-4296|pause
-4297|doubt
-4298|distrustful
-4299|maintain
-4301|viable
-4305|vow
-4307|fast
-4308|quickly
-4310|change
-4312|emblem
-4313|emblematic
-4315|understanding
-4316|compassion
-4318|synchronise
-4325|SiP
-4326|SoC
-4328|methodical
-4330|address
-4331|label
-4334|takeout
-4337|story
-4338|gifted
-4339|domesticated
-4341|pat
-4343|goal
-4345|assignment
-4357|group
-4358|esprit de corps
-4359|taunt
-4363|method
-4369|pattern
-4372|for the time being
-4373|short-lived
-4374|enticement
-4377|inclination
-4378|gentle
-4379|gentleness
-4380|anxious
-4381|strain
-4382|TPU
-4383|provisional
-4384|expression
-4387|end
-4390|extremely
-4392|postsecondary
-4400|stub
-4402|bear witness
-4403|evidence
-4404|experimentation
-4407|coursebook
-4410|subject
-4413|treatment
-4415|TDP
-4419|dissertation
-4422|meticulous
-4423|meticulously
-4424|considerate
-4435|limit
-4436|frugal
-4437|excitement
-4438|exciting
-4440|rate-limit
-4445|throughput
-4448|therefore
-4451|TTL
-4452|prompt
-4456|paper tissue
-4461|forbearance
-4462|forbearing
-4463|endure
-4466|tenor
-4470|subject
-4472|throw lightly
-4474|entirely
-4475|check in
-4476|difficult
-4478|competition
-4479|poisonous
-4480|track down
-4482|monitor
-4485|labor union
-4487|merchant
-4488|commerce
-4489|custom
-4493|catastrophic
-4494|track
-4497|instructor
-4500|characteristic
-4506|move
-4507|remit
-4510|change
-4514|changeover
-4515|indirect dependency
-4520|communication
-4521|spread
-4522|open
-4523|transportation
-4525|transport
-4526|ensnare
-4528|crossbeam
-4530|step on
-4533|therapy
-4535|tendency
-4537|experiment
-4540|difficult
-4541|activate
-4542|threesome
-4544|insignificant
-4545|cart
-4546|soldiers
-4548|low point
-4550|really
-4553|believe
-4554|bathtub
-4555|jerk
-4556|tuition fees
-4557|melody
-4560|chaotic
-4561|completion time
-4564|private teacher
-4566|turn
-4568|2PC
-4571|characteristic
-4572|usually
-4573|final
-4574|eventually
-4575|UWB
-4576|intolerable
-4577|in complete agreement
-4578|unapproved
-4580|unconscious
-4581|doubt
-4582|unaltered
-4583|rare
-4584|insensible
-4587|experience
-4588|bachelor's student
-4590|fundamental
-4591|below
-4592|comprehensible
-4593|comprehension
-4594|assume
-4595|enterprise
-4598|certainly
-4599|jobless
-# reviewed 4600:4856
-4601|irregular
-4602|unanticipated
-4603|surprisingly
-4604|strange
-4605|open out
-4606|regrettable
-4607|consistent
-4608|unite
-4609|one of a kind
-4611|USP
-4614|join
-4615|solidarity
-4616|worldwide
-4618|improbable
-4619|limitless
-4620|artificial
-4624|impractical
-4625|irrational
-4626|undependable
-4627|disturbance
-4628|dangerous
-4629|inadequate
-4630|unsteady
-4631|failed
-4632|inappropriate
-4634|uncertain
-4635|uncommon
-4636|exceptionally
-4637|reluctant
-4638|imprudent
-4639|upselling
-4640|childrearing
-4643|vertical
-4645|adoption
-4648|upward
-4651|urbanization
-4652|encourage
-4653|pressing
-4654|immediately
-4656|use
-4658|guide
-4659|utilize
-4661|usage
-4662|use
-4663|say
-4664|completely
-4665|unoccupied
-4667|unclear
-4668|sweetheart
-4669|sound
-4670|verify
-4671|verification
-4673|legitimacy
-4674|precious
-4675|appraisal
-4677|VAT
-4682|disappear
-4684|VRR
-4685|difference
-4686|change
-4687|diverse
-4688|diversity
-4689|differ
-4690|immense
-4696|pace
-4697|supplier
-4698|enterprise
-4699|VC
-4700|location
-4701|oral
-4702|wordy
-4703|judgment
-4704|confirm
-4705|adaptable
-4706|poetry
-4707|edition
-4711|upright
-4715|through
-4716|feasible
-4717|oscillation
-4718|triumph
-4719|VRAM
-4722|perspective
-4724|energetic
-4725|energetically
-4726|infringe
-4729|VM
-4731|VPN
-4732|almost
-4734|observable
-4735|noticeably
-4737|VLM
-4740|essential
-4746|willingly
-4747|willing
-4751|oath
-4752|security flaw
-4754|susceptible
-4759|pedestrian
-4760|roam
-4761|closet
-4764|heat
-4765|alert
-4766|squander
-4768|watertight
-4769|enfeeble
-4770|shortcoming
-4771|riches
-4772|rich
-4779|WACC
-4780|bizarre
-4783|well-being
-4785|while
-4788|lash
-4789|murmur
-4793|extensively
-4794|prevalent
-4798|ready
-4799|voluntarily
-4801|meander
-4802|meandering
-4803|instant
-4804|clean
-4808|WAP
-4813|sagacity
-4814|sensible
-4815|intelligence
-4816|pull out
-4817|retreat
-4820|humorous
-4824|temporary fix
-4825|work process
-4826|staff
-4827|downsizing
-4832|worksite
-4833|practical seminar
-4835|exhausted
-4836|troubling
-4837|adoration
-4839|deserving
-4840|injury
-4841|envelop
-4843|crash
-4848|WAL
-4849|incorrectly
-4850|Roentgen ray
-4851|produce
-4855|area
+4264|manager
+4265|replace
+4267|oversee
+4269|oversight
+4270|overseer
+4271|add to
+4272|vendor
+4275|assist
+4276|presume
+4277|allegedly
+4278|quell
+4282|operation
+4284|excess
+4286|yield
+4287|encircle
+4288|adjacent
+4289|environment
+4290|monitoring
+4291|poll
+4294|doubt
+4295|pause
+4296|doubt
+4297|distrustful
+4298|maintain
+4304|vow
+4306|fast
+4307|quickly
+4309|change
+4311|emblem
+4312|emblematic
+4314|understanding
+4315|compassion
+4317|synchronise
+4324|SiP
+4325|SoC
+4327|methodical
+4329|address
+4330|label
+4333|takeout
+4336|story
+4337|gifted
+4338|domesticated
+4340|pat
+4342|goal
+4344|assignment
+4356|group
+4357|esprit de corps
+4358|taunt
+4362|method
+4368|pattern
+4371|for the time being
+4372|short-lived
+4373|enticement
+4376|inclination
+4377|gentle
+4378|gentleness
+4379|anxious
+4380|strain
+4381|TPU
+4382|provisional
+4383|expression
+4386|end
+4389|extremely
+4391|postsecondary
+4399|stub
+4401|bear witness
+4402|evidence
+4403|experimentation
+4406|coursebook
+4409|subject
+4412|treatment
+4414|TDP
+4418|dissertation
+4421|meticulous
+4422|meticulously
+4423|considerate
+4434|limit
+4435|frugal
+4436|excitement
+4437|exciting
+4439|rate-limit
+4444|throughput
+4447|therefore
+4450|TTL
+4451|prompt
+4455|paper tissue
+4460|forbearance
+4461|forbearing
+4462|endure
+4465|tenor
+4469|subject
+4471|throw lightly
+4473|entirely
+4474|check in
+4475|difficult
+4477|competition
+4478|poisonous
+4479|track down
+4481|monitor
+4484|labor union
+4486|merchant
+4487|commerce
+4488|custom
+4492|catastrophic
+4493|track
+4496|instructor
+4499|characteristic
+4505|move
+4506|remit
+4509|change
+4513|changeover
+4514|indirect dependency
+4519|communication
+4520|spread
+4521|open
+4522|transportation
+4524|transport
+4525|ensnare
+4527|crossbeam
+4529|step on
+4532|therapy
+4536|experiment
+4539|difficult
+4540|activate
+4541|threesome
+4543|insignificant
+4544|cart
+4545|soldiers
+4549|really
+4552|believe
+4553|bathtub
+4554|jerk
+4555|tuition fees
+4556|melody
+4559|chaotic
+4560|completion time
+4563|private teacher
+4565|turn
+4567|2PC
+4570|characteristic
+4571|usually
+4572|final
+4573|eventually
+4574|UWB
+4575|intolerable
+4576|in complete agreement
+4577|unapproved
+4579|unconscious
+4580|doubt
+4581|unaltered
+4582|rare
+4583|insensible
+4586|experience
+4587|bachelor's student
+4589|fundamental
+4590|below
+4591|comprehensible
+4592|comprehension
+4593|assume
+4594|enterprise
+4597|certainly
+4598|jobless
+4600|irregular
+4601|unanticipated
+4602|surprisingly
+4603|strange
+4604|open out
+4605|regrettable
+4606|consistent
+4607|unite
+4608|one of a kind
+4610|USP
+4613|join
+4614|solidarity
+4615|worldwide
+4617|improbable
+4618|limitless
+4619|artificial
+4623|impractical
+4624|irrational
+4625|undependable
+4626|disturbance
+4627|dangerous
+4628|inadequate
+4629|unsteady
+4630|failed
+4631|inappropriate
+4633|uncertain
+4634|uncommon
+4635|exceptionally
+4636|reluctant
+4637|imprudent
+4638|upselling
+4639|childrearing
+4642|vertical
+4644|adoption
+4647|upward
+4650|urbanization
+4651|encourage
+4652|pressing
+4653|immediately
+4655|use
+4657|guide
+4658|utilize
+4660|usage
+4661|use
+4662|say
+4663|completely
+4664|unoccupied
+4666|unclear
+4667|sweetheart
+4668|sound
+4669|verify
+4670|verification
+4672|legitimacy
+4673|precious
+4674|appraisal
+4676|VAT
+4681|disappear
+4683|VRR
+4684|difference
+4685|change
+4686|diverse
+4687|diversity
+4688|differ
+4689|immense
+4695|pace
+4696|supplier
+4697|enterprise
+4698|VC
+4699|location
+4700|oral
+4701|wordy
+4702|judgment
+4703|confirm
+4704|adaptable
+4705|poetry
+4706|edition
+4710|upright
+4714|through
+4715|feasible
+4716|oscillation
+4717|triumph
+4718|VRAM
+4721|perspective
+4723|energetic
+4724|energetically
+4725|infringe
+4728|VM
+4730|VPN
+4731|almost
+4733|observable
+4734|noticeably
+4736|VLM
+4739|essential
+4745|willingly
+4746|willing
+4750|oath
+4751|security flaw
+4753|susceptible
+4758|pedestrian
+4759|roam
+4760|closet
+4763|heat
+4764|alert
+4765|squander
+4767|watertight
+4768|enfeeble
+4769|shortcoming
+4770|riches
+4771|rich
+4778|WACC
+4779|bizarre
+4782|well-being
+4784|while
+4787|lash
+4788|murmur
+4792|extensively
+4793|prevalent
+4797|ready
+4798|voluntarily
+4800|meander
+4801|meandering
+4802|instant
+4803|clean
+4807|WAP
+4812|sagacity
+4813|sensible
+4814|intelligence
+4815|pull out
+4816|retreat
+4819|humorous
+4823|temporary fix
+4824|work process
+4825|staff
+4826|downsizing
+4831|worksite
+4832|practical seminar
+4834|exhausted
+4835|troubling
+4836|adoration
+4838|deserving
+4839|injury
+4840|envelop
+4842|crash
+4847|WAL
+4848|incorrectly
+4849|Roentgen ray
+4850|produce
+4854|area

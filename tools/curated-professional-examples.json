@@ -4,7 +4,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "kiến trúc phần mềm",
-    "example": "We considered software architecture when designing the payment service.",
+    "example": "We considered the software architecture when designing the payment service.",
     "exampleVi": "Chúng tôi xem xét kiến trúc phần mềm khi thiết kế dịch vụ thanh toán."
   },
   {
@@ -12,7 +12,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "mẫu thiết kế phần mềm",
-    "example": "An example of design pattern clarified the design trade-offs.",
+    "example": "An example of the design pattern clarified the design trade-offs.",
     "exampleVi": "Một ví dụ về mẫu thiết kế phần mềm làm rõ những đánh đổi trong thiết kế."
   },
   {
@@ -20,7 +20,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "đồ thị quan hệ phụ thuộc giữa thành phần",
-    "example": "We considered dependency graph when designing the payment service.",
+    "example": "We considered the dependency graph when designing the payment service.",
     "exampleVi": "Chúng tôi xem xét đồ thị quan hệ phụ thuộc giữa thành phần khi thiết kế dịch vụ thanh toán."
   },
   {
@@ -28,7 +28,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "đồ thị luồng điều khiển",
-    "example": "An example of control flow graph clarified the design trade-offs.",
+    "example": "An example of the control flow graph clarified the design trade-offs.",
     "exampleVi": "Một ví dụ về đồ thị luồng điều khiển làm rõ những đánh đổi trong thiết kế."
   },
   {
@@ -36,7 +36,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "tách biệt các mối quan tâm trong thiết kế",
-    "example": "We considered separation of concerns when designing the payment service.",
+    "example": "We considered the separation of concerns when designing the payment service.",
     "exampleVi": "Chúng tôi xem xét tách biệt các mối quan tâm trong thiết kế khi thiết kế dịch vụ thanh toán."
   },
   {
@@ -44,7 +44,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "nguyên tắc một trách nhiệm",
-    "example": "An example of single responsibility principle clarified the design trade-offs.",
+    "example": "An example of the single responsibility principle clarified the design trade-offs.",
     "exampleVi": "Một ví dụ về nguyên tắc một trách nhiệm làm rõ những đánh đổi trong thiết kế."
   },
   {
@@ -52,7 +52,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "nguyên tắc mở để mở rộng, đóng để sửa đổi",
-    "example": "We considered open closed principle when designing the payment service.",
+    "example": "We considered the open closed principle when designing the payment service.",
     "exampleVi": "Chúng tôi xem xét nguyên tắc mở để mở rộng, đóng để sửa đổi khi thiết kế dịch vụ thanh toán."
   },
   {
@@ -60,7 +60,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "phân tách giao diện theo nhu cầu",
-    "example": "An example of interface segregation clarified the design trade-offs.",
+    "example": "An example of the interface segregation clarified the design trade-offs.",
     "exampleVi": "Một ví dụ về phân tách giao diện theo nhu cầu làm rõ những đánh đổi trong thiết kế."
   },
   {
@@ -68,7 +68,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "đảo ngược hướng phụ thuộc",
-    "example": "We considered dependency inversion when designing the payment service.",
+    "example": "We considered the dependency inversion when designing the payment service.",
     "exampleVi": "Chúng tôi xem xét đảo ngược hướng phụ thuộc khi thiết kế dịch vụ thanh toán."
   },
   {
@@ -76,7 +76,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "thiết kế theo miền nghiệp vụ",
-    "example": "An example of domain driven design clarified the design trade-offs.",
+    "example": "An example of the domain driven design clarified the design trade-offs.",
     "exampleVi": "Một ví dụ về thiết kế theo miền nghiệp vụ làm rõ những đánh đổi trong thiết kế."
   },
   {
@@ -84,7 +84,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "ranh giới ngữ cảnh nghiệp vụ",
-    "example": "We considered bounded context when designing the payment service.",
+    "example": "We considered the bounded context when designing the payment service.",
     "exampleVi": "Chúng tôi xem xét ranh giới ngữ cảnh nghiệp vụ khi thiết kế dịch vụ thanh toán."
   },
   {
@@ -92,7 +92,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "thực thể gốc của một nhóm đối tượng nghiệp vụ",
-    "example": "An example of aggregate root clarified the design trade-offs.",
+    "example": "An example of the aggregate root clarified the design trade-offs.",
     "exampleVi": "Một ví dụ về thực thể gốc của một nhóm đối tượng nghiệp vụ làm rõ những đánh đổi trong thiết kế."
   },
   {
@@ -100,7 +100,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "đối tượng được xác định bằng giá trị",
-    "example": "We considered value object when designing the payment service.",
+    "example": "We considered the value object when designing the payment service.",
     "exampleVi": "Chúng tôi xem xét đối tượng được xác định bằng giá trị khi thiết kế dịch vụ thanh toán."
   },
   {
@@ -108,7 +108,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "quan hệ giữa các thực thể",
-    "example": "An example of entity relationship clarified the design trade-offs.",
+    "example": "An example of the entity relationship clarified the design trade-offs.",
     "exampleVi": "Một ví dụ về quan hệ giữa các thực thể làm rõ những đánh đổi trong thiết kế."
   },
   {
@@ -116,7 +116,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "lưu trạng thái bằng chuỗi sự kiện",
-    "example": "We considered event sourcing when designing the payment service.",
+    "example": "We considered the event sourcing when designing the payment service.",
     "exampleVi": "Chúng tôi xem xét lưu trạng thái bằng chuỗi sự kiện khi thiết kế dịch vụ thanh toán."
   },
   {
@@ -124,7 +124,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "tách lệnh thay đổi dữ liệu khỏi truy vấn",
-    "example": "An example of command query separation clarified the design trade-offs.",
+    "example": "An example of the command query separation clarified the design trade-offs.",
     "exampleVi": "Một ví dụ về tách lệnh thay đổi dữ liệu khỏi truy vấn làm rõ những đánh đổi trong thiết kế."
   },
   {
@@ -132,7 +132,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "kiến trúc lục giác với cổng và bộ chuyển đổi",
-    "example": "We considered hexagonal architecture when designing the payment service.",
+    "example": "We considered the hexagonal architecture when designing the payment service.",
     "exampleVi": "Chúng tôi xem xét kiến trúc lục giác với cổng và bộ chuyển đổi khi thiết kế dịch vụ thanh toán."
   },
   {
@@ -140,7 +140,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "kiến trúc tách nghiệp vụ khỏi hạ tầng",
-    "example": "An example of clean architecture clarified the design trade-offs.",
+    "example": "An example of the clean architecture clarified the design trade-offs.",
     "exampleVi": "Một ví dụ về kiến trúc tách nghiệp vụ khỏi hạ tầng làm rõ những đánh đổi trong thiết kế."
   },
   {
@@ -148,7 +148,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "kiến trúc phân lớp",
-    "example": "We considered layered architecture when designing the payment service.",
+    "example": "We considered the layered architecture when designing the payment service.",
     "exampleVi": "Chúng tôi xem xét kiến trúc phân lớp khi thiết kế dịch vụ thanh toán."
   },
   {
@@ -156,7 +156,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "kiến trúc hướng dịch vụ",
-    "example": "An example of service oriented architecture clarified the design trade-offs.",
+    "example": "An example of the service oriented architecture clarified the design trade-offs.",
     "exampleVi": "Một ví dụ về kiến trúc hướng dịch vụ làm rõ những đánh đổi trong thiết kế."
   },
   {
@@ -164,7 +164,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "mức độ phụ thuộc giữa các thành phần",
-    "example": "We considered component coupling when designing the payment service.",
+    "example": "We considered the component coupling when designing the payment service.",
     "exampleVi": "Chúng tôi xem xét mức độ phụ thuộc giữa các thành phần khi thiết kế dịch vụ thanh toán."
   },
   {
@@ -172,7 +172,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "mức độ gắn kết theo một chức năng",
-    "example": "An example of functional cohesion clarified the design trade-offs.",
+    "example": "An example of the functional cohesion clarified the design trade-offs.",
     "exampleVi": "Một ví dụ về mức độ gắn kết theo một chức năng làm rõ những đánh đổi trong thiết kế."
   },
   {
@@ -180,7 +180,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "bản ghi quyết định kiến trúc",
-    "example": "We considered architectural decision record when designing the payment service.",
+    "example": "We considered the architectural decision record when designing the payment service.",
     "exampleVi": "Chúng tôi xem xét bản ghi quyết định kiến trúc khi thiết kế dịch vụ thanh toán."
   },
   {
@@ -188,7 +188,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "lớp bảo vệ mô hình nghiệp vụ khỏi hệ thống bên ngoài",
-    "example": "An example of anti corruption layer clarified the design trade-offs.",
+    "example": "An example of the anti corruption layer clarified the design trade-offs.",
     "exampleVi": "Một ví dụ về lớp bảo vệ mô hình nghiệp vụ khỏi hệ thống bên ngoài làm rõ những đánh đổi trong thiết kế."
   },
   {
@@ -196,7 +196,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "nơi lắp ghép các phụ thuộc của ứng dụng",
-    "example": "We considered composition root when designing the payment service.",
+    "example": "We considered the composition root when designing the payment service.",
     "exampleVi": "Chúng tôi xem xét nơi lắp ghép các phụ thuộc của ứng dụng khi thiết kế dịch vụ thanh toán."
   },
   {
@@ -204,7 +204,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "suy luận kiểu dữ liệu",
-    "example": "The compiler report helped us examine type inference in the new module.",
+    "example": "The compiler report helped us examine the type inference in the new module.",
     "exampleVi": "Báo cáo của trình biên dịch giúp chúng tôi xem xét suy luận kiểu dữ liệu trong mô đun mới."
   },
   {
@@ -212,7 +212,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "tính an toàn về kiểu dữ liệu",
-    "example": "Understanding type safety made the implementation easier to review.",
+    "example": "Understanding the type safety made the implementation easier to review.",
     "exampleVi": "Hiểu về tính an toàn về kiểu dữ liệu giúp việc rà soát phần triển khai dễ hơn."
   },
   {
@@ -220,7 +220,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "lập trình tổng quát theo tham số kiểu",
-    "example": "The compiler report helped us examine generic programming in the new module.",
+    "example": "The compiler report helped us examine the generic programming in the new module.",
     "exampleVi": "Báo cáo của trình biên dịch giúp chúng tôi xem xét lập trình tổng quát theo tham số kiểu trong mô đun mới."
   },
   {
@@ -228,7 +228,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "đối sánh dữ liệu theo mẫu",
-    "example": "Understanding pattern matching made the implementation easier to review.",
+    "example": "Understanding the pattern matching made the implementation easier to review.",
     "exampleVi": "Hiểu về đối sánh dữ liệu theo mẫu giúp việc rà soát phần triển khai dễ hơn."
   },
   {
@@ -236,7 +236,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "đệ quy đuôi",
-    "example": "The compiler report helped us examine tail recursion in the new module.",
+    "example": "The compiler report helped us examine the tail recursion in the new module.",
     "exampleVi": "Báo cáo của trình biên dịch giúp chúng tôi xem xét đệ quy đuôi trong mô đun mới."
   },
   {
@@ -244,7 +244,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "đánh giá biểu thức khi cần",
-    "example": "Understanding lazy evaluation made the implementation easier to review.",
+    "example": "Understanding the lazy evaluation made the implementation easier to review.",
     "exampleVi": "Hiểu về đánh giá biểu thức khi cần giúp việc rà soát phần triển khai dễ hơn."
   },
   {
@@ -268,7 +268,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "đối tượng không thể thay đổi sau khi tạo",
-    "example": "Understanding immutable object made the implementation easier to review.",
+    "example": "Understanding the immutable object made the implementation easier to review.",
     "exampleVi": "Hiểu về đối tượng không thể thay đổi sau khi tạo giúp việc rà soát phần triển khai dễ hơn."
   },
   {
@@ -308,7 +308,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "tính thay biểu thức bằng giá trị mà không đổi hành vi",
-    "example": "The compiler report helped us examine referential transparency in the new module.",
+    "example": "The compiler report helped us examine the referential transparency in the new module.",
     "exampleVi": "Báo cáo của trình biên dịch giúp chúng tôi xem xét tính thay biểu thức bằng giá trị mà không đổi hành vi trong mô đun mới."
   },
   {
@@ -316,7 +316,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "bao đóng lưu môi trường của hàm",
-    "example": "Understanding function closure made the implementation easier to review.",
+    "example": "Understanding the function closure made the implementation easier to review.",
     "exampleVi": "Hiểu về bao đóng lưu môi trường của hàm giúp việc rà soát phần triển khai dễ hơn."
   },
   {
@@ -324,7 +324,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "biểu thức hàm vô danh",
-    "example": "The compiler report helped us examine lambda expression in the new module.",
+    "example": "The compiler report helped us examine the lambda expression in the new module.",
     "exampleVi": "Báo cáo của trình biên dịch giúp chúng tôi xem xét biểu thức hàm vô danh trong mô đun mới."
   },
   {
@@ -332,7 +332,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "hàm nhận hoặc trả về một hàm khác",
-    "example": "Understanding higher order function made the implementation easier to review.",
+    "example": "Understanding the higher order function made the implementation easier to review.",
     "exampleVi": "Hiểu về hàm nhận hoặc trả về một hàm khác giúp việc rà soát phần triển khai dễ hơn."
   },
   {
@@ -348,7 +348,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "ghi đè phương thức kế thừa",
-    "example": "Understanding method overriding made the implementation easier to review.",
+    "example": "Understanding the method overriding made the implementation easier to review.",
     "exampleVi": "Hiểu về ghi đè phương thức kế thừa giúp việc rà soát phần triển khai dễ hơn."
   },
   {
@@ -356,7 +356,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "nạp chồng toán tử",
-    "example": "The compiler report helped us examine operator overloading in the new module.",
+    "example": "The compiler report helped us examine the operator overloading in the new module.",
     "exampleVi": "Báo cáo của trình biên dịch giúp chúng tôi xem xét nạp chồng toán tử trong mô đun mới."
   },
   {
@@ -364,7 +364,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "chọn phương thức lúc chạy",
-    "example": "Understanding dynamic dispatch made the implementation easier to review.",
+    "example": "Understanding the dynamic dispatch made the implementation easier to review.",
     "exampleVi": "Hiểu về chọn phương thức lúc chạy giúp việc rà soát phần triển khai dễ hơn."
   },
   {
@@ -372,7 +372,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "chọn phương thức lúc biên dịch",
-    "example": "The compiler report helped us examine static dispatch in the new module.",
+    "example": "The compiler report helped us examine the static dispatch in the new module.",
     "exampleVi": "Báo cáo của trình biên dịch giúp chúng tôi xem xét chọn phương thức lúc biên dịch trong mô đun mới."
   },
   {
@@ -380,7 +380,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "xử lý ngoại lệ",
-    "example": "Understanding exception handling made the implementation easier to review.",
+    "example": "Understanding the exception handling made the implementation easier to review.",
     "exampleVi": "Hiểu về xử lý ngoại lệ giúp việc rà soát phần triển khai dễ hơn."
   },
   {
@@ -388,7 +388,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "tháo các khung ngăn xếp khi xử lý ngoại lệ",
-    "example": "The compiler report helped us examine stack unwinding in the new module.",
+    "example": "The compiler report helped us examine the stack unwinding in the new module.",
     "exampleVi": "Báo cáo của trình biên dịch giúp chúng tôi xem xét tháo các khung ngăn xếp khi xử lý ngoại lệ trong mô đun mới."
   },
   {
@@ -396,7 +396,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "đếm tham chiếu để quản lý vòng đời đối tượng",
-    "example": "Understanding reference counting made the implementation easier to review.",
+    "example": "Understanding the reference counting made the implementation easier to review.",
     "exampleVi": "Hiểu về đếm tham chiếu để quản lý vòng đời đối tượng giúp việc rà soát phần triển khai dễ hơn."
   },
   {
@@ -404,7 +404,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "cấp phát bộ nhớ",
-    "example": "The compiler report helped us examine memory allocation in the new module.",
+    "example": "The compiler report helped us examine the memory allocation in the new module.",
     "exampleVi": "Báo cáo của trình biên dịch giúp chúng tôi xem xét cấp phát bộ nhớ trong mô đun mới."
   },
   {
@@ -412,7 +412,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "giải phóng bộ nhớ đã cấp phát",
-    "example": "Understanding memory deallocation made the implementation easier to review.",
+    "example": "Understanding the memory deallocation made the implementation easier to review.",
     "exampleVi": "Hiểu về giải phóng bộ nhớ đã cấp phát giúp việc rà soát phần triển khai dễ hơn."
   },
   {
@@ -420,7 +420,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "con trỏ không trỏ đến đối tượng hợp lệ",
-    "example": "The compiler report helped us examine null pointer in the new module.",
+    "example": "The compiler report helped us examine the null pointer in the new module.",
     "exampleVi": "Báo cáo của trình biên dịch giúp chúng tôi xem xét con trỏ không trỏ đến đối tượng hợp lệ trong mô đun mới."
   },
   {
@@ -428,7 +428,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "nhóm luồng dùng chung",
-    "example": "The team reproduced a problem involving thread pool under heavy concurrent load.",
+    "example": "The team reproduced a problem involving the thread pool under heavy concurrent load.",
     "exampleVi": "Nhóm tái hiện một vấn đề liên quan đến nhóm luồng dùng chung khi có tải đồng thời lớn."
   },
   {
@@ -436,7 +436,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "truy cập bộ nhớ xung đột giữa các luồng mà không đồng bộ",
-    "example": "The diagnostic report described data race during simultaneous requests.",
+    "example": "The diagnostic report described the data race during simultaneous requests.",
     "exampleVi": "Báo cáo chẩn đoán mô tả truy cập bộ nhớ xung đột giữa các luồng mà không đồng bộ khi có nhiều yêu cầu đồng thời."
   },
   {
@@ -444,7 +444,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "đoạn mã truy cập tài nguyên dùng chung cần bảo vệ",
-    "example": "The team reproduced a problem involving critical section under heavy concurrent load.",
+    "example": "The team reproduced a problem involving the critical section under heavy concurrent load.",
     "exampleVi": "Nhóm tái hiện một vấn đề liên quan đến đoạn mã truy cập tài nguyên dùng chung cần bảo vệ khi có tải đồng thời lớn."
   },
   {
@@ -452,7 +452,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "cơ chế loại trừ truy cập đồng thời",
-    "example": "The diagnostic report described mutual exclusion during simultaneous requests.",
+    "example": "The diagnostic report described the mutual exclusion during simultaneous requests.",
     "exampleVi": "Báo cáo chẩn đoán mô tả cơ chế loại trừ truy cập đồng thời khi có nhiều yêu cầu đồng thời."
   },
   {
@@ -460,7 +460,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "biến đồng bộ chờ điều kiện",
-    "example": "The team reproduced a problem involving condition variable under heavy concurrent load.",
+    "example": "The team reproduced a problem involving the condition variable under heavy concurrent load.",
     "exampleVi": "Nhóm tái hiện một vấn đề liên quan đến biến đồng bộ chờ điều kiện khi có tải đồng thời lớn."
   },
   {
@@ -468,7 +468,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "semaphore giới hạn số truy cập đồng thời",
-    "example": "The diagnostic report described counting semaphore during simultaneous requests.",
+    "example": "The diagnostic report described the counting semaphore during simultaneous requests.",
     "exampleVi": "Báo cáo chẩn đoán mô tả semaphore giới hạn số truy cập đồng thời khi có nhiều yêu cầu đồng thời."
   },
   {
@@ -476,7 +476,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "thao tác không thể bị chia cắt khi quan sát",
-    "example": "The team reproduced a problem involving atomic operation under heavy concurrent load.",
+    "example": "The team reproduced a problem involving the atomic operation under heavy concurrent load.",
     "exampleVi": "Nhóm tái hiện một vấn đề liên quan đến thao tác không thể bị chia cắt khi quan sát khi có tải đồng thời lớn."
   },
   {
@@ -484,7 +484,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "thao tác so sánh rồi hoán đổi nguyên tử",
-    "example": "The diagnostic report described compare and swap during simultaneous requests.",
+    "example": "The diagnostic report described the compare and swap during simultaneous requests.",
     "exampleVi": "Báo cáo chẩn đoán mô tả thao tác so sánh rồi hoán đổi nguyên tử khi có nhiều yêu cầu đồng thời."
   },
   {
@@ -492,7 +492,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "rào cản thứ tự truy cập bộ nhớ",
-    "example": "The team reproduced a problem involving memory barrier under heavy concurrent load.",
+    "example": "The team reproduced a problem involving the memory barrier under heavy concurrent load.",
     "exampleVi": "Nhóm tái hiện một vấn đề liên quan đến rào cản thứ tự truy cập bộ nhớ khi có tải đồng thời lớn."
   },
   {
@@ -500,7 +500,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "khả năng luồng nhìn thấy thay đổi bộ nhớ",
-    "example": "The diagnostic report described memory visibility during simultaneous requests.",
+    "example": "The diagnostic report described the memory visibility during simultaneous requests.",
     "exampleVi": "Báo cáo chẩn đoán mô tả khả năng luồng nhìn thấy thay đổi bộ nhớ khi có nhiều yêu cầu đồng thời."
   },
   {
@@ -508,7 +508,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "tranh chấp quyền giữ khóa",
-    "example": "The team reproduced a problem involving lock contention under heavy concurrent load.",
+    "example": "The team reproduced a problem involving the lock contention under heavy concurrent load.",
     "exampleVi": "Nhóm tái hiện một vấn đề liên quan đến tranh chấp quyền giữ khóa khi có tải đồng thời lớn."
   },
   {
@@ -516,7 +516,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "mức độ chi tiết của phạm vi khóa",
-    "example": "The diagnostic report described lock granularity during simultaneous requests.",
+    "example": "The diagnostic report described the lock granularity during simultaneous requests.",
     "exampleVi": "Báo cáo chẩn đoán mô tả mức độ chi tiết của phạm vi khóa khi có nhiều yêu cầu đồng thời."
   },
   {
@@ -524,7 +524,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "khóa phân biệt luồng đọc và luồng ghi",
-    "example": "The team reproduced a problem involving reader writer lock under heavy concurrent load.",
+    "example": "The team reproduced a problem involving the reader writer lock under heavy concurrent load.",
     "exampleVi": "Nhóm tái hiện một vấn đề liên quan đến khóa phân biệt luồng đọc và luồng ghi khi có tải đồng thời lớn."
   },
   {
@@ -532,7 +532,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "tình trạng luồng không được cấp tài nguyên để chạy",
-    "example": "The diagnostic report described thread starvation during simultaneous requests.",
+    "example": "The diagnostic report described the thread starvation during simultaneous requests.",
     "exampleVi": "Báo cáo chẩn đoán mô tả tình trạng luồng không được cấp tài nguyên để chạy khi có nhiều yêu cầu đồng thời."
   },
   {
@@ -540,7 +540,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "đảo ngược ưu tiên do chờ tài nguyên",
-    "example": "The team reproduced a problem involving priority inversion under heavy concurrent load.",
+    "example": "The team reproduced a problem involving the priority inversion under heavy concurrent load.",
     "exampleVi": "Nhóm tái hiện một vấn đề liên quan đến đảo ngược ưu tiên do chờ tài nguyên khi có tải đồng thời lớn."
   },
   {
@@ -548,7 +548,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "chờ bằng cách liên tục kiểm tra điều kiện",
-    "example": "The diagnostic report described busy waiting during simultaneous requests.",
+    "example": "The diagnostic report described the busy waiting during simultaneous requests.",
     "exampleVi": "Báo cáo chẩn đoán mô tả chờ bằng cách liên tục kiểm tra điều kiện khi có nhiều yêu cầu đồng thời."
   },
   {
@@ -556,7 +556,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "lập lịch dựa vào tác vụ tự nhường quyền chạy",
-    "example": "The team reproduced a problem involving cooperative scheduling under heavy concurrent load.",
+    "example": "The team reproduced a problem involving the cooperative scheduling under heavy concurrent load.",
     "exampleVi": "Nhóm tái hiện một vấn đề liên quan đến lập lịch dựa vào tác vụ tự nhường quyền chạy khi có tải đồng thời lớn."
   },
   {
@@ -564,7 +564,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "lập lịch cho phép cưỡng chế chuyển tác vụ",
-    "example": "The diagnostic report described preemptive scheduling during simultaneous requests.",
+    "example": "The diagnostic report described the preemptive scheduling during simultaneous requests.",
     "exampleVi": "Báo cáo chẩn đoán mô tả lập lịch cho phép cưỡng chế chuyển tác vụ khi có nhiều yêu cầu đồng thời."
   },
   {
@@ -572,7 +572,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "thực thi không phải chờ hoàn tất ngay",
-    "example": "The team reproduced a problem involving asynchronous execution under heavy concurrent load.",
+    "example": "The team reproduced a problem involving the asynchronous execution under heavy concurrent load.",
     "exampleVi": "Nhóm tái hiện một vấn đề liên quan đến thực thi không phải chờ hoàn tất ngay khi có tải đồng thời lớn."
   },
   {
@@ -580,7 +580,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "thực thi đồng thời trên nhiều đơn vị xử lý",
-    "example": "The diagnostic report described parallel execution during simultaneous requests.",
+    "example": "The diagnostic report described the parallel execution during simultaneous requests.",
     "exampleVi": "Báo cáo chẩn đoán mô tả thực thi đồng thời trên nhiều đơn vị xử lý khi có nhiều yêu cầu đồng thời."
   },
   {
@@ -588,7 +588,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "hủy tác vụ đang chờ hoặc đang chạy",
-    "example": "The team reproduced a problem involving task cancellation under heavy concurrent load.",
+    "example": "The team reproduced a problem involving the task cancellation under heavy concurrent load.",
     "exampleVi": "Nhóm tái hiện một vấn đề liên quan đến hủy tác vụ đang chờ hoặc đang chạy khi có tải đồng thời lớn."
   },
   {
@@ -596,7 +596,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "tín hiệu phối hợp yêu cầu hủy tác vụ",
-    "example": "The diagnostic report described cancellation token during simultaneous requests.",
+    "example": "The diagnostic report described the cancellation token during simultaneous requests.",
     "exampleVi": "Báo cáo chẩn đoán mô tả tín hiệu phối hợp yêu cầu hủy tác vụ khi có nhiều yêu cầu đồng thời."
   },
   {
@@ -604,7 +604,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "tổ chức tác vụ đồng thời theo phạm vi có quản lý",
-    "example": "The team reproduced a problem involving structured concurrency under heavy concurrent load.",
+    "example": "The team reproduced a problem involving the structured concurrency under heavy concurrent load.",
     "exampleVi": "Nhóm tái hiện một vấn đề liên quan đến tổ chức tác vụ đồng thời theo phạm vi có quản lý khi có tải đồng thời lớn."
   },
   {
@@ -612,7 +612,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "cơ chế luồng lấy tác vụ từ hàng đợi của luồng khác",
-    "example": "The diagnostic report described work stealing during simultaneous requests.",
+    "example": "The diagnostic report described the work stealing during simultaneous requests.",
     "exampleVi": "Báo cáo chẩn đoán mô tả cơ chế luồng lấy tác vụ từ hàng đợi của luồng khác khi có nhiều yêu cầu đồng thời."
   },
   {
@@ -620,7 +620,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "trao đổi dữ liệu bằng truyền thông điệp",
-    "example": "The team reproduced a problem involving message passing under heavy concurrent load.",
+    "example": "The team reproduced a problem involving the message passing under heavy concurrent load.",
     "exampleVi": "Nhóm tái hiện một vấn đề liên quan đến trao đổi dữ liệu bằng truyền thông điệp khi có tải đồng thời lớn."
   },
   {
@@ -628,7 +628,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "kiểm thử đơn vị mã nhỏ",
-    "example": "The test plan included a section on unit testing before the release.",
+    "example": "The test plan included a section on the unit testing before the release.",
     "exampleVi": "Kế hoạch kiểm thử có một phần về kiểm thử đơn vị mã nhỏ trước khi phát hành."
   },
   {
@@ -636,7 +636,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "kiểm thử sự kết hợp giữa các thành phần",
-    "example": "An issue with integration testing delayed approval of the release.",
+    "example": "An issue with the integration testing delayed approval of the release.",
     "exampleVi": "Một vấn đề về kiểm thử sự kết hợp giữa các thành phần khiến việc phê duyệt bản phát hành chậm lại."
   },
   {
@@ -644,7 +644,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "kiểm thử toàn bộ hệ thống",
-    "example": "The test plan included a section on system testing before the release.",
+    "example": "The test plan included a section on the system testing before the release.",
     "exampleVi": "Kế hoạch kiểm thử có một phần về kiểm thử toàn bộ hệ thống trước khi phát hành."
   },
   {
@@ -652,7 +652,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "kiểm thử đáp ứng yêu cầu nghiệm thu",
-    "example": "An issue with acceptance testing delayed approval of the release.",
+    "example": "An issue with the acceptance testing delayed approval of the release.",
     "exampleVi": "Một vấn đề về kiểm thử đáp ứng yêu cầu nghiệm thu khiến việc phê duyệt bản phát hành chậm lại."
   },
   {
@@ -660,7 +660,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "kiểm thử phát hiện lỗi quay lại sau thay đổi",
-    "example": "The test plan included a section on regression testing before the release.",
+    "example": "The test plan included a section on the regression testing before the release.",
     "exampleVi": "Kế hoạch kiểm thử có một phần về kiểm thử phát hiện lỗi quay lại sau thay đổi trước khi phát hành."
   },
   {
@@ -668,7 +668,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "kiểm thử nhanh các chức năng thiết yếu",
-    "example": "An issue with smoke testing delayed approval of the release.",
+    "example": "An issue with the smoke testing delayed approval of the release.",
     "exampleVi": "Một vấn đề về kiểm thử nhanh các chức năng thiết yếu khiến việc phê duyệt bản phát hành chậm lại."
   },
   {
@@ -676,7 +676,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "kiểm thử hệ thống dưới tải dự kiến",
-    "example": "The test plan included a section on load testing before the release.",
+    "example": "The test plan included a section on the load testing before the release.",
     "exampleVi": "Kế hoạch kiểm thử có một phần về kiểm thử hệ thống dưới tải dự kiến trước khi phát hành."
   },
   {
@@ -684,7 +684,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "kiểm thử vượt giới hạn tải thông thường",
-    "example": "An issue with stress testing delayed approval of the release.",
+    "example": "An issue with the stress testing delayed approval of the release.",
     "exampleVi": "Một vấn đề về kiểm thử vượt giới hạn tải thông thường khiến việc phê duyệt bản phát hành chậm lại."
   },
   {
@@ -692,7 +692,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "kiểm thử tải kéo dài",
-    "example": "The test plan included a section on soak testing before the release.",
+    "example": "The test plan included a section on the soak testing before the release.",
     "exampleVi": "Kế hoạch kiểm thử có một phần về kiểm thử tải kéo dài trước khi phát hành."
   },
   {
@@ -700,7 +700,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "kiểm thử bằng đầu vào biến đổi bất thường",
-    "example": "An issue with fuzz testing delayed approval of the release.",
+    "example": "An issue with the fuzz testing delayed approval of the release.",
     "exampleVi": "Một vấn đề về kiểm thử bằng đầu vào biến đổi bất thường khiến việc phê duyệt bản phát hành chậm lại."
   },
   {
@@ -708,7 +708,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "kiểm thử các tổ hợp giá trị đầu vào",
-    "example": "The test plan included a section on combinatorial testing before the release.",
+    "example": "The test plan included a section on the combinatorial testing before the release.",
     "exampleVi": "Kế hoạch kiểm thử có một phần về kiểm thử các tổ hợp giá trị đầu vào trước khi phát hành."
   },
   {
@@ -716,7 +716,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "kiểm thử chất lượng bộ kiểm thử bằng lỗi chèn vào",
-    "example": "An issue with mutation testing delayed approval of the release.",
+    "example": "An issue with the mutation testing delayed approval of the release.",
     "exampleVi": "Một vấn đề về kiểm thử chất lượng bộ kiểm thử bằng lỗi chèn vào khiến việc phê duyệt bản phát hành chậm lại."
   },
   {
@@ -740,7 +740,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "bộ công cụ điều khiển việc chạy kiểm thử",
-    "example": "An issue with test harness delayed approval of the release.",
+    "example": "An issue with the test harness delayed approval of the release.",
     "exampleVi": "Một vấn đề về bộ công cụ điều khiển việc chạy kiểm thử khiến việc phê duyệt bản phát hành chậm lại."
   },
   {
@@ -748,7 +748,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "đối tượng kiểm thử trả kết quả giả định sẵn",
-    "example": "The test plan included a section on test stub before the release.",
+    "example": "The test plan included a section on the test stub before the release.",
     "exampleVi": "Kế hoạch kiểm thử có một phần về đối tượng kiểm thử trả kết quả giả định sẵn trước khi phát hành."
   },
   {
@@ -756,7 +756,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "đối tượng giả có kiểm tra tương tác mong đợi",
-    "example": "An issue with mock object delayed approval of the release.",
+    "example": "An issue with the mock object delayed approval of the release.",
     "exampleVi": "Một vấn đề về đối tượng giả có kiểm tra tương tác mong đợi khiến việc phê duyệt bản phát hành chậm lại."
   },
   {
@@ -764,7 +764,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "mức độ mã được thực thi khi kiểm thử",
-    "example": "The test plan included a section on code coverage before the release.",
+    "example": "The test plan included a section on the code coverage before the release.",
     "exampleVi": "Kế hoạch kiểm thử có một phần về mức độ mã được thực thi khi kiểm thử trước khi phát hành."
   },
   {
@@ -772,7 +772,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "mức độ các nhánh điều kiện được kiểm thử",
-    "example": "An issue with branch coverage delayed approval of the release.",
+    "example": "An issue with the branch coverage delayed approval of the release.",
     "exampleVi": "Một vấn đề về mức độ các nhánh điều kiện được kiểm thử khiến việc phê duyệt bản phát hành chậm lại."
   },
   {
@@ -780,7 +780,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "sự độc lập giữa các kiểm thử",
-    "example": "The test plan included a section on test isolation before the release.",
+    "example": "The test plan included a section on the test isolation before the release.",
     "exampleVi": "Kế hoạch kiểm thử có một phần về sự độc lập giữa các kiểm thử trước khi phát hành."
   },
   {
@@ -788,7 +788,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "kiểm thử quan hệ giữa nhiều đầu vào và kết quả liên quan",
-    "example": "An issue with metamorphic testing delayed approval of the release.",
+    "example": "An issue with the metamorphic testing delayed approval of the release.",
     "exampleVi": "Một vấn đề về kiểm thử quan hệ giữa nhiều đầu vào và kết quả liên quan khiến việc phê duyệt bản phát hành chậm lại."
   },
   {
@@ -796,7 +796,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "cơ chế xác định kết quả kiểm thử đúng hay sai",
-    "example": "The test plan included a section on test oracle before the release.",
+    "example": "The test plan included a section on the test oracle before the release.",
     "exampleVi": "Kế hoạch kiểm thử có một phần về cơ chế xác định kết quả kiểm thử đúng hay sai trước khi phát hành."
   },
   {
@@ -804,7 +804,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "kiểm thử so sánh kết quả với bản chụp chuẩn",
-    "example": "An issue with snapshot testing delayed approval of the release.",
+    "example": "An issue with the snapshot testing delayed approval of the release.",
     "exampleVi": "Một vấn đề về kiểm thử so sánh kết quả với bản chụp chuẩn khiến việc phê duyệt bản phát hành chậm lại."
   },
   {
@@ -812,7 +812,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "kiểm thử hợp đồng giao tiếp giữa dịch vụ",
-    "example": "The test plan included a section on contract testing before the release.",
+    "example": "The test plan included a section on the contract testing before the release.",
     "exampleVi": "Kế hoạch kiểm thử có một phần về kiểm thử hợp đồng giao tiếp giữa dịch vụ trước khi phát hành."
   },
   {
@@ -820,7 +820,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "phân tích giá trị biên để chọn ca kiểm thử",
-    "example": "An issue with boundary value analysis delayed approval of the release.",
+    "example": "An issue with the boundary value analysis delayed approval of the release.",
     "exampleVi": "Một vấn đề về phân tích giá trị biên để chọn ca kiểm thử khiến việc phê duyệt bản phát hành chậm lại."
   },
   {
@@ -828,7 +828,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "chia đầu vào thành các lớp tương đương",
-    "example": "The test plan included a section on equivalence partitioning before the release.",
+    "example": "The test plan included a section on the equivalence partitioning before the release.",
     "exampleVi": "Kế hoạch kiểm thử có một phần về chia đầu vào thành các lớp tương đương trước khi phát hành."
   },
   {
@@ -836,7 +836,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "quản lý phiên bản mã nguồn",
-    "example": "The release checklist covered source control before deployment.",
+    "example": "The release checklist covered the source control before deployment.",
     "exampleVi": "Danh sách kiểm tra phát hành bao gồm quản lý phiên bản mã nguồn trước khi triển khai."
   },
   {
@@ -844,7 +844,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "nhánh mã dành cho một tính năng",
-    "example": "The engineering team documented feature branch in its release guide.",
+    "example": "The engineering team documented the feature branch in its release guide.",
     "exampleVi": "Nhóm kỹ thuật ghi lại nhánh mã dành cho một tính năng trong hướng dẫn phát hành."
   },
   {
@@ -852,7 +852,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "nhánh mã dành cho bản phát hành",
-    "example": "The release checklist covered release branch before deployment.",
+    "example": "The release checklist covered the release branch before deployment.",
     "exampleVi": "Danh sách kiểm tra phát hành bao gồm nhánh mã dành cho bản phát hành trước khi triển khai."
   },
   {
@@ -860,7 +860,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "phát triển bằng tích hợp thường xuyên vào nhánh chính",
-    "example": "The engineering team documented trunk based development in its release guide.",
+    "example": "The engineering team documented the trunk based development in its release guide.",
     "exampleVi": "Nhóm kỹ thuật ghi lại phát triển bằng tích hợp thường xuyên vào nhánh chính trong hướng dẫn phát hành."
   },
   {
@@ -868,7 +868,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "xung đột khi hợp nhất thay đổi mã",
-    "example": "The release checklist covered merge conflict before deployment.",
+    "example": "The release checklist covered the merge conflict before deployment.",
     "exampleVi": "Danh sách kiểm tra phát hành bao gồm xung đột khi hợp nhất thay đổi mã trước khi triển khai."
   },
   {
@@ -876,7 +876,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "đề nghị hợp nhất thay đổi mã",
-    "example": "The engineering team documented pull request in its release guide.",
+    "example": "The engineering team documented the pull request in its release guide.",
     "exampleVi": "Nhóm kỹ thuật ghi lại đề nghị hợp nhất thay đổi mã trong hướng dẫn phát hành."
   },
   {
@@ -884,7 +884,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "rà soát thay đổi mã nguồn",
-    "example": "The release checklist covered code review before deployment.",
+    "example": "The release checklist covered the code review before deployment.",
     "exampleVi": "Danh sách kiểm tra phát hành bao gồm rà soát thay đổi mã nguồn trước khi triển khai."
   },
   {
@@ -892,7 +892,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "lịch sử các lần ghi nhận thay đổi mã",
-    "example": "The engineering team documented commit history in its release guide.",
+    "example": "The engineering team documented the commit history in its release guide.",
     "exampleVi": "Nhóm kỹ thuật ghi lại lịch sử các lần ghi nhận thay đổi mã trong hướng dẫn phát hành."
   },
   {
@@ -900,7 +900,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "sản phẩm tạo ra từ quá trình build",
-    "example": "The release checklist covered build artifact before deployment.",
+    "example": "The release checklist covered the build artifact before deployment.",
     "exampleVi": "Danh sách kiểm tra phát hành bao gồm sản phẩm tạo ra từ quá trình build trước khi triển khai."
   },
   {
@@ -908,7 +908,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "chuỗi bước tạo và kiểm tra bản build",
-    "example": "The engineering team documented build pipeline in its release guide.",
+    "example": "The engineering team documented the build pipeline in its release guide.",
     "exampleVi": "Nhóm kỹ thuật ghi lại chuỗi bước tạo và kiểm tra bản build trong hướng dẫn phát hành."
   },
   {
@@ -916,7 +916,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "tích hợp thay đổi mã liên tục",
-    "example": "The release checklist covered continuous integration before deployment.",
+    "example": "The release checklist covered the continuous integration before deployment.",
     "exampleVi": "Danh sách kiểm tra phát hành bao gồm tích hợp thay đổi mã liên tục trước khi triển khai."
   },
   {
@@ -924,7 +924,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "duy trì khả năng phát hành phần mềm liên tục",
-    "example": "The engineering team documented continuous delivery in its release guide.",
+    "example": "The engineering team documented the continuous delivery in its release guide.",
     "exampleVi": "Nhóm kỹ thuật ghi lại duy trì khả năng phát hành phần mềm liên tục trong hướng dẫn phát hành."
   },
   {
@@ -932,7 +932,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "tự động triển khai thay đổi đã qua kiểm tra",
-    "example": "The release checklist covered continuous deployment before deployment.",
+    "example": "The release checklist covered the continuous deployment before deployment.",
     "exampleVi": "Danh sách kiểm tra phát hành bao gồm tự động triển khai thay đổi đã qua kiểm tra trước khi triển khai."
   },
   {
@@ -940,7 +940,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "bản ứng viên chuẩn bị phát hành",
-    "example": "The engineering team documented release candidate in its release guide.",
+    "example": "The engineering team documented the release candidate in its release guide.",
     "exampleVi": "Nhóm kỹ thuật ghi lại bản ứng viên chuẩn bị phát hành trong hướng dẫn phát hành."
   },
   {
@@ -948,7 +948,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "quá trình mở dần tính năng cho người dùng",
-    "example": "The release checklist covered feature rollout before deployment.",
+    "example": "The release checklist covered the feature rollout before deployment.",
     "exampleVi": "Danh sách kiểm tra phát hành bao gồm quá trình mở dần tính năng cho người dùng trước khi triển khai."
   },
   {
@@ -956,7 +956,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "phát hành thử cho một phần người dùng",
-    "example": "The engineering team documented canary release in its release guide.",
+    "example": "The engineering team documented the canary release in its release guide.",
     "exampleVi": "Nhóm kỹ thuật ghi lại phát hành thử cho một phần người dùng trong hướng dẫn phát hành."
   },
   {
@@ -964,7 +964,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "môi trường triển khai riêng để thử hoặc chuyển phiên bản",
-    "example": "The release checklist covered deployment slot before deployment.",
+    "example": "The release checklist covered the deployment slot before deployment.",
     "exampleVi": "Danh sách kiểm tra phát hành bao gồm môi trường triển khai riêng để thử hoặc chuyển phiên bản trước khi triển khai."
   },
   {
@@ -972,7 +972,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "cập nhật dần từng phần của hệ thống",
-    "example": "The engineering team documented rolling update in its release guide.",
+    "example": "The engineering team documented the rolling update in its release guide.",
     "exampleVi": "Nhóm kỹ thuật ghi lại cập nhật dần từng phần của hệ thống trong hướng dẫn phát hành."
   },
   {
@@ -980,7 +980,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "khôi phục phiên bản triển khai trước",
-    "example": "The release checklist covered deployment rollback before deployment.",
+    "example": "The release checklist covered the deployment rollback before deployment.",
     "exampleVi": "Danh sách kiểm tra phát hành bao gồm khôi phục phiên bản triển khai trước trước khi triển khai."
   },
   {
@@ -988,7 +988,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "ghi chú các thay đổi của bản phát hành",
-    "example": "The engineering team documented release note in its release guide.",
+    "example": "The engineering team documented the release note in its release guide.",
     "exampleVi": "Nhóm kỹ thuật ghi lại ghi chú các thay đổi của bản phát hành trong hướng dẫn phát hành."
   },
   {
@@ -996,7 +996,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "khả năng tương thích giữa các phiên bản",
-    "example": "The release checklist covered version compatibility before deployment.",
+    "example": "The release checklist covered the version compatibility before deployment.",
     "exampleVi": "Danh sách kiểm tra phát hành bao gồm khả năng tương thích giữa các phiên bản trước khi triển khai."
   },
   {
@@ -1004,7 +1004,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "xác định phiên bản phụ thuộc phù hợp",
-    "example": "The engineering team documented dependency resolution in its release guide.",
+    "example": "The engineering team documented the dependency resolution in its release guide.",
     "exampleVi": "Nhóm kỹ thuật ghi lại xác định phiên bản phụ thuộc phù hợp trong hướng dẫn phát hành."
   },
   {
@@ -1012,7 +1012,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "kho lưu và phân phối gói phần mềm",
-    "example": "The release checklist covered package registry before deployment.",
+    "example": "The release checklist covered the package registry before deployment.",
     "exampleVi": "Danh sách kiểm tra phát hành bao gồm kho lưu và phân phối gói phần mềm trước khi triển khai."
   },
   {
@@ -1020,7 +1020,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "danh sách thành phần tạo nên phần mềm",
-    "example": "The engineering team documented software bill of materials in its release guide.",
+    "example": "The engineering team documented the software bill of materials in its release guide.",
     "exampleVi": "Nhóm kỹ thuật ghi lại danh sách thành phần tạo nên phần mềm trong hướng dẫn phát hành."
   },
   {
@@ -1236,7 +1236,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "kho dữ liệu phục vụ phân tích",
-    "example": "The analytics team reviewed data warehouse before publishing the sales dataset.",
+    "example": "The analytics team reviewed the data warehouse before publishing the sales dataset.",
     "exampleVi": "Nhóm phân tích xem xét kho dữ liệu phục vụ phân tích trước khi công bố tập dữ liệu bán hàng."
   },
   {
@@ -1244,7 +1244,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "kho lưu dữ liệu đa dạng ở dạng ban đầu",
-    "example": "Our data platform documentation explains data lake with examples from daily processing.",
+    "example": "Our data platform documentation explains the data lake with examples from daily processing.",
     "exampleVi": "Tài liệu nền tảng dữ liệu giải thích kho lưu dữ liệu đa dạng ở dạng ban đầu bằng ví dụ từ việc xử lý hằng ngày."
   },
   {
@@ -1252,7 +1252,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "kiến trúc kết hợp data lake và data warehouse",
-    "example": "The analytics team reviewed data lakehouse before publishing the sales dataset.",
+    "example": "The analytics team reviewed the data lakehouse before publishing the sales dataset.",
     "exampleVi": "Nhóm phân tích xem xét kiến trúc kết hợp data lake và data warehouse trước khi công bố tập dữ liệu bán hàng."
   },
   {
@@ -1260,7 +1260,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "kho dữ liệu dành cho một bộ phận",
-    "example": "Our data platform documentation explains data mart with examples from daily processing.",
+    "example": "Our data platform documentation explains the data mart with examples from daily processing.",
     "exampleVi": "Tài liệu nền tảng dữ liệu giải thích kho dữ liệu dành cho một bộ phận bằng ví dụ từ việc xử lý hằng ngày."
   },
   {
@@ -1268,7 +1268,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "chuỗi bước thu nhận và xử lý dữ liệu",
-    "example": "The analytics team reviewed data pipeline before publishing the sales dataset.",
+    "example": "The analytics team reviewed the data pipeline before publishing the sales dataset.",
     "exampleVi": "Nhóm phân tích xem xét chuỗi bước thu nhận và xử lý dữ liệu trước khi công bố tập dữ liệu bán hàng."
   },
   {
@@ -1276,7 +1276,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "thu nhận dữ liệu vào hệ thống",
-    "example": "Our data platform documentation explains data ingestion with examples from daily processing.",
+    "example": "Our data platform documentation explains the data ingestion with examples from daily processing.",
     "exampleVi": "Tài liệu nền tảng dữ liệu giải thích thu nhận dữ liệu vào hệ thống bằng ví dụ từ việc xử lý hằng ngày."
   },
   {
@@ -1284,7 +1284,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "chuyển đổi cấu trúc hoặc giá trị dữ liệu",
-    "example": "The analytics team reviewed data transformation before publishing the sales dataset.",
+    "example": "The analytics team reviewed the data transformation before publishing the sales dataset.",
     "exampleVi": "Nhóm phân tích xem xét chuyển đổi cấu trúc hoặc giá trị dữ liệu trước khi công bố tập dữ liệu bán hàng."
   },
   {
@@ -1292,7 +1292,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "dấu vết nguồn gốc và quá trình biến đổi dữ liệu",
-    "example": "Our data platform documentation explains data lineage with examples from daily processing.",
+    "example": "Our data platform documentation explains the data lineage with examples from daily processing.",
     "exampleVi": "Tài liệu nền tảng dữ liệu giải thích dấu vết nguồn gốc và quá trình biến đổi dữ liệu bằng ví dụ từ việc xử lý hằng ngày."
   },
   {
@@ -1300,7 +1300,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "danh mục mô tả và tìm kiếm tài sản dữ liệu",
-    "example": "The analytics team reviewed data catalog before publishing the sales dataset.",
+    "example": "The analytics team reviewed the data catalog before publishing the sales dataset.",
     "exampleVi": "Nhóm phân tích xem xét danh mục mô tả và tìm kiếm tài sản dữ liệu trước khi công bố tập dữ liệu bán hàng."
   },
   {
@@ -1308,7 +1308,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "mức độ dữ liệu đáp ứng yêu cầu sử dụng",
-    "example": "Our data platform documentation explains data quality with examples from daily processing.",
+    "example": "Our data platform documentation explains the data quality with examples from daily processing.",
     "exampleVi": "Tài liệu nền tảng dữ liệu giải thích mức độ dữ liệu đáp ứng yêu cầu sử dụng bằng ví dụ từ việc xử lý hằng ngày."
   },
   {
@@ -1316,7 +1316,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "làm sạch dữ liệu sai hoặc không nhất quán",
-    "example": "The analytics team reviewed data cleansing before publishing the sales dataset.",
+    "example": "The analytics team reviewed the data cleansing before publishing the sales dataset.",
     "exampleVi": "Nhóm phân tích xem xét làm sạch dữ liệu sai hoặc không nhất quán trước khi công bố tập dữ liệu bán hàng."
   },
   {
@@ -1324,7 +1324,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "loại bỏ dữ liệu trùng lặp",
-    "example": "Our data platform documentation explains data deduplication with examples from daily processing.",
+    "example": "Our data platform documentation explains the data deduplication with examples from daily processing.",
     "exampleVi": "Tài liệu nền tảng dữ liệu giải thích loại bỏ dữ liệu trùng lặp bằng ví dụ từ việc xử lý hằng ngày."
   },
   {
@@ -1348,7 +1348,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "sự thay đổi cấu trúc dữ liệu theo thời gian",
-    "example": "Our data platform documentation explains schema evolution with examples from daily processing.",
+    "example": "Our data platform documentation explains the schema evolution with examples from daily processing.",
     "exampleVi": "Tài liệu nền tảng dữ liệu giải thích sự thay đổi cấu trúc dữ liệu theo thời gian bằng ví dụ từ việc xử lý hằng ngày."
   },
   {
@@ -1356,7 +1356,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "xử lý dữ liệu theo lô",
-    "example": "The analytics team reviewed batch processing before publishing the sales dataset.",
+    "example": "The analytics team reviewed the batch processing before publishing the sales dataset.",
     "exampleVi": "Nhóm phân tích xem xét xử lý dữ liệu theo lô trước khi công bố tập dữ liệu bán hàng."
   },
   {
@@ -1364,7 +1364,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "xử lý dòng dữ liệu liên tục",
-    "example": "Our data platform documentation explains stream processing with examples from daily processing.",
+    "example": "Our data platform documentation explains the stream processing with examples from daily processing.",
     "exampleVi": "Tài liệu nền tảng dữ liệu giải thích xử lý dòng dữ liệu liên tục bằng ví dụ từ việc xử lý hằng ngày."
   },
   {
@@ -1372,7 +1372,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "thu nhận các thay đổi trong dữ liệu nguồn",
-    "example": "The analytics team reviewed change data capture before publishing the sales dataset.",
+    "example": "The analytics team reviewed the change data capture before publishing the sales dataset.",
     "exampleVi": "Nhóm phân tích xem xét thu nhận các thay đổi trong dữ liệu nguồn trước khi công bố tập dữ liệu bán hàng."
   },
   {
@@ -1380,7 +1380,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "chia dữ liệu thành các phần quản lý riêng",
-    "example": "Our data platform documentation explains data partitioning with examples from daily processing.",
+    "example": "Our data platform documentation explains the data partitioning with examples from daily processing.",
     "exampleVi": "Tài liệu nền tảng dữ liệu giải thích chia dữ liệu thành các phần quản lý riêng bằng ví dụ từ việc xử lý hằng ngày."
   },
   {
@@ -1388,7 +1388,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "chia dữ liệu giữa nhiều nút lưu trữ",
-    "example": "The analytics team reviewed data sharding before publishing the sales dataset.",
+    "example": "The analytics team reviewed the data sharding before publishing the sales dataset.",
     "exampleVi": "Nhóm phân tích xem xét chia dữ liệu giữa nhiều nút lưu trữ trước khi công bố tập dữ liệu bán hàng."
   },
   {
@@ -1396,7 +1396,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "sao chép dữ liệu giữa các vị trí",
-    "example": "Our data platform documentation explains data replication with examples from daily processing.",
+    "example": "Our data platform documentation explains the data replication with examples from daily processing.",
     "exampleVi": "Tài liệu nền tảng dữ liệu giải thích sao chép dữ liệu giữa các vị trí bằng ví dụ từ việc xử lý hằng ngày."
   },
   {
@@ -1404,7 +1404,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "chính sách giữ dữ liệu trong một khoảng thời gian",
-    "example": "The analytics team reviewed data retention before publishing the sales dataset.",
+    "example": "The analytics team reviewed the data retention before publishing the sales dataset.",
     "exampleVi": "Nhóm phân tích xem xét chính sách giữ dữ liệu trong một khoảng thời gian trước khi công bố tập dữ liệu bán hàng."
   },
   {
@@ -1412,7 +1412,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "thông tin chứng minh nguồn gốc dữ liệu",
-    "example": "Our data platform documentation explains data provenance with examples from daily processing.",
+    "example": "Our data platform documentation explains the data provenance with examples from daily processing.",
     "exampleVi": "Tài liệu nền tảng dữ liệu giải thích thông tin chứng minh nguồn gốc dữ liệu bằng ví dụ từ việc xử lý hằng ngày."
   },
   {
@@ -1420,7 +1420,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "quản lý dữ liệu chủ dùng chung",
-    "example": "The analytics team reviewed master data management before publishing the sales dataset.",
+    "example": "The analytics team reviewed the master data management before publishing the sales dataset.",
     "exampleVi": "Nhóm phân tích xem xét quản lý dữ liệu chủ dùng chung trước khi công bố tập dữ liệu bán hàng."
   },
   {
@@ -1428,7 +1428,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "quản lý dữ liệu mô tả dữ liệu",
-    "example": "Our data platform documentation explains metadata management with examples from daily processing.",
+    "example": "Our data platform documentation explains the metadata management with examples from daily processing.",
     "exampleVi": "Tài liệu nền tảng dữ liệu giải thích quản lý dữ liệu mô tả dữ liệu bằng ví dụ từ việc xử lý hằng ngày."
   },
   {
@@ -1436,7 +1436,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "quản trị quyền hạn và quy tắc sử dụng dữ liệu",
-    "example": "The analytics team reviewed data governance before publishing the sales dataset.",
+    "example": "The analytics team reviewed the data governance before publishing the sales dataset.",
     "exampleVi": "Nhóm phân tích xem xét quản trị quyền hạn và quy tắc sử dụng dữ liệu trước khi công bố tập dữ liệu bán hàng."
   },
   {
@@ -2044,7 +2044,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "kiểm soát quyền truy cập",
-    "example": "The security review examined access control before approving access to customer records.",
+    "example": "The security review examined the access control before approving access to customer records.",
     "exampleVi": "Buổi rà soát bảo mật xem xét kiểm soát quyền truy cập trước khi phê duyệt truy cập hồ sơ khách hàng."
   },
   {
@@ -2052,7 +2052,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "kiểm soát truy cập dựa trên vai trò",
-    "example": "The security team discussed role based access control during the incident review.",
+    "example": "The security team discussed the role based access control during the incident review.",
     "exampleVi": "Nhóm bảo mật thảo luận về kiểm soát truy cập dựa trên vai trò trong buổi rà soát sự cố."
   },
   {
@@ -2060,7 +2060,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "kiểm soát truy cập dựa trên thuộc tính",
-    "example": "The security review examined attribute based access control before approving access to customer records.",
+    "example": "The security review examined the attribute based access control before approving access to customer records.",
     "exampleVi": "Buổi rà soát bảo mật xem xét kiểm soát truy cập dựa trên thuộc tính trước khi phê duyệt truy cập hồ sơ khách hàng."
   },
   {
@@ -2068,7 +2068,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "thuật toán mã hóa thông tin",
-    "example": "The security team discussed cipher during the incident review.",
+    "example": "The security team discussed the cipher during the incident review.",
     "exampleVi": "Nhóm bảo mật thảo luận về thuật toán mã hóa thông tin trong buổi rà soát sự cố."
   },
   {
@@ -2084,7 +2084,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "mô hình không mặc định tin cậy truy cập",
-    "example": "The security review examined zero trust before approving access to customer records.",
+    "example": "The security review examined the zero trust before approving access to customer records.",
     "exampleVi": "Buổi rà soát bảo mật xem xét mô hình không mặc định tin cậy truy cập trước khi phê duyệt truy cập hồ sơ khách hàng."
   },
   {
@@ -2092,7 +2092,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "bảo vệ bằng nhiều lớp kiểm soát",
-    "example": "The security team discussed defense in depth during the incident review.",
+    "example": "The security team discussed the defense in depth during the incident review.",
     "exampleVi": "Nhóm bảo mật thảo luận về bảo vệ bằng nhiều lớp kiểm soát trong buổi rà soát sự cố."
   },
   {
@@ -2100,7 +2100,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "ranh giới áp dụng kiểm soát bảo mật",
-    "example": "The security review examined security perimeter before approving access to customer records.",
+    "example": "The security review examined the security perimeter before approving access to customer records.",
     "exampleVi": "Buổi rà soát bảo mật xem xét ranh giới áp dụng kiểm soát bảo mật trước khi phê duyệt truy cập hồ sơ khách hàng."
   },
   {
@@ -2108,7 +2108,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "con đường hoặc phương thức thực hiện tấn công",
-    "example": "The security team discussed attack vector during the incident review.",
+    "example": "The security team discussed the attack vector during the incident review.",
     "exampleVi": "Nhóm bảo mật thảo luận về con đường hoặc phương thức thực hiện tấn công trong buổi rà soát sự cố."
   },
   {
@@ -2116,7 +2116,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "tấn công khai thác thông tin từ đặc tính phụ của hệ thống",
-    "example": "The security review examined side channel attack before approving access to customer records.",
+    "example": "The security review examined the side channel attack before approving access to customer records.",
     "exampleVi": "Buổi rà soát bảo mật xem xét tấn công khai thác thông tin từ đặc tính phụ của hệ thống trước khi phê duyệt truy cập hồ sơ khách hàng."
   },
   {
@@ -2124,7 +2124,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "cá nhân hoặc nhóm thực hiện hành vi đe dọa",
-    "example": "The security team discussed threat actor during the incident review.",
+    "example": "The security team discussed the threat actor during the incident review.",
     "exampleVi": "Nhóm bảo mật thảo luận về cá nhân hoặc nhóm thực hiện hành vi đe dọa trong buổi rà soát sự cố."
   },
   {
@@ -2132,7 +2132,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "thông tin được phân tích về mối đe dọa",
-    "example": "The security review examined threat intelligence before approving access to customer records.",
+    "example": "The security review examined the threat intelligence before approving access to customer records.",
     "exampleVi": "Buổi rà soát bảo mật xem xét thông tin được phân tích về mối đe dọa trước khi phê duyệt truy cập hồ sơ khách hàng."
   },
   {
@@ -2140,7 +2140,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "đánh giá các điểm yếu bảo mật",
-    "example": "The security team discussed vulnerability assessment during the incident review.",
+    "example": "The security team discussed the vulnerability assessment during the incident review.",
     "exampleVi": "Nhóm bảo mật thảo luận về đánh giá các điểm yếu bảo mật trong buổi rà soát sự cố."
   },
   {
@@ -2148,7 +2148,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "kiểm thử xâm nhập có cho phép",
-    "example": "The security review examined penetration testing before approving access to customer records.",
+    "example": "The security review examined the penetration testing before approving access to customer records.",
     "exampleVi": "Buổi rà soát bảo mật xem xét kiểm thử xâm nhập có cho phép trước khi phê duyệt truy cập hồ sơ khách hàng."
   },
   {
@@ -2156,7 +2156,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "trạng thái và năng lực bảo mật tổng thể",
-    "example": "The security team discussed security posture during the incident review.",
+    "example": "The security team discussed the security posture during the incident review.",
     "exampleVi": "Nhóm bảo mật thảo luận về trạng thái và năng lực bảo mật tổng thể trong buổi rà soát sự cố."
   },
   {
@@ -2164,7 +2164,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "cấu hình bảo mật tối thiểu làm chuẩn",
-    "example": "The security review examined security baseline before approving access to customer records.",
+    "example": "The security review examined the security baseline before approving access to customer records.",
     "exampleVi": "Buổi rà soát bảo mật xem xét cấu hình bảo mật tối thiểu làm chuẩn trước khi phê duyệt truy cập hồ sơ khách hàng."
   },
   {
@@ -2172,7 +2172,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "chính sách bảo mật",
-    "example": "The security team discussed security policy during the incident review.",
+    "example": "The security team discussed the security policy during the incident review.",
     "exampleVi": "Nhóm bảo mật thảo luận về chính sách bảo mật trong buổi rà soát sự cố."
   },
   {
@@ -2180,7 +2180,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "biện pháp kiểm soát an toàn thông tin",
-    "example": "The security review examined security control before approving access to customer records.",
+    "example": "The security review examined the security control before approving access to customer records.",
     "exampleVi": "Buổi rà soát bảo mật xem xét biện pháp kiểm soát an toàn thông tin trước khi phê duyệt truy cập hồ sơ khách hàng."
   },
   {
@@ -2188,7 +2188,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "bản vá lỗi bảo mật",
-    "example": "The security team discussed security patch during the incident review.",
+    "example": "The security team discussed the security patch during the incident review.",
     "exampleVi": "Nhóm bảo mật thảo luận về bản vá lỗi bảo mật trong buổi rà soát sự cố."
   },
   {
@@ -2196,7 +2196,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "sự cố an toàn thông tin",
-    "example": "The security review examined security incident before approving access to customer records.",
+    "example": "The security review examined the security incident before approving access to customer records.",
     "exampleVi": "Buổi rà soát bảo mật xem xét sự cố an toàn thông tin trước khi phê duyệt truy cập hồ sơ khách hàng."
   },
   {
@@ -2204,7 +2204,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "ứng phó và xử lý sự cố",
-    "example": "The security team discussed incident response during the incident review.",
+    "example": "The security team discussed the incident response during the incident review.",
     "exampleVi": "Nhóm bảo mật thảo luận về ứng phó và xử lý sự cố trong buổi rà soát sự cố."
   },
   {
@@ -2212,7 +2212,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "điều tra chứng cứ số",
-    "example": "The security review examined digital forensics before approving access to customer records.",
+    "example": "The security review examined the digital forensics before approving access to customer records.",
     "exampleVi": "Buổi rà soát bảo mật xem xét điều tra chứng cứ số trước khi phê duyệt truy cập hồ sơ khách hàng."
   },
   {
@@ -2220,7 +2220,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "dấu vết ghi lại các hoạt động để kiểm tra",
-    "example": "The security team discussed audit trail during the incident review.",
+    "example": "The security team discussed the audit trail during the incident review.",
     "exampleVi": "Nhóm bảo mật thảo luận về dấu vết ghi lại các hoạt động để kiểm tra trong buổi rà soát sự cố."
   },
   {
@@ -2228,7 +2228,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "phát hiện hành vi xâm nhập",
-    "example": "The security review examined intrusion detection before approving access to customer records.",
+    "example": "The security review examined the intrusion detection before approving access to customer records.",
     "exampleVi": "Buổi rà soát bảo mật xem xét phát hiện hành vi xâm nhập trước khi phê duyệt truy cập hồ sơ khách hàng."
   },
   {
@@ -2236,7 +2236,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "ngăn chặn hành vi xâm nhập",
-    "example": "The security team discussed intrusion prevention during the incident review.",
+    "example": "The security team discussed the intrusion prevention during the incident review.",
     "exampleVi": "Nhóm bảo mật thảo luận về ngăn chặn hành vi xâm nhập trong buổi rà soát sự cố."
   },
   {
@@ -2244,7 +2244,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "bảo vệ thiết bị đầu cuối",
-    "example": "The security review examined endpoint protection before approving access to customer records.",
+    "example": "The security review examined the endpoint protection before approving access to customer records.",
     "exampleVi": "Buổi rà soát bảo mật xem xét bảo vệ thiết bị đầu cuối trước khi phê duyệt truy cập hồ sơ khách hàng."
   },
   {
@@ -2252,7 +2252,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "mã hóa dùng cùng khóa để mã hóa và giải mã",
-    "example": "Our security documentation explains symmetric encryption for the encrypted messaging service.",
+    "example": "Our security documentation explains the symmetric encryption for the encrypted messaging service.",
     "exampleVi": "Tài liệu bảo mật giải thích mã hóa dùng cùng khóa để mã hóa và giải mã cho dịch vụ nhắn tin mã hóa."
   },
   {
@@ -2260,7 +2260,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "mã hóa dùng cặp khóa công khai và riêng",
-    "example": "The cryptography review identified a problem involving asymmetric encryption.",
+    "example": "The cryptography review identified a problem involving the asymmetric encryption.",
     "exampleVi": "Buổi rà soát mật mã phát hiện một vấn đề liên quan đến mã hóa dùng cặp khóa công khai và riêng."
   },
   {
@@ -2268,7 +2268,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "khóa công khai trong hệ mã bất đối xứng",
-    "example": "Our security documentation explains public key for the encrypted messaging service.",
+    "example": "Our security documentation explains the public key for the encrypted messaging service.",
     "exampleVi": "Tài liệu bảo mật giải thích khóa công khai trong hệ mã bất đối xứng cho dịch vụ nhắn tin mã hóa."
   },
   {
@@ -2276,7 +2276,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "khóa riêng cần giữ bí mật",
-    "example": "The cryptography review identified a problem involving private key.",
+    "example": "The cryptography review identified a problem involving the private key.",
     "exampleVi": "Buổi rà soát mật mã phát hiện một vấn đề liên quan đến khóa riêng cần giữ bí mật."
   },
   {
@@ -2284,7 +2284,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "khóa dùng cho một phiên giao tiếp",
-    "example": "Our security documentation explains session key for the encrypted messaging service.",
+    "example": "Our security documentation explains the session key for the encrypted messaging service.",
     "exampleVi": "Tài liệu bảo mật giải thích khóa dùng cho một phiên giao tiếp cho dịch vụ nhắn tin mã hóa."
   },
   {
@@ -2292,7 +2292,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "trao đổi hoặc thiết lập khóa mật mã",
-    "example": "The cryptography review identified a problem involving key exchange.",
+    "example": "The cryptography review identified a problem involving the key exchange.",
     "exampleVi": "Buổi rà soát mật mã phát hiện một vấn đề liên quan đến trao đổi hoặc thiết lập khóa mật mã."
   },
   {
@@ -2300,7 +2300,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "thay đổi khóa theo chu kỳ hoặc sự kiện",
-    "example": "Our security documentation explains key rotation for the encrypted messaging service.",
+    "example": "Our security documentation explains the key rotation for the encrypted messaging service.",
     "exampleVi": "Tài liệu bảo mật giải thích thay đổi khóa theo chu kỳ hoặc sự kiện cho dịch vụ nhắn tin mã hóa."
   },
   {
@@ -2308,7 +2308,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "tạo khóa từ vật liệu đầu vào",
-    "example": "The cryptography review identified a problem involving key derivation.",
+    "example": "The cryptography review identified a problem involving the key derivation.",
     "exampleVi": "Buổi rà soát mật mã phát hiện một vấn đề liên quan đến tạo khóa từ vật liệu đầu vào."
   },
   {
@@ -2316,7 +2316,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "quản lý vòng đời khóa mật mã",
-    "example": "Our security documentation explains key management for the encrypted messaging service.",
+    "example": "Our security documentation explains the key management for the encrypted messaging service.",
     "exampleVi": "Tài liệu bảo mật giải thích quản lý vòng đời khóa mật mã cho dịch vụ nhắn tin mã hóa."
   },
   {
@@ -2324,7 +2324,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "chữ ký số dùng để xác minh nguồn và tính toàn vẹn",
-    "example": "The cryptography review identified a problem involving digital signature.",
+    "example": "The cryptography review identified a problem involving the digital signature.",
     "exampleVi": "Buổi rà soát mật mã phát hiện một vấn đề liên quan đến chữ ký số dùng để xác minh nguồn và tính toàn vẹn."
   },
   {
@@ -2332,7 +2332,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "tổ chức cấp và xác thực chứng thư số",
-    "example": "Our security documentation explains certificate authority for the encrypted messaging service.",
+    "example": "Our security documentation explains the certificate authority for the encrypted messaging service.",
     "exampleVi": "Tài liệu bảo mật giải thích tổ chức cấp và xác thực chứng thư số cho dịch vụ nhắn tin mã hóa."
   },
   {
@@ -2340,7 +2340,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "chuỗi chứng thư nối tới nguồn tin cậy",
-    "example": "The cryptography review identified a problem involving certificate chain.",
+    "example": "The cryptography review identified a problem involving the certificate chain.",
     "exampleVi": "Buổi rà soát mật mã phát hiện một vấn đề liên quan đến chuỗi chứng thư nối tới nguồn tin cậy."
   },
   {
@@ -2348,7 +2348,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "thu hồi hiệu lực chứng thư số",
-    "example": "Our security documentation explains certificate revocation for the encrypted messaging service.",
+    "example": "Our security documentation explains the certificate revocation for the encrypted messaging service.",
     "exampleVi": "Tài liệu bảo mật giải thích thu hồi hiệu lực chứng thư số cho dịch vụ nhắn tin mã hóa."
   },
   {
@@ -2356,7 +2356,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "kiểm tra tính hợp lệ và tin cậy của chứng thư",
-    "example": "The cryptography review identified a problem involving certificate validation.",
+    "example": "The cryptography review identified a problem involving the certificate validation.",
     "exampleVi": "Buổi rà soát mật mã phát hiện một vấn đề liên quan đến kiểm tra tính hợp lệ và tin cậy của chứng thư."
   },
   {
@@ -2372,7 +2372,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "trường hợp hai đầu vào có cùng giá trị băm",
-    "example": "The cryptography review identified a problem involving hash collision.",
+    "example": "The cryptography review identified a problem involving the hash collision.",
     "exampleVi": "Buổi rà soát mật mã phát hiện một vấn đề liên quan đến trường hợp hai đầu vào có cùng giá trị băm."
   },
   {
@@ -2380,7 +2380,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "mã kiểm tra tính toàn vẹn và xác thực thông điệp",
-    "example": "Our security documentation explains message authentication code for the encrypted messaging service.",
+    "example": "Our security documentation explains the message authentication code for the encrypted messaging service.",
     "exampleVi": "Tài liệu bảo mật giải thích mã kiểm tra tính toàn vẹn và xác thực thông điệp cho dịch vụ nhắn tin mã hóa."
   },
   {
@@ -2388,7 +2388,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "mã hóa có kiểm tra tính xác thực và toàn vẹn",
-    "example": "The cryptography review identified a problem involving authenticated encryption.",
+    "example": "The cryptography review identified a problem involving the authenticated encryption.",
     "exampleVi": "Buổi rà soát mật mã phát hiện một vấn đề liên quan đến mã hóa có kiểm tra tính xác thực và toàn vẹn."
   },
   {
@@ -2396,7 +2396,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "mã hóa chỉ các đầu cuối đọc được nội dung",
-    "example": "Our security documentation explains end to end encryption for the encrypted messaging service.",
+    "example": "Our security documentation explains the end to end encryption for the encrypted messaging service.",
     "exampleVi": "Tài liệu bảo mật giải thích mã hóa chỉ các đầu cuối đọc được nội dung cho dịch vụ nhắn tin mã hóa."
   },
   {
@@ -2404,7 +2404,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "mã hóa dữ liệu khi lưu trữ",
-    "example": "The cryptography review identified a problem involving encryption at rest.",
+    "example": "The cryptography review identified a problem involving the encryption at rest.",
     "exampleVi": "Buổi rà soát mật mã phát hiện một vấn đề liên quan đến mã hóa dữ liệu khi lưu trữ."
   },
   {
@@ -2412,7 +2412,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "mã hóa dữ liệu khi truyền",
-    "example": "Our security documentation explains encryption in transit for the encrypted messaging service.",
+    "example": "Our security documentation explains the encryption in transit for the encrypted messaging service.",
     "exampleVi": "Tài liệu bảo mật giải thích mã hóa dữ liệu khi truyền cho dịch vụ nhắn tin mã hóa."
   },
   {
@@ -2420,7 +2420,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "thiết bị bảo vệ và xử lý khóa mật mã",
-    "example": "The cryptography review identified a problem involving hardware security module.",
+    "example": "The cryptography review identified a problem involving the hardware security module.",
     "exampleVi": "Buổi rà soát mật mã phát hiện một vấn đề liên quan đến thiết bị bảo vệ và xử lý khóa mật mã."
   },
   {
@@ -2428,7 +2428,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "vùng thực thi cách ly được bảo vệ",
-    "example": "Our security documentation explains secure enclave for the encrypted messaging service.",
+    "example": "Our security documentation explains the secure enclave for the encrypted messaging service.",
     "exampleVi": "Tài liệu bảo mật giải thích vùng thực thi cách ly được bảo vệ cho dịch vụ nhắn tin mã hóa."
   },
   {
@@ -2436,7 +2436,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "băm mật khẩu để lưu dạng kiểm chứng",
-    "example": "The cryptography review identified a problem involving password hashing.",
+    "example": "The cryptography review identified a problem involving the password hashing.",
     "exampleVi": "Buổi rà soát mật mã phát hiện một vấn đề liên quan đến băm mật khẩu để lưu dạng kiểm chứng."
   },
   {
@@ -2444,7 +2444,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "giá trị băm có thêm dữ liệu ngẫu nhiên riêng",
-    "example": "Our security documentation explains salted hash for the encrypted messaging service.",
+    "example": "Our security documentation explains the salted hash for the encrypted messaging service.",
     "exampleVi": "Tài liệu bảo mật giải thích giá trị băm có thêm dữ liệu ngẫu nhiên riêng cho dịch vụ nhắn tin mã hóa."
   },
   {
@@ -2452,7 +2452,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "học máy",
-    "example": "The experiment report describes machine learning and its effect on model quality.",
+    "example": "The experiment report describes the machine learning and its effect on model quality.",
     "exampleVi": "Báo cáo thí nghiệm mô tả học máy và tác động đến chất lượng mô hình."
   },
   {
@@ -2460,7 +2460,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "học máy từ dữ liệu có nhãn",
-    "example": "Researchers examined supervised learning while comparing the two prediction systems.",
+    "example": "Researchers examined the supervised learning while comparing the two prediction systems.",
     "exampleVi": "Các nhà nghiên cứu xem xét học máy từ dữ liệu có nhãn khi so sánh hai hệ thống dự đoán."
   },
   {
@@ -2468,7 +2468,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "học máy từ dữ liệu không có nhãn mục tiêu",
-    "example": "The experiment report describes unsupervised learning and its effect on model quality.",
+    "example": "The experiment report describes the unsupervised learning and its effect on model quality.",
     "exampleVi": "Báo cáo thí nghiệm mô tả học máy từ dữ liệu không có nhãn mục tiêu và tác động đến chất lượng mô hình."
   },
   {
@@ -2476,7 +2476,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "học tăng cường dựa trên phần thưởng",
-    "example": "Researchers examined reinforcement learning while comparing the two prediction systems.",
+    "example": "Researchers examined the reinforcement learning while comparing the two prediction systems.",
     "exampleVi": "Các nhà nghiên cứu xem xét học tăng cường dựa trên phần thưởng khi so sánh hai hệ thống dự đoán."
   },
   {
@@ -2484,7 +2484,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "tập dữ liệu huấn luyện",
-    "example": "The experiment report describes training dataset and its effect on model quality.",
+    "example": "The experiment report describes the training dataset and its effect on model quality.",
     "exampleVi": "Báo cáo thí nghiệm mô tả tập dữ liệu huấn luyện và tác động đến chất lượng mô hình."
   },
   {
@@ -2492,7 +2492,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "tập dữ liệu kiểm tra trong quá trình chọn mô hình",
-    "example": "Researchers examined validation dataset while comparing the two prediction systems.",
+    "example": "Researchers examined the validation dataset while comparing the two prediction systems.",
     "exampleVi": "Các nhà nghiên cứu xem xét tập dữ liệu kiểm tra trong quá trình chọn mô hình khi so sánh hai hệ thống dự đoán."
   },
   {
@@ -2500,7 +2500,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "tập dữ liệu đánh giá độc lập sau huấn luyện",
-    "example": "The experiment report describes test dataset and its effect on model quality.",
+    "example": "The experiment report describes the test dataset and its effect on model quality.",
     "exampleVi": "Báo cáo thí nghiệm mô tả tập dữ liệu đánh giá độc lập sau huấn luyện và tác động đến chất lượng mô hình."
   },
   {
@@ -2548,7 +2548,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "học máy dùng mạng nơ ron nhiều lớp",
-    "example": "Researchers examined deep learning while comparing the two prediction systems.",
+    "example": "Researchers examined the deep learning while comparing the two prediction systems.",
     "exampleVi": "Các nhà nghiên cứu xem xét học máy dùng mạng nơ ron nhiều lớp khi so sánh hai hệ thống dự đoán."
   },
   {
@@ -2556,7 +2556,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "hàm đo sai lệch để tối ưu mô hình",
-    "example": "The experiment report describes loss function and its effect on model quality.",
+    "example": "The experiment report describes the loss function and its effect on model quality.",
     "exampleVi": "Báo cáo thí nghiệm mô tả hàm đo sai lệch để tối ưu mô hình và tác động đến chất lượng mô hình."
   },
   {
@@ -2564,7 +2564,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "phương pháp tối ưu bằng đi theo hướng giảm gradient",
-    "example": "Researchers examined gradient descent while comparing the two prediction systems.",
+    "example": "Researchers examined the gradient descent while comparing the two prediction systems.",
     "exampleVi": "Các nhà nghiên cứu xem xét phương pháp tối ưu bằng đi theo hướng giảm gradient khi so sánh hai hệ thống dự đoán."
   },
   {
@@ -2580,7 +2580,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "số mẫu xử lý trong một lượt cập nhật",
-    "example": "Researchers examined batch size while comparing the two prediction systems.",
+    "example": "Researchers examined the batch size while comparing the two prediction systems.",
     "exampleVi": "Các nhà nghiên cứu xem xét số mẫu xử lý trong một lượt cập nhật khi so sánh hai hệ thống dự đoán."
   },
   {
@@ -2588,7 +2588,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "điều chỉnh siêu tham số của mô hình",
-    "example": "The experiment report describes hyperparameter tuning and its effect on model quality.",
+    "example": "The experiment report describes the hyperparameter tuning and its effect on model quality.",
     "exampleVi": "Báo cáo thí nghiệm mô tả điều chỉnh siêu tham số của mô hình và tác động đến chất lượng mô hình."
   },
   {
@@ -2596,7 +2596,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "đánh giá bằng nhiều cách chia dữ liệu",
-    "example": "Researchers examined cross validation while comparing the two prediction systems.",
+    "example": "Researchers examined the cross validation while comparing the two prediction systems.",
     "exampleVi": "Các nhà nghiên cứu xem xét đánh giá bằng nhiều cách chia dữ liệu khi so sánh hai hệ thống dự đoán."
   },
   {
@@ -2604,7 +2604,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "mất cân bằng số mẫu giữa các lớp",
-    "example": "The experiment report describes class imbalance and its effect on model quality.",
+    "example": "The experiment report describes the class imbalance and its effect on model quality.",
     "exampleVi": "Báo cáo thí nghiệm mô tả mất cân bằng số mẫu giữa các lớp và tác động đến chất lượng mô hình."
   },
   {
@@ -2612,7 +2612,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "bảng đối chiếu nhãn dự đoán với nhãn thực",
-    "example": "Researchers examined confusion matrix while comparing the two prediction systems.",
+    "example": "Researchers examined the confusion matrix while comparing the two prediction systems.",
     "exampleVi": "Các nhà nghiên cứu xem xét bảng đối chiếu nhãn dự đoán với nhãn thực khi so sánh hai hệ thống dự đoán."
   },
   {
@@ -2620,7 +2620,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "tỷ lệ dự đoán dương tính đúng trong các dự đoán dương tính",
-    "example": "The experiment report describes precision score and its effect on model quality.",
+    "example": "The experiment report describes the precision score and its effect on model quality.",
     "exampleVi": "Báo cáo thí nghiệm mô tả tỷ lệ dự đoán dương tính đúng trong các dự đoán dương tính và tác động đến chất lượng mô hình."
   },
   {
@@ -2628,7 +2628,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "tỷ lệ tìm được mẫu dương tính trong các mẫu dương tính thực",
-    "example": "Researchers examined recall score while comparing the two prediction systems.",
+    "example": "Researchers examined the recall score while comparing the two prediction systems.",
     "exampleVi": "Các nhà nghiên cứu xem xét tỷ lệ tìm được mẫu dương tính trong các mẫu dương tính thực khi so sánh hai hệ thống dự đoán."
   },
   {
@@ -2636,7 +2636,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "sự thay đổi khiến chất lượng mô hình suy giảm theo thời gian",
-    "example": "The experiment report describes model drift and its effect on model quality.",
+    "example": "The experiment report describes the model drift and its effect on model quality.",
     "exampleVi": "Báo cáo thí nghiệm mô tả sự thay đổi khiến chất lượng mô hình suy giảm theo thời gian và tác động đến chất lượng mô hình."
   },
   {
@@ -2644,7 +2644,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "sự thay đổi quan hệ giữa đầu vào và mục tiêu",
-    "example": "Researchers examined concept drift while comparing the two prediction systems.",
+    "example": "Researchers examined the concept drift while comparing the two prediction systems.",
     "exampleVi": "Các nhà nghiên cứu xem xét sự thay đổi quan hệ giữa đầu vào và mục tiêu khi so sánh hai hệ thống dự đoán."
   },
   {
@@ -2652,7 +2652,7 @@
     "sourceGroup": "professional-reading",
     "pos": "noun",
     "meaningVi": "học chuyển giao từ mô hình đã huấn luyện",
-    "example": "The experiment report describes transfer learning and its effect on model quality.",
+    "example": "The experiment report describes the transfer learning and its effect on model quality.",
     "exampleVi": "Báo cáo thí nghiệm mô tả học chuyển giao từ mô hình đã huấn luyện và tác động đến chất lượng mô hình."
   },
   {

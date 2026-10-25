@@ -968,12 +968,28 @@
     "exampleVi": "Họ thống nhất một cơ chế theo đó thì chi phí được chia đều."
   },
   {
+    "word": "double",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "tăng gấp đôi",
+    "example": "The number of cars on the road doubled in fifteen years.",
+    "exampleVi": "Số ô tô lưu thông tăng gấp đôi trong mười lăm năm."
+  },
+  {
     "word": "increase",
     "sourceGroup": "reviewed",
     "pos": "verb",
     "meaningVi": "tăng, làm tăng",
     "example": "The number of visitors increased steadily between 2010 and 2015.",
     "exampleVi": "Số lượng khách tham quan tăng đều đặn trong giai đoạn 2010 đến 2015."
+  },
+  {
+    "word": "quadruple",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "tăng gấp bốn",
+    "example": "Data traffic quadrupled once the network was upgraded.",
+    "exampleVi": "Lưu lượng dữ liệu tăng gấp bốn sau khi mạng được nâng cấp."
   },
   {
     "word": "carbon",
@@ -1182,6 +1198,14 @@
     "meaningVi": "bộ phận nối hai chi tiết cơ khí",
     "example": "The mechanic replaced the coupling between the two shafts.",
     "exampleVi": "Thợ máy thay khớp nối giữa hai trục."
+  },
+  {
+    "word": "dark launch",
+    "sourceGroup": "reviewed",
+    "pos": "noun",
+    "meaningVi": "chạy ngầm chưa lộ cho người dùng",
+    "example": "A dark launch lets us test the new engine without showing it to users.",
+    "exampleVi": "Một lần triển khai chạy ngầm cho phép chúng tôi kiểm tra bộ máy xử lý mới mà chưa hiển thị cho người dùng."
   },
   {
     "word": "drain",
@@ -1886,6 +1910,22 @@
     "meaningVi": "chính đáng, hợp pháp",
     "example": "That is a legitimate concern.",
     "exampleVi": "Đó là một mối lo chính đáng."
+  },
+  {
+    "word": "mature",
+    "sourceGroup": "reviewed",
+    "pos": "adjective",
+    "meaningVi": "trưởng thành, chín chắn",
+    "example": "He is very mature for his age.",
+    "exampleVi": "Cậu ấy rất chín chắn so với tuổi."
+  },
+  {
+    "word": "mature",
+    "sourceGroup": "reviewed",
+    "pos": "verb",
+    "meaningVi": "đáo hạn (trái phiếu, khoản vay)",
+    "example": "The bond matures in five years.",
+    "exampleVi": "Trái phiếu đáo hạn sau năm năm."
   },
   {
     "word": "mediate",

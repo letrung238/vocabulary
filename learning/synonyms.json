@@ -683,6 +683,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "adapter",
+    "pos": "noun",
+    "meaningVi": "bộ chuyển đổi đầu cắm",
+    "synonyms": [
+      "adaptor"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "adaptive sync",
     "pos": "noun",
     "meaningVi": "đồng bộ tần số màn hình theo nguồn khung hình",
@@ -800,6 +810,16 @@
     "meaningVi": "đầy đủ; đạt mức cần thiết",
     "synonyms": [
       "sufficiently"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "adhesive",
+    "pos": "noun",
+    "meaningVi": "chất kết dính",
+    "synonyms": [
+      "glue"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -1172,6 +1192,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "aftershock",
+    "pos": "noun",
+    "meaningVi": "dư chấn sau động đất",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "afterwards",
     "pos": "adverb",
     "meaningVi": "sau đó",
@@ -1534,6 +1562,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "aloof",
+    "pos": "adjective",
+    "meaningVi": "xa cách; không thân thiện",
+    "synonyms": [
+      "distant"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "alter",
     "pos": "verb",
     "meaningVi": "làm thay đổi đi",
@@ -1826,6 +1864,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "anchovy",
+    "pos": "noun",
+    "meaningVi": "cá cơm",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "ancient",
     "pos": "adjective",
     "meaningVi": "cổ xưa",
@@ -2043,6 +2089,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "antelope",
+    "pos": "noun",
+    "meaningVi": "linh dương",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "antenna array",
     "pos": "noun",
     "meaningVi": "cụm nhiều ăng ten hoạt động phối hợp",
@@ -2156,6 +2210,16 @@
     "meaningVi": "mong mỏi một điều hoặc lo cho ai",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "apathetic",
+    "pos": "adjective",
+    "meaningVi": "thờ ơ; không quan tâm",
+    "synonyms": [
+      "indifferent"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -2394,6 +2458,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "apprehensive",
+    "pos": "adjective",
+    "meaningVi": "lo ngại về điều sắp xảy ra",
+    "synonyms": [
+      "anxious"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "apprenticeship",
     "pos": "noun",
     "meaningVi": "chế độ học việc",
@@ -2407,6 +2481,16 @@
     "meaningVi": "cách tiếp cận",
     "synonyms": [
       "method"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "approachable",
+    "pos": "adjective",
+    "meaningVi": "dễ gần; dễ trao đổi",
+    "synonyms": [
+      "friendly"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -2481,6 +2565,14 @@
     "source": "existing-editorial"
   },
   {
+    "word": "apricot",
+    "pos": "noun",
+    "meaningVi": "quả mơ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "apron",
     "pos": "noun",
     "meaningVi": "tạp dề",
@@ -2532,6 +2624,16 @@
     "meaningVi": "thuộc Bắc Cực, Bắc Cực",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "ardent",
+    "pos": "adjective",
+    "meaningVi": "nồng nhiệt; đầy nhiệt huyết",
+    "synonyms": [
+      "passionate"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -2732,6 +2834,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "artichoke",
+    "pos": "noun",
+    "meaningVi": "a ti sô; atisô",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "articulate",
     "pos": "verb",
     "meaningVi": "diễn đạt rõ ràng",
@@ -2828,6 +2938,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "ashtray",
+    "pos": "noun",
+    "meaningVi": "gạt tàn thuốc lá",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "aside",
     "pos": "adverb",
     "meaningVi": "sang một bên; để riêng",
@@ -2871,6 +2989,14 @@
       "request"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "asparagus",
+    "pos": "noun",
+    "meaningVi": "măng tây",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -3148,6 +3274,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "astute",
+    "pos": "adjective",
+    "meaningVi": "sắc sảo trong nhận xét hoặc đánh giá",
+    "synonyms": [
+      "shrewd"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "asymmetric encryption",
     "pos": "noun",
     "meaningVi": "mã hóa dùng cặp khóa công khai và riêng",
@@ -3348,6 +3484,24 @@
     "word": "attention mechanism",
     "pos": "noun",
     "meaningVi": "cơ chế tính mức liên quan giữa các phần dữ liệu",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "attentive",
+    "pos": "adjective",
+    "meaningVi": "chú tâm; để ý chăm sóc hoặc lắng nghe",
+    "synonyms": [
+      "considerate"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "attic",
+    "pos": "noun",
+    "meaningVi": "gác mái",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -3677,6 +3831,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "avalanche",
+    "pos": "noun",
+    "meaningVi": "tuyết lở",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "avenue",
     "pos": "noun",
     "meaningVi": "đại lộ",
@@ -3971,6 +4133,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "badger",
+    "pos": "noun",
+    "meaningVi": "con lửng",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "baggage allowance",
     "pos": "noun",
     "meaningVi": "mức hành lý cho phép",
@@ -3992,6 +4162,16 @@
     "meaningVi": "khu nhận hành lý",
     "synonyms": [
       "baggage reclaim"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "baggy",
+    "pos": "adjective",
+    "meaningVi": "rộng thùng thình, thường nói về quần áo",
+    "synonyms": [
+      "loose"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -4137,6 +4317,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "banister",
+    "pos": "noun",
+    "meaningVi": "tay vịn cầu thang",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "bank reconciliation",
     "pos": "noun",
     "meaningVi": "đối chiếu sổ kế toán với ngân hàng",
@@ -4186,6 +4374,14 @@
       "insolvency"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "barbecue",
+    "pos": "noun",
+    "meaningVi": "bếp nướng ngoài trời",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -4293,6 +4489,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "bashful",
+    "pos": "adjective",
+    "meaningVi": "e thẹn; ngượng ngùng",
+    "synonyms": [
+      "shy"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "basically",
     "pos": "adverb",
     "meaningVi": "về cơ bản",
@@ -4300,6 +4506,22 @@
       "fundamentally"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "basil",
+    "pos": "noun",
+    "meaningVi": "húng quế tây; rau basil",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "basin",
+    "pos": "noun",
+    "meaningVi": "chậu hoặc bồn có lòng sâu",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -4316,6 +4538,14 @@
     "word": "basket",
     "pos": "noun",
     "meaningVi": "giỏ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "baste",
+    "pos": "verb",
+    "meaningVi": "rưới mỡ hoặc nước xốt lên thức ăn đang nướng",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -4379,6 +4609,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "battery",
+    "pos": "noun",
+    "meaningVi": "pin; ắc quy",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "battery capacity",
     "pos": "noun",
     "meaningVi": "dung lượng pin",
@@ -4437,6 +4675,22 @@
     "source": "gpt-edited"
   },
   {
+    "word": "beaver",
+    "pos": "noun",
+    "meaningVi": "hải ly",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "beckon",
+    "pos": "verb",
+    "meaningVi": "ra hiệu bằng tay hoặc đầu để gọi ai đến",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "become",
     "pos": "verb",
     "meaningVi": "trở nên",
@@ -4468,6 +4722,14 @@
       "nightstand"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "bedspread",
+    "pos": "noun",
+    "meaningVi": "khăn hoặc chăn phủ giường",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -4512,6 +4774,16 @@
     "meaningVi": "sự tồn tại; hiện hữu",
     "synonyms": [
       "existence"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "belch",
+    "pos": "verb",
+    "meaningVi": "ợ hơi, thường thành tiếng lớn",
+    "synonyms": [
+      "burp"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -4572,6 +4844,14 @@
     "word": "belt",
     "pos": "noun",
     "meaningVi": "thắt lưng",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "bench",
+    "pos": "noun",
+    "meaningVi": "ghế dài",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -4745,6 +5025,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "bin",
+    "pos": "noun",
+    "meaningVi": "thùng chứa rác hoặc đồ vật",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "binary",
     "pos": "noun",
     "meaningVi": "tệp nhị phân",
@@ -4803,6 +5091,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "bison",
+    "pos": "noun",
+    "meaningVi": "bò rừng bison",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "bitter",
     "pos": "adjective",
     "meaningVi": "đắng, cay đắng",
@@ -4823,6 +5119,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "blackberry",
+    "pos": "noun",
+    "meaningVi": "quả mâm xôi đen",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "blade",
     "pos": "noun",
     "meaningVi": "lưỡi dao hoặc phần sắc của dụng cụ",
@@ -4838,6 +5142,14 @@
       "fault"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "blanch",
+    "pos": "verb",
+    "meaningVi": "chần nhanh thực phẩm trong nước sôi",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -4887,6 +5199,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "bleach",
+    "pos": "noun",
+    "meaningVi": "chất tẩy trắng",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "blend",
     "pos": "noun",
     "meaningVi": "sự pha trộn, sự hòa trộn",
@@ -4894,6 +5214,14 @@
       "mixture"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "blender",
+    "pos": "noun",
+    "meaningVi": "máy xay sinh tố",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -5003,11 +5331,29 @@
     "source": "gpt-edited"
   },
   {
+    "word": "blueberry",
+    "pos": "noun",
+    "meaningVi": "quả việt quất",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "bluetooth codec",
     "pos": "noun",
     "meaningVi": "bộ mã hóa và giải mã dữ liệu âm thanh qua Bluetooth",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "blunt",
+    "pos": "adjective",
+    "meaningVi": "thẳng thừng, đôi khi thiếu tế nhị",
+    "synonyms": [
+      "frank"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -5018,6 +5364,14 @@
       "smudge"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "boar",
+    "pos": "noun",
+    "meaningVi": "lợn rừng; lợn đực trưởng thành",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -5073,6 +5427,22 @@
     "source": "gpt-edited"
   },
   {
+    "word": "bobcat",
+    "pos": "noun",
+    "meaningVi": "linh miêu đuôi cộc Bắc Mỹ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "bog",
+    "pos": "noun",
+    "meaningVi": "đầm lầy than bùn",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "boilerplate",
     "pos": "noun",
     "meaningVi": "mã lặp khuôn mẫu",
@@ -5108,6 +5478,14 @@
       "brave"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "bolster",
+    "pos": "noun",
+    "meaningVi": "gối ôm dài",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -5153,6 +5531,16 @@
     "meaningVi": "sách",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "bookcase",
+    "pos": "noun",
+    "meaningVi": "tủ sách",
+    "synonyms": [
+      "bookshelf"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -5384,6 +5772,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "braise",
+    "pos": "verb",
+    "meaningVi": "om; nấu chậm với ít chất lỏng trong nồi đậy kín",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "branch",
     "pos": "noun",
     "meaningVi": "nhánh mã nguồn",
@@ -5461,6 +5857,16 @@
     "meaningVi": "mới tinh",
     "synonyms": [
       "new"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "brave",
+    "pos": "adjective",
+    "meaningVi": "dũng cảm",
+    "synonyms": [
+      "courageous"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -5645,6 +6051,16 @@
     "meaningVi": "bảng phân tích chi tiết",
     "synonyms": [
       "itemization"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "breaker",
+    "pos": "noun",
+    "meaningVi": "cầu dao ngắt mạch",
+    "synonyms": [
+      "circuit breaker"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -5924,6 +6340,24 @@
     "source": "gpt-edited"
   },
   {
+    "word": "brisket",
+    "pos": "noun",
+    "meaningVi": "thịt ức bò",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "brittle",
+    "pos": "adjective",
+    "meaningVi": "giòn; dễ gãy khi bị tác động",
+    "synonyms": [
+      "breakable"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "broad",
     "pos": "adjective",
     "meaningVi": "rộng",
@@ -5962,6 +6396,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "broccoli",
+    "pos": "noun",
+    "meaningVi": "bông cải xanh; súp lơ xanh",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "brochure",
     "pos": "noun",
     "meaningVi": "tập sách giới thiệu",
@@ -5972,11 +6414,39 @@
     "source": "gpt-edited"
   },
   {
+    "word": "broil",
+    "pos": "verb",
+    "meaningVi": "nướng thực phẩm bằng nguồn nhiệt trực tiếp từ phía trên",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "brook",
+    "pos": "noun",
+    "meaningVi": "suối nhỏ",
+    "synonyms": [
+      "stream"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "broom",
     "pos": "noun",
     "meaningVi": "chổi",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "broth",
+    "pos": "noun",
+    "meaningVi": "nước dùng; nước canh ninh",
+    "synonyms": [
+      "stock"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -6022,6 +6492,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "bucket",
+    "pos": "noun",
+    "meaningVi": "xô",
+    "synonyms": [
+      "pail"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "bud",
     "pos": "noun",
     "meaningVi": "búp; chồi",
@@ -6051,6 +6531,14 @@
     "word": "budget cut",
     "pos": "noun",
     "meaningVi": "việc cắt giảm ngân sách",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "buffalo",
+    "pos": "noun",
+    "meaningVi": "trâu; trâu rừng",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -6123,6 +6611,16 @@
     "meaningVi": "khả năng build ra kết quả giống hệt",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "bulb",
+    "pos": "noun",
+    "meaningVi": "bóng đèn",
+    "synonyms": [
+      "light bulb"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -6204,6 +6702,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "bunk",
+    "pos": "noun",
+    "meaningVi": "giường tầng hoặc giường ngủ hẹp",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "burden",
     "pos": "noun",
     "meaningVi": "gánh nặng",
@@ -6243,6 +6749,16 @@
     "meaningVi": "kiệt sức vì công việc",
     "synonyms": [
       "occupational burnout"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "burp",
+    "pos": "verb",
+    "meaningVi": "ợ hơi",
+    "synonyms": [
+      "belch"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -6491,6 +7007,14 @@
       "hum"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "cabbage",
+    "pos": "noun",
+    "meaningVi": "bắp cải",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -6813,6 +7337,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "candid",
+    "pos": "adjective",
+    "meaningVi": "thẳng thắn và cởi mở",
+    "synonyms": [
+      "frank"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "candidate",
     "pos": "noun",
     "meaningVi": "ứng viên",
@@ -6841,6 +7375,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "canister",
+    "pos": "noun",
+    "meaningVi": "hộp kín đựng thực phẩm hoặc đồ dùng",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "canon",
     "pos": "noun",
     "meaningVi": "quy tắc, quy điển (nghệ thuật, triết học)",
@@ -6848,6 +7390,22 @@
       "rule"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "cantaloupe",
+    "pos": "noun",
+    "meaningVi": "dưa lưới ruột cam",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "canyon",
+    "pos": "noun",
+    "meaningVi": "hẻm núi sâu có vách dốc",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -7011,6 +7569,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "caramelize",
+    "pos": "verb",
+    "meaningVi": "làm đường chuyển màu nâu vàng; thắng đường",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "caravan",
     "pos": "noun",
     "meaningVi": "thương đội",
@@ -7121,6 +7687,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "carefree",
+    "pos": "adjective",
+    "meaningVi": "vô tư; không lo lắng",
+    "synonyms": [
+      "untroubled"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "careful",
     "pos": "adjective",
     "meaningVi": "cẩn thận",
@@ -7180,6 +7756,14 @@
     "word": "carnival",
     "pos": "noun",
     "meaningVi": "lễ hội hóa trang hoặc lễ hội đường phố",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "carp",
+    "pos": "noun",
+    "meaningVi": "cá chép",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -7427,6 +8011,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "casserole",
+    "pos": "noun",
+    "meaningVi": "món hầm hoặc đút lò trong nồi sâu",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "cast",
     "pos": "noun",
     "meaningVi": "dàn diễn viên",
@@ -7515,6 +8107,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "cauliflower",
+    "pos": "noun",
+    "meaningVi": "bông cải trắng; súp lơ trắng",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "caution",
     "pos": "noun",
     "meaningVi": "sự thận trọng",
@@ -7571,6 +8171,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "celery",
+    "pos": "noun",
+    "meaningVi": "cần tây",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "cell",
     "pos": "noun",
     "meaningVi": "tế bào",
@@ -7579,9 +8187,25 @@
     "source": "gpt-edited"
   },
   {
+    "word": "cellar",
+    "pos": "noun",
+    "meaningVi": "hầm dưới nhà",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "cellular modem",
     "pos": "noun",
     "meaningVi": "mô đun kết nối mạng di động",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "cement",
+    "pos": "noun",
+    "meaningVi": "xi măng",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -8054,6 +8678,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "cheeky",
+    "pos": "adjective",
+    "meaningVi": "hơi xấc xược nhưng có thể gây thích thú",
+    "synonyms": [
+      "impudent"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "cheer",
     "pos": "verb",
     "meaningVi": "cổ vũ",
@@ -8082,6 +8716,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "cheetah",
+    "pos": "noun",
+    "meaningVi": "báo săn",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "chemical",
     "pos": "noun",
     "meaningVi": "hoá chất",
@@ -8101,6 +8743,14 @@
     "word": "chest",
     "pos": "noun",
     "meaningVi": "ngực",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "chestnut",
+    "pos": "noun",
+    "meaningVi": "hạt dẻ",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -8190,6 +8840,22 @@
     "source": "gpt-edited"
   },
   {
+    "word": "chipmunk",
+    "pos": "noun",
+    "meaningVi": "sóc chuột có sọc",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "chisel",
+    "pos": "noun",
+    "meaningVi": "cái đục",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "choir",
     "pos": "noun",
     "meaningVi": "dàn hợp xướng",
@@ -8197,6 +8863,14 @@
       "chorus"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "choke",
+    "pos": "verb",
+    "meaningVi": "nghẹn; bị cản trở hô hấp vì vật mắc trong họng",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -8229,6 +8903,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "chopstick",
+    "pos": "noun",
+    "meaningVi": "một chiếc đũa",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "chronic",
     "pos": "adjective",
     "meaningVi": "mạn tính, kéo dài dai dẳng",
@@ -8256,6 +8938,24 @@
       "attrition rate"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "cilantro",
+    "pos": "noun",
+    "meaningVi": "rau mùi; ngò rí, cách gọi phổ biến ở Mỹ",
+    "synonyms": [
+      "coriander"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "cinnamon",
+    "pos": "noun",
+    "meaningVi": "quế; bột quế",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -8346,6 +9046,22 @@
       "assert"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "clam",
+    "pos": "noun",
+    "meaningVi": "con nghêu; con ngao",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "clamp",
+    "pos": "noun",
+    "meaningVi": "cái kẹp giữ vật",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -8446,6 +9162,14 @@
     "word": "clean architecture",
     "pos": "noun",
     "meaningVi": "kiến trúc tách nghiệp vụ khỏi hạ tầng",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "clementine",
+    "pos": "noun",
+    "meaningVi": "quýt clementine nhỏ, thường không hạt",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -8612,6 +9336,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "clove",
+    "pos": "noun",
+    "meaningVi": "nụ đinh hương khô dùng làm gia vị",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "clumsy",
     "pos": "adjective",
     "meaningVi": "vụng về",
@@ -8635,6 +9367,24 @@
     "meaningVi": "bộ tự điều chỉnh số nút trong cụm",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "clutter",
+    "pos": "noun",
+    "meaningVi": "đồ đạc bừa bộn",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "cluttered",
+    "pos": "adjective",
+    "meaningVi": "bừa bộn vì có quá nhiều đồ",
+    "synonyms": [
+      "messy"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -8674,6 +9424,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "coaster",
+    "pos": "noun",
+    "meaningVi": "miếng lót cốc",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "coastline",
     "pos": "noun",
     "meaningVi": "đường bờ biển",
@@ -8687,6 +9445,24 @@
     "word": "coat",
     "pos": "noun",
     "meaningVi": "áo khoác ngoài",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "coax",
+    "pos": "verb",
+    "meaningVi": "dỗ dành; thuyết phục nhẹ nhàng và kiên nhẫn",
+    "synonyms": [
+      "persuade"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "cobweb",
+    "pos": "noun",
+    "meaningVi": "mạng nhện bám bụi",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -8711,6 +9487,14 @@
     "word": "coconut",
     "pos": "noun",
     "meaningVi": "(trái / quả) dừa",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "cod",
+    "pos": "noun",
+    "meaningVi": "cá tuyết",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -9001,6 +9785,14 @@
       "colorful"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "colt",
+    "pos": "noun",
+    "meaningVi": "ngựa đực non",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -9333,6 +10125,16 @@
     "word": "comic",
     "pos": "adjective",
     "meaningVi": "hài hước, buồn cười",
+    "synonyms": [
+      "funny"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "comical",
+    "pos": "adjective",
+    "meaningVi": "buồn cười vì vẻ ngộ nghĩnh hoặc kỳ quặc",
     "synonyms": [
       "funny"
     ],
@@ -9972,6 +10774,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "compost",
+    "pos": "noun",
+    "meaningVi": "phân ủ hữu cơ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "composting",
     "pos": "noun",
     "meaningVi": "việc ủ rác hữu cơ",
@@ -10540,6 +11350,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "conscientious",
+    "pos": "adjective",
+    "meaningVi": "tận tâm; làm việc có trách nhiệm",
+    "synonyms": [
+      "diligent"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "conscious",
     "pos": "adjective",
     "meaningVi": "có ý thức, tỉnh táo",
@@ -10692,6 +11512,16 @@
     "meaningVi": "đáng kể; nhiều",
     "synonyms": [
       "substantially"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "considerate",
+    "pos": "adjective",
+    "meaningVi": "biết quan tâm và nghĩ đến người khác",
+    "synonyms": [
+      "thoughtful"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -11587,6 +12417,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "cord",
+    "pos": "noun",
+    "meaningVi": "dây điện mềm",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "core",
     "pos": "noun",
     "meaningVi": "phần cốt lõi",
@@ -11610,6 +12448,24 @@
     "word": "core count",
     "pos": "noun",
     "meaningVi": "số nhân xử lý",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "coriander",
+    "pos": "noun",
+    "meaningVi": "rau mùi; ngò rí",
+    "synonyms": [
+      "cilantro"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "cork",
+    "pos": "noun",
+    "meaningVi": "nút chai làm bằng bần",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -11901,6 +12757,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "cot",
+    "pos": "noun",
+    "meaningVi": "giường gấp nhỏ, thường dùng tạm",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "cottage",
     "pos": "noun",
     "meaningVi": "nhà nhỏ ở nông thôn",
@@ -11914,6 +12778,16 @@
     "meaningVi": "bông; vải bông",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "cougar",
+    "pos": "noun",
+    "meaningVi": "báo sư tử châu Mỹ",
+    "synonyms": [
+      "puma"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -12033,9 +12907,25 @@
     "source": "gpt-edited"
   },
   {
+    "word": "courtyard",
+    "pos": "noun",
+    "meaningVi": "sân trong",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "cousin",
     "pos": "noun",
     "meaningVi": "anh chị em họ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "cove",
+    "pos": "noun",
+    "meaningVi": "vịnh nhỏ có bờ che chắn",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -12073,6 +12963,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "cowardly",
+    "pos": "adjective",
+    "meaningVi": "hèn nhát",
+    "synonyms": [
+      "fainthearted"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "cozy",
     "pos": "adjective",
     "meaningVi": "ấm cúng",
@@ -12080,6 +12980,14 @@
       "cosy"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "crab",
+    "pos": "noun",
+    "meaningVi": "con cua",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -12108,6 +13016,44 @@
     "meaningVi": "tay nghề thủ công",
     "synonyms": [
       "workmanship"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "crafty",
+    "pos": "adjective",
+    "meaningVi": "xảo quyệt; khéo bày mưu",
+    "synonyms": [
+      "cunning"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "cramped",
+    "pos": "adjective",
+    "meaningVi": "chật chội; thiếu chỗ để cử động",
+    "synonyms": [
+      "confined"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "cranberry",
+    "pos": "noun",
+    "meaningVi": "quả nam việt quất",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "cranky",
+    "pos": "adjective",
+    "meaningVi": "cáu kỉnh, thường do mệt hoặc khó chịu",
+    "synonyms": [
+      "irritable"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -12213,6 +13159,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "creek",
+    "pos": "noun",
+    "meaningVi": "con lạch; suối nhỏ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "creepy",
     "pos": "adjective",
     "meaningVi": "đáng sợ; kinh khủng; khủng khiếp; ghê gớm",
@@ -12230,6 +13184,14 @@
       "team"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "crib",
+    "pos": "noun",
+    "meaningVi": "cũi trẻ em",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -12256,16 +13218,6 @@
     "meaningVi": "khủng hoảng; tình huống nguy cấp",
     "synonyms": [
       "emergency"
-    ],
-    "reason": "",
-    "source": "gpt-edited"
-  },
-  {
-    "word": "criteria",
-    "pos": "noun",
-    "meaningVi": "các tiêu chí",
-    "synonyms": [
-      "standards"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -12340,6 +13292,16 @@
     "meaningVi": "chỉ trích",
     "synonyms": [
       "censure"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "crockery",
+    "pos": "noun",
+    "meaningVi": "đồ sành sứ dùng khi ăn uống",
+    "synonyms": [
+      "tableware"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -12425,6 +13387,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "crowbar",
+    "pos": "noun",
+    "meaningVi": "xà beng",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "crucial",
     "pos": "adjective",
     "meaningVi": "then chốt, cốt yếu",
@@ -12453,6 +13423,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "crumb",
+    "pos": "noun",
+    "meaningVi": "vụn bánh",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "crush",
     "pos": "verb",
     "meaningVi": "nghiền; đè bẹp",
@@ -12471,11 +13449,29 @@
     "source": "gpt-edited"
   },
   {
+    "word": "crystallize",
+    "pos": "verb",
+    "meaningVi": "kết tinh; làm cho kết tinh",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "cucumber",
     "pos": "noun",
     "meaningVi": "dưa chuột",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "cuddle",
+    "pos": "verb",
+    "meaningVi": "ôm ấp một cách trìu mến",
+    "synonyms": [
+      "hug"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -12555,6 +13551,24 @@
     "meaningVi": "cú sốc văn hoá",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "cumin",
+    "pos": "noun",
+    "meaningVi": "hạt hoặc bột thì là Ai Cập",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "cunning",
+    "pos": "adjective",
+    "meaningVi": "ranh mãnh; khôn lỏi để đạt mục đích",
+    "synonyms": [
+      "crafty"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -12975,6 +13989,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "dam",
+    "pos": "noun",
+    "meaningVi": "đập ngăn nước",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "damage",
     "pos": "noun",
     "meaningVi": "thiệt hại",
@@ -13337,6 +14359,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "deadbolt",
+    "pos": "noun",
+    "meaningVi": "khóa chốt cửa",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "deadline",
     "pos": "noun",
     "meaningVi": "hạn chót",
@@ -13460,6 +14490,16 @@
     "meaningVi": "mục nát, phân hủy",
     "synonyms": [
       "rot"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "deceitful",
+    "pos": "adjective",
+    "meaningVi": "dối trá; cố ý đánh lừa người khác",
+    "synonyms": [
+      "dishonest"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -13675,6 +14715,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "deer",
+    "pos": "noun",
+    "meaningVi": "hươu; nai",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "default route",
     "pos": "noun",
     "meaningVi": "tuyến dùng khi không có tuyến cụ thể phù hợp",
@@ -13751,6 +14799,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "defiant",
+    "pos": "adjective",
+    "meaningVi": "thách thức; công khai không chịu tuân theo",
+    "synonyms": [
+      "rebellious"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "deficit",
     "pos": "noun",
     "meaningVi": "thâm hụt",
@@ -13794,6 +14852,16 @@
     "meaningVi": "nạn phá rừng",
     "synonyms": [
       "forest clearance"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "defrost",
+    "pos": "verb",
+    "meaningVi": "rã đông thực phẩm hoặc làm tan lớp băng",
+    "synonyms": [
+      "thaw"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -13943,6 +15011,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "delta",
+    "pos": "noun",
+    "meaningVi": "vùng châu thổ ở cửa sông",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "demand",
     "pos": "noun",
     "meaningVi": "nhu cầu, yêu cầu",
@@ -14042,6 +15118,14 @@
       "thickly"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "dent",
+    "pos": "noun",
+    "meaningVi": "vết lõm",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -14797,6 +15881,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "devious",
+    "pos": "adjective",
+    "meaningVi": "quanh co; dùng thủ đoạn không trung thực",
+    "synonyms": [
+      "underhanded"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "devote",
     "pos": "verb",
     "meaningVi": "dành trọn",
@@ -14852,6 +15946,14 @@
     "word": "diarrhea",
     "pos": "noun",
     "meaningVi": "tiêu chảy",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "dice",
+    "pos": "verb",
+    "meaningVi": "thái thực phẩm thành hạt lựu",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -15031,6 +16133,24 @@
     "source": "gpt-edited"
   },
   {
+    "word": "diligent",
+    "pos": "adjective",
+    "meaningVi": "chăm chỉ và cẩn thận",
+    "synonyms": [
+      "hardworking"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "dill",
+    "pos": "noun",
+    "meaningVi": "thì là, một loại rau thơm",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "dilution",
     "pos": "noun",
     "meaningVi": "sự giảm tỷ lệ sở hữu do phát hành thêm cổ phần",
@@ -15114,6 +16234,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "diplomatic",
+    "pos": "adjective",
+    "meaningVi": "khéo léo trong xử lý quan hệ hoặc bất đồng",
+    "synonyms": [
+      "tactful"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "direct",
     "pos": "verb",
     "meaningVi": "chỉ dẫn; hướng dẫn đến nơi",
@@ -15149,6 +16279,14 @@
       "without intermediaries"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "dirt",
+    "pos": "noun",
+    "meaningVi": "bụi bẩn; đất bẩn",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -15435,6 +16573,24 @@
     "meaningVi": "máy rửa bát",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "disinfectant",
+    "pos": "noun",
+    "meaningVi": "chất khử trùng",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "disloyal",
+    "pos": "adjective",
+    "meaningVi": "không trung thành",
+    "synonyms": [
+      "unfaithful"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -16036,6 +17192,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "donkey",
+    "pos": "noun",
+    "meaningVi": "con lừa",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "donor",
     "pos": "noun",
     "meaningVi": "người tặng, nhà hảo tâm",
@@ -16075,6 +17239,14 @@
     "word": "doormat",
     "pos": "noun",
     "meaningVi": "thảm chùi chân",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "doorstep",
+    "pos": "noun",
+    "meaningVi": "bậc cửa",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -16126,10 +17298,10 @@
     "pos": "verb",
     "meaningVi": "tăng gấp đôi",
     "synonyms": [
-      "twofold"
+      "increase twofold"
     ],
     "reason": "",
-    "source": "existing-editorial"
+    "source": "gpt-edited"
   },
   {
     "word": "double entry bookkeeping",
@@ -16343,6 +17515,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "dresser",
+    "pos": "noun",
+    "meaningVi": "tủ có ngăn kéo đựng quần áo",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "dressing gown",
     "pos": "noun",
     "meaningVi": "áo choàng mặc trong nhà",
@@ -16351,9 +17531,25 @@
     "source": "gpt-edited"
   },
   {
+    "word": "dribble",
+    "pos": "verb",
+    "meaningVi": "làm chất lỏng chảy chậm thành dòng nhỏ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "drift",
     "pos": "noun",
     "meaningVi": "hạ tầng thực lệch khỏi khai báo",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "drill",
+    "pos": "noun",
+    "meaningVi": "máy khoan",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -16382,6 +17578,30 @@
       "device driver"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "driveway",
+    "pos": "noun",
+    "meaningVi": "lối xe vào nhà",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "drizzle",
+    "pos": "verb",
+    "meaningVi": "rưới một lượng nhỏ chất lỏng thành dòng mảnh",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "drool",
+    "pos": "verb",
+    "meaningVi": "chảy nước dãi",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -16568,6 +17788,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "dune",
+    "pos": "noun",
+    "meaningVi": "cồn cát",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "duplicate",
     "pos": "noun",
     "meaningVi": "bản sao",
@@ -16605,6 +17833,22 @@
       "timespan"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "dust",
+    "pos": "noun",
+    "meaningVi": "bụi",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "dustbin",
+    "pos": "noun",
+    "meaningVi": "thùng rác, thường đặt ngoài nhà",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -16829,6 +18073,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "easygoing",
+    "pos": "adjective",
+    "meaningVi": "dễ tính; thoải mái",
+    "synonyms": [
+      "relaxed"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "eat",
     "pos": "verb",
     "meaningVi": "ăn",
@@ -16842,6 +18096,16 @@
     "meaningVi": "ăn ở nhà hàng thay vì ở nhà",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "eccentric",
+    "pos": "adjective",
+    "meaningVi": "lập dị; khác với cách sống hoặc hành vi thông thường",
+    "synonyms": [
+      "unconventional"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -16995,6 +18259,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "eel",
+    "pos": "noun",
+    "meaningVi": "cá chình; cá dạng thân dài giống rắn",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "effectively",
     "pos": "adverb",
     "meaningVi": "một cách hiệu quả",
@@ -17050,6 +18322,16 @@
     "meaningVi": "trứng",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "eggplant",
+    "pos": "noun",
+    "meaningVi": "cà tím, cách gọi phổ biến ở Mỹ",
+    "synonyms": [
+      "aubergine"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -17189,6 +18471,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "elephant",
+    "pos": "noun",
+    "meaningVi": "con voi",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "elevator pitch",
     "pos": "noun",
     "meaningVi": "phần giới thiệu ý tưởng rất ngắn",
@@ -17223,6 +18513,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "elk",
+    "pos": "noun",
+    "meaningVi": "nai wapiti lớn ở Bắc Mỹ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "eloquent",
     "pos": "adjective",
     "meaningVi": "hùng hồn",
@@ -17236,6 +18534,14 @@
     "word": "elsewhere",
     "pos": "adverb",
     "meaningVi": "ở nơi khác",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "embankment",
+    "pos": "noun",
+    "meaningVi": "bờ đất hoặc đá đắp cao",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -17672,6 +18978,16 @@
     "meaningVi": "lâu dài; bền bỉ",
     "synonyms": [
       "lasting"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "energetic",
+    "pos": "adjective",
+    "meaningVi": "tràn đầy năng lượng",
+    "synonyms": [
+      "lively"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -18279,6 +19595,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "estuary",
+    "pos": "noun",
+    "meaningVi": "cửa sông nơi nước ngọt gặp nước biển",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "ethic",
     "pos": "noun",
     "meaningVi": "chuẩn mực đạo đức nghề",
@@ -18484,6 +19808,14 @@
       "develop"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "ewe",
+    "pos": "noun",
+    "meaningVi": "cừu cái trưởng thành",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -19425,6 +20757,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "faithful",
+    "pos": "adjective",
+    "meaningVi": "trung thành; giữ lời cam kết",
+    "synonyms": [
+      "loyal"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "faithfully",
     "pos": "adverb",
     "meaningVi": "trung thành; đúng với bản gốc",
@@ -19664,6 +21006,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "farmland",
+    "pos": "noun",
+    "meaningVi": "đất nông nghiệp",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "fascinate",
     "pos": "verb",
     "meaningVi": "mê hoặc",
@@ -19747,6 +21097,16 @@
     "meaningVi": "cha vợ hoặc cha chồng",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "faucet",
+    "pos": "noun",
+    "meaningVi": "vòi nước, cách gọi phổ biến ở Mỹ",
+    "synonyms": [
+      "tap"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -19930,6 +21290,30 @@
     "source": "gpt-edited"
   },
   {
+    "word": "fence",
+    "pos": "noun",
+    "meaningVi": "hàng rào",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "fennel",
+    "pos": "noun",
+    "meaningVi": "thì là tây, dùng cả củ và lá",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "ferment",
+    "pos": "verb",
+    "meaningVi": "lên men; làm cho lên men",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "ferry terminal",
     "pos": "noun",
     "meaningVi": "bến phà",
@@ -19984,6 +21368,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "fig",
+    "pos": "noun",
+    "meaningVi": "quả sung ngọt",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "figure",
     "pos": "noun",
     "meaningVi": "con số, hình dáng",
@@ -20012,11 +21404,29 @@
     "source": "gpt-edited"
   },
   {
+    "word": "filly",
+    "pos": "noun",
+    "meaningVi": "ngựa cái non",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "filter",
     "pos": "verb",
     "meaningVi": "lọc",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "filthy",
+    "pos": "adjective",
+    "meaningVi": "rất bẩn",
+    "synonyms": [
+      "dirty"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -20268,6 +21678,24 @@
     "source": "gpt-edited"
   },
   {
+    "word": "flashlight",
+    "pos": "noun",
+    "meaningVi": "đèn pin",
+    "synonyms": [
+      "torch"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "flask",
+    "pos": "noun",
+    "meaningVi": "bình nhỏ có cổ hẹp",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "flavour",
     "pos": "noun",
     "meaningVi": "hương vị",
@@ -20337,6 +21765,16 @@
     "meaningVi": "tiếp viên hàng không",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "flinch",
+    "pos": "verb",
+    "meaningVi": "giật mình hoặc rụt lại vì sợ hay đau",
+    "synonyms": [
+      "recoil"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -20415,6 +21853,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "foal",
+    "pos": "noun",
+    "meaningVi": "ngựa con dưới khoảng một tuổi",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "focus",
     "pos": "verb",
     "meaningVi": "tập trung sự chú ý vào",
@@ -20440,6 +21886,16 @@
     "meaningVi": "có sương mù",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "foil",
+    "pos": "noun",
+    "meaningVi": "giấy bạc dùng bọc thực phẩm",
+    "synonyms": [
+      "aluminum foil"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -20542,6 +21998,14 @@
     "word": "foot",
     "pos": "noun",
     "meaningVi": "bàn chân",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "foothill",
+    "pos": "noun",
+    "meaningVi": "đồi thấp ở chân dãy núi",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -20897,6 +22361,16 @@
     "source": "existing-editorial"
   },
   {
+    "word": "fragile",
+    "pos": "adjective",
+    "meaningVi": "dễ vỡ; dễ hỏng",
+    "synonyms": [
+      "delicate"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "fragment",
     "pos": "noun",
     "meaningVi": "mảnh vỡ, mảnh nhỏ",
@@ -20946,6 +22420,16 @@
     "meaningVi": "khuôn khổ",
     "synonyms": [
       "structure"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "frank",
+    "pos": "adjective",
+    "meaningVi": "thẳng thắn; thành thật",
+    "synonyms": [
+      "candid"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -21161,6 +22645,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "frown",
+    "pos": "verb",
+    "meaningVi": "cau mày vì lo lắng hoặc không hài lòng",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "frustrated",
     "pos": "adjective",
     "meaningVi": "bực bội, nản",
@@ -21168,6 +22660,14 @@
       "exasperated"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "fryer",
+    "pos": "noun",
+    "meaningVi": "nồi hoặc máy chiên",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -21400,6 +22900,14 @@
     "source": "existing-editorial"
   },
   {
+    "word": "fuse",
+    "pos": "noun",
+    "meaningVi": "cầu chì",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "fuzz testing",
     "pos": "noun",
     "meaningVi": "kiểm thử bằng đầu vào biến đổi bất thường",
@@ -21476,6 +22984,24 @@
     "source": "gpt-edited"
   },
   {
+    "word": "garage",
+    "pos": "noun",
+    "meaningVi": "nhà để xe",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "garbage",
+    "pos": "noun",
+    "meaningVi": "rác thải sinh hoạt",
+    "synonyms": [
+      "rubbish"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "garbage collection",
     "pos": "noun",
     "meaningVi": "thu gom bộ nhớ rác",
@@ -21509,6 +23035,14 @@
       "article of clothing"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "garnish",
+    "pos": "verb",
+    "meaningVi": "trang trí món ăn bằng thành phần ăn được",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -21567,6 +23101,14 @@
       "stare"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "gazelle",
+    "pos": "noun",
+    "meaningVi": "linh dương gazelle nhỏ, chạy nhanh",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -21731,6 +23273,14 @@
       "truly"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "gerbil",
+    "pos": "noun",
+    "meaningVi": "chuột nhảy gerbil",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -22056,6 +23606,22 @@
     "source": "gpt-edited"
   },
   {
+    "word": "ginger",
+    "pos": "noun",
+    "meaningVi": "gừng",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "giraffe",
+    "pos": "noun",
+    "meaningVi": "hươu cao cổ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "give",
     "pos": "verb",
     "meaningVi": "cho; đưa",
@@ -22247,6 +23813,26 @@
     "meaningVi": "ánh sáng; sự phát sáng",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "glue",
+    "pos": "noun",
+    "meaningVi": "keo dán",
+    "synonyms": [
+      "adhesive"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "glum",
+    "pos": "adjective",
+    "meaningVi": "buồn bã; ủ rũ",
+    "synonyms": [
+      "gloomy"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -22532,6 +24118,22 @@
     "source": "gpt-edited"
   },
   {
+    "word": "goat",
+    "pos": "noun",
+    "meaningVi": "con dê",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "goblet",
+    "pos": "noun",
+    "meaningVi": "ly có chân, thường dùng uống rượu",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "going concern",
     "pos": "noun",
     "meaningVi": "giả định doanh nghiệp tiếp tục hoạt động",
@@ -22590,6 +24192,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "gooseberry",
+    "pos": "noun",
+    "meaningVi": "quả lý gai",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "gorge",
     "pos": "noun",
     "meaningVi": "hẻm núi",
@@ -22623,6 +24233,14 @@
     "word": "gossip protocol",
     "pos": "noun",
     "meaningVi": "giao thức lan tin giữa các node",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "gourd",
+    "pos": "noun",
+    "meaningVi": "quả thuộc nhóm bầu bí, thường có vỏ cứng",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -22798,6 +24416,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "grapefruit",
+    "pos": "noun",
+    "meaningVi": "quả bưởi chùm",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "graph database",
     "pos": "noun",
     "meaningVi": "cơ sở dữ liệu đồ thị",
@@ -22852,6 +24478,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "grate",
+    "pos": "verb",
+    "meaningVi": "bào thực phẩm thành sợi hoặc vụn nhỏ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "grateful",
     "pos": "adjective",
     "meaningVi": "biết ơn",
@@ -22878,6 +24512,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "grater",
+    "pos": "noun",
+    "meaningVi": "dụng cụ bào thực phẩm",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "gratitude",
     "pos": "noun",
     "meaningVi": "lòng biết ơn",
@@ -22885,6 +24527,22 @@
       "thankfulness"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "gravel",
+    "pos": "noun",
+    "meaningVi": "sỏi nhỏ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "gravy",
+    "pos": "noun",
+    "meaningVi": "xốt làm từ nước thịt",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -22980,6 +24638,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "grinder",
+    "pos": "noun",
+    "meaningVi": "máy hoặc dụng cụ xay",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "grip",
     "pos": "noun",
     "meaningVi": "sự nắm chặt, cái nắm",
@@ -23050,6 +24716,22 @@
     "source": "gpt-edited"
   },
   {
+    "word": "grout",
+    "pos": "noun",
+    "meaningVi": "vữa chèn khe gạch",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "grove",
+    "pos": "noun",
+    "meaningVi": "lùm cây; nhóm cây nhỏ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "grow",
     "pos": "verb",
     "meaningVi": "tăng trưởng",
@@ -23090,6 +24772,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "grumpy",
+    "pos": "adjective",
+    "meaningVi": "cáu kỉnh; hay cằn nhằn",
+    "synonyms": [
+      "irritable"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "guarantee",
     "pos": "verb",
     "meaningVi": "bảo đảm",
@@ -23097,6 +24789,14 @@
       "ensure"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "guava",
+    "pos": "noun",
+    "meaningVi": "quả ổi",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -23152,6 +24852,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "gulf",
+    "pos": "noun",
+    "meaningVi": "vịnh biển lớn",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "gum",
     "pos": "noun",
     "meaningVi": "nướu; lợi",
@@ -23159,6 +24867,14 @@
       "gingiva"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "gutter",
+    "pos": "noun",
+    "meaningVi": "máng thoát nước mưa",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -23181,6 +24897,14 @@
     "word": "hacker",
     "pos": "noun",
     "meaningVi": "tin tặc",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "haddock",
+    "pos": "noun",
+    "meaningVi": "cá êfin, một loại cá biển cùng họ cá tuyết",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -23232,6 +24956,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "halibut",
+    "pos": "noun",
+    "meaningVi": "cá bơn lớn",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "hallway",
     "pos": "noun",
     "meaningVi": "hành lang",
@@ -23260,9 +24992,33 @@
     "source": "existing-editorial"
   },
   {
+    "word": "ham",
+    "pos": "noun",
+    "meaningVi": "thịt lợn muối hoặc hun khói, thường từ đùi",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "hammer",
     "pos": "verb",
     "meaningVi": "đóng; nện (bằng búa)",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "hammock",
+    "pos": "noun",
+    "meaningVi": "võng",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "hamster",
+    "pos": "noun",
+    "meaningVi": "chuột hamster",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -23335,6 +25091,14 @@
     "word": "handover note",
     "pos": "noun",
     "meaningVi": "ghi chú bàn giao ca",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "handrail",
+    "pos": "noun",
+    "meaningVi": "thanh vịn",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -23466,6 +25230,24 @@
     "source": "gpt-edited"
   },
   {
+    "word": "hardworking",
+    "pos": "adjective",
+    "meaningVi": "chăm chỉ; chịu khó làm việc",
+    "synonyms": [
+      "industrious"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "hare",
+    "pos": "noun",
+    "meaningVi": "thỏ rừng, thường có chân và tai dài",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "harm",
     "pos": "noun",
     "meaningVi": "tác hại",
@@ -23530,6 +25312,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "hasty",
+    "pos": "adjective",
+    "meaningVi": "vội vàng; thiếu cân nhắc",
+    "synonyms": [
+      "hurried"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "hat",
     "pos": "noun",
     "meaningVi": "mũ",
@@ -23564,6 +25356,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "hazelnut",
+    "pos": "noun",
+    "meaningVi": "hạt phỉ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "head",
     "pos": "noun",
     "meaningVi": "đầu",
@@ -23575,6 +25375,14 @@
     "word": "headache",
     "pos": "noun",
     "meaningVi": "đau đầu",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "headboard",
+    "pos": "noun",
+    "meaningVi": "tấm đầu giường",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -23629,6 +25437,16 @@
     "meaningVi": "lời báo trước",
     "synonyms": [
       "advance warning"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "headstrong",
+    "pos": "adjective",
+    "meaningVi": "cứng đầu; quyết làm theo ý mình",
+    "synonyms": [
+      "stubborn"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -23730,6 +25548,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "heath",
+    "pos": "noun",
+    "meaningVi": "vùng đất hoang có cây bụi thấp",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "heaven",
     "pos": "noun",
     "meaningVi": "trời",
@@ -23759,6 +25585,14 @@
     "word": "hedge fund",
     "pos": "noun",
     "meaningVi": "quỹ dùng chiến lược đầu tư linh hoạt",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "hedgehog",
+    "pos": "noun",
+    "meaningVi": "nhím gai nhỏ",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -23872,6 +25706,14 @@
       "legacy"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "herring",
+    "pos": "noun",
+    "meaningVi": "cá trích",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -23999,6 +25841,22 @@
     "source": "gpt-edited"
   },
   {
+    "word": "hillside",
+    "pos": "noun",
+    "meaningVi": "sườn đồi",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "hinge",
+    "pos": "noun",
+    "meaningVi": "bản lề",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "hinge mechanism",
     "pos": "noun",
     "meaningVi": "cơ cấu bản lề",
@@ -24020,6 +25878,14 @@
     "word": "hip",
     "pos": "noun",
     "meaningVi": "hông",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "hippopotamus",
+    "pos": "noun",
+    "meaningVi": "hà mã",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -24257,6 +26123,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "honeydew",
+    "pos": "noun",
+    "meaningVi": "dưa ruột xanh nhạt",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "honor",
     "pos": "verb",
     "meaningVi": "vinh danh, tặng thưởng",
@@ -24334,6 +26208,14 @@
       "scale-out"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "hose",
+    "pos": "noun",
+    "meaningVi": "ống mềm dẫn nước",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -24629,6 +26511,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "iceberg",
+    "pos": "noun",
+    "meaningVi": "tảng băng trôi lớn",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "icon",
     "pos": "noun",
     "meaningVi": "biểu tượng",
@@ -24646,6 +26536,14 @@
       "frozen"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "idealistic",
+    "pos": "adjective",
+    "meaningVi": "nặng về lý tưởng; tin rằng những điều tốt đẹp có thể đạt được",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -24899,6 +26797,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "imaginative",
+    "pos": "adjective",
+    "meaningVi": "giàu trí tưởng tượng",
+    "synonyms": [
+      "creative"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "imagine",
     "pos": "verb",
     "meaningVi": "tưởng tượng",
@@ -24914,6 +26822,16 @@
     "meaningVi": "sự bắt chước; đồ giả",
     "synonyms": [
       "copy"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "immaculate",
+    "pos": "adjective",
+    "meaningVi": "sạch sẽ và hoàn hảo về hình thức",
+    "synonyms": [
+      "spotless"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -25186,6 +27104,16 @@
     "meaningVi": "mua sắm bốc đồng",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "impulsive",
+    "pos": "adjective",
+    "meaningVi": "bốc đồng; hành động thiếu suy nghĩ trước",
+    "synonyms": [
+      "rash"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -25612,6 +27540,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "industrious",
+    "pos": "adjective",
+    "meaningVi": "cần cù; chăm chỉ",
+    "synonyms": [
+      "hardworking"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "industry",
     "pos": "noun",
     "meaningVi": "ngành công nghiệp; ngành kinh doanh",
@@ -25848,6 +27786,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "ingenious",
+    "pos": "adjective",
+    "meaningVi": "khéo léo và thông minh một cách sáng tạo",
+    "synonyms": [
+      "clever"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "inhaler",
     "pos": "noun",
     "meaningVi": "dụng cụ dùng để hít thuốc",
@@ -25987,6 +27935,14 @@
     "word": "ink",
     "pos": "noun",
     "meaningVi": "mực",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "inlet",
+    "pos": "noun",
+    "meaningVi": "vũng hoặc cửa nước hẹp ăn sâu vào bờ",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -26361,6 +28317,14 @@
       "inadequate"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "insulation",
+    "pos": "noun",
+    "meaningVi": "vật liệu cách nhiệt",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -26915,6 +28879,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "inventive",
+    "pos": "adjective",
+    "meaningVi": "có tài nghĩ ra cách hoặc vật mới",
+    "synonyms": [
+      "creative"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "inventory turnover",
     "pos": "noun",
     "meaningVi": "vòng quay hàng tồn kho",
@@ -27095,6 +29069,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "irritable",
+    "pos": "adjective",
+    "meaningVi": "dễ cáu; dễ bực bội",
+    "synonyms": [
+      "touchy"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "irritation",
     "pos": "noun",
     "meaningVi": "sự bực mình; sự khó chịu",
@@ -27197,6 +29181,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "jaguar",
+    "pos": "noun",
+    "meaningVi": "báo đốm châu Mỹ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "jail",
     "pos": "noun",
     "meaningVi": "nhà tù; nhà tạm giam",
@@ -27218,6 +29210,14 @@
     "word": "jam",
     "pos": "noun",
     "meaningVi": "mứt trái cây dạng phết",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "jar",
+    "pos": "noun",
+    "meaningVi": "lọ; hũ",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -27451,6 +29451,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "jug",
+    "pos": "noun",
+    "meaningVi": "bình đựng nước có quai và miệng rót",
+    "synonyms": [
+      "pitcher"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "jump",
     "pos": "verb",
     "meaningVi": "nhảy vọt một nấc",
@@ -27469,6 +29479,14 @@
       "intersection"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "jungle",
+    "pos": "noun",
+    "meaningVi": "rừng rậm nhiệt đới",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -27513,6 +29531,14 @@
       "underage"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "kale",
+    "pos": "noun",
+    "meaningVi": "cải xoăn",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -27682,6 +29708,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "kelp",
+    "pos": "noun",
+    "meaningVi": "tảo bẹ; một loại rong biển lớn",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "kernel",
     "pos": "noun",
     "meaningVi": "nhân hệ điều hành",
@@ -27733,6 +29767,14 @@
     "word": "key rotation",
     "pos": "noun",
     "meaningVi": "thay đổi khóa theo chu kỳ hoặc sự kiện",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "keyhole",
+    "pos": "noun",
+    "meaningVi": "lỗ khóa",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -27808,6 +29850,22 @@
     "source": "gpt-edited"
   },
   {
+    "word": "kiwi",
+    "pos": "noun",
+    "meaningVi": "quả kiwi",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "knead",
+    "pos": "verb",
+    "meaningVi": "nhào bột",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "knee",
     "pos": "noun",
     "meaningVi": "đầu gối",
@@ -27876,6 +29934,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "kumquat",
+    "pos": "noun",
+    "meaningVi": "quả quất; quả tắc",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "label",
     "pos": "verb",
     "meaningVi": "dán nhãn gọi tên",
@@ -27939,6 +30005,22 @@
       "delay"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "lagoon",
+    "pos": "noun",
+    "meaningVi": "đầm nước ven biển ngăn với biển bằng dải đất hoặc rạn",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "lamb",
+    "pos": "noun",
+    "meaningVi": "thịt cừu non",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -28014,6 +30096,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "landslide",
+    "pos": "noun",
+    "meaningVi": "sạt lở đất đá",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "lane",
     "pos": "noun",
     "meaningVi": "hẻm",
@@ -28027,6 +30117,14 @@
     "word": "language modeling",
     "pos": "noun",
     "meaningVi": "mô hình hóa xác suất hoặc cấu trúc ngôn ngữ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "lantern",
+    "pos": "noun",
+    "meaningVi": "đèn lồng; đèn xách tay",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -28067,6 +30165,14 @@
       "LLC"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "latch",
+    "pos": "noun",
+    "meaningVi": "chốt cửa",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -28519,6 +30625,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "leek",
+    "pos": "noun",
+    "meaningVi": "tỏi tây",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "left luggage",
     "pos": "noun",
     "meaningVi": "dịch vụ hoặc nơi giữ hành lý",
@@ -28679,6 +30793,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "leopard",
+    "pos": "noun",
+    "meaningVi": "báo hoa mai",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "lessons learned",
     "pos": "noun",
     "meaningVi": "bài học rút ra",
@@ -28754,11 +30876,31 @@
     "source": "gpt-edited"
   },
   {
+    "word": "lethargic",
+    "pos": "adjective",
+    "meaningVi": "uể oải; thiếu năng lượng",
+    "synonyms": [
+      "sluggish"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "lettuce",
     "pos": "noun",
     "meaningVi": "rau xà lách",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "levee",
+    "pos": "noun",
+    "meaningVi": "đê ngăn nước sông",
+    "synonyms": [
+      "embankment"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -28879,6 +31021,14 @@
     "word": "light bulb",
     "pos": "noun",
     "meaningVi": "bóng đèn",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "lighter",
+    "pos": "noun",
+    "meaningVi": "bật lửa",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -29021,6 +31171,14 @@
     "word": "linting",
     "pos": "noun",
     "meaningVi": "soát lỗi và phong cách code tự động",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "lion",
+    "pos": "noun",
+    "meaningVi": "sư tử",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -29228,6 +31386,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "lobster",
+    "pos": "noun",
+    "meaningVi": "tôm hùm",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "local dimming",
     "pos": "noun",
     "meaningVi": "điều chỉnh độ sáng đèn nền theo vùng",
@@ -29267,6 +31433,14 @@
     "word": "lock granularity",
     "pos": "noun",
     "meaningVi": "mức độ chi tiết của phạm vi khóa",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "loft",
+    "pos": "noun",
+    "meaningVi": "khoảng gác sát mái nhà",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -29772,6 +31946,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "ludicrous",
+    "pos": "adjective",
+    "meaningVi": "lố bịch; vô lý đến mức buồn cười",
+    "synonyms": [
+      "ridiculous"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "luggage",
     "pos": "noun",
     "meaningVi": "hành lý",
@@ -29818,6 +32002,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "lynx",
+    "pos": "noun",
+    "meaningVi": "linh miêu",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "lyric",
     "pos": "noun",
     "meaningVi": "lời bài hát",
@@ -29825,6 +32017,14 @@
       "song text"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "macadamia",
+    "pos": "noun",
+    "meaningVi": "hạt mắc ca",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -29841,6 +32041,14 @@
     "word": "machinery",
     "pos": "noun",
     "meaningVi": "máy móc",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "mackerel",
+    "pos": "noun",
+    "meaningVi": "cá thu",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -30065,6 +32273,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "mallet",
+    "pos": "noun",
+    "meaningVi": "búa có đầu gỗ hoặc cao su",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "malnutrition",
     "pos": "noun",
     "meaningVi": "tình trạng suy dinh dưỡng",
@@ -30128,6 +32344,14 @@
       "MBO"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "mandarin",
+    "pos": "noun",
+    "meaningVi": "quả quýt, thuộc nhóm cam quýt nhỏ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -30203,6 +32427,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "mare",
+    "pos": "noun",
+    "meaningVi": "ngựa cái trưởng thành",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "margin",
     "pos": "noun",
     "meaningVi": "biên lợi nhuận",
@@ -30220,6 +32452,14 @@
       "negligible"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "marinade",
+    "pos": "noun",
+    "meaningVi": "hỗn hợp dùng ướp thực phẩm",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -30295,11 +32535,29 @@
     "source": "gpt-edited"
   },
   {
+    "word": "marsh",
+    "pos": "noun",
+    "meaningVi": "đầm lầy có nhiều cỏ hoặc lau sậy",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "martial",
     "pos": "adjective",
     "meaningVi": "thuộc quân sự; thuộc chiến tranh",
     "synonyms": [
       "military"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "mash",
+    "pos": "verb",
+    "meaningVi": "nghiền thực phẩm cho mềm nhuyễn",
+    "synonyms": [
+      "crush"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -30393,6 +32651,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "match",
+    "pos": "noun",
+    "meaningVi": "que diêm",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "matching",
     "pos": "adjective",
     "meaningVi": "phù hợp, tương xứng",
@@ -30471,6 +32737,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "mattress",
+    "pos": "noun",
+    "meaningVi": "nệm; đệm giường",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "mature",
     "pos": "adjective",
     "meaningVi": "trưởng thành, chín chắn",
@@ -30514,6 +32788,24 @@
     "meaningVi": "sốt mayonnaise",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "meadow",
+    "pos": "noun",
+    "meaningVi": "đồng cỏ, thường có hoa dại",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "meager",
+    "pos": "adjective",
+    "meaningVi": "ít ỏi; không đủ nhu cầu",
+    "synonyms": [
+      "scant"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -30696,6 +32988,14 @@
       "tune"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "melon",
+    "pos": "noun",
+    "meaningVi": "quả dưa",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -31179,6 +33479,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "mildew",
+    "pos": "noun",
+    "meaningVi": "nấm mốc trên bề mặt ẩm",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "milestone",
     "pos": "noun",
     "meaningVi": "cột mốc",
@@ -31218,6 +33526,26 @@
     "meaningVi": "người bắt chước; người nhái",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "mincer",
+    "pos": "noun",
+    "meaningVi": "máy xay thịt",
+    "synonyms": [
+      "meat grinder"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "mindful",
+    "pos": "adjective",
+    "meaningVi": "lưu tâm; ý thức về điều gì",
+    "synonyms": [
+      "aware"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -31340,6 +33668,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "mischievous",
+    "pos": "adjective",
+    "meaningVi": "tinh nghịch; thích bày trò trêu chọc",
+    "synonyms": [
+      "naughty"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "miserable",
     "pos": "adjective",
     "meaningVi": "rất buồn khổ; khốn khổ",
@@ -31426,6 +33764,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "mitt",
+    "pos": "noun",
+    "meaningVi": "găng tay liền các ngón, thường dùng chống nóng",
+    "synonyms": [
+      "oven glove"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "mixed",
     "pos": "adjective",
     "meaningVi": "pha tạp; hỗn hợp",
@@ -31433,6 +33781,14 @@
       "blended"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "mixer",
+    "pos": "noun",
+    "meaningVi": "máy trộn thực phẩm",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -31774,6 +34130,22 @@
     "source": "gpt-edited"
   },
   {
+    "word": "moor",
+    "pos": "noun",
+    "meaningVi": "vùng đất hoang cao, ít cây lớn",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "moose",
+    "pos": "noun",
+    "meaningVi": "nai sừng tấm",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "mop",
     "pos": "noun",
     "meaningVi": "cây lau nhà",
@@ -32075,6 +34447,46 @@
     "source": "gpt-edited"
   },
   {
+    "word": "mudslide",
+    "pos": "noun",
+    "meaningVi": "dòng bùn lở",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "mug",
+    "pos": "noun",
+    "meaningVi": "cốc lớn có quai",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "mulberry",
+    "pos": "noun",
+    "meaningVi": "quả dâu tằm",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "mulch",
+    "pos": "noun",
+    "meaningVi": "vật liệu phủ gốc cây",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "mule",
+    "pos": "noun",
+    "meaningVi": "con la",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "multi chip module",
     "pos": "noun",
     "meaningVi": "mô đun gồm nhiều chip",
@@ -32163,6 +34575,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "mussel",
+    "pos": "noun",
+    "meaningVi": "con vẹm",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "mustard",
     "pos": "noun",
     "meaningVi": "mù tạt",
@@ -32196,6 +34616,14 @@
       "mutual exclusion lock"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "mutton",
+    "pos": "noun",
+    "meaningVi": "thịt cừu trưởng thành",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -32263,11 +34691,29 @@
     "source": "gpt-edited"
   },
   {
+    "word": "nail",
+    "pos": "noun",
+    "meaningVi": "đinh",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "name resolution",
     "pos": "noun",
     "meaningVi": "phân giải tên thành địa chỉ mạng",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "napkin",
+    "pos": "noun",
+    "meaningVi": "khăn ăn",
+    "synonyms": [
+      "serviette"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -32330,6 +34776,16 @@
     "meaningVi": "một cách tự nhiên",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "naughty",
+    "pos": "adjective",
+    "meaningVi": "nghịch ngợm; không nghe lời, thường nói về trẻ em",
+    "synonyms": [
+      "mischievous"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -32843,6 +35299,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "nonchalant",
+    "pos": "adjective",
+    "meaningVi": "thản nhiên; có vẻ không bận tâm",
+    "synonyms": [
+      "casual"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "nonetheless",
     "pos": "adverb",
     "meaningVi": "dù vậy",
@@ -33113,6 +35579,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "nutmeg",
+    "pos": "noun",
+    "meaningVi": "nhục đậu khấu",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "nutrition",
     "pos": "noun",
     "meaningVi": "dinh dưỡng",
@@ -33203,6 +35677,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "observant",
+    "pos": "adjective",
+    "meaningVi": "tinh ý; chú ý và nhận thấy chi tiết",
+    "synonyms": [
+      "attentive"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "observation",
     "pos": "noun",
     "meaningVi": "nhận xét; điều nhận thấy",
@@ -33272,6 +35756,16 @@
     "meaningVi": "trở ngại",
     "synonyms": [
       "barrier"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "obstinate",
+    "pos": "adjective",
+    "meaningVi": "bướng bỉnh; cố chấp không chịu thay đổi",
+    "synonyms": [
+      "stubborn"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -33380,6 +35874,14 @@
       "event"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "octopus",
+    "pos": "noun",
+    "meaningVi": "bạch tuộc",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -33498,6 +36000,14 @@
     "word": "ointment",
     "pos": "noun",
     "meaningVi": "thuốc mỡ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "okra",
+    "pos": "noun",
+    "meaningVi": "đậu bắp",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -33935,6 +36445,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "orchard",
+    "pos": "noun",
+    "meaningVi": "vườn cây ăn quả",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "orchestra",
     "pos": "noun",
     "meaningVi": "dàn nhạc",
@@ -33953,6 +36471,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "orderly",
+    "pos": "adjective",
+    "meaningVi": "ngăn nắp; có trật tự",
+    "synonyms": [
+      "organized"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "ordinary",
     "pos": "adjective",
     "meaningVi": "bình thường; không đặc biệt",
@@ -33960,6 +36488,14 @@
       "normal"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "oregano",
+    "pos": "noun",
+    "meaningVi": "lá kinh giới cay oregano",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -34126,6 +36662,24 @@
     "source": "gpt-edited"
   },
   {
+    "word": "otter",
+    "pos": "noun",
+    "meaningVi": "rái cá",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "ottoman",
+    "pos": "noun",
+    "meaningVi": "ghế đệm thấp để gác chân",
+    "synonyms": [
+      "footstool"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "out of distribution",
     "pos": "adjective",
     "meaningVi": "nằm ngoài phân phối dữ liệu đã học",
@@ -34205,6 +36759,16 @@
     "meaningVi": "trang phục; bộ quần áo",
     "synonyms": [
       "ensemble"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "outgoing",
+    "pos": "adjective",
+    "meaningVi": "cởi mở và thích giao tiếp",
+    "synonyms": [
+      "sociable"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -34335,6 +36899,16 @@
     "meaningVi": "việc thuê ngoài",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "outspoken",
+    "pos": "adjective",
+    "meaningVi": "thẳng thắn bày tỏ ý kiến",
+    "synonyms": [
+      "frank"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -34640,9 +37214,25 @@
     "source": "gpt-edited"
   },
   {
+    "word": "ox",
+    "pos": "noun",
+    "meaningVi": "bò đực đã thiến dùng để kéo",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "oxygen",
     "pos": "noun",
     "meaningVi": "khí ôxy",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "oyster",
+    "pos": "noun",
+    "meaningVi": "con hàu",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -34744,6 +37334,22 @@
     "source": "gpt-edited"
   },
   {
+    "word": "paddock",
+    "pos": "noun",
+    "meaningVi": "bãi rào kín để giữ hoặc thả ngựa",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "padlock",
+    "pos": "noun",
+    "meaningVi": "khóa móc",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "paging",
     "pos": "noun",
     "meaningVi": "gọi người trực dậy xử lý sự cố",
@@ -34787,6 +37393,14 @@
       "analgesic"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "paintbrush",
+    "pos": "noun",
+    "meaningVi": "chổi sơn",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -34860,9 +37474,41 @@
     "source": "gpt-edited"
   },
   {
+    "word": "panther",
+    "pos": "noun",
+    "meaningVi": "báo đen, thường là báo hoa mai hoặc báo đốm màu đen",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "pantry",
+    "pos": "noun",
+    "meaningVi": "phòng hoặc tủ chứa thực phẩm",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "papaya",
+    "pos": "noun",
+    "meaningVi": "quả đu đủ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "paperwork",
     "pos": "noun",
     "meaningVi": "công việc hoặc thủ tục giấy tờ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "paprika",
+    "pos": "noun",
+    "meaningVi": "bột ớt paprika",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -34956,6 +37602,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "parchment",
+    "pos": "noun",
+    "meaningVi": "giấy nến dùng khi nướng bánh",
+    "synonyms": [
+      "baking parchment"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "parent",
     "pos": "noun",
     "meaningVi": "cha hoặc mẹ",
@@ -35009,6 +37665,14 @@
     "word": "parse",
     "pos": "verb",
     "meaningVi": "phân tích cú pháp",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "parsley",
+    "pos": "noun",
+    "meaningVi": "mùi tây; ngò tây",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -35342,6 +38006,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "pasteurize",
+    "pos": "verb",
+    "meaningVi": "thanh trùng bằng nhiệt theo quy trình kiểm soát",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "pastor",
     "pos": "noun",
     "meaningVi": "mục sư",
@@ -35355,6 +38027,14 @@
     "word": "pastoral",
     "pos": "adjective",
     "meaningVi": "(thuộc) mục sư",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "pasture",
+    "pos": "noun",
+    "meaningVi": "đồng cỏ chăn thả",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -35399,6 +38079,14 @@
     "word": "patient with",
     "pos": "adjective",
     "meaningVi": "kiên nhẫn khi đối xử với ai",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "patio",
+    "pos": "noun",
+    "meaningVi": "sân lát gạch ngoài nhà",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -35645,6 +38333,32 @@
     "source": "gpt-edited"
   },
   {
+    "word": "pebble",
+    "pos": "noun",
+    "meaningVi": "viên sỏi nhỏ, nhẵn",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "pecan",
+    "pos": "noun",
+    "meaningVi": "hạt hồ đào",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "peculiar",
+    "pos": "adjective",
+    "meaningVi": "kỳ lạ; khác thường",
+    "synonyms": [
+      "odd"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "pedagogy",
     "pos": "noun",
     "meaningVi": "phương pháp sư phạm",
@@ -35847,6 +38561,16 @@
     "meaningVi": "nhận thức; cách nhìn nhận",
     "synonyms": [
       "awareness"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "perceptive",
+    "pos": "adjective",
+    "meaningVi": "nhạy bén; dễ nhận ra điều người khác bỏ sót",
+    "synonyms": [
+      "insightful"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -36080,6 +38804,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "pessimistic",
+    "pos": "adjective",
+    "meaningVi": "bi quan",
+    "synonyms": [
+      "negative"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "pessimistic locking",
     "pos": "noun",
     "meaningVi": "khoá bi quan, giữ khoá suốt giao dịch",
@@ -36208,6 +38942,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "piglet",
+    "pos": "noun",
+    "meaningVi": "lợn con",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "pile",
     "pos": "noun",
     "meaningVi": "đống, chồng",
@@ -36312,6 +39054,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "pistachio",
+    "pos": "noun",
+    "meaningVi": "hạt dẻ cười",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "pitch",
     "pos": "noun",
     "meaningVi": "bài thuyết trình chào hàng",
@@ -36327,6 +39077,16 @@
     "meaningVi": "bộ trang trình bày để giới thiệu và gọi vốn",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "pitcher",
+    "pos": "noun",
+    "meaningVi": "bình đựng nước có quai, cách gọi phổ biến ở Mỹ",
+    "synonyms": [
+      "jug"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -36369,6 +39129,14 @@
     "word": "placeholder",
     "pos": "noun",
     "meaningVi": "nội dung tạm giữ chỗ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "placemat",
+    "pos": "noun",
+    "meaningVi": "tấm lót đĩa trên bàn ăn",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -36418,6 +39186,22 @@
     "source": "gpt-edited"
   },
   {
+    "word": "plantation",
+    "pos": "noun",
+    "meaningVi": "đồn điền",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "plaster",
+    "pos": "noun",
+    "meaningVi": "vữa trát",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "plateau",
     "pos": "verb",
     "meaningVi": "chững lại ở một mức",
@@ -36447,11 +39231,29 @@
     "source": "gpt-edited"
   },
   {
+    "word": "platter",
+    "pos": "noun",
+    "meaningVi": "đĩa lớn để bày thức ăn",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "plausible",
     "pos": "adjective",
     "meaningVi": "hợp lý, nghe được",
     "synonyms": [
       "credible"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "playful",
+    "pos": "adjective",
+    "meaningVi": "vui đùa; thích đùa nghịch",
+    "synonyms": [
+      "lively"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -36464,6 +39266,24 @@
       "argue a case"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "plentiful",
+    "pos": "adjective",
+    "meaningVi": "dồi dào; có nhiều",
+    "synonyms": [
+      "abundant"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "pliers",
+    "pos": "noun",
+    "meaningVi": "kìm",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -36522,6 +39342,22 @@
       "advantage"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "plywood",
+    "pos": "noun",
+    "meaningVi": "gỗ dán",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "poach",
+    "pos": "verb",
+    "meaningVi": "luộc thực phẩm nhẹ trong nước hoặc chất lỏng nóng",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -36655,6 +39491,30 @@
     "source": "gpt-edited"
   },
   {
+    "word": "pomegranate",
+    "pos": "noun",
+    "meaningVi": "quả lựu",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "pond",
+    "pos": "noun",
+    "meaningVi": "ao",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "pony",
+    "pos": "noun",
+    "meaningVi": "ngựa nhỏ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "popularity",
     "pos": "noun",
     "meaningVi": "mức độ được yêu thích; sự phổ biến",
@@ -36670,6 +39530,14 @@
       "veranda"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "porcupine",
+    "pos": "noun",
+    "meaningVi": "nhím có lông cứng dài",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -36922,6 +39790,22 @@
     "source": "gpt-edited"
   },
   {
+    "word": "poultry",
+    "pos": "noun",
+    "meaningVi": "gia cầm nuôi lấy thịt hoặc trứng",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "pout",
+    "pos": "verb",
+    "meaningVi": "bĩu môi vì dỗi hoặc khó chịu",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "poverty",
     "pos": "noun",
     "meaningVi": "sự nghèo đói",
@@ -36998,6 +39882,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "prairie",
+    "pos": "noun",
+    "meaningVi": "thảo nguyên Bắc Mỹ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "praise",
     "pos": "verb",
     "meaningVi": "khen ngợi",
@@ -37005,6 +39897,14 @@
       "commend"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "prawn",
+    "pos": "noun",
+    "meaningVi": "tôm, thường chỉ loại tương đối lớn",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -37556,6 +40456,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "pristine",
+    "pos": "adjective",
+    "meaningVi": "nguyên sơ hoặc còn như mới, không bị hư hại",
+    "synonyms": [
+      "unspoiled"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "privacy",
     "pos": "noun",
     "meaningVi": "quyền riêng tư",
@@ -38066,6 +40976,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "prong",
+    "pos": "noun",
+    "meaningVi": "răng hoặc nhánh nhọn của một dụng cụ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "pronounce",
     "pos": "verb",
     "meaningVi": "phát âm",
@@ -38430,6 +41348,24 @@
     "source": "gpt-edited"
   },
   {
+    "word": "prudent",
+    "pos": "adjective",
+    "meaningVi": "thận trọng và biết suy xét",
+    "synonyms": [
+      "sensible"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "prune",
+    "pos": "noun",
+    "meaningVi": "mận khô",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "psychological",
     "pos": "adjective",
     "meaningVi": "tâm lý; thuộc về tinh thần",
@@ -38554,6 +41490,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "puddle",
+    "pos": "noun",
+    "meaningVi": "vũng nước nhỏ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "pull request",
     "pos": "noun",
     "meaningVi": "đề nghị hợp nhất thay đổi mã",
@@ -38561,6 +41505,14 @@
       "merge request"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "pulp",
+    "pos": "noun",
+    "meaningVi": "phần thịt mềm hoặc xơ của quả",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -38577,6 +41529,14 @@
     "word": "pump",
     "pos": "verb",
     "meaningVi": "bơm",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "pumpkin",
+    "pos": "noun",
+    "meaningVi": "quả bí ngô; bí đỏ",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -38883,10 +41843,10 @@
     "pos": "verb",
     "meaningVi": "tăng gấp bốn",
     "synonyms": [
-      "fourfold"
+      "increase fourfold"
     ],
     "reason": "",
-    "source": "existing-editorial"
+    "source": "gpt-edited"
   },
   {
     "word": "qualification",
@@ -39123,6 +42083,42 @@
     "source": "gpt-edited"
   },
   {
+    "word": "quilt",
+    "pos": "noun",
+    "meaningVi": "chăn chần bông",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "quince",
+    "pos": "noun",
+    "meaningVi": "quả mộc qua",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "quirky",
+    "pos": "adjective",
+    "meaningVi": "khác thường theo cách thú vị hoặc có cá tính",
+    "synonyms": [
+      "eccentric"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "quiver",
+    "pos": "verb",
+    "meaningVi": "rung hoặc run nhẹ liên tục",
+    "synonyms": [
+      "tremble"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "quorum",
     "pos": "noun",
     "meaningVi": "số node tối thiểu để quyết định",
@@ -39169,6 +42165,22 @@
     "source": "gpt-edited"
   },
   {
+    "word": "rabbit",
+    "pos": "noun",
+    "meaningVi": "con thỏ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "raccoon",
+    "pos": "noun",
+    "meaningVi": "gấu mèo Bắc Mỹ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "race condition",
     "pos": "noun",
     "meaningVi": "lỗi do hai luồng tranh nhau",
@@ -39180,6 +42192,14 @@
     "word": "rack",
     "pos": "noun",
     "meaningVi": "giá",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "radiator",
+    "pos": "noun",
+    "meaningVi": "bộ tản nhiệt sưởi phòng",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -39202,6 +42222,14 @@
       "fundamentally"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "radish",
+    "pos": "noun",
+    "meaningVi": "củ cải đỏ hoặc củ cải nhỏ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -39237,6 +42265,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "rainforest",
+    "pos": "noun",
+    "meaningVi": "rừng mưa nhiệt đới hoặc ôn đới ẩm",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "rainy",
     "pos": "adjective",
     "meaningVi": "có mưa",
@@ -39252,6 +42288,22 @@
       "pay rise"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "raisin",
+    "pos": "noun",
+    "meaningVi": "nho khô",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "rake",
+    "pos": "noun",
+    "meaningVi": "cái cào",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -39380,6 +42432,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "raspberry",
+    "pos": "noun",
+    "meaningVi": "quả mâm xôi đỏ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "rasterization pipeline",
     "pos": "noun",
     "meaningVi": "chuỗi xử lý chuyển hình học thành điểm ảnh",
@@ -39434,6 +42494,14 @@
       "justification"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "ravine",
+    "pos": "noun",
+    "meaningVi": "khe núi sâu và hẹp",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -39713,6 +42781,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "rebellious",
+    "pos": "adjective",
+    "meaningVi": "hay chống đối quyền lực hoặc quy tắc",
+    "synonyms": [
+      "defiant"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "rebuild",
     "pos": "verb",
     "meaningVi": "xây dựng lại",
@@ -39818,6 +42896,16 @@
     "meaningVi": "công thức nấu ăn",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "reckless",
+    "pos": "adjective",
+    "meaningVi": "liều lĩnh; không nghĩ đến hậu quả",
+    "synonyms": [
+      "rash"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -40195,6 +43283,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "refrigerate",
+    "pos": "verb",
+    "meaningVi": "giữ lạnh bằng tủ lạnh",
+    "synonyms": [
+      "chill"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "refuge",
     "pos": "noun",
     "meaningVi": "sự ẩn náu; sự trú ẩn",
@@ -40420,6 +43518,14 @@
     "word": "reimbursement",
     "pos": "noun",
     "meaningVi": "việc hoàn trả khoản tiền đã chi",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "reindeer",
+    "pos": "noun",
+    "meaningVi": "tuần lộc",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -41455,6 +44561,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "resourceful",
+    "pos": "adjective",
+    "meaningVi": "tháo vát; biết tận dụng điều kiện sẵn có",
+    "synonyms": [
+      "ingenious"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "respect",
     "pos": "verb",
     "meaningVi": "tôn trọng; kính trọng",
@@ -41568,6 +44684,16 @@
     "meaningVi": "co giãn theo màn hình",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "restless",
+    "pos": "adjective",
+    "meaningVi": "bồn chồn; không thể ngồi yên",
+    "synonyms": [
+      "fidgety"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -42041,6 +45167,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "rhinoceros",
+    "pos": "noun",
+    "meaningVi": "tê giác",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "rhyme",
     "pos": "verb",
     "meaningVi": "làm thơ có vần",
@@ -42183,9 +45317,25 @@
     "source": "gpt-edited"
   },
   {
+    "word": "rind",
+    "pos": "noun",
+    "meaningVi": "vỏ dày hoặc cứng của quả, phô mai",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "ring",
     "pos": "noun",
     "meaningVi": "nhẫn",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "rinse",
+    "pos": "verb",
+    "meaningVi": "tráng; rửa nhanh bằng nước sạch",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -42330,6 +45480,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "robust",
+    "pos": "adjective",
+    "meaningVi": "vững chắc; hoạt động tốt trong điều kiện khó",
+    "synonyms": [
+      "sturdy"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "rocket",
     "pos": "verb",
     "meaningVi": "tăng như tên bắn",
@@ -42388,6 +45548,14 @@
     "word": "rollback plan",
     "pos": "noun",
     "meaningVi": "kế hoạch quay lui",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "roller",
+    "pos": "noun",
+    "meaningVi": "con lăn sơn",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -42453,6 +45621,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "roomy",
+    "pos": "adjective",
+    "meaningVi": "rộng rãi; có nhiều chỗ bên trong",
+    "synonyms": [
+      "spacious"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "root",
     "pos": "noun",
     "meaningVi": "rễ",
@@ -42492,6 +45670,14 @@
     "word": "rose",
     "pos": "noun",
     "meaningVi": "hoa hồng",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "rosemary",
+    "pos": "noun",
+    "meaningVi": "hương thảo",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -42631,6 +45817,16 @@
     "meaningVi": "cao su",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "rubbish",
+    "pos": "noun",
+    "meaningVi": "rác; đồ bỏ đi",
+    "synonyms": [
+      "garbage"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -42928,6 +46124,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "rust",
+    "pos": "noun",
+    "meaningVi": "gỉ sắt",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "rusty",
     "pos": "adjective",
     "meaningVi": "bị gỉ",
@@ -43026,6 +46230,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "saffron",
+    "pos": "noun",
+    "meaningVi": "nhụy hoa nghệ tây dùng làm gia vị",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "saga",
     "pos": "noun",
     "meaningVi": "chuỗi giao dịch có bước hoàn tác",
@@ -43055,6 +46267,14 @@
     "word": "salad",
     "pos": "noun",
     "meaningVi": "món rau trộn",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "salami",
+    "pos": "noun",
+    "meaningVi": "xúc xích khô salami",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -43158,9 +46378,25 @@
     "source": "gpt-edited"
   },
   {
+    "word": "sandbar",
+    "pos": "noun",
+    "meaningVi": "doi hoặc bãi cát trong vùng nước nông",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "sandbox",
     "pos": "noun",
     "meaningVi": "môi trường cách ly",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "sandpaper",
+    "pos": "noun",
+    "meaningVi": "giấy nhám",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -43193,6 +46429,14 @@
     "word": "sanitize",
     "pos": "verb",
     "meaningVi": "làm sạch dữ liệu đầu vào",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "sardine",
+    "pos": "noun",
+    "meaningVi": "cá mòi",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -43275,6 +46519,14 @@
     "word": "saucepan",
     "pos": "noun",
     "meaningVi": "nồi có cán",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "saucer",
+    "pos": "noun",
+    "meaningVi": "đĩa nhỏ lót dưới tách",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -43363,6 +46615,24 @@
       "vertically scale"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "scallion",
+    "pos": "noun",
+    "meaningVi": "hành lá",
+    "synonyms": [
+      "green onion"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "scallop",
+    "pos": "noun",
+    "meaningVi": "con sò điệp",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -43546,6 +46816,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "scowl",
+    "pos": "verb",
+    "meaningVi": "cau có; nhìn giận dữ",
+    "synonyms": [
+      "glower"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "scramble",
     "pos": "verb",
     "meaningVi": "bon chen",
@@ -43626,9 +46906,25 @@
     "source": "gpt-edited"
   },
   {
+    "word": "scrubber",
+    "pos": "noun",
+    "meaningVi": "miếng hoặc dụng cụ cọ rửa",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "seal",
     "pos": "noun",
     "meaningVi": "hải cẩu",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "sear",
+    "pos": "verb",
+    "meaningVi": "áp chảo nhanh ở nhiệt độ cao để tạo bề mặt vàng nâu",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -43662,6 +46958,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "seashore",
+    "pos": "noun",
+    "meaningVi": "bờ biển",
+    "synonyms": [
+      "coast"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "seasonal",
     "pos": "adjective",
     "meaningVi": "theo mùa, thời vụ",
@@ -43685,6 +46991,14 @@
       "safety belt"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "seaweed",
+    "pos": "noun",
+    "meaningVi": "rong biển",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -44160,6 +47474,16 @@
     "meaningVi": "kích thước cảm biến",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "sentimental",
+    "pos": "adjective",
+    "meaningVi": "đa cảm; dễ xúc động vì tình cảm hoặc kỷ niệm",
+    "synonyms": [
+      "emotional"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -44654,6 +47978,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "sheep",
+    "pos": "noun",
+    "meaningVi": "con cừu",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "sheet",
     "pos": "noun",
     "meaningVi": "tờ; miếng vật liệu mỏng",
@@ -44721,6 +48053,16 @@
     "meaningVi": "áo sơ mi",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "shiver",
+    "pos": "verb",
+    "meaningVi": "run lên vì lạnh hoặc sợ",
+    "synonyms": [
+      "tremble"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -44894,6 +48236,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "shovel",
+    "pos": "noun",
+    "meaningVi": "cái xẻng",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "show",
     "pos": "verb",
     "meaningVi": "cho xem; chỉ cho",
@@ -44960,6 +48310,24 @@
     "source": "gpt-edited"
   },
   {
+    "word": "shred",
+    "pos": "verb",
+    "meaningVi": "thái hoặc xé thành sợi nhỏ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "shrewd",
+    "pos": "adjective",
+    "meaningVi": "khôn ngoan; biết đánh giá để có lợi",
+    "synonyms": [
+      "astute"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "shrimp",
     "pos": "noun",
     "meaningVi": "tôm",
@@ -44978,9 +48346,35 @@
     "source": "gpt-edited"
   },
   {
+    "word": "shrug",
+    "pos": "verb",
+    "meaningVi": "nhún vai",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "shudder",
+    "pos": "verb",
+    "meaningVi": "rùng mình; rung mạnh trong chốc lát",
+    "synonyms": [
+      "shiver"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "shutdown hook",
     "pos": "noun",
     "meaningVi": "mã chạy khi ứng dụng chuẩn bị dừng",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "shutter",
+    "pos": "noun",
+    "meaningVi": "cửa chớp",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -45077,6 +48471,22 @@
       "pavement"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "sieve",
+    "pos": "noun",
+    "meaningVi": "cái rây",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "sigh",
+    "pos": "verb",
+    "meaningVi": "thở dài",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -45206,6 +48616,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "silverware",
+    "pos": "noun",
+    "meaningVi": "dao, nĩa và thìa dùng trên bàn ăn",
+    "synonyms": [
+      "cutlery"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "similar",
     "pos": "adjective",
     "meaningVi": "tương tự",
@@ -45239,6 +48659,14 @@
       "likewise"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "simmer",
+    "pos": "verb",
+    "meaningVi": "nấu sôi lăn tăn ở lửa nhỏ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -45400,11 +48828,29 @@
     "source": "gpt-edited"
   },
   {
+    "word": "skewer",
+    "pos": "noun",
+    "meaningVi": "xiên dùng nướng hoặc giữ thức ăn",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "skilled",
     "pos": "adjective",
     "meaningVi": "có tay nghề; thành thạo",
     "synonyms": [
       "proficient"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "skillet",
+    "pos": "noun",
+    "meaningVi": "chảo rán có tay cầm",
+    "synonyms": [
+      "frying pan"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -45431,6 +48877,22 @@
     "word": "skirt",
     "pos": "noun",
     "meaningVi": "chân váy",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "skunk",
+    "pos": "noun",
+    "meaningVi": "chồn hôi",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "skylight",
+    "pos": "noun",
+    "meaningVi": "cửa sổ trên mái",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -45587,6 +49049,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "sluggish",
+    "pos": "adjective",
+    "meaningVi": "chậm chạp; thiếu sức sống",
+    "synonyms": [
+      "lethargic"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "slump",
     "pos": "verb",
     "meaningVi": "sụt mạnh và kéo dài",
@@ -45596,6 +49068,16 @@
     ],
     "reason": "",
     "source": "existing-editorial"
+  },
+  {
+    "word": "sly",
+    "pos": "adjective",
+    "meaningVi": "ranh mãnh; lén lút che giấu ý định",
+    "synonyms": [
+      "cunning"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
   },
   {
     "word": "smartphone",
@@ -45627,6 +49109,14 @@
     "word": "smile at",
     "pos": "verb",
     "meaningVi": "mỉm cười với ai hoặc khi nhìn thấy điều gì",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "smirk",
+    "pos": "verb",
+    "meaningVi": "cười nhếch mép với vẻ tự mãn",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -45724,6 +49214,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "sniff",
+    "pos": "verb",
+    "meaningVi": "hít nhẹ qua mũi để ngửi hoặc vì sổ mũi",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "snippet",
     "pos": "noun",
     "meaningVi": "đoạn mã ngắn",
@@ -45739,6 +49237,16 @@
     "meaningVi": "có tuyết",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "snug",
+    "pos": "adjective",
+    "meaningVi": "vừa khít và tạo cảm giác thoải mái",
+    "synonyms": [
+      "close-fitting"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -45813,6 +49321,26 @@
     "source": "existing-editorial"
   },
   {
+    "word": "sob",
+    "pos": "verb",
+    "meaningVi": "khóc nức nở",
+    "synonyms": [
+      "weep"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "sociable",
+    "pos": "adjective",
+    "meaningVi": "hòa đồng; thích ở cùng người khác",
+    "synonyms": [
+      "outgoing"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "socially",
     "pos": "adverb",
     "meaningVi": "về mặt xã hội; trong giao tiếp với người khác",
@@ -45840,6 +49368,14 @@
     "word": "soft",
     "pos": "adjective",
     "meaningVi": "mềm",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "softener",
+    "pos": "noun",
+    "meaningVi": "chất làm mềm vải",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -46077,6 +49613,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "soybean",
+    "pos": "noun",
+    "meaningVi": "hạt đậu nành; đậu tương",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "spa",
     "pos": "noun",
     "meaningVi": "trung tâm chăm sóc sức khỏe và sắc đẹp",
@@ -46088,6 +49632,24 @@
     "word": "space exploration",
     "pos": "noun",
     "meaningVi": "thám hiểm vũ trụ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "spacious",
+    "pos": "adjective",
+    "meaningVi": "rộng rãi; có nhiều không gian",
+    "synonyms": [
+      "roomy"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "spade",
+    "pos": "noun",
+    "meaningVi": "xẻng đào đất có lưỡi phẳng",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -46124,6 +49686,16 @@
     "meaningVi": "lấp lánh; long lanh",
     "synonyms": [
       "glittering"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "sparse",
+    "pos": "adjective",
+    "meaningVi": "thưa thớt; phân bố ít và xa nhau",
+    "synonyms": [
+      "scattered"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -46451,6 +50023,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "spinach",
+    "pos": "noun",
+    "meaningVi": "rau chân vịt; cải bó xôi",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "spine",
     "pos": "noun",
     "meaningVi": "cột sống",
@@ -46482,6 +50062,14 @@
     "word": "splash",
     "pos": "noun",
     "meaningVi": "vệt nước hoặc bùn bắn tung tóe",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "splinter",
+    "pos": "noun",
+    "meaningVi": "mảnh dằm",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -46589,6 +50177,24 @@
     "source": "gpt-edited"
   },
   {
+    "word": "spotless",
+    "pos": "adjective",
+    "meaningVi": "sạch không tì vết",
+    "synonyms": [
+      "immaculate"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "spout",
+    "pos": "noun",
+    "meaningVi": "vòi hoặc miệng rót của bình",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "sprain",
     "pos": "noun",
     "meaningVi": "bong gân",
@@ -46618,6 +50224,22 @@
     "word": "spreadsheet",
     "pos": "noun",
     "meaningVi": "bảng tính",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "sprinkle",
+    "pos": "verb",
+    "meaningVi": "rắc hoặc rảy thành những lượng nhỏ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "sprinkler",
+    "pos": "noun",
+    "meaningVi": "vòi phun nước tự động",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -46662,6 +50284,22 @@
       "compress"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "squid",
+    "pos": "noun",
+    "meaningVi": "mực ống",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "squirrel",
+    "pos": "noun",
+    "meaningVi": "con sóc",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -46793,6 +50431,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "stairway",
+    "pos": "noun",
+    "meaningVi": "lối cầu thang",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "stake",
     "pos": "noun",
     "meaningVi": "cọc",
@@ -46824,6 +50470,14 @@
       "booth"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "stallion",
+    "pos": "noun",
+    "meaningVi": "ngựa đực trưởng thành chưa thiến",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -47237,6 +50891,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "steadfast",
+    "pos": "adjective",
+    "meaningVi": "kiên định; không thay đổi sự ủng hộ hoặc quyết tâm",
+    "synonyms": [
+      "unwavering"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "steadily",
     "pos": "adverb",
     "meaningVi": "đều đặn, ổn định",
@@ -47261,6 +50925,14 @@
     "word": "steam",
     "pos": "noun",
     "meaningVi": "hơi; hơi nước",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "steamer",
+    "pos": "noun",
+    "meaningVi": "nồi hoặc dụng cụ hấp",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -47329,6 +51001,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "stepladder",
+    "pos": "noun",
+    "meaningVi": "thang chữ A",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "stepmother",
     "pos": "noun",
     "meaningVi": "mẹ kế",
@@ -47348,6 +51028,14 @@
     "word": "stereotype",
     "pos": "noun",
     "meaningVi": "định kiến rập khuôn",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "sterilize",
+    "pos": "verb",
+    "meaningVi": "tiệt trùng bằng quy trình thích hợp",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -47555,6 +51243,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "stopper",
+    "pos": "noun",
+    "meaningVi": "nút bịt bình hoặc chai",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "storage capacity",
     "pos": "noun",
     "meaningVi": "dung lượng lưu trữ",
@@ -47598,6 +51294,14 @@
     "word": "stored procedure",
     "pos": "noun",
     "meaningVi": "thủ tục được lưu và chạy trong cơ sở dữ liệu",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "storeroom",
+    "pos": "noun",
+    "meaningVi": "phòng kho",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -47967,6 +51671,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "sturdy",
+    "pos": "adjective",
+    "meaningVi": "chắc chắn; chịu lực tốt",
+    "synonyms": [
+      "strong"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "style",
     "pos": "noun",
     "meaningVi": "lối viết, phong cách",
@@ -48327,6 +52041,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "summit",
+    "pos": "noun",
+    "meaningVi": "đỉnh núi",
+    "synonyms": [
+      "peak"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "sunglasses",
     "pos": "noun",
     "meaningVi": "kính râm",
@@ -48442,6 +52166,16 @@
     "meaningVi": "bữa tối nhẹ",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "supple",
+    "pos": "adjective",
+    "meaningVi": "mềm dẻo; dễ uốn hoặc cử động",
+    "synonyms": [
+      "flexible"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -48756,9 +52490,25 @@
     "source": "gpt-edited"
   },
   {
+    "word": "swamp",
+    "pos": "noun",
+    "meaningVi": "đầm lầy, thường có cây gỗ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "swan",
     "pos": "noun",
     "meaningVi": "thiên nga",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "sway",
+    "pos": "verb",
+    "meaningVi": "đung đưa; nghiêng nhẹ qua lại",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -49042,6 +52792,22 @@
     "source": "gpt-edited"
   },
   {
+    "word": "tablecloth",
+    "pos": "noun",
+    "meaningVi": "khăn trải bàn",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "tablespoon",
+    "pos": "noun",
+    "meaningVi": "thìa canh",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "tablet",
     "pos": "noun",
     "meaningVi": "viên thuốc nén",
@@ -49055,6 +52821,16 @@
     "meaningVi": "giải quyết, đương đầu",
     "synonyms": [
       "address"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "tactful",
+    "pos": "adjective",
+    "meaningVi": "khéo léo, tránh làm người khác phật ý",
+    "synonyms": [
+      "diplomatic"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -49388,6 +53164,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "tangerine",
+    "pos": "noun",
+    "meaningVi": "quả quýt",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "tap",
     "pos": "verb",
     "meaningVi": "gõ nhẹ; vỗ nhẹ",
@@ -49419,6 +53203,14 @@
     "word": "target audience",
     "pos": "noun",
     "meaningVi": "nhóm khách hàng mục tiêu",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "taro",
+    "pos": "noun",
+    "meaningVi": "khoai môn",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -49584,6 +53376,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "teapot",
+    "pos": "noun",
+    "meaningVi": "ấm pha trà",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "tease",
     "pos": "verb",
     "meaningVi": "chọc; chọc ghẹo; ghẹo",
@@ -49591,6 +53391,14 @@
       "taunt"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "teaspoon",
+    "pos": "noun",
+    "meaningVi": "thìa nhỏ; thìa cà phê",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -50056,6 +53864,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "thaw",
+    "pos": "verb",
+    "meaningVi": "rã đông; tan băng",
+    "synonyms": [
+      "defrost"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "theme",
     "pos": "noun",
     "meaningVi": "chủ đề xuyên suốt",
@@ -50134,6 +53952,24 @@
     "source": "gpt-edited"
   },
   {
+    "word": "thermos",
+    "pos": "noun",
+    "meaningVi": "bình giữ nhiệt",
+    "synonyms": [
+      "vacuum flask"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "thermostat",
+    "pos": "noun",
+    "meaningVi": "bộ điều chỉnh nhiệt độ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "thesis",
     "pos": "noun",
     "meaningVi": "luận án",
@@ -50141,6 +53977,14 @@
       "dissertation"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "thicket",
+    "pos": "noun",
+    "meaningVi": "bụi cây hoặc lùm cây rậm rạp",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -50434,6 +54278,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "thyme",
+    "pos": "noun",
+    "meaningVi": "cỏ xạ hương, một loại rau gia vị",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "ticket",
     "pos": "noun",
     "meaningVi": "phiếu yêu cầu công việc",
@@ -50474,6 +54326,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "tiger",
+    "pos": "noun",
+    "meaningVi": "con hổ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "tight",
     "pos": "adjective",
     "meaningVi": "chật; bó sát",
@@ -50489,6 +54349,22 @@
       "pantyhose"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "tile",
+    "pos": "noun",
+    "meaningVi": "viên gạch lát hoặc ốp",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "timber",
+    "pos": "noun",
+    "meaningVi": "gỗ dùng trong xây dựng",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -50562,6 +54438,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "timid",
+    "pos": "adjective",
+    "meaningVi": "rụt rè; nhút nhát",
+    "synonyms": [
+      "shy"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "timing",
     "pos": "noun",
     "meaningVi": "thời điểm",
@@ -50624,6 +54510,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "toaster",
+    "pos": "noun",
+    "meaningVi": "máy nướng bánh mì lát",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "toddler",
     "pos": "noun",
     "meaningVi": "trẻ nhỏ mới biết đi",
@@ -50645,6 +54539,16 @@
     "meaningVi": "móng chân",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "tofu",
+    "pos": "noun",
+    "meaningVi": "đậu phụ; đậu hũ",
+    "synonyms": [
+      "bean curd"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -50819,6 +54723,14 @@
     "word": "toothpaste",
     "pos": "noun",
     "meaningVi": "kem đánh răng",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "toothpick",
+    "pos": "noun",
+    "meaningVi": "tăm",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -51474,6 +55386,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "treacherous",
+    "pos": "adjective",
+    "meaningVi": "phản trắc; không đáng tin vì có thể phản bội",
+    "synonyms": [
+      "disloyal"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "tread",
     "pos": "verb",
     "meaningVi": "giẫm",
@@ -51513,6 +55435,24 @@
     "word": "trek",
     "pos": "noun",
     "meaningVi": "cuộc hành trình dài gian khổ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "tremble",
+    "pos": "verb",
+    "meaningVi": "run; rung nhẹ không kiểm soát",
+    "synonyms": [
+      "shake"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "tremor",
+    "pos": "noun",
+    "meaningVi": "rung chấn nhẹ của mặt đất",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -51558,6 +55498,14 @@
     "word": "triangle",
     "pos": "noun",
     "meaningVi": "tam giác; hình tam giác",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "tributary",
+    "pos": "noun",
+    "meaningVi": "phụ lưu của một con sông",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -51662,9 +55610,25 @@
     "source": "gpt-edited"
   },
   {
+    "word": "trout",
+    "pos": "noun",
+    "meaningVi": "cá hồi nước ngọt",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "truancy",
     "pos": "noun",
     "meaningVi": "việc trốn học",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "truffle",
+    "pos": "noun",
+    "meaningVi": "nấm truffle mọc dưới đất",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -51701,6 +55665,26 @@
     "meaningVi": "tin tưởng",
     "synonyms": [
       "believe"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "trustworthy",
+    "pos": "adjective",
+    "meaningVi": "đáng tin cậy về sự trung thực",
+    "synonyms": [
+      "reliable"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "truthful",
+    "pos": "adjective",
+    "meaningVi": "trung thực; nói đúng sự thật",
+    "synonyms": [
+      "honest"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -51746,6 +55730,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "tumbler",
+    "pos": "noun",
+    "meaningVi": "cốc uống nước không có quai",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "tuna",
     "pos": "noun",
     "meaningVi": "cá ngừ",
@@ -51787,6 +55779,14 @@
       "chaotic"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "turmeric",
+    "pos": "noun",
+    "meaningVi": "nghệ; bột nghệ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -51930,6 +55930,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "turnip",
+    "pos": "noun",
+    "meaningVi": "củ cải tròn",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "turnkey",
     "pos": "adjective",
     "meaningVi": "trọn gói sẵn dùng",
@@ -51971,6 +55979,14 @@
       "turn"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "twitch",
+    "pos": "verb",
+    "meaningVi": "co giật nhẹ và nhanh",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -52157,6 +56173,16 @@
     "meaningVi": "bất tỉnh, vô thức",
     "synonyms": [
       "insensible"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "unconventional",
+    "pos": "adjective",
+    "meaningVi": "không theo lối thông thường",
+    "synonyms": [
+      "unorthodox"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -52600,6 +56626,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "unruly",
+    "pos": "adjective",
+    "meaningVi": "khó kiểm soát; không tuân kỷ luật",
+    "synonyms": [
+      "disorderly"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "unsafe",
     "pos": "adjective",
     "meaningVi": "không an toàn; mất an ninh",
@@ -52713,6 +56749,16 @@
     "meaningVi": "bán phiên bản hoặc lựa chọn giá trị cao hơn",
     "synonyms": [
       "upselling"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "upbeat",
+    "pos": "adjective",
+    "meaningVi": "lạc quan và vui vẻ",
+    "synonyms": [
+      "optimistic"
     ],
     "reason": "",
     "source": "gpt-edited"
@@ -52992,6 +57038,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "vacuum",
+    "pos": "noun",
+    "meaningVi": "máy hút bụi",
+    "synonyms": [
+      "vacuum cleaner"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "vacuum bag",
     "pos": "noun",
     "meaningVi": "túi chứa bụi của máy hút bụi",
@@ -53075,6 +57131,14 @@
       "legitimacy"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "valley",
+    "pos": "noun",
+    "meaningVi": "thung lũng",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -53216,6 +57280,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "varnish",
+    "pos": "noun",
+    "meaningVi": "vecni bảo vệ bề mặt gỗ",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "vary",
     "pos": "verb",
     "meaningVi": "khác nhau giữa các trường hợp",
@@ -53233,6 +57305,14 @@
       "immense"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "veal",
+    "pos": "noun",
+    "meaningVi": "thịt bê",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -53293,6 +57373,14 @@
       "supplier"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "venison",
+    "pos": "noun",
+    "meaningVi": "thịt hươu; thịt nai",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -53556,6 +57644,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "vigilant",
+    "pos": "adjective",
+    "meaningVi": "cảnh giác và theo dõi cẩn thận",
+    "synonyms": [
+      "watchful"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "vigorous",
     "pos": "adjective",
     "meaningVi": "mạnh mẽ; đầy năng lượng",
@@ -53579,6 +57677,14 @@
     "word": "vinegar",
     "pos": "noun",
     "meaningVi": "giấm",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "vineyard",
+    "pos": "noun",
+    "meaningVi": "vườn nho, thường để sản xuất rượu",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -53733,6 +57839,16 @@
     "meaningVi": "vitamin; sinh tố",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "vivacious",
+    "pos": "adjective",
+    "meaningVi": "hoạt bát; vui tươi và đầy sức sống",
+    "synonyms": [
+      "lively"
+    ],
+    "reason": "",
     "source": "gpt-edited"
   },
   {
@@ -54072,6 +58188,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "wallpaper",
+    "pos": "noun",
+    "meaningVi": "giấy dán tường",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "walnut",
     "pos": "noun",
     "meaningVi": "óc chó",
@@ -54154,6 +58278,24 @@
     "source": "gpt-edited"
   },
   {
+    "word": "wary",
+    "pos": "adjective",
+    "meaningVi": "cảnh giác; dè chừng",
+    "synonyms": [
+      "cautious"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "washer",
+    "pos": "noun",
+    "meaningVi": "vòng đệm dùng với bu lông",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "washing machine",
     "pos": "noun",
     "meaningVi": "máy giặt",
@@ -54185,6 +58327,22 @@
     "word": "water resistance rating",
     "pos": "noun",
     "meaningVi": "mức đánh giá khả năng chống nước",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "watercress",
+    "pos": "noun",
+    "meaningVi": "cải xoong",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "waterfall",
+    "pos": "noun",
+    "meaningVi": "thác nước",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -54296,6 +58454,14 @@
     "source": "gpt-edited"
   },
   {
+    "word": "wedge",
+    "pos": "noun",
+    "meaningVi": "miếng cắt hình múi hoặc hình nêm",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "weed",
     "pos": "noun",
     "meaningVi": "cỏ dại",
@@ -54374,9 +58540,25 @@
     "source": "gpt-edited"
   },
   {
+    "word": "wetland",
+    "pos": "noun",
+    "meaningVi": "vùng đất ngập nước",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "wheat",
     "pos": "noun",
     "meaningVi": "lúa mì",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "wheelbarrow",
+    "pos": "noun",
+    "meaningVi": "xe cút kít",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -54415,6 +58597,14 @@
       "lash"
     ],
     "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "whirlpool",
+    "pos": "noun",
+    "meaningVi": "xoáy nước",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
   },
   {
@@ -54772,9 +58962,33 @@
     "source": "gpt-edited"
   },
   {
+    "word": "wobble",
+    "pos": "verb",
+    "meaningVi": "lắc lư vì không vững",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "wok",
+    "pos": "noun",
+    "meaningVi": "chảo sâu lòng",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "wolf",
     "pos": "noun",
     "meaningVi": "sói; chó sói",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "woodland",
+    "pos": "noun",
+    "meaningVi": "vùng đất có nhiều cây rừng",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -55126,6 +59340,16 @@
     "source": "gpt-edited"
   },
   {
+    "word": "wrench",
+    "pos": "noun",
+    "meaningVi": "cờ lê",
+    "synonyms": [
+      "spanner"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
     "word": "wrist",
     "pos": "noun",
     "meaningVi": "cổ tay",
@@ -55262,6 +59486,38 @@
     "source": "gpt-edited"
   },
   {
+    "word": "yak",
+    "pos": "noun",
+    "meaningVi": "bò Tây Tạng",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "yam",
+    "pos": "noun",
+    "meaningVi": "khoai từ hoặc khoai thuộc chi củ nâu",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "yawn",
+    "pos": "verb",
+    "meaningVi": "ngáp",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "yeast",
+    "pos": "noun",
+    "meaningVi": "men dùng làm bánh hoặc lên men",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "yield",
     "pos": "verb",
     "meaningVi": "mang lại, nhượng bộ",
@@ -55290,6 +59546,24 @@
     "source": "gpt-edited"
   },
   {
+    "word": "zealous",
+    "pos": "adjective",
+    "meaningVi": "nhiệt thành; rất hăng hái",
+    "synonyms": [
+      "enthusiastic"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "zebra",
+    "pos": "noun",
+    "meaningVi": "ngựa vằn",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
     "word": "zero trust",
     "pos": "noun",
     "meaningVi": "mô hình không mặc định tin cậy truy cập",
@@ -55301,6 +59575,14 @@
     "word": "zero-day",
     "pos": "noun",
     "meaningVi": "lỗ hổng chưa có bản vá",
+    "synonyms": [],
+    "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "zest",
+    "pos": "verb",
+    "meaningVi": "bào lấy lớp vỏ ngoài mỏng của quả họ cam quýt",
     "synonyms": [],
     "reason": "Chưa xác định từ đồng nghĩa phổ biến phù hợp với đúng nghĩa và từ loại này.",
     "source": "gpt-edited"
@@ -55329,6 +59611,16 @@
     "meaningVi": "khu vực",
     "synonyms": [
       "area"
+    ],
+    "reason": "",
+    "source": "gpt-edited"
+  },
+  {
+    "word": "zucchini",
+    "pos": "noun",
+    "meaningVi": "bí ngòi, cách gọi phổ biến ở Mỹ",
+    "synonyms": [
+      "courgette"
     ],
     "reason": "",
     "source": "gpt-edited"

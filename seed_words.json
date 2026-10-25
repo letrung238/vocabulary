@@ -19607,7 +19607,7 @@
     "exampleVi": "Cậu ấy rất chín chắn so với tuổi.",
     "senses": [
       {
-        "pos": "adjective",
+        "pos": "verb",
         "meaningVi": "đáo hạn (trái phiếu, khoản vay)",
         "example": "The bond matures in five years.",
         "exampleVi": "Trái phiếu đáo hạn sau năm năm."
@@ -19615,6 +19615,33 @@
     ],
     "synonyms": [
       "grown-up"
+    ],
+    "forms": [
+      {
+        "word": "matures",
+        "types": [
+          "present_third_person_singular"
+        ],
+        "ipa": "/məˈtʃʊərz/",
+        "example": "The bond matures in five years.",
+        "exampleVi": "Trái phiếu đáo hạn sau năm năm."
+      },
+      {
+        "word": "maturing",
+        "types": [
+          "present_participle",
+          "gerund"
+        ],
+        "ipa": "/məˈtʃʊərɪŋ/"
+      },
+      {
+        "word": "matured",
+        "types": [
+          "past_simple",
+          "past_participle"
+        ],
+        "ipa": "/məˈtʃʊərd/"
+      }
     ]
   },
   {

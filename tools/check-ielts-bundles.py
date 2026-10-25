@@ -7,7 +7,7 @@ from pathlib import Path
 from ielts_bundles import ROOT, IELTS_DECKS, RETIRED_DECKS, read, refresh, source_decks
 
 # Captured before deleting the old files; covers every field of every record.
-ORIGINAL_CONTENT_SHA256 = '29f5be47bf9e757a2346d3a0866c32dc3d371da1197202f5941534b50fb8ea2f'
+ORIGINAL_CONTENT_SHA256 = '01c2e5a7876cc056e1224957d610477fe5c06fa9aab09de5c9ed0522e241bbe4'
 
 
 def check_catalog(folder):
@@ -16,7 +16,7 @@ def check_catalog(folder):
     assert len({e['url'] for e in entries}) == len(entries)
     ielts = [e for e in entries if Path(e['url']).name.startswith('ielts-')]
     assert [(e['url'], e['count']) for e in ielts] == [
-        ('decks/ielts-academic.json', 318), ('decks/ielts-task1.json', 52), ('decks/ielts-topics.json', 339)]
+        ('decks/ielts-academic.json', 317), ('decks/ielts-task1.json', 52), ('decks/ielts-topics.json', 339)]
     assert {p.name for p in (folder / 'decks').glob('ielts-*.json')} == set(IELTS_DECKS)
     for e in entries:
         assert len(read(folder / e['url'])) == e['count'], e['url']
@@ -25,14 +25,14 @@ def check_catalog(folder):
 
 def main():
     combined = [w for name in IELTS_DECKS for w in read(ROOT / 'decks' / name)]
-    assert len(combined) == len({w['word'].strip().lower() for w in combined}) == 709
+    assert len(combined) == len({w['word'].strip().lower() for w in combined}) == 708
     assert sum(len(w.get('senses', [])) for w in combined) == 466
     assert sum(len(w.get('forms', [])) for w in combined) == 939
     content = json.dumps(sorted(({k:v for k,v in w.items() if k != 'phrases'} for w in combined), key=lambda w: w['word']), sort_keys=True,
                          ensure_ascii=False, separators=(',', ':')).encode('utf-8')
     assert hashlib.sha256(content).hexdigest() == ORIGINAL_CONTENT_SHA256, 'Original IELTS vocabulary changed'
     assert len({w['word'] for p in source_decks(ROOT) for w in read(p)} |
-               {w['word'] for w in read(ROOT / 'seed_words.json')}) == 5520
+               {w['word'] for w in read(ROOT / 'seed_words.json')}) == 6019
     check_catalog(ROOT)
     generated = [ROOT / 'decks' / name for name in IELTS_DECKS] + [ROOT / 'catalog.json']
     before = {p: p.read_bytes() for p in generated}
@@ -40,7 +40,7 @@ def main():
     assert all(p.read_bytes() == content for p, content in before.items()), 'Refresh is not idempotent'
     assert all(not (ROOT/'decks'/name).exists() for name in RETIRED_DECKS)
     print('PASS: exactly 3 public IELTS sources; 16 retired files absent; '
-          'all 709 original roots/466 senses/939 forms unchanged; idempotent catalog refresh.')
+          'all 708 original roots/466 senses/939 forms unchanged; idempotent catalog refresh.')
 
 
 if __name__ == '__main__':

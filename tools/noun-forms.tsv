@@ -758,7 +758,6 @@ crew	countable	0	crews
 crime	countable	0	crimes
 crime rate	countable	1	crime rates
 crisis	countable	0	crises
-criteria	existing_plural	0	
 criterion	countable	0	criteria
 critic	countable	0	critics
 critical path	countable	1	critical paths
@@ -3912,3 +3911,353 @@ stepsister	countable	0	stepsisters
 half-brother	countable	0	half-brothers
 half-sister	countable	0	half-sisters
 foster parent	countable	1	foster parents
+attic	countable	0	attics
+patio	countable	0	patios
+driveway	countable	0	driveways
+garage	countable	0	garages
+gutter	countable	0	gutters
+doorstep	countable	0	doorsteps
+latch	countable	0	latches
+hinge	countable	0	hinges
+keyhole	countable	0	keyholes
+padlock	countable	0	padlocks
+deadbolt	countable	0	deadbolts
+shutter	countable	0	shutters
+skylight	countable	0	skylights
+radiator	countable	0	radiators
+thermostat	countable	0	thermostats
+stairway	countable	0	stairways
+banister	countable	0	banisters
+handrail	countable	0	handrails
+loft	countable	0	lofts
+cellar	countable	0	cellars
+pantry	countable	0	pantries
+storeroom	countable	0	storerooms
+courtyard	countable	0	courtyards
+fence	countable	0	fences
+hose	countable	0	hoses
+sprinkler	countable	0	sprinklers
+rake	countable	0	rakes
+shovel	countable	0	shovels
+spade	countable	0	spades
+wheelbarrow	countable	0	wheelbarrows
+compost	mass	0	
+mulch	mass	0	
+gravel	mass	0	
+pebble	countable	0	pebbles
+cement	mass	0	
+plaster	mass	0	
+timber	mass	0	
+plywood	mass	0	
+tile	countable	0	tiles
+grout	mass	0	
+insulation	mass	0	
+wallpaper	mass	0	
+paintbrush	countable	0	paintbrushes
+roller	countable	0	rollers
+sandpaper	mass	0	
+varnish	mass	0	
+glue	mass	0	
+adhesive	countable	0	adhesives
+nail	countable	0	nails
+washer	countable	0	washers
+pliers	lexical_plural	0	
+wrench	countable	0	wrenches
+mallet	countable	0	mallets
+drill	countable	0	drills
+chisel	countable	0	chisels
+clamp	countable	0	clamps
+crowbar	countable	0	crowbars
+stepladder	countable	0	stepladders
+bench	countable	0	benches
+bookcase	countable	0	bookcases
+dresser	countable	0	dressers
+ottoman	countable	0	ottomans
+bolster	countable	0	bolsters
+quilt	countable	0	quilts
+bedspread	countable	0	bedspreads
+headboard	countable	0	headboards
+mattress	countable	0	mattresses
+cot	countable	0	cots
+crib	countable	0	cribs
+bunk	countable	0	bunks
+hammock	countable	0	hammocks
+bulb	countable	0	bulbs
+cord	countable	0	cords
+fuse	countable	0	fuses
+breaker	countable	0	breakers
+adapter	countable	0	adapters
+battery	countable	0	batteries
+flashlight	countable	0	flashlights
+lantern	countable	0	lanterns
+match	countable	0	matches
+lighter	countable	0	lighters
+ashtray	countable	0	ashtrays
+bin	countable	0	bins
+dustbin	countable	0	dustbins
+bucket	countable	0	buckets
+scrubber	countable	0	scrubbers
+bleach	mass	0	
+softener	mass	0	
+disinfectant	mass	0	
+vacuum	countable	0	vacuums
+dust	mass	0	
+dirt	mass	0	
+cobweb	countable	0	cobwebs
+clutter	mass	0	
+rubbish	mass	0	
+garbage	mass	0	
+mildew	mass	0	
+rust	mass	0	
+dent	countable	0	dents
+splinter	countable	0	splinters
+chestnut	countable	0	chestnuts
+hazelnut	countable	0	hazelnuts
+pistachio	countable	0	pistachios
+pecan	countable	0	pecans
+macadamia	countable	0	macadamias
+raisin	countable	0	raisins
+prune	countable	0	prunes
+fig	countable	0	figs
+apricot	countable	0	apricots
+quince	countable	0	quinces
+guava	countable	0	guavas
+papaya	countable	0	papayas
+cantaloupe	countable	0	cantaloupes
+honeydew	countable	0	honeydews
+grapefruit	countable	0	grapefruits
+tangerine	countable	0	tangerines
+mandarin	countable	0	mandarins
+clementine	countable	0	clementines
+kumquat	countable	0	kumquats
+pomegranate	countable	0	pomegranates
+blackberry	countable	0	blackberries
+raspberry	countable	0	raspberries
+blueberry	countable	0	blueberries
+cranberry	countable	0	cranberries
+gooseberry	countable	0	gooseberries
+mulberry	countable	0	mulberries
+melon	countable	0	melons
+kiwi	countable	0	kiwis
+artichoke	countable	0	artichokes
+asparagus	mass	0	
+radish	countable	0	radishes
+turnip	countable	0	turnips
+leek	countable	0	leeks
+scallion	countable	0	scallions
+celery	mass	0	
+fennel	mass	0	
+dill	mass	0	
+parsley	mass	0	
+coriander	mass	0	
+cilantro	mass	0	
+basil	mass	0	
+oregano	mass	0	
+thyme	mass	0	
+rosemary	mass	0	
+nutmeg	mass	0	
+cinnamon	mass	0	
+clove	countable	0	cloves
+cumin	mass	0	
+turmeric	mass	0	
+paprika	mass	0	
+sieve	countable	0	sieves
+grater	countable	0	graters
+skillet	countable	0	skillets
+wok	countable	0	woks
+casserole	countable	0	casseroles
+teapot	countable	0	teapots
+jug	countable	0	jugs
+pitcher	countable	0	pitchers
+mug	countable	0	mugs
+tumbler	countable	0	tumblers
+goblet	countable	0	goblets
+saucer	countable	0	saucers
+platter	countable	0	platters
+basin	countable	0	basins
+jar	countable	0	jars
+canister	countable	0	canisters
+flask	countable	0	flasks
+thermos	countable	0	thermoses
+stopper	countable	0	stoppers
+cork	countable	0	corks
+spout	countable	0	spouts
+prong	countable	0	prongs
+foil	mass	0	
+parchment	mass	0	
+napkin	countable	0	napkins
+coaster	countable	0	coasters
+tablecloth	countable	0	tablecloths
+placemat	countable	0	placemats
+mitt	countable	0	mitts
+crockery	mass	0	
+silverware	mass	0	
+chopstick	countable	0	chopsticks
+toothpick	countable	0	toothpicks
+skewer	countable	0	skewers
+barbecue	countable	0	barbecues
+toaster	countable	0	toasters
+blender	countable	0	blenders
+mixer	countable	0	mixers
+mincer	countable	0	mincers
+grinder	countable	0	grinders
+steamer	countable	0	steamers
+fryer	countable	0	fryers
+faucet	countable	0	faucets
+teaspoon	countable	0	teaspoons
+tablespoon	countable	0	tablespoons
+wedge	countable	0	wedges
+crumb	countable	0	crumbs
+rind	countable	0	rinds
+pulp	mass	0	
+yeast	mass	0	
+saffron	mass	0	
+ginger	mass	0	
+broccoli	mass	0	
+cauliflower	countable	0	cauliflowers
+cabbage	countable	0	cabbages
+kale	mass	0	
+spinach	mass	0	
+watercress	mass	0	
+zucchini	countable	0	zucchinis
+eggplant	countable	0	eggplants
+pumpkin	countable	0	pumpkins
+gourd	countable	0	gourds
+okra	mass	0	
+taro	mass	0	
+yam	countable	0	yams
+soybean	countable	0	soybeans
+tofu	mass	0	
+truffle	countable	0	truffles
+seaweed	mass	0	
+kelp	mass	0	
+mussel	countable	0	mussels
+oyster	countable	0	oysters
+clam	countable	0	clams
+scallop	countable	0	scallops
+squid	invariant	0	squid
+octopus	countable	0	octopuses
+prawn	countable	0	prawns
+lobster	countable	0	lobsters
+crab	countable	0	crabs
+anchovy	countable	0	anchovies
+sardine	countable	0	sardines
+mackerel	invariant	0	mackerel
+herring	invariant	0	herring
+trout	invariant	0	trout
+carp	invariant	0	carp
+cod	invariant	0	cod
+haddock	invariant	0	haddock
+halibut	invariant	0	halibut
+eel	countable	0	eels
+venison	mass	0	
+veal	mass	0	
+lamb	mass	0	
+mutton	mass	0	
+poultry	mass	0	
+salami	mass	0	
+ham	mass	0	
+brisket	countable	0	briskets
+broth	mass	0	
+gravy	mass	0	
+marinade	countable	0	marinades
+orchard	countable	0	orchards
+vineyard	countable	0	vineyards
+meadow	countable	0	meadows
+prairie	countable	0	prairies
+pasture	countable	0	pastures
+paddock	countable	0	paddocks
+farmland	mass	0	
+plantation	countable	0	plantations
+grove	countable	0	groves
+woodland	mass	0	
+jungle	countable	0	jungles
+rainforest	countable	0	rainforests
+thicket	countable	0	thickets
+heath	countable	0	heaths
+moor	countable	0	moors
+marsh	countable	0	marshes
+swamp	countable	0	swamps
+bog	countable	0	bogs
+wetland	countable	0	wetlands
+estuary	countable	0	estuaries
+delta	countable	0	deltas
+lagoon	countable	0	lagoons
+cove	countable	0	coves
+inlet	countable	0	inlets
+gulf	countable	0	gulfs
+creek	countable	0	creeks
+brook	countable	0	brooks
+tributary	countable	0	tributaries
+waterfall	countable	0	waterfalls
+whirlpool	countable	0	whirlpools
+pond	countable	0	ponds
+puddle	countable	0	puddles
+dam	countable	0	dams
+levee	countable	0	levees
+embankment	countable	0	embankments
+seashore	countable	0	seashores
+sandbar	countable	0	sandbars
+dune	countable	0	dunes
+ravine	countable	0	ravines
+canyon	countable	0	canyons
+valley	countable	0	valleys
+summit	countable	0	summits
+foothill	countable	0	foothills
+hillside	countable	0	hillsides
+iceberg	countable	0	icebergs
+avalanche	countable	0	avalanches
+landslide	countable	0	landslides
+mudslide	countable	0	mudslides
+tremor	countable	0	tremors
+aftershock	countable	0	aftershocks
+badger	countable	0	badgers
+otter	countable	0	otters
+beaver	countable	0	beavers
+hedgehog	countable	0	hedgehogs
+porcupine	countable	0	porcupines
+squirrel	countable	0	squirrels
+chipmunk	countable	0	chipmunks
+raccoon	countable	0	raccoons
+skunk	countable	0	skunks
+hamster	countable	0	hamsters
+gerbil	countable	0	gerbils
+rabbit	countable	0	rabbits
+hare	countable	0	hares
+deer	invariant	0	deer
+moose	invariant	0	moose
+elk	invariant	0	elk
+reindeer	invariant	0	reindeer
+antelope	invariant	0	antelope
+gazelle	countable	0	gazelles
+bison	invariant	0	bison
+buffalo	countable	0	buffaloes
+ox	countable	0	oxen
+yak	countable	0	yaks
+goat	countable	0	goats
+sheep	invariant	0	sheep
+ewe	countable	0	ewes
+boar	countable	0	boars
+piglet	countable	0	piglets
+foal	countable	0	foals
+colt	countable	0	colts
+filly	countable	0	fillies
+mare	countable	0	mares
+stallion	countable	0	stallions
+donkey	countable	0	donkeys
+mule	countable	0	mules
+pony	countable	0	ponies
+zebra	countable	0	zebras
+giraffe	countable	0	giraffes
+hippopotamus	countable	0	hippopotamuses
+rhinoceros	countable	0	rhinoceroses
+elephant	countable	0	elephants
+leopard	countable	0	leopards
+cheetah	countable	0	cheetahs
+jaguar	countable	0	jaguars
+panther	countable	0	panthers
+lynx	countable	0	lynxes
+bobcat	countable	0	bobcats
+cougar	countable	0	cougars
+lion	countable	0	lions
+tiger	countable	0	tigers

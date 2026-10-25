@@ -12,16 +12,19 @@ ROOT=Path(__file__).resolve().parents[1]
 builder=runpy.run_path(str(ROOT/'tools/build-everyday-500.py'))
 read=lambda p:json.loads(p.read_text(encoding='utf-8'))
 norm=lambda w:re.sub(r'[\s\-‐‑‒–—]+',' ',w.strip().lower())
-deck=read(ROOT/'decks/everyday-500.json')
+from everyday_extension import names as extension_names
+full=read(ROOT/'decks/everyday-500.json')
+assert len(full)==1000
+deck=[word for word in full if word['word'] not in extension_names()]
 proposal=builder['proposed']()
 assert len(deck)==len({norm(w['word']) for w in deck})==500
 assert [w['word'] for w in deck]==[w for _,w,_ in proposal]
-assert [{k:v for k,v in w.items() if k not in {'forms','phrases'}} for w in deck]==builder['build']()
+assert [{k:v for k,v in w.items() if k not in {'forms','phrases'}} for w in deck]==builder['build']()[:500]
 old=[w for path in [ROOT/'seed_words.json',*sorted((ROOT/'decks').glob('*.json'))] if path.name!='everyday-500.json' for w in owned_entries(path, read(path))]
 known={norm(w['word']) for w in old}|{norm(f['word']) for w in old for f in w.get('forms',[])}
 assert not {norm(w['word']) for w in deck}&known
 assert not {norm(w['word']).replace(' ','') for w in deck}&{w.replace(' ','') for w in known}
-assert len({w['word'] for w in old})==5669-sum(len(w.get('phrases',[])) for w in deck)
+assert len({w['word'] for w in old})==5668-sum(len(w.get('phrases',[])) for w in deck)
 assert sum(len(w.get('forms',[])) for w in deck)==528
 examples=[s for w in deck for s in [w]+w.get('senses',[])]
 assert len(examples)==583 and all(s['example'].strip() and s['exampleVi'].strip() for s in examples)
@@ -56,5 +59,5 @@ for word in deck:
         patterns=[word['word']]+[f['word'] for f in word.get('forms',[])]
         assert any(re.search(r'(?<![a-z])'+re.escape(p.lower())+r'(?![a-z])',sense['example'].lower()) for p in patterns),(word['word'],sense['example'])
 listings=[[f for f in read(ROOT/p)['files'] if f['url']=='decks/everyday-500.json'] for p in ['catalog.json']]
-assert len(listings[0])==1 and listings[0][0]['count']==500
+assert len(listings[0])==1 and listings[0][0]['count']==1000
 print('PASS: exactly 500 approved roots, 583 bilingual meanings, 528 nested forms, no prior duplicates, mass/plural-only nouns, irregular plurals, homograph IPA, catalog and public source.')

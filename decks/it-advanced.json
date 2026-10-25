@@ -638,8 +638,8 @@
     "ipa": "/dɑːk lɔːntʃ/",
     "pos": "noun",
     "meaningVi": "chạy ngầm chưa lộ cho người dùng",
-    "example": "We dark launched the new engine.",
-    "exampleVi": "Chúng tôi cho động cơ mới chạy ngầm trước.",
+    "example": "A dark launch lets us test the new engine without showing it to users.",
+    "exampleVi": "Một lần triển khai chạy ngầm cho phép chúng tôi kiểm tra bộ máy xử lý mới mà chưa hiển thị cho người dùng.",
     "forms": [
       {
         "word": "dark launches",

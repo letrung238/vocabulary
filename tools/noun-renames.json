@@ -9,11 +9,39 @@
     "exampleVi": "Một vi khuẩn quá nhỏ để có thể nhìn thấy nếu không có kính hiển vi.",
     "plural": {
       "word": "bacteria",
-      "types": ["plural"],
+      "types": [
+        "plural"
+      ],
       "ipa": "/bækˈtɪəriə/",
       "example": "Wash your hands to remove harmful bacteria.",
       "exampleVi": "Hãy rửa tay để loại bỏ vi khuẩn có hại."
     },
     "source": "https://dictionary.cambridge.org/us/dictionary/english/bacterium"
+  },
+  {
+    "word": "criterion",
+    "renameFrom": "criteria",
+    "pos": "noun",
+    "meaningVi": "các tiêu chí",
+    "lemmaMeaningVi": "tiêu chí",
+    "ipa": "/kraɪˈtɪəriən/",
+    "example": "Price is only one criterion when choosing a supplier.",
+    "exampleVi": "Giá chỉ là một tiêu chí khi chọn nhà cung cấp.",
+    "plural": {
+      "word": "criteria",
+      "types": [
+        "plural"
+      ],
+      "ipa": "/kraɪˈtɪə.ri.ə/",
+      "example": "Applicants are ranked against five published criteria.",
+      "exampleVi": "Ứng viên được xếp hạng theo năm tiêu chí đã công bố."
+    },
+    "sourceSynonyms": [
+      "standards"
+    ],
+    "lemmaSynonyms": [
+      "standard"
+    ],
+    "source": "https://dictionary.cambridge.org/dictionary/english/criteria"
   }
 ]

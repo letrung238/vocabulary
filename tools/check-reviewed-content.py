@@ -60,8 +60,8 @@ def main():
     assert refuse['ipa'] == '/rɪˈfjuːz/' and refuse['senses'][0]['ipa'] == '/ˈref.juːs/'
     assert len(read('decks/it-advanced.json')) == 151
     patches = read('learning/content-corrections.json')
-    assert len(patches) == 225
-    assert sum(p['file'] == 'decks/professional-reading-1000.json' for p in patches) == 20
+    assert len(patches) == 440
+    assert sum(p['file'] == 'decks/professional-reading-1000.json' for p in patches) == 231
     for patch in patches:
         word = by_file[patch['file']][patch['word']]
         expected = {k: word.get(k, '') for k in ['pos', 'meaningVi', 'example', 'exampleVi', 'ipa']}

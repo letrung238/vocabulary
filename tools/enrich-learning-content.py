@@ -65,6 +65,8 @@ audit|Students may audit the course without earning credit.|Sinh viên có thể
 narrow|We need to narrow the search to three candidates.|Chúng ta cần thu hẹp việc tìm kiếm còn ba ứng viên.'''
 
 def main():
+    from everyday_extension import apply as apply_extension
+    apply_extension()
     catalog_order = {path: {entry['url']: i for i, entry in enumerate(json.loads(path.read_text(encoding='utf-8'))['files'])}
                      for path in [ROOT/'catalog.json']}
     subprocess.run([sys.executable, str(ROOT / 'tools/build-b2-daily-work.py')], check=True)

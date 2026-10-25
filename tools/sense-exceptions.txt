@@ -2,6 +2,7 @@
 a/b test
 abnormal
 abruptly
+abstain
 abstraction layer
 abundant
 abuse monitoring
@@ -12,6 +13,7 @@ acceptance testing
 access control
 accidentally
 accomplish
+account
 accountable
 accountant
 accounting estimate
@@ -33,13 +35,16 @@ activation function
 active noise cancellation
 actively
 actual
+adapter
 adaptive sync
+add
 addiction
 additional
 additionally
 address resolution
 adequate
 adequately
+adhesive
 adjacent
 adjusting entry
 administrate
@@ -53,19 +58,29 @@ advisor
 affection
 affectionate
 affordable
+afraid
+aftershock
 afterwards
 agent workflow
 aggregate root
+agree
 agriculture
 aircraft
 airline
+airport terminal
+aisle seat
+alarm clock
 albeit
 alert fatigue
 alert suppression
 alert threshold
 algorithm
+allergic
+allergy
 alleviate
 allocate
+almond
+aloof
 alternatively
 amaze
 ambient occlusion
@@ -74,44 +89,66 @@ ambiguous
 ambition
 ambitious
 ambulance
+amount
 amplifier
 analysis
 analyst
 analytical
+anchovy
 ancient
 angel investor
+angry
 anisotropic filtering
+ankle
 anniversary
 annotation
 announcement
 annoy
+annual leave
 annual recurring revenue
 annual report
 annually
 anomaly
 anonymity
 anonymize
+antelope
 antenna array
 anti corruption layer
 anti reflective coating
 antitrust investigation
 antitrust lawsuit
 anxiety
+apathetic
 api gateway
 apologize
 append
+apple
 applicant
+application form
 application layer
 appoint
+apprehensive
 apprenticeship
+approachable
 appropriately
 approximately
+apricot
+apron
 arbitrage
 architectural decision record
+ardent
+arm
+armpit
+arrival hall
+arrival time
+arrive
+artichoke
 artifact registry
 artificial intelligence
 artificially
 ashamed
+ashtray
+asparagus
 aspect ratio
 aspiration
 aspire
@@ -122,6 +159,7 @@ asset allocation
 asset turnover
 assistance
 astonishing
+astute
 asymmetric encryption
 asynchronous
 asynchronous execution
@@ -135,11 +173,14 @@ attain
 attainment
 attendance
 attention mechanism
+attentive
+attic
 attribute based access control
 audio compression
 audit committee
 audit trail
 auditing
+aunt
 authentic
 authenticated encryption
 authentication
@@ -150,38 +191,81 @@ automation
 autoregressive model
 autoscaling
 availability zone
+avalanche
 average frame rate
+avocado
 avoid
 await
 aware
+baby
 backend
 backlight bleed
+backpack
 backpacking
 backpressure
 backpropagation
 backward compatibility
 backward compatible
 backyard
+bacon
 bacterium
+bad
+badger
+baggage allowance
+baggage carousel
+baggage claim
+baggy
+bakery
+baking tray
 balance sheet
 balanced diet
+balcony
 ballet
+banana
+bandage
 bandwidth allocation
 bandwidth constraint
 bandwidth heavy
+banister
 bank reconciliation
+bank transfer
 banker
+banknote
+barbecue
+barber
+barcode
 barely
 base clock
 basement
+bashful
 basically
+basil
+basin
+baste
 batch processing
 batch size
+bath mat
+bathrobe
+bathroom
+battery
 battery capacity
 battery degradation
 battery endurance
 beamforming technology
+bean
+beaver
+beckon
+become
+bedroom
+bedsheet
+bedside table
+bedspread
+beef
+belch
+believe
 belongings
+belt
+bench
 benchmark contamination
 benchmark index
 benchmark score
@@ -190,24 +274,50 @@ beneficial
 berry
 best practice
 beta release
+bin
 biodiversity
+bison
 bizarre
+blackberry
+blanch
 blast radius
+blazer
+bleach
+blender
 blind evaluation
+blister
 block storage
+blood
+blouse
 blue-green deployment
+blueberry
 bluetooth codec
+blunt
+boar
 board committee
 board of directors
 board resolution
+boarding pass
+boarding time
+bobcat
+bog
 boilerplate code
+bolster
+bone
+bookcase
 booklet
 boost clock
+boot
 booth
 bootloader
+bored
+bottle opener
 bottleneck resource
 boundary value analysis
 bounded context
+bra
+bracelet
+braise
 branch coverage
 branch misprediction
 branch prediction
@@ -216,23 +326,48 @@ brand equity
 brand identity
 brand loyalty
 brand positioning
+brand-new
+brave
 bravery
+bread
 breadwinner
 break even
 break even point
+breaker
+breakfast
 breaking change
 breakout room
 breath
 bribery
+bring
+brisket
+brittle
 broadcaster
+broccoli
 brochure
+broil
+brook
+broom
+broth
+brother
+brother-in-law
+bucket
 budget airline
 budget cut
+buffalo
 buffer overflow
+build
 build artifact
 build pipeline
 build reproducibility
+bulb
+bunk
 burglary
+burp
+bus fare
+bus route
+bus station
+bus stop
 business case
 business continuity
 business divestiture
@@ -243,20 +378,32 @@ business plan
 business process
 business strategy
 business transformation
+business trip
+busy
 busy waiting
+butter
+buy
 buyer persona
 buyout
+cabbage
 cache hit
 cache hit ratio
 cache invalidation
 cache line
 cache miss
+calm
 calmly
 calorie
 camera sensor
+can opener
 canary release
+cancellation
 cancellation token
+candid
 candidate
+canister
+cantaloupe
+canyon
 capability
 capable
 capacity forecast
@@ -266,9 +413,25 @@ capacity utilization
 capital gains tax
 capital punishment
 capital structure
+capsule
+car rental
+caramelize
+card reader
+cardigan
 cardinality
+care
+care of
+career change
+career path
+carefree
+careful
 caregiver
+careless
+carp
 carpool
+carrot
+carry
+carry-on
 cash balance
 cash basis accounting
 cash conversion cycle
@@ -279,15 +442,25 @@ cash forecast
 cash management
 cash pooling
 cash ratio
+cash register
 cash reserve
 cash runway
+cashew
+cashier
+casserole
+catch
 catchy
 category
+cauliflower
 cautious
 cease
+celery
+cellar
 cellular modem
+cement
 censorship
 central
+cereal
 certificate
 certificate authority
 certificate chain
@@ -310,36 +483,71 @@ channel width
 chaos engineering
 chaotic
 characterize
+charger
 charging cycle
 charging wattage
+cheap
+check-in counter
+checked
+checked baggage
+checkout
 checkpointing
+checkup
+cheeky
 cheerful
+cheese
+cheetah
+chestnut
+child
 chimney
+chin
 chip interconnect
 chip packaging
 chiplet
 chiplet design
+chipmunk
+chisel
+choke
+choose
+chopstick
+cilantro
+cinnamon
 circle back
 circumstance
 citizen
+clam
+clamp
 class action
 class imbalance
 classification
 classify
+classmate
 clean architecture
+clementine
+clever
 cliff
 clinical trial
 clock speed
 closing balance
 closing entry
+clothes hanger
 clothing
 cloud computing
 cloud region
+cloudy
+clove
 cluster autoscaler
+clutter
+cluttered
+coach station
 coaching
 coastal
+coaster
 coastline
+coax
+cobweb
 cocoa
+cod
 code coverage
 code of conduct
 code review
@@ -347,15 +555,20 @@ code smell
 coding benchmark
 coeducation
 coherence
+coin
+colander
+collaborate
 collateralization
 colleague
 color accuracy
 color calibration
 color depth
 color gamut
+colt
 columnar database
 columnar storage
 combinatorial testing
+comical
 command query separation
 commence
 commerce
@@ -385,6 +598,7 @@ composer
 composite index
 composite key
 composition root
+compost
 composting
 comprehension
 comprise
@@ -404,9 +618,12 @@ confirmation
 conflict of interest
 confusing
 confusion matrix
+connect
+connecting flight
 connection pool
 connection timeout
 conscience
+conscientious
 consciously
 consecutive
 consent form
@@ -414,15 +631,19 @@ consequent
 consequently
 considerable
 considerably
+considerate
+consist
 consistent hashing
 consistently
 consolation
 constantly
+constipation
 constrain
 constructive
 consultant
 consulting
 consumer protection
+contactless payment
 container cluster
 container image
 container orchestration
@@ -448,6 +669,7 @@ control flow graph
 controversial
 controversy
 convenience food
+convenience store
 convenient
 conveniently
 conversely
@@ -455,13 +677,19 @@ conversion rate
 convince
 convinced
 convincing
+cooking oil
 cooling fan
 cooperate
 cooperative scheduling
 cope
 copyright infringement
+cord
 core competency
 core count
+coriander
+cork
+corkscrew
+corn
 corporal
 corporate disclosure
 corporate governance
@@ -480,50 +708,84 @@ cost of debt
 cost of equity
 cost of living
 cost-effective
+cot
 cottage
+cotton
+cougar
+count
 counting semaphore
 county
+coupon
 courage
+courtyard
+cousin
+cove
+cover letter
 coverage gap
 covering index
+cowardly
+crab
 craftsmanship
+crafty
+cramped
+cranberry
+cranky
 creativity
+creek
 creepy
+crib
 crime rate
 crisis
-criteria
 criterion
 critical path
 critical section
 criticize
+crockery
 cron
 cross attention
 cross platform support
 cross selling
 cross validation
 cross-site scripting
+crosswalk
+crowbar
 crucial
+crumb
 cryptographic hash
+crystallize
+cucumber
+cuddle
 cuisine
 culminate
 cultural exchange
 culturally
 culture shock
+cumin
+cunning
+cupboard
+currency exchange
 currency exposure
 current ratio
 currently
 curriculum
+curtain
 curved
+customer
 customer acquisition cost
 customer lifetime value
+customer service
+customs officer
 cutlery
 cutover
+cutting board
 cybersecurity
 cycle lane
 cycle time
 cyclist
 cyclomatic complexity
+dam
 dangling pointer
+dark
 dark launch
 darkness
 data
@@ -552,30 +814,46 @@ database
 database schema
 database trigger
 database view
+daughter
+daughter-in-law
 daytime
 dead letter queue
+deadbolt
 deadline
 debounce
 debt to equity ratio
+deceitful
 deceive
 deceptive
+decide
 decorative
 deduce
+deep
 deep learning
+deer
 default route
 defective
 defense in depth
+defiant
 definitely
 deforestation
+defrost
 delete
 delighted
 delisting
+delivery fee
+delta
 denim
 denormalize
 denote
 dense model
+dent
 dental
 department
+department store
+departure gate
+departure lounge
+departure time
 depend
 dependable
 dependency chain
@@ -599,6 +877,7 @@ desertification
 deserve
 design pattern
 despite
+dessert
 destiny
 destroy
 destruction
@@ -606,14 +885,20 @@ destructive
 detailed
 detect
 detector
+detergent
 deteriorate
 deterrence
+detour
 developer preview
 deviate
+devious
 devoted
+diarrhea
+dice
 die size
 die stacking
 differ
+different
 diffusion model
 digestion
 digital
@@ -624,22 +909,37 @@ digital zoom
 digitise
 dignity
 dilemma
+diligent
+dill
+dining room
+dinner
 diploma
+diplomatic
+direct flight
 direct memory access
+dirt
+dirty
 dirty read
 disability
 disagreement
 disappearance
 disappoint
+disappointed
 disapproval
 disaster recovery
 disclose
+discount code
 discounted cash flow
 discovery
 discreet
 discrete
 discrete graphics
 discuss
+dishcloth
+dishwasher
+disinfectant
+disloyal
+dismissal
 display connector
 display panel
 display resolution
@@ -655,20 +955,42 @@ diversity
 divestiture
 dividend payout ratio
 dividend yield
+dizziness
 document chunking
 document database
 domain driven design
 domain name system
+donkey
+doorbell
+doorknob
+doormat
+doorstep
 doorway
+dosage
 double entry bookkeeping
 double taxation
 downwards
+drawer
+dream
+dress
+dresser
+dressing gown
+dribble
+drill
+driveway
+drizzle
+drool
+dry cleaner
 dry run
 dual
 dual channel memory
+dune
 duplication
 durable
 duration
+dust
+dustbin
+duvet
 dwindle
 dynamic dispatch
 dynamic random access memory
@@ -676,11 +998,17 @@ dynamic routing
 eager
 eager loading
 eagerly
+ear
+early
 early access
 earnings call
 earnings guidance
 earnings per share
 earnings report
+earring
+easygoing
+eat
+eccentric
 economical
 economist
 ecosystem
@@ -691,26 +1019,35 @@ edit
 editing
 educate
 educator
+eel
 effectiveness
 efficiency core
 efficient
 efficiently
+egg
+eggplant
 elastic scaling
 elbow
 electrical
 electrician
 electronic
 electronic image stabilization
+elephant
 elevator pitch
+elk
 elsewhere
+embankment
 embarrass
 embassy
 embedded system
+emergency room
 emotion
 emphasize
 empirical
 employee
 employer
+employment contract
+employment history
 emulator
 encoder decoder
 encrypt
@@ -724,6 +1061,7 @@ endangered
 endeavor
 endlessly
 endpoint protection
+energetic
 enforce
 enforcement
 engineering
@@ -739,6 +1077,7 @@ entity
 entity relationship
 entrepreneur
 entry level model
+entry-level job
 envelope
 ephemeral storage
 equality
@@ -750,6 +1089,7 @@ error budget
 error correcting memory
 escrow
 essentially
+estuary
 ethical concern
 ethnic
 ethnic minority
@@ -765,23 +1105,28 @@ everlasting
 evidence-based
 evident
 evidently
+ewe
 ex dividend date
 exactly-once
 exaggerate
 exceed
 excellence
 exception handling
+excess baggage
 excessive
 exchange rate risk
 exchange traded fund
+excited
 excitement
 exclusively
 executive director
 existing
 exit strategy
 expected return
+expense claim
 expense ratio
 expense recognition
+expensive
 experienced
 expert routing
 expertise
@@ -789,18 +1134,30 @@ explicitly
 exponential backoff
 exporter
 extended family
+extension cord
 external audit
 extremely
+eye
+eyebrow
+eyelash
+eyelid
 factual accuracy
 failover
+faithful
 false refusal
 fame
 familiar
+family
+farmland
 fascinate
 fascinated
 fascinating
 fascination
+fashionable
 fast charging
+father
+father-in-law
+faucet
 fault injection
 feasible
 feature branch
@@ -812,27 +1169,52 @@ federal
 fee
 feed forward network
 feedback loop
+feel
+fence
+fennel
+ferment
+ferry terminal
 fictional
 fiduciary duty
+fig
+figure out
+filly
+filthy
 financial
 financial literacy
 financially
 fine tuning
+finger
+fingernail
 fireplace
 firmware
+first aid kit
 fiscal year
+fitting room
 flagship device
 flaky test
 flash controller
 flash memory
+flashlight
+flask
 flexibility
+flexible hours
+flight attendant
+flinch
+flour
 flow
 fluctuate
 fluctuation
+foal
+foggy
+foil
 foldable display
 folklore
+follow up
 food security
+foothill
 forbid
+forehead
 foreign exchange
 foreign key
 formal
@@ -841,18 +1223,26 @@ forthcoming
 fortunate
 forward compatibility
 forward proxy
+foster parent
 foundation model
 founded
 founder agreement
+fragile
 frame generation
 frame pacing
 frame rate
 frame time
+frank
 free cash flow
+freezer
 frequency band
 frequently
+friend
+friendly
 friendly takeover
+frown
 frustrated
+fryer
 fuel efficiency
 full table scan
 fullstack
@@ -865,11 +1255,18 @@ funding
 funding gap
 funding round
 furthermore
+fuse
 fuzz testing
 gambling
 gaming benchmark
+garage
+garbage
 gardener
+garlic
 garment
+garnish
+gas station
+gazelle
 general availability
 general ledger
 generalization ability
@@ -880,40 +1277,87 @@ generosity
 genetics
 genre
 genuinely
+gerbil
+gift card
 gifted
+ginger
+giraffe
 glacier
 global illumination
 globalisation
 glossy finish
+glove
+glue
+glum
 go-live
+goat
+goblet
 going concern
+good
+gooseberry
 gorgeous
 gossip protocol
+gourd
 governance
 graceful degradation
 graceful shutdown
 gradient descent
 gradually
+grandchild
+grandfather
+grandmother
+grandparent
+grape
+grapefruit
 graph database
 graphics
 graphics driver
 graphics pipeline
+grate
 grateful
+grater
 gratitude
+gravel
+gravy
+great-grandfather
+great-grandmother
 greatly
 greeting
+grinder
+grocery store
 gross margin
 gross profit
 grounded response
+grout
+grove
 growth strategy
+grumpy
+guava
+guest
 guided tour
 guideline
+gulf
+gutter
 habitat
+haddock
+hairdresser
+half-brother
+half-sister
+halibut
+hallway
 halt
+ham
+hammock
+hamster
 handover note
+handrail
+happen
+happy
 hard disk drive
 hardware revision
 hardware security module
+hardworking
+hare
 harm
 harmful
 harmful output
@@ -921,15 +1365,29 @@ harmless
 hash collision
 hashing
 hastily
+hasty
+hat
 hazardous
+hazelnut
+headboard
 headcount
 headquarters
+headstrong
 health probe
 healthcare
+healthy
+hear
+heart
+heath
+heavy
 hedge fund
+hedgehog
 hedging strategy
 helmet
+helpful
+hem
 herb
+herring
 hesitate
 hesitation
 heterogeneous computing
@@ -940,28 +1398,44 @@ high dynamic range
 higher order function
 highway
 hilarious
+hillside
+hinge
 hinge mechanism
+hippopotamus
 hiring freeze
 hobby
+hold
 home-cooked
 homestay
 honest
 honesty
+honey
+honeydew
+hoodie
+hope
 horizontal scaling
+hose
 hostile takeover
+hot
 hot partition
 hotfix
 hotpath
 household chore
+housework
 human evaluation
 human in the loop
 human oversight
 humane
 humorous
+hungry
+husband
 hybrid cloud
+hybrid work
 hyperparameter tuning
 hypervisor
 hypothesis
+iceberg
+idealistic
 idempotency key
 idempotent
 identical
@@ -979,7 +1453,9 @@ image scanning
 image signal processor
 image signing
 image tag
+imaginative
 imitation
+immaculate
 immigrant
 immigrate
 immigration
@@ -992,6 +1468,8 @@ improperly
 improve
 improvement
 impulse buying
+impulsive
+in stock
 in-house
 incentive
 incident commander
@@ -1013,6 +1491,7 @@ indirect
 indirectly
 individually
 industrial
+industrious
 industry analysis
 inevitably
 inexperienced
@@ -1027,12 +1506,15 @@ informal
 infrastructure
 infrastructure as a service
 infrastructure as code
+ingenious
+inhaler
 inherent
 inhibit
 init container
 initial public offering
 initially
 injury
+inlet
 innovate
 innovation
 innovative
@@ -1058,6 +1540,7 @@ instruction tuning
 instructions per cycle
 instructor
 insufficient
+insulation
 intact
 integrated
 integrated graphics
@@ -1074,6 +1557,7 @@ interaction
 interactive
 interconnect fabric
 interest coverage ratio
+interested
 interface segregation
 internal audit
 internal control
@@ -1087,43 +1571,83 @@ intrusion
 intrusion detection
 intrusion prevention
 invariably
+inventive
 inventory turnover
 inversion of control
 investigate
 investment horizon
 investor
 invisible
+ironing board
+irritable
 isolation level
 iterate
 iteration
 itinerary
+jacket
+jaguar
 jailbreak attempt
+jar
+jeans
 jet lag
+jeweler
+job application
+job board
+job description
+job interview
+job offer
+job opening
+job seeker
+job vacancy
 joint venture
 jointly
 journal entry
 journalism
+jug
+junction
+jungle
+kale
+kelp
+ketchup
+kettle
 key derivation
 key exchange
 key management
 key rotation
+keyhole
+kidney
 kill switch
+kiwi
+knead
+knee
 knowingly
 knowledge base
 known
+kumquat
 lack
+ladle
+lagoon
+lamb
 lambda expression
+landslide
 language modeling
+lantern
 large language model
 last level cache
+latch
+late
 lately
+laugh
 launch event
+laundromat
+laundry basket
 law enforcement
 lawn
 lawsuit
 lawyer
 layered architecture
 layover
+lazy
 lazy evaluation
 lazy loading
 lead generation
@@ -1132,27 +1656,50 @@ lead scoring
 lead time
 leader election
 lean management
+learn
 least privilege
+leather
+leek
+left luggage
+leg
 legally
+leggings
 legislate
 leisure time
+lemon
 lengthy
+lentil
+leopard
 lessons learned
+lethargic
+lettuce
+levee
 leveraged buyout
 lid
+light bulb
+lighter
 likewise
+lime
+linen
 linting
+lion
+lip
 liquidation
 liquidity buffer
+listen
 listener
 litre
 liveness probe
+liver
+living room
 load balancer
 load test
 load testing
+lobster
 local dimming
 lock contention
 lock granularity
+loft
 log aggregation
 log correlation
 log level
@@ -1160,6 +1707,7 @@ logical
 logically
 logo
 loneliness
+lonely
 long context performance
 long-term
 long-term support
@@ -1167,49 +1715,76 @@ loop in
 loss function
 lossless audio
 lossy compression
+lost property
 loyal
 loyalty
+loyalty card
+ludicrous
+luggage
+lunch
 lung
 luxurious
+lynx
+macadamia
 machine learning
 machinery
+mackerel
 magnificent
 magnitude
+mailbox
+mallet
 malnutrition
 malware
 managed service
 management
 management buyout
+mandarin
 mandatory
+mango
 manufacturer
 manufacturing
+mare
+marinade
 market capitalization
 market entry strategy
 market penetration
 market segmentation
 market share
 marketing
+marsh
+mash
 mass layoff
 mass transit
 massive
 master data management
 masterpiece
+match
 matching
 matching principle
 material misstatement
 materialized view
 mathematical reasoning
 matte finish
+mattress
 maximise
 maximum
 maximum turbo power
+mayonnaise
+meadow
+meager
 meaningful
 meanwhile
 measurement
 measurement variance
+measuring cup
+measuring spoon
 mechanic
 mechanistic interpretability
+meet
+meeting minutes
+meeting room
 melody
+melon
 memo
 memoization
 memorable
@@ -1246,16 +1821,25 @@ method overriding
 metric collection
 microphone
 microservice
+middle seat
 middleware
 midrange device
+mildew
+milk
+mincer
+mindful
 minify
 minimum viable product
 ministry
+mischievous
 misfortune
 misinformation
 misleading
 misuse prevention
 mitigate
+mitt
+mixer
+mixing bowl
 mixture of experts
 mobile broadband
 mobile chipset
@@ -1277,35 +1861,58 @@ momentary
 monolithic die
 monopoly power
 monthly recurring revenue
+moor
+moose
+mop
 morale
 morally
 moreover
+mother
+mother-in-law
 motivated
 motorcycle
+mouth
+mudslide
+mug
+mulberry
+mulch
+mule
 multi chip module
 multi cloud
 multi head attention
 multi thread performance
 multicultural
 multimodal model
+muscle
+mussel
+mustard
 mutation testing
 mutex
+mutton
 mutual
 mutual exclusion
 mutual fund
 mutually
 mysterious
 n+1 query
+nail
 name resolution
+napkin
 native resolution
 natural key
+naughty
+nausea
 near field communication
 neatly
 necessarily
+neck
+necklace
 needle in a haystack
 negatively
 negotiate
 negotiation
+neighbor
+nephew
 net debt
 net margin
 net profit
@@ -1320,11 +1927,18 @@ network topology
 neural processing unit
 nevertheless
 newly
+niece
 node affinity
+noisy
 noisy neighbour
 nomination committee
+nonchalant
 nonetheless
 nonexecutive director
+nonstop flight
+nose
+nostril
+notice period
 novelist
 nowadays
 nuclear family
@@ -1334,22 +1948,30 @@ numeracy
 numerical
 numerous
 nursing home
+nutmeg
 nutrition
 obesity
 obfuscate
 object storage
 observability
+observant
 obsolescence
 obsolete
 obstacle
+obstinate
 obtain
 obvious
 obviously
 occasional
 occasionally
 occupational
+octopus
 offender
 offshoring
+ointment
+okra
+olive oil
+omelet
 on call rotation
 on track
 on-call
@@ -1357,7 +1979,9 @@ on-premise
 onboarding
 onboarding doc
 onboarding flow
+one-way ticket
 ongoing
+onion
 open closed principle
 opening balance
 opera
@@ -1377,19 +2001,27 @@ optimistic locking
 optimize
 option pool
 optional
+orchard
 orchestra
+orderly
 ordinary
+oregano
 organizational
 organizational change
 organizer
+orientation session
 origin server
 originality
 originally
+otter
+ottoman
 out of distribution
 out of office
 out of order execution
+out of stock
 outage
 outcome
+outgoing
 outing
 outnumber
 outpatient
@@ -1398,17 +2030,24 @@ outrageous
 outsider
 outsource
 outsourcing
+outspoken
 outstanding share
+oven mitt
 over provisioning
 overclocking
 overcrowding
 overfishing
 overfitting
+overhead bin
 overhead cost
 overly
+overpriced
+overtime pay
 overtourism
 ownership structure
+ox
 oxygen
+oyster
 ozone
 package registry
 package tour
@@ -1416,15 +2055,31 @@ packet capture
 packet inspection
 packet loss
 packet switching
+paddock
+padlock
+paid leave
+painkiller
+paintbrush
 pair programming
 pairwise comparison
+pajamas
+palate
+panther
+pantry
+papaya
+paprika
 paradox
 parallel execution
 parallel run
 parameter count
+parchment
+parent
 parenting
 parking
+parking lot
+parking meter
 parse
+parsley
 partially
 participant
 participate
@@ -1432,72 +2087,125 @@ participation
 particularly
 partly
 pass rate
+passenger
+passport control
 password
 password hashing
+pasta
+pasteurize
 pastor
+pasture
 path tracing
+patio
 pattern matching
 pavement
+pay rise
 payable turnover
 payment
+payment terminal
+payslip
+pea
 peak brightness
 peak power
 peak season
+peanut
+peanut butter
+pear
+pebble
+pecan
+peculiar
 pedagogy
+pedestrian crossing
 pedestrianise
+peeler
 penetration test
 penetration testing
 percent
 percentage
 percentile
+perceptive
 perceptron
 performance bottleneck
 performance core
 performance fee
 performance per watt
 performance profiling
+performance review
 performance scaling
 performance uplift
 permanently
+permission
 persistent volume
 persuade
 pertinent
+pessimistic
 pessimistic locking
 pesticide
 pharmacist
+pharmacy
 phishing
 physical fitness
 physician
+piglet
+pillowcase
+pineapple
 pipeline review
 pipeline stage
+pistachio
 pitch deck
+pitcher
 pivot table
 pixel density
 pixel shader
+placemat
 plagiarism
 planning
+plantation
+plaster
 platform as a service
+platter
+playful
+plentiful
+pliers
 plumber
+plywood
+poach
+pocket
 pod affinity
 pod scheduling
 polite
 politically
 pollutant
+pomegranate
+pond
+pony
 popularity
 porch
+porcupine
+pork
+porridge
 portable
 portfolio diversification
 portfolio rebalancing
 positional encoding
 post incident review
 post money valuation
+postage
 postal
+postbox
+postcode
 postpone
+potato
 potentially
+poultry
+pout
 power consumption
 power delivery
 power efficiency
+power strip
 practitioner
+prairie
+prawn
 pre money valuation
 precede
 precise
@@ -1511,6 +2219,7 @@ prefer
 preferably
 preference optimization
 premium tier
+prepare
 prestigious
 presumably
 prevention
@@ -1520,18 +2229,22 @@ previously
 price cut
 price earnings ratio
 price hike
+price match
+price tag
 pricing strategy
 primarily
 primary key
 principally
 principle
 priority inversion
+pristine
 private cloud
 private equity
 private key
 private placement
 privilege escalation
 probability
+probation period
 process automation
 process improvement
 process mapping
@@ -1552,15 +2265,18 @@ profitability
 prohibit
 prompt engineering
 prompt injection
+prong
 proof of concept
 properly
 property-based testing
 prospective
 prosper
 protein
+proud
 proudly
 proven
 provenance tracking
+provide
 provision access
 provisional
 provisioned
@@ -1569,6 +2285,8 @@ provoke
 proximity
 proxy server
 proxy vote
+prudent
+prune
 psychological
 psychologist
 psychology
@@ -1578,7 +2296,10 @@ public preview
 public transport
 publicly
 publish-subscribe
+puddle
 pull request
+pulp
+pumpkin
 punish
 punishment
 purchaser
@@ -1586,6 +2307,7 @@ purchasing
 purchasing power
 pure function
 purely
+put off
 qualitative
 quality assurance
 quality control
@@ -1601,46 +2323,74 @@ questionnaire
 queue depth
 queue up
 quick ratio
+quiet
+quilt
+quince
+quirky
+quiver
 quota exhaustion
+rabbit
+raccoon
 race condition
+radiator
 radically
+radish
 rainbow
+raincoat
+rainforest
+rainy
+raisin
+rake
 random access memory
 random read
 random write
 randomly
 rapidly
 rarely
+raspberry
 rasterization pipeline
 ratio
 rationale
+ravine
 ray reconstruction
 ray tracing
+razor
+read
 read replica
 readability
 reader writer lock
 readiness probe
+ready
 real time operating system
 real world performance
 reality
 reasoning capability
 reasoning trace
+rebellious
 recall score
 recapitalization
+receipt
+receipt printer
 receivable turnover
+receive
+reckless
 recollection
 recommend
 record date
 recruiting
+recruitment agency
 rectangular
 recursion
 red teaming
 refactor
+refer
 reference counting
+reference letter
 referential integrity
 referential transparency
 reforestation
 refresh rate
+refrigerate
 refugee
 refusal
 refusal behavior
@@ -1650,6 +2400,8 @@ regression testing
 regularization
 regulatory compliance
 regulatory scrutiny
+reimbursement
+reindeer
 reinforcement learning
 related party transaction
 relational database
@@ -1669,9 +2421,12 @@ remarkably
 remediate
 remind
 reminder
+remote control
+remote work
 remuneration committee
 rendering engine
 rendering resolution
+rental car
 repair program
 repairability score
 repeatedly
@@ -1696,12 +2451,15 @@ resource limit
 resource planning
 resource quota
 resource utilization
+resourceful
 respectfully
 respective
 respectively
 responsible deployment
+restless
 restrict
 restriction
+result
 retailer
 retention rate
 retrieval augmented generation
@@ -1712,6 +2470,8 @@ return on assets
 return on equity
 return on invested capital
 return on investment
+return policy
+return ticket
 revenue
 revenue growth
 revenue guidance
@@ -1721,9 +2481,13 @@ reverse charging
 reverse proxy
 reverse stock split
 revoke
+rhinoceros
 ride-hailing
+ride-sharing
 rightly
 rigorous
+rind
+rinse
 risk adjusted return
 risk appetite
 risk tolerance
@@ -1731,28 +2495,45 @@ risky
 rivalry
 road safety
 robotics
+robust
 role based access control
 role model
 rollback plan
+roller
+rolling pin
 rolling update
 rollout percentage
 rollout plan
+roommate
+roomy
 root cause
 root cause analysis
 root cause investigation
+rosemary
 rota
 rotary position embedding
 rote
+round trip
+roundabout
 routing table
+rubbish
+rude
 rug
+run out of
 runbook
 runbook entry
+runny nose
 rural
 rush hour
+rust
+sad
 safely
 safety
 safety evaluation
 safety guardrail
+saffron
+salad
+salami
 salary
 sales forecast
 sales funnel
@@ -1760,14 +2541,25 @@ sales pipeline
 sales quota
 salted hash
 sample size
+sandal
+sandbar
+sandpaper
+sandwich
+sardine
 satellite connectivity
 satisfactory
 satisfied
+saucepan
+saucer
+sausage
 scalability
 scalable
 scale out
 scale up
+scallion
+scallop
 scarce
+scarf
 scenario planning
 scheduled
 schema evolution
@@ -1775,15 +2567,23 @@ schema migration
 scientific method
 scope creep
 scope out
+scowl
 screen burn in
 screen share
 screen tearing
+scrubber
+sear
 search
+seashore
 seasonal produce
+seat belt
+seaweed
 secondary offering
+secondhand
 secure enclave
 securitization
 security baseline
+security checkpoint
 security control
 security incident
 security patch
@@ -1792,15 +2592,19 @@ security policy
 security posture
 security update
 seed funding
+seem
 seldom
 self attention
 self-driving
+sell
 seller
 semantic search
 semantic versioning
 semiconductor fabrication
+send
 sensible
 sensor size
+sentimental
 separately
 separation of concerns
 sequential read
@@ -1822,20 +2626,44 @@ sexy
 shader
 shader core
 shadow traffic
+shampoo
 share buyback
 share capital
 shared cache
 shareholder
 shareholder agreement
 shareholder meeting
+sheep
+shelf
+shipping fee
+shirt
+shiver
 shocked
 shocking
+shoe
+shoelace
+shop assistant
+shopping basket
+shopping cart
 short-term
 shortage
+shorts
+shoulder
+shovel
+shred
+shrewd
+shrug
+shudder
 shutdown hook
+shutter
+shy
+sick
+sick leave
 side channel attack
 sidecar container
 sidewalk
+sieve
+sigh
 sightseeing
 signal attenuation
 signal interference
@@ -1843,8 +2671,10 @@ signal strength
 signal to noise ratio
 signify
 silicon wafer
+silverware
 similar
 similarly
+simmer
 simplification
 simplify
 simultaneous
@@ -1854,33 +2684,72 @@ sincere
 sincerity
 single responsibility principle
 single thread performance
+sink
+sister
+sister-in-law
+skewer
 skilled
+skillet
+skirt
+skunk
+skylight
+sleepy
+sleeve
 slightly
+slipper
 slogan
+sluggish
+sly
 smartphone
+smile
+smirk
 smoke testing
+smooth
 smuggling
+snack
 snapshot isolation
 snapshot testing
+sneaker
+sneeze
+sniff
+snowy
+snug
 so-called
 soak testing
 soaked
+soap
+sob
+sociable
 socially
+sock
+soft
+softener
 software architecture
 software as a service
 software bill of materials
 software feature
 software update policy
 solar
+sold out
 solely
 solid state drive
 solve
 somewhat
+son
+son-in-law
+sore throat
+soup
 source control
 souvenir
+soy sauce
+soybean
 space exploration
+spacious
+spade
+sparse
 sparse activation
 spatial upscaling
+spatula
 specially
 specifically
 specification
@@ -1889,18 +2758,35 @@ spectator
 speculative execution
 speech recognition
 speech synthesis
+speed limit
 spelling
+spinach
+splinter
 split-brain
 spokesperson
+sponge
 sponsorship
 sportsmanship
 spot instance
+spotless
+spout
+sprain
 spreadsheet
+sprinkle
+sprinkler
+squid
+squirrel
 stack overflow
 stack unwinding
 stacktrace
+staff meeting
+staff room
+stair
+staircase
+stairway
 stakeholder
 stale data
+stallion
 stamina
 standard operating procedure
 startup accelerator
@@ -1913,7 +2799,17 @@ static routing
 statistic
 statistical
 status update
+stay
+steadfast
 steadily
+steamer
+stem
+stepbrother
+stepfather
+stepladder
+stepmother
+stepsister
+sterilize
 stiffness
 stimulate
 stimulation
@@ -1921,26 +2817,36 @@ stock dividend
 stock exchange
 stock index
 stock split
+stocking
+stomachache
+stopper
 storage capacity
 storage controller
 storage firmware
 storage interface
+store credit
 stored procedure
+storeroom
+strainer
+stranger
 strategic alignment
 strategic initiative
 strategic objective
 strategic partnership
 strategic planning
 strategy
+strawberry
 stream processing
 street food
 stress testing
 strict
 stringent
+striped
 strive
 strong consistency
 structured concurrency
 structured logging
+sturdy
 subnet mask
 subscription fee
 subscription tier
@@ -1949,13 +2855,18 @@ subsequently
 subsidiary ledger
 subsidy
 suburb
+subway station
 suddenly
 suffer
 sufficient
 sufficiently
 suitable
 suitably
+suitcase
 summarize
+summit
+sunglasses
+sunny
 superb
 supersede
 superstition
@@ -1963,6 +2874,8 @@ supervise
 supervised learning
 supervision
 supervisor
+supper
+supple
 supplier
 suppose
 supposedly
@@ -1976,7 +2889,14 @@ surroundings
 sustainability
 sustainable
 sustained performance
+swamp
+sway
+sweater
+sweatpants
+sweatshirt
+swelling
 swiftly
+swimsuit
 syllabus
 symbolic
 symmetric encryption
@@ -1989,14 +2909,23 @@ system in package
 system on a chip
 system testing
 systematic
+t-shirt
 table scan
+tablecloth
+tablespoon
+tactful
 tail latency
 tail recursion
+tailor
 takeover bid
 takt time
 tale
 talented
+talk
+tall
+tangerine
 target audience
+taro
 task cancellation
 tax audit
 tax base
@@ -2007,10 +2936,18 @@ tax residency
 tax return
 tax treaty
 taxable income
+taxi rank
+tea towel
+teach
+team meeting
 team spirit
+teammate
+teapot
+teaspoon
 technical debt
 technique
 technological
+teenager
 telemetry
 temporal upscaling
 temporarily
@@ -2028,6 +2965,7 @@ test time compute
 text watermarking
 texture filtering
 texture mapping
+thaw
 therapist
 therapy
 thereby
@@ -2035,7 +2973,11 @@ thermal design power
 thermal headroom
 thermal throttling
 thermometer
+thermos
+thermostat
+thicket
 thigh
+thirsty
 thorough
 thread count
 thread pool
@@ -2052,31 +2994,69 @@ throughput ceiling
 throughput limit
 throughput rate
 thundering herd
+thyme
+ticket barrier
+ticket inspector
+ticket machine
+ticket office
+tiger
+tight
+tights
+tile
+timber
+time off
 time series database
 time to live
+time zone
 timely
+timetable
+timid
+tired
+to-do list
+toaster
+toddler
+toe
+toenail
+tofu
 token rotation
 tokenizer
+toll road
+tomato
+tongs
 tool calling
 tool use accuracy
+tooth
+toothache
+toothbrush
+toothpaste
+toothpick
 topic
 total return
 totally
+tourist
 tourist attraction
+towel
 trace sampling
 tracking error
+tracksuit
 trade union
 trade-off
 trader
 trading
 tradition
 traditionally
+traffic jam
+traffic light
 traffic shaping
 trafficking
+train fare
+train station
 trainee
 training data privacy
 training dataset
+training session
 trait
+tram stop
 transaction exposure
 transaction isolation
 transfer learning
@@ -2089,14 +3069,30 @@ translation
 translation exposure
 translator
 transport layer
+trash bag
+trash can
+travel adapter
 travel insurance
 tray
+treacherous
+tremble
+tremor
 trial balance
+tributary
 tropical
+trousers
+trout
 truancy
+truffle
 trunk based development
+trustworthy
+truthful
+tumbler
 turbo frequency
+turmeric
+turnip
 turnkey
+twitch
 two-factor
 two-phase commit
 type inference
@@ -2105,15 +3101,21 @@ typical
 typically
 ultimately
 ultra wideband
+umbrella
 unacceptable
 unanimous
 unauthorized
 unavailable
 unaware
 unchanged
+uncle
+unconventional
 underfitting
 undergo
+undershirt
+understand
 undervolting
+underwear
 undoubtedly
 unemployed
 unemployment
@@ -2130,8 +3132,10 @@ unite
 unlikely
 unofficial
 unpaid
+unpaid leave
 unprecedented
 unrealistic
+unruly
 unsatisfactory
 unsuccessful
 unsuitable
@@ -2142,6 +3146,7 @@ unusually
 unwilling
 unwise
 up selling
+upbeat
 upbringing
 uptime
 uptime monitoring
@@ -2156,10 +3161,15 @@ utilise
 utilization
 utilize
 utterly
+vaccination
 vaccine
+vacuum
+vacuum bag
+vacuum cleaner
 vague
 validation
 validation dataset
+valley
 valuation multiple
 value added tax
 value object
@@ -2168,10 +3178,13 @@ value stream mapping
 vandalism
 variable refresh rate
 varied
+varnish
 vast
+veal
 vector clock
 vector database
 vendor
+venison
 venture capital
 verbose
 verify
@@ -2179,14 +3192,19 @@ version compatibility
 versioning
 vertex shader
 vertical scaling
+vest
 vesting schedule
 via
 vibration
 victory
+video call
 video memory
 viewing angle
 viewport
+vigilant
 vigorously
+vinegar
+vineyard
 violate
 virtual machine
 virtual network
@@ -2194,37 +3212,63 @@ virtual private network
 visible
 visibly
 vision language model
+visitor
 visually
 vitamin
+vivacious
 vocational
 voltage regulator
 volume mount
 voluntarily
 voluntary
 volunteerism
+vote
 voting right
 vulnerability assessment
 wafer yield
 waist
+waistcoat
+waiting room
+wallet
+wallpaper
+walnut
+want
+warm
 warming
 warn
+wary
+washer
+washing machine
 water resistance rating
+watercress
+waterfall
+watermelon
 wealthy
 wear leveling
 webhook
+wedge
 weighted average cost of capital
 weird
 wellbeing
+wet
+wetland
 wheat
+wheelbarrow
 whereas
 whereby
 wherever
+whirlpool
 whistleblower protection
+wholesaler
+wide
 widespread
+wife
 wildlife
 willing
 willingly
 win rate
+window seat
+windy
 wireless access point
 wireless charging
 wireless network
@@ -2233,7 +3277,13 @@ wireless standard
 wisdom
 withholding tax
 witty
+wobble
+wok
+woodland
+wool
+work experience
 work instruction
+work shift
 work stealing
 workaround
 workflow
@@ -2244,11 +3294,26 @@ working capital
 workload
 workload balance
 workplace
+worry
 worthy
+wrench
 wrist
+write
 write amplification
 write amplification factor
 write endurance
 write-ahead log
+wrong
+yak
+yam
+yawn
+yeast
+yogurt
+young
+zealous
+zebra
 zero trust
 zero-day
+zest
+zipper
+zucchini

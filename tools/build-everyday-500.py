@@ -97,7 +97,8 @@ def build():
         w=by_word[word]
         w.setdefault('senses',[]).append(dict(pos=pos,ipa=ipa or w['ipa'],meaningVi=meaning,example=example,exampleVi=translation))
     assert len(deck)==len(by_word)==500
-    return deck
+    from everyday_extension import build as extension
+    return deck + extension()
 
 VERBS="""
 do|does|doing|did|done
@@ -196,15 +197,21 @@ def update_table(path,new_rows):
     if path.read_text(encoding='utf-8')!=value: path.write_text(value,encoding='utf-8')
 
 if __name__=='__main__':
+    from everyday_extension import apply as apply_extension, noun_rows as extension_nouns
+    apply_extension()
     if not IPA_FILE.exists(): freeze_ipa()
     data=build()
     for path in [ROOT/'decks'/DECK]: write(path,data)
     update_table(ROOT/'tools/verb-forms.tsv',[line.split('|') for line in VERBS.strip().splitlines()])
     write(ROOT/'tools/everyday-500-plural-ipa.json',{base:dict(word=plural(base),ipa=values[0]) for base,values in PLURAL_IPA.items()})
     nouns=[]
+    new_nouns=extension_nouns()
     for w in data:
         if not any(s['pos']=='noun' for s in [w]+w.get('senses',[])): continue
-        word=w['word']; status='mass' if word in MASS else 'lexical_plural' if word in LEXICAL_PLURAL else 'invariant' if word in INVARIANT else 'countable'
+        word=w['word']
+        if word in new_nouns:
+            nouns.append(new_nouns[word]); continue
+        status='mass' if word in MASS else 'lexical_plural' if word in LEXICAL_PLURAL else 'invariant' if word in INVARIANT else 'countable'
         nouns.append([word,status,str(len(word.split())-1),word if status=='invariant' else plural(word) if status=='countable' else ''])
     update_table(ROOT/'tools/noun-forms.tsv',nouns)
     pairs=[dict(word=w['word'],sourceGroup='everyday-500',**{k:s[k] for k in ('pos','meaningVi','example','exampleVi')}) for w in data for s in [w]+w.get('senses',[])]
@@ -214,9 +221,10 @@ if __name__=='__main__':
         'curated-reviewed-examples.json','curated-basic-20-examples.json','curated-basic-120-examples.json','curated-everyday-500-examples.json','curated-prepositions-examples.json']
     write(ROOT/'learning/sense-examples.json',sum((read(ROOT/'tools'/name) for name in curated),[]))
     for path in [ROOT/'catalog.json']:
-        catalog=read(path); catalog['files']=[f for f in catalog['files'] if f['url']!='decks/'+DECK]
-        catalog['files'].insert(3,dict(title='Đời sống · 500 từ bổ sung',count=500,url='decks/'+DECK,
-            description='500 từ/cụm trong 10 nhóm đã duyệt. IPA, ví dụ Anh–Việt theo nghĩa, dạng chia và đồng nghĩa phù hợp; có sẵn offline trên Windows/Android.'))
+        catalog=read(path)
+        entry=next(f for f in catalog['files'] if f['url']=='decks/'+DECK)
+        entry.update(title='Đời sống · 1.000 từ',count=1000,
+            description='1.000 từ gốc với 1.083 ngữ cảnh Anh–Việt, IPA, dạng chia và đồng nghĩa phù hợp; có sẵn offline trên Windows/Android.')
         write(path,catalog)
     forms=runpy.run_path(str(ROOT/'tools/build-word-forms.py'))
     payload=forms['build_payload'](); forms['write'](forms['PAYLOAD'],payload)
@@ -235,4 +243,4 @@ if __name__=='__main__':
     write(target,sorted([r for r in read(target) if r['file']!='decks/'+DECK]+repairs,key=lambda r:(r['file'],r['word'])))
     for path in ['learning/everyday-corrections.json']:
         write(ROOT/path,repairs)
-    print(f'PASS: built 500 approved roots and {len(pairs)} bilingual contexts, offline IPA and reviewed forms.')
+    print(f'PASS: built 1000 approved roots (500 new) and {len(pairs)} bilingual contexts, offline IPA and reviewed forms.')

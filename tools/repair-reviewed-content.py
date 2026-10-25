@@ -284,6 +284,25 @@ warm-up|noun|bài khởi động trước khi vận động hoặc thi đấu|Th
         if not any(s['pos'] == pos and s['meaningVi'] == meaning for s in w.get('senses', [])):
             edit(IT, word, senses=w.get('senses', []) + [new])
 
+    # Semantic/structure review, 2026-10-25. Keep the noun entry and illustrate it
+    # with a noun phrase; the financial use of mature is an intransitive verb.
+    mature_senses = copy.deepcopy(entry(SEED, 'mature')['senses'])
+    next(s for s in mature_senses if s['meaningVi'] == 'đáo hạn (trái phiếu, khoản vay)')['pos'] = 'verb'
+    edit(SEED, 'mature', senses=mature_senses)
+    edit(IT, 'dark launch', example='A dark launch lets us test the new engine without showing it to users.',
+         exampleVi='Một lần triển khai chạy ngầm cho phép chúng tôi kiểm tra bộ máy xử lý mới mà chưa hiển thị cho người dùng.')
+    task1 = 'decks/ielts-task1.json'
+    criterion = entry('decks/b2-daily-work-500.json', 'criterion')
+    edit('decks/b2-daily-work-500.json', 'criterion', tags=list(dict.fromkeys(criterion['tags'] + ['awl', 'education'])))
+    edit(task1, 'double', synonyms=['increase twofold'])
+    edit(task1, 'quadruple', synonyms=['increase fourfold'])
+    synonym_records = read('learning/synonyms.json')
+    synonym_records = [r for r in synonym_records if r['word'] != 'criteria']
+    for record in synonym_records:
+        if record['word'] in {'double', 'quadruple'} and record['pos'] == 'verb':
+            record.update(synonyms=entry(task1, record['word'])['synonyms'], reason='', source='gpt-edited')
+    write('learning/synonyms.json', synonym_records)
+
     # Build exact before/after records once; preserve the historical preimage on later runs.
     previous = {(r['file'], r['word']): r for r in existing_manifest}
     manifest = []
@@ -300,10 +319,14 @@ warm-up|noun|bài khởi động trước khi vận động hoặc thi đấu|Th
             old_senses = [content(s) for s in old.get('senses', [])]
         new_main = content(new)
         new_senses = [content(s) for s in new.get('senses', [])]
-        if old_main == new_main and old_senses == new_senses:
+        before_synonyms = historical.get('beforeSynonyms', old.get('synonyms', [])) if historical else old.get('synonyms', [])
+        after_synonyms = new.get('synonyms', [])
+        if old_main == new_main and old_senses == new_senses and before_synonyms == after_synonyms:
             continue
         record = dict(file=file, word=word, reason=reason, before=old_main, after=new_main,
                       beforeSenses=old_senses, afterSenses=new_senses)
+        if before_synonyms != after_synonyms:
+            record.update(beforeSynonyms=before_synonyms, afterSynonyms=after_synonyms)
         manifest.append(record)
         # Retain authored records only if their sense still exists; migrate exact identities.
         for a, b in [(old_main, new_main)]:
@@ -327,6 +350,18 @@ warm-up|noun|bài khởi động trước khi vận động hoặc thi đấu|Th
     for file, data in decks.items():
         write(file, data)
     write('learning/content-corrections.json', manifest)
+
+    # Meaning progress follows the corrected part of speech without losing history.
+    import hashlib
+    def sense_id(s):
+        parts = [' '.join(s[k].lower().split()) for k in ['pos', 'meaningVi']]
+        return 'sense:' + hashlib.sha256('\n'.join(parts).encode()).hexdigest()[:16]
+    patch = next(p for p in manifest if p['word'] == 'mature' and p['file'] == SEED)
+    before = next(s for s in patch['beforeSenses'] if s['meaningVi'] == 'đáo hạn (trái phiếu, khoản vay)')
+    after = next(s for s in patch['afterSenses'] if s['meaningVi'] == before['meaningVi'])
+    aliases = [a for a in read('learning/sense-identity-aliases.json') if a['word'] != 'mature']
+    aliases.append(dict(word='mature', before=sense_id(before), after=sense_id(after)))
+    write('learning/sense-identity-aliases.json', aliases)
 
     # Reconcile curation sources so the enrichment tool cannot restore reviewed errors.
     canonical = {identity(w['word'], s): s for data in decks.values() for w in tree_entries(data) for s in [w] + w.get('senses', [])}
@@ -372,9 +407,9 @@ warm-up|noun|bài khởi động trước khi vận động hoặc thi đấu|Th
             catalog['files'].append(dict(title='IT chuyên sâu', description='151 thuật ngữ chuyên sâu với ví dụ Anh–Việt và nghĩa khác khi có.', url=IT, count=len(decks[IT])))
         write(file, catalog)
     # Only real single-sense terms remain exceptions, now including the formerly omitted IT deck.
-    missing = sorted({w['word'].lower() for file,data in decks.items()
-        if Path(file).name not in {'basic-20.json','basic-120.json','everyday-500.json','prepositions.json'}
-        for w in data if not w.get('senses')})
+    multiple = {w['word'].lower() for data in decks.values() for w in data if w.get('senses')}
+    missing = sorted({w['word'].lower() for data in decks.values()
+        for w in data if not w.get('senses')} - multiple)
     exception_text = '# Reviewed exceptions without an independently authored secondary sense; never invent or repeat meanings.\n' + '\n'.join(missing) + '\n'
     (ROOT / 'tools/sense-exceptions.txt').write_text(exception_text, encoding='utf-8')
     print(f'{len(manifest)} reviewed word corrections; {len(extra)} additional authored contexts; '

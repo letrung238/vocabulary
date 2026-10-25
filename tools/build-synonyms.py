@@ -59,7 +59,7 @@ def local_build():
     words = entries(include_basic=False)
     identity_hash = hashlib.sha256(json.dumps([key(w) for w in words],
         ensure_ascii=False, separators=(',', ':')).encode('utf-8')).hexdigest()
-    assert identity_hash == '6ff2aff191ed63bef85ea0b19cb47c0192eec8fac91993d74c3086818268a413', \
+    assert identity_hash == 'e775a4707768973c014599233b43f2795e55aae06dc37d0bf738007ab1454323', \
         'Canonical identities changed; re-index and review GPT editing before rebuilding'
     covered, alternatives = set(), {}
     for line in EDITED.read_text(encoding='utf-8').splitlines():

@@ -28,7 +28,7 @@ def main():
     for path in files:
         words = json.loads(path.read_text(encoding='utf-8'))
         if path.name == 'ielts-academic.json':
-            assert len(words) == 318
+            assert len(words) == 317
             assert sum(len(w.get('senses', [])) for w in words) == 241
         if path.name == 'b2-1000.json':
             assert len(words) == 1000
@@ -63,7 +63,7 @@ def main():
     assert len(read('tools/curated-daily-work-498-examples.json')) == 818
     assert len(read('tools/curated-basic-20-examples.json')) == 32
     assert len(read('tools/curated-basic-120-examples.json')) == 150
-    assert len(read('tools/curated-everyday-500-examples.json')) == 583
+    assert len(read('tools/curated-everyday-500-examples.json')) == 1083
     assert complete == total == 3244, 'Canonical secondary-context coverage changed'
     print('B2: 1000/1000 main meanings and 1226/1226 secondary meanings have bilingual examples.')
     print('B2 daily/work: 500/500 main meanings and 331/331 secondary meanings have bilingual examples; 236 reviewed exceptions.')

@@ -50,6 +50,9 @@ def main():
         variants = frames[frame_key]
         offset = (group_counts[section] % 2) * 2
         en, vi = variants[offset:offset + 2]
+        # A frame must work for singular count nouns as well as abstract terms.
+        if pos == 'noun':
+            en = re.sub(r'(?<!the )\{word\}', 'the {word}', en, flags=re.I)
         example = en.format(word=word)
         translation = vi.format(meaning=meaning)
         if word in explicit:
@@ -99,6 +102,8 @@ def main():
             aliases.append(dict(word=original['word'], before=before_id, after=after_id))
     assert len(aliases) == 3 and len({a['after'] for a in aliases}) == 3
     assert not {a['after'] for a in aliases} & {a['before'] for a in aliases}
+    professional_words = set(by_word)
+    aliases += [a for a in read('learning/sense-identity-aliases.json') if a['word'] not in professional_words]
     write('learning/sense-identity-aliases.json', aliases)
     for file in ['catalog.json']:
         catalog = read(file)

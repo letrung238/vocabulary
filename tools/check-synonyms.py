@@ -19,7 +19,7 @@ key = builder.key
 def main():
     rows = read(builder.CURATED)
     lookup = {key(r): r for r in rows}
-    assert len(rows) == len(lookup) == 6178
+    assert len(rows) == len(lookup) == 6677
     assert set(lookup) == {key(w) for w in builder.entries()}
     assert read(builder.PAYLOAD) == rows
     for row in rows:
@@ -45,6 +45,23 @@ def main():
             baseline = data
         else:
             baseline = head_records(path, ROOT)
+            # Rebase historical comparisons through explicitly reviewed edits.
+            # The semantic checker separately constrains the exact changed fields.
+            current = {w['word']: w for w in data}
+            patches = {r['word']: r for r in read(ROOT/'learning/content-corrections.json') if r['file']==relative}
+            if path.name == 'ielts-academic.json':
+                baseline = [w for w in baseline if w['word']!='criteria']
+            for old in baseline:
+                name=old['word']
+                if name in patches:
+                    for field in ['pos','meaningVi','ipa','example','exampleVi','senses']:
+                        if field in current[name]:old[field]=current[name][field]
+                        else:old.pop(field,None)
+                    if patches[name].get('afterSynonyms') is not None:
+                        old['synonyms']=patches[name]['afterSynonyms']
+                if name in {'mature','criterion'}:
+                    old['forms']=current[name]['forms']
+                if name=='criterion':old['tags']=current[name]['tags']
         # Root lexical fields/order remain unchanged; child ownership is checked separately.
         stripped = lambda entries: [{k: v for k, v in w.items() if k not in {'synonyms','phrases'}} for w in entries]
         assert stripped(data) == stripped(baseline), f'Vocabulary content/count changed: {relative}'
@@ -52,7 +69,7 @@ def main():
         for w in tree_entries(data): assert w['synonyms'] == lookup[key(w)]['synonyms']
         for old, new in zip(baseline, data):
             if old.get('synonyms'): assert old['synonyms'] == new['synonyms'], 'Existing editorial list replaced'
-    assert len(all_words) == 6169
-    print(f'PASS: 6169 lexical items including nested phrases / 6178 exact primary meanings; {sum(bool(r["synonyms"]) for r in rows)} lists; existing vocabulary preserved; public source identities match.')
+    assert len(all_words) == 6668
+    print(f'PASS: 6668 lexical items including nested phrases / 6677 exact primary meanings; {sum(bool(r["synonyms"]) for r in rows)} lists; existing vocabulary preserved; public source identities match.')
 
 if __name__ == '__main__': main()

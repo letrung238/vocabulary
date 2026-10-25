@@ -64,9 +64,11 @@ def main():
     assert len(missing_before) == 61 and missing_before <= supplement.keys()
     aliases = read('learning/sense-identity-aliases.json')
     patches = read('learning/content-corrections.json')
-    assert len(aliases) == 3
+    assert len(aliases) == 4
     for alias in aliases:
         p = next(p for p in patches if p['word'] == alias['word'])
+        if alias['word'] == 'mature':
+            p = dict(before=p['beforeSenses'][0],after=p['afterSenses'][0])
         def sense_id(s):
             normalized = lambda text: ' '.join(text.lower().split())
             return 'sense:' + hashlib.sha256((normalized(s['pos']) + '\n' + normalized(s['meaningVi'])).encode()).hexdigest()[:16]

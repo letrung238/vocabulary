@@ -71,7 +71,7 @@ def refresh(root=ROOT):
 
     entries = [
         dict(title='IELTS · Học thuật (Academic Word List)',
-             description='318 từ học thuật lõi (Coxhead AWL). Giữ nguyên nội dung và nhãn awl của bộ cũ.',
+             description='317 từ học thuật lõi (Coxhead AWL). Dạng criteria nằm trong criterion, có nhãn awl ở bộ B2 đời sống/công việc.',
              url='decks/ielts-academic.json', count=len(academic)),
         dict(title='IELTS · Writing Task 1', description='Động từ xu hướng, mức độ, so sánh — dùng để mô tả biểu đồ.',
              url='decks/ielts-task1.json', count=len(task1)),

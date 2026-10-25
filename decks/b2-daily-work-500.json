@@ -635,7 +635,9 @@
     "tags": [
       "b2",
       "b2-daily-work",
-      "work"
+      "work",
+      "awl",
+      "education"
     ],
     "forms": [
       {
@@ -643,7 +645,9 @@
         "types": [
           "plural"
         ],
-        "ipa": "/kraɪˈtɪəriə/"
+        "ipa": "/kraɪˈtɪə.ri.ə/",
+        "example": "Applicants are ranked against five published criteria.",
+        "exampleVi": "Ứng viên được xếp hạng theo năm tiêu chí đã công bố."
       }
     ],
     "synonyms": [

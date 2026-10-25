@@ -45,10 +45,10 @@
       "description": "120 từ/cụm mới trong 6 nhóm: động từ, đồ dùng, thực phẩm, quần áo, cơ thể và đi lại. IPA, ví dụ Anh–Việt, dạng chia và đồng nghĩa phù hợp; có sẵn offline trên Windows/Android."
     },
     {
-      "title": "Đời sống · 500 từ bổ sung",
-      "count": 500,
+      "title": "Đời sống · 1.000 từ",
+      "count": 1000,
       "url": "decks/everyday-500.json",
-      "description": "500 từ/cụm trong 10 nhóm đã duyệt. IPA, ví dụ Anh–Việt theo nghĩa, dạng chia và đồng nghĩa phù hợp; có sẵn offline trên Windows/Android."
+      "description": "1.000 từ gốc, gồm hai đợt 500 từ không trùng kho trước đó. 1.083 ngữ cảnh Anh–Việt, IPA, dạng chia và đồng nghĩa theo nghĩa. Có sẵn offline trên Windows/Android; nhập lại giữ tiến độ và nội dung cá nhân."
     },
     {
       "title": "B2 · 1.000 từ mới",
@@ -58,9 +58,9 @@
     },
     {
       "title": "IELTS · Học thuật (Academic Word List)",
-      "description": "318 từ học thuật lõi (Coxhead AWL). Giữ nguyên nội dung và nhãn awl của bộ cũ.",
+      "description": "317 từ học thuật lõi (Coxhead AWL). Dạng criteria nằm trong criterion, có nhãn awl ở bộ B2 đời sống/công việc.",
       "url": "decks/ielts-academic.json",
-      "count": 318
+      "count": 317
     },
     {
       "title": "IELTS · Writing Task 1",
